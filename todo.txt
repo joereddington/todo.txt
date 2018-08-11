@@ -1,0 +1,81 @@
+(C) Add a regular event to the template to get the extra tasks
+(C) put monitors into the loft 
+(D) Show Kat crazy five year plan @Kat
+(E) @brainstorm on show don't tell for social media 
+(E) Backup your camera memory card to external hard drive 
+(E) Check Desktop Tracker is working
+(E) Check Voicemail
+(E) Check that everything in the 'in process' box really does have a task
+(E) Check the 'to put in Evernote' folder and add to database 
+(E) Check the bike 'go bag'
+(E) Do full accounts algorithm
+(E) Do full accounts algorithm 
+(E) Do full accounts algorithm 
+(E) Dropoff lamps at Family choice.  @outside
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table 
+(E) Floss 
+(E) Floss 
+(E) Floss 
+(E) Floss 
+(E) Floss 
+(E) Floss 
+(E) Floss 
+(E) Give laptop screen a good clean, fingerprints are bad 
+(E) Go thought phone screen shots for tasks
+(E) Go through notebook (and iphone reminders) for tasks
+(E) Go through the shared reminder list with @Kat
+(E) Lace up running shoes 
+(E) Listen to  Randy Pausch Talk 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
+(E) Open and log progress on the bid status document
+(E) Open list of projects to be funded 
+(E) Pay in royalty cheque  @outside
+(E) Phone Kings HR change address 
+(E) Pick an article from Evernote drafts and put it online
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
+(E) Put everything 'lying around' at home into the big chest for later sorting
+(E) Redo delores to match the new way 
+(E) Reduce the amount of space laptop is using
+(E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
+(E) Review your highlights and notes from Kindle books 
+(E) Rewrite personal statement to include honesty 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
+(E) Setup startcapture as a login item 
+(E) Sprint moving over to todo.txt format 
+(E) Sprint on this: https://github.com/joereddington/Jarvis/issues/102 
+(E) Swimming and climbing gear should be in the car
+(E) Trim nose hair 
+(E) Trim nose hair 
+(E) Update Symptoms and Moods file
+(E) Use Face strip
+(E) Use Face strip 
+(E) Use Face strip 
+(E) Video call Laurence 
+(E) Work out which new laptop you want 
+(E) Write a letter to Nova
+(E) more work on family @brainstorm @Kat
+(E) pick the next BJJ club to go to 
+(E) pick the next evening to do to from the luton clubs list 
+(F) Write (and backup) the functions for structuring the todo list 
+x (C) Ring amazon about invoices
+x 2018-08-10 20 minutes @brainstorm and Full commit to 'eat what kat eats but with keto hot choc'  pri:E
+x 2018-08-10 @Brainstorm on recording time better.  pri:E
+x 2018-08-10 Add the Windows OVF video to OVF website https://www.youtube.com/watch?reload=9&v=NMEamPEvabU&feature=youtu.be pri:D
+x 2018-08-10 Backup Dreamhost  pri:E
+x 2018-08-10 Cancel Laura email account pri:B
+x 2018-08-10 Find out about morgages pri:B
+x 2018-08-10 Fix gate. due:2018-08-09 @home pri:C
+x 2018-08-10 Floss  pri:E
+x 2018-08-10 Make a list of prep you can do before WWW away day  pri:C
+x 2018-08-10 Post accountability for phone to facebook pri:C
+x 2018-08-10 Put up the subtitle blog you were sent @live pri:D
+x 2018-08-10 Put up wall clock @Kat pri:D
+x 2018-08-10 Ring RCSLT and find out what happened @phone pri:D
+x 2018-08-10 Ring the Charity Commission on 0300 066 9197 registering the role @phone pri:A
+x 2018-08-10 Setup Good Dinosaur for 5pm.  pri:C
+x 2018-08-10 Work out the comic structure for the day, in full.  pri:A
+x 2018-08-10 write 5x5 requirement here: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/OpenVoiceFactory-Requirements @live due:2018-08-12 pri:C
+
