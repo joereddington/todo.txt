@@ -1,3 +1,9 @@
+(A) 1. Check Calendar @singleton
+(A) 2. Clear crate @singleton
+(A) 3. Process Reminders and brainstorms. @singleton
+(B) 1. Plan food and exercise @singleton
+(C) 1. Process Email @singleton
+(C) 2. Do Comic @singleton
 (C) Add a regular event to the template to get the extra tasks
 (C) put monitors into the loft 
 (D) Show Kat crazy five year plan @Kat
@@ -13,7 +19,9 @@
 (E) Do full accounts algorithm 
 (E) Dropoff lamps at Family choice.  @outside
 (E) Fill out fear/passion table
+(E) Fill out fear/passion table
 (E) Fill out fear/passion table 
+(E) Floss
 (E) Floss 
 (E) Floss 
 (E) Floss 
@@ -78,4 +86,3 @@ x 2018-08-10 Ring the Charity Commission on 0300 066 9197 registering the role @
 x 2018-08-10 Setup Good Dinosaur for 5pm.  pri:C
 x 2018-08-10 Work out the comic structure for the day, in full.  pri:A
 x 2018-08-10 write 5x5 requirement here: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/OpenVoiceFactory-Requirements @live due:2018-08-12 pri:C
-
