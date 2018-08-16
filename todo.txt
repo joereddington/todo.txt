@@ -1,26 +1,49 @@
-(A) 1. Check Calendar @singleton
 (A) 2. Clear crate @singleton
 (A) 3. Process Reminders and brainstorms. @singleton
+(A) reply richard - I've only got two expenses waiting to pay
 (B) 1. Plan food and exercise @singleton
+(B) contact myscoiety about a consultant
 (C) 1. Process Email @singleton
 (C) 2. Do Comic @singleton
 (C) Add a regular event to the template to get the extra tasks
+(C) Ask on facebook about exit interviews.
 (C) put monitors into the loft 
+(C) we are still paying bank charges for natwest- clear out the account
 (D) Show Kat crazy five year plan @Kat
 (E) @brainstorm on show don't tell for social media 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Ask for testimonal from completed fundings
+(E) Backup Dreamhost
+(E) Backup the nice things book
 (E) Backup your camera memory card to external hard drive 
 (E) Check Desktop Tracker is working
+(E) Check Desktop Tracker is working
 (E) Check Voicemail
+(E) Check Voicemail
+(E) Check if there are any moonpig cards to send this month
+(E) Check ranking scripts
 (E) Check that everything in the 'in process' box really does have a task
+(E) Check that everything in the 'in process' box really does have a task
+(E) Check the 'to put in Evernote' folder and add to database
 (E) Check the 'to put in Evernote' folder and add to database 
 (E) Check the bike 'go bag'
+(E) Check the bike 'go bag'
+(E) Check the firebreak in: whatsapp
+(E) Check £40 in Wallet
+(E) Do full accounts algorithm
 (E) Do full accounts algorithm
 (E) Do full accounts algorithm 
 (E) Do full accounts algorithm 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
+(E) Download the amazon months sales figures
 (E) Dropoff lamps at Family choice.  @outside
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table
 (E) Fill out fear/passion table 
+(E) Floss
 (E) Floss
 (E) Floss 
 (E) Floss 
@@ -29,45 +52,90 @@
 (E) Floss 
 (E) Floss 
 (E) Floss 
+(E) Give laptop screen a good clean
 (E) Give laptop screen a good clean, fingerprints are bad 
+(E) Go though documents folder and put everything you want to save in dropbox.
+(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+(E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go through notebook (and iphone reminders) for tasks
+(E) Go through notebook (and iphone reminders) for tasks
 (E) Go through the shared reminder list with @Kat
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have
+(E) If back on sugar then start sugar project
 (E) Lace up running shoes 
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
+(E) Listen to  Randy Pausch Talk
 (E) Listen to  Randy Pausch Talk 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply
+(E) Make sure the only things on 'Reminders' are adendas for lists coming up
+(E) Make workstation spotless
 (E) Open and log progress on the bid status document
+(E) Open and log progress on the bid status document
+(E) Open list of projects to be funded
 (E) Open list of projects to be funded 
 (E) Pay in royalty cheque  @outside
 (E) Phone Kings HR change address 
 (E) Pick an article from Evernote drafts and put it online
+(E) Pick an article from Evernote drafts and put it online
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Put everything 'lying around' at home into the big chest for later sorting
 (E) Put everything 'lying around' at home into the big chest for later sorting
 (E) Redo delores to match the new way 
 (E) Reduce the amount of space laptop is using
 (E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
+(E) Review (days since) app counts
+(E) Review facebook theory of change
+(E) Review starred items in feeds
+(E) Review your highlights and notes from Kindle books
 (E) Review your highlights and notes from Kindle books 
 (E) Rewrite personal statement to include honesty 
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+(E) Search for funding for eQuality Time Projects
+(E) Send Trustees something nice about outcomes
 (E) Setup startcapture as a login item 
+(E) Spend 20 minutes or so considering the fruits of long term goals
 (E) Sprint moving over to todo.txt format 
 (E) Sprint on this: https://github.com/joereddington/Jarvis/issues/102 
 (E) Swimming and climbing gear should be in the car
+(E) Swimming and climbing gear should be in the car
+(E) TSE
+(E) Thank you cards in bag with pen
 (E) Trim nose hair 
 (E) Trim nose hair 
 (E) Update Symptoms and Moods file
+(E) Update Symptoms and Moods file
+(E) Upload food photos to facebook
+(E) Upload fun  photos to facebook
+(E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip 
 (E) Use Face strip 
 (E) Video call Laurence 
+(E) Work out the last time you changed your mind (and can you blog about it)
 (E) Work out which new laptop you want 
+(E) Write a letter to Nova
 (E) Write a letter to Nova
 (E) more work on family @brainstorm @Kat
 (E) pick the next BJJ club to go to 
 (E) pick the next evening to do to from the luton clubs list 
 (F) Write (and backup) the functions for structuring the todo list 
+2018-08-15
+2018-08-16
+change joereddington blog to point at the live todo list. 
 x (C) Ring amazon about invoices
 x 2018-08-10 20 minutes @brainstorm and Full commit to 'eat what kat eats but with keto hot choc'  pri:E
 x 2018-08-10 @Brainstorm on recording time better.  pri:E
