@@ -2,9 +2,8 @@ x (A) 2. Clear crate @singleton
 (A) 3. Process Reminders and brainstorms. @singleton
 (A) Get boxes for posting the communication boards
 (A) Buy sweets for care homes 
-(A) get posters printed
+(A) get posters and letters printed
 (B) Spend a full day on javascript
-(A) Look at the communication board and send it over.
 (A) tell treasurer about new cash book
 (C) Sort all the 'to sort' spending in the right categories in the expenditure against grant file. 
 (C) put in checking sums into expenditure against grant so we can tell if something is missing.
