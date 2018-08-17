@@ -1,5 +1,6 @@
 x (A) 2. Clear crate @singleton
 (A) 3. Process Reminders and brainstorms. @singleton
+(B) Spend a full day on javascript
 (A) Look at the communication board and send it over. 
 (B) 1. Plan food and exercise @singleton
 (B) Process the brainstorms from www away day
