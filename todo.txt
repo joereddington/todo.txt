@@ -1,25 +1,29 @@
+x (A) 1. Check Calendar @singleton
 x (A) 2. Clear crate @singleton
 (A) 3. Process Reminders and brainstorms. @singleton
-(A) Get boxes for posting the communication boards
-(A) Buy sweets for care homes 
-(A) get posters and letters printed
-(B) Spend a full day on javascript
-(A) tell treasurer about new cash book
-(C) Sort all the 'to sort' spending in the right categories in the expenditure against grant file. 
-(C) put in checking sums into expenditure against grant so we can tell if something is missing.
-(D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program
-(A) send new cashbook to accountant before meeting. 
 (B) 1. Plan food and exercise @singleton
+(C) 1. Process Email @singleton
+(C) 2. Do Comic @singleton
+(A) Apply for gift aid number 
+(A) Get boxes for posting the communication boards @outside
+(A) Send SS the UTR for equality time
+(A) get posters and letters printed
 (B) Process the brainstorms from www away day
+(B) Spend a full day on javascript
 (B) contact myscoiety about a consultant
-(C) Add a regular event to the template to get the extra tasks
 (C) Ask on facebook about exit interviews.
+(C) Sort all the 'to sort' spending in the right categories in the expenditure against grant file. 
+(C) feedback to aideen about report
 (C) pay cheque from ISAAC
+(C) put in checking sums into expenditure against grant so we can tell if something is missing.
 (C) put monitors into the loft 
 (C) test the mega drives with new adapter
 (C) watch the mega drive videos
 (C) we are still paying bank charges for natwest- clear out the account
+(D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program
 (D) Show Kat crazy five year plan @Kat
+(D) rewrite the 'work with us' bit of the website so that it is clear how to get to the volenteering bits.
+(D) set up SD card reader in laptop
 (D) watch next camera lecture file 
 (E) @phone 0300 123 23 23 to book blood donation
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
@@ -27,12 +31,25 @@ x (A) 2. Clear crate @singleton
 (E) Backup Dreamhost
 (E) Backup the nice things book
 (E) Backup your camera memory card to external hard drive 
+(E) Check Desktop Tracker is working
+(E) Check Voicemail
 (E) Check if there are any moonpig cards to send this month
-x (E) Check ranking scripts
+(E) Check that everything in the 'in process' box really does have a task
+(E) Check the bike 'go bag'
 (E) Check the firebreak in: whatsapp
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
+(E) Check the next school time
+(E) Confirm plans for next two weekends.
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Cut nails
+(E) Deal with Redline
+(E) Do full accounts algorithm
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
 (E) Download the amazon months sales figures
 (E) Dropoff lamps at Family choice.  @outside
+(E) Empty crate completely
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
@@ -50,19 +67,28 @@ x (E) Check ranking scripts
 (E) Floss 
 (E) Go though documents folder and put everything you want to save in dropbox.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make 
+(E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go through notebook (and iphone reminders) for tasks
 (E) Go through notebook (and iphone reminders) for tasks
+(E) Go through notebook (and iphone reminders) for tasks
+(E) Go through phone and save all of the numbers
 (E) Go through the shared reminder list with @Kat
+(E) Go through the shared reminder list with Heart
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have
 (E) If back on sugar then start sugar project
 (E) Lace up running shoes 
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
 (E) Listen to  Randy Pausch Talk
 (E) Listen to  Randy Pausch Talk 
+(E) Log weight
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply
+(E) Make sure paper crane is in bathroom
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up
+(E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
 (E) Open list of projects to be funded
@@ -70,78 +96,53 @@ x (E) Check ranking scripts
 (E) Pay in royalty cheque  @outside
 (E) Pick an article from Evernote drafts and put it online
 (E) Pick an article from Evernote drafts and put it online
+(E) Pick an article from Evernote drafts and put it online
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Post to Sibling Facebook group
+(E) Post to WWW facebook page
+(E) Process inbox in evernote
+(E) Publicly thank someone
+(E) Put everything 'lying around' at home into the big chest for later sorting
+(E) Put sleep time into calendar
 (E) Reduce the amount of space laptop is using
+(E) Remind Kat to do Nova's menu
 (E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
+(E) Review all projects in github
 (E) Review facebook theory of change
 (E) Review starred items in feeds
+(E) Review yearly goals
 (E) Review your highlights and notes from Kindle books
 (E) Review your highlights and notes from Kindle books 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
 (E) Search for funding for eQuality Time Projects
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Spend 20 minutes or so considering the fruits of long term goals @brainstorm
 (E) Sprint moving over to todo.txt format 
+(E) Swimming and climbing gear should be in the car
+(E) Trim nose hair
+(E) Update Symptoms and Moods file
+(E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip 
+(E) Video call with Kat family
+(E) Wash sheets and towels
 (E) Work out which new laptop you want 
+(E) Write a letter to Nova
 (E) Write a letter to Nova
 (E) fix startCapture
 (E) more work on family @brainstorm @Kat
 (E) pick the next evening to do to from the luton clubs list 
 (F) Write the functions for recording the size of the todo list. 
-x (A) reply richard - I've only got two expenses waiting to pay
-x (C) 1. Process Email @singleton
-x (C) 2. Do Comic @singleton
-x (E) @brainstorm on show don't tell for social media 
-x (E) Check Desktop Tracker is working
-x (E) Check Desktop Tracker is working
-x (E) Check Voicemail
-x (E) Check Voicemail
-x (E) Check that everything in the 'in process' box really does have a task
-x (E) Check that everything in the 'in process' box really does have a task
-x (E) Check the 'to put in Evernote' folder and add to database
-x (E) Check the 'to put in Evernote' folder and add to database 
-x (E) Check the bike 'go bag'
-x (E) Check the bike 'go bag'
-x (E) Check £40 in Wallet
-x (E) Do full accounts algorithm
-x (E) Do full accounts algorithm
-x (E) Do full accounts algorithm 
-x (E) Do full accounts algorithm 
-x (E) Give laptop screen a good clean
-x (E) Give laptop screen a good clean, fingerprints are bad 
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
-x (E) Make workstation spotless
-x (E) Phone Kings HR change address 
-x (E) Put everything 'lying around' at home into the big chest for later sorting
-x (E) Put everything 'lying around' at home into the big chest for later sorting
-x (E) Review (days since) app counts
-x (E) Rewrite personal statement to include honesty 
-x (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again
-x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
-x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
-x (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x (E) Send Trustees something nice about outcomes
-x (E) Sprint on this: https://github.com/joereddington/Jarvis/issues/102 
-x (E) Swimming and climbing gear should be in the car
-x (E) Swimming and climbing gear should be in the car
-x (E) TSE
-x (E) Trim nose hair 
-x (E) Trim nose hair 
-x (E) Update Symptoms and Moods file
-x (E) Update Symptoms and Moods file
-x (E) Upload food photos to facebook
-x (E) Upload fun  photos to facebook
-x (E) Video call Laurence 
-x (E) Work out the last time you changed your mind (and can you blog about it)
-x (E) Write a letter to Nova
-x (E) pick the next BJJ club to go to 
