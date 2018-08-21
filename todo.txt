@@ -2,6 +2,7 @@
 x (B) contact myscoiety about a consultant
 (C) 1. Process Email @singleton
 (C) 2. Do Comic @singleton
+(E) copy macvim setting over to joseph-public
 (C) Ask on facebook about exit interviews.
 (C) Check boxes for posting the communication boards 
 (C) Sort all the 'to sort' spending in the right categories in the expenditure against grant file. 
