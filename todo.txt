@@ -1,5 +1,6 @@
 (B) Get OBF working in Javascript. 
 x (B) contact myscoiety about a consultant
+(A) talk to kat about mum visit +family
 (C) 1. Process Email @singleton
 (C) 2. Do Comic @singleton
 (E) copy macvim setting over to joseph-public
