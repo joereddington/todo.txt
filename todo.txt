@@ -1,23 +1,27 @@
-(B) Get OBF working in Javascript. 
-x (B) contact myscoiety about a consultant
-(A) talk to kat about mum visit +family
+(A) 1. Check Calendar @singleton
+(A) 2. Clear crate @singleton
+(A) 3. Process Reminders and brainstorms. @singleton
+(B) 1. Plan food and exercise @singleton
+(B) call Lottery lady back
 (C) 1. Process Email @singleton
-(C) 2. Do Comic @singleton
-(E) copy macvim setting over to joseph-public
-(C) Ask on facebook about exit interviews.
-(C) Check boxes for posting the communication boards 
-(C) Sort all the 'to sort' spending in the right categories in the expenditure against grant file. 
+(C) Add 'split' error checking to expenditure against grant
+(C) arrange conversation with bavinder about code
+(C) change the formulas in expenditure against grant to include the split values
 (C) feedback to aideen about report
+(C) make plan for games day
 (C) pay cheque from ISAAC
 (C) put in checking sums into expenditure against grant so we can tell if something is missing.
-(C) put monitors into the loft 
 (C) test the mega drives with new adapter
 (C) watch the mega drive videos
 (C) we are still paying bank charges for natwest- clear out the account
+(D) Brainstorm on watson labelinging the tasks correctly - the task goes 'forward' from it... 
 (D) Fix chest of drawers for Nova +family
 (D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program
 (D) Show Kat crazy five year plan @Kat
 (D) Try isofix in the car +family
+(D) blog about igor
+(D) buy webcam
+(D) clear space on drive *again* 
 (D) do code review on pull reqests
 (D) fix the novareddington.com website
 (D) make sure the production branch of Open Voice Factory is generating ovf @live
@@ -30,11 +34,18 @@ x (B) contact myscoiety about a consultant
 (E) Backup Dreamhost
 (E) Backup the nice things book
 (E) Backup your camera memory card to external hard drive 
+(E) Change your contact information on kat's phone
 (E) Check Desktop Tracker is working
+(E) Check Desktop Tracker is working
+(E) Check Voicemail
 (E) Check Voicemail
 (E) Check if there are any moonpig cards to send this month
 (E) Check that everything in the 'in process' box really does have a task
+(E) Check that everything in the 'in process' box really does have a task
+(E) Check the 'to put in Evernote' folder and add to database
 (E) Check the bike 'go bag'
+(E) Check the bike 'go bag'
+(E) Check the firebreak in: whatsapp
 (E) Check the firebreak in: whatsapp
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
 (E) Check the next school time
@@ -43,9 +54,10 @@ x (B) contact myscoiety about a consultant
 (E) Cut nails
 (E) Deal with Redline
 (E) Do full accounts algorithm
+(E) Do full accounts algorithm
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
 (E) Download the amazon months sales figures
-(E) Dropoff lamps at Family choice.  @outside
 (E) Empty crate completely
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
@@ -54,7 +66,11 @@ x (B) contact myscoiety about a consultant
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
 (E) Fill out fear/passion table
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table
+(E) Fill out fear/passion table
 (E) Fill out fear/passion table 
+(E) Floss
 (E) Floss
 (E) Floss
 (E) Floss 
@@ -70,6 +86,8 @@ x (B) contact myscoiety about a consultant
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
+(E) Go thought phone screen shots for tasks
+(E) Go through notebook (and iphone reminders) for tasks
 (E) Go through notebook (and iphone reminders) for tasks
 (E) Go through notebook (and iphone reminders) for tasks
 (E) Go through notebook (and iphone reminders) for tasks
@@ -80,14 +98,17 @@ x (B) contact myscoiety about a consultant
 (E) If back on sugar then start sugar project
 (E) Lace up running shoes 
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
 (E) Listen to  Randy Pausch Talk
 (E) Listen to  Randy Pausch Talk 
 (E) Log weight
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply
 (E) Look up twinkle twinkle performances @leisure 
 (E) Make sure paper crane is in bathroom
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up
+(E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
@@ -97,8 +118,10 @@ x (B) contact myscoiety about a consultant
 (E) Pick an article from Evernote drafts and put it online
 (E) Pick an article from Evernote drafts and put it online
 (E) Pick an article from Evernote drafts and put it online
+(E) Pick an article from Evernote drafts and put it online
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
@@ -106,6 +129,7 @@ x (B) contact myscoiety about a consultant
 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
@@ -115,6 +139,7 @@ x (B) contact myscoiety about a consultant
 (E) Process inbox in evernote
 (E) Publicly thank someone
 (E) Put baby sign videos on watchlist +family
+(E) Put everything 'lying around' at home into the big chest for later sorting
 (E) Put everything 'lying around' at home into the big chest for later sorting
 (E) Put sleep time into calendar
 (E) Reduce the amount of space laptop is using
@@ -127,32 +152,31 @@ x (B) contact myscoiety about a consultant
 (E) Review your highlights and notes from Kindle books
 (E) Review your highlights and notes from Kindle books 
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Search for funding for eQuality Time Projects
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Spend 20 minutes or so considering the fruits of long term goals @brainstorm
 (E) Sprint moving over to todo.txt format 
 (E) Swimming and climbing gear should be in the car
+(E) Swimming and climbing gear should be in the car
 (E) Trim nose hair
 (E) Update Symptoms and Moods file
+(E) Update Symptoms and Moods file
+(E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip
 (E) Use Face strip 
 (E) Video call with Kat family
 (E) Wash sheets and towels
+(E) Watson should break sessions on different titles. 
 (E) Work out which new laptop you want 
 (E) Write a letter to Nova
 (E) Write a letter to Nova
+(E) Write a letter to Nova
+(E) check drying rack and explain plan to Kat
+(E) copy macvim setting over to joseph-public
 (E) fix startCapture
-(E) more work on family @brainstorm @Kat
 (E) pick the next evening to do to from the luton clubs list 
 (F) Write the functions for recording the size of the todo list. 
-x (A) +www set up referencing information on website 
-x (A) 1. Check Calendar @singleton
-x (A) 2. Clear crate @singleton
-x (A) 3. Process Reminders and brainstorms. @singleton
-x (A) Get TJR national insurance number to apply for gift aid number  @calendar @email
-x (A) Send SS the UTR for equality time
-x (A) get posters and letters printed
-x (B) Process the brainstorms from www away day
-x (B) exercise @singleton
