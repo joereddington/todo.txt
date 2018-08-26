@@ -1,75 +1,36 @@
-(A) 1. Check Calendar @singleton
-(A) 2. Clear crate @singleton
-(A) 3. Process Reminders and brainstorms. @singleton
-(B) 1. Plan food and exercise @singleton
-(B) call Lottery lady back
-(C) 1. Process Email @singleton
-(C) Add 'split' error checking to expenditure against grant
-(C) arrange conversation with bavinder about code
-(C) change the formulas in expenditure against grant to include the split values
-(C) feedback to aideen about report
-(C) make plan for games day
-(C) pay cheque from ISAAC
-(C) put in checking sums into expenditure against grant so we can tell if something is missing.
-(C) test the mega drives with new adapter
-(C) watch the mega drive videos
-(C) we are still paying bank charges for natwest- clear out the account
-(D) Brainstorm on watson labelinging the tasks correctly - the task goes 'forward' from it... 
+(C) Review Aideen's report +equalitytime @live
+(C) Send this months moonpig cards
+(C) call natwest about the process for closing the account @phone
+(C) make plan for games day @family
+(C) pay cheque from ISAAC +equalitytime outside
+x (C) put in checking sums into expenditure against grant so we can tell if something is missing. +equalitytime
+(C) test the mega drives with new adapter +family @live
+(C) watch the mega drive videos +family 
 (D) Fix chest of drawers for Nova +family
-(D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program
+(D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program +equalitytime
 (D) Show Kat crazy five year plan @Kat
 (D) Try isofix in the car +family
-(D) blog about igor
-(D) buy webcam
-(D) clear space on drive *again* 
-(D) do code review on pull reqests
-(D) fix the novareddington.com website
-(D) make sure the production branch of Open Voice Factory is generating ovf @live
-(D) rewrite the 'work with us' bit of the website so that it is clear how to get to the volenteering bits.
-(D) set up SD card reader in laptop
+(D) Watson should group 'little tasks' as one set of time (oh - this is easy, remove the minimum task size...)
+(D) buy webcam +equalitytime
+(D) do code review on pull reqests @live +equalitytime 
+(D) fix the novareddington.com website @live +equalitytime
+(D) make sure the production branch of Open Voice Factory is generating ovf @live +equalitytime
+(D) rewrite the 'work with us' bit of the website so that it is clear how to get to the volenteering bits. +equalitytime
 (D) watch next camera lecture file 
 (E) @phone 0300 123 23 23 to book blood donation
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask for testimonal from completed fundings
-(E) Backup Dreamhost
-(E) Backup the nice things book
-(E) Backup your camera memory card to external hard drive 
-(E) Change your contact information on kat's phone
-(E) Check Desktop Tracker is working
-(E) Check Desktop Tracker is working
-(E) Check Voicemail
-(E) Check Voicemail
-(E) Check if there are any moonpig cards to send this month
-(E) Check that everything in the 'in process' box really does have a task
+(D) work out catagories and tags for the new watson.
+(E) Ask for testimonal from completed fundings +equalitytime
+(E) Backup Dreamhost +equalitytime
+(E) Backup the nice things book +family
 (E) Check that everything in the 'in process' box really does have a task
 (E) Check the 'to put in Evernote' folder and add to database
-(E) Check the bike 'go bag'
-(E) Check the bike 'go bag'
-(E) Check the firebreak in: whatsapp
-(E) Check the firebreak in: whatsapp
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
-(E) Check the next school time
-(E) Confirm plans for next two weekends.
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Cut nails
-(E) Deal with Redline
-(E) Do full accounts algorithm
-(E) Do full accounts algorithm
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
 (E) Download the amazon months sales figures
-(E) Empty crate completely
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table
-(E) Fill out fear/passion table 
+(E) Fix Desktop Tracker
 (E) Floss
 (E) Floss
 (E) Floss
@@ -78,24 +39,15 @@
 (E) Floss 
 (E) Floss 
 (E) Floss 
-(E) Floss 
-(E) Floss 
-(E) Go though documents folder and put everything you want to save in dropbox.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make 
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
 (E) Go thought phone screen shots for tasks
-(E) Go through notebook (and iphone reminders) for tasks
-(E) Go through notebook (and iphone reminders) for tasks
-(E) Go through notebook (and iphone reminders) for tasks
-(E) Go through notebook (and iphone reminders) for tasks
 (E) Go through phone and save all of the numbers
 (E) Go through the shared reminder list with @Kat
 (E) Go through the shared reminder list with Heart
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have
-(E) If back on sugar then start sugar project
 (E) Lace up running shoes 
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
@@ -106,8 +58,6 @@
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply
 (E) Look up twinkle twinkle performances @leisure 
-(E) Make sure paper crane is in bathroom
-(E) Make sure the only things on 'Reminders' are adendas for lists coming up
 (E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
 (E) Open and log progress on the bid status document
@@ -136,15 +86,6 @@
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Post to Sibling Facebook group
 (E) Post to WWW facebook page
-(E) Process inbox in evernote
-(E) Publicly thank someone
-(E) Put baby sign videos on watchlist +family
-(E) Put everything 'lying around' at home into the big chest for later sorting
-(E) Put everything 'lying around' at home into the big chest for later sorting
-(E) Put sleep time into calendar
-(E) Reduce the amount of space laptop is using
-(E) Remind Kat to do Nova's menu
-(E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
 (E) Review all projects in github
 (E) Review facebook theory of change
 (E) Review starred items in feeds
@@ -157,7 +98,6 @@
 (E) Search for funding for eQuality Time Projects
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Spend 20 minutes or so considering the fruits of long term goals @brainstorm
-(E) Sprint moving over to todo.txt format 
 (E) Swimming and climbing gear should be in the car
 (E) Swimming and climbing gear should be in the car
 (E) Trim nose hair
@@ -170,13 +110,72 @@
 (E) Use Face strip 
 (E) Video call with Kat family
 (E) Wash sheets and towels
-(E) Watson should break sessions on different titles. 
-(E) Work out which new laptop you want 
 (E) Write a letter to Nova
 (E) Write a letter to Nova
 (E) Write a letter to Nova
 (E) check drying rack and explain plan to Kat
 (E) copy macvim setting over to joseph-public
+(E) do premium bonds form
 (E) fix startCapture
 (E) pick the next evening to do to from the luton clubs list 
+(E) record video about the nameservers @live
 (F) Write the functions for recording the size of the todo list. 
+x (A) 1. Check Calendar @singleton
+x (A) 2. Clear crate @singleton
+x (A) 3. Process Reminders and brainstorms. @singleton
+x (B) 1. Plan food and exercise @singleton
+x (B) call Lottery lady back @phone
+x (C) 1. Process Email @singleton
+x (C) Add 'split' error checking to expenditure against grant +equalitytime
+x (C) Do all the finaces in the inbox as a project +equalitytime
+x (C) arrange conversation with bavinder about code +equalitytime
+x (C) call Kate - catchup and CM +equalitytime
+x (C) change the formulas in expenditure against grant to include the split values +equalitytime
+x (D) blog about igor
+x (D) clear space on drive *again* 
+x (D) set up SD card reader in laptop
+x (E) Backup your camera memory card to external hard drive 
+x (E) Change your contact information on kat's phone
+x (E) Check Voicemail
+x (E) Check Voicemail
+x (E) Check the firebreak in: whatsapp
+x (E) Check the firebreak in: whatsapp
+x (E) Check the next school time
+x (E) Deal with Redline
+x (E) Do full accounts algorithm
+x (E) Do full accounts algorithm
+x (E) Empty crate completely
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table
+x (E) Fill out fear/passion table 
+x (E) Floss 
+x (E) Floss 
+x (E) Go though documents folder and put everything you want to save in dropbox.
+x (E) Go through notebook (and iphone reminders) for tasks
+x (E) Go through notebook (and iphone reminders) for tasks
+x (E) Go through notebook (and iphone reminders) for tasks
+x (E) Go through notebook (and iphone reminders) for tasks
+x (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have
+x (E) If back on sugar then start sugar project
+x (E) Make sure paper crane is in bathroom
+x (E) Make sure the only things on 'Reminders' are adendas for lists coming up
+x (E) Process inbox in evernote
+x (E) Publicly thank someone
+x (E) Put baby sign videos on watchlist +family
+x (E) Put everything 'lying around' at home into the big chest for later sorting
+x (E) Put everything 'lying around' at home into the big chest for later sorting
+x (E) Put sleep time into calendar
+x (E) Reduce the amount of space laptop is using
+x (E) Remind Kat to do Nova's menu
+x (E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
+x (E) Sprint moving over to todo.txt format 
+x (E) Watson should break sessions on different titles. 
+x (E) Work out which new laptop you want 
