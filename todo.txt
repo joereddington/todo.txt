@@ -1,181 +1,188 @@
-(C) Review Aideen's report +equalitytime @live
-(C) Send this months moonpig cards
-(C) call natwest about the process for closing the account @phone
-(C) make plan for games day @family
-(C) pay cheque from ISAAC +equalitytime outside
-x (C) put in checking sums into expenditure against grant so we can tell if something is missing. +equalitytime
-(C) test the mega drives with new adapter +family @live
-(C) watch the mega drive videos +family 
-(D) Fix chest of drawers for Nova +family
-(D) Put the comic relief budget on this page: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Comic-Relief-Tech-for-Good-Program +equalitytime
-(D) Show Kat crazy five year plan @Kat
-(D) Try isofix in the car +family
-(D) Watson should group 'little tasks' as one set of time (oh - this is easy, remove the minimum task size...)
-(D) buy webcam +equalitytime
-(D) do code review on pull reqests @live +equalitytime 
+(A) Add the igor tasks for the day. 
+x 2018-08-28 put richard's expenses into the system *again*  pri:A
+x 2018-08-28 Brainstom on the javascript  pri:B
+x 2018-08-28 fix the amazon issues.  pri:B
+(C) 2. Go live. 
+x 2018-08-28 CALL NATWEST (03457 114477) ABOUT THE PROCESS FOR CLOSING THE ACCOUNT @PHONE +equalitytime. pri:C
+x 2018-08-28 List guests for birthday games +family  pri:C
+(C) PAY CHEQUE FROM ISAAC +EQUALITYTIME @OUTSIDE
+(C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE
+(C) Talk to Kat about games birthday +Family @kat
+(D) Get bedside lamp
+(D) Get lavender for nova's room
+(D) Process halifax statment +Family
+(D) Sprint - Make watson give catagory summaryies
 (D) fix the novareddington.com website @live +equalitytime
-(D) make sure the production branch of Open Voice Factory is generating ovf @live +equalitytime
-(D) rewrite the 'work with us' bit of the website so that it is clear how to get to the volenteering bits. +equalitytime
-(D) watch next camera lecture file 
-(E) @phone 0300 123 23 23 to book blood donation
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(D) work out catagories and tags for the new watson.
-(E) Ask for testimonal from completed fundings +equalitytime
-(E) Backup Dreamhost +equalitytime
-(E) Backup the nice things book +family
-(E) Check that everything in the 'in process' box really does have a task
-(E) Check the 'to put in Evernote' folder and add to database
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-(E) Cut nails
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§
-(E) Download the amazon months sales figures
-(E) Fix Desktop Tracker
+(D) make sure the production branch of open voice factory is geneRATING OVF @LIVE +EQUALITYTIME
+(D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
+(D) show kat crazy five year plan @kat +Family
+(D) watson should group 'little tasks' as one set of time (oh - tHIS IS EASY, REMOVE THE MINIMUM TASK SIZE...) +overhead
+(E) Add project tags to igor +Overhead
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
+(E) Check the next school time +WWW
 (E) Floss
-(E) Floss
-(E) Floss
-(E) Floss 
-(E) Floss 
-(E) Floss 
-(E) Floss 
-(E) Floss 
-(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make 
-(E) Go thought phone screen shots for tasks
-(E) Go thought phone screen shots for tasks
-(E) Go thought phone screen shots for tasks
-(E) Go thought phone screen shots for tasks
-(E) Go through phone and save all of the numbers
-(E) Go through the shared reminder list with @Kat
-(E) Go through the shared reminder list with Heart
-(E) Lace up running shoes 
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html
-(E) Listen to  Randy Pausch Talk
-(E) Listen to  Randy Pausch Talk 
-(E) Log weight
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§
-(E) Look at the funding and prize things you were refused for last year and see if you can still apply
-(E) Look up twinkle twinkle performances @leisure 
-(E) Open and log progress on the bid status document
-(E) Open and log progress on the bid status document
-(E) Open and log progress on the bid status document
-(E) Open and log progress on the bid status document
-(E) Open list of projects to be funded
-(E) Open list of projects to be funded 
-(E) Pay in royalty cheque  @outside
-(E) Pick an article from Evernote drafts and put it online
-(E) Pick an article from Evernote drafts and put it online
-(E) Pick an article from Evernote drafts and put it online
-(E) Pick an article from Evernote drafts and put it online
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ 
+(E) Go through the shared reminder list with Heart +Family
+(E) Map sprint on the new watson
+(E) Open and log progress on the bid status document +EqualityTime @live
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to Sibling Facebook group
-(E) Post to WWW facebook page
-(E) Review all projects in github
-(E) Review facebook theory of change
-(E) Review starred items in feeds
-(E) Review yearly goals
-(E) Review your highlights and notes from Kindle books
-(E) Review your highlights and notes from Kindle books 
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-(E) Search for funding for eQuality Time Projects
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-(E) Spend 20 minutes or so considering the fruits of long term goals @brainstorm
-(E) Swimming and climbing gear should be in the car
-(E) Swimming and climbing gear should be in the car
+(E) Post to Sibling Facebook group 
+(E) Post to WWW facebook page @live +equalitytime
+(E) Put sleep time into calendar +Overhead
+(E) Put up 'are you carrying anything' sign +Family
+(E) Review all personal projects in github +Family
+(E) Review all projects in github @live +equalitytime
+(E) Review yearly goals +overhead
+(E) Sharpen shirt corners 
 (E) Trim nose hair
 (E) Update Symptoms and Moods file
-(E) Update Symptoms and Moods file
 (E) Use Face strip
-(E) Use Face strip
-(E) Use Face strip
-(E) Use Face strip
-(E) Use Face strip 
 (E) Video call with Kat family
 (E) Wash sheets and towels
 (E) Write a letter to Nova
-(E) Write a letter to Nova
-(E) Write a letter to Nova
-(E) check drying rack and explain plan to Kat
+(E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
+(E) ask for testimonal from completed fundings +equalitytime
+(E) backup dreamhost +equalitytime
+(E) check that everything in the 'in process' box really does havE A TASK
+(E) check the 'to put in evernote' folder and add to database
+(E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
 (E) copy macvim setting over to joseph-public
 (E) do premium bonds form
-(E) fix startCapture
-(E) pick the next evening to do to from the luton clubs list 
-(E) record video about the nameservers @live
-(F) Write the functions for recording the size of the todo list. 
+(E) download the amazon months sales figures
+(E) fix desktop tracker
+(E) fix startcapture
+(E) floss
+(E) floss
+(E) floss 
+(E) floss 
+(E) floss 
+(E) floss 
+(E) floss 
+(E) go though https://www.facebook.com/joe.reddington/friends_witH_UNSEEN_POSTS AND MAKE A CONNECTION WITH EACH PERSON.
+(E) go thought calendar and find at least one 'thank you's  you *CAN* MAKE 
+(E) go through the shared reminder list with @kat
+(E) lace up running shoes 
+(E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML
+(E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML
+(E) listen to  randy pausch talk
+(E) listen to  randy pausch talk 
+(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§
+(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§
+(E) look at the funding and prize things you were refused for lasT YEAR AND SEE IF YOU CAN STILL APPLY
+(E) look up twinkle twinkle performances @leisure 
+(E) open list of projects to be funded
+(E) open list of projects to be funded 
+(E) pay in royalty cheque  @outside
+(E) pick an article from evernote drafts and put it online
+(E) pick an article from evernote drafts and put it online
+(E) pick an article from evernote drafts and put it online
+(E) pick an article from evernote drafts and put it online
+(E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§
+(E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§ 
+(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
+(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
+(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
+(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
+(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§ 
+(E) ping §e:u2fsdgvkx1/0apnnaurpi2ltbpytx5c18apk7otvtyk=§
+(E) ping §e:u2fsdgvkx1/rnyeadgsmlwysihnm+b/zfd2d5ltkd0m=§
+(E) ping §e:u2fsdgvkx1/vpg9mwc5w4tnepwnrjauz/9nczflvkq4=§
+(E) ping §e:u2fsdgvkx1/vpg9mwc5w4tnepwnrjauz/9nczflvkq4=§
+(E) ping §e:u2fsdgvkx1/zoza9gbrgx1bk2idcegeozlyftiiqzj8=§
+(E) ping §e:u2fsdgvkx18/xdtjwjlnkymaycmtsuyg4ez1wfjtgz0=§
+(E) ping §e:u2fsdgvkx18kcs8p6azgrlbgrohuszzeo3c9cps4kcm=§
+(E) ping §e:u2fsdgvkx18wvyzgabm7ql030po3ax6ap00h5nn5p5e=§
+(E) post to sibling facebook group
+(E) post to www facebook page
+(E) review all projects in github
+(E) review facebook theory of change
+(E) review starred items in feeds
+(E) review yearly goals
+(E) review your highlights and notes from kindle books
+(E) review your highlights and notes from kindle books 
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK
+(E) say something nice to §e:u2fsdgvkx19ip+vdnlnxjc5ug09rco/u9qxhDQAAZQO=§
+(E) search for funding for equality time projects
+(E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM
+(E) update symptoms and moods file
+(E) update symptoms and moods file
+(E) use face strip
+(E) use face strip
+(E) use face strip
+(E) use face strip
+(E) use face strip 
+(E) video call with kat family
+(E) wash sheets and towels
+(E) write a letter to nova
+(E) write a letter to nova
+(E) write a letter to nova
+(F) write the functions for recording the size of the todo list. 
 x (A) 1. Check Calendar @singleton
 x (A) 2. Clear crate @singleton
-x (A) 3. Process Reminders and brainstorms. @singleton
-x (B) 1. Plan food and exercise @singleton
-x (B) call Lottery lady back @phone
-x (C) 1. Process Email @singleton
-x (C) Add 'split' error checking to expenditure against grant +equalitytime
-x (C) Do all the finaces in the inbox as a project +equalitytime
-x (C) arrange conversation with bavinder about code +equalitytime
-x (C) call Kate - catchup and CM +equalitytime
-x (C) change the formulas in expenditure against grant to include the split values +equalitytime
-x (D) blog about igor
-x (D) clear space on drive *again* 
-x (D) set up SD card reader in laptop
-x (E) Backup your camera memory card to external hard drive 
-x (E) Change your contact information on kat's phone
-x (E) Check Voicemail
-x (E) Check Voicemail
-x (E) Check the firebreak in: whatsapp
-x (E) Check the firebreak in: whatsapp
-x (E) Check the next school time
-x (E) Deal with Redline
-x (E) Do full accounts algorithm
+x (C) Post this month's birthday cards
+x (C) REVIEW AIDEEN'S REPORT +EQUALITYTIME @LIVE
+x (D) buy webcam +equalitytime
+x (D) do code review on pull reqests @live +equalitytime 
+x (D) watch next camera lecture file 
 x (E) Do full accounts algorithm
 x (E) Empty crate completely
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table
-x (E) Fill out fear/passion table 
-x (E) Floss 
-x (E) Floss 
-x (E) Go though documents folder and put everything you want to save in dropbox.
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make 
+x (E) Go thought phone screen shots for tasks
 x (E) Go through notebook (and iphone reminders) for tasks
-x (E) Go through notebook (and iphone reminders) for tasks
-x (E) Go through notebook (and iphone reminders) for tasks
-x (E) Go through notebook (and iphone reminders) for tasks
-x (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have
-x (E) If back on sugar then start sugar project
+x (E) Go through phone and save all of the numbers
+x (E) Log weight
 x (E) Make sure paper crane is in bathroom
-x (E) Make sure the only things on 'Reminders' are adendas for lists coming up
-x (E) Process inbox in evernote
-x (E) Publicly thank someone
-x (E) Put baby sign videos on watchlist +family
-x (E) Put everything 'lying around' at home into the big chest for later sorting
-x (E) Put everything 'lying around' at home into the big chest for later sorting
-x (E) Put sleep time into calendar
-x (E) Reduce the amount of space laptop is using
-x (E) Remind Kat to do Nova's menu
-x (E) Repost this: https://www.reddit.com/r/productivity/comments/951w6m/instead_of_daily_gratitude_ive_found_daily/ 
-x (E) Sprint moving over to todo.txt format 
-x (E) Watson should break sessions on different titles. 
-x (E) Work out which new laptop you want 
+x (E) check drying rack and explain plan to kat
+x (E) cut nails
+x (E) do something genuinely nice for §e:u2fsdgvkx1/jhkqjxs8m0des/ePWC3SIRL2YYXHMBZC=§
+x (E) do something genuinely nice for §e:u2fsdgvkx1/jhkqjxs8m0des/ePWC3SIRL2YYXHMBZC=§
+x (E) floss
+x (E) go thought phone screen shots for tasks
+x (E) go thought phone screen shots for tasks
+x (E) go thought phone screen shots for tasks
+x (E) go thought phone screen shots for tasks
+x (E) go through phone and save all of the numbers
+x (E) go through the shared reminder list with heart
+x (E) log weight
+x (E) open and log progress on the bid status document
+x (E) open and log progress on the bid status document
+x (E) open and log progress on the bid status document
+x (E) open and log progress on the bid status document
+x (E) record video about the nameservers @live
+x (E) swimming and climbing gear should be in the car
+x (E) swimming and climbing gear should be in the car
+x (E) trim nose hair
+x (c) watch the mega drive videos +familystuff 
+x (d) fix chest of drawers for nova +family
+x (d) put the comic relief budget on this page: https://github.coM/EQUALITYTIME/THEOPENVOICEFACTORY/WIKI/COMIC-RELIEF-TECH-FOR-GOOD-PROGRAM +EQUALITYTIME
+x (d) try isofix in the car +family
+x 2018-08-27 1. Plan food and exercise @singleton pri:B
+x 2018-08-27 1. Process Email @singleton pri:C
+x 2018-08-27 3. Process Reminders and brainstorms. @singleton pri:A
+x 2018-08-27 @phone 0300 123 23 23 to book blood donation pri:E
+x 2018-08-27 Check Desktop Tracker is working  pri:E
+x 2018-08-27 Check Voicemail pri:E
+x 2018-08-27 Check blood donation time @phone pri:A
+x 2018-08-27 Check that everything in the 'in process' box really does have a task pri:E
+x 2018-08-27 Check the bike 'go bag' pri:E
+x 2018-08-27 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something pri:E
+x 2018-08-27 Cut nails pri:E
+x 2018-08-27 Fill out fear/passion table pri:E
+x 2018-08-27 Fill out fear/passion table pri:E
+x 2018-08-27 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ pri:E
+x 2018-08-27 Message Hannah about weekend pri:A
+x 2018-08-27 Pick an article from Evernote drafts and put it online @live pri:E
+x 2018-08-27 Process inbox in evernote pri:E
+x 2018-08-27 Publicly thank someone pri:E
+x 2018-08-27 Put everything 'lying around' at home into the big chest for later sorting pri:E
+x 2018-08-27 Remind Kat to do Nova's menu pri:E
+x 2018-08-27 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book pri:E
+x 2018-08-27 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked pri:E
+x 2018-08-27 Swimming and climbing gear should be in the car pri:E
+x 2018-08-27 backup the nice things book +family pri:E
+x 2018-08-27 pick the next evening to do to from the luton clubs list  pri:E
+x 2018-08-27 send §e:u2fsdgvkx1/72lgetktb+aa4f5guvhmjwuldwf83ef4=§ the gifF OF HE LIKED pri:E
