@@ -1,29 +1,30 @@
-(A) Add the igor tasks for the day. 
-x 2018-08-28 put richard's expenses into the system *again*  pri:A
-x 2018-08-28 Brainstom on the javascript  pri:B
-x 2018-08-28 fix the amazon issues.  pri:B
-(C) 2. Go live. 
-x 2018-08-28 CALL NATWEST (03457 114477) ABOUT THE PROCESS FOR CLOSING THE ACCOUNT @PHONE +equalitytime. pri:C
-x 2018-08-28 List guests for birthday games +family  pri:C
-(C) PAY CHEQUE FROM ISAAC +EQUALITYTIME @OUTSIDE
+(A) Send care home care packages SAS:"download addresses from email"
+x (A) Talk about stakeholder recruitment to K SAS:Message for phone chat. 
+(C) Brainstorm on expanding trustee pool SAS: get the paper
+Put in the symbolic link for vimrc on desktop
+(C) Close 'no volunteering' project
+(C) PAY cheque FROM ISAAC +EQT @OUTSIDE
+(C) Start inviting people to birthday board games
 (C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE
-(C) Talk to Kat about games birthday +Family @kat
-(D) Get bedside lamp
+(D) Doorbells
+(D) Fix the vim problem 
+x (D) Get bedside lamp
 (D) Get lavender for nova's room
-(D) Process halifax statment +Family
+(D) Process Halifax statement +Family
+(D) Send Kat settling payment. +Family
 (D) Sprint - Make watson give catagory summaryies
 (D) fix the novareddington.com website @live +equalitytime
 (D) make sure the production branch of open voice factory is geneRATING OVF @LIVE +EQUALITYTIME
 (D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
-(D) show kat crazy five year plan @kat +Family
 (D) watson should group 'little tasks' as one set of time (oh - tHIS IS EASY, REMOVE THE MINIMUM TASK SIZE...) +overhead
 (E) Add project tags to igor +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
 (E) Check the next school time +WWW
+(E) Fill out fear/passion table
 (E) Floss
 (E) Go through the shared reminder list with Heart +Family
 (E) Map sprint on the new watson
-(E) Open and log progress on the bid status document +EqualityTime @live
+(E) Open and log progress on the bid status document +EqualityTime 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
@@ -34,7 +35,6 @@ x 2018-08-28 List guests for birthday games +family  pri:C
 (E) Put sleep time into calendar +Overhead
 (E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
-(E) Review all projects in github @live +equalitytime
 (E) Review yearly goals +overhead
 (E) Sharpen shirt corners 
 (E) Trim nose hair
@@ -121,68 +121,10 @@ x 2018-08-28 List guests for birthday games +family  pri:C
 (E) write a letter to nova
 (E) write a letter to nova
 (F) write the functions for recording the size of the todo list. 
-x (A) 1. Check Calendar @singleton
-x (A) 2. Clear crate @singleton
-x (C) Post this month's birthday cards
-x (C) REVIEW AIDEEN'S REPORT +EQUALITYTIME @LIVE
-x (D) buy webcam +equalitytime
-x (D) do code review on pull reqests @live +equalitytime 
-x (D) watch next camera lecture file 
-x (E) Do full accounts algorithm
-x (E) Empty crate completely
-x (E) Go thought calendar and find at least one 'thank you's  you *can* make 
-x (E) Go thought phone screen shots for tasks
-x (E) Go through notebook (and iphone reminders) for tasks
-x (E) Go through phone and save all of the numbers
-x (E) Log weight
-x (E) Make sure paper crane is in bathroom
-x (E) check drying rack and explain plan to kat
-x (E) cut nails
-x (E) do something genuinely nice for §e:u2fsdgvkx1/jhkqjxs8m0des/ePWC3SIRL2YYXHMBZC=§
-x (E) do something genuinely nice for §e:u2fsdgvkx1/jhkqjxs8m0des/ePWC3SIRL2YYXHMBZC=§
-x (E) floss
-x (E) go thought phone screen shots for tasks
-x (E) go thought phone screen shots for tasks
-x (E) go thought phone screen shots for tasks
-x (E) go thought phone screen shots for tasks
-x (E) go through phone and save all of the numbers
-x (E) go through the shared reminder list with heart
-x (E) log weight
-x (E) open and log progress on the bid status document
-x (E) open and log progress on the bid status document
-x (E) open and log progress on the bid status document
-x (E) open and log progress on the bid status document
-x (E) record video about the nameservers @live
-x (E) swimming and climbing gear should be in the car
-x (E) swimming and climbing gear should be in the car
-x (E) trim nose hair
-x (c) watch the mega drive videos +familystuff 
-x (d) fix chest of drawers for nova +family
-x (d) put the comic relief budget on this page: https://github.coM/EQUALITYTIME/THEOPENVOICEFACTORY/WIKI/COMIC-RELIEF-TECH-FOR-GOOD-PROGRAM +EQUALITYTIME
-x (d) try isofix in the car +family
-x 2018-08-27 1. Plan food and exercise @singleton pri:B
-x 2018-08-27 1. Process Email @singleton pri:C
-x 2018-08-27 3. Process Reminders and brainstorms. @singleton pri:A
-x 2018-08-27 @phone 0300 123 23 23 to book blood donation pri:E
-x 2018-08-27 Check Desktop Tracker is working  pri:E
-x 2018-08-27 Check Voicemail pri:E
-x 2018-08-27 Check blood donation time @phone pri:A
-x 2018-08-27 Check that everything in the 'in process' box really does have a task pri:E
-x 2018-08-27 Check the bike 'go bag' pri:E
-x 2018-08-27 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something pri:E
-x 2018-08-27 Cut nails pri:E
-x 2018-08-27 Fill out fear/passion table pri:E
-x 2018-08-27 Fill out fear/passion table pri:E
-x 2018-08-27 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ pri:E
-x 2018-08-27 Message Hannah about weekend pri:A
-x 2018-08-27 Pick an article from Evernote drafts and put it online @live pri:E
-x 2018-08-27 Process inbox in evernote pri:E
-x 2018-08-27 Publicly thank someone pri:E
-x 2018-08-27 Put everything 'lying around' at home into the big chest for later sorting pri:E
-x 2018-08-27 Remind Kat to do Nova's menu pri:E
-x 2018-08-27 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book pri:E
-x 2018-08-27 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked pri:E
-x 2018-08-27 Swimming and climbing gear should be in the car pri:E
-x 2018-08-27 backup the nice things book +family pri:E
-x 2018-08-27 pick the next evening to do to from the luton clubs list  pri:E
-x 2018-08-27 send §e:u2fsdgvkx1/72lgetktb+aa4f5guvhmjwuldwf83ef4=§ the gifF OF HE LIKED pri:E
+Check this out http://marcgg.com/blog/2016/03/01/vimrc-example/
+Go throught github and add a bunch of tasks
+Tidy office 
+x 2018-08-28 1. Plan food and exercise @singleton pri:B
+x 2018-08-28 2. Go live pri:C
+x 2018-08-29 Talk to Kat about games birthday +Family @kat pri:C
+x 2018-08-29 show kat crazy five year plan @kat +Family pri:D
