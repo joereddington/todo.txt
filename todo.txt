@@ -1,85 +1,66 @@
-(A) Send care home care packages SAS:"download addresses from email"
-x (A) Talk about stakeholder recruitment to K SAS:Message for phone chat. 
-(C) Brainstorm on expanding trustee pool SAS: get the paper
-Put in the symbolic link for vimrc on desktop
-(C) Close 'no volunteering' project
-(C) PAY cheque FROM ISAAC +EQT @OUTSIDE
-(C) Start inviting people to birthday board games
-(C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE
-(D) Doorbells
-(D) Fix the vim problem 
-x (D) Get bedside lamp
-(D) Get lavender for nova's room
+(A) Get the back to school times for each school that owes us data +WWW
+(A) Go throught github and add a bunch of tasks +EQT @live
+(A) Send care home care packages SAS:"download addresses from email" +EQT
+(C) Check time of next EQT meeting with TJR +EQT
+(C) Find a new carehome as a test centre +EQT
+(C) Invite the 'no-kids' people to board games +Family
+(C) Review the developement policy and push the current master verison to designs.theopenvoicefactory.org +EQT @live
+(C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE SAS: Bring the mega drives into house 
+(C) Update all spending in time for the end of the month. +EQT
+(C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
+(D) Have a google for how to make the internet better
 (D) Process Halifax statement +Family
 (D) Send Kat settling payment. +Family
-(D) Sprint - Make watson give catagory summaryies
+(D) find out how to change the chanel on the doorbells +Family
 (D) fix the novareddington.com website @live +equalitytime
-(D) make sure the production branch of open voice factory is geneRATING OVF @LIVE +EQUALITYTIME
-(D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
 (D) watson should group 'little tasks' as one set of time (oh - tHIS IS EASY, REMOVE THE MINIMUM TASK SIZE...) +overhead
+(E) Add nowrap to todo.vim +Overhead
 (E) Add project tags to igor +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you
 (E) Check the next school time +WWW
-(E) Fill out fear/passion table
-(E) Floss
+(E) Fill out 'close bank account' form +EQT
+(E) Fill out fear/passion table +Overhead 
+(E) Fix the local leader issue in vim. +EQT
+(E) Floss +Health
 (E) Go through the shared reminder list with Heart +Family
-(E) Map sprint on the new watson
-(E) Open and log progress on the bid status document +EqualityTime 
+(E) Map Children in Need bid +EQT @live
+(E) Move royalty cheque accross to Unity +EQT 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ 
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to Sibling Facebook group 
 (E) Post to WWW facebook page @live +equalitytime
-(E) Put sleep time into calendar +Overhead
 (E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
 (E) Review yearly goals +overhead
-(E) Sharpen shirt corners 
-(E) Trim nose hair
-(E) Update Symptoms and Moods file
-(E) Use Face strip
-(E) Video call with Kat family
-(E) Wash sheets and towels
-(E) Write a letter to Nova
+(E) Sharpen shirt corners +PersonalProject
+(E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Heath
+(E) Video call with Kat family @Kat +Family
+(E) Wash sheets and towels +Family
+(E) Write a letter to Nova +Family
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
-(E) check that everything in the 'in process' box really does havE A TASK
-(E) check the 'to put in evernote' folder and add to database
+(E) check the 'to put in evernote' folder and add to database +EQT @phone
+(E) clear out 'has task' box +Overhead
 (E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
-(E) copy macvim setting over to joseph-public
-(E) do premium bonds form
-(E) download the amazon months sales figures
-(E) fix desktop tracker
-(E) fix startcapture
-(E) floss
-(E) floss
-(E) floss 
-(E) floss 
-(E) floss 
-(E) floss 
-(E) floss 
-(E) go though https://www.facebook.com/joe.reddington/friends_witH_UNSEEN_POSTS AND MAKE A CONNECTION WITH EACH PERSON.
-(E) go thought calendar and find at least one 'thank you's  you *CAN* MAKE 
-(E) go through the shared reminder list with @kat
-(E) lace up running shoes 
-(E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML
-(E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML
-(E) listen to  randy pausch talk
-(E) listen to  randy pausch talk 
-(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§
-(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§
-(E) look at the funding and prize things you were refused for lasT YEAR AND SEE IF YOU CAN STILL APPLY
-(E) look up twinkle twinkle performances @leisure 
-(E) open list of projects to be funded
-(E) open list of projects to be funded 
-(E) pay in royalty cheque  @outside
-(E) pick an article from evernote drafts and put it online
-(E) pick an article from evernote drafts and put it online
-(E) pick an article from evernote drafts and put it online
-(E) pick an article from evernote drafts and put it online
+(E) do premium bonds form +Overhead
+(E) download the amazon months sales figures +WWW
+(E) fix desktop tracker +Overhead
+(E) floss +Health
+(E) floss +Health 
+(E) floss +Health 
+(E) floss +Health 
+(E) floss +Health 
+(E) floss +Health 
+(E) floss +Health 
+(E) go though https://www.facebook.com/joe.reddington/friends_witH_UNSEEN_POSTS AND MAKE A CONNECTION WITH EACH PERSON. +Overhead
+(E) lace up running shoes  +Health
+(E) listen to  randy pausch talk +overhead
+(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§ +Family
+(E) pick an article from evernote drafts and put it online 
 (E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§
 (E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§ 
 (E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
@@ -95,35 +76,54 @@ x (D) Get bedside lamp
 (E) ping §e:u2fsdgvkx18/xdtjwjlnkymaycmtsuyg4ez1wfjtgz0=§
 (E) ping §e:u2fsdgvkx18kcs8p6azgrlbgrohuszzeo3c9cps4kcm=§
 (E) ping §e:u2fsdgvkx18wvyzgabm7ql030po3ax6ap00h5nn5p5e=§
-(E) post to sibling facebook group
-(E) post to www facebook page
-(E) review all projects in github
-(E) review facebook theory of change
-(E) review starred items in feeds
-(E) review yearly goals
-(E) review your highlights and notes from kindle books
-(E) review your highlights and notes from kindle books 
-(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK
-(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK
+(E) post to sibling facebook group  +Family
+(E) post to www facebook page +WWW
+(E) review facebook theory of change +Overhead
+(E) review starred items in feeds +Overhead
+(E) review yearly goals +Overhead
+(E) review your highlights and notes from kindle books  +Overhead
+(E) review your highlights and notes from kindle books +Overhead
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
 (E) say something nice to §e:u2fsdgvkx19ip+vdnlnxjc5ug09rco/u9qxhDQAAZQO=§
-(E) search for funding for equality time projects
-(E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM
-(E) update symptoms and moods file
-(E) update symptoms and moods file
-(E) use face strip
-(E) use face strip
-(E) use face strip
-(E) use face strip
-(E) use face strip 
-(E) video call with kat family
-(E) wash sheets and towels
-(E) write a letter to nova
-(E) write a letter to nova
-(E) write a letter to nova
-(F) write the functions for recording the size of the todo list. 
-Check this out http://marcgg.com/blog/2016/03/01/vimrc-example/
-Go throught github and add a bunch of tasks
-Tidy office 
+(E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM +Overhead
+(E) update symptoms and moods file +Health
+(E) update symptoms and moods file +Health
+(E) use face strip  +Health
+(E) use face strip +Health
+(E) use face strip +Health
+(E) use face strip +Health
+(E) use face strip +Health
+(E) video call with kat family +Family
+(E) wash sheets and towels +Family
+(E) write a letter to nova +Family
+(E) write a letter to nova +Family
+(E) write a letter to nova +Family
+(F) write the functions for recording the size of the todo list. +Overhead
+Add whatsapp to desktop +Overhead
+x (A) Talk about stakeholder recruitment to K SAS:Message for phone chat. 
+x (C) Brainstorm on expanding trustee pool SAS: get the paper +EQT
+x (C) Close 'no volunteering' project
+x (D) Fix the vim problem 
+x (D) Get bedside lamp
+x (D) Get lavender for nova's room
+x (D) Sprint - Make watson give catagory summaryies
+x (D) Upload a file to Open Voice Factory and see if OBF is generated +EQT
+x (D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you 
+x (E) Map sprint on the new watson
+x (E) Open and log progress on the bid status document +EQT
+x (E) Post to Sibling Facebook group 
+x (E) Tidy office  +EQT SAS: 
+x (E) copy macvim setting over to joseph-public
+x (E) fix startcapture
+x (E) go thought calendar and find at least one 'thank you's  you *CAN* MAKE 
+x (E) go through the shared reminder list with @kat +Family
+x (E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML +EQT
+x (E) open list of projects to be funded +EQT
+x (E) open list of projects to be funded +EQT
+x (E) pay in royalty cheque  @outside +EQT +WWW
+x (E) search for funding for equality time projects +EQT
 x 2018-08-28 1. Plan food and exercise @singleton pri:B
 x 2018-08-28 2. Go live pri:C
 x 2018-08-29 Talk to Kat about games birthday +Family @kat pri:C
