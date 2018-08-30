@@ -1,10 +1,5 @@
-(A) Get the back to school times for each school that owes us data +WWW
-(A) Go throught github and add a bunch of tasks +EQT @live
 (A) Send care home care packages SAS:"download addresses from email" +EQT
 (C) Check time of next EQT meeting with TJR +EQT
-(C) Find a new carehome as a test centre +EQT
-(C) Invite the 'no-kids' people to board games +Family
-(C) Review the developement policy and push the current master verison to designs.theopenvoicefactory.org +EQT @live
 (C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE SAS: Bring the mega drives into house 
 (C) Update all spending in time for the end of the month. +EQT
 (C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
@@ -16,6 +11,7 @@
 (D) watson should group 'little tasks' as one set of time (oh - tHIS IS EASY, REMOVE THE MINIMUM TASK SIZE...) +overhead
 (E) Add nowrap to todo.vim +Overhead
 (E) Add project tags to igor +Overhead
+(E) Add whatsapp to desktop +Overhead
 (E) Check the next school time +WWW
 (E) Fill out 'close bank account' form +EQT
 (E) Fill out fear/passion table +Overhead 
@@ -100,31 +96,8 @@
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (F) write the functions for recording the size of the todo list. +Overhead
-Add whatsapp to desktop +Overhead
-x (A) Talk about stakeholder recruitment to K SAS:Message for phone chat. 
-x (C) Brainstorm on expanding trustee pool SAS: get the paper +EQT
-x (C) Close 'no volunteering' project
-x (D) Fix the vim problem 
-x (D) Get bedside lamp
-x (D) Get lavender for nova's room
-x (D) Sprint - Make watson give catagory summaryies
-x (D) Upload a file to Open Voice Factory and see if OBF is generated +EQT
-x (D) rewrite the 'work with us' bit of the website so that it is cLEAR HOW TO GET TO THE VOLENTEERING BITS. +EQUALITYTIME
-x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you 
-x (E) Map sprint on the new watson
-x (E) Open and log progress on the bid status document +EQT
-x (E) Post to Sibling Facebook group 
-x (E) Tidy office  +EQT SAS: 
-x (E) copy macvim setting over to joseph-public
-x (E) fix startcapture
-x (E) go thought calendar and find at least one 'thank you's  you *CAN* MAKE 
-x (E) go through the shared reminder list with @kat +Family
-x (E) learn something new abotu vim in http://learnvimscriptthehardWAY.STEVELOSH.COM/CHAPTERS/02.HTML +EQT
-x (E) open list of projects to be funded +EQT
-x (E) open list of projects to be funded +EQT
-x (E) pay in royalty cheque  @outside +EQT +WWW
-x (E) search for funding for equality time projects +EQT
-x 2018-08-28 1. Plan food and exercise @singleton pri:B
-x 2018-08-28 2. Go live pri:C
-x 2018-08-29 Talk to Kat about games birthday +Family @kat pri:C
-x 2018-08-29 show kat crazy five year plan @kat +Family pri:D
+x  (A) Get the back to school times for each school that owes us data +WWW
+x (A) Go throught github and add a bunch of tasks +EQT @live
+x (C) Invite the 'no-kids' people to board games +Family
+x (C) Review the developement policy and push the current master verison to designs.theopenvoicefactory.org +EQT @live
+x x (C) Find a new carehome as a test centre +EQT
