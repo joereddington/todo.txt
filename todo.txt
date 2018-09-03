@@ -1,49 +1,61 @@
-(A) Send care home care packages SAS:"download addresses from email" +EQT
-(C) Check time of next EQT meeting with TJR +EQT
-(C) TEST THE MEGA DRIVES WITH NEW ADAPTER +FAMILY @LIVE SAS: Bring the mega drives into house 
-(C) Update all spending in time for the end of the month. +EQT
+x (A) 1. Check Calendar @singleton +overhead
+(A) 2. Clear crate @singleton +overhead
+(A) 3. Process Reminders and brainstorms. @singleton +overhead
+(B) 1. Plan food and exercise @singleton +Overhead
+(B) Review Aideen's report @live +EQT
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT
+(C) Do brainstorm on leaving space (for yearly goals) 
+(C) Put Office onto Desktop
 (C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
-(D) Have a google for how to make the internet better
+(D) Get public in private working with desktop
+(D) Phone about internet +Family
 (D) Process Halifax statement +Family
-(D) Send Kat settling payment. +Family
 (D) find out how to change the chanel on the doorbells +Family
-(D) fix the novareddington.com website @live +equalitytime
-(D) watson should group 'little tasks' as one set of time (oh - tHIS IS EASY, REMOVE THE MINIMUM TASK SIZE...) +overhead
-(E) Add nowrap to todo.vim +Overhead
-(E) Add project tags to igor +Overhead
-(E) Add whatsapp to desktop +Overhead
-(E) Check the next school time +WWW
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the firebreak in: whatsapp
+(E) Check £40 in Wallet +Overhead
+(E) Do full accounts algorithm +EQT
 (E) Fill out 'close bank account' form +EQT
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Overhead 
-(E) Fix the local leader issue in vim. +EQT
+(E) Fill out fear/passion table @laptop +overhead
+(E) Fill out fear/passion table @laptop +overhead
+(E) Find out about the sibling book and put it on the sibling facebook site.
 (E) Floss +Health
-(E) Go through the shared reminder list with Heart +Family
-(E) Map Children in Need bid +EQT @live
-(E) Move royalty cheque accross to Unity +EQT 
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(B) Phone up about the standards to buy +EQT @phone
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ 
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to WWW facebook page @live +equalitytime
 (E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
-(E) Review yearly goals +overhead
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Search for funding for eQuality Time Projects +EQT
 (E) Sharpen shirt corners +PersonalProject
-(E) Trim nose hair +Health
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
+(E) Use Face strip +Health 
 (E) Use Face strip +Heath
-(E) Video call with Kat family @Kat +Family
-(E) Wash sheets and towels +Family
+(E) Work out how to regularly update todo.txt's github +Overhead
 (E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family @laptop
+(E) Write a letter to Nova +Family @laptop
+(E) add https://www.youtube.com/watch?v=A2OtU5vlR0k&feature=youtu.be&list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS to watch later list. +PersonalProjects
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
 (E) check the 'to put in evernote' folder and add to database +EQT @phone
-(E) clear out 'has task' box +Overhead
 (E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
 (E) do premium bonds form +Overhead
-(E) download the amazon months sales figures +WWW
 (E) fix desktop tracker +Overhead
 (E) floss +Health
 (E) floss +Health 
@@ -52,52 +64,24 @@
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
-(E) go though https://www.facebook.com/joe.reddington/friends_witH_UNSEEN_POSTS AND MAKE A CONNECTION WITH EACH PERSON. +Overhead
 (E) lace up running shoes  +Health
 (E) listen to  randy pausch talk +overhead
 (E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§ +Family
-(E) pick an article from evernote drafts and put it online 
-(E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§
-(E) ping §e:u2fsdgvkx1+2scinv5b6k1ksucmazeu8rehzzptxq5c=§ 
-(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
-(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
-(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
-(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§
-(E) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§ 
-(E) ping §e:u2fsdgvkx1/0apnnaurpi2ltbpytx5c18apk7otvtyk=§
-(E) ping §e:u2fsdgvkx1/rnyeadgsmlwysihnm+b/zfd2d5ltkd0m=§
-(E) ping §e:u2fsdgvkx1/vpg9mwc5w4tnepwnrjauz/9nczflvkq4=§
-(E) ping §e:u2fsdgvkx1/vpg9mwc5w4tnepwnrjauz/9nczflvkq4=§
-(E) ping §e:u2fsdgvkx1/zoza9gbrgx1bk2idcegeozlyftiiqzj8=§
-(E) ping §e:u2fsdgvkx18/xdtjwjlnkymaycmtsuyg4ez1wfjtgz0=§
-(E) ping §e:u2fsdgvkx18kcs8p6azgrlbgrohuszzeo3c9cps4kcm=§
-(E) ping §e:u2fsdgvkx18wvyzgabm7ql030po3ax6ap00h5nn5p5e=§
-(E) post to sibling facebook group  +Family
 (E) post to www facebook page +WWW
 (E) review facebook theory of change +Overhead
 (E) review starred items in feeds +Overhead
-(E) review yearly goals +Overhead
 (E) review your highlights and notes from kindle books  +Overhead
 (E) review your highlights and notes from kindle books +Overhead
 (E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
 (E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
 (E) say something nice to §e:u2fsdgvkx19ip+vdnlnxjc5ug09rco/u9qxhDQAAZQO=§
 (E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM +Overhead
-(E) update symptoms and moods file +Health
-(E) update symptoms and moods file +Health
 (E) use face strip  +Health
 (E) use face strip +Health
 (E) use face strip +Health
 (E) use face strip +Health
 (E) use face strip +Health
-(E) video call with kat family +Family
-(E) wash sheets and towels +Family
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (F) write the functions for recording the size of the todo list. +Overhead
-x  (A) Get the back to school times for each school that owes us data +WWW
-x (A) Go throught github and add a bunch of tasks +EQT @live
-x (C) Invite the 'no-kids' people to board games +Family
-x (C) Review the developement policy and push the current master verison to designs.theopenvoicefactory.org +EQT @live
-x x (C) Find a new carehome as a test centre +EQT
