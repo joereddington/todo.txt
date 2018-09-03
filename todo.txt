@@ -1,44 +1,45 @@
-x (A) 1. Check Calendar @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(B) 1. Plan food and exercise @singleton +Overhead
-(B) Review Aideen's report @live +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT
-(C) Do brainstorm on leaving space (for yearly goals) 
-(C) Put Office onto Desktop
+x (E) Do full accounts algorithm +EQT
+x (B) Phone up about the standards to buy +EQT @phone https://www.iso.org/standard/59543.html
+x (A) FIll in comfirmation statement for comapneis house +EQT
+(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
+(E) Search for funding for eQuality Time Projects +EQT @live
+x (E) Open and log progress on the bid status document +EQT
+(E) Fill out 'close bank account' form +EQT @live
+x (D) Make a livestream listing, including with Introduction, include shownotes. +EQT
 (C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
-(D) Get public in private working with desktop
+(C) Message the birthday children people about date.  +Family
+(C) 2. Go live +EQT
+(B) Review Aideen's report @live +EQT
+(C) Do brainstorm on leaving space (for yearly goals)  +Family
+(C) Put Office onto Desktop https://products.office.com/en-GB/student/office-in-education?ms.officeurl=getoffice365
+(C) add bug reports for current OBF version (clear and delete word) @Live +EQT
+(D) Fix the front doorbell +Family
+(D) Get public in private working with desktop +Overhead
 (D) Phone about internet +Family
 (D) Process Halifax statement +Family
-(D) find out how to change the chanel on the doorbells +Family
-(E) Check Desktop Tracker is working +Overhead
+(D) Tell CW about Kat coming climbing. +Family
 (E) Check Voicemail  +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead
+x (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-(E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp
 (E) Check £40 in Wallet +Overhead
-(E) Do full accounts algorithm +EQT
-(E) Fill out 'close bank account' form +EQT
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Overhead 
 (E) Fill out fear/passion table @laptop +overhead
 (E) Fill out fear/passion table @laptop +overhead
 (E) Find out about the sibling book and put it on the sibling facebook site.
+(E) Fix teapot +overhead
 (E) Floss +Health
-(E) Go thought phone screen shots for tasks +Overhead
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
-(B) Phone up about the standards to buy +EQT @phone
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Open and log progress on the bid status document +EQT
+(E) Label the kitchen cupboards.
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Pick an article from Evernote drafts and put it online 
+(E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Pull out some thank you cards from momentos for the guest room
 (E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Search for funding for eQuality Time Projects +EQT
 (E) Sharpen shirt corners +PersonalProject
 (E) Swimming and climbing gear should be in the car +Overhead
 (E) Update Symptoms and Moods file +Health
@@ -53,7 +54,6 @@ x (A) 1. Check Calendar @singleton +overhead
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
-(E) check the 'to put in evernote' folder and add to database +EQT @phone
 (E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
 (E) do premium bonds form +Overhead
 (E) fix desktop tracker +Overhead
@@ -85,3 +85,18 @@ x (A) 1. Check Calendar @singleton +overhead
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (F) write the functions for recording the size of the todo list. +Overhead
+Order new credit cards +Family
+x (A) 1. Check Calendar @singleton +overhead
+x (A) 2. Clear crate @singleton +overhead
+x (A) 3. Process Reminders and brainstorms. @singleton +overhead
+x (B) 1. Plan food and exercise @singleton +Overhead
+x (B) Message birthday people about setting a date +Family
+x (C) 1. Process Email @singleton +Overhead
+x (D) Curate the wishlist
+x (D) find out how to change the chanel on the doorbells +Family
+x (E) Check Desktop Tracker is working +Overhead
+x (E) Check the bike 'go bag'+Overhead
+x (E) Find out how to put text into ovf from keyboard
+x (E) Go thought phone screen shots for tasks +Overhead
+x (E) Go through notebook (and iphone reminders) for tasks +Overhead
+x Get yet another new plug +Family
