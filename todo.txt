@@ -1,25 +1,28 @@
+(B) Review Aideen's report @live +EQT
+x (C) add bug reports for current OBF version (clear and delete word) @Live +EQT
+x (E) Fill out 'close bank account' form +EQT @live
+Brainstorm on sport projects: particularly Judo.
+
+(E) Review https://www.fundingcentral.org.uk/SchemeList.aspx?NB=2&RT=2&BK=4&ST=0&WCU=CBC=View,DSCODE=OTSSCMLIVE,SCHEMEID=248-S39500 
+(C) Phone up about GlaxoSmithKline (GSK) IMPACT Awards re anual income
+(E) Search for funding for eQuality Time Projects +EQT @live
+(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
+x (E) Open and log progress on the bid status document +EQT
 x (E) Do full accounts algorithm +EQT
+x (D) Make a livestream listing, including with Introduction, include shownotes. +EQT
+x (C) 2. Go live +EQT
 x (B) Phone up about the standards to buy +EQT @phone https://www.iso.org/standard/59543.html
 x (A) FIll in comfirmation statement for comapneis house +EQT
-(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
-(E) Search for funding for eQuality Time Projects +EQT @live
-x (E) Open and log progress on the bid status document +EQT
-(E) Fill out 'close bank account' form +EQT @live
-x (D) Make a livestream listing, including with Introduction, include shownotes. +EQT
 (C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
-(C) Message the birthday children people about date.  +Family
-(C) 2. Go live +EQT
-(B) Review Aideen's report @live +EQT
 (C) Do brainstorm on leaving space (for yearly goals)  +Family
+(C) Message the birthday children people about date.  +Family
 (C) Put Office onto Desktop https://products.office.com/en-GB/student/office-in-education?ms.officeurl=getoffice365
-(C) add bug reports for current OBF version (clear and delete word) @Live +EQT
 (D) Fix the front doorbell +Family
 (D) Get public in private working with desktop +Overhead
 (D) Phone about internet +Family
 (D) Process Halifax statement +Family
 (D) Tell CW about Kat coming climbing. +Family
 (E) Check Voicemail  +Overhead
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the firebreak in: whatsapp
 (E) Check £40 in Wallet +Overhead
@@ -31,7 +34,6 @@ x (E) Check that everything in the 'in process' box really does have a task+Over
 (E) Fix teapot +overhead
 (E) Floss +Health
 (E) Label the kitchen cupboards.
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Pick an article from Evernote drafts and put it online 
 (E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
@@ -95,8 +97,10 @@ x (C) 1. Process Email @singleton +Overhead
 x (D) Curate the wishlist
 x (D) find out how to change the chanel on the doorbells +Family
 x (E) Check Desktop Tracker is working +Overhead
+x (E) Check that everything in the 'in process' box really does have a task+Overhead
 x (E) Check the bike 'go bag'+Overhead
 x (E) Find out how to put text into ovf from keyboard
 x (E) Go thought phone screen shots for tasks +Overhead
 x (E) Go through notebook (and iphone reminders) for tasks +Overhead
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 x Get yet another new plug +Family
