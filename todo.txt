@@ -1,14 +1,29 @@
-(C) 2. Go live +EQT
+(C) take CM cheque to bank +EQT @OUTSIDE 
+(D) Brainstorm on sport projects: particularly Judo. +EQT 
+(D) Do blog post on arts council feedback +EQT @live
+(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
+x (B) Review Aideen's report @live +EQT
+x (C) 2. Go live +EQT
+x (C) Put the consultant information on github issues +EQT @live
+x (D) Add the report to the github for dementia +EQT @live
+x (D) blog about the essex challenge prize and link to iwki.https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Essex-Challenge-Prize  +EQT @live
+x (E) Search for funding for eQuality Time Projects +EQT @live
+(A) Brainstorm on the projects for these issues: https://github.com/eQualityTime/Public/issues/30 +EQT
+(A) look for power cable for battery charger +EQT 
+
+(D) Get thunderbolt adapter for mac mini
+(A) Contact CW about https://github.com/eQualityTime/Public/issues/37 @email +EQT
 (C) Do brainstorm on leaving space (for yearly goals)  +Family
 (C) Go through Yvonne's paper +WWW +EQT
+(D) Update the risk assessment on +EQT website to v0.3 
+(E) brainstorm on using document register to always give 'most recent' document. +EQT 
+(C) Tell Essex challenge prize people that this is the link now: https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Essex-Challenge-Prize +EQT @email
+(C) Add this to greg adenda https://github.com/eQualityTime/TheOpenVoiceFactory/issues/80
+(A) Put https://github.com/eQualityTime/TheOpenVoiceFactory/issues/73 on adenda for greg meeting and arrange. Need to go through each one and edit the issues live. 
 (C) Make sure aideen is paid  +EQT
+(C) Find out why transport is in the CR budget twice.
 (C) More of a brainstorm on timetracking.  +Overhead
 (C) Prep big carazonne for return to clare due:8/9/18 +Family
-(C) Put the consultant information on github issues +EQT @live
-(C) pay cheque from isaac +EQT @OUTSIDE SAS: Fill out paying in slip @live
-(D) Add the report to the github for dementia +EQT @live
-(D) Brainstorm on sport projects: particularly Judo. +EQT @live
-(D) Do blog post on arts council feedback +EQT @live
 (D) Fix the front doorbell +Family
 (D) Get public in private working with desktop +Overhead
 (D) Order new credit cards +Family
@@ -48,7 +63,6 @@
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
-(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
 (E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
 (E) do premium bonds form +Overhead
 (E) fix desktop tracker +Overhead
@@ -91,7 +105,6 @@ x (B) 1. Plan food and exercise @singleton +Overhead
 x (B) 1. Plan food and exercise @singleton +Overhead
 x (B) Brainstorm on time tracking +EQT
 x (B) Let aideen know the report is cool  +EQT
-x (B) Review Aideen's report @live +EQT
 x (C) 1. Process Email @singleton +Overhead
 x (C) Message the birthday children people about date.  +Family
 x (C) Phone up about GlaxoSmithKline (GSK) IMPACT Awards re anual income
@@ -104,5 +117,4 @@ x (E) Label the kitchen cupboards.
 x (E) Pick an article from Evernote drafts and put it online  +EQT
 x (E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
 x (E) Put up 'are you carrying anything' sign +Family 
-x (E) Search for funding for eQuality Time Projects +EQT @live
 x (E) Swimming and climbing gear should be in the car +Overhead
