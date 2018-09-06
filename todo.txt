@@ -1,54 +1,46 @@
-(B) Review Aideen's report @live +EQT
-x (C) add bug reports for current OBF version (clear and delete word) @Live +EQT
-x (E) Fill out 'close bank account' form +EQT @live
-Brainstorm on sport projects: particularly Judo.
-
-(E) Review https://www.fundingcentral.org.uk/SchemeList.aspx?NB=2&RT=2&BK=4&ST=0&WCU=CBC=View,DSCODE=OTSSCMLIVE,SCHEMEID=248-S39500 
-(C) Phone up about GlaxoSmithKline (GSK) IMPACT Awards re anual income
-(E) Search for funding for eQuality Time Projects +EQT @live
-(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
-x (E) Open and log progress on the bid status document +EQT
-x (E) Do full accounts algorithm +EQT
-x (D) Make a livestream listing, including with Introduction, include shownotes. +EQT
-x (C) 2. Go live +EQT
-x (B) Phone up about the standards to buy +EQT @phone https://www.iso.org/standard/59543.html
-x (A) FIll in comfirmation statement for comapneis house +EQT
-(C) pay cheque from isaac +EQT @OUTSIDE SAS: get the paying in slip
+(C) 2. Go live +EQT
 (C) Do brainstorm on leaving space (for yearly goals)  +Family
-(C) Message the birthday children people about date.  +Family
-(C) Put Office onto Desktop https://products.office.com/en-GB/student/office-in-education?ms.officeurl=getoffice365
+(C) Go through Yvonne's paper +WWW +EQT
+(C) Make sure aideen is paid  +EQT
+(C) More of a brainstorm on timetracking.  +Overhead
+(C) Prep big carazonne for return to clare due:8/9/18 +Family
+(C) Put the consultant information on github issues +EQT @live
+(C) pay cheque from isaac +EQT @OUTSIDE SAS: Fill out paying in slip @live
+(D) Add the report to the github for dementia +EQT @live
+(D) Brainstorm on sport projects: particularly Judo. +EQT @live
+(D) Do blog post on arts council feedback +EQT @live
 (D) Fix the front doorbell +Family
 (D) Get public in private working with desktop +Overhead
+(D) Order new credit cards +Family
 (D) Phone about internet +Family
 (D) Process Halifax statement +Family
-(D) Tell CW about Kat coming climbing. +Family
+(D) Put tent and swing into loft +Family
+(D) put bank documents in climbing bag.  +EQT
+(E) Blog out time to visit bathroom shop +Family
 (E) Check Voicemail  +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-(E) Check the firebreak in: whatsapp
 (E) Check £40 in Wallet +Overhead
+(E) Do a blog post on the report.  +EQT
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Overhead 
 (E) Fill out fear/passion table @laptop +overhead
 (E) Fill out fear/passion table @laptop +overhead
-(E) Find out about the sibling book and put it on the sibling facebook site.
 (E) Fix teapot +overhead
-(E) Floss +Health
-(E) Label the kitchen cupboards.
-(E) Pick an article from Evernote drafts and put it online 
-(E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Pull out some thank you cards from momentos for the guest room
-(E) Put up 'are you carrying anything' sign +Family
 (E) Review all personal projects in github +Family
+(E) Review https://www.fundingcentral.org.uk/SchemeList.aspx?NB=2&RT=2&BK=4&ST=0&WCU=CBC=View,DSCODE=OTSSCMLIVE,SCHEMEID=248-S39500  +EQT
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Send the report to the dementia people +EQT
 (E) Sharpen shirt corners +PersonalProject
-(E) Swimming and climbing gear should be in the car +Overhead
 (E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
 (E) Work out how to regularly update todo.txt's github +Overhead
+(E) Work out the next action for thank you cards in spare room.  +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family @laptop
 (E) Write a letter to Nova +Family @laptop
@@ -56,6 +48,7 @@ x (A) FIll in comfirmation statement for comapneis house +EQT
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
+(E) check the 'to put in evernote' folder and add to database +EQT @phone @live
 (E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING
 (E) do premium bonds form +Overhead
 (E) fix desktop tracker +Overhead
@@ -86,21 +79,30 @@ x (A) FIll in comfirmation statement for comapneis house +EQT
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
+(F) Get plastic sheet for under nova's chair +Family
 (F) write the functions for recording the size of the todo list. +Overhead
-Order new credit cards +Family
+x (A) 1. Check Calendar @singleton +overhead
 x (A) 1. Check Calendar @singleton +overhead
 x (A) 2. Clear crate @singleton +overhead
+x (A) 2. Clear crate @singleton +overhead
+x (A) 3. Process Reminders and brainstorms. @singleton +overhead
 x (A) 3. Process Reminders and brainstorms. @singleton +overhead
 x (B) 1. Plan food and exercise @singleton +Overhead
-x (B) Message birthday people about setting a date +Family
+x (B) 1. Plan food and exercise @singleton +Overhead
+x (B) Brainstorm on time tracking +EQT
+x (B) Let aideen know the report is cool  +EQT
+x (B) Review Aideen's report @live +EQT
 x (C) 1. Process Email @singleton +Overhead
-x (D) Curate the wishlist
-x (D) find out how to change the chanel on the doorbells +Family
-x (E) Check Desktop Tracker is working +Overhead
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
-x (E) Check the bike 'go bag'+Overhead
-x (E) Find out how to put text into ovf from keyboard
-x (E) Go thought phone screen shots for tasks +Overhead
-x (E) Go through notebook (and iphone reminders) for tasks +Overhead
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x Get yet another new plug +Family
+x (C) Message the birthday children people about date.  +Family
+x (C) Phone up about GlaxoSmithKline (GSK) IMPACT Awards re anual income
+x (C) Put Office onto Desktop https://products.office.com/en-GB/student/office-in-education?ms.officeurl=getoffice365 +EQT
+x (D) Tell CW about Kat coming climbing. +Family
+x (E) Check the firebreak in: whatsapp
+x (E) Find out about the sibling book and put it on the sibling facebook site.  +WWW
+x (E) Floss +Health
+x (E) Label the kitchen cupboards.
+x (E) Pick an article from Evernote drafts and put it online  +EQT
+x (E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
+x (E) Put up 'are you carrying anything' sign +Family 
+x (E) Search for funding for eQuality Time Projects +EQT @live
+x (E) Swimming and climbing gear should be in the car +Overhead
