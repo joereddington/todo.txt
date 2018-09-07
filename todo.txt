@@ -1,7 +1,13 @@
+(A) 1. Check Calendar @singleton +overhead
+(A) 2. Clear crate @singleton +overhead
+(A) 3. Process Reminders and brainstorms. @singleton +overhead
 (A) Brainstorm on the projects for these issues: https://github.com/eQualityTime/Public/issues/30 +EQT
 (A) Contact CW about https://github.com/eQualityTime/Public/issues/37 @email +EQT
 (A) Put https://github.com/eQualityTime/TheOpenVoiceFactory/issues/73 on adenda for greg meeting and arrange. Need to go through each one and edit the issues live. 
 (A) look for power cable for battery charger +EQT 
+(B) 1. Plan food and exercise @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT
 (C) Add this to greg adenda https://github.com/eQualityTime/TheOpenVoiceFactory/issues/80
 (C) Contact the heritage england person, thank them for the exhibtiion and ask if they know any funding streams for Digital local heros +EQT @email
 (C) Do brainstorm on leaving space (for yearly goals)  +Family
@@ -24,9 +30,15 @@
 (D) Update the risk assessment on +EQT website to v0.3 
 (D) put bank documents in climbing bag.  +EQT
 (E) Blog out time to visit bathroom shop +Family
+(E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check £40 in Wallet +Overhead
+(E) Do full accounts algorithm +EQT
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
@@ -34,18 +46,32 @@
 (E) Fill out fear/passion table @laptop +overhead
 (E) Fill out fear/passion table @laptop +overhead
 (E) Fix teapot +overhead
+(E) Floss +Health
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html +EQT
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Review all personal projects in github +Family
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Send the report to the dementia people +EQT
 (E) Sharpen shirt corners +PersonalProject
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Update Symptoms and Moods file +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
 (E) Work out how to regularly update todo.txt's github +Overhead
 (E) Work out the next action for thank you cards in spare room.  +Family
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family @laptop
 (E) Write a letter to Nova +Family @laptop
@@ -87,34 +113,3 @@
 (E) write a letter to nova +Family
 (F) Get plastic sheet for under nova's chair +Family
 (F) write the functions for recording the size of the todo list. +Overhead
-x (A) 1. Check Calendar @singleton +overhead
-x (A) 1. Check Calendar @singleton +overhead
-x (A) 2. Clear crate @singleton +overhead
-x (A) 2. Clear crate @singleton +overhead
-x (A) 3. Process Reminders and brainstorms. @singleton +overhead
-x (A) 3. Process Reminders and brainstorms. @singleton +overhead
-x (B) 1. Plan food and exercise @singleton +Overhead
-x (B) 1. Plan food and exercise @singleton +Overhead
-x (B) Brainstorm on time tracking +EQT
-x (B) Let aideen know the report is cool  +EQT
-x (B) Review Aideen's report @live +EQT
-x (C) 1. Process Email @singleton +Overhead
-x (C) 2. Go live +EQT
-x (C) Message the birthday children people about date.  +Family
-x (C) Phone up about GlaxoSmithKline (GSK) IMPACT Awards re anual income
-x (C) Put Office onto Desktop https://products.office.com/en-GB/student/office-in-education?ms.officeurl=getoffice365 +EQT
-x (C) Put the consultant information on github issues +EQT @live
-x (D) Add the report to the github for dementia +EQT @live
-x (D) Tell CW about Kat coming climbing. +Family
-x (D) blog about the essex challenge prize and link to iwki.https://github.com/eQualityTime/TheOpenVoiceFactory/wiki/Essex-Challenge-Prize  +EQT @live
-x (E) Check the firebreak in: whatsapp
-x (E) Do a blog post on the report.  +EQT
-x (E) Find out about the sibling book and put it on the sibling facebook site.  +WWW
-x (E) Floss +Health
-x (E) Label the kitchen cupboards.
-x (E) Pick an article from Evernote drafts and put it online  +EQT
-x (E) Ping Hannah - when is she down in October because I am planning gatherings.+Family
-x (E) Put up 'are you carrying anything' sign +Family 
-x (E) Review https://www.fundingcentral.org.uk/SchemeList.aspx?NB=2&RT=2&BK=4&ST=0&WCU=CBC=View,DSCODE=OTSSCMLIVE,SCHEMEID=248-S39500  +EQT
-x (E) Search for funding for eQuality Time Projects +EQT @live
-x (E) Swimming and climbing gear should be in the car +Overhead
