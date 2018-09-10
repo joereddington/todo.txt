@@ -1,35 +1,35 @@
-(A) 1. Check Calendar @singleton +overhead
-(A) Reclassiy the (Z)s
-(A) 1. Check Calendar @singleton +overhead
-(A) 1. Check Calendar @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) Brainstorm on the projects for these issues: https://github.com/eQualityTime/Public/issues/30 +EQT
+x (A) Brainstorm on the projects for these issues: https://github.com/eQualityTime/Public/issues/30 +EQT
 (A) Check Voicemail  +Overhead
 (A) Contact CW about https://github.com/eQualityTime/Public/issues/37 @email +EQT
+(A) Reclassiy the (Z)s
 (A) move Greg meeting to tomorrow. 
 (B) 1. Plan food and exercise @singleton +Overhead
-(B) 1. Plan food and exercise @singleton +Overhead
-(B) 1. Plan food and exercise @singleton +Overhead
+(B) Follow up with the designer doing +WWW work. 
 (B) Post bank form 
 (B) Talk to kat about the times I've spent at work. 
 (B) contact accountant - we're good to go. 
 (B) map project - bring the WWW accounts up to date
 (C) 1. Process Email @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT
 (C) 2. Go live +EQT
 (C) 2. Go live +EQT
+(C) Add to igor 'put two bags in car for clearing it out at the end'
 (C) Do brainstorm on leaving space (for yearly goals)  +Family
+(C) Find someone on upwork who can put R on dreamhost.
 (C) Go through Yvonne's paper +WWW +EQT
 (C) Make sure aideen is paid  +EQT
-(C) Prep big carazonne for return to clare due:8/9/18 +Family
+(C) Map the prison IT project
+(C) Put CSS project on upwork. 
+(C) Put on the +EQT newsletter - moving Greg over to a proper contract. 
+(C) Tell Grge you've changed your mind - everything should be as ready as possible +EQT
+(C) buy adapters for Mega drive 
+(C) post clare card +Social
+(C) reply to Tom +Social
+(C) reply to mum +EQT
+(C) secure the cables for teapot with nails 
+(C) show Kat the corkboard that you want to get +Family
 (C) take CM cheque to bank +EQT @OUTSIDE 
+(D) Arrange another call with Laurence
 (D) Brainstorm on sport projects: particularly Judo. +EQT 
 (D) Do blog post on arts council feedback +EQT @live
 (D) Get public in private working with desktop +Overhead
@@ -37,8 +37,14 @@
 (D) Phone about internet +Family @phone
 (D) Process Halifax statement +Family
 (D) Put tent and swing into loft +Family
+(D) Put up stairgate
+(D) Talk to kat about brushes and food mats 
 (D) Update the risk assessment on +EQT website to v0.3 
+(D) Wrap book to post back to CW +Social
+(D) another sprint on mega drivs
 (D) check contracted hours and blog the contract. 
+(D) fix Nova's door
+(D) get some socks and rombers from Kat for Nova +Family
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the bike 'go bag'+Overhead
@@ -94,6 +100,7 @@
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Sharpen shirt corners +PersonalProject
+(E) Start a roof rack project
 (E) Trim nose hair +Health
 (E) Try https://gitup.co/
 (E) Update Symptoms and Moods file +Health
@@ -109,6 +116,7 @@
 (E) Write a letter to Nova +Family @laptop
 (E) Write a letter to Nova +Family @laptop
 (E) add https://www.youtube.com/watch?v=A2OtU5vlR0k&feature=youtu.be&list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS to watch later list. +PersonalProjects
+(E) arrange blind wood test for Kat
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +equalitytime
 (E) backup dreamhost +equalitytime
@@ -126,6 +134,7 @@
 (E) floss +Health 
 (E) listen to  randy pausch talk +overhead
 (E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§ +Family
+(E) put up second monitor on desk
 (E) review facebook theory of change +Overhead
 (E) review starred items in feeds +Overhead
 (E) review your highlights and notes from kindle books  +Overhead
@@ -142,16 +151,11 @@
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
+(E) write the functions for recording the size of the todo list. +Overhead
 (F) Get plastic sheet for under nova's chair +Family
-(F) write the functions for recording the size of the todo list. +Overhead
-(Z) Tidy bedroom +Family
-(Z) another sprint on mega drivs
-(Z) arrange blind wood test for Kat
-(Z) buy adapters for Mega drive 
-(Z) buy new shoes) 
-(Z) fix Nova's door
-(Z) get better brush 
-(Z) get some socks and rombers from Kat for Nova +Family
-(Z) remove skirting board
-(Z) secure the cables for teapot with nails 
-(Z) show Kat the corkboard that you want to get +Family
+x (A) 1. Check Calendar @singleton +overhead
+x (A) 3. Process Reminders and brainstorms. @singleton +overhead
+x (C) Prep big carazonne for return to clare due:8/9/18 +Family
+x (Z) Tidy bedroom +Family
+x (Z) buy new shoes) 
+x (Z) remove skirting board
