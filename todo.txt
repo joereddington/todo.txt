@@ -1,46 +1,17 @@
-(A) 1. Check Calendar @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
 (A) 3. Process Reminders and brainstorms. @singleton +overhead
-(B) 1. Plan food and exercise @singleton +Overhead
-(B) Sprint on https://github.com/eQualityTime/Public/issues/43
+(A) 3. Process Reminders and brainstorms. @singleton +overhead
+(A) absolutely sprint on https://github.com/eQualityTime/Public/issues/39 today +EQT
+(B) Sprint on https://github.com/eQualityTime/Public/issues/43 +WWW
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
-(C) Add to igor 'put two bags in car for clearing it out at the end' +overhead
-(C) Do brainstorm on leaving space (for yearly goals)  +Family
-(C) Find out about git-bisect +EQT
-(C) Find someone on upwork who can put R on dreamhost.+EQT
-(C) Follow up with the designer doing +WWW work. 
-(C) Go through Yvonne's paper +WWW +EQT
-(C) Map the prison IT project +WWW
-(C) Put CSS project on upwork.  +EQT
-(C) Put on the +EQT newsletter - moving Greg over to a proper contract. 
-(C) Revise the start up form for matha
-(C) buy adapters for Mega drive  +Personal 
 (C) put up recent amazon invoice +EQT
-(C) secure the cables for teapot with nails  +Family 
 (C) show Kat the corkboard that you want to get +Family
 (C) take CM cheque to bank +EQT @OUTSIDE 
-(D) Arrange another call with Laurence +EQT
-(D) Attack the podcast project
-(D) Brainstorm on sport projects: particularly Judo. +EQT 
-(D) Do blog post on arts council feedback +EQT @live
+(D) Brainstorm on using git for version control of policies. 
 (D) Get public in private working with desktop +Overhead
-(D) Order new credit cards @phone:0800 0 15 15 15 +Family 
-(D) Phone about internet +Family @phone
 (D) Process Halifax statement +Family
-(D) Put up stairgate +Family 
-(D) Talk to kat about brushes and food mats 
-(D) Update the risk assessment on +EQT website to v0.3 
-(D) Wrap book to post back to CW +Social
+(D) Upload first Speechful epside here: https://creatorguide.soundcloud.com/podcasting @live 
 (D) another sprint on mega drivs
-(D) fix Nova's door
-(D) look for bike torch in the loft +Overhead
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Backup Dreamhost +EQT
-(E) Check Desktop Tracker is working +Overhead
-(E) Check Voicemail  +Overhead
-(E) Check if there are any moonpig cards to send this month +Overhead
-(E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
@@ -129,6 +100,7 @@
 (E) Send Trustees something nice about outcomes +EQT
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Sharpen shirt corners +PersonalProject
+(E) Sprint writing a desktop tracker in python.
 (E) Start a roof rack project +Family 
 (E) Swimming and climbing gear should be in the car +Overhead
 (E) TSE +Health
@@ -183,4 +155,17 @@
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 (E) write the functions for recording the size of the todo list. +Overhead
-(f) Get plastic sheet for under nova's chair +Family
+(F) Get plastic sheet for under nova's chair +Family
+(Z) Create OVF issue for making the javascript version of the app to full the page on a phone.  +EQT
+(Z) Do a blog post about digital local heros. 
+(Z) Ping david whiteland about visit
+(Z) Sort out bathroom cubpoard
+(Z) draw kat the brain picture
+(Z) email the booked schools. 
+(Z) fill out premium bond form .
+(Z) make kindle fire into proper long form reading device. 
+(Z) map project and buy wifi extender for yvinne project. 
+(Z) put your week's internet history up for the friday accoutability. 
+(Z) sprint on podcast as public project.
+(Z) try firefox on @modbile +overhead
+(z) work on the other megadrives +family
