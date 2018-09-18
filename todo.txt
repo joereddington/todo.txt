@@ -1,105 +1,90 @@
-(C) 2. Go live +EQT @singleton
-(C) 1. Process Email @singleton +Overhead
-(B) 1. Plan food and exercise @singleton +Overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) 2. Clear crate @singleton +overhead 
-(A) 1. Check Calendar @singleton +overhead
-(C) put up recent amazon invoice +EQT
-(C) secure the cables for teapot with nails  +Family 
-(C) take CM cheque to bank +EQT @OUTSIDE 
-(D) Brainstorm on using git for version control of policies.  +EQT
+(Z) Sort out bathroom cubpoard +Family  @nova
+(E) use face strip  +Health @nova
+(E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM +Overhead @nova
+(E) say something nice to §e:u2fsdgvkx19ip+vdnlnxjc5ug09rco/u9qxhDQAAZQO=§ +Social  @nova
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family @nova
+(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family @nova
+(E) review your highlights and notes from kindle books +Overhead @nova (good reads app)
+(E) review your highlights and notes from kindle books  +Overhead  @nova (good reads app)
+(E) review starred items in feeds +Overhead @nova
+(E) listen to  randy pausch talk +Overhead @nova
+(E) floss +Health @nova
+(E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING +Social @nova
+(E) brainstorm on using document register to always give 'most recent' document. +EQT  @nova
+(E) brainstorm on sugar  @nova
+(E) add https://www.youtube.com/watch?v=A2OtU5vlR0k&feature=youtu.be&list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS to watch later list. +PersonalProjects @nova
+(E) Video call with Kat family +Family @Nova 
+(E) Use Face strip +Health @Nova 
+(E) Trim nose hair +Health @Nova 
+(E) Trim nose hair +Health @Nova 
+(E) Swimming and climbing gear should be in the car +Overhead @Nova 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked @Nova 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked +Social @Nova 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ +Social  @Nova 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family @Nova 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family @Nova 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family @Nova 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family @Nova 
+(E) Review yearly goals +Overhead @nova 
+(E) Review starred items in feeds +Overhead @Nova
+(E) Repack climbing bag +Overhead @nova 
+(E) Post to WWW facebook page +EQT @nova
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ @nova
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ @nova
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ @nova
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead @nova
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html +EQT @nova 
+(E) Give laptop screen a good clean +Overhead @nova 
+(E) Floss +Health @nova 
+(E) Fill out fear/passion table +Health @nova
+(E) Fill out fear/passion table +Health @nova
+(E) Fill out fear/passion table +Health @nova
+(E) Fill out fear/passion table +Health @nova
+(E) Confirm plans for next two weekends.+Overhead @nova
+(E) Check the bike 'go bag'+Overhead @nova
+(E) Add two bags to the car for clearning/carring out +EQT @nova
+(D) Brainstorm on using git for version control of policies.  +EQT @nova
+(C) take CM cheque to bank +EQT @OUTSIDE @nova
+(C) secure the cables for teapot with nails  +Family @nova
+(A) 3. Process Reminders and brainstorms. @singleton +overhead @nova @laptop
+(A) 2. Clear crate @singleton +overhead  @nova
+(A) 1. Check Calendar @singleton +overhead @nova
 (D) Upload first Speechful epside here: https://creatorguide.soundcloud.com/podcasting @live  +Social
 (D) another sprint on mega drivs +Family
-(E) Add two bags to the car for clearning/carring out +EQT
 (E) Check Desktop Tracker is working +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead
-(E) Check the bike 'go bag'+Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
-(E) Check the next school time +EQT
-(E) Confirm plans for next two weekends.+Overhead
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Do full accounts algorithm +EQT
-(E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
 (E) Fix teapot: put monitor near it.  +Overhead
 (E) Floss +Health
-(E) Floss +Health
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/02.html +EQT
-(E) Make sure paper crane is in bathroom +Family
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Post to WWW facebook page +EQT
-(E) Post to WWW facebook page +EQT
-(E) Publicly thank someone +Overhead
-(E) Repack climbing bag +Overhead
 (E) Review all projects in github +Overhead
-(E) Review starred items in feeds +Overhead
-(E) Review yearly goals +Overhead
 (E) Review yearly goals +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
 (E) Run watson on the new heart rate file. 
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ +Social 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked +Social
 (E) Setup rightomove search for richard house. +Family
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103 +EQT 
 (E) Sprint writing a desktop tracker in python. +Overhead
 (E) Start a roof rack project +Family 
-(E) Swimming and climbing gear should be in the car +Overhead
-(E) Trim nose hair +Health
-(E) Trim nose hair +Health
-(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
-(E) Video call with Kat family +Family
-(E) Wash sheets and towels +Family
 (E) Write a letter to Nova +Family
-(E) add https://www.youtube.com/watch?v=A2OtU5vlR0k&feature=youtu.be&list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS to watch later list. +PersonalProjects
 (E) arrange blind wood test for Kat +Family 
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) ask for testimonal from completed fundings +EQT
 (E) backup dreamhost +EQT
-(E) brainstorm on sugar 
-(E) brainstorm on using document register to always give 'most recent' document. +EQT 
-(E) contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for ADVICE ABOUT SOMETHING +Social
 (E) deal with next school. +EQT
 (E) do premium bonds form +Overhead
 (E) fix desktop tracker +Overhead
-(E) floss +Health
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
-(E) floss +Health 
-(E) listen to  randy pausch talk +Overhead
-(E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§ +Family
 (E) put water into the dailys 
-(E) review starred items in feeds +Overhead
-(E) review your highlights and notes from kindle books  +Overhead
-(E) review your highlights and notes from kindle books +Overhead
-(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
-(E) save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9OUZQU=§ IN THE BOOK +Family
-(E) say something nice to §e:u2fsdgvkx19ip+vdnlnxjc5ug09rco/u9qxhDQAAZQO=§ +Social 
-(E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM +Overhead
-(E) use face strip  +Health
 (E) use face strip +Health
 (E) use face strip +Health
 (E) use face strip +Health
@@ -108,7 +93,6 @@
 (F) Get plastic sheet for under nova's chair +Family
 (Z) Create OVF issue for making the javascript version of the app to full the page on a phone.  +EQT
 (Z) Do a blog post about digital local heros.  +EQT
-(Z) Sort out bathroom cubpoard +Family 
 (Z) arrange eqt meeting  +EQT
 (Z) buy wardrobe mirror doors. 
 (Z) email the booked schools.  +EQT
@@ -118,33 +102,15 @@
 (Z) put photos of statements into the bank folder. +EQT
 (Z) sprint on podcast as public project. +Socail 
 (Z) work on the other megadrives +Family
-2018-09-16
-x (C) Cut nails. 
-x (D) Get public in private working with desktop +Overhead
-x (E) Check Voicemail  +Overhead
-x (E) Cut nails +Health
-x (E) Floss +Health
-x (E) Go thought phone screen shots for tasks +Overhead
-x (E) Go through notebook (and iphone reminders) for tasks +Overhead
-x (E) Go through phone and save all of the numbers +Overhead
-x (E) Go through the shared reminder list with Heart +Family
-x (E) Log weight +Health
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Make walking grips for Nova clothes with hot glue +Family
-x (E) Make workstation spotless +Overhead
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open and log progress on the bid status document +EQT
-x (E) Pick an article from Evernote drafts and put it online 
-x (E) Post to Sibling Facebook group
-x (E) Process inbox in evernote +Overhead
-x (E) Remind Kat to do Nova's menu +Family
-x (E) Send Trustees something nice about outcomes +EQT
-x (E) TSE +Health
-x (E) Update Symptoms and Moods file +Health
-x (E) Update Symptoms and Moods file +Health
-x (E) Update Symptoms and Moods file +Health
-x (E) Update Symptoms and Moods file +Health
-x (E) check the 'to put in evernote' folder and add to database +EQT @phone @live
-x (Z) Lookup door for garage (both ends)
+x (B) 1. Plan food and exercise @singleton +Overhead
+x (C) 1. Process Email @singleton +Overhead
+x (C) 2. Go live +EQT @singleton
+x (E) Check that everything in the 'in process' box really does have a task+Overhead
+x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+x (E) Make sure paper crane is in bathroom +Family
+x (E) Publicly thank someone +Overhead
+x (E) Wash sheets and towels +Family
+x (E) floss +Health 
+x (E) look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6MOP/OQE8B1WJ4GTB0=§ +Family
