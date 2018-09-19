@@ -1,8 +1,11 @@
 (A) Talk to Kate about stakeholders +EQT 
+(C) Send a couple of sentances to RCSLT on the topic of 'what difference will you make if you help us with this' @EQT
+(B) BUy the ISO standards
 (B) Phone up about standards for medical device +EQT
 (B) put photos of statements into the bank folder. +EQT
 (C) Brainstorm adenda for +EQT meeting 
 (C) Brainstorm creation of other Javascript issues for OVF +EQT
+x (Z) Find out about off camera flash
 (C) take CM cheque to bank +EQT @OUTSIDE @nova
 (D) Ask KM if you can use R in these: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/96 +EQT
 (D) Have a conversation with Greg about github for policy versioning.  +EQT
@@ -72,17 +75,3 @@
 (E) Write a letter to Nova +Family
 (E) arrange blind wood test for Kat +Family 
 (F) Get plastic sheet for under nova's chair +Family
-x (D) Map prison internet project +EQT +WWW
-x (E) Search for funding for eQuality Time Projects +EQT
-x (E) deal with next school. +EQT
-x (Z) Do a blog post about digital local heros.  +EQT
-x (A) Contact AS about casual work +EQT 
-x (A) Confirm dates with LB about casual work. +EQT
-x (B) Follow up with essex testers +EQT @email
-x (B) Find the eleectonic version of the challenge dementia document. +EQT @email 
-x (A) email the booked schools.  +EQT @email
-x (E) Post to WWW facebook page +EQT +WWW
-x (B) Buy the prison router @amazon +EQT
-x (A) Email praaactical aac about meeitng.  @email 
-x (D) Email kew gardens about wood collection
-x (A) 3. Process Reminders and brainstorms. @singleton +overhead @nova @laptop
