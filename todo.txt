@@ -1,47 +1,42 @@
-(A) Talk to Kate about stakeholders +EQT 
-x (B) Phone up about standards for medical device +EQT
-(B) Buy the same standards. 
-(B) put photos of statements into the bank folder. +EQT
-(C) Brainstorm adenda for +EQT meeting 
-(C) Brainstorm creation of other Javascript issues for OVF +EQT
-x (Z) Find out about off camera flash
-(C) take CM cheque to bank +EQT @OUTSIDE @nova
-(D) Ask KM if you can use R in these: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/96 +EQT
+(A) Prepare the email for Kate about stakeholders +EQT
+(B) Buy these standards http://equalitytime.co.uk/6235/2018/06/04/open-source-medical-device-registration/  +EQT
+(B) Get bits of wood to use as padding for the door +EQT
+(B) Phone Natwest (333 271 6697) (in contacts) about Morgage
+(C) Put CM cheque and paying in slip into phone case +EQT @OUTSIDE @nova
 (D) Have a conversation with Greg about github for policy versioning.  +EQT
-(E) Do full accounts algorithm +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
-(E) Sprint on https://github.com/joereddington/Jarvis/issues/103 
-(E) backup dreamhost +EQT
-(E) equalitytime.co.uk/supertitle should include blog posts +EQT
-(A) 2. Clear crate @singleton +overhead  @nova
-(D) fill out premium bond form . +Overhead 
-(E) Check Desktop Tracker is working +Overhead
+(D) Pick up the first mega drive and do the action +Family
+(D) Switch the wardrobe doors from main to corner +Family
+(E) Add two bags to the car for clearning/carring out +Family @nova
+(E) Check that you can smoothly post the todo chart from the command line +overhead
 (E) Check the bike 'go bag'+Overhead @nova
+(E) Do full accounts algorithm +EQT
 (E) Do this mapping.  http://learnvimscriptthehardway.stevelosh.com/chapters/10.html 
 (E) Fix teapot: put monitor near it.  +Overhead
 (E) Floss +Health
-(E) Get bulbs for kitchen  +Family 
 (E) Review all projects in github +Overhead
 (E) Review starred items in feeds +Overhead @Nova
 (E) Review your highlights and notes from Kindle books +Overhead
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
 (E) Run watson on the new heart rate file. 
+(E) Sort out bathroom cubpoard +Family  @nova
+(E) Sprint on https://github.com/joereddington/Jarvis/issues/103 
 (E) Sprint writing a desktop tracker in python. +Overhead
-(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
+(E) Write a letter to Nova +Family
+(E) arrange blind wood test for Kat +Family 
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
-(E) do premium bonds form +Overhead
-(E) fix desktop tracker +Overhead
+(E) backup dreamhost +EQT
+(E) equalitytime.co.uk/supertitle should include blog posts +EQT
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health @nova
-(E) listen to  randy pausch talk +Overhead @nova
-(E) put water into the dailys 
+(E) listen to randy pausch talk +Overhead @nova
 (E) review starred items in feeds +Overhead @nova
 (E) review your highlights and notes from kindle books  +Overhead  @nova (good reads app)
 (E) review your highlights and notes from kindle books +Overhead @nova (good reads app)
@@ -50,41 +45,45 @@ x (Z) Find out about off camera flash
 (E) use face strip +Health
 (E) use face strip +Health
 (E) use face strip +Health
-(E) write the functions for recording the size of the todo list. +Overhead
-(F) Find out if you can put a countdown on your streaming. 
-(F) Igor event for either mouse or phone in box
-(D) Get some photos printed for the cork board +Family 
-(D) Put up the cork board +Family 
-(D) buy wardrobe mirror doors.  +Family 
-(D) invite aunt shiela for visit +Family 
-(E) Add two bags to the car for clearning/carring out +Family @nova
-(B) Message the guy about the door  +Family 
-(B) Drill hole in wall for cupboards +Family 
-(A) Look up Airbnbs for Kat +Family 
-(B) Phone up about morgage +Family
-(D) Add 'total amount spent' and 'original budget' to house improvements sheet +Family
-(D) Do Richard's subject data access request +Family. 
-(D) Find some exampls of baths and showers you like +Family 
-(D) another sprint on mega drivs +Family
-(D) work on the other megadrives +Family
-(E) Setup rightomove search for richard house. +Family
-(E) Sort out bathroom cubpoard +Family  @nova
-(E) Start a roof rack project +Family 
-(E) Video call with Kat family +Family @Nova 
-(E) Write a letter to Nova +Family
-(E) arrange blind wood test for Kat +Family 
 (F) Get plastic sheet for under nova's chair +Family
-x (D) Map prison internet project +EQT +WWW
-x (E) Search for funding for eQuality Time Projects +EQT
-x (E) deal with next school. +EQT
-x (Z) Do a blog post about digital local heros.  +EQT
-x (A) Contact AS about casual work +EQT 
-x (A) Confirm dates with LB about casual work. +EQT
-x (B) Follow up with essex testers +EQT @email
-x (B) Find the eleectonic version of the challenge dementia document. +EQT @email 
-x (A) email the booked schools.  +EQT @email
-x (E) Post to WWW facebook page +EQT +WWW
-x (B) Buy the prison router @amazon +EQT
-x (A) Email praaactical aac about meeitng.  @email 
-x (D) Email kew gardens about wood collection
+(Z) Email Dan to ask about trustee terms of reference.  +EQT @email
+(Z) Set proximatity alarm for when near at natwest bank.  +EQT
+(Z) Talk to kat about spending some money on an architect. +Family
+x (A) 2. Clear crate @singleton +overhead  @nova
 x (A) 3. Process Reminders and brainstorms. @singleton +overhead @nova @laptop
+x (A) Confirm dates with LB about casual work. +EQT
+x (A) Contact AS about casual work +EQT 
+x (A) Email praaactical aac about meeitng.  @email 
+x (A) Look up Airbnbs for Kat +Family 
+x (A) email the booked schools.  +EQT @email
+x (B) Buy the prison router @amazon +EQT
+x (B) Find the eleectonic version of the challenge dementia document. +EQT @email 
+x (B) Follow up with essex testers +EQT @email
+x (B) Message the guy about the door  +Family 
+x (B) Phone up about standards for medical device +EQT
+x (B) put photos of statements into the bank folder for accountant. +EQT
+x (C) @email greg to ask about taking on a second person to do javascript. 
+x (C) Brainstorm adenda for +EQT meeting 
+x (D) Add 'total amount spent' and 'original budget' to house improvements sheet +Family
+x (D) Ask KM if you can use R in these: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/96 +EQT
+x (D) Check the set of photos you want to print with Kat +Family 
+x (D) Do Richard's subject data access request +Family. 
+x (D) Email kew gardens about wood collection
+x (D) Find some exampls of baths and showers you like +Family 
+x (D) Map prison internet project +EQT +WWW
+x (D) Put up the cork board +Family 
+x (D) fill out premium bond form . +Overhead 
+x (D) invite aunt shiela for visit +Family 
+x (E) Get bulbs for kitchen  +Family 
+x (E) Post to WWW facebook page +EQT +WWW
+x (E) Search for funding for eQuality Time Projects +EQT
+x (E) Setup rightomove search for richard house. +Family
+x (E) Start a roof rack project +Family 
+x (E) Video call with Kat family +Family @Nova 
+x (E) deal with next school. +EQT
+x (E) do premium bonds form +Overhead
+x (E) put water into the dailys 
+x (F) Find out if you can put a countdown on your streaming. 
+x (F) Igor event for either mouse or phone in box
+x (Z) Do a blog post about digital local heros.  +EQT
+x (Z) Find out about off camera flash
