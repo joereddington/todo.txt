@@ -1,21 +1,27 @@
-(A) Do slides for Speechstory
-(A) Rewrite talk for speechstory. +EQT 
-(B) Badger Kate about names. 
+(A) 1. Check Calendar @singleton +overhead
+(A) 1a. 1L of Water @singleton +overhead
+(A) 2. Clear crate @singleton +overhead
+(A) 3. Process Reminders and brainstorms. @singleton +overhead
+(A) Put greg in calendar for 2pm thursays 
+(A) Rewrite talk for speechstory. +EQT  
+(B) 1. Plan food and exercise @singleton +Overhead
 (B) Phone Natwest (333 271 6697) (in contacts) about Morgage +Family
-(B) Reply accountant 
+(C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead SAS: Open email 
+(C) 2. Go live +EQT @singleton
 (C) Call Ong Thai Massage about booking.
 (C) Do the next action on each of the mega drives +Family 
-(C) Fix the gate at top of the stairs +Family SAS: get tape measure
 (C) Map project to chase up invoices. +EQT
 (C) Open up to TJR and RBP +Family 
-(C) Put CM cheque and paying in slip into phone case +EQT @OUTSIDE @nova SAS: check car for phone case. 
-(C) Put advert on Upwork for arctitect
+(C) Put CM cheque and paying in slip into phone case +EQT @OUTSIDE @nova 
 (C) Redo holiday brainstorm with Kat +Family
-(C) Review the blogs that people have done for challenge demenita 
+(C) Review new halifax statement +Family
 (C) Talk to kat about calendar colours
 (C) Tell will about games day
-(C) Test the mobile hotspot with a server and a simple webpage 
-(D) Brainstorm making +Family brainstorms fun. SAS: Get the paper for the brainstorming. 
+(C) Test the mobile hotspot with a server and a simple webpage
+(C) Tie Wrap For stool
+(C) Try https://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450 from your laptop in prep for the mobile hotspot
+(D) Brainstorm making +Family brainstorms fun. 
 (D) Brainstorm on a Joe birthday protocal for kat  +Family
 (D) Brainstorm on professional TooManyCooks
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London
@@ -25,24 +31,32 @@
 (D) Have a conversation with Greg about github for policy versioning.  +EQT
 (D) Listen to friends podcasts  +overhead
 (D) Pick up the first mega drive and do the action +Family
-(D) Put up masking tape for shelves in the Nova room.  +Family 
 (D) Tape receipt to homebase bulbs +Family 
 (E) Add two bags to the car for clearning/carring out +Family @car
 (E) Arrange wood strength demo for Kat. 
 (E) Brainstorm on pitching the christmas plan +Family
-(E) Buy more of the nice shampoo +Family. 
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead @nova
-(E) Create entirely new vim instance to get to the bottom of the vim leader issue  +EQT
-(E) Do this mapping.  http://learnvimscriptthehardway.stevelosh.com/chapters/10.html  +Overhead 
+(E) Do full accounts algorithm +EQT
+(E) Either phone or mouse is in the box.  +overhead
+(E) Fill out fear/passion table +Healt:
+(E) Fill out fear/passion table +Health
 (E) Fix teapot: put monitor near it.  +Overhead
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Open and log progress on the bid status document +EQT
 (E) Phone Dentist on 01582 572094 to make new apointment. @overhead
-(E) Play with raising the ISO on your camera
+(E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Print out photos for the cork board. +Family 
 (E) Put up cork board +Family 
 (E) Review all projects in github +Overhead
@@ -50,14 +64,19 @@
 (E) Review starred items in feeds +Overhead @Nova
 (E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
 (E) Start return on Amazon bulbs. 
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -77,5 +96,4 @@
 (E) use face strip +Health
 (E) use face strip +Health
 (F) Get plastic sheet for under nova's chair +Family
-(Z) Hot glue the slicing device
 (Z) Set proximatity alarm for when near at natwest bank.  +EQT
