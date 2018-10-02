@@ -1,74 +1,115 @@
-(A) 1. Check Calendar @singleton +overhead
-(A) 1a. 1L of Water @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) Put greg in calendar for 2pm thursays 
+x (A) 1. Check Calendar @singleton +overhead
+x (A) 1a. 1L of Water @singleton +overhead
+x (A) 2. Clear crate @singleton +overhead
+x (A) 3. Process Reminders and brainstorms. @singleton +overhead
+x (A) Brainstorm on meditation - last chance to get this right. +Overhead
+x (A) Find out what happened to Greg's money. 
+(A) Itterate the github for medical device work. 
 (A) Rewrite talk for speechstory. +EQT  
 (B) 1. Plan food and exercise @singleton +Overhead
-(B) Phone Natwest (333 271 6697) (in contacts) about Morgage +Family
 (C) 1. Process Email @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead SAS: Open email 
 (C) 2. Go live +EQT @singleton
-(C) Call Ong Thai Massage about booking.
-(C) Do the next action on each of the mega drives +Family 
-(C) Map project to chase up invoices. +EQT
-(C) Open up to TJR and RBP +Family 
-(C) Put CM cheque and paying in slip into phone case +EQT @OUTSIDE @nova 
-(C) Redo holiday brainstorm with Kat +Family
-(C) Review new halifax statement +Family
-(C) Talk to kat about calendar colours
-(C) Tell will about games day
-(C) Test the mobile hotspot with a server and a simple webpage
-(C) Tie Wrap For stool
-(C) Try https://lifehacker.com/start-a-simple-web-server-from-any-directory-on-your-ma-496425450 from your laptop in prep for the mobile hotspot
-(D) Brainstorm making +Family brainstorms fun. 
-(D) Brainstorm on a Joe birthday protocal for kat  +Family
+(C) Do the next action on each of the mega drives +Family  SAS: Check if the cleaned mega drive now works. 
+(C) Mark up photos for architecture people. 
+(C) Tell accountant about the CM cheque
+(D) Brainstorm on how to do birthday +Family 
 (D) Brainstorm on professional TooManyCooks
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London
-(D) Call laurence.  +Social
-(D) Do some sketching of a TV unit and where it should be. 
-(D) Google for another mega drive plug +Family
-(D) Have a conversation with Greg about github for policy versioning.  +EQT
+(D) Call Laurence.  +Social
+(D) Clear household spending balance with Kat 
+(D) Tidy up the expenditure against grant - remove the 'sent' and so on statuses. 
 (D) Listen to friends podcasts  +overhead
-(D) Pick up the first mega drive and do the action +Family
-(D) Tape receipt to homebase bulbs +Family 
-(E) Add two bags to the car for clearning/carring out +Family @car
-(E) Arrange wood strength demo for Kat. 
-(E) Brainstorm on pitching the christmas plan +Family
+(D) Message SL about javascript.
+(D) Print the return document for amazon.  
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Buy the wood you want for the gate +Family 
 (E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the bike 'go bag'+Overhead
-(E) Check the bike 'go bag'+Overhead
-(E) Check the bike 'go bag'+Overhead
-(E) Check the bike 'go bag'+Overhead @nova
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Check the next school time +EQT
+(E) Check the next school time +EQT
+(E) Confirm plans for next two weekends.+Overhead
+(E) Confirm plans for next two weekends.+Overhead
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Cut nails +Health
+(E) Cut nails +Health
 (E) Do full accounts algorithm +EQT
 (E) Either phone or mouse is in the box.  +overhead
+(E) Empty crate completely +Overhead
+(E) Empty crate completely +Overhead
 (E) Fill out fear/passion table +Healt:
 (E) Fill out fear/passion table +Health
-(E) Fix teapot: put monitor near it.  +Overhead
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fix teapot: Take downstairs to the other monitor +Overhead
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Floss +Health
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 (E) Go thought phone screen shots for tasks +Overhead
 (E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through phone and save all of the numbers +Overhead
+(E) Go through phone and save all of the numbers +Overhead
+(E) Go through the shared reminder list with Heart +Family
+(E) Go through the shared reminder list with Heart +Family
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Log weight +Health
+(E) Log weight +Health
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Make sure paper crane is in bathroom +Family
+(E) Make sure paper crane is in bathroom +Family
 (E) Open and log progress on the bid status document +EQT
 (E) Phone Dentist on 01582 572094 to make new apointment. @overhead
 (E) Pick an article from Evernote drafts and put it online 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Print out photos for the cork board. +Family 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Post to Sibling Facebook group
+(E) Post to Sibling Facebook group
+(E) Post to WWW facebook page +EQT
+(E) Post to WWW facebook page +EQT
+(E) Process inbox in evernote +Overhead
+(E) Process inbox in evernote +Overhead
+(E) Publicly thank someone +Overhead
+(E) Publicly thank someone +Overhead
+(E) Put sleep time into calendar +Overhead
+(E) Put sleep time into calendar +Overhead
 (E) Put up cork board +Family 
+(E) Remind Kat to do Nova's menu +Family
+(E) Remind Kat to do Nova's menu +Family
+(E) Review all projects in github +Overhead
+(E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
 (E) Review starred items in feeds +Overhead @Nova
 (E) Review yearly goals +Overhead
+(E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
-(E) Start return on Amazon bulbs. 
 (E) Swimming and climbing gear should be in the car +Overhead
+(E) Trim nose hair +Health
+(E) Trim nose hair +Health
 (E) Update Symptoms and Moods file +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -76,20 +117,20 @@
 (E) Use Face strip +Health
 (E) Use Face strip +Health 
 (E) Use Face strip +Heath
-(E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
+(E) Video call with Kat family +Family
+(E) Video call with Kat family +Family
+(E) Video call with Kat family to find out what they like about christmas. 
+(E) Wash sheets and towels +Family
+(E) Wash sheets and towels +Family
 (E) Write a letter to Nova +Family
 (E) arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
 (E) backup dreamhost +EQT
-(E) equalitytime.co.uk/supertitle should include blog posts +EQT
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
 (E) floss +Health 
-(E) listen to randy pausch talk +Overhead @nova
 (E) review starred items in feeds +Overhead @nova
 (E) spend 20 minutes or so considering the fruits of long term goALS @BRAINSTORM +Overhead @nova
 (E) use face strip +Health
@@ -97,3 +138,11 @@
 (E) use face strip +Health
 (F) Get plastic sheet for under nova's chair +Family
 (Z) Set proximatity alarm for when near at natwest bank.  +EQT
+Make sure you can do brainstorms in the longue/kitchen
+Write blog post that links to your phone accountability posts. 
+(B) Send out birthday details 
+(C) Ping greg about making the submission for MHRA into a repository. 
+(F) Put cupboard door on
+(C) Talk to Kat about more text message group conversations. 
+Get a daylight lamp
+
