@@ -1,21 +1,18 @@
-(A) 1. Check Calendar @singleton +overhead
-(A) 1a. 1L of Water @singleton +overhead
-(A) 2. Clear crate @singleton +overhead
-(A) 3. Process Reminders and brainstorms. @singleton +overhead
-(A) Do functional testing of the new release https://github.com/eQualityTime/TheOpenVoiceFactory/issues/97
-(A) Get back to accountant. 
-(A) Make the full list of invoices that we are waiting on. 
-(A) Meditate +overhead
+x (A) Meditate +overhead
 (A) Produce adenda for EQT meeting by saturday +EQT
 (A) Put on the roof rack +Family 
 (B) 1. Plan food and exercise @singleton +Overhead
+x (B) Call comic relief. 
+(B) Rewrite talk
 (B) Send out birthday details 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Do the next action on each of the mega drives +Family  SAS: Check if the cleaned mega drive now works. 
+(C) Fix tap in kitchen +Family
 (C) Get technical specs from dreamiest for our VPS for issue 82. 
 (C) Mark up photos for architecture people. 
 (C) Review Yvonnes paper 
+(C) Rewrite the developement policies from your experieence with the release branch.  
 (C) Sprint working on the HLF bid. 
 (C) Tell accountant about the CM cheque
 (C) Write the form for glynn
@@ -91,10 +88,6 @@
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to Sibling Facebook group
-(E) Post to Sibling Facebook group
-(E) Post to WWW facebook page +EQT
-(E) Post to WWW facebook page +EQT
 (E) Put up cork board +Family 
 (E) Remind Kat to do Nova's menu +Family
 (E) Review starred items in feeds +Overhead @Nova
@@ -119,6 +112,13 @@
 (E) Use face strip +Health Time:10 
 (E) Use face strip +Health Time:10 
 (E) Use face strip +Health Time:10 
+x (A) 1. Check Calendar @singleton +overhead
+x (A) 1a. 1L of Water @singleton +overhead
+x (A) 2. Clear crate @singleton +overhead
+x (A) 3. Process Reminders and brainstorms. @singleton +overhead
+x (A) Do functional testing of the new release https://github.com/eQualityTime/TheOpenVoiceFactory/issues/97
+x (A) Get back to accountant. 
+x (A) Make the full list of invoices that we are waiting on. 
 x (C) @email - find out what happened to queen anne school - did you run a camp there? +WWW
 x (C) @email find out what happened to alex park this year +WWW
 x (C) Ping greg about making the submission for MHRA into a repository. 
@@ -136,6 +136,10 @@ x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ
 x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 x (E) Make sure paper crane is in bathroom +Family
 x (E) Make sure paper crane is in bathroom +Family
+x (E) Post to Sibling Facebook group
+x (E) Post to Sibling Facebook group
+x (E) Post to WWW facebook page +EQT
+x (E) Post to WWW facebook page +EQT
 x (E) Process inbox in evernote +Overhead
 x (E) Process inbox in evernote +Overhead
 x (E) Publicly thank someone +Overhead
