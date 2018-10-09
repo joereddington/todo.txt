@@ -1,11 +1,8 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
-(A) 1a. 1L of Water @singleton +overhead
-(A) meditate +overhead
 (B) 1. Exercise @singleton +Overhead
-(A) Rewrite talk
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
-(C) Create project for the nesta grant.  +EQT
+x (C) Create project for the Nesta grant.  +EQT
+(B) Get bank statements for Accountant. 
 (C) Find out which Amazon invoices haven't been paid. +EQT
 (C) Get everything out of the kitchen cuboard to fix table. +Family
 (C) Mark up photos for architecture people.  +Family 
@@ -13,16 +10,22 @@
 (C) Review Yvonnes paper  +EQT
 (C) Sprint working on the HLF bid.  +EQT
 (C) Work out what to do with the two purchase notes from Keele.  +EQT
+(C) Write the briefing papers for EQT AGM +EQT
 (C) Write the form for glynn +EQT
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
 (D) Call Laurence.  +Social
 (D) Clear household spending balance with Kat  +Family
 (D) Find out if you can return your mozfest ticket.  +EQT
+(D) Make recent donor report for Comic Relief +EQT
+
+(C) Look into https://www.civilsociety.co.uk/news/vodafone-launches-social-purpose-funding-programme.html?utm_source=New+Main+List+From+Live+CIVIL+Site&utm_campaign=47bab47196-EMAIL_CAMPAIGN_2018_09_21_11_40&utm_medium=email&utm_term=0_5a5428978b-47bab47196-87676437#sthash.hagIx2UT.dpuf
 (D) Message SL about javascript. +EQT
 (D) Print the return document for amazon.   +Family
 (D) Review friends podcasts  +overhead
 (D) Tidy up the expenditure against grant - remove the 'sent' and so on statuses.  +EQT
 (D) Work out exactly how much money you have.  +Family
+(D) Write post about meditation. 
+(D) meditate +overhead
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
@@ -34,8 +37,6 @@
 (E) Check Voicemail  +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the firebreak in: whatsapp +overhead
-(E) Cut nails +Health
-(E) Cut nails +Health
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do the Runway calculation again. +Family
@@ -93,3 +94,10 @@
 (E) Use face strip +Health Time:10 
 (E) Write a letter to Nova +Family
 (Z) Get bin for bedroom  +Family
+x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
+x (A) 1a. 1L of Water @singleton +overhead
+x (A) Rewrite talk +EQT
+x (B) Send materials to Consultant guy.  +EQT
+x (C) Find the minutes for EQT meeting AGM +EQT
+x (E) Cut nails +Health
+x (E) Cut nails +Health
