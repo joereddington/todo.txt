@@ -1,24 +1,15 @@
-(B) 1. Exercise @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
-x (C) Create project for the Nesta grant.  +EQT
-(B) Get bank statements for Accountant. 
-(C) Find out which Amazon invoices haven't been paid. +EQT
-(C) Get everything out of the kitchen cuboard to fix table. +Family
-(C) Mark up photos for architecture people.  +Family 
-(C) Put in the technical specs on ticket #82  +EQT
-(C) Review Yvonnes paper  +EQT
-(C) Sprint working on the HLF bid.  +EQT
-(C) Work out what to do with the two purchase notes from Keele.  +EQT
-(C) Write the briefing papers for EQT AGM +EQT
+(B) Send images to accountant 
+(C) Do blog for the essex challenge prize 
+(C) Go through the medical device policies and make a list of the documents that should be 'controlled' +EQT
+(C) Put the Amazon Invoices on Unity
+(C) With Kat, get measurements of the garage
 (C) Write the form for glynn +EQT
+(C) Write up interview notes 
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
 (D) Call Laurence.  +Social
 (D) Clear household spending balance with Kat  +Family
 (D) Find out if you can return your mozfest ticket.  +EQT
 (D) Make recent donor report for Comic Relief +EQT
-
-(C) Look into https://www.civilsociety.co.uk/news/vodafone-launches-social-purpose-funding-programme.html?utm_source=New+Main+List+From+Live+CIVIL+Site&utm_campaign=47bab47196-EMAIL_CAMPAIGN_2018_09_21_11_40&utm_medium=email&utm_term=0_5a5428978b-47bab47196-87676437#sthash.hagIx2UT.dpuf
 (D) Message SL about javascript. +EQT
 (D) Print the return document for amazon.   +Family
 (D) Review friends podcasts  +overhead
@@ -33,35 +24,48 @@ x (C) Create project for the Nesta grant.  +EQT
 (E) Buy the wood you want for the gate +Family 
 (E) Check Desktop Tracker is working +Overhead
 (E) Check Desktop Tracker is working +Overhead
+(E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check Voicemail  +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp +overhead
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
+(E) Do full accounts algorithm +EQT
 (E) Do the Runway calculation again. +Family
+(E) Either phone or mouse is in the box.  +overhead
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fix teapot: Take downstairs to the other monitor +Overhead
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
-(E) Floss +Health
-(E) Floss +Health
 (E) Floss +Health 
 (E) Floss +Health 
 (E) Floss +Health 
 (E) Floss +Health 
 (E) Floss +Health 
+(E) Get heater out of gargea 
 (E) Get new washing up glovas. +Family
 (E) Get timer for switching on your lamp.  +Family
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Go through phone and save all of the numbers +Overhead
 (E) Go through phone and save all of the numbers +Overhead
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Make sure you can do brainstorms in the longue/kitchen +Family
+(E) Open and log progress on the bid status document +EQT
 (E) Open and log progress on the bid status document +EQT
 (E) Phone Dentist on 01582 572094 to make new apointment. @overhead +Heath
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online 
+(E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
@@ -77,9 +81,13 @@ x (C) Create project for the Nesta grant.  +EQT
 (E) Review yearly goals +Overhead
 (E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -93,11 +101,6 @@ x (C) Create project for the Nesta grant.  +EQT
 (E) Use face strip +Health Time:10 
 (E) Use face strip +Health Time:10 
 (E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family About conservation of energy as a useful prcinple as applied to drugs
 (Z) Get bin for bedroom  +Family
-x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
-x (A) 1a. 1L of Water @singleton +overhead
-x (A) Rewrite talk +EQT
-x (B) Send materials to Consultant guy.  +EQT
-x (C) Find the minutes for EQT meeting AGM +EQT
-x (E) Cut nails +Health
-x (E) Cut nails +Health
+Rewrite the developement policies from your experieence with the release branch.
