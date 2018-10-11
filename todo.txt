@@ -1,13 +1,15 @@
-(B) Send images to accountant 
+(A) meditate +overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) Do blog for the essex challenge prize 
 (C) Go through the medical device policies and make a list of the documents that should be 'controlled' +EQT
 (C) Put the Amazon Invoices on Unity
 (C) With Kat, get measurements of the garage
-(C) Write the form for glynn +EQT
-(C) Write up interview notes 
+x 2018-10-11 Write the form for glynn +EQT
+(C) Write up First CR interview notes 
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
 (D) Call Laurence.  +Social
-(D) Clear household spending balance with Kat  +Family
+x 2018-10-11 Clear household spending balance with Kat  +Family
 (D) Find out if you can return your mozfest ticket.  +EQT
 (D) Make recent donor report for Comic Relief +EQT
 (D) Message SL about javascript. +EQT
@@ -28,6 +30,7 @@
 (E) Check Voicemail  +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check Voicemail  +Overhead
+(E) Check otu https://www.fundingcentral.org.uk/access.aspx?uri=SchemeList.aspx%3fRF%3dRSS%26WCI%3dhtmResults%26WCU%3dCBC%3dView%2cDSCODE%3dOTSSCMLIVE%2cSCHEMEID%3d248-S44030%2cUDATA%3dSCHEMEVIEWBACK%3dHOME
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the bike 'go bag'+Overhead
@@ -39,7 +42,10 @@
 (E) Either phone or mouse is in the box.  +overhead
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Fix teapot: Take downstairs to the other monitor +Overhead
+(E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -104,3 +110,9 @@
 (E) Write a letter to Nova +Family About conservation of energy as a useful prcinple as applied to drugs
 (Z) Get bin for bedroom  +Family
 Rewrite the developement policies from your experieence with the release branch.
+x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
+x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
+x 2018-10-11 1. Exercise @singleton +Overhead
+x 2018-10-11 1a. 1L of Water @singleton +overhead
+x 2018-10-11 Send images to accountant 
+x 2018-10-11 Work out how much money you have for ricahrd. 
