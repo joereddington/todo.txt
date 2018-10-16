@@ -1,14 +1,20 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
-(A) 1a. 1L of Water @singleton +overhead
+x 2018-10-12 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead:w
+x 2018-10-12 1a. 1L of Water @singleton +overhead
+x 2018-10-12 Get accounts from accountant +EQT
+x 2018-10-12 Sprint Prepping for EQT meeting  +EQT
+x 2018-10-12 Put in writing the mechanics for Richard's new house  
+(A) Release a podcast
+(A) Sprint on combining the data for WWW
+(A) Write up a new contract structure for the RSC
 (A) meditate +overhead
 (B) 1. Exercise @singleton +Overhead
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) Brainstorm - is run the right priority? +Overhead
 (C) Do blog for the essex challenge prize 
 (C) Do the controlled documents register
 (C) Go through the medical device policies and make a list of the documents that should be 'controlled' +EQT
 (C) Put the Amazon Invoices on Unity
-(C) Run the tests for greg's merge. 
 (C) With Kat, get measurements of the garage
 (C) Write up First CR interview notes 
 (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
@@ -76,3 +82,4 @@
 (E) Write a letter to Nova +Family About conservation of energy as a useful priciple as applied to drugs
 (F) Either phone or mouse is in the box.  +overhead
 (Z) Get bin for bedroom  +Family
+x 2018-10-12 Run the tests for greg's merge. 
