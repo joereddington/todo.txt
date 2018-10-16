@@ -1,51 +1,21 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
-(A) 1a. 1L of Water @singleton +overhead
-(A) Release a podcast
-(A) Sprint on combining the data for WWW
-(A) Write up a new contract structure for the RSC
-(A) meditate +overhead
-(B) 1. Exercise @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
-(C) Brainstorm - is run the right priority? +Overhead
-(C) Do blog for the essex challenge prize 
-(C) Do the controlled documents register
-(C) Go through the medical device policies and make a list of the documents that should be 'controlled' +EQT
-(C) Put the Amazon Invoices on Unity
-(C) With Kat, get measurements of the garage
-(C) Write up First CR interview notes 
-(D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
-(D) Check Mega Drive runs
+(A) Map and Sprint https://github.com/eQualityTime/WhiteWaterWriters/issues/107
+(C) Do blog for the essex challenge prize  +EQT
+(C) Put the Amazon Invoices in cash book  +EQT
+(C) Sprint making the controlled documents list for +EQT
+(C) With Kat, get measurements of the garage +Family
+(C) Write up First CR interview notes  +EQT
+(D) Check Mega Drive runs +Family
+(D) Clear out big files on laptop until you have room to update operating system entirely 
 (D) Find out if you can return your mozfest ticket.  +EQT
-(D) Message SL about javascript. +EQT
 (D) Print the return document for amazon.   +Family
-(D) Rewrite the development policies from your experieence with the release branch.
-(D) Tidy up the expenditure against grant for meeting.  +EQT
-(D) Write post about meditation. 
-(E) Arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§
-(E) Backup dreamhost +EQT
-(E) Buy the wood you want for the gate +Family 
-(E) Check if you have the correct OS to use the external monitors again +EQT
-(E) Check the bike 'go bag'+Overhead
+(D) Project to find out about double entry bookkeeping
+(D) Rewrite the development policies from your experieence with the release branch. +EQT
+(E) Arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§ +Family 
+(E) Check that your oyster cards are registered online
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Do the Runway calculation again. +Family
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fix teapot: Take downstairs to the other monitor +Overhead
-(E) Floss +Health
-(E) Floss +Health
-(E) Floss +Health
-(E) Floss +Health
-(E) Floss +Health 
-(E) Floss +Health 
-(E) Floss +Health 
-(E) Floss +Health 
-(E) Floss +Health 
-(E) Get heater out of gargea 
-(E) Get timer for switching on your lamp.  +Family
+(E) Get a drink for Nova for night time
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Make sure you can do brainstorms in the longue/kitchen +Family
@@ -66,6 +36,7 @@
 (E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
+(E) Try teapot again 192.168.178.45
 (E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -82,11 +53,37 @@
 (E) Use face strip +Health Time:10 
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family About conservation of energy as a useful priciple as applied to drugs
-(F) Either phone or mouse is in the box.  +overhead
-(Z) Get bin for bedroom  +Family
-x 2018-10-12 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead:w
-x 2018-10-12 1a. 1L of Water @singleton +overhead
-x 2018-10-12 Get accounts from accountant +EQT
-x 2018-10-12 Put in writing the mechanics for Richard's new house  
-x 2018-10-12 Run the tests for greg's merge. 
-x 2018-10-12 Sprint Prepping for EQT meeting  +EQT
+a (D) Message SL about javascript. +EQT
+a (D) Write post about meditation. 
+b (A) Release a podcast
+b (A) Write up a new contract structure for the RSC +Overhead
+b (B) 1. Exercise @singleton +Overhead
+b (D) Tidy up the expenditure against grant for meeting.  +EQT
+o 13:51, Lunch with +Family
+o 14:21, (D) Call 020 8937 4300 (Brent council) about Kingsbury High School, London +EQT
+x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x (A) 1a. 1L of Water @singleton +overhead
+x (A) meditate +overhead
+x (C) Brainstorm - is run the right priority? +Overhead
+x (C) Go through the medical device policies and make a list of the documents that should be 'controlled' +EQT
+x (E) Backup dreamhost +EQT
+x (E) Buy the wood you want for the gate +Family 
+x (E) Check if you have the correct OS to use the external monitors again +EQT
+x (E) Check the bike 'go bag' +Exercise
+x (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x (E) Do the Runway calculation again. +Family
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fix teapot: Take downstairs to the other monitor +Overhead
+x (E) Floss +Health
+x (E) Floss +Health
+x (E) Floss +Health
+x (E) Floss +Health
+x (E) Floss +Health 
+x (E) Floss +Health 
+x (E) Floss +Health 
+x (E) Floss +Health 
+x (E) Floss +Health 
+x (E) Get timer for switching on your lamp.  +Family
+x 2018-10-16 (F) Either phone or mouse is in the box.  +overhead
+x Get heater out of gargae  +Family 
