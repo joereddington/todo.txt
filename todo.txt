@@ -20,29 +20,10 @@
 (E) Pick an article from Evernote drafts and put it online  +EQT
 (E) Publish the lecture room font sizes blog. 
 (E) Review and publish the 'how to count equality time volenteers' article +EQT
-(E) Review yearly goals +Overhead
-(E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
 (E) Try teapot again 192.168.178.45
-(E) Update Symptoms and Moods file +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health 
-(E) Use Face strip +Heath
-(E) Use face strip +Health Time:10 
-(E) Use face strip +Health Time:10 
-(E) Use face strip +Health Time:10 
 (E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family About conservation of energy as a useful priciple as applied to drugs
 a (D) Message SL about javascript. +EQT
 a (D) Write post about meditation. 
 a (E) Make sure you can do brainstorms in the longue/kitchen +Family
@@ -51,6 +32,7 @@ b (A) Write up a new contract structure for the RSC +Overhead
 b (B) 1. Exercise @singleton +Overhead
 b (D) Tidy up the expenditure against grant for meeting.  +EQT
 b (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+b (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 b (E) Swimming and climbing gear should be in the car +Overhead
 b (E) Trim nose hair +Health
 b (E) Trim nose hair +Health
@@ -85,5 +67,11 @@ x (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh
 x (E) Phone Dentist on 01582 572094 to make new apointment. @overhead +Heath
 x (E) Review starred items in feeds +Overhead @Nova
 x (E) Review starred items in feeds +Overhead @nova
+x (E) Review yearly goals +Overhead
+x (E) Review yearly goals +Overhead
+x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+x (E) Update Symptoms and Moods file +Health
+x (E) Use Face strip +Health
+x (E) Write a letter to Nova +Family About conservation of energy as a useful priciple as applied to drugs
 x 2018-10-16 (F) Either phone or mouse is in the box.  +overhead
 x Get heater out of gargae  +Family 
