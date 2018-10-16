@@ -1,8 +1,5 @@
-x 2018-10-12 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead:w
-x 2018-10-12 1a. 1L of Water @singleton +overhead
-x 2018-10-12 Get accounts from accountant +EQT
-x 2018-10-12 Sprint Prepping for EQT meeting  +EQT
-x 2018-10-12 Put in writing the mechanics for Richard's new house  
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
+(A) 1a. 1L of Water @singleton +overhead
 (A) Release a podcast
 (A) Sprint on combining the data for WWW
 (A) Write up a new contract structure for the RSC
@@ -33,9 +30,12 @@ x 2018-10-12 Put in writing the mechanics for Richard's new house
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Do the Runway calculation again. +Family
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Fix teapot: Take downstairs to the other monitor +Overhead
+(E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -53,6 +53,7 @@ x 2018-10-12 Put in writing the mechanics for Richard's new house
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Put up cork board +Family 
 (E) Review starred items in feeds +Overhead @Nova
 (E) Review starred items in feeds +Overhead @nova
@@ -60,6 +61,7 @@ x 2018-10-12 Put in writing the mechanics for Richard's new house
 (E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
 (E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
@@ -82,4 +84,9 @@ x 2018-10-12 Put in writing the mechanics for Richard's new house
 (E) Write a letter to Nova +Family About conservation of energy as a useful priciple as applied to drugs
 (F) Either phone or mouse is in the box.  +overhead
 (Z) Get bin for bedroom  +Family
+x 2018-10-12 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead:w
+x 2018-10-12 1a. 1L of Water @singleton +overhead
+x 2018-10-12 Get accounts from accountant +EQT
+x 2018-10-12 Put in writing the mechanics for Richard's new house  
 x 2018-10-12 Run the tests for greg's merge. 
+x 2018-10-12 Sprint Prepping for EQT meeting  +EQT
