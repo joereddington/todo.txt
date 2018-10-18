@@ -2,7 +2,11 @@
 (A) 1a. 1L of Water @singleton +Health
 (A) Map and Sprint https://github.com/eQualityTime/WhiteWaterWriters/issues/107 +EQT
 (A) Send SHINE the number of camps run, number of students worked with and number of schools, broken down by academic year +EQT
+(A) meditate +Health
+(B) 1. Exercise @singleton +Exercise
 (C) 1. Process Email @singleton +Family 
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) Map and sprint on making a new cash book to use +EQT
 (C) Put up the other stairgate +Family
 (C) Sprint making the controlled documents list for +EQT
@@ -22,6 +26,7 @@
 (E) Do full accounts algorithm +EQT
 (E) Either phone or mouse is in the box.  +overhead
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Get pin and string for corkboard +Family
 (E) Get watson to import sleep nicely
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
@@ -37,24 +42,3 @@
 (E) Use Face strip +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
-x (A) Map and Sprint https://github.com/eQualityTime/WhiteWaterWriters/issues/107 +EQT
-x (A) meditate +Health
-x (B) 1. Exercise @singleton +Health 
-x (C) 2. Go live +EQT @singleton
-x (C) Do blog for the essex challenge prize  +EQT
-x (C) Put the Amazon Invoices in cash book  +EQT
-x (D) Find out if you can return your mozfest ticket.  +EQT
-x (D) Print the return document for amazon.   +Family
-x (D) Project to find out about double entry bookkeeping
-x (E) Arrange to see §e:u2fsdgvkx1+cdjdvzorpn6gqbv9ogwzt/wxtpmnkwc4=§ +Family 
-x (E) Check Desktop Tracker is working +Overhead
-x (E) Check Voicemail  +Overhead
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
-x (E) Check the bike 'go bag'+Overhead
-x (E) Get a drink for Nova for night time
-x (E) Go thought phone screen shots for tasks +Overhead
-x (E) Go through notebook (and iphone reminders) for tasks +Overhead
-x (E) Open and log progress on the bid status document +EQT
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-x (E) Swimming and climbing gear should be in the car +Overhead
