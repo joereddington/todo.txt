@@ -1,38 +1,32 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +overhead
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (A) Map and Sprint https://github.com/eQualityTime/WhiteWaterWriters/issues/107 +EQT
-(A) Send SHINE the number of camps run, number of students worked with and number of schools, broken down by academic year +EQT
 (A) meditate +Health
 (B) 1. Exercise @singleton +Exercise
-(C) 1. Process Email @singleton +Family 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) Arrange to see Dave for a Javascript day +EQT
 (C) Map and sprint on making a new cash book to use +EQT
 (C) Put up the other stairgate +Family
+(C) Send out Doddle poll for the trustees for 
 (C) Sprint making the controlled documents list for +EQT
 (C) With Kat, get measurements of the garage +Family
 (C) Write the minutes for the last meeting +EQT
 (C) Write up First CR interview notes  +EQT
 (C) Write up an issue for a technical writer +EQT
 (D) Check Mega Drive runs +Family
-(D) Clear out big files on laptop until you have room to update operating system entirely 
 (D) Draft the SVG email 
-(D) Rearrange gargag +Family
-(D) Rewrite the development policies from your experieence with the release branch. +EQT
+(D) Rearrange Garage +Family
+(D) Rewrite the development policies from your experiences with the release branch. +EQT
 (E) Check that your oyster cards are registered online
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
-(E) Either phone or mouse is in the box.  +overhead
 (E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
+(E) Floss +Health
 (E) Get pin and string for corkboard +Family
 (E) Get watson to import sleep nicely
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Pick an article from Evernote drafts and put it online 
-(E) Pick an article from Evernote drafts and put it online  +EQT
 (E) Publish the lecture room font sizes blog. 
 (E) Review and publish the 'how to count equality time volenteers' article +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
