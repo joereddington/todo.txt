@@ -1,19 +1,38 @@
-(C) 2. Go live +EQT @singleton
+(A) Badger cast about call  +EQT
+(A) Badger the missing comic relief stakeholders +EQT
+(A) Email the remaining care home that we tested the posters in. +EQT https://github.com/eQualityTime/Public/issues/41
+(A) Find the template for the buisness case and put it https://github.com/eQualityTime/Public/issues/42 +EQT
+(A) Make 'bring littlefinger up to date' a 'A' task - you need it for comic relief  +EQT
+(A) See if special effect have anyone they would like to put forward as a stakeholder  +EQT
+(A) Sprint creating the mock version of https://github.com/eQualityTime/Public/issues/46 +EQT
+(B) Find somewhere to put these notes +EQT
+(B) Make sure that you have shared the (draft) accounts with the trustees  +EQT
+(B) Map project about trustee terms of reference  +EQT
+(B) Message consultant about weekly calls https://github.com/eQualityTime/Public/issues/12 +EQT
+(B) Put on consultant list 'ask about interal cash records' +EQT
+(B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
+x (C) 2. Go live +EQT @singleton
 (C) Arrange to see Dave for a Javascript day +EQT
+(C) Ask for names for the demential project on facebook +EQT
 (C) Brainstorm on a version of igor that breaks down each task DELORES style +PlanningAndTracking
 (C) Buy mega drive cables  +Family
 (C) Call Zen to downgrade our internet +FAMILY
 (C) Curate and post yesterday's time +PlanningAndTracking
 (C) Map and sprint on making a new cash book to use +EQT
+(C) Ping Patrick about who owns the Nesta applicatoin +EQT
 (C) Put up the other stairgate +Family
+(C) Reformat the draft accounts to your liking and make sure they are in the dropbox  +EQT
 (C) Rewrite https://github.com/eQualityTime/Public/issues/12 for clarity +EQT
+(C) Sprint drafting answers to https://github.com/eQualityTime/Public/issues/51 +EQT 
 (C) Sprint fixing the OBF output from OVF +EQT
+(C) Sprint on https://github.com/eQualityTime/Public/issues/32
 (C) Talk to Kat about a possible Keele date +Family +EQT
 (C) With Kat, get measurements of the garage +Family
 (C) Write the minutes for the last meeting +EQT
 (C) Write up First CR interview notes  +EQT
 (C) Write up an issue for a technical writer +EQT
 (D) Check Mega Drive runs +Family
+(D) Do a WWW theory of change (schools and commerical (and for nesta) 
 (D) Draft the SVG email +EQT
 (D) Rearrange Garage +Family
 (E) Add two bags to the car for clearning/carring out +EQT
@@ -85,22 +104,3 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova on how you dealt with recent fear/passion +Family
-(B) Find somewhere to put these notes +EQT
-(C) Ask for names for the demential project on facebook +EQT
-(A) Sprint creating the mock version of https://github.com/eQualityTime/Public/issues/46 +EQT
-(A) Email the remaining care home that we tested the posters in. +EQT https://github.com/eQualityTime/Public/issues/41
-(A) Find the template for the buisness case and put it https://github.com/eQualityTime/Public/issues/42 +EQT
-(B) Make sure that you have shared the (draft) accounts with the trustees  +EQT
-(C) Reformat the draft accounts to your liking and make sure they are in the dropbox  +EQT
-(A) Make 'bring littlefinger up to date' a 'A' task - you need it for comic relief  +EQT
-(A) Badger the missing comic relief stakeholders +EQT
-(A) Badger cast about call  +EQT
-(A) See if special effect have anyone they would like to put forward as a stakeholder  +EQT
-(B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
-(B) Message consultant about weekly calls https://github.com/eQualityTime/Public/issues/12 +EQT
-(B) Put on consultant list 'ask about interal cash records' +EQT
-(B) Map project about trustee terms of reference  +EQT
-(C) Ping Patrick about who owns the Nesta applicatoin +EQT
-(C) Sprint drafting answers to https://github.com/eQualityTime/Public/issues/51 +EQT 
-(C) Sprint on https://github.com/eQualityTime/Public/issues/32
-(D) Do a WWW theory of change (schools and commerical (and for nesta) 
