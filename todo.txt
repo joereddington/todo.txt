@@ -6,6 +6,7 @@
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Arrange to see Dave for a Javascript day +EQT
+(C) Curate and post yesterday's time
 (C) Map and sprint on making a new cash book to use +EQT
 (C) Put up the other stairgate +Family
 (C) Send out Doddle poll for the trustees for 
@@ -18,21 +19,71 @@
 (D) Draft the SVG email 
 (D) Rearrange Garage +Family
 (D) Rewrite the development policies from your experiences with the release branch. +EQT
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check that your oyster cards are registered online
+(E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the firebreak in: whatsapp
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Check the next school time +EQT
+(E) Confirm plans for next two weekends.+Overhead
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Cut nails +Health
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
+(E) Do full accounts algorithm +EQT
+(E) Either phone or mouse is in the box.  +overhead
+(E) Empty crate completely +Overhead
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Floss +Health
 (E) Floss +Health
 (E) Get pin and string for corkboard +Family
 (E) Get watson to import sleep nicely
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through phone and save all of the numbers +Overhead
+(E) Go through the shared reminder list with Heart +Family
+(E) Log weight +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Make sure paper crane is in bathroom +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Pick an article from Evernote drafts and put it online 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Post to Sibling Facebook group
+(E) Post to WWW facebook page +EQT
+(E) Process inbox in evernote +Overhead
+(E) Publicly thank someone +Overhead
 (E) Publish the lecture room font sizes blog. 
+(E) Put sleep time into calendar +Overhead
+(E) Remind Kat to do Nova's menu +Family
+(E) Review all projects in github +Overhead
 (E) Review and publish the 'how to count equality time volenteers' article +EQT
+(E) Review yearly goals +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Set up PS3 with TV +Family
 (E) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Trim nose hair +Health
 (E) Try teapot again 192.168.178.45
+(E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Video call with Kat family +Family
+(E) Wash sheets and towels +Family
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
