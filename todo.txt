@@ -85,3 +85,22 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova on how you dealt with recent fear/passion +Family
+(B) Find somewhere to put these notes +EQT
+(C) Ask for names for the demential project on facebook +EQT
+(A) Sprint creating the mock version of https://github.com/eQualityTime/Public/issues/46 +EQT
+(A) Email the remaining care home that we tested the posters in. +EQT https://github.com/eQualityTime/Public/issues/41
+(A) Find the template for the buisness case and put it https://github.com/eQualityTime/Public/issues/42 +EQT
+(B) Make sure that you have shared the (draft) accounts with the trustees  +EQT
+(C) Reformat the draft accounts to your liking and make sure they are in the dropbox  +EQT
+(A) Make 'bring littlefinger up to date' a 'A' task - you need it for comic relief  +EQT
+(A) Badger the missing comic relief stakeholders +EQT
+(A) Badger cast about call  +EQT
+(A) See if special effect have anyone they would like to put forward as a stakeholder  +EQT
+(B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
+(B) Message consultant about weekly calls https://github.com/eQualityTime/Public/issues/12 +EQT
+(B) Put on consultant list 'ask about interal cash records' +EQT
+(B) Map project about trustee terms of reference  +EQT
+(C) Ping Patrick about who owns the Nesta applicatoin +EQT
+(C) Sprint drafting answers to https://github.com/eQualityTime/Public/issues/51 +EQT 
+(C) Sprint on https://github.com/eQualityTime/Public/issues/32
+(D) Do a WWW theory of change (schools and commerical (and for nesta) 
