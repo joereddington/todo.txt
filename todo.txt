@@ -1,9 +1,7 @@
 (A) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT for comic relief 
 (B) 1. Exercise @singleton +Exercise
-(B) Make sure that you have shared the (draft) accounts with the trustees  +EQT
 (B) Map project about trustee terms of reference  +EQT
 (B) Put the 'how to do a public project review' into github  (via airdrop) +EQT
-(B) Send back amazon package 
 (B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
@@ -25,14 +23,13 @@
 (C) put the everpad onto laptop 
 (D) Adjust cubboard doors on cabinate +Family
 (D) Do a WWW theory of change (schools and commerical (and for nesta) 
-(D) Draft the SVG email +EQT
+(D) Draft the SVG 3d printing  email +EQT
 (D) Post package for Lizzie 
 (D) Read the washing machine operating instructions 
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Check that your oyster cards are registered online +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-(E) Check the firebreak in: whatsapp +Overhead
 (E) Check the number of hours left on contract +EQT 
 (E) Check £40 in Wallet +Overhead
 (E) Confirm plans for next two weekends.+Overhead
@@ -51,16 +48,16 @@
 (E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -90,9 +87,6 @@
 (E) Review yearly goals +Overhead
 (E) Review yearly goals +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Seal windows in Office  +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Set up PS3 with TV +Family
@@ -124,6 +118,7 @@ x 2018-11-01 Check that everything in the 'in process' box really does have a ta
 x 2018-11-01 Check the bike 'go bag'+Overhead
 x 2018-11-01 Check the bike 'go bag'+Overhead
 x 2018-11-01 Check the bike 'go bag'+Overhead
+x 2018-11-01 Check the firebreak in: whatsapp +Overhead
 x 2018-11-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2018-11-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2018-11-01 Check the next school time +EQT
@@ -143,6 +138,7 @@ x 2018-11-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2018-11-01 Make doodle poll
 x 2018-11-01 Make sure paper crane is in bathroom +Family
 x 2018-11-01 Make sure paper crane is in bathroom +Family
+x 2018-11-01 Make sure that you have shared the (draft) accounts with the trustees  +EQT
 x 2018-11-01 Open and log progress on the bid status document +EQT
 x 2018-11-01 Open and log progress on the bid status document +EQT
 x 2018-11-01 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
@@ -166,6 +162,10 @@ x 2018-11-01 Process inbox in evernote +Overhead
 x 2018-11-01 Rearrange Garage +Family
 x 2018-11-01 Remind Kat to do Nova's menu +Family
 x 2018-11-01 Remind Kat to do Nova's menu +Family
+x 2018-11-01 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+x 2018-11-01 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+x 2018-11-01 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+x 2018-11-01 Send back amazon package 
 x 2018-11-01 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2018-11-01 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2018-11-01 Sprint on Buisness plan 
