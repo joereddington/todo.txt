@@ -5,6 +5,7 @@
 (B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) Add vitimin table to igor
 (C) Book in two nights out this week  +Family
 (C) Brainstorm on a version of igor that breaks down each task DELORES style +PlanningAndTracking
 (C) Call Zen to downgrade our internet +FAMILY
@@ -33,7 +34,6 @@
 (E) Check the number of hours left on contract +EQT 
 (E) Check £40 in Wallet +Overhead
 (E) Confirm plans for next two weekends.+Overhead
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Cut nails +Health
 (E) Cut nails +Health
 (E) Do full accounts algorithm +EQT
@@ -48,24 +48,12 @@
 (E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
-x 2018-11-01 Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Get pin and string for corkboard +Family
 (E) Get watson to import sleep nicely +PersonalProjects
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Go through the shared reminder list with Heart +Family
 (E) Go through the shared reminder list with Heart +Family
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
@@ -76,7 +64,6 @@ x 2018-11-01 Fill out fear/passion table +Health
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online +EQT
 (E) Post to WWW facebook page +EQT
-(E) Publicly thank someone +Overhead
 (E) Publish the lecture room font sizes blog. +PersonalProjects
 (E) Put sleep time into calendar +Overhead
 (E) Put sleep time into calendar +Overhead
@@ -92,9 +79,6 @@ x 2018-11-01 Fill out fear/passion table +Health
 (E) Set up PS3 with TV +Family
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
-(E) Update Symptoms and Moods file +Health
-(E) Update Symptoms and Moods file +Health
-(E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
 (E) Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
@@ -123,14 +107,27 @@ x 2018-11-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2018-11-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2018-11-01 Check the next school time +EQT
 x 2018-11-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2018-11-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 x 2018-11-01 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2018-11-01 Face strip, stop runing 
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
+x 2018-11-01 Fill out fear/passion table +Health
 x 2018-11-01 Finish Video
 x 2018-11-01 Fix door for washing machine 
 x 2018-11-01 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 x 2018-11-01 Go thought phone screen shots for tasks +Overhead
 x 2018-11-01 Go thought phone screen shots for tasks +Overhead
 x 2018-11-01 Go thought phone screen shots for tasks +Overhead
+x 2018-11-01 Go through notebook (and iphone reminders) for tasks +Overhead
+x 2018-11-01 Go through notebook (and iphone reminders) for tasks +Overhead
 x 2018-11-01 Go through phone and save all of the numbers +Overhead
 x 2018-11-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 x 2018-11-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
@@ -159,6 +156,7 @@ x 2018-11-01 Post to Sibling Facebook group
 x 2018-11-01 Post to Sibling Facebook group +PersonalProjects
 x 2018-11-01 Post to WWW facebook page +EQT
 x 2018-11-01 Process inbox in evernote +Overhead
+x 2018-11-01 Publicly thank someone +Overhead
 x 2018-11-01 Rearrange Garage +Family
 x 2018-11-01 Remind Kat to do Nova's menu +Family
 x 2018-11-01 Remind Kat to do Nova's menu +Family
@@ -173,6 +171,9 @@ x 2018-11-01 Sprint writing the current state of play for medical devices +EQT
 x 2018-11-01 Swimming and climbing gear should be in the car +Overhead
 x 2018-11-01 Swimming and climbing gear should be in the car +Overhead
 x 2018-11-01 Swimming and climbing gear should be in the car +Overhead
+x 2018-11-01 Update Symptoms and Moods file +Health
+x 2018-11-01 Update Symptoms and Moods file +Health
+x 2018-11-01 Update Symptoms and Moods file +Health
 x 2018-11-01 Use Face strip +Health
 x 2018-11-01 Use Face strip +Health
 x 2018-11-01 Video call with Kat family +Family
