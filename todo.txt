@@ -1,23 +1,31 @@
 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
+(A) 1a. 1L of Water @singleton +Health
+(A) Do the proper documents for Richard's house 
+(A) Face strip, stop runing 
 (A) Finish Video
+(A) Make doodle poll
 (A) Sprint on Buisness plan 
-(A) Put Amazon invoices in cashbook and into Unity 
 (A) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT for comic relief 
 (A) Sprint writing the current state of play for medical devices +EQT
 (B) 1. Exercise @singleton +Exercise
 (B) Make sure that you have shared the (draft) accounts with the trustees  +EQT
 (B) Map project about trustee terms of reference  +EQT
 (B) Put the 'how to do a public project review' into github  (via airdrop) +EQT
+(B) Send back amazon package 
 (B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) 2. Go live +EQT @singleton
+(C) Book in two nights out this week  +Family
 (C) Brainstorm on a version of igor that breaks down each task DELORES style +PlanningAndTracking
 (C) Buy mega drive cables  +Family
 (C) Call Zen to downgrade our internet +FAMILY
-(C) Book in two nights out this week  +Family
 (C) Curate and post yesterday's time
 (C) Curate and post yesterday's time
+(C) Do TV stand +Family 
 (C) Map Sprint fixing the OBF output from OVF +EQT
 (C) Put up the other stairgate +Family
 (C) Sprint drafting answers to https://github.com/eQualityTime/Public/issues/51 +EQT 
@@ -29,6 +37,7 @@
 (D) Adjust cubboard doors on cabinate +Family
 (D) Do a WWW theory of change (schools and commerical (and for nesta) 
 (D) Draft the SVG email +EQT
+(D) Post package for Lizzie 
 (D) Rearrange Garage +Family
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Add two bags to the car for clearning/carring out +EQT
@@ -78,6 +87,8 @@
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -108,6 +119,7 @@
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online +EQT
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
