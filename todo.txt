@@ -1,14 +1,20 @@
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
 (A) Sprint on https://github.com/joereddington/Jarvis/issues/103  +Family +EQT for comic relief 
+(B) 1. Exercise @singleton +Exercise
 (B) 1. Exercise @singleton +Exercise
 (B) Map project about trustee terms of reference  +EQT
 (B) Put the 'how to do a public project review' into github  (via airdrop) +EQT
 (B) Sprint on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) 2. Go live +EQT @singleton
 (C) Add vitimin table to igor
 (C) Book in two nights out this week  +Family
 (C) Brainstorm on a version of igor that breaks down each task DELORES style +PlanningAndTracking
 (C) Call Zen to downgrade our internet +FAMILY
+(C) Curate and post yesterday's time
 (C) Curate and post yesterday's time
 (C) Do TV stand +Family 
 (C) Investigate this https://procontract.due-north.com/Advert/Index?advertId=bbe71f3d-4ddc-e811-80ef-005056b64545 
@@ -29,8 +35,14 @@
 (D) Read the washing machine operating instructions 
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Add two bags to the car for clearning/carring out +EQT
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check that your oyster cards are registered online +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the firebreak in: whatsapp
 (E) Check the number of hours left on contract +EQT 
 (E) Check £40 in Wallet +Overhead
 (E) Cut nails +Health
@@ -42,26 +54,37 @@
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
 (E) Do full accounts algorithm +EQT
+(E) Do full accounts algorithm +EQT
+(E) Either phone or mouse is in the box.  +overhead
 (E) Either phone or mouse is in the box.  +overhead
 (E) Either phone or mouse is in the box.  +overhead
 (E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
+(E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Get Flu vaxine +Health
 (E) Get pin and string for corkboard +Family
 (E) Get watson to import sleep nicely +PersonalProjects
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Go through the shared reminder list with Heart +Family
 (E) Go through the shared reminder list with Heart +Family
 (E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Log weight +Health
 (E) Log weight +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Open and log progress on the bid status document +EQT
 (E) Open list of projects to be funded +EQT
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online 
+(E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online +EQT
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Post to WWW facebook page +EQT
 (E) Publish the lecture room font sizes blog. +PersonalProjects
 (E) Put sleep time into calendar +Overhead
@@ -71,13 +94,18 @@
 (E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Seal windows in Office  +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Set up PS3 with TV +Family
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
 (E) Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
