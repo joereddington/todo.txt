@@ -10,6 +10,12 @@
 (C) Write up First CR interview notes  +EQT
 (D) Adjust cupboard doors on cabinets +Family
 (D) Do a WWW theory of change (schools and commercial (and for nesta) 
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
 (D) Draft the 3d printing of AAC symbols email +EQT
 (D) Get bag to Post package for LCK
 (D) Map policy review project  +EQT
@@ -19,14 +25,6 @@
 (E) Brainstorm on the idea of a web of information
 (E) Check that your oyster cards are registered online +Overhead
 (E) Check the bike 'go bag'+Overhead
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
-(E) Do full accounts algorithm +EQT
 (E) Empty crate completely +Overhead
 (E) Get Flu vaxine +Health
 (E) Get cash out +Overhead 
@@ -34,11 +32,10 @@
 (E) Get watson to import sleep nicely +PersonalProjects
 (E) Go through the shared reminder list with Heart +Family
 (E) Go through the shared reminder list with Heart +Family
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-(E) Learn something new abotu vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Log weight +Health
 (E) Log weight +Health
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Open list of projects to be funded +EQT
 (E) Pick an article from Evernote drafts and put it online 
 (E) Pick an article from Evernote drafts and put it online 
@@ -47,8 +44,6 @@
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Post to WWW facebook page +EQT
 (E) Publish the lecture room font sizes blog. +PersonalProjects
-x 2018-11-02 Put sleep time into calendar +Overhead
-x 2018-11-02 Put sleep time into calendar +Overhead
 (E) Refresh the lavender in Nova's room  +Family
 (E) Reload teapot +PersonalProjects
 (E) Review all projects in github +Overhead
@@ -57,8 +52,6 @@ x 2018-11-02 Put sleep time into calendar +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Set up PS3 with TV +Family
-x 2018-11-02 Trim nose hair +Health
-x 2018-11-02 Trim nose hair +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
@@ -67,11 +60,3 @@ x 2018-11-02 Trim nose hair +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
-x 2018-11-02 10 Brainstorm on a version of igor that breaks down each task DELORES style +PlanningAndTracking
-x 2018-11-02 15 Call Zen to downgrade our internet +FAMILY
-x 2018-11-02 30 Do TV stand +Family 
-x 2018-11-02 Do public commitment for running  +health 
-x 2018-11-02 Get other stairgae out of garage +Family 
-x 2018-11-02 Process Email @singleton +Overhead
-x 2018-11-02 Talk to Kat about swim fit +Family 
-x 2018-11-02 Write the minutes for the last +EQT meeting +EQT
