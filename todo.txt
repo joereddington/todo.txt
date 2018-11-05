@@ -1,10 +1,10 @@
 (A) Focused work on https://github.com/joereddington/Jarvis/issues/103 +EQT 
 (A) Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
-(A) Post astrid card 
-(A) Send SHINE some basic information
-(B) 1. Exercise @singleton +Exercise
-(B) Go throught paypal credit to find out what you should have claimed for 
+(A) Normalise the data collected from schools  +EQT
+(A) Pick date for next meeting from doodle poll  +EQT
+(B) Fix the portugese bugs for OVF +EQT
 (B) Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
+(B) Go throught paypal spending to make a new expenses claim folder for the credit files
 (B) Map project about trustee terms of reference  +EQT
 (B) Review 'scrapsofinfo.txt' +EQT
 (C) 1. Process Email @singleton +Overhead
@@ -21,23 +21,18 @@
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
-(A) Pick date for next meeting from doodle poll 
 (D) Do full accounts algorithm +EQT
-(D) Draft the 3d printing of AAC symbols email +EQT
-(D) Get bag to Post package for LCK
-(D) Glue missing part to the stairs +Family 
 (D) Map Project for https://www.biglotteryfund.org.uk/blog/2018-10-26/our-new-digital-fund @live
 (D) Map policy review project  +EQT @live
-(D) Move all of the wine
-(D) Put wash on 
-(D) Review and rewrite the honest presentation
+(D) Move all of the wine out of Nova's reach +Family 
+(D) Put wash on  +Family
+(D) Review and rewrite the honest presentation +EQT
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Check that your oyster cards are registered online +Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
 (E) Get cash out +Overhead 
-(E) Get masking tape to seal windows in Office  +EQT
 (E) Log weight +Health
 (E) Publish the lecture room font sizes blog. +PersonalProjects
 (E) Refresh the lavender in Nova's room  +Family
@@ -50,25 +45,6 @@
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
+(E) Set up the redirector in firefox again +EQT
 (E) Video call with Kat family +Family
-(E) Work out what is going on for restarting firefox 
 (E) Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
-x 2018-11-04 () Write a letter to Nova +Family
-x 2018-11-04 Write a letter to Nova +Family
-x 2018-11-04 Write a letter to Nova +Family
-x 2018-11-05 () Fill out fear/passion table +Health
-x 2018-11-05 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-05 1a. 1L of Water @singleton +Health
-x 2018-11-05 Adjust the straps on Nova's High chair +Family 
-x 2018-11-05 Fill out fear/passion table +Health
-x 2018-11-05 Fix playpen +Family
-x 2018-11-05 Go through phone and save all of the numbers +Overhead
-x 2018-11-05 Go through the shared reminder list with Heart +Family
-x 2018-11-05 Look at the Household spending sheet and see what the biggest expense is +Family
-x 2018-11-05 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-x 2018-11-05 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x 2018-11-05 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x 2018-11-05 Post to WWW facebook page +EQT
-x 2018-11-05 See if there is any soundproofing material in shed 
-x 2018-11-05 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x 2018-11-05 Wash sheets and towels +Family
