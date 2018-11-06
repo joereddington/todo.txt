@@ -1,48 +1,31 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
+(A) Draw a line under the old expenditure against grant file and start for the new financial year 
+(A) Put together expenese sheet for ECP +EQT
+(A) Put together expenese sheet for EQT +EQT
+(A) Put together expenses sheet for OVF  +EQT
+(A) Put together expenses sheet for WWW  +EQT
+(A) Put together the expenses from the paypal screenshots
 (A) Time:20 Pick date for next meeting from doodle poll  +EQT
 (A) Time:40 Focused work on putting together an executive summary for SHINE  +EQT
-(A) Time:60 Focused work on https://github.com/joereddington/Jarvis/issues/103 +EQT 
 (A) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
-(B) 1. Exercise @singleton +Exercise
-(B) Time:00 Review 'scrapsofinfo.txt' +EQT
-(B) Time:10 Map project about trustee terms of reference  +EQT
 (B) Time:20 Go throught paypal spending to make a new expenses claim folder for the credit files
 (B) Time:40 Fix the portugese bugs for OVF +EQT
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
+(C) Bring the household expenses sheet up to date  +Family
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
 (D) Brainstorm on silence more +Family
-(D) Do full accounts algorithm +EQT
-(D) Time:05 Put wash on  +Family
-(D) Time:05 Work out were to put the wine you move. 
-(D) Time:10 Do a WWW theory of change (schools and commercial (and for nesta) 
-(D) Time:10 Find, edit, and post the video for last project review
+(D) Time:15 Tie up the Wine +Family
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Time:60 Do full accounts algorithm +EQT
-(D) Time:60 Do full accounts algorithm +EQT
-(D) Time:60 Do full accounts algorithm +EQT
-(D) Time:60 Do full accounts algorithm +EQT
-(D) Time:60 Do full accounts algorithm +EQT
-(D) Time:60 Do full accounts algorithm +EQT
-(E) Fill out fear/passion table +Health
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-(E) Time:00 Refresh the lavender in Nova's room  +Family
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:00 Video call with Kat family +Family
-(E) Time:04 Log weight 82.4kg +Health
 (E) Time:05 Check the bike 'go bag'+Overhead
-(E) Time:05 Use Face strip +Health
 (E) Time:05 Use Face strip +Health
 (E) Time:10 Check that your oyster cards are registered online +Overhead
 (E) Time:10 Get cash out +Overhead 
 (E) Time:10 Search for funding for eQuality Time Projects +EQT
 (E) Time:10 Set up the redirector in firefox again +EQT
-(E) Time:10 Update Symptoms and Moods file +Health
 (E) Time:10 Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
 (E) Time:20 Empty crate completely +Overhead
 (E) Time:20 Empty crate completely +Overhead
@@ -51,4 +34,21 @@
 (E) Time:40 Review all projects in github +Overhead
 (E) Time:40 Review all projects in github +Overhead
 (E) Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
+(E) Weekend project: do a ranking of the linkedin hashtags
 (E) Write a letter to Nova +Family
+x 2018-11-06 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x 2018-11-06 1. Process Email @singleton +Overhead
+x 2018-11-06 1a. 1L of Water @singleton +Health
+x 2018-11-06 2. Go live +EQT @singleton
+x 2018-11-06 Fill out fear/passion table +Health
+x 2018-11-06 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x 2018-11-06 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+x 2018-11-06 Time:00 Refresh the lavender in Nova's room  +Family
+x 2018-11-06 Time:00 Review 'scrapsofinfo.txt' +EQT
+x 2018-11-06 Time:04 Log weight 82.4kg +Health
+x 2018-11-06 Time:05 Put wash on  +Family
+x 2018-11-06 Time:05 Use Face strip +Health
+x 2018-11-06 Time:10 Do a WWW theory of change (schools and commercial (and for nesta) 
+x 2018-11-06 Time:10 Find, edit, and post the video for last project review
+x 2018-11-06 Time:10 Map project about trustee terms of reference  +EQT
+x 2018-11-06 Time:10 Update Symptoms and Moods file +Health
