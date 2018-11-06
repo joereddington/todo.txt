@@ -3,7 +3,7 @@
 (A) Put together expenese sheet for EQT +EQT
 (A) Put together expenses sheet for OVF  +EQT
 (A) Put together expenses sheet for WWW  +EQT
-(A) Put together the expenses from the paypal screenshots
+(A) Move all folios throught the expenses process. 
 (A) Time:20 Pick date for next meeting from doodle poll  +EQT
 (A) Time:40 Focused work on putting together an executive summary for SHINE  +EQT
 (A) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
