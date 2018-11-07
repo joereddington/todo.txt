@@ -1,23 +1,35 @@
-(A) Draw a line under the old expenditure against grant file and start for the new financial year 
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
+(A) Do all of the receipts 
+(A) Do crate 
+x 2018-11-07 Draw a line under the old expenditure against grant file and start for the new financial year +EQT
 (A) Put together expenese sheet for ECP +EQT
 (A) Put together expenese sheet for EQT +EQT
 (A) Put together expenses sheet for OVF  +EQT
 (A) Put together expenses sheet for WWW  +EQT
-(A) Move all folios throught the expenses process. 
+(A) Redesign the expenditure against grant file 
 (A) Time:20 Pick date for next meeting from doodle poll  +EQT
 (A) Time:40 Focused work on putting together an executive summary for SHINE  +EQT
 (A) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
+(A1) Move all folios throught the expenses process. 
+(B) 1. Exercise @singleton +Exercise
 (B) Time:20 Go throught paypal spending to make a new expenses claim folder for the credit files
 (B) Time:40 Fix the portugese bugs for OVF +EQT
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) Bring the household expenses sheet up to date  +Family
+(C) Curate and post yesterday's time
+(C) Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
+(C) Work out the accounts for Bath projects +EQT
 (D) Brainstorm on silence more +Family
 (D) Time:15 Tie up the Wine +Family
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Time:60 Do full accounts algorithm +EQT
+(E) Fill out fear/passion table +Health
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:00 Video call with Kat family +Family
 (E) Time:05 Check the bike 'go bag'+Overhead
@@ -36,19 +48,6 @@
 (E) Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
 (E) Weekend project: do a ranking of the linkedin hashtags
 (E) Write a letter to Nova +Family
-x 2018-11-06 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-06 1. Process Email @singleton +Overhead
-x 2018-11-06 1a. 1L of Water @singleton +Health
-x 2018-11-06 2. Go live +EQT @singleton
-x 2018-11-06 Fill out fear/passion table +Health
-x 2018-11-06 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x 2018-11-06 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-x 2018-11-06 Time:00 Refresh the lavender in Nova's room  +Family
-x 2018-11-06 Time:00 Review 'scrapsofinfo.txt' +EQT
-x 2018-11-06 Time:04 Log weight 82.4kg +Health
-x 2018-11-06 Time:05 Put wash on  +Family
-x 2018-11-06 Time:05 Use Face strip +Health
-x 2018-11-06 Time:10 Do a WWW theory of change (schools and commercial (and for nesta) 
-x 2018-11-06 Time:10 Find, edit, and post the video for last project review
-x 2018-11-06 Time:10 Map project about trustee terms of reference  +EQT
-x 2018-11-06 Time:10 Update Symptoms and Moods file +Health
+s (A) Get the receipts book out. 
+s (A) Open the old expenditure against grant file 
+x (A) Fix 'fix me' in the old expenditure against grant
