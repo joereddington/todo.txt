@@ -1,9 +1,3 @@
-x 2018-11-07 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
-(A) Do all of the receipts 
-(A) Do crate 
-(A) Map the first deliverable for RSC
-(A) Post utility bill to skem people 82, Sandy Lane Skelmersdale Lancashire WN8 8LQ
 (A) Put together expenese sheet for ECP +EQT
 (A) Put together expenese sheet for EQT +EQT
 (A) Put together expenses sheet for OVF  +EQT
@@ -19,7 +13,9 @@ x 2018-11-07 1. Looking for urgent: Check Calendar and reminders  @singleton +Pl
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) Ask Natwest for a statement 
 (C) Bring the household expenses sheet up to date  +Family
+(C) Check (and time) how fast you can export internet history 
 (C) Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
@@ -31,16 +27,11 @@ x 2018-11-07 1. Looking for urgent: Check Calendar and reminders  @singleton +Pl
 (D) Time:60 Do full accounts algorithm +EQT
 (E) Fill out fear/passion table +Health
 (E) Time:00 Reload teapot +PersonalProjects
-(E) Time:00 Video call with Kat family +Family
-(E) Time:05 Check the bike 'go bag'+Overhead
 (E) Time:05 Use Face strip +Health
 (E) Time:10 Check that your oyster cards are registered online +Overhead
-(E) Time:10 Get cash out +Overhead 
 (E) Time:10 Search for funding for eQuality Time Projects +EQT
 (E) Time:10 Set up the redirector in firefox again +EQT
 (E) Time:10 Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
-(E) Time:20 Empty crate completely +Overhead
-(E) Time:20 Empty crate completely +Overhead
 (E) Time:20 Publish the lecture room font sizes blog. +PersonalProjects
 (E) Time:40 Review all projects in github +Overhead
 (E) Time:40 Review all projects in github +Overhead
@@ -48,3 +39,15 @@ x 2018-11-07 1. Looking for urgent: Check Calendar and reminders  @singleton +Pl
 (E) Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
 (E) Weekend project: do a ranking of the linkedin hashtags
 (E) Write a letter to Nova +Family
+x (A) 1a. 1L of Water @singleton +Health
+x (A) Do all of the receipts 
+x (A) Do crate  +EQT (because receipts and the rest of the crate is done) 
+x (A) Focused project work on https://github.com/joereddington/Jarvis/issues/104
+x (A) Go to post office with documents 
+x (A) Map the first deliverable for RSC
+x (A) Post Driving licence  to skem people 82, Sandy Lane Skelmersdale Lancashire WN8 8LQ https://www.foxtons.co.uk/help/aml-documents.html +Family
+x (E) Time:00 Video call with Kat family +Family
+x (E) Time:05 Check the bike 'go bag'+Overhead
+x (E) Time:10 Get cash out +Overhead 
+x (E) Time:20 Empty crate completely +Overhead
+x (E) Time:20 Empty crate completely +Overhead
