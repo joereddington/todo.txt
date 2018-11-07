@@ -1,8 +1,9 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x 2018-11-07 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (A) Do all of the receipts 
 (A) Do crate 
-x 2018-11-07 Draw a line under the old expenditure against grant file and start for the new financial year +EQT
+(A) Map the first deliverable for RSC
+(A) Post utility bill to skem people 82, Sandy Lane Skelmersdale Lancashire WN8 8LQ
 (A) Put together expenese sheet for ECP +EQT
 (A) Put together expenese sheet for EQT +EQT
 (A) Put together expenses sheet for OVF  +EQT
@@ -19,7 +20,6 @@ x 2018-11-07 Draw a line under the old expenditure against grant file and start 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Bring the household expenses sheet up to date  +Family
-(C) Curate and post yesterday's time
 (C) Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
@@ -48,6 +48,3 @@ x 2018-11-07 Draw a line under the old expenditure against grant file and start 
 (E) Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
 (E) Weekend project: do a ranking of the linkedin hashtags
 (E) Write a letter to Nova +Family
-s (A) Get the receipts book out. 
-s (A) Open the old expenditure against grant file 
-x (A) Fix 'fix me' in the old expenditure against grant
