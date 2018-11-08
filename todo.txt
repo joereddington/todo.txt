@@ -1,3 +1,6 @@
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
+(.) Look up the receipts for all for the doxdirect printing 
 (A) Put together expenese sheet for ECP +EQT
 (A) Put together expenese sheet for EQT +EQT
 (A) Put together expenses sheet for OVF  +EQT
@@ -8,14 +11,18 @@
 (A) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
 (A1) Move all folios throught the expenses process. 
 (B) 1. Exercise @singleton +Exercise
+(B) 1. Exercise @singleton +Exercise
 (B) Time:20 Go throught paypal spending to make a new expenses claim folder for the credit files
 (B) Time:40 Fix the portugese bugs for OVF +EQT
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) 2. Go live +EQT @singleton
 (C) Ask Natwest for a statement 
 (C) Bring the household expenses sheet up to date  +Family
 (C) Check (and time) how fast you can export internet history 
+(C) Curate and post yesterday's time
 (C) Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
@@ -25,6 +32,7 @@
 (D) Time:15 Tie up the Wine +Family
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Time:60 Do full accounts algorithm +EQT
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:05 Use Face strip +Health
@@ -39,15 +47,3 @@
 (E) Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
 (E) Weekend project: do a ranking of the linkedin hashtags
 (E) Write a letter to Nova +Family
-x (A) 1a. 1L of Water @singleton +Health
-x (A) Do all of the receipts 
-x (A) Do crate  +EQT (because receipts and the rest of the crate is done) 
-x (A) Focused project work on https://github.com/joereddington/Jarvis/issues/104
-x (A) Go to post office with documents 
-x (A) Map the first deliverable for RSC
-x (A) Post Driving licence  to skem people 82, Sandy Lane Skelmersdale Lancashire WN8 8LQ https://www.foxtons.co.uk/help/aml-documents.html +Family
-x (E) Time:00 Video call with Kat family +Family
-x (E) Time:05 Check the bike 'go bag'+Overhead
-x (E) Time:10 Get cash out +Overhead 
-x (E) Time:20 Empty crate completely +Overhead
-x (E) Time:20 Empty crate completely +Overhead
