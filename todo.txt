@@ -1,28 +1,23 @@
-### 08:06, x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-### 08:09, x (A) 1a. 1L of Water @singleton +Health
-### 08:11, x (.) Look up the receipts for all for the doxdirect printing 
-### 08:23, x (A) Put together expenese sheet for ECP +EQT
-### 08:30, x (A) Put together expenese sheet for EQT +EQT
-### 08:50, x (.) Getting receipts from dropbox  +EQT
-### 09:05, x (A) Put together expenses sheet for OVF  +EQT
-### 09:29, x (.) Find the receipts for OVF-08-11-18 +EQT
-### 09:46, x (.) Screenshot the github amounts 
-### 10:04, x (A) Put together expenses sheet for WWW  +EQT
-### 10:05, x (.) Trace all the receipts for WWW expeneses 
-### 10:36, Going for break 
-### 10:56, Back, putting in the due dates for A and C priorities. 
-### 11:06, x (A) Login to bitbucket
-### 11:09, x (A) Due:2018-11-08 Reply Jan
-### 11:15, (A) Due:2018-11-09 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
-### 11:20, x (.) Checking Timescales 
-### 11:22, Fixing phone for Kat +Family 
-### 11:43, x (.) Releasing last YouTube video  +EQT
-### 11:53, x (.) Email trustees about the bid first 
-### 11:54, x (C) Due:2018-11-08 Process Email @singleton +Overhead
-### 13:05, x (.) Releasing last YouTube video  +EQT
-### 13:16, Interup - back to email again  +EQT
-### 13:26, Logging out to go live. 
-
+x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x (A) 1a. 1L of Water @singleton +Health
+x (.) Look up the receipts for all for the doxdirect printing 
+x (A) Put together expenese sheet for ECP +EQT
+x (A) Put together expenese sheet for EQT +EQT
+x (.) Getting receipts from dropbox  +EQT
+x (A) Put together expenses sheet for OVF  +EQT
+x (.) Find the receipts for OVF-08-11-18 +EQT
+x (.) Screenshot the github amounts 
+x (A) Put together expenses sheet for WWW  +EQT
+x (.) Trace all the receipts for WWW expeneses 
+x (A) Login to bitbucket
+x (A) Due:2018-11-08 Reply Jan
+x 2018-11-08 Due:2018-11-09 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
+x (.) Checking Timescales 
+x Fixing phone for Kat +Family 
+x (.) Releasing last YouTube video  +EQT
+x (.) Email trustees about the bid first 
+x (C) Due:2018-11-08 Process Email @singleton +Overhead
+x (.) Releasing last YouTube video  +EQT
 (A) Due:2018-11-12 Time:40 Focused work on putting together an executive summary for SHINE  +EQT
 (B) 1. Exercise @singleton +Exercise
 (B) Move all folios throught the expenses process. 
@@ -32,8 +27,6 @@
 (B) Time:40 Review all projects in github +Overhead
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) Due: next meeting Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
-(C) Due:2018-11-08 Go live +EQT @singleton
-(C) Due:2018-11-17 Get newborn gift
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
 (C) Try new router: Test speed in each room first
@@ -46,17 +39,19 @@
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:05 Use Face strip +Health
 (E) Time:10 Check that your oyster cards are registered online +Overhead
-(E) Time:10 Search for funding for eQuality Time Projects +EQT
-(E) Time:10 Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer were there needs to be a log every couple of minutes  +PlanningAndTracking
 (E) Time:20 Publish the lecture room font sizes blog. +PersonalProjects
 (E) Write a letter to Nova +Family
 x 2018-11-08 Brainstorm on silence more +Family
 x 2018-11-08 Bring the household expenses sheet up to date  +Family
 x 2018-11-08 Check (and time) how fast you can export internet history 
+x 2018-11-08 Due:2018-11-08 Go live +EQT @singleton
 x 2018-11-08 Due:2018-11-11 Ask Natwest for a statement 
+x 2018-11-08 Due:2018-11-17 Get newborn gift
 x 2018-11-08 Fill out fear/passion table +Health
 x 2018-11-08 Fill out fear/passion table +Health
+x 2018-11-08 Time:10 Search for funding for eQuality Time Projects +EQT
 x 2018-11-08 Time:10 Set up the redirector in firefox again +EQT
+x 2018-11-08 Time:10 Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer where there needs to be a log every couple of minutes  +PlanningAndTracking
 x 2018-11-08 Time:20 Go throught paypal spending to make a new expenses claim folder for the credit files
 x 2018-11-08 Time:20 Pick date for next meeting from doodle poll  +EQT
 x 2018-11-08 Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
