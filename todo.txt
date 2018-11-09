@@ -1,4 +1,8 @@
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
 (A) Due:2018-11-12 Time:40 Focused work on putting together an executive summary for SHINE  +EQT
+(A) Prep for meeting with RSC +Home
+(B) 1. Exercise @singleton +Exercise
 (B) 1. Exercise @singleton +Exercise
 (B) Move all folios throught the expenses process. 
 (B) Time:40 Fix the portugese bugs for OVF +EQT
@@ -6,6 +10,9 @@
 (B) Time:40 Review all projects in github +Overhead
 (B) Time:40 Review all projects in github +Overhead
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
+(C) Curate and post yesterday's time
 (C) Due: next meeting Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
@@ -15,44 +22,12 @@
 (D) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Work out the accounts for Bath projects +EQT
+(E) Fill out fear/passion table +Health
 (E) Fill out the RHUL expenses form +Personal
+(E) Floss +Health
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:05 Use Face strip +Health
 (E) Time:10 Check that your oyster cards are registered online +Overhead
 (E) Time:20 Publish the lecture room font sizes blog. +PersonalProjects
+(E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
-x (.) Checking Timescales 
-x (.) Email trustees about the bid first 
-x (.) Find the receipts for OVF-08-11-18 +EQT
-x (.) Getting receipts from dropbox  +EQT
-x (.) Look up the receipts for all for the doxdirect printing 
-x (.) Releasing last YouTube video  +EQT
-x (.) Releasing last YouTube video  +EQT
-x (.) Screenshot the github amounts 
-x (.) Trace all the receipts for WWW expeneses 
-x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x (A) 1a. 1L of Water @singleton +Health
-x (A) Due:2018-11-08 Reply Jan
-x (A) Login to bitbucket
-x (A) Put together expenese sheet for ECP +EQT
-x (A) Put together expenese sheet for EQT +EQT
-x (A) Put together expenses sheet for OVF  +EQT
-x (A) Put together expenses sheet for WWW  +EQT
-x (C) Due:2018-11-08 Process Email @singleton +Overhead
-x 2018-11-08 Brainstorm on silence more +Family
-x 2018-11-08 Bring the household expenses sheet up to date  +Family
-x 2018-11-08 Check (and time) how fast you can export internet history 
-x 2018-11-08 Due:2018-11-08 Go live +EQT @singleton
-x 2018-11-08 Due:2018-11-09 Focused work on on https://github.com/eQualityTime/Public/issues/51 +EQT
-x 2018-11-08 Due:2018-11-11 Ask Natwest for a statement 
-x 2018-11-08 Due:2018-11-17 Get newborn gift
-x 2018-11-08 Fill out fear/passion table +Health
-x 2018-11-08 Fill out fear/passion table +Health
-x 2018-11-08 Time:10 Search for funding for eQuality Time Projects +EQT
-x 2018-11-08 Time:10 Set up the redirector in firefox again +EQT
-x 2018-11-08 Time:10 Write a 'faff protocal' for logging. Like 'After there is faff, move to a timer where there needs to be a log every couple of minutes  +PlanningAndTracking
-x 2018-11-08 Time:20 Go throught paypal spending to make a new expenses claim folder for the credit files
-x 2018-11-08 Time:20 Pick date for next meeting from doodle poll  +EQT
-x 2018-11-08 Time:50 Ring 01582 572739 to find out about Flu Vaccine +Health
-x 2018-11-08 Time:60 Do full accounts algorithm +EQT
-x Fixing phone for Kat +Family 
