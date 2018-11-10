@@ -1,7 +1,6 @@
 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
-(A) Due:2018-11-12 Time:40 Focused work on putting together an executive summary for SHINE  +EQT
-(A) Prep for meeting with RSC +Home
+(A) Due:2018-11-16 Sprint on gathering chemistry information for RSC +Personal
 (B) 1. Exercise @singleton +Exercise
 (B) 1. Exercise @singleton +Exercise
 (B) Move all folios throught the expenses process. 
@@ -11,23 +10,48 @@
 (B) Time:40 Review all projects in github +Overhead
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
 (C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) 2. Go live +EQT @singleton
 (C) Curate and post yesterday's time
+(C) Curate and post yesterday's time
 (C) Due: next meeting Map expenditure against grant project, and brainstorm on the amount that can be live  +EQT
+(C) Due:2018-11-10 Baby gift for Adam +Social
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
 (C) Try new router: Test speed in each room first
+(D) Do full accounts algorithm +EQT
 (D) Find out if you paid twice to review supertitle  +EQT
 (D) Time:15 Tie up the Wine +Family
 (D) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Work out the accounts for Bath projects +EQT
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Either phone or mouse is in the box.  +overhead
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out the RHUL expenses form +Personal
 (E) Floss +Health
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Put STUFF in the loft
+(E) Put up the other stairgate
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Tidy the cup cupboard +Family
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:05 Use Face strip +Health
 (E) Time:10 Check that your oyster cards are registered online +Overhead
 (E) Time:20 Publish the lecture room font sizes blog. +PersonalProjects
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
 (E) Vitimin Tablet +Health
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
