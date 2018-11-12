@@ -1,6 +1,10 @@
+
+### 05:45, x (E) Check Desktop Tracker is working +Overhead
+### 06:08, 
 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (A) Due:2018-11-16 Sprint on gathering chemistry information for RSC +Personal
+(A) Find out about images in OVF
 (B) 1. Exercise @singleton +Exercise
 (B) 1. Exercise @singleton +Exercise
 (B) Move all folios throught the expenses process. 
@@ -20,22 +24,18 @@
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/32 +EQT 
 (C) Try new router: Test speed in each room first
-(D) Do full accounts algorithm +EQT
 (D) Find out if you paid twice to review supertitle  +EQT
+(D) Set up regular events for Team Cooper visit. 
 (D) Time:15 Tie up the Wine +Family
 (D) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Work out the accounts for Bath projects +EQT
-(E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
-(E) Check the bike 'go bag'+Overhead
-(E) Either phone or mouse is in the box.  +overhead
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Fill out the RHUL expenses form +Personal
 (E) Floss +Health
-(E) Go thought phone screen shots for tasks +Overhead
 (E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
@@ -44,7 +44,6 @@
 (E) Put STUFF in the loft
 (E) Put up the other stairgate
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Swimming and climbing gear should be in the car +Overhead
 (E) Tidy the cup cupboard +Family
 (E) Time:00 Reload teapot +PersonalProjects
 (E) Time:05 Use Face strip +Health
@@ -55,3 +54,8 @@
 (E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
+x 2018-11-10 Check the bike 'go bag'+Overhead
+x 2018-11-10 Do full accounts algorithm +EQT
+x 2018-11-10 Either phone or mouse is in the box.  +overhead
+x 2018-11-10 Go thought phone screen shots for tasks +Overhead
+x 2018-11-10 Swimming and climbing gear should be in the car +Overhead
