@@ -1,34 +1,46 @@
+(A) 1a. 1L of Water @singleton +Health
 (A) Check the 'to put in Evernote' folder and add to database +Overhead
-(A) Go to the bank, get the statement
 (A) Time:40 Fix the portugese bugs for OVF +EQT
+(B) 1. Exercise @singleton +Exercise
+(B) Check Clare's new code +EQT
 (B) Time:60 Focused work on on https://github.com/eQualityTime/Public/issues/44 +EQT
 (B) Try the Dropbox chooser on OVF 
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Go live +EQT @singleton
 (C) Call Laurence 
 (C) Create a test in OVF for the portugese
+(C) Map Seasonal food project
 (C) Time:10 Write up First CR interview notes (9/10)  +EQT
 (C) Try new router 
-(C) x 2018-11-13 Add two bags to the car for clearning/carring out +EQT
 (D) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
 (D) Time:30 Review and rewrite the honest presentation +EQT
 (D) Work out the accounts for Bath projects +EQT
-x2018-11-13 Backup Dreamhost +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+x 2018-11-15 Check the bike 'go bag'+Overhead
 (E) Cut the bracket for the other stairgate
+(E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
 (E) Fill out the RHUL expenses form +Personal
 (E) Get car cleaned.
-(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Put STUFF in the loft
-(E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Time:05 Use Face strip +Health
 (E) Use Face strip +Health
-x 2018-11-13 1. Process Email @singleton +Overhead
-x 2018-11-13 Go through the shared reminder list with Heart +Family
-x 2018-11-13 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2018-11-13 Send Trustees something nice about outcomes +EQT
-x 2018-11-13 Time:10 Check that your oyster cards are registered online +Overhead
-x 2018-11-13 Time:20 Publish the lecture room font sizes blog. +PersonalProjects
-x 2018-11-13 Update Symptoms and Moods file +Health
-x 2018-11-13 Write a letter to Nova +Family
-x 2018-11-13 Write a letter to Nova +Family
+(E) Use Face strip +Health
+(E) Write a letter to Nova +Family
+x 2018-11-15 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x 2018-11-15 Check Desktop Tracker is working +Overhead
+x 2018-11-15 Check Voicemail  +Overhead
+x 2018-11-15 Do full accounts algorithm +EQT
+x 2018-11-15 Fill out fear/passion table +Health
+x 2018-11-15 Go thought phone screen shots for tasks +Overhead
+x 2018-11-15 Go through notebook (and iphone reminders) for tasks +Overhead
+x 2018-11-15 Go to the bank, get the statement
+x 2018-11-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+x 2018-11-15 Open and log progress on the bid status document +EQT
+x 2018-11-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x 2018-11-15 Review starred items in feeds +Overhead
+x 2018-11-15 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+x 2018-11-15 Swimming and climbing gear should be in the car +Overhead
+x 2018-11-15 x 2018-11-13 Add two bags to the car for clearning/carring out +EQT
