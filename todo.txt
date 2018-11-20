@@ -1,64 +1,60 @@
-
-### 19/11/18 13:49, Better late than never 
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
-(A) Time:00 Sprint on RSC research: List the keywords and then do the searches   
-(A) Time:00 Write the Dementia Speech
-(B) 1. Exercise @singleton +Exercise
-(B) Record video for Kate 
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
-(C) Get into touch with the open voice factory code 
-(C) Review Rob's document. 
-(C) Time:20 get weather example files for adrian 
-(D) Do full accounts algorithm +EQT
-(D) Time:20 Transfer garage measurements to PowerPoint document from Photos +Family 
-(E) Add two bags to the car for clearning/carring out +EQT
-(E) Check Desktop Tracker is working +Overhead
-(E) Check Voicemail  +Overhead
-(E) Check team cooper visit dates: every two weeks  +Family
-(E) Check that everything in the 'in process' box really does have a task+Overhead
-(E) Check the bike 'go bag'+Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
-(E) Check the next school time +EQT
-(E) Confirm plans for next two weekends.+Overhead
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-(E) Cut nails +Health
-(E) Either phone or mouse is in the box.  +overhead
-(E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Floss +Health
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-(E) Go thought phone screen shots for tasks +Overhead
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
-(E) Go through phone and save all of the numbers +Overhead
-(E) Go through the shared reminder list with Heart +Family
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-(E) Log weight +Health
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Make sure paper crane is in bathroom +Family
-(E) Open and log progress on the bid status document +EQT
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to Sibling Facebook group
-(E) Post to WWW facebook page +EQT
-(E) Process inbox in evernote +Overhead
-(E) Publicly thank someone +Overhead
-(E) Put sleep time into calendar +Overhead
-(E) Remind Kat to do Nova's menu +Family
-(E) Review all projects in github +Overhead
-(E) Review yearly goals +Overhead
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-(E) Swimming and climbing gear should be in the car +Overhead
-(E) Trim nose hair +Health
-(E) Update Symptoms and Moods file +Health
-(E) Use Face strip +Health
-(E) Video call with Kat family +Family
-(E) Vitimin Tablet +Health
-(E) Wash sheets and towels +Family
-(E) Write a letter to Nova +Family
+(a) Sprint on https://github.com/joereddington/Jarvis/issues/104 
+(b) call to move money from first direct 03 456 100 100
+(c) Find out everything there is to know about Angular  +EQT
+(c) review rob's document (In EQT dropbox) 
+(d) time:20 transfer garage measurements to powerpoint document from photos +family 
+(e) either phone or mouse is in the box.  +overhead
+(e) floss +health
+(e) review all projects in github +overhead
+(e) use face strip +health
+(e) vitamin tablet +health
+(e) write a letter to nova +family
+x (b) record video for kate 
+x (e) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§ +overhead
+x (e) ping §e:u2fsdgvkx1/rnyeadgsmlwysihnm+b/zfd2d5ltkd0m=§
+x (e) ping §e:u2fsdgvkx1/zoza9gbrgx1bk2idcegeozlyftiiqzj8=§
+x (e) ping §e:u2fsdgvkx18/xdtjwjlnkymaycmtsuyg4ez1wfjtgz0=§
+x (e) ping §e:u2fsdgvkx18wvyzgabm7ql030po3ax6ap00h5nn5p5e=§
+x (e) post to sibling facebook group
+x 2018-11-19 1. looking for urgent: check calendar and reminders  @singleton +planningandtracking
+x 2018-11-19 1a. 1L of Water @singleton +Health
+x 2018-11-19 Trim nose hair +Health
+x 2018-11-19 Video call with Kat family +Family
+x 2018-11-19 add two bags to the car for clearning/carring out +eqt
+x 2018-11-19 check desktop tracker is working +overhead
+x 2018-11-19 check team cooper visit dates: every two weeks  +family
+x 2018-11-19 check that everything in the 'in process' box really does have a task+overhead
+x 2018-11-19 check the bike 'go bag'+overhead
+x 2018-11-19 check the last time §e:u2fsdgvkx18e4dsc7upajr6opvoesiiceqyzawbcs2q=§ called you +family
+x 2018-11-19 check the next school time +eqt
+x 2018-11-19 check voicemail  +overhead
+x 2018-11-19 confirm plans for next two weekends.+overhead
+x 2018-11-19 contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for advice about something
+x 2018-11-19 cut nails +health
+x 2018-11-19 do full accounts algorithm +eqt
+x 2018-11-19 empty crate completely +overhead
+x 2018-11-19 fill out fear/passion table +health
+x 2018-11-19 fill out fear/passion table +health
+x 2018-11-19 go thought calendar and find at least one 'thank you's  you *can* make  +overhead
+x 2018-11-19 go thought phone screen shots for tasks +overhead
+x 2018-11-19 go through notebook (and iphone reminders) for tasks +overhead
+x 2018-11-19 go through phone and save all of the numbers +overhead
+x 2018-11-19 go through the shared reminder list with heart +family
+x 2018-11-19 learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +eqt
+x 2018-11-19 log weight +health
+x 2018-11-19 look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6mop/oqe8b1wj4gtb0=§ +family
+x 2018-11-19 make sure paper crane is in bathroom +family
+x 2018-11-19 open and log progress on the bid status document +eqt
+x 2018-11-19 post to www facebook page +eqt
+x 2018-11-19 process inbox in evernote +overhead
+x 2018-11-19 publicly thank someone +overhead
+x 2018-11-19 put sleep time into calendar +overhead
+x 2018-11-19 remind kat to do nova's menu +family
+x 2018-11-19 review yearly goals +overhead
+x 2018-11-19 save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9ouzqu=§ in the book +family
+x 2018-11-19 send §e:u2fsdgvkx1/72lgetktb+aa4f5guvhmjwuldwf83ef4=§ the giff of he liked
+x 2018-11-19 swimming and climbing gear should be in the car +overhead
+x 2018-11-19 time:00 write the dementia speech
+x 2018-11-19 time:20 get weather example files for adrian 
+x 2018-11-19 update symptoms and moods file +health
+x 2018-11-19 wash sheets and towels +family
