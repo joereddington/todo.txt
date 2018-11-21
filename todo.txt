@@ -1,10 +1,3 @@
-hope 
-### 08:25, x (A) 1a. 1L of Water @singleton +Health
-### 08:26, x (A) Redraft EQT minutes and work thought any actions
-### 08:30, x (A) Do calendar invite for meeting 
-### 08:31, (.) Core funds worked out 
-### 09:41, x 2018-11-21 review rob's document (In EQT dropbox) by 2pm 
-### 10:04, x (A) Sprint on https://github.com/joereddington/Jarvis/issues/104 
 (B) 1. Exercise @singleton +Exercise
 (C) 2. Go live +EQT @singleton
 (C) Deal with Alex the tech writer
@@ -13,26 +6,8 @@ hope
 (D) Call the charities commision (before 3pm) 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
 (E) Floss +Health
-(E) Make a pre-commit hook that sorts the todo list before commiting 
+x 2018-11-21 Make a pre-commit hook that sorts the todo list before commiting 
 (E) floss +health
 (E) review all projects in github +overhead
 (E) use face strip +health
 (E) write a letter to nova +family
-x 2018-11-20 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-21 (.) Read and highlight 
-x 2018-11-21 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-21 1. Process Email @singleton +Overhead
-x 2018-11-21 Create meeting folder   
-x 2018-11-21 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2018-11-21 Expenditure against grant brought up to date
-x 2018-11-21 Fill out fear/passion table +Health
-x 2018-11-21 Fill out fear/passion table +Health
-x 2018-11-21 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2018-11-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x 2018-11-21 Tidy office 
-x 2018-11-21 Vitimin Tablet +Health
-x 2018-11-21 Write adenda - include WWW  
-x 2018-11-21 call to move money from first direct 03 456 100 100
-x 2018-11-21 either phone or mouse is in the box.  +overhead
-x 2018-11-21 rob is willing to join call  
-x 2018-11-21 vitamin tablet +health
