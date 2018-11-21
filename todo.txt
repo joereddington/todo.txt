@@ -1,60 +1,37 @@
-(a) Sprint on https://github.com/joereddington/Jarvis/issues/104 
-(b) call to move money from first direct 03 456 100 100
-(c) Find out everything there is to know about Angular  +EQT
-(c) review rob's document (In EQT dropbox) 
-(d) time:20 transfer garage measurements to powerpoint document from photos +family 
-(e) either phone or mouse is in the box.  +overhead
-(e) floss +health
-(e) review all projects in github +overhead
-(e) use face strip +health
-(e) vitamin tablet +health
-(e) write a letter to nova +family
-x (b) record video for kate 
-x (e) ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§ +overhead
-x (e) ping §e:u2fsdgvkx1/rnyeadgsmlwysihnm+b/zfd2d5ltkd0m=§
-x (e) ping §e:u2fsdgvkx1/zoza9gbrgx1bk2idcegeozlyftiiqzj8=§
-x (e) ping §e:u2fsdgvkx18/xdtjwjlnkymaycmtsuyg4ez1wfjtgz0=§
-x (e) ping §e:u2fsdgvkx18wvyzgabm7ql030po3ax6ap00h5nn5p5e=§
-x (e) post to sibling facebook group
-x 2018-11-19 1. looking for urgent: check calendar and reminders  @singleton +planningandtracking
-x 2018-11-19 1a. 1L of Water @singleton +Health
-x 2018-11-19 Trim nose hair +Health
-x 2018-11-19 Video call with Kat family +Family
-x 2018-11-19 add two bags to the car for clearning/carring out +eqt
-x 2018-11-19 check desktop tracker is working +overhead
-x 2018-11-19 check team cooper visit dates: every two weeks  +family
-x 2018-11-19 check that everything in the 'in process' box really does have a task+overhead
-x 2018-11-19 check the bike 'go bag'+overhead
-x 2018-11-19 check the last time §e:u2fsdgvkx18e4dsc7upajr6opvoesiiceqyzawbcs2q=§ called you +family
-x 2018-11-19 check the next school time +eqt
-x 2018-11-19 check voicemail  +overhead
-x 2018-11-19 confirm plans for next two weekends.+overhead
-x 2018-11-19 contact §e:u2fsdgvkx18yzl62zwaigxgimmq+iuvx81cvznpiv1k=§ for advice about something
-x 2018-11-19 cut nails +health
-x 2018-11-19 do full accounts algorithm +eqt
-x 2018-11-19 empty crate completely +overhead
-x 2018-11-19 fill out fear/passion table +health
-x 2018-11-19 fill out fear/passion table +health
-x 2018-11-19 go thought calendar and find at least one 'thank you's  you *can* make  +overhead
-x 2018-11-19 go thought phone screen shots for tasks +overhead
-x 2018-11-19 go through notebook (and iphone reminders) for tasks +overhead
-x 2018-11-19 go through phone and save all of the numbers +overhead
-x 2018-11-19 go through the shared reminder list with heart +family
-x 2018-11-19 learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +eqt
-x 2018-11-19 log weight +health
-x 2018-11-19 look at list of topics and ring §e:u2fsdgvkx19wblrotmyo0bkqz6mop/oqe8b1wj4gtb0=§ +family
-x 2018-11-19 make sure paper crane is in bathroom +family
-x 2018-11-19 open and log progress on the bid status document +eqt
-x 2018-11-19 post to www facebook page +eqt
-x 2018-11-19 process inbox in evernote +overhead
-x 2018-11-19 publicly thank someone +overhead
-x 2018-11-19 put sleep time into calendar +overhead
-x 2018-11-19 remind kat to do nova's menu +family
-x 2018-11-19 review yearly goals +overhead
-x 2018-11-19 save a memory about §e:u2fsdgvkx18rcdzdasp5hojw/ii/67fjskmbc9ouzqu=§ in the book +family
-x 2018-11-19 send §e:u2fsdgvkx1/72lgetktb+aa4f5guvhmjwuldwf83ef4=§ the giff of he liked
-x 2018-11-19 swimming and climbing gear should be in the car +overhead
-x 2018-11-19 time:00 write the dementia speech
-x 2018-11-19 time:20 get weather example files for adrian 
-x 2018-11-19 update symptoms and moods file +health
-x 2018-11-19 wash sheets and towels +family
+### 08:25, x (A) 1a. 1L of Water @singleton +Health
+### 08:26, x (A) Redraft EQT minutes and work thought any actions
+### 08:30, x (A) Do calendar invite for meeting 
+### 08:31, (.) Core funds worked out 
+### 09:41, x 2018-11-21 review rob's document (In EQT dropbox) by 2pm 
+### 10:04, x (A) Sprint on https://github.com/joereddington/Jarvis/issues/104 
+(B) 1. Exercise @singleton +Exercise
+(C) 2. Go live +EQT @singleton
+(C) Deal with Alex the tech writer
+(C) Do terms of reference for twickenham school
+(C) Do the Angular tutorial @live
+(D) Call the charities commision (before 3pm) 
+(D) time:20 transfer garage measurements to powerpoint document from photos +family 
+(E) Floss +Health
+(E) Make a pre-commit hook that sorts the todo list before commiting 
+(E) floss +health
+(E) review all projects in github +overhead
+(E) use face strip +health
+(E) write a letter to nova +family
+x 2018-11-20 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x 2018-11-21 (.) Read and highlight 
+x 2018-11-21 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x 2018-11-21 1. Process Email @singleton +Overhead
+x 2018-11-21 Create meeting folder   
+x 2018-11-21 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2018-11-21 Expenditure against grant brought up to date
+x 2018-11-21 Fill out fear/passion table +Health
+x 2018-11-21 Fill out fear/passion table +Health
+x 2018-11-21 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2018-11-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+x 2018-11-21 Tidy office 
+x 2018-11-21 Vitimin Tablet +Health
+x 2018-11-21 Write adenda - include WWW  
+x 2018-11-21 call to move money from first direct 03 456 100 100
+x 2018-11-21 either phone or mouse is in the box.  +overhead
+x 2018-11-21 rob is willing to join call  
+x 2018-11-21 vitamin tablet +health
