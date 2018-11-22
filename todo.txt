@@ -1,11 +1,9 @@
 ### 07:55, (A) 1a. 1L of Water @singleton +Health
-(A) Do a dodole properly 
-(A) Map quickbooks project 
-(A) Map report project 
-(B) 1. Exercise @singleton +Exercise
-(B) 1. Exercise @singleton +Exercise
+(A) Do a dodole properly  +Live 
+(A) Map quickbooks project +live 
+(A) Map report project +live 
+(B) Prep for exercise {kit;alarm;names;pb} @singleton +Exercise
 (C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
 (C) 2. Go live +EQT @singleton
 (C) Buy parts for the stairgate
 (C) Deal with Alex the tech writer
