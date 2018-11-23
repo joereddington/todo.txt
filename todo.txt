@@ -1,12 +1,10 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
-(A) Do a dodole properly  +Live 
-(A) Get the todo from the other user account 
-(A) Map quickbooks project 
-(A) Map report project +live 
+### 12:48, x (A) 1a. 1L of Water @singleton +Health
+### 12:48, x (A) Do a dodole properly  +Live 
+### 13:02, x (A) Map quickbooks project 
+
+### 13:46, (A) Get the todo from the other user account 
 (B) 1. Exercise @singleton +Exercise
-(B) Add mum as a user to quickbooks 
-(B) Prep for exercise {kit;alarm;names;pb} @singleton +Exercise
+x 2018-11-23 Add mum as a user to quickbooks 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Do terms of reference for twickenham school
@@ -34,3 +32,5 @@
 (E) review all projects in github +overhead
 (E) use face strip +health
 (E) write a letter to nova +family
+x 2018-11-23 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+x Canceled today  2018-11-23 Prep for exercise {kit;alarm;names;pb} @singleton +Exercise
