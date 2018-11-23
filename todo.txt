@@ -1,21 +1,26 @@
-### 07:55, (A) 1a. 1L of Water @singleton +Health
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
 (A) Do a dodole properly  +Live 
-(A) Map quickbooks project +live 
+(A) Get the todo from the other user account 
+(A) Map quickbooks project 
 (A) Map report project +live 
+(B) 1. Exercise @singleton +Exercise
+(B) Add mum as a user to quickbooks 
 (B) Prep for exercise {kit;alarm;names;pb} @singleton +Exercise
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
-(C) Buy parts for the stairgate
-(C) Deal with Alex the tech writer
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
+(C) Sprint putting up pageset.obz files for obfreader @live 
+(C) Talk to Clare about tech writer 
 (D) Call the charities commision (before 3pm) 
-(D) Do full accounts algorithm +EQT
+(D) T. Hmmm.  It would be good to have a list of shots I want to get. 
 (D) Think about what photography you want to do when you get your camera 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
 (E) Check Voicemail  +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the firebreak in: whatsapp
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Go through notebook (and iphone reminders) for tasks +Overhead
@@ -27,14 +32,3 @@
 (E) review all projects in github +overhead
 (E) use face strip +health
 (E) write a letter to nova +family
-x 2018-11-21 Make a pre-commit hook that sorts the todo list before commiting 
-x 2018-11-22 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-22 Check Desktop Tracker is working +Overhead
-x 2018-11-22 Check that everything in the 'in process' box really does have a task+Overhead
-x 2018-11-22 Check the bike 'go bag'+Overhead
-x 2018-11-22 Either phone or mouse is in the box.  +overhead
-x 2018-11-22 Go thought phone screen shots for tasks +Overhead
-x 2018-11-22 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x 2018-11-22 Open and log progress on the bid status document +EQT
-x 2018-11-22 Swimming and climbing gear should be in the car +Overhead
-x 2018-11-22 floss +health
