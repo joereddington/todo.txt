@@ -24,11 +24,13 @@
 (E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Pack for running this weekend +Health
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Write a letter to Nova +Family
+(E) Write answer to 'can software auto-detect image focus?' 
 (E) review all projects in github +overhead
 (E) use face strip +health
 (E) write a letter to nova +family
