@@ -2,7 +2,8 @@
 ### 09:56 x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 ### 10:51, x Put up the report 
 ### 11:02,  Bunch of small tasks 
-(A) Phone up quickbooks again about imports 
+### 12:04, x (A) Phone up quickbooks again about imports 
+(B) Try third party quickbooks apps for bulk delete and import
 (A) Post solitor letter and phone about progress 
 (B) Draft chemistry first report 
 (C) 1. Process Email @singleton +Overhead
@@ -11,7 +12,7 @@
 (C) Check the doodle poll 
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
-(C) Fix stargate
+(C) Fix stairgate
 (C) Follow up with Byte the book people and sign up for the whole THING 
 (C) Map this for digital local heros https://mcf.org.uk/apply-later-life/ @Live
 (C) Move minutes over to proper minutes folder and format last meetings minutes  
@@ -24,34 +25,20 @@
 (D) Go to the garage to get plug adapters for nova's room 
 (D) get bulb for the office and bulbs for the ktichen 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Confirm plans for next two weekends.+Overhead
 (E) Cut nails +Health
-(E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
-(E) Go through the shared reminder list with Heart +Family
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Open and log progress on the bid status document +EQT
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Post to WWW facebook page +EQT
 (E) Put sleep time into calendar +Overhead
 (E) Review all projects in github +Overhead
 (E) Review yearly goals +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Trim nose hair +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -64,11 +51,24 @@
 (E) fix the date shortcuts so that alphabetical ordering works 
 (E) use face strip +health
 x (A) 1a. 1L of Water @singleton +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 x 2018-11-26 Check Desktop Tracker is working +Overhead
 x 2018-11-26 Check Voicemail  +Overhead
 x 2018-11-26 Check Voicemail  +Overhead
+x 2018-11-26 Check that everything in the 'in process' box really does have a task+Overhead
 x 2018-11-26 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2018-11-26 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2018-11-26 Go through notebook (and iphone reminders) for tasks +Overhead
+x 2018-11-26 Go through the shared reminder list with Heart +Family
+x 2018-11-26 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2018-11-26 Update Symptoms and Moods file +Health
 x 2018-11-26 Update Symptoms and Moods file +Health
 x 2018-11-26 Upload the challenge dementia buisness case to github 
