@@ -1,7 +1,7 @@
 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
-(A) Post solitor letter and phone about progress 
 (A) Phone up quickbooks again about imports 
+(A) Post solitor letter and phone about progress 
 (B) Draft chemistry first report 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
@@ -63,19 +63,3 @@
 (E) Write a letter to nova +family
 (E) Write answer to 'can software auto-detect image focus?' 
 (E) use face strip +health
-x 2018-11-26 Add two bags to the car for clearning/carring out +EQT
-x 2018-11-26 Check team cooper visit dates: every two weeks  +Family
-x 2018-11-26 Check the bike 'go bag'+Overhead
-x 2018-11-26 Check the next school time +EQT
-x 2018-11-26 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-x 2018-11-26 Go thought phone screen shots for tasks +Overhead
-x 2018-11-26 Go through phone and save all of the numbers +Overhead
-x 2018-11-26 Log weight +Health
-x 2018-11-26 Make sure paper crane is in bathroom +Family
-x 2018-11-26 Pack for running this weekend +Health
-x 2018-11-26 Post to Sibling Facebook group
-x 2018-11-26 Process inbox in evernote +Overhead
-x 2018-11-26 Publicly thank someone +Overhead
-x 2018-11-26 Remind Kat to do Nova's menu +Family
-x 2018-11-26 Swimming and climbing gear should be in the car +Overhead
-x 2018-11-26 Wash sheets and towels +Family
