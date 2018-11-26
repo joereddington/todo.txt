@@ -1,17 +1,17 @@
-### 0 26/11/18 09:56, Starting 
-### 09:56 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
+## 26/11/18 09:56, Starting 
+### 09:56 x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+### 10:51, x Put up the report 
 (A) Phone up quickbooks again about imports 
 (A) Post solitor letter and phone about progress 
 (B) Draft chemistry first report 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
+(C) Call Kate about OVFreader 
+(C) Check the doodle poll 
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
-(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/
-(C) Call Kate about OVFreader 
 (C) Follow up with Byte the book people and sign up for the whole THING 
-(C) Check the doodle poll 
+(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/
 (C) Move minutes over to proper minutes folder and format last meetings minutes  
 (C) Put up stairgate
 (C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
@@ -22,16 +22,11 @@
 (C) Write up the blog post about the review) 
 (D) Call the charities commision (before 3pm) 
 (D) Do full accounts algorithm +EQT
-(D) get bulb for the office and bulbs for the ktichen 
 (D) Go to the garage to get plug adapters for nova's room 
+(D) get bulb for the office and bulbs for the ktichen 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Check Desktop Tracker is working +Overhead
-(E) Check Voicemail  +Overhead
-(E) Check Voicemail  +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 (E) Confirm plans for next two weekends.+Overhead
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Cut nails +Health
 (E) Either phone or mouse is in the box.  +overhead
 (E) Empty crate completely +Overhead
@@ -69,5 +64,11 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to nova +family
 (E) Write answer to 'can software auto-detect image focus?' 
-(E) use face strip +health
 (E) fix the date shortcuts so that alphabetical ordering works 
+(E) use face strip +health
+x (A) 1a. 1L of Water @singleton +Health
+x 2018-11-26 Check Desktop Tracker is working +Overhead
+x 2018-11-26 Check Voicemail  +Overhead
+x 2018-11-26 Check Voicemail  +Overhead
+x 2018-11-26 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+x 2018-11-26 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
