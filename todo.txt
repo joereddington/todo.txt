@@ -1,4 +1,5 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+### 0 26/11/18 09:56, Starting 
+### 09:56 (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (A) Phone up quickbooks again about imports 
 (A) Post solitor letter and phone about progress 
@@ -7,6 +8,10 @@
 (C) 2. Go live +EQT @singleton
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
+(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/
+(C) Call Kate about OVFreader 
+(C) Follow up with Byte the book people and sign up for the whole THING 
+(C) Check the doodle poll 
 (C) Move minutes over to proper minutes folder and format last meetings minutes  
 (C) Put up stairgate
 (C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
@@ -17,6 +22,8 @@
 (C) Write up the blog post about the review) 
 (D) Call the charities commision (before 3pm) 
 (D) Do full accounts algorithm +EQT
+(D) get bulb for the office and bulbs for the ktichen 
+(D) Go to the garage to get plug adapters for nova's room 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
 (E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
@@ -63,3 +70,4 @@
 (E) Write a letter to nova +family
 (E) Write answer to 'can software auto-detect image focus?' 
 (E) use face strip +health
+(E) fix the date shortcuts so that alphabetical ordering works 
