@@ -1,12 +1,8 @@
-### 12:48, x (A) 1a. 1L of Water @singleton +Health
-### 12:48, x (A) Do a dodole properly  +Live 
-### 13:02, x (A) Map quickbooks project 
-### 13:46, x (A) Get the todo from the other user account 
-### 13:50, x (put on calendar) (A) Badger some comic relief stakeholders 
-### 13:51, x (A) Try the ovfreader with a github upload pageset.obz
-### 14:03, x (put in calendar) (B) Email Yvonne to check exactly were we are with the prison cable networks 
-### 15:55, x (C) Find out how to do expenses in quickbooks 
-### 16:32, Phone up quickbooks again about imports 
+(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
+(A) Phone up quickbooks again about imports 
+(B) Draft chemistry first report 
+(C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
@@ -19,28 +15,66 @@
 (C) Upload the challenge dementia buisness case to github 
 (C) Write up the blog post about the review) 
 (D) Call the charities commision (before 3pm) 
+(D) Do full accounts algorithm +EQT
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
+(E) Check Desktop Tracker is working +Overhead
 (E) Check Voicemail  +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Confirm plans for next two weekends.+Overhead
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Cut nails +Health
+(E) Either phone or mouse is in the box.  +overhead
+(E) Empty crate completely +Overhead
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Floss +Health
-(E) Pack for running this weekend +Health
+(E) Floss +Health
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through the shared reminder list with Heart +Family
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+x 2018-11-26 Log weight +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+x 2018-11-26 Make sure paper crane is in bathroom +Family
+(E) Open and log progress on the bid status document +EQT
+x 2018-11-26 Pack for running this weekend +Health
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+x 2018-11-26 Post to Sibling Facebook group
+(E) Post to WWW facebook page +EQT
+x 2018-11-26 Process inbox in evernote +Overhead
+x 2018-11-26 Publicly thank someone +Overhead
+(E) Put sleep time into calendar +Overhead
+x 2018-11-26 Remind Kat to do Nova's menu +Family
+(E) Review all projects in github +Overhead
+(E) Review yearly goals +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
 (E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Video call with Kat family +Family
+(E) Vitimin Tablet +Health
+x 2018-11-26 Wash sheets and towels +Family
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to nova +family
 (E) Write answer to 'can software auto-detect image focus?' 
 (E) use face strip +health
-x (C) 1. Process Email @singleton +Overhead
-x 2018-11-23 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-x 2018-11-23 Add mum as a user to quickbooks 
-x 2018-11-23 Check if we have the data for glynn school
-x 2018-11-23 Check the 'to put in Evernote' folder and add to database +Overhead
-x 2018-11-23 Check the firebreak in: whatsapp
-x 2018-11-23 Check the last time you spoke to cast 
-x 2018-11-23 Fill out fear/passion table +Health
-x 2018-11-23 Go through notebook (and iphone reminders) for tasks +Overhead
-x 2018-11-23 Think about what photography you want to do when you get your camera 
-x 2018-11-23 review all projects in github +overhead
-x Canceled today  2018-11-23 Prep for exercise {kit;alarm;names;pb} @singleton +Exercise
+x 2018-11-26 Add two bags to the car for clearning/carring out +EQT
+x 2018-11-26 Check team cooper visit dates: every two weeks  +Family
+x 2018-11-26 Check the bike 'go bag'+Overhead
+x 2018-11-26 Check the next school time +EQT
+x 2018-11-26 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+x 2018-11-26 Go thought phone screen shots for tasks +Overhead
+x 2018-11-26 Go through phone and save all of the numbers +Overhead
