@@ -1,6 +1,7 @@
 ## 26/11/18 09:56, Starting 
 ### 09:56 x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 ### 10:51, x Put up the report 
+### 11:02,  Bunch of small tasks 
 (A) Phone up quickbooks again about imports 
 (A) Post solitor letter and phone about progress 
 (B) Draft chemistry first report 
@@ -10,16 +11,14 @@
 (C) Check the doodle poll 
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
+(C) Fix stargate
 (C) Follow up with Byte the book people and sign up for the whole THING 
-(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/
+(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/ @Live
 (C) Move minutes over to proper minutes folder and format last meetings minutes  
-(C) Put up stairgate
 (C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
 (C) Sprint putting up pageset.obz files for obfreader @live 
 (C) Talk to Clare about tech writer 
-(C) Upload recent files to https://github.com/eQualityTime/Public/issues/59
-(C) Upload the challenge dementia buisness case to github 
-(C) Write up the blog post about the review) 
+(C) Upload recent files to https://github.com/eQualityTime/Public/issues/59 @live
 (D) Call the charities commision (before 3pm) 
 (D) Do full accounts algorithm +EQT
 (D) Go to the garage to get plug adapters for nova's room 
@@ -54,8 +53,6 @@
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Trim nose hair +Health
-(E) Update Symptoms and Moods file +Health
-(E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
@@ -72,3 +69,7 @@ x 2018-11-26 Check Voicemail  +Overhead
 x 2018-11-26 Check Voicemail  +Overhead
 x 2018-11-26 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2018-11-26 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2018-11-26 Update Symptoms and Moods file +Health
+x 2018-11-26 Update Symptoms and Moods file +Health
+x 2018-11-26 Upload the challenge dementia buisness case to github 
+x 2018-11-26 Write up the blog post about the review) 
