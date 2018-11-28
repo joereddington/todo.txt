@@ -1,10 +1,41 @@
-x 2018-11-28 Post solitor letter and phone about progress 
-(B) Draft chemistry first report 
-(B) Try third party quickbooks apps for bulk delete and import
+
+
+
+## 28/11/18 07:29, 
+### 07:29, x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+### 07:39, Updating project, checking reminders  +PlanningAndTracking
+### 07:49, x (A) 1a. 1L of Water @singleton +Health
+### 07:50 to 10:24, (B) Write chemistry report...  +Personal
+### 10:47 to 11:21, Talking to RSC on phone   +Personal
+### 11:22 to 11:54, Next is to go throught the document and find the bits that people might complain about. +Personal 
+### 11:57 to 12:28, Apparently there was a break. +Faff
+### 11:57, Reworking list +planningandtracking
+### 12:33, Did quick email. +Email 
+### 12:35, x (B) 0.1 Get full text of this https://www.researchgate.net/publication/26474914_Learning_Difficulties_in_Chemistry_an_Overview +Personal
+### 12:36 to 12:50, Apparently another break. Bad times  +Faff
+### 12:51 to 13:18, x (E) Write answer to 'can software auto-detect image focus?' +Personal
+### 12:51, x 2018-11-28 Cut nails +Health
+### 12:52, x 2018-11-28 Confirm plans for next two weekends.+Overhead
+### 13:18, x (E) Open and log progress on the bid status document +EQT
+### 13:21, x (C) Upload recent files to https://github.com/eQualityTime/Public/issues/59 @live +EQT
+### 13:22 to 13:39, Small distraction with cameras  +Faff
+### 13:41 to 13:53, distracted +Faff 
+### 13:55, x (E) Fill out fear/passion table +Health
+### 14:03, x 2018-11-28 Write a letter to Nova +Family
+### 14:14, x 2018-11-28 Post to WWW facebook page +EQT
+### 14:15, x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+### 14:15, x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+### 14:18 to 14:38,  x (C) Ask on photo.SE "The manual says "If you start your workflow from a raw image, you will to have your final output sharped... "  +Personal
+### 14:38 to 14:49, +Faff 
+### 14:52, +PlanningAndTracking
+(B) 0.2 Rewrite chapter 1 of the chemistry project 
+(B) 0.3 Write second chapter - views of students 
+(B) 0.4 Evaluate Currilicums 
+(B) 1. Exercise @singleton +Exercise
+(B) Review yvonne paper 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
-(C) Call Kate about OVFreader 
-(C) Check the doodle poll 
+(C) Do nose strip +Health 
 (C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
 (C) Fix stairgate
@@ -15,35 +46,30 @@ x 2018-11-28 Post solitor letter and phone about progress
 (C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
 (C) Sprint putting up pageset.obz files for obfreader @live 
 (C) Talk to Clare about tech writer 
-(C) Upload recent files to https://github.com/eQualityTime/Public/issues/59 @live
+(C) Work out going christmas shopping with Kat's mum 
 (D) Call the charities commision (before 3pm) 
 (D) Do full accounts algorithm +EQT
 (D) Go to the garage to get plug adapters for nova's room 
 (D) get bulb for the office and bulbs for the ktichen 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Confirm plans for next two weekends.+Overhead
-(C) Do nose strip +Health 
-(E) Cut nails +Health
 (E) Empty crate completely +Overhead
 (E) Floss +Health
-(E) Floss +Health
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Open and log progress on the bid status document +EQT
-(E) Post to WWW facebook page +EQT
-(E) Put sleep time into calendar +Overhead
 (E) Review all projects in github +Overhead
-(E) Review yearly goals +Overhead
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Show kat the yearly goals 
 (E) Trim nose hair +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-x 2018-11-27 Video call with Kat family +Family
-(E) Vitimin Tablet +Health
-(E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) Write a letter to nova +family
-(E) Write answer to 'can software auto-detect image focus?' 
 (E) fix the date shortcuts so that alphabetical ordering works 
 (E) use face strip +health
+Okay, so let's start again 
+x (C) Check the doodle poll 
+x 2018-11-27 Video call with Kat family +Family
+x 2018-11-28 Call Kate about OVFreader 
+x 2018-11-28 Floss +Health
+x 2018-11-28 Invite the Cooper boys to bowling or ice skating
+x 2018-11-28 Post solitor letter and phone about progress 
+x 2018-11-28 Review yearly goals +Overhead
+x 2018-11-28 Try third party •	The issue here is enablement, tone, and inclusivity – are we promoting a mindset that leads to controlled practice assessments with stern examiners with clipboard or are we developing true understanding. quickbooks apps for bulk delete and import
+x 2018-11-28 Vitimin Tablet +Health
+x 2018-11-28 Write a letter to Nova +Family
+x 2018-11-28 Write a letter to nova +family
