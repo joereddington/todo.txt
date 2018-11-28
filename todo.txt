@@ -1,11 +1,5 @@
-## 26/11/18 09:56, Starting 
-### 09:56 x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-### 10:51, x Put up the report 
-### 11:02,  Bunch of small tasks 
-### 12:04, x (A) Phone up quickbooks again about imports 
-(A) Post solitor letter and phone about progress 
+x 2018-11-28 Post solitor letter and phone about progress 
 (B) Draft chemistry first report 
-(C) Plan/map that you want to make sure you get all the remaining books for SHINE
 (B) Try third party quickbooks apps for bulk delete and import
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
@@ -17,6 +11,7 @@
 (C) Follow up with Byte the book people and sign up for the whole THING 
 (C) Map this for digital local heros https://mcf.org.uk/apply-later-life/ @Live
 (C) Move minutes over to proper minutes folder and format last meetings minutes  
+(C) Plan/map that you want to make sure you get all the remaining books for SHINE
 (C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
 (C) Sprint putting up pageset.obz files for obfreader @live 
 (C) Talk to Clare about tech writer 
@@ -27,6 +22,7 @@
 (D) get bulb for the office and bulbs for the ktichen 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
 (E) Confirm plans for next two weekends.+Overhead
+(C) Do nose strip +Health 
 (E) Cut nails +Health
 (E) Empty crate completely +Overhead
 (E) Floss +Health
@@ -43,7 +39,7 @@
 (E) Trim nose hair +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-(E) Video call with Kat family +Family
+x 2018-11-27 Video call with Kat family +Family
 (E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -51,26 +47,3 @@
 (E) Write answer to 'can software auto-detect image focus?' 
 (E) fix the date shortcuts so that alphabetical ordering works 
 (E) use face strip +health
-x (A) 1a. 1L of Water @singleton +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x 2018-11-26 Check Desktop Tracker is working +Overhead
-x 2018-11-26 Check Voicemail  +Overhead
-x 2018-11-26 Check Voicemail  +Overhead
-x 2018-11-26 Check that everything in the 'in process' box really does have a task+Overhead
-x 2018-11-26 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
-x 2018-11-26 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-x 2018-11-26 Go through notebook (and iphone reminders) for tasks +Overhead
-x 2018-11-26 Go through the shared reminder list with Heart +Family
-x 2018-11-26 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x 2018-11-26 Update Symptoms and Moods file +Health
-x 2018-11-26 Update Symptoms and Moods file +Health
-x 2018-11-26 Upload the challenge dementia buisness case to github 
-x 2018-11-26 Write up the blog post about the review) 
