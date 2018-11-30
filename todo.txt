@@ -1,5 +1,6 @@
 ## 30/11/18 08:22,
 ### 08:22, x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+### 08:32, Marking off existing tasks +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (B) 1. Exercise @singleton +Exercise
 (B) Sprint on Chemistry Document 
@@ -11,24 +12,24 @@
 (C) Talk to Clare about tech writer  +EQT
 (D) Do full accounts algorithm +EQT
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Check the bike 'go bag'+Overhead
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Open and log progress on the bid status document +EQT
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Review all projects in github +Overhead
-(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+x 2018-11-30 Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
 (E) Show kat the yearly goals  +Family 
-(E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Update Symptoms and Moods file +Health
 (E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
+x 2018-11-30 Check the bike 'go bag'+Overhead
+x 2018-11-30 Fill out fear/passion table +Health
+x 2018-11-30 Fill out fear/passion table +Health
+x 2018-11-30 Open and log progress on the bid status document +EQT
+x 2018-11-30 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+x 2018-11-30 Swimming and climbing gear should be in the car +Overhead
