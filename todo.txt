@@ -1,25 +1,23 @@
 
-
-
 ## 28/11/18 07:29, 
 ### 07:29, x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 ### 07:39, Updating project, checking reminders  +PlanningAndTracking
 ### 07:49, x (A) 1a. 1L of Water @singleton +Health
 ### 07:50 to 10:24, (B) Write chemistry report...  +Personal
+### 10:24 to 10:47, getting food and small faff  +Health
 ### 10:47 to 11:21, Talking to RSC on phone   +Personal
 ### 11:22 to 11:54, Next is to go throught the document and find the bits that people might complain about. +Personal 
-### 11:57 to 12:28, Apparently there was a break. +Faff
 ### 11:57, Reworking list +planningandtracking
+### 11:58 to 12:28, Apparently there was a break. +Faff
 ### 12:33, Did quick email. +Email 
 ### 12:35, x (B) 0.1 Get full text of this https://www.researchgate.net/publication/26474914_Learning_Difficulties_in_Chemistry_an_Overview +Personal
 ### 12:36 to 12:50, Apparently another break. Bad times  +Faff
-### 12:51 to 13:18, x (E) Write answer to 'can software auto-detect image focus?' +Personal
 ### 12:51, x 2018-11-28 Cut nails +Health
 ### 12:52, x 2018-11-28 Confirm plans for next two weekends.+Overhead
+### 12:53 to 13:18, x (E) Write answer to 'can software auto-detect image focus?' +Personal
 ### 13:18, x (E) Open and log progress on the bid status document +EQT
 ### 13:21, x (C) Upload recent files to https://github.com/eQualityTime/Public/issues/59 @live +EQT
-### 13:22 to 13:39, Small distraction with cameras  +Faff
-### 13:41 to 13:53, distracted +Faff 
+### 13:22 to 13:53,  distraction with cameras  +Faff
 ### 13:55, x (E) Fill out fear/passion table +Health
 ### 14:03, x 2018-11-28 Write a letter to Nova +Family
 ### 14:14, x 2018-11-28 Post to WWW facebook page +EQT
@@ -28,48 +26,52 @@
 ### 14:18 to 14:38,  x (C) Ask on photo.SE "The manual says "If you start your workflow from a raw image, you will to have your final output sharped... "  +Personal
 ### 14:38 to 14:49, +Faff 
 ### 14:52, +PlanningAndTracking
-(B) 0.2 Rewrite chapter 1 of the chemistry project 
-(B) 0.3 Write second chapter - views of students 
-(B) 0.4 Evaluate Currilicums 
-(B) 1. Exercise @singleton +Exercise
-(B) Review yvonne paper 
+### 14:56 to 15:17, x (B) Review yvonne paper +EQT
+### 15:18, x (C) Map this for digital local heros https://mcf.org.uk/apply-later-life/ @Live +EQT
+### 15:23, x 2018-11-28 Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/ +EQT
+### 15:24 to 15:43, +Faff  watching youtube videos on photography FFS
+### 15:44,Crap - I worked out the timings wrong! 
+### 15:46 to 16:03, Proper washington +planning and tracking 
+### 16:03 to 16:10, x (C) Create pull request with licence for OVFreader +EQT
+### 16:10, Fixing the log +PlanningAndTracking
+### 16:15, (E) Empty crate completely +Overhead
+### 16:21 to 16:33, Downstaris for phone, drill, and bulbs  +Family
+### 16:33 to 16:43, x (D) get bulb for the office and bulbs for the ktichen 
+### 16:43 to 17:19, +Faff again
+(B) 30 minutes on +exercise bike 
+(B) Sprint on Chemistry Document 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
 (C) Do nose strip +Health 
-(C) Do terms of reference for twickenham school
 (C) Do the Angular tutorial @live
-(C) Fix stairgate
-(C) Follow up with Byte the book people and sign up for the whole THING 
-(C) Map this for digital local heros https://mcf.org.uk/apply-later-life/ @Live
-(C) Move minutes over to proper minutes folder and format last meetings minutes  
-(C) Plan/map that you want to make sure you get all the remaining books for SHINE
-(C) Reply to volenteers at  www.kclsu.org/volunteeringlog/providers/login/
-(C) Sprint putting up pageset.obz files for obfreader @live 
-(C) Talk to Clare about tech writer 
-(C) Work out going christmas shopping with Kat's mum 
-(D) Call the charities commision (before 3pm) 
+(C) Fix stairgate +Family 
+(C) Sprint putting up pageset.obz files for obfreader @live  +EQT
+(C) Talk to Clare about tech writer  +EQT
 (D) Do full accounts algorithm +EQT
-(D) Go to the garage to get plug adapters for nova's room 
-(D) get bulb for the office and bulbs for the ktichen 
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Empty crate completely +Overhead
 (E) Floss +Health
 (E) Review all projects in github +Overhead
-(E) Show kat the yearly goals 
+(E) Show kat the yearly goals  +Family 
 (E) Trim nose hair +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-(E) fix the date shortcuts so that alphabetical ordering works 
 (E) use face strip +health
-Okay, so let's start again 
 x (C) Check the doodle poll 
+x (C) Follow up with Byte the book people and sign up for the whole THING 
+x (C) Move minutes over to proper minutes folder and format last meetings minutes  
+x (C) Work out going christmas shopping with Kat's mum 
 x 2018-11-27 Video call with Kat family +Family
 x 2018-11-28 Call Kate about OVFreader 
+x 2018-11-28 Call the charities commision (before 3pm) 
+x 2018-11-28 Do terms of reference for twickenham school
 x 2018-11-28 Floss +Health
+x 2018-11-28 Go to the gaage to get plug adapters for nova's room 
 x 2018-11-28 Invite the Cooper boys to bowling or ice skating
+x 2018-11-28 Plan/map that you want to make sure you get all the remaining books for SHINE
 x 2018-11-28 Post solitor letter and phone about progress 
 x 2018-11-28 Review yearly goals +Overhead
 x 2018-11-28 Try third party •	The issue here is enablement, tone, and inclusivity – are we promoting a mindset that leads to controlled practice assessments with stern examiners with clipboard or are we developing true understanding. quickbooks apps for bulk delete and import
 x 2018-11-28 Vitimin Tablet +Health
 x 2018-11-28 Write a letter to Nova +Family
 x 2018-11-28 Write a letter to nova +family
+x 2018-11-28 fix the date shortcuts so that alphabetical ordering works 
