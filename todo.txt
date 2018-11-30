@@ -1,22 +1,16 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+## 30/11/18 08:22,
+### 08:22, x (A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
 (A) 1a. 1L of Water @singleton +Health
 (B) 1. Exercise @singleton +Exercise
-(B) 30 minutes on +exercise bike 
 (B) Sprint on Chemistry Document 
-(B) Write chemistry report...  +Personal
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Go live +EQT @singleton
-(C) Do nose strip +Health 
 (C) Do the Angular tutorial @live
 (C) Fix stairgate +Family 
 (C) Sprint putting up pageset.obz files for obfreader @live  +EQT
 (C) Talk to Clare about tech writer  +EQT
 (D) Do full accounts algorithm +EQT
-(D) Do full accounts algorithm +EQT
 (D) time:20 transfer garage measurements to powerpoint document from photos +family 
-(E) Check Desktop Tracker is working +Overhead
-(E) Check Voicemail  +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead
@@ -24,8 +18,6 @@
 (E) Fill out fear/passion table +Health
 (E) Floss +Health
 (E) Floss +Health
-(E) Go thought phone screen shots for tasks +Overhead
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Open and log progress on the bid status document +EQT
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
