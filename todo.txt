@@ -1,71 +1,157 @@
-(A) 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
-(B) 1. Exercise @singleton +Exercise
-(B) Do the portugese output
-(B) Fill out six month update for Comic Relief 
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Go live +EQT @singleton
-(C) Ask mum about chest pains +Family
-(C) Check the declaration of trust documents 
-(C) Create the Twichenam Terms of reference +EQT
-(C) Do more bank stuff, and pay Rob! 
-(C) Do the Angular tutorial @live
-(C) Do the weening plan with Kat +Family 
-(C) Fix doorbells 
-(C) Fix stairgate +Family 
-(C) Investigate Develop e-Learning Material for Learning Disability - Tier 1 and Targeted Tier 2 Competencies
-(C) Send CV to RSC
-(C) Sprint putting up pageset.obz files for obfreader @live  +EQT
-(C) Talk to Clare about tech writer  +EQT
-(C) Write EQT newsletter Include nice testimonal and fundings to apply for  
-(D) Contact about chrismtas shopping +FAmily 
-(D) Create support@equalitytime.co.uk
-(D) Do full accounts algorithm +EQT
-(D) Do full accounts algorithm +EQT
-(D) Set alarm for posting Nova photo. 
-(D) time:20 transfer garage measurements to powerpoint document from photos +family 
+## 11/12/18 04:18 to 04:37, Tidying kitchen, unloading dishwasher, making tea +Family
+## 11/12/18 05:51, Today is washington day! I want to get into flow!
+## 11/12/18 11:09, I'm back!
+### 04:38 to 04:56, rebooting laptop, which is ridiculous.
+### 04:56 to 05:51, Making a fast sorting algorithm  +planningAndTracking
+### 05:52, There is a 124 THINGs
+### 05:53, Wolfram says I complete at 4:13 in that case, with literally NO interupations.  Sigh. Let's Go!
+### 05:57, x (A) 1a. 1L of Water @singleton +Health
+### 05:57, x 2018-12-11 1. Looking for urgent: Check Calendar and reminders  @singleton +PlanningAndTracking
+### 06:00, (B) 1. Exercise @singleton +Exercise
+	I messaged Kat about it, and I know were my kit is, I'm drinking enought water
+### 06:01, (B) Do the portugese output
+	1. Go live
+	2. Get the file
+	3. Check it runs through the code
+	4. Check it works in the new client
+	Okay, what is bit I'm doing. Is it literally only running the code? No, it's running the code and testing it using the dropbox. That's a excellent bit to do live.
+### 06:01, c (B) Badeger accountant
+### 06:03, (B) Fill out six month update for Comic Relief
+	So the first work to do here is to open the file and put in the comic relief folder
+### 06:08, (C) 1. Process Email @singleton +Overhead
+### 06:08, (C) 1. Process Email @singleton +Overhead
+	Okay, did one inbox jk:w
+### 06:30, (C) 2. Go live +EQT @singleton to do the portugese work
+	How can I start this? Oh I can sort the camera out...
+		Do I want to? Like, isn't it fine where it is? I might make a difference with the laptop
+### 06:30, Woflram says 4:35, we're already late!
+### 06:36, x (C) Ask mum about chest pains +Family
+### 06:38, (C) Check the alzimders grant for digital local herso
+### 06:40, x (C) Check the declaration of trust documents
+### 06:41, x (C) Contact these people: https://ihavevoice.app/
+### 06:45, x 2018-12-11 Create the Twickehem Terms of reference +EQT
+### 06:46, (C) Do the Angular tutorial @live
+	hmm, how do we do this, with a five minute window. Well, I need to
+### 06:48, x (C) Do the weening plan with Kat +Family
+### 06:50, (C) Get double sided tape from garage for stairgate  +family
+	Didn't do that because watching Nova
+### 06:50, (C) Process Joka Card
+### 07:00 to 08:00, Nova time +Family
+### 08:02, x (C) Send CV to RSC - worked this one out
+### 08:02, x (C) Sprint putting up pageset.obz files for obfreader @live  +EQT
+	Generate one and review it...
+	Okay so what are the steps?
+	Replaced with a new version
+### 08:10, (C) Revise RSC report
+	I downloaded the feedback
+### 08:12, (C) Make a list of the bits that you want to talk to Clare about: tech writer, code, money to pay for code, staff, fraud, and others.
+### 08:13, Wolfram has us at 4:33
+### 08:28, (C) Write gratitude algorithm - include checking texts and messages and also pick four people for the next week - also add grateful for chirstmas card - it should use the words "Thank you" directly
+### 08:29, x (D) Buy tools for gate
+### 08:42,
+### 08:42, x (D) Create support@equalitytime.co.uk
+### 09:04, (E) Brainstorm dishwasher triggers - putting the glasses in there!
+### 09:05, x (E) Update smashup tournament list
+### 09:10, Marking STUFF off
+### 09:17, (E) Check the firebreak in: whatsapp
+(C) Upload one of the CK20 translations to OVF and get the obz... +EQT
+(C) order byte the book memebership - it's December!
+(D) Go over this trigger list, possibly with Kat https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
+(D) Talk to Kat's mum about christmas shopping
+(D) time:20 transfer garage measurements to powerpoint document from photos +family
 (E) Add two bags to the car for clearning/carring out +EQT
-(E) Check Voicemail  +Overhead
-(E) Check team cooper visit dates: every two weeks  +Family
-(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Add two bags to the car for clearning/carring out +EQT
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the bike 'go bag'+Overhead
-(E) Check the firebreak in: whatsapp
-(E) Confirm plans for next two weekends.+Overhead
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-(E) Cut nails +Health
+x (E) Cut nails +Health
+x (E) Cut nails +Health
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
-(E) Fill out fear/passion table +Health
+(E) Empty crate completely +Overhead
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
-(E) Go thought phone screen shots for tasks +Overhead
-(E) Go through notebook (and iphone reminders) for tasks +Overhead
-(E) Go through phone and save all of the numbers +Overhead
+(E) Floss +Health
+(E) Floss +Health
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-(E) Log weight +Health
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-(E) Open and log progress on the bid status document +EQT
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Post to Sibling Facebook group
 (E) Post to Sibling Facebook group
 (E) Post to WWW facebook page +EQT
-(E) Put sleep time into calendar +Overhead
-(E) Remind Kat to do Nova's menu +Family
+(E) Put batteries in heater remote
 (E) Review all projects in github +Overhead
-(E) Review yearly goals +Overhead
+(E) Review all projects in github +Overhead
 (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-(E) Send Fire stick to Steph +family 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-(E) Show kat the yearly goals  +Family 
+(E) Sprint on putting watson into calendar
 (E) Swimming and climbing gear should be in the car +Overhead
-(E) Trim nose hair +Health
 (E) Update Symptoms and Moods file +Health
 (E) Use Face strip +Health
 (E) Vitimin Tablet +Health
+(E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
+x (C) Fix doorbells
+x (C) Tape for baby highchair
+x (C) Tell trustees about the later life grant draft...
+x (C) Write EQT newsletter Include nice testimonal and fundings to apply for
+x (E) Check Voicemail  +Overhead
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Fill out fear/passion table +Health
+x (E) Go through the shared reminder list with Heart +Family
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+x (E) Open and log progress on the bid status document +EQT
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+x (E) Process inbox in evernote +Overhead
+x (E) Review yearly goals +Overhead
+x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+x (E) Show kat the yearly goals  +Family
+x (E) Trim nose hair +Health
+x (E) Trim nose hair +Health
+x (E) Video call with Kat family +Family
+x (E) Vitimin Tablet +Health
+x (E) Wash sheets and towels +Family
+x 2018-12-11 () Go through phone and save all of the numbers +Overhead
+x 2018-12-11 Check Rob's invoice is in the right folder
+x 2018-12-11 Check team cooper visit dates: every two weeks  +Family
+x 2018-12-11 Check team cooper visit dates: every two weeks  +Family
+x 2018-12-11 Check the next school time +EQT
+x 2018-12-11 Confirm plans for next two weekends.+Overhead
+x 2018-12-11 Confirm plans for next two weekends.+Overhead
+x 2018-12-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2018-12-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2018-12-11 Either run killall PTPCamera
+x 2018-12-11 Find out if Google home can react to the word 'no'
+x 2018-12-11 Find out if your camera can do webcam
+x 2018-12-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+x 2018-12-11 Go thought phone screen shots for tasks +Overhead
+x 2018-12-11 Go through notebook (and iphone reminders) for tasks +Overhead
+x 2018-12-11 Go through phone and save all of the numbers +Overhead
+x 2018-12-11 Investigate https://procontract.due-north.com/Advert/Index?advertId=2c45140c-4df9-e811-80ef-005056b64545
+x 2018-12-11 Log weight +Health
+x 2018-12-11 Log weight +Health
+x 2018-12-11 Make custom smashup
+x 2018-12-11 Make sure paper crane is in bathroom +Family
+x 2018-12-11 Post to WWW facebook page +EQT
+x 2018-12-11 Publicly thank someone +Overhead
+x 2018-12-11 Put sleep time into calendar +Overhead
+x 2018-12-11 Put sleep time into calendar +Overhead
+x 2018-12-11 Remind Kat to do Nova's menu +Family
+x 2018-12-11 Remind Kat to do Nova's menu +Family
+x 2018-12-11 Reply Nava
+x 2018-12-11 Review yearly goals +Overhead
+x 2018-12-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+x 2018-12-11 See if [200~https://unix.stackexchange.com/questions/366854/sort-lines-while-grouping-indented-lines-with-their-parent[201~ lets you have indented sortable todo list
+x 2018-12-11 Send Fire stick to Steph +family
+x 2018-12-11 Set alarm for posting Nova photo.
