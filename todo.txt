@@ -1,84 +1,203 @@
-(.) Calender  Email bytethebook about membership bank transfer +EQT
-(A) due:2018-12-14 Check the deadline for Comic relief six month project https://github.com/eQualityTime/Public/issues/66 +EQT
-(A) due:2018-12-14 Put Yule and Nava Visit into calendar as well as Twickenham school camp 
-(A) due:2018-12-14 Write Facebook message WWW leaders about UCLAN camp +EQT  
+x 2018-12-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x (A) 1a. 1L of Water @singleton +Health
+(A) due:2018-12-20 Sprint on https://github.com/eQualityTime/Public/issues/67 +EQT
+(B) 1. Exercise @singleton +Exercise
 (B) Change all the EQT passwords here https://github.com/eQualityTime/WhiteWaterWriters/wiki/1.-White-Water-Writers-Login-and-password-Information +EQT
+(B) Check Github Notifications about OVF
+(B) Get richard to tell you which camps are should be invoiced by which set of people 
 (B) Map and put in Public tasks project https://github.com/eQualityTime/Public/issues/66 
 (B) Open and work on https://github.com/joereddington/Jarvis/issues/106 +EQT
-(B) Plan and confirm exercise with Kat @singleton +Exercise
+(B) Plan and confirm exercise with Kat @singleton +Exercise +Family
+(B) Rewrite and close 'move finances into QUickBooks' and map a  
 (B) Write cheque to Glynn for £12.40+£13.53+EUR 2.45 +EQT
-(C) Due:2018-12-20 Revise RSC report 
-(C) Due:THISWEEK Process all conversations above the firebreak in Facebook. +Overhead
-(C) due:2018-12-14 Look for plastic cover for Gate sign +Family 
+(C) 1. Process Email @singleton +Overhead
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(C) Contact SHINE and confirm the project end date 
+(C) due 2018/12/23 Get Kat stocking +Family
 (C) due:2018-12-14 Process Email @singleton +Overhead
+(C) due:2018-12-20 Revise RSC report 
+(C) due:2018-12-20 Sprint on https://github.com/eQualityTime/Public/issues/67 +EQT
+(C) due:2018-12-30 Draft narrative terms of reference for trustees +EQT
+(C) due:2018-12-30 Google for car window issue +Family
 (C) due:2019-01-14 Create draft adenda for next trustee meeting, include: Kingsbury
 (C) due:2019-01-31 Map project for personal tax return +PersonalProjects
-(C) due:2019-12-20 Make a list of the bits that you want to talk to Clare about: tech writer, code, money to pay for code, staff, fraud, and others.
+(C) due:2019-12-20 Make a list of the bits that you want to talk to Clare about: tech writer, code, money to pay for code, staff, fraud, and others, trusetee terms of reference
+(C) due:THISWEEK Process all conversations above the firebreak in Facebook. +Overhead
 (D) Create a pull request from joereddington/communiKate to EQT/communikate +EQT
+(D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
+(D) Draft question for parents SE
 (D) Edit Desktop Tracker to increase how often screenshots are taken +EQT
 (D) Login to Google Suite and upload a set of accounts with numbered names https://gsuite.google.co.uk/intl/en_uk/ +EQT
 (D) Map project for review EQT policies +EQT - include: make list of policies and order of review  +EQT
 (D) Map this project https://www.alzheimers.org.uk/research/our-research/accelerator-programme +EQT
+(D) Oh my god you haven't properly claimed the Mac Mini! 
 (D) Open Littlefinger and lookup which EQT payments were for laptop and desktop, and create asset in accounts for them. +EQT
 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live
+(D) Pace.md should have a backup system or be in dropbox (flow likely)  
+(D) Practice yorkshire puddings 
 (D) Pull out wood from lounge cupboards +Family
+(D) Set up kindle fire as playroom monitor +Family
 (D) Start personal accounts algorithm +EQT
 (D) Take out kitchen bulb and compare with https://www.bulbs.com/learning/shapesandsizes.aspx +Family 
-(D) Tell Kat you want to do this together: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf
+(D) Tell Kat you want to do this together: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf +Family
+(D) work out proper plan for family visit on the 29th and message jenna. 
+(E) Add jumpcut to startup preferences for both accounts +OVERHEAD
+(E) Add two bags to the car for clearning/carring out +EQT
 (E) Ask Challenge Dementia Prize for a funders testimonial +EQT
 (E) Ask Kat about battery charger +Family 
+(E) Brainstorm on Symptoms and moods - is it a focus on the negative? 
+(E) Brainstorm on what the rules are for recording time 
 (E) Buy some lavender drops for Nova's room  +Family 
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check team cooper visit dates: every two weeks  +Family
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the history export, nothing has come off it from safari for a while
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Check the next school time +EQT
+(E) Clean Pores with Face strip +Health
+(E) Clean Pores with Face strip +Health
+(E) Confirm plans for next two weekends.+Overhead
 (E) Contact §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ about visiting kids
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Create repostry for igor on github.  +PersonalProjects
+(E) Cut nails +Health
+(E) Do regular exam for testicular cancer +Health
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Draft facebook question on licencing and put in calendar
+(E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
 (E) Empty the 'in process' box. +Overhead
 (E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Find out if Watson is still quitely running on server... +planningAndTracking
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Floss +Health
+(E) Get a built in spell check for firefox
+(E) Get cable fasenings 
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through phone and save all of the numbers +Overhead
+(E) Go through the shared reminder list with Heart +Family
+(E) Improve photo import to mark those images that include the lock
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Listen to  Randy Pausch Talk https://www.youtube.com/watch?v=oTugjssqOT0 +Overhead
+(E) Log weight +Health
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Lookup help guide for Command T vim plugin
 (E) Make Nova sign about teeth +Family 
+(E) Make sure paper crane is in bathroom +Family
+(E) Make ten year plan public +PersonalProject 
 (E) Map 'spammer conversion' experiment, and draft blog post.  +PersonalProjects
 (E) Map project so that 'open list of projects to be funded' has a link +EQT
 (E) Open 'House of Cards of Birthdays' and write and address all for the next month +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Open and log progress on the bid status document +EQT
 (E) Open and update https://github.com/orgs/eQualityTime/projects/3
 (E) Open http://dreamhost.com/ and request backup 
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Post to Sibling Facebook group
 (E) Post to Sibling Facebook group +personalprojects
 (E) Post to Sibling Facebook group +personalprojects
+(E) Post to WWW facebook page +EQT
+(E) Process 'bringvisionback.md' and extend it.  It's what I want
+(E) Process 'bringvisionback.md' and include family time and interuptions and the normal bits that get in the way 
+(E) Process inbox in evernote +Overhead
 (E) Process the 'to put in Evernote' folder and add to database +Overhead
 (E) Process the 'to put in Evernote' folder and add to database +Overhead
+(E) Publicly thank someone +Overhead
+(E) Put a brainstorm into Abra
+(E) Put a brainstorm into Abra
+(E) Put all of your kindle highlights in one file and format properly +PersonalProjects
+(E) Put sleep time into calendar +Overhead
+(E) Put three bottles in the garage +Family 
 (E) Put your vim into Ubuntu https://github.com/joereddington/dotvimdirectory/blob/master/vimrc +personalprojects
 (E) Read the principles here: https://www.effectivealtruism.org/resources/
-(E) Review Public Tasks https://github.com/orgs/eQualityTime/projects/4  +EQT
-(E) Review Personal Projects projects in github +PersonalProjects 
+(E) Remind Kat to do Nova's menu +Family
 (E) Review Facebook theory of change
-(E) Put all of your kindle highlights in one file and format properly +PersonalProjects
+(E) Review Personal Projects projects in github +PersonalProjects 
+(E) Review Public Tasks https://github.com/orgs/eQualityTime/projects/4  +EQT
+(E) Review all projects in github +Overhead
+(E) Review yearly goals +Overhead
 (E) Save a family memory in your reminders list +Family 
 (E) Save a family memory in your reminders list +Family 
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Search for funding for eQuality Time +EQT
+(E) See if you can extend desktop tracking to check up on the mouse usage 
 (E) Send Trustees something nice about outcomes +EQT
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) Do regular exam for testicular cancer +Health
+(E) Sprint on https://github.com/joereddington/Jarvis/issues/109
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Take Vitamin Tablet +Health
 (E) Take two plastic bags to the car for clearning/carring out +EQT
 (E) Talk to Kat about Bike go bag and where everything is kept +Family 
-(E) Brainstorm on Symptoms and moods - is it a focus on the negative? 
-(E) Upload garage PowerPoint and iPhone photos to Jarvis house remodel issue  +Family 
-(E) Clean Pores with Face strip +Health
-(E) Clean Pores with Face strip +Health
-(E) Take Vitamin Tablet +Health
 (E) Think about the last time you changed your mind (and can you blog about it) +Overhead
+(E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
+(E) Update Symptoms and Moods file +Health
+(E) Upload garage PowerPoint and iPhone photos to Jarvis house remodel issue  +Family 
+(E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Video call with Kat family +Family
+(E) Vitimin Tablet +Health
+(E) Wash sheets and towels +Family
+(E) Work out bracketed paste mode 
+(E) Work out the equipment you want to do some house photography
+(E) Work out what is going on with the headphones on your laptop
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
+(E) Write down the notebook process.  Place for unprocessed notebooks, place for processed ones. +PlanningAndTracking
+x  2018-12-17 1a. 1L of Water @singleton +Health
+x 2018-12-16 Compare Stevens documents to the current state of Quickbooks 
+x 2018-12-16 See if you can set end of year for quickbooks 
+x 2018-12-16 due:2018-12-14 Look for plastic cover for Gate sign +Family 
+x 2018-12-16 due:2018-12-14 Write Facebook message WWW leaders about UCLAN camp +EQT  
+x 2018-12-17 1. Looking for urgent: Check Calendar
+x 2018-12-17 DUE:2018-12-17 Email rob, you'd like to have a chat about what's happened with the accounts and his views on qualification
+x 2018-12-17 Gratitude post 
+x 2018-12-17 Write a letter to Nova +Family
+x 2018-12-17 Write a letter to Nova +Family
+x 2018-12-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2018-12-19 1a. 1L of Water @singleton +Health
+x 2018-12-19 Find watch replacing person +Family 
+x 2018-12-19 Ring Solitor about house +Family
