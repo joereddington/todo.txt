@@ -1,9 +1,3 @@
-03 (E) Check Voicemail  +Overhead
-03 (E) Check Voicemail  +Overhead
-10 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-08 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-10 (E) Clean Pores with Face strip +Health
-10 (E) Clean Pores with Face strip +Health
 (E) Contact §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ about visiting kids
 (E) Create repostry for igor on github.  +PersonalProjects
 (E) Cut nails +Health
@@ -101,9 +95,12 @@
 (E) Write a letter to Nova +Family
 (E) Write down the notebook process.  Place for unprocessed notebooks, place for processed ones. +PlanningAndTracking
 03 (E) Add two bags to the car for clearning/carring out +EQT
+03 (E) Check Voicemail  +Overhead
+03 (E) Check Voicemail  +Overhead
 05 (D) Tell Kat you want to do this together: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf +Family
 06 (B) Write cheque to Glynn for £12.40+£13.53+EUR 2.45 +EQT
 07 (C) due:2019-01-14 Create draft adenda for next trustee meeting, include: Kingsbury
+08 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
 10 (C) due:2019-01-31 Map project for personal tax return +PersonalProjects
 10 (C) due:THISWEEK Process all conversations above the firebreak in Facebook. +Overhead
 10 (D) Find out how to record an assest when it came in through a grant. 
@@ -112,6 +109,9 @@
 10 (D) Take out kitchen bulb and compare with https://www.bulbs.com/learning/shapesandsizes.aspx +Family 
 10 (E) Brainstorm on Symptoms and moods - is it a focus on the negative? 
 10 (E) Brainstorm on what the rules are for recording time: days that are only family
+10 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+10 (E) Clean Pores with Face strip +Health
+10 (E) Clean Pores with Face strip +Health
 15 (D) Set up kindle fire as playroom monitor +Family
 20 (A) Fix year in https://github.com/eQualityTime/ovfplayer/pull/72 +EQT 
 20 (A) Write out first draft of yearly goals 
