@@ -1,32 +1,75 @@
-Message all potential january party attendees
-x 02 (E) Put Randy Paush video on the PS3 watchlist  
-x 03 (E) Add two bags to the car for clearning/carring out +EQT
-x 03 (E) Cut nails +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Fill out fear/passion table +Health
-x 03 (E) Log weight +Health
-x 03 (E) Save a family memory in your reminders list +Family 
-x 03 (E) Save a family memory in your reminders list +Family 
-x 03 (E) Take two plastic bags to the car for clearning/carring out +EQT
-x 03 (E) Trim nose hair +Health
-x 03 (E) Vitimin Tablet +Health
-04 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
-04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
-04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-04 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
-04 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-04 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-04 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-04 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-04 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-04 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
+(A) Urgent! Send the current statements and the addenda to trustees.
+(B) 1. Exercise @singleton +Exercise
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(D) Do full accounts algorithm +EQT
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check team cooper visit dates: every two weeks  +Family
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check the bike 'go bag'+Overhead
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+(E) Check the next school time +EQT
+(E) Check £40 in Wallet +Overhead
+(E) Confirm plans for next two weekends.+Overhead
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Cut nails +Health
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty crate completely +Overhead
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Floss +Health
+(E) Floss +Health
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Go thought phone screen shots for tasks +Overhead
+(E) Go through notebook (and iphone reminders) for tasks +Overhead
+(E) Go through phone and save all of the numbers +Overhead
+(E) Go through the shared reminder list with Heart +Family
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Log weight +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Make sure paper crane is in bathroom +Family
+(E) Open and log progress on the bid status document +EQT
+(E) Open list of projects to be funded +EQT
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Post to Sibling Facebook group
+(E) Post to WWW facebook page +EQT
+(E) Process inbox in evernote +Overhead
+(E) Publicly thank someone +Overhead
+(E) Put a brainstorm into Abra
+(E) Put sleep time into calendar +Overhead
+(E) Refresh the lavender in Nova's room  +Family
+(E) Remind Kat to do Nova's menu +Family
+(E) Review all projects in github +Overhead
+(E) Review yearly goals +Overhead
+(E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Trim nose hair +Health
+(E) Update Symptoms and Moods file +Health
+(E) Use Face strip +Health
+(E) Video call with Kat family +Family
+(E) Vitimin Tablet +Health
+(E) Vitimin Tablet +Health
+(E) Wash sheets and towels +Family
+(E) Write a letter to Nova +Family
++Brainstorm on keeping good watson when other STUFF is happening -like family visits. 
++Read flash manual and try remote flash. 
 04 (E) Process 'bringvisionback.md' and extend it.  It's what I want
 04 (E) Process 'bringvisionback.md' and include family time and interuptions and the normal bits that get in the way 
 05 (D) Tell Kat you want to do this together: https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf +Family
@@ -36,14 +79,11 @@ x 03 (E) Vitimin Tablet +Health
 05 (E) Floss +Health
 05 (E) Floss +Health
 05 (E) Floss +Health
-x 05 (E) Go through the shared reminder list with Heart +Family
 05 (E) Open http://dreamhost.com/ and request backup 
 05 (E) Post to Sibling Facebook group +personalprojects
 05 (E) Post to Sibling Facebook group +personalprojects
 05 (E) Push igor to public repo
 05 (E) Talk to Kat about Bike go bag and where everything is kept +Family 
-05 (E) Update Symptoms and Moods file +Health
-05 (E) Update Symptoms and Moods file +Health
 06 (B) Write cheque to Glynn for £12.40+£13.53+EUR 2.45 +EQT
 07 (C) due:2019-01-14 Create draft adenda for next trustee meeting, include: Kingsbury
 08 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
@@ -92,6 +132,12 @@ x 05 (E) Go through the shared reminder list with Heart +Family
 20 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 20 (E) Write a letter to Nova +Family
 20 (E) Write a letter to Nova +Family
+2018-12-25
+2018-12-26
+2018-12-27
+2018-12-28
+2018-12-29
+2018-12-30
 30 (C) due:2018-12-30 Draft narrative terms of reference for trustees +EQT
 30 (D) Practice yorkshire puddings 
 30 (E) Make ten year plan public +PersonalProject 
@@ -105,36 +151,44 @@ x 05 (E) Go through the shared reminder list with Heart +Family
 60 (E) Review Public Tasks https://github.com/orgs/eQualityTime/projects/4  +EQT
 99 (D) Do full accounts algorithm +EQT
 Ask on Facebook about door bell 
+Brainstorm on 
+Brainstorm on family todos and buy in.
+Brainstrom what you are going to do about the stack of unread books
 Find AAC facebook groups and ask for help 
+Fix batteries in Nova's walker. 
+Go and buy wood
+Go thought cards for neightbours names 
+Go thought cards for neights and note names
 Google about winter photograhpy 
+Look for soundproofing for the washing machine
 Map the food project 
 Map wikipedia photography project
 Message A at Christmas 
+Message all potential january party attendees
+Message friends about availible weekends
+Pay in cheque
 Post the DVD's to COnnor 
+Re-read the mindfulness book from the perspective of a control freak
 Ring Apple to see if I still have applecare from my hpone - I bought Feb 2017 (which presumably means I've long paid for it on that deal
+Send invoice to twickenham school
 Sort out batteries for postman pat and Jess 
 Sort out drawers. 
 Watch randy pausch with Kat 
+Watch randy pausch with Kat 
+Write thank you to Keven and Janet.
 brew install vim --with-client-server
 https://github.com/eQualityTime/Public/issues/64
-x (E) Contact §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ about visiting kids
-x (E) Do regular exam for testicular cancer +Health
-x (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x (E) Floss +Health
-x (E) Get a built in spell check for firefox
-x (E) Get cable fasenings 
-x (E) Go through phone and save all of the numbers +Overhead
-x (E) Lookup help guide for Command T vim plugin
-x (E) Map 'spammer conversion' experiment, and draft blog post.  +PersonalProjects
-x (E) Open 'House of Cards of Birthdays' and write and address all for the next month +Family
-x (E) Open and update https://github.com/orgs/eQualityTime/projects/3
-x (E) Post to WWW facebook page +EQT
-x (E) Process inbox in evernote +Overhead
-x (E) Put netflix/amazon on the PS3 
-x (E) Review yearly goals +Overhead
-x (E) Sprint on https://github.com/joereddington/Jarvis/issues/109
-x (E) Work out what is going on with the headphones on your Mac mini
-x (E) Write down the notebook process.  Place for unprocessed notebooks, place for processed ones. +PlanningAndTracking
-x 03 (E) Check Voicemail  +Overhead
-x 03 (E) Check Voicemail  +Overhead
-x 10 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+https://github.com/eQualityTime/Public/issues/64
+x 04 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
+x 04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ 
+x 04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x 04 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x 04 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+x 04 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+x 04 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+x 04 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 04 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+x 04 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+x 04 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+x 05 (E) Update Symptoms and Moods file +Health
+x 05 (E) Update Symptoms and Moods file +Health
