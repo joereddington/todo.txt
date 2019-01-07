@@ -1,26 +1,24 @@
-(A) Do gratiture post for Christmas. 
-(A) Fix the PCC and Awards for All accounts in Quickbooks +EQT
-(A) Fix year in https://github.com/eQualityTime/ovfplayer/pull/72 +EQT 
-(A) Process the Github and show people how impressed you are with the github. 
-(A) Sprint on https://github.com/equalitytime/public/issues/66 +EQT 
-(A) Urgent! Send the current statements and the addenda to trustees.+ EQT
-(A) Write out first draft of yearly goals 
-(B) Check if you have quoted a price for twickneam school.
-(B) Find AAC facebook groups and ask for help 
+(A) 1a. 1L of Water @singleton +Health
+(A) Do full accounts algorithm - Comic relief grant needs it 
+(A) Send Angela the email addresses 
+(A) Send minutes and doodle poll 
+(B) 1. Exercise @singleton +Exercise
+(B) Map issue for thorough rewrite of the python
+(B) Produce Organisations budget for EQT 
 (B) Write cheque to Glynn for £12.40+£13.53+EUR 2.45 +EQT
+(B) pass volenteer email addresses to Angela
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Consider the yearly goal - eat/use/throw away, everything in the freezer
-(C) Fix blinds 
-(C) Message friends about availible weekends
+(C) Measure gate and work out how much of this wood you need: https://www.wickes.co.uk/Wickes-Redwood-PSE-Timber---20-5mm-x-119mm-x-2-4m/p/9000036459
 (C) Open and work on https://github.com/joereddington/Jarvis/issues/106 +EQT
+(C) Properly invoice Keele
+(C) Update the history file. 
 (C) due:2018-12-20 Revise RSC report 
 (C) due:2018-12-20 Sprint on https://github.com/eQualityTime/Public/issues/67 +EQT
-(C) due:2018-12-23 Show TJR sample set of reports from QuickBooks so that she can take a look
 (C) due:2018-12-30 Draft narrative terms of reference for trustees +EQT
-(C) due:2019-01-14 Create draft adenda for next trustee meeting, include: Kingsbury
 (C) due:2019-01-31 Map project for personal tax return +PersonalProjects
 (D) Find out how to record an assest when it came in through a grant. 
-(D) Get screwdriver to change batteries in postman pat  
-(D) Go and buy wood for gate
 (D) Go thought cards for neightbours names 
 (D) Look for soundproofing for the washing machine
 (D) Map project for review EQT policies +EQT - include: make list of policies and order of review  +EQT
@@ -28,7 +26,6 @@
 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live
 (D) Pay in cheque
 (D) Process and tweet photo of Nova's mug +Family 
-(D) Set up car so that you can bring wood home +Family 
 (D) Set up kindle fire as playroom monitor +Family
 (D) Take out kitchen bulb and compare with https://www.bulbs.com/learning/shapesandsizes.aspx +Family 
 (D) Watch randy pausch with Kat 
@@ -44,9 +41,13 @@
 (E) Clean Pores with Face strip +Health
 (E) Draft facebook question on licencing and put in calendar
 (E) Draw big numbers on the bottom of your running shoes so you remember what version they were. 
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Fix batteries in Nova's walker. 
 (E) Get a book from the charity shop for book safe +Overhead
-(E) Get monitor arms out of loft
 (E) Get monitor arms out of loft
 (E) Get printout of the wash instructions labels 
 (E) Make labels for Nova drawers 
@@ -59,221 +60,33 @@
 (E) Put all of your kindle highlights in one file and format properly +PersonalProjects
 (E) Put sleep time into calendar +Overhead
 (E) Put white christmast lgihts on top of the cupboards 
-(E) Re-read the mindfulness book from the perspective of a control freak
 (E) Read flash manual 
 (E) Read the principles here: https://www.effectivealtruism.org/resources/
 (E) Review Personal Projects projects in github +PersonalProjects 
 (E) Review Public Tasks https://github.com/orgs/eQualityTime/projects/4  +EQT
 (E) Search for funding for eQuality Time +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Search for funding for eQuality Time Projects +EQT
 (E) See if you can extend desktop tracking to check up on the mouse usage 
 (E) Set up a watchlist subscribption from Kat phone 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Think about the sibling facebook group in some detail. 
-(E) Think about the sibling facebook group in some detail. 
 (E) Tidy the office 
-(E) Trim nose hair +Health
-(E) Trim nose hair +Health
 (E) Try the telephoto lens as a macro lens 
 (E) Update Netflix watch list. 
-(E) Update Symptoms and Moods file +Health
 (E) Update Symptoms and Moods file +Health
 (E) Upload garage PowerPoint and iPhone photos to Jarvis house remodel issue  +Family 
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Use Face strip +Health
-(E) Vitimin Tablet +Health
-(E) Vitimin Tablet +Health
-(E) Vitimin Tablet +Health
-(E) Vitimin Tablet +Health
-(E) Wash sheets and towels +Family
-(E) Wash sheets and towels +Family
 (E) Wash towels +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) read washing machine instructions. 
 (E) read washing machine instructions. 
 (E) try brew install vim --with-client-server
-(E)) Post the DVD's to COnnor 
-05 (E) Open http://dreamhost.com/ and request backup 
-06 (B) Write cheque to Glynn for £12.40+£13.53+EUR 2.45 +EQT
-07 (C) due:2019-01-14 Create draft adenda for next trustee meeting, include: Kingsbury
-08 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-10 (A) Process the Github and show people how impressed you are with the github. 
-10 (C) due:2019-01-31 Map project for personal tax return +PersonalProjects
-10 (D) Find out how to record an assest when it came in through a grant. 
-10 (D) Map project for review EQT policies +EQT - include: make list of policies and order of review  +EQT
-10 (D) Map this project https://www.alzheimers.org.uk/research/our-research/accelerator-programme +EQT
-10 (D) Take out kitchen bulb and compare with https://www.bulbs.com/learning/shapesandsizes.aspx +Family 
-10 (E) Brainstorm on Symptoms and moods - is it a focus on the negative? 
-10 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-10 (E) Clean Pores with Face strip +Health
-10 (E) Clean Pores with Face strip +Health
-10 (E) Draft facebook question on licencing and put in calendar
-10 (E) Empty the 'in process' box. +Overhead
-10 (E) Post to Sibling Facebook group
-10 (E) Process the 'to put in Evernote' folder and add to database +Overhead
-10 (E) Process the 'to put in Evernote' folder and add to database +Overhead
-10 (E) Put sleep time into calendar +Overhead
-10 (E) Set up a watchlist subscribption from Kat phone 
-10 (E) Try the telephoto lens as a macro lens 
-10 (E) Upload garage PowerPoint and iPhone photos to Jarvis house remodel issue  +Family 
-10 (E) Use Face strip +Health
-10 (E) Use Face strip +Health
-10 (E) Wash towels +Family
-15 (D) Set up kindle fire as playroom monitor +Family
-15 (E) Empty crate completely +Overhead
-15 (E) See if you can extend desktop tracking to check up on the mouse usage 
-15 (E) Update Netflix watch list. 
-20 (A) Fix year in https://github.com/eQualityTime/ovfplayer/pull/72 +EQT 
-20 (A) Write out first draft of yearly goals 
-20 (C) Try fix for car window issue
-20 (C) due:2018-12-23 Show TJR sample set of reports from QuickBooks so that she can take a look
-20 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-20 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-20 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-20 (E) Put all of your kindle highlights in one file and format properly +PersonalProjects
-20 (E) Read the principles here: https://www.effectivealtruism.org/resources/
-20 (E) Search for funding for eQuality Time +EQT
-20 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-20 (E) Write a letter to Nova +Family
-20 (E) Write a letter to Nova +Family
-30 (C) due:2018-12-30 Draft narrative terms of reference for trustees +EQT
-30 (D) Practice yorkshire puddings 
-30 (E) Make ten year plan public +PersonalProject 
-50 (A) Sprint on https://github.com/equalitytime/public/issues/66 +EQT 
-50 (C) Open and work on https://github.com/joereddington/Jarvis/issues/106 +EQT
-60 (C) due:2018-12-20 Revise RSC report 
-60 (C) due:2018-12-20 Sprint on https://github.com/eQualityTime/Public/issues/67 +EQT
-60 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live
-60 (E) Review Personal Projects projects in github +PersonalProjects 
-60 (E) Review Public Tasks https://github.com/orgs/eQualityTime/projects/4  +EQT
-Brainstorm on family todos and buy in.
-Brainstorm on keeping good watson when other STUFF is happening -like family visits. 
-Brainstrom what you are going to do about the stack of unread books
-Create a document for information about the hyperlocal area. 
-Find AAC facebook groups and ask for help 
-Fix batteries in Nova's walker. 
-Fix blinds 
-Go and buy wood
-Go thought cards for neightbours names 
-Go thought cards for neights and note names
-Google about winter photograhpy 
-Look for soundproofing for the washing machine
-Map the food project 
-Map wikipedia photography project
-Message A at Christmas 
-Message all potential january party attendees
-Message friends about availible weekends
-Pay in cheque
-Post the DVD's to COnnor 
-Put 'other' and all the rest of the catagories into the time chart
-Re-read the mindfulness book from the perspective of a control freak
-Read flash manual 
-Ring Apple to see if I still have applecare from my hpone - I bought Feb 2017 (which presumably means I've long paid for it on that deal
-Send invoice to twickenham school
-Sort out batteries for postman pat and Jess 
-Sort out drawers. 
-Tidy the office 
-Watch randy pausch with Kat 
-Write thank you to Keven and Janet.
-brew install vim --with-client-server
-https://github.com/eQualityTime/Public/issues/64
-https://github.com/eQualityTime/Public/issues/64
-x (A) 1. Looking for urgent: Check Calendar @singleton +PlanningAndTracking
-x (A) 1. Looking for urgent: Check notebooks  @singleton +Overhead 
-x (A) 1. Looking for urgent: Check reminders and notebooks  @singleton +Overhead 
-x (A) 1a. 1L of Water @singleton +Health
-x (A) 1a. 1L of Water @singleton +Health
-x (A) Create Doubtful debt account in Quickbooks +EQT
-x (A) Send Pete's detials to rich  +Family 
-x (B) 1. Exercise @singleton +Exercise
-x (B) 1. Exercise @singleton +Exercise
-x (C) Find keyboard for PS3 +Family 
-x (C) Talk to mum about new house insurance.  +Family 
-x (C) Try fix for car window issue
-x (D) Buy lockbox (or something) for phone.
-x (D) Practice yorkshire puddings 
-x (D) Put all receipts into receipt book +Family
-x (D) Take photo of broken mug +Family 
-x (E) Add exercise to watson for the last few days 
-x (E) Add two bags to the car for clearning/carring out +EQT
-x (E) Apologise to Rich - the lens were wrong.  +Family 
-x (E) Ask Kat about the vegan group.  +Family 
-x (E) Ask Kat about the vegan group.  +Family 
-x (E) Brainstorm ensuring that Kat never has to do any laundry again.  +Family
-x (E) Check Desktop Tracker is working +Overhead
-x (E) Check Voicemail  +Overhead
-x (E) Check Voicemail  +Overhead
-x (E) Check team cooper visit dates: every two weeks  +Family
-x (E) Check the bike 'go bag'+Overhead
-x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
-x (E) Check the next school time +EQT
-x (E) Check £40 in Wallet +Overhead
-x (E) Confirm plans for next two weekends.+Overhead
-x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-x (E) Cut nails +Health
-x (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Fill out fear/passion table +Health
-x (E) Floss +Health
-x (E) Floss +Health
-x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-x (E) Go thought phone screen shots for tasks +Overhead
-x (E) Go through phone and save all of the numbers +Overhead
-x (E) Go through the shared reminder list with Heart +Family
-x (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-x (E) Log weight +Health -  turned into brainstorming. 
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Make sure paper crane is in bathroom +Family
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open list of projects to be funded +EQT
-x (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
-x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x (E) Post to Sibling Facebook group
-x (E) Post to WWW facebook page +EQT
-x (E) Process inbox in evernote +Overhead
-x (E) Publicly thank someone +Overhead
-x (E) Put a brainstorm into Abra
-x (E) Put brainstorming paper and pens on wishlist, also moleskin notebooks  
-x (E) Refresh the lavender in Nova's room  +PersonalProject
-x (E) Remind Kat to do Nova's menu +Family
-x (E) Review all projects in github +Overhead
-x (E) Review yearly goals +Overhead
-x (E) Save a memory about §e:U2FsdGVkX18rcdzDASp5hOjw/Ii/67FJskMBC9ouZqU=§ in the book +Family
-x (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x (E) Set up coach charging startion for PS3 controller. +Family 
-x (E) Video call with Kat family +Family
-x 04 (E) Process 'bringvisionback.md' and extend it.  It's what I want
-x 04 (E) Process 'bringvisionback.md' and extend it.  It's what I want
-x 04 (E) Process 'bringvisionback.md' and include family time and interuptions and the normal bits that get in the way 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health
-x 04 (E) Process 'bringvisionback.md' and include family time and interuptions and the normal bits that get in the way 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health 05 (E) Floss +Health
-x 05 (E) Post to Sibling Facebook group +personalprojects
-x 05 (E) Post to Sibling Facebook group +personalprojects
-x 05 (E) Push igor to public repo
-x 05 (E) Talk to Kat about Bike go bag and where everything is kept +Family 
-x 05 (E) Talk to Kat about Bike go bag and where everything is kept +Family 
-x 10 (C) due:THISWEEK Process all conversations above the firebreak in Facebook. +Overhead
-x 10 (C) due:THISWEEK Process all conversations above the firebreak in Facebook. +Overhead
-x 10 (E) Brainstorm at Abra: system needs improvement. 
-x 10 (E) Brainstorm at Abra: system needs improvement. 
-x 10 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 10 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 10 (E) Improve photo import to mark those images that include the lock
-x 10 (E) Improve photo import to mark those images that include the lock
-x 40 (A) due 2018/12/23 Get Kat stocking +Family
-x 40 (A) due 2018/12/23 Get Kat stocking +Family
-x https://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Swe    ep_Trigger_List.pdf +Family
+(A) Go through email and Arrange the interviews 
+(A)  Produce new ring fencing proposal for Comic relief. 
+(D)  Rewrite the Python 
+(A) Talk to Dave about Code bounties
+Find contact details for governers of Kingsbury
+Work out the tightening of the straps on the car seat. 
+x 2019-01-07 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-01-07 Find AAC facebook groups and ask for help 
