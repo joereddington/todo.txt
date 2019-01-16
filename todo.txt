@@ -1,13 +1,7 @@
 (A) Rewrite RSC report word file +PersonalProject
-(B) Write paperwork for the Glynn Royalty Payments +EQT 
-(B) Write the code bounty policy  +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 183cm by 226 cm Measure gate and work out how much of this wood you need: https://www.wickes.co.uk/Wickes-Redwood-PSE-Timber---20-5mm-x-119mm-x-2-4m/p/9000036459 +Family
-(C) 2. Switch to live account and start streaming +EQT @singleton
-(C) Draft narrative terms of reference for trustees +EQT
-(C) Go thought reading list on safari
-(C) Look at the grants in safari saved pages +EQT 
-(C) Map project for personal tax return +PersonalProjects
+(A) due:2019-01-31 Sprint on https://github.com/joereddington/Jarvis/issues/117
+(B) Fill out Request for payment for Glyn school +EQT
+(C) Check the 25th or the 8th Febuary with Kat for Nova do +Family 
 (C) Review the balance sheet, make small changes and publish blog on it. +EQT
 (C) Rewrite this issue to be about ACCA https://github.com/joereddington/Jarvis/issues/106 +EQT
 (C) Send Yvonne an email breaking down which camps she's being invoiced for and which Higher Hoizons is. +EQT
@@ -74,4 +68,12 @@
 x 2019-01-14 Swimming and climbing gear should be in the car +Overhead
 x 2019-01-14 Video call with Kat family +Family
 x 2019-01-14 Write issues for OVFplayer changes
-(B) Email Technical writer +EQT
+x 2019-01-16 1. Process Email @singleton +Overhead
+x 2019-01-16 183cm by 226 cm Measure gate and work out how much of this wood you need: https://www.wickes.co.uk/Wickes-Redwood-PSE-Timber---20-5mm-x-119mm-x-2-4m/p/9000036459 +Family
+x 2019-01-16 2. Switch to live account and start streaming +EQT @singleton
+x 2019-01-16 Draft narrative terms of reference for trustees +EQT
+x 2019-01-16 Email Technical writer +EQT
+x 2019-01-16 Go thought reading list on safari
+x 2019-01-16 Look at the grants in safari saved pages +EQT 
+x 2019-01-16 Map project for personal tax return +PersonalProjects
+x 2019-01-16 Write the code bounty policy  +EQT
