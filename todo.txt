@@ -1,12 +1,18 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+(A) 1a. 1L of Water @singleton +Health
 (A) Rewrite RSC report word file +PersonalProject
 (A) due:2019-01-31 Sprint on https://github.com/joereddington/Jarvis/issues/117
+(B) 1. Exercise @singleton +Exercise
 (B) Fill out Request for payment for Glyn school +EQT
+(C) 1. Process Email @singleton +Overhead
+(C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Check the 25th or the 8th Febuary with Kat for Nova do +Family 
 (C) Email kate about unspoken. 
 (C) Register for ACCA +EQT
 (C) Sprint on Organisational Budget https://github.com/eQualityTime/Home/issues/103 +EQT 
 (C) Start summarising the Keele Invoices in a draft email 
 (D) Complete accounts algorithm https://github.com/joereddington/Jarvis/issues/113  +Family
+(D) Do full accounts algorithm +EQT
 (D) Find the people responsible for Nova's mug +Family 
 (D) Have an offical place for glasses 
 (D) Map this project https://www.alzheimers.org.uk/research/our-research/accelerator-programme +EQT
@@ -15,20 +21,40 @@
 (D) Rewrite the Python  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
 (D) Write thank you to Keven and Janet.+Family
 (E) Buy hook for keys 
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Empty crate completely +Overhead
+(E) Fill out fear/passion table +Health
+(E) Fill out fear/passion table +Health
 (E) Find contact details for Governess of Kingsbury +EQT
 (E) Floss +Health
+(E) Floss +Health
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Make a 'car boot sale' fund jar
+(E) Make an Entry in the Mind Map
 (E) Make smell jar for Nova's room. 
 (E) Make ten year plan public +PersonalProject 
+(E) Open and log progress on the bid status document +EQT
 (E) Open http://dreamhost.com/ and request backup  +EQT
 (E) Phone Blood centre to make appointment +PersonalPrject  
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+(E) Put a brainstorm into Abra
 (E) Review all projects in github +Overhead
 (E) Review yearly goals +Overhead
+(E) Save a nice family memory +Family
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Talk about [200~https://tools.wmflabs.org/enwp10/cgi-bin/list2.fcgi?run=yes&projecta=England-related&importance=High-Class&quality=FA-Class[201~
 (E) Try https://medium.com/@racter/how-to-install-ubuntu-16-04-on-a-retina-macbook-11-2-74e7779c0e47 to install webcam on laptop +PersonalProject
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Use Face strip +Health
+(E) Vitimin Tablet +Health
 (E) Wash sheets and towels +Family
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) read the principles here: https://www.effectivealtruism.org/resources/ +EQT
 (E) review personal projects projects in github +personalprojects 
@@ -36,49 +62,5 @@
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) tidy garage +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
-(E) Talk about [200~https://tools.wmflabs.org/enwp10/cgi-bin/list2.fcgi?run=yes&projecta=England-related&importance=High-Class&quality=FA-Class[201~
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
-x 2019-01-14 Swimming and climbing gear should be in the car +Overhead
-x 2019-01-14 Video call with Kat family +Family
-x 2019-01-14 Write issues for OVFplayer changes
-x 2019-01-16 1. Process Email @singleton +Overhead
-x 2019-01-16 183cm by 226 cm Measure gate and work out how much of this wood you need: https://www.wickes.co.uk/Wickes-Redwood-PSE-Timber---20-5mm-x-119mm-x-2-4m/p/9000036459 +Family
-x 2019-01-16 2. Switch to live account and start streaming +EQT @singleton
-x 2019-01-16 Add two bags to the car for clearning/carring out +EQT
-x 2019-01-16 Brainstorm on Symptoms and moods - is it a focus on the negative?  +PersonalProject
-x 2019-01-16 Brainstorm what to do with the dataprojector. +PersonalProject
-x 2019-01-16 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
-x 2019-01-16 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-x 2019-01-16 Cut nails +Health
-x 2019-01-16 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-01-16 Draft narrative terms of reference for trustees +EQT
-x 2019-01-16 Draw big numbers on the bottom of your running shoes so you remember what version they were. +Overhead
-x 2019-01-16 Email Technical writer +EQT
-x 2019-01-16 Fill out fear/passion table +Health
-x 2019-01-16 Fill out fear/passion table +Health
-x 2019-01-16 Fill out fear/passion table +Health
-x 2019-01-16 Fill out fear/passion table +Health
-x 2019-01-16 Go thought reading list on safari
-x 2019-01-16 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x 2019-01-16 Look at the grants in safari saved pages +EQT 
-x 2019-01-16 Map project for personal tax return +PersonalProjects
-x 2019-01-16 Map project for review EQT policies +EQT - include: make list of policies and order of review  +EQT
-x 2019-01-16 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x 2019-01-16 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-x 2019-01-16 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x 2019-01-16 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-01-16 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x 2019-01-16 Ping §e:u2fsdgvkx1+eshagtpwo87cbt8j8epuzldy3trczit0=§ +overhead
-x 2019-01-16 Review the balance sheet, make small changes and publish blog on it. +EQT
-x 2019-01-16 Rewrite this issue to be about ACCA https://github.com/joereddington/Jarvis/issues/106 +EQT
-x 2019-01-16 Save a nice family memory +Family
-x 2019-01-16 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x 2019-01-16 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x 2019-01-16 Sprint on https://github.com/eQualityTime/Public/issues/67 +EQT
-x 2019-01-16 Take a photo of the moon
-x 2019-01-16 Update Symptoms and Moods file +Health
-x 2019-01-16 Write the code bounty policy  +EQT
-x 2019-01-16 read washing machine instructions.  +Family
-x 2019-01-16 search for funding for equality time projects +eqt
-x 2019-01-16 update symptoms and moods file +health
