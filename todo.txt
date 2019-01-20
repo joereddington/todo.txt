@@ -1,9 +1,11 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
-(A) 1a. 1L of Water @singleton +Health
+x 2019-01-17 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-01-17 1a. 1L of Water @singleton +Health
 (A) Rewrite RSC report word file +PersonalProject
 (A) due:2019-01-31 Sprint on https://github.com/joereddington/Jarvis/issues/117
 (B) 1. Exercise @singleton +Exercise
 (B) Fill out Request for payment for Glyn school +EQT
+(C find ou about cash flow forcast in quickbooks 
+(C setup new accounds for Richard 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Check the 25th or the 8th Febuary with Kat for Nova do +Family 
@@ -11,6 +13,7 @@
 (C) Register for ACCA +EQT
 (C) Sprint on Organisational Budget https://github.com/eQualityTime/Home/issues/103 +EQT 
 (C) Start summarising the Keele Invoices in a draft email 
+(C) post birthday card
 (D) Complete accounts algorithm https://github.com/joereddington/Jarvis/issues/113  +Family
 (D) Do full accounts algorithm +EQT
 (D) Find the people responsible for Nova's mug +Family 
@@ -64,3 +67,7 @@
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
+Create the new repo  for open voice factory
+Review the consultants example answer for arts council.oGo through you public issues and add to project board )there are some funding ones to do)
+Test the private mode for quickbooks.
+fix handles on kitchen drawer
