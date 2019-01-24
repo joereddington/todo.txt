@@ -1,21 +1,13 @@
-(C) Check in with wheel of life @Home
-(C) Find out which blanket we Kevin and Janet got us +Family  @home
+(B) Form roller on Calf and proper streach out  +Health
+(C) Check the powerline links 
+(C) Check wheel of life
+(C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
 (C) Get bike in garage sorted out @home
-(C) Sprint on Family planning https://github.com/joereddington/Jarvis/issues/113 @home
-(C) Sprint on Organisational Budget https://github.com/eQualityTime/Home/issues/103 +EQT 
-(C) Start summarising the Keele Invoices in a draft email 
-(C) Label each of these books with who paid and check against: https://drive.google.com/drive/folders/0BxcNVxCOXNUvfmR2Sl9OVUduZkd1WEpNLWdLSnM3ZUpMOHFncFBIb21nNjJlOWZMY2o2dUE 
-(C) Get Jekyll working on laptop and copy OVF text into new site. 
-(C) Facebook people about Nova gathering 
-x 2019-01-23 due:2019/1/30 Talk to trustee about Open Voice Factory website
-(C) test the powerllink internet +Family  @home 
-x 2019-01-23 Find the people responsible for Nova's mug +Family 
-x 2019-01-23 Have an official place for glasses 
-(D) Map this project https://www.alzheimers.org.uk/research/our-research/accelerator-programme +EQT
+(C) Google Jekyll error message on laptop
+(C) Make a list of people to invite to Proper Nova party. 
+(C) Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
 (D) Rewrite the Python  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-x 2019-01-23 Write thank you to Keven and Janet.+Family
-x 2019-01-23 Buy hook for keys 
 (E) Check Voicemail  +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @home
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
@@ -24,6 +16,7 @@ x 2019-01-23 Buy hook for keys
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
+(E) Fill out fear/passion table +Health
 (E) Fill out fear/passion table +Health
 (E) Find contact details for Governess of Kingsbury +EQT
 (E) Floss +Health
@@ -73,10 +66,3 @@ x 2019-01-23 Buy hook for keys
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
-x 2019-01-23 1. Switch to live account and start streaming +EQT @singleton
-x 2019-01-23 2. Process Email @singleton +Overhead
-x 2019-01-23 2. Switch to live account and start streaming +EQT @singleton
-x 2019-01-23 Call solicitor
-x 2019-01-23 Check email - did you send the trustee terms of reference out +EQT
-x 2019-01-23 Make doodle for next EQT 
-x 2019-01-23 Rewrite budget for Open Voice Factory
