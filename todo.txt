@@ -1,26 +1,23 @@
 (A) 1a. 1L of Water @singleton +Health
 (C) 1. Process Email @singleton +Overhead
-(C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
-(C) Check the powerline links 
-(C) Check wheel of life
+(C) Call mum about house 
+(C) Check the powerline speed downstairs
 (C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
 (C) Get bike in garage sorted out @home
 (C) Google Jekyll error message on laptop
-(C) Make a list of people to invite to Proper Nova party. 
+(C) Log into instagram on Kat's phone
 (C) Map project for heat camera
 (C) Process the github issues for OVFplayer
+(C) Process the meeting notes on the app 
 (C) Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
 (C) Update facebook event
+(C) Write talk for Confluence +EQT
 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
 (D) Rewrite the Python  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-(E) Buy lightbulbs
 (E) Calendar event for Toastmasters
 (E) Call and ask for the clark of governers contact details 
-(E) Check team cooper visit dates: every two weeks  +Family
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-(E) Confirm with Richard if he has a date in April 
-(E) Cut nails +Health
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
@@ -28,70 +25,69 @@
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
-(E) Make a 'car boot sale' fund jar
+(E) Get francesca a ticket for Byte the Book
 (E) Make an Entry in the Mind Map
-(E) Make dreamhost backup with scp 
-(E) Make ten year plan public +PersonalProject 
 (E) Phone Blood centre to make appointment +PersonalPrject  
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-(E) Post to Sibling Facebook group
-(E) Post to Sibling Facebook group
-(E) Post to WWW facebook page +EQT
-(E) Put a brainstorm into Abra
-(E) Put a brainstorm into Abra
-(E) Refresh smelly rice 
 (E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
-(E) Save a nice family memory +Family
-(E) Save a nice family memory +Family
 (E) Take apart kitchen table with Kat
 (E) Try https://medium.com/@racter/how-to-install-ubuntu-16-04-on-a-retina-macbook-11-2-74e7779c0e47 to install webcam on laptop +PersonalProject
-(E) Update public history
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-(E) Use page 14 and 24 of this: https://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/Planning/Census/Demography%20and%20Ethnicity.pdf
-(E) Video call with Kat family +Family
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
-(E) Vitimin Tablet +Health
-(E) Wash sheets and towels +Family
-(E) Wash sheets and towels +Family
 (E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) Write a letter to Nova +Family
-(E) read the principles here: https://www.effectivealtruism.org/resources/ +EQT
 (E) review personal projects projects in github +personalprojects 
-(E) setup monitor arms +overhead
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) tidy garage +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
+(E) work out how to arrange monitor arms. 
 (E) write a letter to nova +Family
 (E) write a letter to nova +Family
 x 2019-01-28 1. Exercise @singleton +Exercise
 x 2019-01-28 1. Exercise @singleton +Exercise
 x 2019-01-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-01-28 1. Process Email @singleton +Overhead
 x 2019-01-28 1a. 1L of Water @singleton +Health
 x 2019-01-28 Add two bags to the car for clearning/carring out +EQT
+x 2019-01-28 Buy lightbulbs
+x 2019-01-28 Check team cooper visit dates: every two weeks  +Family
 x 2019-01-28 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
+x 2019-01-28 Check wheel of life
 x 2019-01-28 Confirm plans for next two weekends.+Overhead
+x 2019-01-28 Confirm with Richard if he has a date in April 
 x 2019-01-28 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2019-01-28 Cut nails +Health
 x 2019-01-28 Fill out fear/passion table +Health
 x 2019-01-28 Fill out fear/passion table +Health
 x 2019-01-28 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 x 2019-01-28 Go through phone and save all of the numbers +Overhead
 x 2019-01-28 Go through the shared reminder list with Heart +Family
 x 2019-01-28 Log weight +Health
+x 2019-01-28 Make a 'car boot sale' fund jar
+x 2019-01-28 Make a list of people to invite to Proper Nova party. 
 x 2019-01-28 Make smell jar for Nova's room. 
 x 2019-01-28 Make sure paper crane is in bathroom +Family
+x 2019-01-28 Make ten year plan public +PersonalProject 
+x 2019-01-28 Migrate joereddington.com to a new host and see what breaks +EQT
+x 2019-01-28 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+x 2019-01-28 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+x 2019-01-28 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-01-28 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+x 2019-01-28 Post to Sibling Facebook group
+x 2019-01-28 Post to Sibling Facebook group
+x 2019-01-28 Post to WWW facebook page +EQT
 x 2019-01-28 Publicly thank someone +Overhead
+x 2019-01-28 Put a brainstorm into Abra
+x 2019-01-28 Put a brainstorm into Abra
+x 2019-01-28 Refresh smelly rice 
 x 2019-01-28 Remind Kat to do Nova's menu +Family
 x 2019-01-28 Review yearly goals +Overhead
 x 2019-01-28 Review yearly goals +Overhead
 x 2019-01-28 Review yearly goals +Overhead
+x 2019-01-28 Save a nice family memory +Family
+x 2019-01-28 Save a nice family memory +Family
 x 2019-01-28 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 x 2019-01-28 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2019-01-28 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
@@ -100,4 +96,13 @@ x 2019-01-28 Trim nose hair +Health
 x 2019-01-28 Unscrew wine rack 
 x 2019-01-28 Update Goodreads with the current book and your progress +Overhead
 x 2019-01-28 Update Goodreads with the current book and your progress +Overhead
+x 2019-01-28 Update public history
+x 2019-01-28 Use page 14 and 24 of this: https://www.luton.gov.uk/Environment/Lists/LutonDocuments/PDF/Planning/Census/Demography%20and%20Ethnicity.pdf
+x 2019-01-28 Video call with Kat family +Family
+x 2019-01-28 Vitimin Tablet +Health
+x 2019-01-28 Wash sheets and towels +Family
+x 2019-01-28 Wash sheets and towels +Family
+x 2019-01-28 Write a letter to Nova +Family
+x 2019-01-28 Write a letter to Nova +Family
 x 2019-01-28 fix handles on kitchen drawer
+x 2019-01-28 read the principles here: https://www.effectivealtruism.org/resources/ +EQT
