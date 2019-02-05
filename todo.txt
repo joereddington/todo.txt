@@ -11,16 +11,14 @@
 (C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
 (C) Write up the peer plastic proposal 
 (D) Remove nationality for spoken voice from Open Voice Factory website
-(E) 'Tag's in contemoranous notes so that I can record more information. 
-(E) Add two bags to the car for clearning/carring out +EQT
-(E) Call dentist to book apointment
+(E) 'Tag's in contemporaneous notes so that I can record more information. 
+(E) Call dentist to book appointment
 (E) Check team cooper visit dates: every two weeks  +Family
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the next school time +EQT
-(E) Email the lcoal remap gorups 
+(E) Email the local remap groups
 (E) Empty crate completely +Overhead
 (E) Floss +Health
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 (E) Make an Entry in the Mind Map
 (E) Make card for mother's day (2) +Family
 (E) Make parts for Kitchen table with Kat
@@ -31,27 +29,19 @@
 (E) Plan taking more photos. 
 (E) Post to Sibling Facebook group
 (E) Post to WWW facebook page +EQT
-(E) Publicly thank someone +Overhead
 (E) Put bolt in the bottom of the chiar. (garage)
 (E) Put child lock on the fridge
-(E) Put up the other 'joe edits eikipedia' video 
-(E) Remind Kat to do Nova's menu +Family
 (E) Review all projects in github +Overhead
 (E) Review all projects in personal github +Overhead
 (E) Review yearly goals +Overhead
 (E) Save a nice family memory +Family
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Setup cron for todo list commiting. 
-(E) Swimming and climbing gear should be in the car +Overhead
-(E) Trim nose hair +Health
-(E) Update Goodreads with the current book and your progress +Overhead
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
 (E) Vitimin Tablet +Health
-(E) Wash sheets and towels +Family
 (E) Write a blog post about 'Joe eidts wikiepdia' 
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
