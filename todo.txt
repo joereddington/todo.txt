@@ -1,55 +1,65 @@
-06 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
-x (A) 1a. 1L of Water @singleton +Health
-00 (B) 1. Exercise @singleton +Exercise
-00 (B) Investigate the issue with the User's OVF 
-00 (B) Process the github issues for OVFplayer
-00 (B) Talk to Kat about Comic Relief money
-00 (C) 1. Process Email @singleton +Overhead
-00 (C) 2. Process Email @singleton +Overhead
-00 (C) 2. Switch to live account and start streaming +EQT @singleton
-00 (C) 2. Switch to live account and start streaming +EQT @singleton
-00 (C) Call mum about house 
-00 (C) Check the powerline speed downstairs
-00 (C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
-00 (C) Google Jekyll error message on laptop
-00 (C) Remove nationality for spoken voice from Open Voice Factory website
-00 (C) Rewrite delegated authority policy.
-00 (C) Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
-00 (C) Work out what you want Kate to do.  +EQT
-00 (C) Write talk for Confluence +EQT
-00 (D) Do full accounts algorithm +EQT
-00 (D) Open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
-00 (D) Rewrite the Python  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-00 (E) Badger Steph about proof of source of funds 
-00 (E) Brainstorm streaming better
-00 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-00 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-00 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-00 (E) Floss +Health
-00 (E) Floss +Health
-00 (E) Make an Entry in the Mind Map
-00 (E) Make an Entry in the Mind Map
-00 (E) Open and log progress on the bid status document +EQT
-00 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-00 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-00 (E) Plan taking more photos. 
-00 (E) Put bolt in the bottom of the chiar. (garage)
-00 (E) Review all projects in github +Overhead
-00 (E) Review all projects in github +Overhead
-00 (E) Review all projects in github +Overhead
-00 (E) Save a nice family memory +Family
-00 (E) Setup cron for todo list commiting. 
-00 (E) Take Allen keys to office to arrange monitors. (gargage)
-00 (E) Take apart kitchen table with Kat
-00 (E) Use Face strip +Health
-00 (E) Use Face strip +Health
-00 (E) Use Face strip +Health
-00 (E) Vitimin Tablet +Health
-00 (E) Write a letter to Nova +Family
-00 (E) Write a letter to Nova +Family
-00 (E) get multi plug adapter from garage and put in bedroom 
-00 (E) review personal projects projects in github +personalprojects 
-00 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
-00 (E) tidy garage +Family
-00 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
-00 (E) write a letter to nova +Family
+(A) due:2018-02-06 Write an outline work package for Kate
+(A) due:2018-02-10 Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
+(A) due:2018-02-10 Write and sign S and G's birthday cards
+(A) due:2018-02-10 Write talk for Confluence +EQT
+(B) Sprint (off line) on the arts council bid
+(B) Sprint off line on the entrepreneurship grants
+(B) Try content in new Open Voice Factory website
+(B) look at this 25/01/2019 - £2.4m Tech for Good Fund to Open 11 February
+(C) 1. Live open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
+(C) Write up the peer plastic proposal 
+(D) Remove nationality for spoken voice from Open Voice Factory website
+(E) 'Tag's in contemoranous notes so that I can record more information. 
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Call dentist to book apointment
+(E) Check team cooper visit dates: every two weeks  +Family
+(E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the next school time +EQT
+(E) Email the lcoal remap gorups 
+(E) Empty crate completely +Overhead
+(E) Floss +Health
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Make an Entry in the Mind Map
+(E) Make card for mother's day (2) +Family
+(E) Make parts for Kitchen table with Kat
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Plan taking more photos. 
+(E) Post to Sibling Facebook group
+(E) Post to WWW facebook page +EQT
+(E) Publicly thank someone +Overhead
+(E) Put bolt in the bottom of the chiar. (garage)
+(E) Put child lock on the fridge
+(E) Put up the other 'joe edits eikipedia' video 
+(E) Remind Kat to do Nova's menu +Family
+(E) Review all projects in github +Overhead
+(E) Review all projects in personal github +Overhead
+(E) Review yearly goals +Overhead
+(E) Save a nice family memory +Family
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+(E) Setup cron for todo list commiting. 
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Trim nose hair +Health
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Video call with Kat family +Family
+(E) Vitimin Tablet +Health
+(E) Wash sheets and towels +Family
+(E) Write a blog post about 'Joe eidts wikiepdia' 
+(E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family
+(E) order another pair of glasses 
+(E) rearrange monitors in office. 
+(E) review personal projects projects in github +personalprojects 
+(E) spend 20 minutes or so considering the fruits of long term goals +overhead
+(E) tidy garage +Family
+(E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
+(E) write a letter to nova +Family
