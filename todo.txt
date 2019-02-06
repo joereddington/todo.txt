@@ -53,3 +53,4 @@
 (E) tidy garage +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
+(E) Make the time loging shortcuts part of vim rather than text exapaner
