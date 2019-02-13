@@ -1,17 +1,19 @@
+(A) Process 'processme' in todo.txt
+(A) Work out what weeks you *can* do in april and compare to the school
 (A) due:2018-02-06 Write an outline work package for Kate
 (A) due:2018-02-10 Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
-(A) due:2018-02-10 Write and sign S and G's birthday cards
 (A) due:2018-02-10 Write talk for Confluence +EQT
-(B) Sprint (off line) on the arts council bid
-(B) Sprint off line on the entrepreneurship grants
+(B) Sprint (off line) on the arts council bid [200~https://github.com/eQualityTime/Public/issues/59
+(B) Sprint off line on the entrepreneurship grants [200~https://github.com/eQualityTime/Public/issues/71
 (B) Try content in new Open Voice Factory website
-(B) look at this 25/01/2019 - £2.4m Tech for Good Fund to Open 11 February
 (C) 1. Live open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
+(C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
-(C) Write up the peer plastic proposal 
+(C) Put moinitors, monitor arms, and old papers in the loft. 
 (D) Remove nationality for spoken voice from Open Voice Factory website
 (E) 'Tag's in contemporaneous notes so that I can record more information. 
+(E) Backup "Camera Storage" somewhere
 (E) Call dentist to book appointment
 (E) Check team cooper visit dates: every two weeks  +Family
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
@@ -36,6 +38,7 @@
 (E) Review yearly goals +Overhead
 (E) Save a nice family memory +Family
 (E) Setup cron for todo list commiting. 
+(E) Think more about getting the flow. 
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -53,5 +56,8 @@
 (E) tidy garage +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
-(E) Make the time loging shortcuts part of vim rather than text exapaner
-(E) Think more about getting the flow. 
+process the communcation matters [200~THING[201~ 
+x 2019-02-07 Make the time loging shortcuts part of vim rather than text exapaner
+x 2019-02-07 Put keys in bag with cards 
+x 2019-02-07 Respond to the people who posted in hardcore aac 
+x 2019-02-11 Call Kindle about the book
