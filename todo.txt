@@ -1,63 +1,101 @@
-(A) Process 'processme' in todo.txt
-(A) Work out what weeks you *can* do in april and compare to the school
-(A) due:2018-02-06 Write an outline work package for Kate
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+(A) Finish and practice presentation +EQT
+(A) Process payments in the payments folder. 
+(A) Work out what weeks you *can* do in april and compare to the school +EQT
+(A) Write up planned spending for Comic Relief grant for Trustees
 (A) due:2018-02-10 Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
-(A) due:2018-02-10 Write talk for Confluence +EQT
-(B) Sprint (off line) on the arts council bid [200~https://github.com/eQualityTime/Public/issues/59
-(B) Sprint off line on the entrepreneurship grants [200~https://github.com/eQualityTime/Public/issues/71
-(B) Try content in new Open Voice Factory website
+(B) Check the 'border size' issue 
+(B) Put on Minute - regular contact with Kat family, who is in charge and how does that look  +Family 
+(B) Sprint (off line) on the arts council bid [200~https://github.com/eQualityTime/Public/issues/59 +EQT
+(B) Sprint off line on the entrepreneurship grants [200~https://github.com/eQualityTime/Public/issues/71 +EQT
+(B) Try content in new Open Voice Factory website +EQT
 (C) 1. Live open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Switch to live account and start streaming +EQT @singleton
-(C) Complete the expenses forms  https://github.com/joereddington/Jarvis/issues/113 @home
+(C) 1. Process Email @singleton +Overhead 
+(C) Alter the wikipedia editing tweet so that it mentions the youtube channel
+(C) Check White Water Writers website FAQs
+(C) Create a project for [200~https://www.gov.uk/guidance/building-a-stronger-britain-together[201~
+(C) Find out about how reporting standards changed for charities +EQT in 2015
 (C) Put moinitors, monitor arms, and old papers in the loft. 
+(C) Send guy on twitter the video we have of the lights changing +EQT 
+(C) Transfer money to Kat +Family 
+(C) Use plunger on bathroom sink. +Family 
+(C) [200~Get back to anwen about dates.[201~ +FAMILY
+(D) Confirm Nava date with Kat 
+(D) Do full accounts algorithm +EQT
 (D) Remove nationality for spoken voice from Open Voice Factory website
-(E) 'Tag's in contemporaneous notes so that I can record more information. 
+(D) Try Lizzie for Daddy-daughter date. 
+(D) tidy garage +Family
+(E) Add two bags to the car for clearning/carring out +EQT
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup "Camera Storage" somewhere
+(E) Backup Dreamhost +EQT
 (E) Call dentist to book appointment
-(E) Check team cooper visit dates: every two weeks  +Family
+(E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
-(E) Check the next school time +EQT
+(E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
+(E) Check £40 in Wallet +Overhead
+(E) Confirm plans for next two weekends.+Overhead
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Email the local remap groups
 (E) Empty crate completely +Overhead
+(E) Fix edging on the roof. 
 (E) Floss +Health
+(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+(E) Listen to  Randy Pausch Talk +Overhead
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Make an Entry in the Mind Map
+(E) Make an Entry in the Mind Map
 (E) Make an Entry in the Mind Map
 (E) Make card for mother's day (2) +Family
-(E) Make parts for Kitchen table with Kat
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+(E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Plan taking more photos. 
-(E) Post to Sibling Facebook group
-(E) Post to WWW facebook page +EQT
-(E) Put bolt in the bottom of the chiar. (garage)
+(E) Publicly thank someone +Overhead
 (E) Put child lock on the fridge
+(E) Refresh the lavender in Nova's room  +Family
+(E) Review (days since) app counts +Overhead
+(E) Review all projects in github +Overhead
 (E) Review all projects in github +Overhead
 (E) Review all projects in personal github +Overhead
-(E) Review yearly goals +Overhead
+(E) Review starred items in feeds +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Save a nice family memory +Family
-(E) Setup cron for todo list commiting. 
+(E) Save a nice family memory +Family
+(E) Save a nice family memory +Family
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Send Trustees something nice about outcomes +EQT
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) TSE +Health
 (E) Think more about getting the flow. 
+(E) Trim nose hair +Health
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Use Face strip +Health
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Video call with Kat family +Family
+(E) Video call with Kat family +Family
+(E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
 (E) Write a blog post about 'Joe eidts wikiepdia' 
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
-(E) order another pair of glasses 
-(E) rearrange monitors in office. 
+(E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family
 (E) review personal projects projects in github +personalprojects 
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
-(E) tidy garage +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
-process the communcation matters [200~THING[201~ 
-x 2019-02-07 Make the time loging shortcuts part of vim rather than text exapaner
-x 2019-02-07 Put keys in bag with cards 
-x 2019-02-07 Respond to the people who posted in hardcore aac 
-x 2019-02-11 Call Kindle about the book
