@@ -9,6 +9,7 @@
 (C) Find out about how reporting standards changed for charities +EQT in 2015
 (D) Do full accounts algorithm +EQT
 (D) Remove nationality for spoken voice from Open Voice Factory website
+(C) Check list of birthdays
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup "Camera Storage" somewhere
@@ -72,70 +73,3 @@
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
-x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
-x (A) Finish and practice presentation +EQT
-x (A) Follow up with people from Friday 
-x (A) Process payments in the payments folder. 
-x (A) Work out what weeks you *can* do in april and compare to the school +EQT
-x (B) Check the 'border size' issue 
-x (B) Put on Minute - regular contact with Kat family, who is in charge and how does that look  +Family 
-x (C) 1. Live open and work on https://github.com/eQualityTime/Public/issues/64 @live +EQT
-x (C) 1. Process Email @singleton +Overhead 
-x (C) Alter the wikipedia editing tweet so that it mentions the youtube channel
-x (C) Check White Water Writers website FAQs
-x (C) Put moinitors, monitor arms, and old papers in the loft. 
-x (C) Send guy on twitter the video we have of the lights changing +EQT 
-x (C) Sprint on [200~https://github.com/eQualityTime/Public/issues/74[201~
-x (C) Transfer money to Kat +Family 
-x (C) Use plunger on bathroom sink. +Family 
-x (C) [200~Get back to anwen about dates.[201~ +FAMILY
-x (D) Confirm Nava date with Kat 
-x (D) Try Lizzie for Daddy-daughter date. 
-x (D) tidy garage +Family
-x (E) Arrange next richard visit 
-x (E) Check Desktop Tracker is working +Overhead
-x (E) Check Voicemail  +Overhead
-x (E) Check team cooper visit dates: every two weeks  +Family
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
-x (E) Check that everything in the 'in process' box really does have a task+Overhead
-x (E) Check the bike 'go bag'+Overhead
-x (E) Check the next school time +EQT
-x (E) Check £40 in Wallet +Overhead
-x (E) Confirm plans for next two weekends.+Overhead
-x (E) Confirm plans for next two weekends.+Overhead
-x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-x (E) Cut nails +Health
-x (E) Fix edging on the roof. 
-x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-x (E) Go through phone and save all of the numbers +Overhead
-x (E) Go through the shared reminder list with Heart +Family
-x (E) Log weight +Health
-x (E) Make sure paper crane is in bathroom +Family
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x (E) Post to WWW facebook page +EQT
-x (E) Publicly thank someone +Overhead
-x (E) Put child lock on the fridge
-x (E) Remind Kat to do Nova's menu +Family
-x (E) Review (days since) app counts +Overhead
-x (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x (E) Search for funding for eQuality Time Projects +EQT
-x (E) Send Trustees something nice about outcomes +EQT
-x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x (E) TSE +Health
-x (E) Update Goodreads with the current book and your progress +Overhead
-x (E) Update Goodreads with the current book and your progress +Overhead
-x (E) Update Goodreads with the current book and your progress +Overhead
-x (E) Video call with Kat family +Family
-x (E) Video call with Kat family +Family
-x (E) Video call with Kat family +Family
-x (E) Vitimin Tablet +Health
-x (E) Vitimin Tablet +Health
-x (E) Wash sheets and towels +Family
-x (E) Write a blog post about 'Joe eidts wikiepdia' 
