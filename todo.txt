@@ -1,24 +1,32 @@
-(A) 1a. 1L of Water @singleton +Health
-(A) Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
-(B) 1. Exercise @singleton +Exercise
-(B) Sprint (off line) on the arts council bid https://github.com/eQualityTime/Public/issues/59 +EQT
+(B) Do next chapter of finance textbook
 (B) Sprint off line on the entrepreneurship grants https://github.com/eQualityTime/Public/issues/71 +EQT
+(B) Sprint on the arts council bid https://github.com/eQualityTime/Public/issues/59 +EQT
 (B) Try content in new Open Voice Factory website +EQT
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(C) Brainstorm fixing jarvis
+(C) Check list of birthdays
+(C) Check open voice factroy twitter 
 (C) Find out about how reporting standards changed for charities +EQT in 2015
+(C) Get different running trousers (and throw old ones) 
+(C) Put tiieus in running jacket. 
+(D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
 (D) Remove nationality for spoken voice from Open Voice Factory website
-(C) Check list of birthdays
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup "Camera Storage" somewhere
 (E) Backup Dreamhost +EQT
 (E) Brainstorm on getting back into the flow 
 (E) Call dentist to book appointment
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
 (E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
 (E) Email the local remap groups
 (E) Empty crate completely +Overhead
@@ -31,10 +39,13 @@
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Listen to  Randy Pausch Talk +Overhead
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Make card for mother's day (2) +Family
 (E) Open and log progress on the bid status document +EQT
+(E) Open and log progress on the bid status document +EQT
 (E) Ping Hannah about St Ives arrangements 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Plan taking more photos. 
 (E) Post to Sibling Facebook group
 (E) Refresh the lavender in Nova's room  +Family
@@ -49,11 +60,15 @@
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
+(E) Save a nice family memory +Family
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Set up the wake light timer for yourself. 
 (E) Staplegun on the downstairs cupboard. 
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -63,6 +78,7 @@
 (E) Use Face strip +Health
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -73,3 +89,10 @@
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
+x 2019-02-19 1. Exercise @singleton +Exercise
+x 2019-02-19 1. Exercise @singleton +Exercise
+x 2019-02-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-02-19 1. Process Email @singleton +Overhead
+x 2019-02-19 1a. 1L of Water @singleton +Health
+x 2019-02-19 1a. 1L of Water @singleton +Health
+x 2019-02-19 Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
