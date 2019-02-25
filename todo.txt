@@ -1,19 +1,27 @@
-(B) Do next chapter of finance textbook
-(B) Sprint off line on the entrepreneurship grants https://github.com/eQualityTime/Public/issues/71 +EQT
-(B) Sprint on the arts council bid https://github.com/eQualityTime/Public/issues/59 +EQT
-(B) Try content in new Open Voice Factory website +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Switch to live account and start streaming +EQT @singleton
-(C) 2. Switch to live account and start streaming +EQT @singleton
-(C) Brainstorm fixing jarvis
-(C) Check list of birthdays
-(C) Check open voice factroy twitter 
+x 2019-02-25 due:2019-02-20 Send Yvonne data
+(B) Check list of birthdays
+(B) Contact Mum and Steph with your summary of where we are with house.
+(C) Do next chapter of finance textbook
 (C) Find out about how reporting standards changed for charities +EQT in 2015
-(C) Get different running trousers (and throw old ones) 
-(C) Put tiieus in running jacket. 
+(C) Fix open voice factory twitter 
+(C) Map Project for heat in house.
+(C) Put Judo into Luton nights out.
+(C) Review github properly.
+(C) Ring ACCA people about your registration. 
+(C) Set up Garage for gate
+(C) Sort out architectureal dawings for gargae
+(C) Sprint off line on the entrepreneurship grants https://github.com/eQualityTime/Public/issues/71 +EQT
+(C) Sprint on new OVF
+(C) Sprint on the arts council bid https://github.com/eQualityTime/Public/issues/59 +EQT
+(C) Switch to live account and start streaming +EQT @singleton
+(C) Try content in new Open Voice Factory website +EQT
+(C) Wash spare room sheets.
+(C) renew Judo Licence 
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
 (D) Remove nationality for spoken voice from Open Voice Factory website
+(E)  See about viewing command history in vim. 
+(E)  Write terms of reference for twitter. 
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup "Camera Storage" somewhere
@@ -28,12 +36,15 @@
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Email the local remap groups
 (E) Empty crate completely +Overhead
 (E) Empty crate completely +Overhead
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Floss +Health
+(E) Get some of your photos printed at snapfish.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
@@ -46,6 +57,7 @@
 (E) Open and log progress on the bid status document +EQT
 (E) Ping Hannah about St Ives arrangements 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Plan taking more photos. 
 (E) Post to Sibling Facebook group
 (E) Refresh the lavender in Nova's room  +Family
@@ -62,9 +74,9 @@
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Set up the wake light timer for yourself. 
 (E) Staplegun on the downstairs cupboard. 
-(E) Swimming and climbing gear should be in the car +Overhead
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
 (E) Update Goodreads with the current book and your progress +Overhead
@@ -78,6 +90,7 @@
 (E) Use Face strip +Health
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
+(E) Vitimin Tablet +Health
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -85,10 +98,15 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
+(E) Write contributions code for Wikipedia. 
+(E) brainstorm bringing back proper review. 
+(E) get todo command extension to go down to E
 (E) review personal projects projects in github +personalprojects 
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
+(F) Brainstorm fixing jarvis
+x (C) Publically commit to going running thursday night. 
 x 2019-02-19 1. Exercise @singleton +Exercise
 x 2019-02-19 1. Exercise @singleton +Exercise
 x 2019-02-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
@@ -96,3 +114,8 @@ x 2019-02-19 1. Process Email @singleton +Overhead
 x 2019-02-19 1a. 1L of Water @singleton +Health
 x 2019-02-19 1a. 1L of Water @singleton +Health
 x 2019-02-19 Sprint on 'Organisational Budget' https://github.com/eQualityTime/Home/issues/103 +EQT 
+x 2019-02-20 1. Exercise @singleton +Exercise
+x 2019-02-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-02-20 1a. 1L of Water @singleton +Health
+x 2019-02-20 Put tissues in running jacket. 
+x 2019-02-20 Swimming and climbing gear should be in the car +Overhead
