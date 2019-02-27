@@ -1,17 +1,22 @@
+(A) due:2019-02-27 Sprint filming for: [200~https://github.com/eQualityTime/Public/issues/72
+(A) due:2019-02-28 Send new version of the spending to comic relif. 
 (B) 1. Exercise @singleton +Exercise
 (B) Address all the birthday cards for March
 (B) Contact Mum and Steph with your summary of where we are with house.
+(B) Do SHINE data for Yvonne. 
 (B) Look at accountacy books for how you do a budget. 
 (B) brainstorm contacting publishers again.
 (B) order more wood. 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Do next chapter of finance textbook
+(C) Doodle for next meeting. 
 (C) Find out about how reporting standards changed for charities +EQT in 2015
 (C) Fix open voice factory twitter 
 (C) Get ACCA number and book exam. 
 (C) Get air conditioner
 (C) Map Project for heat in house.
+(C) Project for CM call for papers
 (C) Put Judo into Luton nights out.
 (C) Review github properly.
 (C) SE question on how to restore desk properly. 
@@ -58,6 +63,7 @@
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 (E) Check the next school time +EQT
+(E) Check £40 in Wallet +Overhead
 (E) Confirm plans for next two weekends.+Overhead
 (E) Consider big display of latest SAS (That would be so COOL!)
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
@@ -70,6 +76,7 @@
 (E) Find out about rings on desk and how to prevent them. 
 (E) Fix teapot. 
 (E) Fix zipper issue on nappy bag
+(E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -95,10 +102,13 @@
 (E) Open and log progress on the bid status document +EQT
 (E) Open and log progress on the bid status document +EQT
 (E) Open and log progress on the bid status document +EQT
+(E) Open list of projects to be funded +EQT
 (E) Pay for a proper social media [200~THING[201~ for the year our of comic relief. 
 (E) Ping Hannah about St Ives arrangements 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
@@ -113,6 +123,7 @@
 (E) Publicly thank someone +Overhead
 (E) Put buffer app on phone, delete twitter. 
 (E) Put up Nova's picture in her room. 
+(E) Refresh the lavender in Nova's room  +Family
 (E) Refresh the lavender in Nova's room  +Family
 (E) Remind Kat to do Nova's menu +Family
 (E) Renew judo membership 
@@ -132,6 +143,7 @@
 (E) Save a nice family memory +Family
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
+(E) Search for funding for eQuality Time Projects +EQT
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Set up the wake light timer for yourself. 
 (E) Staple cardboard to the washing machine door. 
@@ -158,7 +170,9 @@
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
+(E) Vitimin Tablet +Health
 (E) Wash sheets and towels +Family
+(E) Work out how to commit git file from vim. 
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -168,13 +182,16 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write contributions code for Wikipedia. 
+(E) add vimcasts to youtube watchlist.
 (E) brainstorm bringing back proper review. 
+(E) find out why spotlight is slow
 (E) get todo command extension to go down to E
 (E) review personal projects projects in github +personalprojects 
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
 (F) Brainstorm fixing jarvis
+x (A) 1a. 1L of Water @singleton +Health
 x (C) Publically commit to going running thursday night. 
 x 2019-02-19 1. Exercise @singleton +Exercise
 x 2019-02-19 1. Exercise @singleton +Exercise
@@ -197,3 +214,6 @@ x 2019-02-25 Email meghan updated website .
 x 2019-02-25 Ping Kate - she has work to do. 
 x 2019-02-25 Set up Garage for gate
 x 2019-02-25 due:2019-02-20 Send Yvonne data
+x 2019-02-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-02-26 Talk to kat about mum and dad visit on Saturday 
+x 2019-02-27 Work out how to make leader work with a record. 
