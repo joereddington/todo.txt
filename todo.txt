@@ -1,7 +1,3 @@
-(A) due:2019-02-27 Sprint filming for: [200~https://github.com/eQualityTime/Public/issues/72
-(A) due:2019-02-28 Send new version of the spending to comic relif. 
-(B) 1. Exercise @singleton +Exercise
-(B) Address all the birthday cards for March
 (B) Contact Mum and Steph with your summary of where we are with house.
 (B) Do SHINE data for Yvonne. 
 (B) Look at accountacy books for how you do a budget. 
@@ -9,12 +5,15 @@
 (B) order more wood. 
 (C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
+(C) 2. Switch to live account and start streaming +EQT @singleton
+(C) Add child lock to nova tablet
 (C) Do next chapter of finance textbook
 (C) Doodle for next meeting. 
 (C) Find out about how reporting standards changed for charities +EQT in 2015
 (C) Fix open voice factory twitter 
 (C) Get ACCA number and book exam. 
 (C) Get air conditioner
+(C) Get github seats 
 (C) Map Project for heat in house.
 (C) Project for CM call for papers
 (C) Put Judo into Luton nights out.
@@ -30,8 +29,10 @@
 (C) Terms of reference for Twitter 
 (C) Try content in new Open Voice Factory website +EQT
 (C) Wash spare room sheets.
+(C) doogle for next meeitng) 
 (C) renew Judo Licence 
 (D) Celebration on Thursday night for Kat interview. Banners and shit. 
+(D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
@@ -48,15 +49,19 @@
 (E) Call dentist to book appointment
 (E) Check Desktop Tracker is working +Overhead
 (E) Check Desktop Tracker is working +Overhead
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check Voicemail  +Overhead
 (E) Check ranking scripts +Overhead
 (E) Check team cooper visit dates: every two weeks  +Family
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
@@ -88,11 +93,13 @@
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 (E) Go through phone and save all of the numbers +Overhead
 (E) Go through the shared reminder list with Heart +Family
+(E) Install telegram, opertunity works.
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 (E) Listen to  Randy Pausch Talk +Overhead
 (E) Log weight +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
@@ -102,10 +109,12 @@
 (E) Open and log progress on the bid status document +EQT
 (E) Open and log progress on the bid status document +EQT
 (E) Open and log progress on the bid status document +EQT
+(E) Open and log progress on the bid status document +EQT
 (E) Open list of projects to be funded +EQT
 (E) Pay for a proper social media [200~THING[201~ for the year our of comic relief. 
 (E) Ping Hannah about St Ives arrangements 
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
@@ -141,6 +150,7 @@
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
+(E) Save a nice family memory +Family
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Search for funding for eQuality Time Projects +EQT
@@ -149,13 +159,17 @@
 (E) Staple cardboard to the washing machine door. 
 (E) Staplegun on the downstairs cupboard. 
 (E) Swimming and climbing gear should be in the car +Overhead
+(E) Swimming and climbing gear should be in the car +Overhead
 (E) Tidy router 
 (E) Tighten keychains with pliers.
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
 (E) Trim nose hair +Health
+(E) Try whatsapp broadcast list
 (E) Update Goodreads with the current book and your progress +Overhead
 (E) Update Goodreads with the current book and your progress +Overhead
+(E) Update Goodreads with the current book and your progress +Overhead
+(E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -181,11 +195,14 @@
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
+(E) Write a letter to Nova +Family
 (E) Write contributions code for Wikipedia. 
 (E) add vimcasts to youtube watchlist.
 (E) brainstorm bringing back proper review. 
 (E) find out why spotlight is slow
 (E) get todo command extension to go down to E
+(E) plan for more monitors 
+(E) read themal camera insturctions
 (E) review personal projects projects in github +personalprojects 
 (E) spend 20 minutes or so considering the fruits of long term goals +overhead
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
@@ -216,4 +233,11 @@ x 2019-02-25 Set up Garage for gate
 x 2019-02-25 due:2019-02-20 Send Yvonne data
 x 2019-02-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
 x 2019-02-26 Talk to kat about mum and dad visit on Saturday 
+x 2019-02-27 1. Exercise @singleton +Exercise
+x 2019-02-27 1. Exercise @singleton +Exercise
+x 2019-02-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-02-27 1a. 1L of Water @singleton +Health
+x 2019-02-27 Address all the birthday cards for March
 x 2019-02-27 Work out how to make leader work with a record. 
+x 2019-02-27 due:2019-02-27 Sprint editing for: [200~https://github.com/eQualityTime/Public/issues/72
+x 2019-02-27 due:2019-02-28 Send new version of the spending to comic relief. 
