@@ -1,25 +1,22 @@
-(A) RJP birthday
 (B) Brainstorm professional TMC +EQT
-(B) Find out who supplied the wood and make complaint +Family 
 (B) Read Chapter 13 of the ACCA workbook https://github.com/equalitytime/home/issues/103 +EQT
 (B) Reformat SHINE data into two sheets, one with the universal value and send to Yvonne +EQT
-(B) Tell Laura we are go for the 25th. +EQT
 (B) Write out 'state of play' email for Mum and Stephanie about Richard's House. +Family
 (B) Write work package out for Aideen  +EQT
 (B) Write work package out for Kate and send links +EQT
-(C) 1. Process Email @singleton +Overhead
-(C) 2. Switch to live account and start streaming +EQT @singleton
 (C) Add 'Touch lock' to nova tablet
 (C) Create Doodle Poll for Trustees to setup next meeting. 
 (C) Create event to register for AAATE http://aaate2019.eu/registration/fees/
 (C) Find architectural photos you took. 
 (C) Lookup Luton Centre and book ACCA exam (number 4509995) 
 (C) Open Jarvis and review each project
+(C) Process Email @singleton +Overhead
 (C) Process the Halifax Statement and put in the house spending. +Family
 (C) Renew BJA licence
 (C) Set up minute on Kat's Phone +Family 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129
+(C) Switch to live account and start streaming +EQT @singleton
 (C) Talk to Kat about Richard visit date 
 (C) Try content in new Open Voice Factory website +EQT
 (C) Write theory of change for Twitter
@@ -37,14 +34,10 @@
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 (E) Consider big display of latest SAS (That would be so COOL!)
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
-(E) Cut nails +Health
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Easter egg project 
 (E) Email the local remap groups
-(E) Find out about rings on desk and how to prevent them. 
 (E) Fix teapot. 
-(E) Fix zipper issue on nappy bag
+(E) Fix zipper on nappy bag
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
@@ -53,21 +46,11 @@
 (E) Floss +Health
 (E) Get some of your photos printed at snapfish.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 (E) Listen to  Randy Pausch Talk +Overhead
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Make card for mother's day +Family
+(E) Map Easter egg project 
 (E) Pay for a proper social media [200~THING[201~ for the year our of comic relief. 
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Plan taking more photos. 
 (E) Print out picture of the moon for the lounge.
 (E) Project for youtube watch list. 
@@ -106,7 +89,6 @@
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
-x 2019-02-28 Video call with Kat family +Family
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
 (E) Vitimin Tablet +Health
@@ -135,78 +117,20 @@ x 2019-02-28 Video call with Kat family +Family
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
 (F) Brainstorm proper project review
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open and log progress on the bid status document +EQT
-x (E) Open list of projects to be funded +EQT
-x 2019-02-28 1. Exercise @singleton +Exercise
-x 2019-02-28 1a. 1L of Water @singleton +Health
-x 2019-02-28 Add two bags to the car for clearning/carring out +EQT
-x 2019-02-28 Add two bags to the car for clearning/carring out +EQT
-x 2019-02-28 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-02-28 Brainstorm on getting back into the flow 
-x 2019-02-28 Celebration on Thursday night for Kat interview. Banners and shit. 
-x 2019-02-28 Check Desktop Tracker is working +Overhead
-x 2019-02-28 Check Desktop Tracker is working +Overhead
-x 2019-02-28 Check Desktop Tracker is working +Overhead
-x 2019-02-28 Check Rob's emails for Charity reporting standards information +EQT
-x 2019-02-28 Check Voicemail  +Overhead
-x 2019-02-28 Check Voicemail  +Overhead
-x 2019-02-28 Check Voicemail  +Overhead
-x 2019-02-28 Check team cooper visit dates: every two weeks  +Family
-x 2019-02-28 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-02-28 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-02-28 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-02-28 Check the bike 'go bag'+Overhead
-x 2019-02-28 Check the bike 'go bag'+Overhead
-x 2019-02-28 Check the bike 'go bag'+Overhead
-x 2019-02-28 Check £40 in Wallet +Overhead
-x 2019-02-28 Confirm plans for next two weekends.+Overhead
-x 2019-02-28 Do full accounts algorithm +EQT
-x 2019-02-28 Do full accounts algorithm +EQT
-x 2019-02-28 Do full accounts algorithm +EQT
-x 2019-02-28 Empty crate completely +Overhead
-x 2019-02-28 Empty crate completely +Overhead
-x 2019-02-28 Empty crate completely +Overhead
-x 2019-02-28 Fix open voice factory twitter 
-x 2019-02-28 Get air conditioner
-x 2019-02-28 Get github seats 
-x 2019-02-28 Get smart meter for house.
-x 2019-02-28 Go through phone and save all of the numbers +Overhead
-x 2019-02-28 Go through the shared reminder list with Heart +Family
-x 2019-02-28 Install telegram, opertunity works.
-x 2019-02-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-x 2019-02-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-x 2019-02-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
-x 2019-02-28 Log weight +Health
-x 2019-02-28 Make sure paper crane is in bathroom +Family
-x 2019-02-28 Map Project for heat in house.
-x 2019-02-28 Ping Hannah about St Ives arrangements 
-x 2019-02-28 Post to Sibling Facebook group
-x 2019-02-28 Post to Sibling Facebook group
-x 2019-02-28 Post to WWW facebook page +EQT
-x 2019-02-28 Project for CM call for papers
-x 2019-02-28 Publicly thank someone +Overhead
-x 2019-02-28 Put buffer app on phone, delete twitter. 
-x 2019-02-28 Remind Kat to do Nova's menu +Family
-x 2019-02-28 Remove nationality for spoken voice from Open Voice Factory website
-x 2019-02-28 Renew judo membership 
-x 2019-02-28 Review yearly goals +Overhead
-x 2019-02-28 SE question on how to restore desk properly. 
-x 2019-02-28 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x 2019-02-28 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
-x 2019-02-28 Search for funding for eQuality Time Projects +EQT
-x 2019-02-28 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
-x 2019-02-28 Set up the wake light timer for yourself. 
-x 2019-02-28 Sprint on the arts council bid https://github.com/eQualityTime/Public/issues/59 +EQT
-x 2019-02-28 Switch to live account and start streaming +EQT @singleton
-x 2019-02-28 Wash spare room sheets.
-x 2019-02-28 Write a letter to Nova +Family
-x 2019-02-28 Write a letter to Nova +Family
-x 2019-02-28 doogle for next meeitng) 
-x 2019-02-28 renew Judo Licence 
+x (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
+x (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§
+x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
+x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
+x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
+x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
+x 2019-02-28 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
+x 2019-02-28 Cut nails +Health
+x 2019-02-28 Find out about rings on desk and how to prevent them. 
+x 2019-02-28 Find out who supplied the wood and make complaint +Family 
+x 2019-02-28 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
+x 2019-02-28 Tell Laura we are go for the 25th. +EQT
+x 2019-03-04 Make moonpig card for RJP birthday
