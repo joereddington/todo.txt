@@ -1,0 +1,25 @@
+x 2019-03-04 1a. 1L of Water @singleton +Health
+x 2019-03-05 1. Exercise @singleton +Exercise
+x 2019-03-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-03-05 1. Process Email @singleton +Overhead
+x 2019-03-05 Badger martha
+x 2019-03-05 Brainstorm professional TMC +EQT
+x 2019-03-05 Check Voicemail  +Overhead
+x 2019-03-05 Cut nails +Health
+x 2019-03-05 Floss +Health
+x 2019-03-05 Floss +Health
+x 2019-03-05 Floss +Health
+x 2019-03-05 Floss +Health
+x 2019-03-05 Label filing cabinet key 
+x 2019-03-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
+x 2019-03-05 Post to Sibling Facebook group
+x 2019-03-05 Publicly thank someone +Overhead
+x 2019-03-05 Renew BJA licence
+x 2019-03-05 Send Kate marching orders 
+x 2019-03-05 Set up minute on Kat's Phone +Family 
+x 2019-03-05 Try whatsapp broadcast list
+x 2019-03-05 Video call with Kat family +Family
+x 2019-03-05 Work out how to commit git file from vim. 
+x 2019-03-05 do data for yvoone 
+x 2019-03-05 find out why spotlight is slow
+x 2019-03-05 2019-03-05 test
