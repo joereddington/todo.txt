@@ -1,50 +1,64 @@
-x 2019-03-05 Approve Nava visit 
+(A) Email Laura and Eleanor about school coming up. 
 (B) Read Chapter 13 of the ACCA workbook https://github.com/equalitytime/home/issues/103 +EQT
 (B) Reformat SHINE data into two sheets, one with the universal value and send to Yvonne +EQT
-(B) Write out 'state of play' email for Mum and Stephanie about Richard's House. +Family
-(B) Write work package out for Aideen  +EQT
-(B) Write work package out for Kate and send links +EQT
 (B) process Amazon payments in finance. 
-(B) spend 20 minutes or so considering the fruits of long term goals +overhead
+(C) 1. Process Email @singleton +Overhead
 (C) 2. Switch to live account and start streaming +EQT @singleton
-(C) Check shed bisucuits.
 (C) Create Doodle Poll for Trustees to setup next meeting. 
+(C) BUy paracetamol. 
 (C) Create event to register for AAATE http://aaate2019.eu/registration/fees/
+(C) Find a Sunday Race. 
 (C) Find accountant, do accounts 
 (C) Find another place to pitch WWW
+(C) Find the blog post about Streaming and rewrite https://github.com/joereddington/Projects-Public/issues/4
 (C) Go over the weekend list 
 (C) Go thought http://www.charitysorp.org/media/620341/frsse_module-5.pdf in detail. 
 (C) Go to the library/bookshop and find out who is running the existing licencing. 
 (C) Lookup Luton Centre and book ACCA exam (number 4509995) 
-(C) Open Jarvis and review each project
+(C) Map https://github.com/joereddington/Projects-Public/issues/5
+(C) Map the contact list project 
+(C) Print out the documents for the next WWW camp
 (C) Process Email @singleton +Overhead
 (C) Process the Halifax Statement and put in the house spending. +Family
 (C) Put measurements on the architectural photos you took. 
 (C) Redo wheel of life
+(C) Remove shed bisucuits.
 (C) Send Next invoice to Keele +EQT
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129
+(C) Start tracking food. It's easier now. 
 (C) Switch to live account and start streaming +EQT @singleton
 (C) Talk to Kat about Richard visit date 
 (C) Try content in new Open Voice Factory website +EQT
+(C) Write and send minutes +EQT  Time:15
 (C) Write theory of change for Twitter
 (D) Adjust gate design
 (D) Do full accounts algorithm +EQT
 (D) Do full accounts algorithm +EQT
+(D) Do full accounts algorithm +EQT
 (D) Get new bulb in kitchen. 
+(D) Install evernote.
 (D) Map project on contacting board games manufacturers +EQT
+(D) Print out the ten year plan
+(D) ask on facebook - what makes online communities good? 
 (E) Add two bags to the car for clearning/carring out +EQT
 (E) Backup "Camera Storage" to external drive. 
 (E) Backup Dreamhost +EQT
+(E) Block chimney 
+(E) Brainstorm on setting up a story line for each day. 
 (E) Call dentist to book appointment
 (E) Check Desktop Tracker is working +Overhead
+(E) Check Desktop Tracker is working +Overhead
+(E) Check Voicemail  +Overhead
 (E) Check ranking scripts +Overhead
 (E) Check team cooper visit dates: every two weeks  +Family
+(E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead
+(E) Check the bike 'go bag'+Overhead
 (E) Check the bike 'go bag'+Overhead
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
@@ -53,7 +67,6 @@ x 2019-03-05 Approve Nava visit
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 (E) Check the next school time +EQT
 (E) Confirm plans for next two weekends.+Overhead
-x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 (E) Create a telegram bot. 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -66,29 +79,38 @@ x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) Floss +Health
 (E) Floss +Health
 (E) Floss +Health
+(E) Floss +Health
 (E) Get some of your photos printed at snapfish.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 (E) Go through phone and save all of the numbers +Overhead
 (E) Go through the shared reminder list with Heart +Family
+(E) Hot glue a wire loop onto the back of the external hard drive. Time:15 
+(E) Igor, assert about some facebook accountability. 
 (E) Listen to  Randy Pausch Talk +Overhead
 (E) Log weight +Health
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Look up the basic plots in fiction and write a summary of your day using each. 
 (E) Make card for mother's day +Family
 (E) Make sure paper crane is in bathroom +Family
 (E) Map Easter egg project 
 (E) Open and log progress on the bid status document +EQT
+(E) Open and log progress on the bid status document +EQT
 (E) Pay for a proper social media [200~THING[201~ for the year our of comic relief. 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 (E) Plan taking more photos. 
 (E) Post to WWW facebook page +EQT
 (E) Print out picture of the moon for the lounge.
 (E) Project for youtube watch list. 
+(E) Put tablet charger in the car @nova +Family  Time:05
 (E) Put up Nova's picture in her room. 
 (E) Remind Kat to do Nova's menu +Family
 (E) Review all projects in github +Overhead
@@ -108,13 +130,18 @@ x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
 (E) Save a nice family memory +Family
+(E) Save a nice family memory +Family
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 (E) Staple cardboard to the washing machine door. 
 (E) Staplegun on the downstairs cupboard. 
 (E) Swimming and climbing gear should be in the car +Overhead
+(E) Swimming and climbing gear should be in the car +Overhead
+(E) Tag Igor events with Time
 (E) Tidy router 
 (E) Tighten keychains with pliers.
+(E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97
+(E) Update Goodreads with the current book and your progress +Overhead
 (E) Update Goodreads with the current book and your progress +Overhead
 (E) Use Face strip +Health
 (E) Use Face strip +Health
@@ -127,6 +154,10 @@ x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) Use Face strip +Health
 (E) Use Face strip +Health
 (E) Use Face strip +Health
+(E) Use Face strip +Health
+(E) Vitimin Tablet +Health
+(E) Wheel of life should include cycling to parkrun. 
+(E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
@@ -136,8 +167,10 @@ x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) Write a letter to Nova +Family
 (E) Write a letter to Nova +Family
 (E) Write contributions code for Wikipedia. 
+(E) Write down Judo plan.
 (E) Write script that produces list of 'detection' files
 (E) Write terms of reference for twitter. 
+(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1 
 (E) add vimcasts to youtube watchlist.
 (E) brainstorm bringing back proper review. 
 (E) get todo command extension to go down to E
@@ -147,3 +180,16 @@ x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 (E) update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead
 (E) write a letter to nova +Family
 (F) Brainstorm proper project review
+x 2019-03-05 Approve Nava visit 
+x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
+x 2019-03-07 1. Exercise @singleton +Exercise
+x 2019-03-07 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
+x 2019-03-07 1a. 1L of Water @singleton +Health
+x 2019-03-07 Declare 
+x 2019-03-07 Sign Contract and work on Richard's house. 
+x 2019-03-07 Write work package out for Aideen  +EQT
+x 2019-03-07 Write work package out for Kate and send links +EQT
+x 2019-03-07 spend 20 minutes or so considering the fruits of long term goals +overhead
+x 2019-03-08 Create physcial projects board.
+x 2019-03-08 Declare bankrupcy on Personal Projects and itterate them. 
+x 2019-03-08 Open Jarvis and review each project
