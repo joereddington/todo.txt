@@ -1,3 +1,87 @@
+(B) Find and map the home office "Building a stronger britian" funding +EQT Time:10 
+(B) Open Organisational Budget Spreadsheet and make a post March one. +EQT Time:20 
+(B) Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
+(B) Reformat School long-term progress data into two sheets, one with the universal value and send to Yvonne +EQT Time:25 
+(C) Ask Francesca about Writers events.  Time:07 
+(C) Brainstorm new targets for next three months on wheel of life (include cycling to parkrun)  Time:15 
+(C) Buy metal brace for the garden arch Time:07 
+(C) Buy paracentamol. @Nova Time:10 
+(C) Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
+(C) Do full accounts algorithm +EQT Time:99 
+(C) Go to Homebase - chain for gate, pole for monitors +EQT +Family @Nova Time:40  @outside
+(C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
+(C) Measure the garage for architect  Time:16 
+(C) Open Quickbooks and review Keele invoicing +EQT Time:10
+(C) Process your email inboxes Time:90 
+(C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
+(C) Review and rewrite house improvement spreadsheet +Family Time:15 
+(C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
+(C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
+(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
+(C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
+(C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
+(C) Try content in new Open Voice Factory website +EQT Time:20 
+(C) Write and send minutes +EQT  Time:15
+(D) Get car cleaned  Time:40  @outside 
+(D) Review personal projects in github +personalprojects  Time:30 
+(D) Rewrite weekend meeting list of topics to include the recent nice family moments: Time:10  
+(D) Work out how much clearence you need for the garden gate  Time:10 
+(E) Brainstorm being good at Judo @nova Time:10 
+(E) Call dentist to book Checkup @car  Time:04 
+(E) Choose a set of photos to get printed at Snapfish.  Time:20 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Get drill to make hole in wall to hang hard drive from +PersonalProjects  Time:05 
+(E) Get monitor in place to Fix teapot.  Time:10
+(E) Glue and clamp on downstairs cuboard Time:10 
+(E) Make card for mother's day +Family Time:15 
+(E) Map Easter egg project  Time:10
+(E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
+(E) Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20 
+(E) Post to Sibling Facebook group Time:10 
+(E) Print out picture of the moon for the lounge. Time:10 
+(E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
+(E) Put receipts in receipt book. Time:20 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
+(E) Review starred items in feeds +Overhead Time:20 
+(E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
+(E) Update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead Time:15
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Use Face strip +Health Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10   
+(E) Write a letter to nova +Family Time:10 
+(E) Write contributions code for Wikipedia. Time:60 
+(E) Write script that produces list of 'detection' files Time:40 
+(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
+(F) Brainstorm proper project review Time:10 
 x 2019-03-05 Approve Nava visit 
 x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 x 2019-03-07 1. Exercise @singleton +Exercise
@@ -15,6 +99,7 @@ x 2019-03-11 () Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbC
 x 2019-03-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
 x 2019-03-11 1a. 1L of Water @singleton +Health
 x 2019-03-11 Add two bags to the car for clearning/carring out +EQT
+x 2019-03-11 Add two bags to the car for clearning/carring out +EQT Time:03 
 x 2019-03-11 Add vimcasts to youtube watchlist. 
 x 2019-03-11 Backup "Camera Storage" to external drive. 
 x 2019-03-11 Block chimney 
@@ -40,6 +125,7 @@ x 2019-03-11 Check the next school time +EQT
 x 2019-03-11 Check the next school time +EQT
 x 2019-03-11 Confirm plans for next two weekends.+Overhead
 x 2019-03-11 Confirm plans for next two weekends.+Overhead
+x 2019-03-11 Contact Nova's Grandparents about Friday 22nd March @phone Time:05 
 x 2019-03-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 x 2019-03-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 x 2019-03-11 Create a telegram bot. 
@@ -54,6 +140,7 @@ x 2019-03-11 Find a Sunday Race.
 x 2019-03-11 Find the blog post about Streaming and rewrite https://github.com/joereddington/Projects-Public/issues/4
 x 2019-03-11 Fix zipper on nappy bag
 x 2019-03-11 Floss +Health
+x 2019-03-11 Floss +Health Time:05 
 x 2019-03-11 Get new bulb in kitchen. 
 x 2019-03-11 Get the quote about lositics printed 
 x 2019-03-11 Go over the weekend list 
@@ -107,7 +194,9 @@ x 2019-03-11 Print out the documents for the next WWW camp
 x 2019-03-11 Print out the ten year plan
 x 2019-03-11 Process the Halifax Statement and put in the house spending. +Family
 x 2019-03-11 Publicly thank someone +Overhead
+x 2019-03-11 Put tablet charger in the car @nova +Family  Time:05
 x 2019-03-11 Put up Nova's picture in her room. 
+x 2019-03-11 Re-confirm with Kat the size of gate she wants for the garden.  Time:05 
 x 2019-03-11 Remind Kat to do Nova's menu +Family
 x 2019-03-11 Remind Kat to do Nova's menu +Family
 x 2019-03-11 Replace light bulbs in the kitchen
@@ -126,6 +215,8 @@ x 2019-03-11 Save a nice family memory +Family
 x 2019-03-11 Save a nice family memory +Family
 x 2019-03-11 Save a nice family memory +Family
 x 2019-03-11 Save a nice family memory +Family
+x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
+x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
 x 2019-03-11 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2019-03-11 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2019-03-11 Start tracking food. It's easier now. 
@@ -134,7 +225,11 @@ x 2019-03-11 Swimming and climbing gear should be in the car +Overhead
 x 2019-03-11 Swimming and climbing gear should be in the car +Overhead
 x 2019-03-11 Switch to live account and start streaming +EQT @singleton
 x 2019-03-11 Tag Igor events with Time
+x 2019-03-11 Take biscuits out of garage  Time:03 
+x 2019-03-11 Take photos of EQT bank statments for Dropbox  Time:05 
 x 2019-03-11 Talk to Kat about Richard visit date 
+x 2019-03-11 Throw away the biscuits in the garage.  Time:04 
+x 2019-03-11 Tidy router  Time:02 
 x 2019-03-11 Trim nose hair +Health
 x 2019-03-11 Update Goodreads with the current book and your progress +Overhead
 x 2019-03-11 Update Goodreads with the current book and your progress +Overhead
@@ -154,104 +249,10 @@ x 2019-03-11 get todo command extension to go down to E
 x 2019-03-11 plan for more monitors 
 x 2019-03-11 process Amazon payments in finance. 
 x 2019-03-11 x 2019-03-11 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-03-11 Tidy router  Time:02 
-x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
-x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
-x 2019-03-11 Add two bags to the car for clearning/carring out +EQT Time:03 
-x 2019-03-11 Take biscuits out of garage  Time:03 
-(E) Call dentist to book Checkup @car  Time:04 
-x 2019-03-11 Throw away the biscuits in the garage.  Time:04 
-x 2019-03-11 Put tablet charger in the car @nova +Family  Time:05
-(D) Take photos of EQT bank statments for Dropbox  Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Get drill to make hole in wall to hang hard drive from +PersonalProjects  Time:05 
-x 2019-03-11 Contact Nova's Grandparents about Friday 22nd March @phone Time:05 
-x 2019-03-11 Re-confirm with Kat the size of gate she wants for the garden.  Time:05 
-(E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
-(C) Ask Francesca about Writers events.  Time:07 
-(C) Buy metal brace for the garden arch Time:07 
-(B) Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
-(C) Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
-(E) Read thermal camera instructions Time:08
-(C) Open Quickbooks and review Keele invoicing +EQT Time:10
-(E) Get monitor in place to Fix teapot.  Time:10
-(E) Map Easter egg project  Time:10
-(E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
-(E) Glue and clamp on downstairs cuboard Time:10 
-(A) Post contract to solitor Time:10 
-(B) Find and map the home office "Building a stronger britian" funding +EQT Time:10 
-(C) Buy paracentamol. @Nova Time:10 
-(D) Work out how much clearence you need for the garden gate  Time:10 
-(E) Brainstorm being good at Judo @nova Time:10 
-(E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
-(E) Post to Sibling Facebook group Time:10 
-(E) Print out picture of the moon for the lounge. Time:10 
-(E) Staple cardboard to the washing machine door. Time:10 
-(E) Tighten keychains with pliers. Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to nova +Family Time:10 
-(F) Brainstorm proper project review Time:10 
-(D) Rewrite weekend meeting list of topics to include the recent nice family moments: Time:10  
-(E) Write a letter to Nova +Family Time:10   
-(C) Write and send minutes +EQT  Time:15
-(E) Update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead Time:15
-(C) Brainstorm new targets for next three months on wheel of life (include cycling to parkrun)  Time:15 
-(C) Review and rewrite house improvement spreadsheet +Family Time:15 
-(E) Empty crate completely +Overhead Time:15 
-(E) Empty crate completely +Overhead Time:15 
-(E) Make card for mother's day +Family Time:15 
-(C) Measure the garage for architect  Time:16 
-(B) Open Organisational Budget Spreadsheet and make a post March one. +EQT Time:20 
-(C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
-(C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
-(C) Try content in new Open Voice Factory website +EQT Time:20 
-(E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20 
-(E) Put receipts in receipt book. Time:20 
-(E) Review starred items in feeds +Overhead Time:20 
-(B) Reformat School long-term progress data into two sheets, one with the universal value and send to Yvonne +EQT Time:25 
-(D) Review personal projects in github +personalprojects  Time:30 
-(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Write script that produces list of 'detection' files Time:40 
-(C) Go to Homebase - chain for gate, pole for monitors +EQT +Family @Nova Time:40  @outside
-(C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(D) Get car cleaned  Time:40  @outside 
-(B) Get sweaty and run, feel good  Time:60 
-(C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
-(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
-(C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
-(C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
-(E) Write contributions code for Wikipedia. Time:60 
-(C) Process your email inboxes Time:90 
-(C) Do full accounts algorithm +EQT Time:99 
+x 2019-03-12 Empty crate completely +Overhead Time:15 
+x 2019-03-12 Empty crate completely +Overhead Time:15 
+x 2019-03-12 Get sweaty and run, feel good  Time:60 
+x 2019-03-12 Post contract to solitor Time:10 
+x 2019-03-12 Read thermal camera instructions Time:08
+x 2019-03-12 Staple cardboard to the washing machine door. Time:10 
+x 2019-03-12 Tighten keychains with pliers. Time:10 
