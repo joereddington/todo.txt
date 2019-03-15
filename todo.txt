@@ -1,17 +1,40 @@
-(B) Deal with late card. 
-(C) Read next ACCA document. 
-(B) Open Organisational Budget Spreadsheet and make a post March one. +EQT Time:20 
-(B) Reformat School long-term progress data into two sheets, one with the universal value and send to Yvonne +EQT Time:25 
-(C) Ask Francesca about Writers events.  Time:07 
-(C) Brainstorm new targets for next three months on wheel of life (include cycling to parkrun)  Time:15 
+x 2019-03-14 Vitimin Tablet +Health @nova  Time:02
+x 2019-03-14 Make workstation spotless +Overhead @nova  
+x 2019-03-14 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-03-13 1. Exercise @singleton +Exercise @nova  Time:60 
+(E) Write a letter to nova +Family Time:10 
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Floss +Health @nova  Time:05
+(E) Brainstorm being good at Judo @nova Time:10 
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) Buy paracentamol. @Nova Time:10 
-(C) Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
-(C) Do full accounts algorithm +EQT Time:99 
 (C) Go to Homebase - chain for gate, pole for monitors +EQT +Family @Nova Time:40  @outside
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10   
+x 2019-03-14 Brainstorm Phone away with Nova 
+x 2019-03-14 Write a letter to Nova +Family Time:10 
+(A) Email Eleanor and Laura about the camp 
+(A) Reformat School long-term progress data into two sheets, one with the universal value and send to Yvonne +EQT Time:25 
+(A) Send Terms of reference and slides to Roy 
+(B) Get Kat to write something nice in the late card Time:04 +Personal
+(B) Write down the rules of the lock on the key 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Ask Francesca about Writers events.  Time:07 
+(C) Brainstorm new targets for next three months on wheel of life (include cycling to parkrun)  Time:15 
+(C) Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
+(C) Do full accounts algorithm +EQT Time:99 
+(C) Draft your gratitude post early. 
 (C) Measure the garage for architect  Time:16 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
-(C) Process your email inboxes Time:90 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
@@ -19,26 +42,33 @@
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
+(C) Tell Kat about the phone approach 
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (D) Get car cleaned  Time:40  @outside 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments: Time:10  
 (D) Work out how much clearence you need for the garden gate  Time:10 
-(E) Brainstorm being good at Judo @nova Time:10 
+(E) Backup Dreamhost +EQT
 (E) Call dentist to book Checkup @car  Time:04 
+(E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Get drill to make hole in wall to hang hard drive from +PersonalProjects  Time:05 
 (E) Get monitor in place to Fix teapot.  Time:10
-(E) Glue and clamp on downstairs cuboard Time:10 
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Make card for mother's day +Family Time:15 
+(E) Make hole in wall to hang hard drive from +PersonalProjects  Time:05 
+(E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Map Easter egg project  Time:10
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
 (E) Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
 (E) Post to Sibling Facebook group Time:10 
 (E) Print out picture of the moon for the lounge. Time:10 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
@@ -49,34 +79,17 @@
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
+(E) Review facebook theory of change
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
+(E) Review starred items in feeds +Overhead
 (E) Review starred items in feeds +Overhead Time:20 
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Send Trustees something nice about outcomes +EQT
+(E) TSE +Health Time:04 
 (E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
-(E) Update netflix watch list. http://joereddington.com/6454/2017/11/14/everything-ive-watched-so-far-in-2017/  +Overhead Time:15
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Use Face strip +Health Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10   
-(E) Write a letter to nova +Family Time:10 
+(E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
@@ -85,5 +98,21 @@ x 2019-03-12 2019-03-12 1. Looking for urgent: Check Calendar and reminders and 
 x 2019-03-12 Buy metal brace for the garden arch Time:07 
 x 2019-03-12 Find and map the home office "Building a stronger britian" funding +EQT Time:10 
 x 2019-03-12 Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
-x 2019-03-13 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-03-13 due:2019-03-13 Do revision 
+x 2019-03-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-14 1a. 1L of Water @singleton +Health Time:03
+x 2019-03-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-03-14 Book Physio apointment
+x 2019-03-14 Check ranking scripts +Overhead
+x 2019-03-14 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+x 2019-03-14 Check wishlist
+x 2019-03-14 Download the amazon months sales figures +EQT
+x 2019-03-14 Forward the nice email from SHINE to Yvonne  and partick. Time:03 
+x 2019-03-14 Give laptop screen a good clean +Overhead
+x 2019-03-14 Glue and clamp on downstairs cuboard Time:10 
+x 2019-03-14 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+x 2019-03-14 If back on sugar then start sugar project +Health
+x 2019-03-14 Invite missing trustee
+x 2019-03-14 Map out stratergy for next ACCA document. 
+x 2019-03-14 Open Organisational Budget Spreadsheet and make a post March one. +EQT Time:20 
+x 2019-03-14 Open list of projects to be funded +EQT
