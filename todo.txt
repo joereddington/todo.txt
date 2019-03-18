@@ -1,26 +1,28 @@
-x 2019-03-14 Vitimin Tablet +Health @nova  Time:02
-x 2019-03-14 Make workstation spotless +Overhead @nova  
-x 2019-03-14 Check £40 in Wallet +Overhead @nova  @phone 
-x 2019-03-13 1. Exercise @singleton +Exercise @nova  Time:60 
+(E) Write a letter to Nova +Family Time:30 
+(E) Use Face strip +Health @nova Time:10 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (E) Write a letter to nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10   
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
+(E) Write a letter to Nova +Family Time:10 
 (E) Review (days since) app counts +Overhead @nova @phone 
 (E) Floss +Health @nova  Time:05
 (E) Brainstorm being good at Judo @nova Time:10 
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) Buy paracentamol. @Nova Time:10 
-(C) Go to Homebase - chain for gate, pole for monitors +EQT +Family @Nova Time:40  @outside
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10   
-x 2019-03-14 Brainstorm Phone away with Nova 
-x 2019-03-14 Write a letter to Nova +Family Time:10 
+(C) Go to Homebase - chain for gate, pole for monitors +EQT +Family @Nova Time:40  @outside
+(C) Buy paracentamol. @Nova Time:10 
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (A) Email Eleanor and Laura about the camp 
 (A) Reformat School long-term progress data into two sheets, one with the universal value and send to Yvonne +EQT Time:25 
 (A) Send Terms of reference and slides to Roy 
@@ -54,6 +56,7 @@ x 2019-03-14 Write a letter to Nova +Family Time:10
 (E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
+(E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
@@ -89,30 +92,15 @@ x 2019-03-14 Write a letter to Nova +Family Time:10
 (E) Send Trustees something nice about outcomes +EQT
 (E) TSE +Health Time:04 
 (E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
-(E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
-x 2019-03-12 2019-03-12 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-12 Buy metal brace for the garden arch Time:07 
-x 2019-03-12 Find and map the home office "Building a stronger britian" funding +EQT Time:10 
-x 2019-03-12 Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
-x 2019-03-13 due:2019-03-13 Do revision 
-x 2019-03-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-14 1a. 1L of Water @singleton +Health Time:03
-x 2019-03-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-03-14 Book Physio apointment
-x 2019-03-14 Check ranking scripts +Overhead
-x 2019-03-14 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-03-14 Check wishlist
-x 2019-03-14 Download the amazon months sales figures +EQT
-x 2019-03-14 Forward the nice email from SHINE to Yvonne  and partick. Time:03 
-x 2019-03-14 Give laptop screen a good clean +Overhead
-x 2019-03-14 Glue and clamp on downstairs cuboard Time:10 
-x 2019-03-14 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-x 2019-03-14 If back on sugar then start sugar project +Health
-x 2019-03-14 Invite missing trustee
-x 2019-03-14 Map out stratergy for next ACCA document. 
-x 2019-03-14 Open Organisational Budget Spreadsheet and make a post March one. +EQT Time:20 
-x 2019-03-14 Open list of projects to be funded +EQT
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
