@@ -25,7 +25,6 @@
 (C) Wrap up parcel for Camera Jungle
 (C) Write and send minutes +EQT  Time:15
 (D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
 (D) Get car cleaned  Time:40  @outside 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
@@ -34,8 +33,6 @@
 (E) Backup Dreamhost +EQT
 (E) Brainstorm being good at Judo @nova Time:10 
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
@@ -75,7 +72,6 @@
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
-(E) Review facebook theory of change
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
 (E) Review starred items in feeds +Overhead
 (E) Review starred items in feeds +Overhead Time:20 
@@ -84,12 +80,10 @@
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Trim nose hair +Health @nova  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
-(E) Vitimin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
@@ -105,12 +99,17 @@
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
 x 2019-03-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-20 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-03-20 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-03-20 Check if there are any moonpig cards to send this month +Overhead
 x 2019-03-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-03-20 Review Aideen Document. 
+x 2019-03-20 Review facebook theory of change
 x 2019-03-20 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-03-20 Send Trustees something nice about outcomes +EQT
 x 2019-03-20 TSE +Health Time:04 
+x 2019-03-20 Trim nose hair +Health @nova  Time:05 
 x 2019-03-20 Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
+x 2019-03-20 Vitimin Tablet +Health @nova  Time:02
