@@ -1,26 +1,20 @@
-(A) Do the spending for the new CR 
-(A) Pay for house. 
-(A) Review Aideens Work. 
-(A) Ring Comic Relief. 
-(A) Speak to CR about accounting 
+(A) Review Aideen Document. 
+(A) Ring Comic Relief about what to do next 
 (A) Write out list from Rob Properly as a statement to trustees
-(B) Process all the 'in preperation' finance documents 
+(B) Write document for solitiors 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 200 pages for exam 
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
-(C) Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
 (C) Do full accounts algorithm +EQT Time:99 
+(C) Do your sections for the CommuniKate manaul
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Measure the garage for architect  Time:16 
-(C) Measure the width of the monitor poll 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
 (C) Send Glasses to Yvonne. 
-(C) Send the new members template to the moderator team. 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
@@ -28,6 +22,7 @@
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Wrap up parcel for Camera Jungle
 (C) Write and send minutes +EQT  Time:15
+(D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Get car cleaned  Time:40  @outside 
 (D) Review personal projects in github +personalprojects  Time:30 
@@ -37,17 +32,23 @@
 (E) Backup Dreamhost +EQT
 (E) Brainstorm being good at Judo @nova Time:10 
 (E) Call dentist to book Checkup @car  Time:04 
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Get monitor in place to Fix teapot.  Time:10
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make card for mother's day +Family Time:15 
 (E) Map Easter egg project  Time:10
@@ -55,9 +56,12 @@
 (E) Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20 
 (E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 (E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 (E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
@@ -79,13 +83,18 @@
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
 (E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Vitimin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
@@ -93,6 +102,7 @@
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10   
+(E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to nova +Family Time:10 
 (E) Write contributions code for Wikipedia. Time:60 
