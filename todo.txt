@@ -1,8 +1,9 @@
-(A) Review Aideen Document. 
 (A) Ring Comic Relief about what to do next 
 (A) Write out list from Rob Properly as a statement to trustees
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Write document for solitiors 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 200 pages for exam 
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
@@ -11,6 +12,7 @@
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Measure the garage for architect  Time:16 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
+(C) Promote Speechful podcast. 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
@@ -33,7 +35,6 @@
 (E) Brainstorm being good at Judo @nova Time:10 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
@@ -48,8 +49,6 @@
 (E) Floss +Health Time:05 
 (E) Get monitor in place to Fix teapot.  Time:10
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make card for mother's day +Family Time:15 
 (E) Map Easter egg project  Time:10
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
@@ -84,12 +83,8 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
-(E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Use Face strip +Health @nova Time:10 
@@ -109,3 +104,13 @@
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
+x 2019-03-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-20 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-03-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-03-20 Review Aideen Document. 
+x 2019-03-20 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-03-20 Send Trustees something nice about outcomes +EQT
+x 2019-03-20 TSE +Health Time:04 
+x 2019-03-20 Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
