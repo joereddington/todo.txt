@@ -1,4 +1,4 @@
-(A) Write out list from Rob Properly as a statement to trustees
+x 2019-03-21 Write out list from Rob Properly as a statement to trustees
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
