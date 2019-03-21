@@ -1,21 +1,22 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Check the one voice folio numbers. 
+x 2019-03-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-21 Check the one voice folio numbers. 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Ring Comic Relief about what to do next 
 (A) Write out list from Rob Properly as a statement to trustees
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Write document for solitiors 
+(C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 200 pages for exam 
 (C) Add Cycling to parkrun to the wheel of life
-(E) Put post it note rules on your wall. 
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
 (C) Do your sections for the CommuniKate manaul
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Measure the garage for architect  Time:16 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
+(C) Post about speechful on facebook and create an alert for tiwtter 
 (C) Promote Speechful podcast. 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
@@ -68,6 +69,7 @@
 (E) Post to Sibling Facebook group Time:10 
 (E) Print out picture of the moon for the lounge. Time:10 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
+(E) Put post it note rules on your wall. 
 (E) Put receipts in receipt book. Time:20 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
