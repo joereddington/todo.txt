@@ -1,8 +1,7 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Ring Comic Relief about what to do next 
+(A) Write document for solitiors 
 (A) Write out list from Rob Properly as a statement to trustees
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Write document for solitiors 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 200 pages for exam 
@@ -104,3 +103,4 @@
 (F) Brainstorm proper project review Time:10 
 x 2019-03-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-21 Check the one voice folio numbers. 
+x 2019-03-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
