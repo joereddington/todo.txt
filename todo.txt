@@ -9,6 +9,7 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 200 pages for exam 
 (C) Add Cycling to parkrun to the wheel of life
+(E) Put post it note rules on your wall. 
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
 (C) Do your sections for the CommuniKate manaul
