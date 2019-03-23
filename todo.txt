@@ -1,13 +1,10 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) Get wheet of life from other laptop. 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 200 pages for exam 
+(A) Lock phone away @singleton +Health Time:03
+(C) Read 200 pages of book for exam 
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
 (C) Do your sections for the CommuniKate manaul
+(C) Get wheel of life from other laptop. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
 (C) Measure the garage for architect  Time:16 
@@ -23,7 +20,6 @@
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
 (C) Try content in new Open Voice Factory website +EQT Time:20 
-(C) Wrap up parcel for Camera Jungle
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
 (D) Do full accounts algorithm +EQT Time:99
@@ -36,19 +32,14 @@
 (D) Work out how much clearence you need for the garden gate  Time:10 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) Backup Dreamhost +EQT
-(E) Brainstorm being good at Judo @nova Time:10 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health Time:05 
@@ -121,5 +112,13 @@ x 2019-03-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-03-21 Ring Comic Relief about what to do next 
 x 2019-03-21 Write document for solitiors 
 x 2019-03-21 Write out list from Rob Properly as a statement to trustees
+x 2019-03-23 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-03-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-03-23 Brainstorm being good at Judo @nova Time:10 
+x 2019-03-23 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-03-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-23 Open and log progress on the bid status document +EQT Time:04
+x 2019-03-23 Wrap up parcel for Camera Jungle
