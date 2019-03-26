@@ -1,5 +1,4 @@
 (A) Lock phone away @singleton +Health Time:03
-(C) Print another set of parkrun barcodes for emergencyies. 
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
@@ -10,6 +9,7 @@
 (C) Measure the garage for architect  Time:16 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Post about speechful on facebook and create an alert for tiwtter 
+(C) Print another set of parkrun barcodes for emergencyies. 
 (C) Promote Speechful podcast. 
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
