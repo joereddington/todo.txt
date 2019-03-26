@@ -1,4 +1,5 @@
 (A) Lock phone away @singleton +Health Time:03
+(C) Print another set of parkrun barcodes for emergencyies. 
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
