@@ -1,9 +1,9 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Add Cycling to parkrun to the wheel of life
 (C) Do full accounts algorithm +EQT Time:99 
-(C) Go to B&Q and work out the sizes for 
 (C) Do your sections for the CommuniKate manaul
 (C) Get wheel of life from other laptop. 
+(C) Go to B&Q and work out the sizes for 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
 (C) Measure the garage for architect  Time:16 
@@ -23,9 +23,6 @@
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
-x 2019-03-28 Do full accounts algorithm +EQT Time:99
-x 2019-03-28 Do full accounts algorithm +EQT Time:99
-x 2019-03-28 Do full accounts algorithm +EQT Time:99
 (D) Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Review personal projects in github +personalprojects  Time:30 
@@ -180,5 +177,8 @@ x 2019-03-28 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-28 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-03-28 Ask Francesca about Writers events.  Time:07 
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
 x 2019-03-28 Lock phone away @singleton +Health Time:03
 x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
