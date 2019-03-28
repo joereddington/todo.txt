@@ -123,3 +123,4 @@ x 2019-03-23 Check that everything in the 'in process' box really does have a ta
 x 2019-03-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-23 Open and log progress on the bid status document +EQT Time:04
 x 2019-03-23 Wrap up parcel for Camera Jungle
+(E) Setup secret bin.  
