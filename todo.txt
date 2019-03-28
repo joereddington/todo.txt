@@ -1,14 +1,9 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away @singleton +Health Time:03
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-28 Lock phone away @singleton +Health Time:03
+x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-03-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-03-23 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-03-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Add Cycling to parkrun to the wheel of life
 (C) Ask Francesca about Writers events.  Time:07 
 (C) Do full accounts algorithm +EQT Time:99 
@@ -170,10 +165,15 @@ x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
+x 2019-03-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-21 Check the one voice folio numbers. 
+x 2019-03-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-03-21 Ring Comic Relief about what to do next 
 x 2019-03-21 Write document for solitiors 
 x 2019-03-21 Write out list from Rob Properly as a statement to trustees
+x 2019-03-23 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-03-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-03-23 Brainstorm being good at Judo @nova Time:10 
 x 2019-03-23 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova 
