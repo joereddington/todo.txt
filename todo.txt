@@ -1,6 +1,3 @@
-x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-28 Lock phone away @singleton +Health Time:03
-x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -181,3 +178,6 @@ x 2019-03-23 Check that everything in the 'in process' box really does have a ta
 x 2019-03-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-23 Open and log progress on the bid status document +EQT Time:04
 x 2019-03-23 Wrap up parcel for Camera Jungle
+x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-28 Lock phone away @singleton +Health Time:03
+x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
