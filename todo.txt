@@ -1,5 +1,4 @@
-x 2019-03-28 Add Cycling to parkrun to the wheel of life
-(C) Create the expense folders 
+(C) Open Paypal and take screenshtos for expenses folders 
 (C) Do your sections for the CommuniKate manaul
 (C) Get wheel of life from other laptop. 
 (C) Go to B&Q and work out the sizes for 
@@ -177,6 +176,7 @@ x 2019-03-28 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-28 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-03-28 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-03-28 Add Cycling to parkrun to the wheel of life
 x 2019-03-28 Ask Francesca about Writers events.  Time:07 
 x 2019-03-28 Do full accounts algorithm +EQT Time:99
 x 2019-03-28 Do full accounts algorithm +EQT Time:99
