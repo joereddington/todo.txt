@@ -1,5 +1,5 @@
-(C) Add Cycling to parkrun to the wheel of life
-(C) Do full accounts algorithm +EQT Time:99 
+x 2019-03-28 Add Cycling to parkrun to the wheel of life
+(C) Create the expense folders 
 (C) Do your sections for the CommuniKate manaul
 (C) Get wheel of life from other laptop. 
 (C) Go to B&Q and work out the sizes for 
@@ -22,7 +22,7 @@
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
-(C) z Put up the wikiipedia editing videos 
+(C) z upload youtube videos Time:08  
 (D) Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Review personal projects in github +personalprojects  Time:30 
