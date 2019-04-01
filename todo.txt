@@ -28,6 +28,8 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fix daylight lamp
 (D) Get car cleaned  Time:40  @outside 
+(C) Renew equality time insurance
+(C) Process Halifax statement
 (D) Make backup list of potential trustees and ask them
 (D) Print out some spare parkrun barcodes
 (D) Review personal projects in github +personalprojects  Time:30 
