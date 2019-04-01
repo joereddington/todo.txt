@@ -40,29 +40,29 @@
 (D) Work out how much clearence you need for the garden gate  Time:10 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
-(E) 10 notifications in Facebook @nova @phone Time:01 
-(E) 10 notifications in Facebook @nova @phone Time:01 
-(E) 10 notifications in Facebook @nova @phone Time:01 
-(E) Add two bags to the car for clearning/carring out +EQT Time:06 
-(E) Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06 
 (E) Backup Dreamhost +EQT
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check team cooper visit dates: every two weeks  +Family Time:03 
-(E) Check team cooper visit dates: every two weeks  +Family Time:03 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03 
+x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
-(E) Check the next school time +EQT Time:03 
+x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-04-01 Check the next school time +EQT Time:03 
+x 2019-04-01 Check the next school time +EQT Time:03 
 (E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
@@ -71,9 +71,9 @@
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
-(E) Cut nails +Health @nova  Time:04 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-04-01 Cut nails +Health @nova  Time:04 
+x 2019-04-01 Cut nails +Health @nova  Time:04 
+x 2019-04-01 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Empty crate completely +Overhead @nova  Time:15 
@@ -88,8 +88,8 @@
 (E) Get monitor in place to Fix teapot.  Time:10
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through Walking Meeting with Kat +Family Time:180  
-(E) Go through Walking Meeting with Kat +Family Time:180  
+x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180  
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Map Easter egg project  Time:10
