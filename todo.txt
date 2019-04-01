@@ -1,7 +1,7 @@
-x 2019-04-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
+(D) Print out some spare parkrun barcodes
+(C) April is big for birthdays - send all the cards
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Do your sections for the CommuniKate manaul
 (C) Go to B&Q and work out the sizes for 
@@ -27,6 +27,7 @@ x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
 (C) Write the ironman suit version of our underspend 
 (C) z upload youtube videos Time:08  
 (D) Do full accounts algorithm +EQT Time:99
+(D) Setup Kat's bike for 'launch' 
 (D) Fix daylight lamp
 (D) Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
@@ -230,4 +231,6 @@ x 2019-03-28 Do full accounts algorithm +EQT Time:99
 x 2019-03-28 Do full accounts algorithm +EQT Time:99
 x 2019-03-28 Lock phone away @singleton +Health Time:03
 x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-01 Get wheel of life from other laptop. 
+x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
