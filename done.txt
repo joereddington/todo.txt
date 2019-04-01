@@ -336,3 +336,49 @@ x 2019-04-01 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-04-01 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-01 Get wheel of life from other laptop. 
 x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 10 notifications in Facebook @nova @phone Time:01 
+x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03 
+x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03 
+x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-04-01 Check the next school time +EQT Time:03 
+x 2019-04-01 Check the next school time +EQT Time:03 
+x 2019-04-01 Cut nails +Health @nova  Time:04 
+x 2019-04-01 Cut nails +Health @nova  Time:04 
+x 2019-04-01 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-04-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-04-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-04-01 Log weight +Health  Time:02 
+x 2019-04-01 Log weight +Health  Time:02 
+x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-04-01 Make card for mother's day +Family Time:15 
+x 2019-04-01 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-04-01 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-04-01 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-04-01 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-04-01 Publicly thank someone +Overhead Time:15 
+x 2019-04-01 Publicly thank someone +Overhead Time:15 
+x 2019-04-01 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-04-01 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-04-01 Setup secret bin.  
+x 2019-04-01 Video call with Kat family +Family @nova  Time:15 
+x 2019-04-01 Video call with Kat family +Family @nova  Time:15 
+x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-01 Wash sheets and towels +Family @nova  Time:10 
+x 2019-04-01 Wash sheets and towels +Family @nova  Time:10 
