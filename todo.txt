@@ -4,7 +4,6 @@
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Do your sections for the CommuniKate manaul
-(D) Fix daylight lamp
 (C) Go to B&Q and work out the sizes for 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
@@ -28,6 +27,7 @@
 (C) Write the ironman suit version of our underspend 
 (C) z upload youtube videos Time:08  
 (D) Do full accounts algorithm +EQT Time:99
+(D) Fix daylight lamp
 (D) Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Review personal projects in github +personalprojects  Time:30 
