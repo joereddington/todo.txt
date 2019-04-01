@@ -11,9 +11,11 @@
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Post about speechful on facebook and create an alert for tiwtter 
 (C) Print another set of parkrun barcodes for emergencyies. 
+(C) Process Halifax statement
 (C) Promote Speechful podcast. 
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
+(C) Renew equality time insurance
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
 (C) Send Glasses to Yvonne. 
@@ -28,8 +30,6 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fix daylight lamp
 (D) Get car cleaned  Time:40  @outside 
-(C) Renew equality time insurance
-(C) Process Halifax statement
 (D) Make backup list of potential trustees and ask them
 (D) Print out some spare parkrun barcodes
 (D) Review personal projects in github +personalprojects  Time:30 
