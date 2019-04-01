@@ -305,3 +305,34 @@ x 2019-03-20 TSE +Health Time:04
 x 2019-03-20 Trim nose hair +Health @nova  Time:05 
 x 2019-03-20 Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06 
 x 2019-03-20 Vitimin Tablet +Health @nova  Time:02
+x 2019-03-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-21 Check the one voice folio numbers. 
+x 2019-03-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-03-21 Ring Comic Relief about what to do next 
+x 2019-03-21 Write document for solitiors 
+x 2019-03-21 Write out list from Rob Properly as a statement to trustees
+x 2019-03-23 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-03-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-03-23 Brainstorm being good at Judo @nova Time:10 
+x 2019-03-23 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-03-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-03-23 Open and log progress on the bid status document +EQT Time:04
+x 2019-03-23 Wrap up parcel for Camera Jungle
+x 2019-03-28 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-03-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-28 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-03-28 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-03-28 Add Cycling to parkrun to the wheel of life
+x 2019-03-28 Ask Francesca about Writers events.  Time:07 
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
+x 2019-03-28 Do full accounts algorithm +EQT Time:99
+x 2019-03-28 Lock phone away @singleton +Health Time:03
+x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-01 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-01 Get wheel of life from other laptop. 
+x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
