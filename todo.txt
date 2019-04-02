@@ -1,4 +1,3 @@
-(B) Pay kate 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) April is big for birthdays - send all the cards
@@ -13,6 +12,7 @@
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
+(C) Put all payments into unity 
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Renew equality time insurance
@@ -165,3 +165,4 @@ x 2019-04-02 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-02 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-04-02 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-02 Pay kate 
