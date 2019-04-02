@@ -1,4 +1,3 @@
-x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Pay kate 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -164,4 +163,5 @@ x 2019-04-01 Confirm plans for next two weekends.+Overhead @phone  Time:06
 x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-02 Lock phone away and drink 1L of Water @singleton +Health Time:03
