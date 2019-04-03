@@ -1,5 +1,4 @@
-x 2019-04-03 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) April is big for birthdays - send all the cards
 (C) Fill out membership for communication matters. 
@@ -165,6 +164,7 @@ x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-04-02 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-04-02 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-02 Pay kate 
+x 2019-04-03 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-04-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
