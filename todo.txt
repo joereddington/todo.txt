@@ -1,6 +1,5 @@
 (C) April is big for birthdays - send all the cards
 (C) Fill out membership for communication matters. 
-x 2019-04-03 Go to B&Q and work out the sizes for 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
 (C) Map project for new communicate release 
@@ -174,4 +173,5 @@ x 2019-04-03 Empty crate completely +Overhead @nova  Time:15
 x 2019-04-03 Empty crate completely +Overhead @nova  Time:15 
 x 2019-04-03 Fix daylight lamp
 x 2019-04-03 Floss +Health @nova  Time:05
+x 2019-04-03 Go to B&Q and work out the sizes for 
 x 2019-04-03 Lock phone away and drink 1L of Water @singleton +Health Time:03
