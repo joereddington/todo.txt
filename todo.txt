@@ -30,7 +30,6 @@
 (C) Write the ironman suit version of our underspend 
 (C) z upload youtube videos Time:08  
 (D) Do full accounts algorithm +EQT Time:99
-(D) Fix daylight lamp
 (D) Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
@@ -49,18 +48,12 @@
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Empty crate completely +Overhead @nova  Time:15 
-(E) Empty crate completely +Overhead @nova  Time:15 
-(E) Empty crate completely +Overhead @nova  Time:15 
 (E) Find out about the features in the new OSX 
-(E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
@@ -168,3 +161,10 @@ x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-04-02 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-04-02 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-02 Pay kate 
+x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-04-03 Empty crate completely +Overhead @nova  Time:15 
+x 2019-04-03 Empty crate completely +Overhead @nova  Time:15 
+x 2019-04-03 Fix daylight lamp
+x 2019-04-03 Floss +Health @nova  Time:05
