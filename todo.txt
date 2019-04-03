@@ -1,6 +1,5 @@
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(E) Find out about the features in the new OSX 
 (C) April is big for birthdays - send all the cards
 (C) Do your sections for the CommuniKate manaul
 (C) Fill out membership for communication matters. 
@@ -60,6 +59,7 @@
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Empty crate completely +Overhead @nova  Time:15 
+(E) Find out about the features in the new OSX 
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
