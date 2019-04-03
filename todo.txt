@@ -1,7 +1,6 @@
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) April is big for birthdays - send all the cards
 (C) Fill out membership for communication matters. 
-(C) Go to B&Q and work out the sizes for 
+x 2019-04-03 Go to B&Q and work out the sizes for 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
 (C) Map project for new communicate release 
@@ -167,6 +166,7 @@ x 2019-04-03 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-03 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
