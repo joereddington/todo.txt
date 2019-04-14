@@ -1,12 +1,10 @@
 (A) Make seiten
 (B) Pack for Co-op: amazon return, cheque, batteries 
 (C) Break up bedside table in garage. 
-x 2019-04-14 Get SSD drive for macmini 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-x 2019-04-14 Look into London Luton Airport Ltd - Community Fund (Updated) 
-x 2019-04-14 Map project for new communicate release 
-(C) Measure the garage for architect  Time:16 
 (C) Look at expense claims in 'In Preperation' and move them on.  
+(C) Measure the garage for architect  Time:16 
+(C) Check double payment to amazon - £108. 
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Post about speechful on facebook and create an alert for twitter 
 (C) Post voting form 
@@ -259,10 +257,13 @@ x 2019-04-14 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2019-04-14 Check the next school time +EQT Time:03 
 x 2019-04-14 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-04-14 Email about wedding, confirm date 
+x 2019-04-14 Get SSD drive for macmini 
 x 2019-04-14 Get car cleaned  Time:40  @outside 
 x 2019-04-14 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-14 Log weight +Health  Time:02 
+x 2019-04-14 Look into London Luton Airport Ltd - Community Fund (Updated) 
 x 2019-04-14 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-04-14 Map project for new communicate release 
 x 2019-04-14 Post DS to Richard 
 x 2019-04-14 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-04-14 Publicly thank someone +Overhead Time:15 
