@@ -1,10 +1,14 @@
 (A) 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Make seiten
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(A) Make seiten
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(B) Email about wedding, confirm date 
+(B) Pay in cheque at the post office 
+(C) Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) April is big for birthdays - send all the cards
+(C) Break up bedside table in garage. 
 (C) Fill out membership for communication matters. 
 (C) Get SSD drive for macmini 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
@@ -15,8 +19,6 @@
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Post about speechful on facebook and create an alert for tiwtter 
 (C) Post voting form 
-(D) Arrange tour of amazon. 
-(C) Break up bedside table in garage. 
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
@@ -37,6 +39,7 @@
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
 (C) z upload youtube videos Time:08  
+(D) Arrange tour of amazon. 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
