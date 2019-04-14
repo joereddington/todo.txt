@@ -3,11 +3,10 @@
 (C) Break up bedside table in garage. 
 (C) Check double payment to amazon - £108. 
 (C) Contact Kings and get the dollar amount left in the budget. 
+(C) Get the list of recent camps and add them to the allbooksever file. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look at expense claims in 'In Preperation' and move them on.  
 (C) Measure the garage for architect  Time:16 
-(C) Get the list of recent camps and add them to the allbooksever file. 
-(C) Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 (C) Post about speechful on facebook and create an alert for twitter 
 (C) Post voting form 
 (C) Print another set of parkrun barcodes for emergencyies. 
@@ -21,6 +20,7 @@
 (C) Reply on linkedin to the guy 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
+(C) Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 (C) Send Glasses to Yvonne. 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
