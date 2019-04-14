@@ -1,16 +1,14 @@
 (A) Make seiten
-(B) Pay in cheque at the post office 
-x 2019-04-14 April is big for birthdays - send all the cards
+(B) Pack for Co-op: amazon return, cheque, batteries 
 (C) Break up bedside table in garage. 
-(C) Fill out membership for communication matters. 
-(C) Get SSD drive for macmini 
+x 2019-04-14 Get SSD drive for macmini 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(C) Look into [200~London Luton Airport Ltd - Community Fund (Updated)[201~ 
-(C) Map project for new communicate release 
+x 2019-04-14 Look into London Luton Airport Ltd - Community Fund (Updated) 
+x 2019-04-14 Map project for new communicate release 
 (C) Measure the garage for architect  Time:16 
-(C) Open Paypal and take screenshtos for expenses folders 
+(C) Look at expense claims in 'In Preperation' and move them on.  
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
-(C) Post about speechful on facebook and create an alert for tiwtter 
+(C) Post about speechful on facebook and create an alert for twitter 
 (C) Post voting form 
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
@@ -20,6 +18,7 @@ x 2019-04-14 April is big for birthdays - send all the cards
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Renew equality time insurance
+(C) Reply on linkedin to the guy 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
 (C) Send Glasses to Yvonne. 
@@ -28,7 +27,6 @@ x 2019-04-14 April is big for birthdays - send all the cards
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
 (C) Take dead batteries to the co-op 
-x 2019-04-14 Take photo of office 
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
@@ -38,18 +36,13 @@ x 2019-04-14 Take photo of office
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
-x 2019-04-14 Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
-x 2019-04-14 Post DS to Richard 
 (D) Print out some spare parkrun barcodes
-x 2019-04-14 Put doorbell bracket in 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
-(D) Shoow Kat the budget and balence sheets 
 (D) Setup Kat's bike for 'launch' 
-x 2019-04-14 Update operating system on mac mini
-x 2019-04-14 Work out how much clearence you need for the garden gate  Time:10 
+(D) Shoow Kat the budget and balence sheets 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
@@ -60,30 +53,19 @@ x 2019-04-14 Work out how much clearence you need for the garden gate  Time:10
 (E) Backup Dreamhost +EQT
 (E) Backup Dreamhost +EQT
 (E) Call dentist to book Checkup @car  Time:04 
-x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check ranking scripts +Overhead
 (E) Check team cooper visit dates: every two weeks  +Family Time:03 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
 (E) Check wishlist
 (E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Cut nails +Health @nova  Time:04 
@@ -103,8 +85,6 @@ x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Get monitor in place to Fix teapot.  Time:10
-(E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in dropbox.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
@@ -119,15 +99,14 @@ x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make sure paper crane is in bat@nova @phone  Time:03 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Make workstation spotless +Overhead @nova  
 (E) Map Easter egg project  Time:10
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
+(E) Map project to move teapot to the gargae 
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open and log progress on the bid status document +EQT Time:04
@@ -175,14 +154,10 @@ x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group Time:10 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Print out picture of the moon for the lounge. Time:10 
-(E) Publicly thank someone +Overhead Time:15 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
 (E) Put post it note rules on your wall. 
 (E) Put receipts in receipt book. Time:20 
-(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
-(E) Review (days since) app counts +Overhead @nova @phone 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
@@ -202,29 +177,13 @@ x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health Time:04 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Use Face strip +Health @nova Time:10 
@@ -235,12 +194,10 @@ x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
-(E) Video call with Kat family +Family @nova  Time:15 
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
-(E) Wash sheets and towels +Family @nova  Time:10 
 (E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
@@ -289,5 +246,47 @@ x 2019-04-03 Go to B&Q and work out the sizes for
 x 2019-04-03 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-14 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-04-14 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-14 April is big for birthdays - send all the cards
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-14 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-04-14 Check the next school time +EQT Time:03 
+x 2019-04-14 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-04-14 Email about wedding, confirm date 
+x 2019-04-14 Get car cleaned  Time:40  @outside 
 x 2019-04-14 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-14 Log weight +Health  Time:02 
+x 2019-04-14 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-04-14 Post DS to Richard 
+x 2019-04-14 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-04-14 Publicly thank someone +Overhead Time:15 
+x 2019-04-14 Put doorbell bracket in 
+x 2019-04-14 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-04-14 Review (days since) app counts +Overhead @nova @phone 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-14 Send Trustees something nice about outcomes +EQT
+x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-14 Take photo of office 
+x 2019-04-14 Trim nose hair +Health @nova  Time:05 
+x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-04-14 Update operating system on mac mini
+x 2019-04-14 Video call with Kat family +Family @nova  Time:15 
+x 2019-04-14 Wash sheets and towels +Family @nova  Time:10 
+x 2019-04-14 Work out how much clearence you need for the garden gate  Time:10 
