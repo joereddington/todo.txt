@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Make seiten
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -14,6 +15,8 @@
 (C) Open Quickbooks and review Keele invoicing +EQT Time:10
 (C) Post about speechful on facebook and create an alert for tiwtter 
 (C) Post voting form 
+(D) Arrange tour of amazon. 
+(C) Break up bedside table in garage. 
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
