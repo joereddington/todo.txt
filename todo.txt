@@ -1,12 +1,6 @@
-(A) 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Make seiten
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Email about wedding, confirm date 
 (B) Pay in cheque at the post office 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) April is big for birthdays - send all the cards
+x 2019-04-14 April is big for birthdays - send all the cards
 (C) Break up bedside table in garage. 
 (C) Fill out membership for communication matters. 
 (C) Get SSD drive for macmini 
@@ -34,7 +28,7 @@
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
 (C) Take dead batteries to the co-op 
-(C) Take photo of office 
+x 2019-04-14 Take photo of office 
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (C) Write the ironman suit version of our underspend 
@@ -44,18 +38,18 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
-(D) Get car cleaned  Time:40  @outside 
+x 2019-04-14 Get car cleaned  Time:40  @outside 
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
-(D) Post DS to Richard 
+x 2019-04-14 Post DS to Richard 
 (D) Print out some spare parkrun barcodes
-(D) Put doorbell bracket in 
+x 2019-04-14 Put doorbell bracket in 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
-(D) SHoow Kat the budget and balence sheets 
+(D) Shoow Kat the budget and balence sheets 
 (D) Setup Kat's bike for 'launch' 
-(D) Update operating system on mac mini
-(D) Work out how much clearence you need for the garden gate  Time:10 
+x 2019-04-14 Update operating system on mac mini
+x 2019-04-14 Work out how much clearence you need for the garden gate  Time:10 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
@@ -66,9 +60,9 @@
 (E) Backup Dreamhost +EQT
 (E) Backup Dreamhost +EQT
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
@@ -293,3 +287,7 @@ x 2019-04-03 Fix daylight lamp
 x 2019-04-03 Floss +Health @nova  Time:05
 x 2019-04-03 Go to B&Q and work out the sizes for 
 x 2019-04-03 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-14 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-04-14 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-14 Email about wedding, confirm date 
+x 2019-04-14 Lock phone away and drink 1L of Water @singleton +Health Time:03
