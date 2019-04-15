@@ -82,7 +82,7 @@ x 2019-04-15 Check ranking scripts +Overhead
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Go though documents folder and put everything you want to save in dropbox.
+x 2019-04-15 Go though documents folder and put everything you want to save in dropbox.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
