@@ -1,12 +1,11 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Pack for Co-op: amazon return 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) Get Yvonne address 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in garage. 
 (C) Check double payment to amazon - £108. 
 (C) Contact Kings and get the dollar amount left in the budget. 
+(C) Get Yvonne address 
 (C) Get the list of recent camps and add them to the allbooksever file. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 (C) Look at expense claims in 'In Preperation' and move them on.  
@@ -257,4 +256,5 @@
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
 x 2019-04-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-15 Make seiten
