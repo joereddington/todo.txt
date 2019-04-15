@@ -40,10 +40,6 @@
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
 (D) Shoow Kat the budget and balence sheets 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
@@ -58,11 +54,9 @@ x 2019-04-15 10 Contacts on the contact list
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Cut nails +Health @nova  Time:04 
 (E) Cut nails +Health @nova  Time:04 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Explain overnight stay plans to grandparents
 (E) Find out about the features in the new OSX 
@@ -79,7 +73,6 @@ x 2019-04-15 10 Contacts on the contact list
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
@@ -132,7 +125,14 @@ x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unse
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
+x 2019-04-15 () Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
 x 2019-04-15 2019-04-15 Print another set of parkrun barcodes for emergencyies. 
+x 2019-04-15 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 x 2019-04-15 Try content in new Open Voice Factory website +EQT Time:20 
 x 2019-04-15 Write a letter to Nova +Family Time:10 
 x 2019-04-15 Write a letter to Nova +Family Time:10 
