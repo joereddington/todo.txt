@@ -16,7 +16,6 @@
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
-(C) Put all payments into unity 
 (C) Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
@@ -57,9 +56,6 @@
 (E) Backup Dreamhost +EQT
 (E) Backup Dreamhost +EQT
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check ranking scripts +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -148,7 +144,7 @@
 (E) Post to Sibling Facebook group Time:10 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Print out picture of the moon for the lounge. Time:10 
-(E) Publicly thank someone +Overhead Time:15 
+x 2019-04-15 Publicly thank someone +Overhead Time:15 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
 (E) Put post it note rules on your wall. 
 (E) Put receipts in receipt book. Time:20 
@@ -222,6 +218,9 @@
 x 2019-04-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
 x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-04-15 Check if there are any moonpig cards to send this month +Overhead
 x 2019-04-15 Check team cooper visit dates: every two weeks  +Family Time:03 
 x 2019-04-15 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
@@ -259,6 +258,7 @@ x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
 x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
 x 2019-04-15 Pack for Co-op: amazon return 
 x 2019-04-15 Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20 
+x 2019-04-15 Put all payments into unity 
 x 2019-04-15 Reply on linkedin to the guy 
 x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 x 2019-04-15 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
