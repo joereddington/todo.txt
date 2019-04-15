@@ -1,11 +1,9 @@
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(B) Get £40 cash out for stopsney striders 
 (B) Pack for Co-op: amazon return 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in garage. 
 (C) Check double payment to amazon - £108. 
-(D) Take apart crate 
-(D) Get two containers for the luggage tags and the paper clips
 (C) Contact Kings and get the dollar amount left in the budget. 
 (C) Get Yvonne address 
 (C) Get the list of recent camps and add them to the allbooksever file. 
@@ -41,6 +39,7 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
+(D) Get two containers for the luggage tags and the paper clips
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
 (D) Print out some spare parkrun barcodes
@@ -48,6 +47,7 @@
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
 (D) Shoow Kat the budget and balence sheets 
+(D) Take apart crate 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
