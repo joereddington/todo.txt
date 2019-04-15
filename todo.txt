@@ -12,7 +12,6 @@
 (C) Measure the garage for architect  Time:16 
 (C) Pay dreamhost 
 (C) Post about speechful on facebook and create an alert for twitter 
-(C) Post voting form 
 (C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
@@ -40,7 +39,6 @@
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
 (D) Print out some spare parkrun barcodes
-(D) Restart everything and fix watch update. 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
@@ -55,6 +53,7 @@
 (E) Ask for testimonal from completed fundings
 (E) Backup Dreamhost +EQT
 (E) Backup Dreamhost +EQT
+(E) Brainstrom the last time you changed your mind. 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check ranking scripts +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
@@ -89,9 +88,6 @@
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) If back on sugar then start sugar project +Health
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Make workstation spotless +Overhead @nova  
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
@@ -109,7 +105,6 @@
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
 (E) Put post it note rules on your wall. 
 (E) Put receipts in receipt book. Time:20 
-x 2019-04-15 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
@@ -121,25 +116,15 @@ x 2019-04-15 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
-x 2019-04-15 Review Facebook theory of change
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
-(E) Review starred items in feeds +Overhead
-(E) Review starred items in feeds +Overhead
 (E) Review starred items in feeds +Overhead Time:20 
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
-x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Watch something on the youtube watch list. 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
@@ -150,12 +135,6 @@ x 2019-04-15 Ring up every funder currently funding you and be nice to them and 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Video call with Kat family +Family @nova  Time:15 
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
@@ -208,6 +187,9 @@ x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2019-04-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-15 Log weight +Health  Time:02 
 x 2019-04-15 Look at expense claims in 'In Preperation' and move them on.  
+x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-04-15 Make seiten
 x 2019-04-15 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-04-15 Map Easter egg project  Time:10
@@ -257,11 +239,27 @@ x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-04-15 Post voting form 
 x 2019-04-15 Publicly thank someone +Overhead Time:15 
 x 2019-04-15 Put all payments into unity 
+x 2019-04-15 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 x 2019-04-15 Reply on linkedin to the guy 
+x 2019-04-15 Restart everything and fix watch update. 
+x 2019-04-15 Review Facebook theory of change
+x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 x 2019-04-15 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-15 TSE +Health Time:04 
+x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
 x 2019-04-15 Wash sheets and towels +Family @nova  Time:10 
+x 2019-04-15 Watch something on the youtube watch list. 
 x 2019-04-15 Write the ironman suit version of our underspend 
 x 2019-04-15 z upload youtube videos Time:08  
