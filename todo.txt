@@ -40,10 +40,10 @@
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
 (D) Shoow Kat the budget and balence sheets 
-(E) 10 Contacts on the contact list 
-(E) 10 Contacts on the contact list 
-(E) 10 Contacts on the contact list 
-(E) 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
+x 2019-04-15 10 Contacts on the contact list 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
@@ -79,7 +79,7 @@
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
