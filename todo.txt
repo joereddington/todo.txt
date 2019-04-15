@@ -1,10 +1,9 @@
 (B) Get £40 cash out for stopsney striders - drop off package and do cheque at the same time. 
 (B) Itterate code for Kat 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in garage. 
 (C) Check double payment to amazon - £108. 
-(C) Contact Kings and get the dollar amount left in the budget. 
+x 2019-04-15 Contact Kings and get the dollar amount left in the budget. 
 (C) Get Yvonne address 
 (C) Get the list of recent camps and add them to the allbooksever file. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
@@ -55,7 +54,7 @@
 (E) Backup Dreamhost +EQT
 (E) Brainstrom the last time you changed your mind. 
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check ranking scripts +Overhead
+x 2019-04-15 Check ranking scripts +Overhead
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -68,7 +67,6 @@
 (E) Cut nails +Health @nova  Time:04 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Download the amazon months sales figures +EQT
 (E) Explain overnight stay plans to grandparents
 (E) Find out about the features in the new OSX 
 (E) Find out if slow folder loading appears in the other account 
@@ -86,10 +84,8 @@
 (E) Floss +Health Time:05 
 (E) Go though documents folder and put everything you want to save in dropbox.
 (E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-(E) If back on sugar then start sugar project +Health
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
-(E) Make workstation spotless +Overhead @nova  
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
 (E) Map project to move teapot to the gargae 
 (E) Open list of projects to be funded +EQT
@@ -118,7 +114,6 @@
 (E) Review all projects in github +Overhead Time:40 
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
 (E) Review starred items in feeds +Overhead Time:20 
-(E) Review your highlights and notes from Kindle books +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
@@ -156,6 +151,7 @@
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
 x 2019-04-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-15 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
 x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
 x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
@@ -168,6 +164,7 @@ x 2019-04-15 Check the next school time +EQT Time:03
 x 2019-04-15 Check wishlist
 x 2019-04-15 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-04-15 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-04-15 Download the amazon months sales figures +EQT
 x 2019-04-15 Empty crate completely +Overhead @nova  Time:15 
 x 2019-04-15 Empty crate completely +Overhead @nova  Time:15 
 x 2019-04-15 Empty crate completely +Overhead @nova  Time:15 
@@ -180,6 +177,7 @@ x 2019-04-15 Go through Walking Meeting with Kat +Family Time:180
 x 2019-04-15 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-04-15 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-04-15 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-04-15 If back on sugar then start sugar project +Health
 x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
@@ -192,6 +190,7 @@ x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-04-15 Make seiten
 x 2019-04-15 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-04-15 Make workstation spotless +Overhead @nova  
 x 2019-04-15 Map Easter egg project  Time:10
 x 2019-04-15 Message FB about banking, and tell her she needs to reject one of the 159.99 transactions. 
 x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
@@ -246,6 +245,7 @@ x 2019-04-15 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-04-15 Reply on linkedin to the guy 
 x 2019-04-15 Restart everything and fix watch update. 
 x 2019-04-15 Review Facebook theory of change
+x 2019-04-15 Review your highlights and notes from Kindle books +Overhead
 x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
