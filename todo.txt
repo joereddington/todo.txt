@@ -45,15 +45,15 @@
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
 (D) Shoow Kat the budget and balence sheets 
-(D) Take apart crate 
+(D) Get tools from shed to take apart crate 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 Contacts on the contact list 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) 10 notifications in Facebook @nova @phone Time:01 
-(E) Add two bags to the car for clearning/carring out +EQT Time:06 
-(E) Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
+x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonal from completed fundings
 (E) Backup Dreamhost +EQT
@@ -213,7 +213,6 @@
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
@@ -233,7 +232,6 @@
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
-(E) Wash sheets and towels +Family @nova  Time:10 
 (E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write a letter to Nova +Family Time:10 
 (E) Write a letter to Nova +Family Time:10 
@@ -263,5 +261,7 @@ x 2019-04-15 Message FB about banking, and tell her she needs to reject one of t
 x 2019-04-15 Pack for Co-op: amazon return 
 x 2019-04-15 Reply on linkedin to the guy 
 x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
+x 2019-04-15 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-15 Wash sheets and towels +Family @nova  Time:10 
 x 2019-04-15 Write the ironman suit version of our underspend 
 x 2019-04-15 z upload youtube videos Time:08  
