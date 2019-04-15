@@ -21,10 +21,8 @@
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (C) Renew equality time insurance
-x 2019-04-15 Reply on linkedin to the guy 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
-x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 (C) Send Glasses to Yvonne. 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
@@ -33,8 +31,6 @@ x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to l
 (C) Take dead batteries to the co-op 
 (C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
-x 2019-04-15 Write the ironman suit version of our underspend 
-x 2019-04-15 z upload youtube videos Time:08  
 (D) Arrange tour of amazon. 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
@@ -265,3 +261,7 @@ x 2019-04-15 Look at expense claims in 'In Preperation' and move them on.
 x 2019-04-15 Make seiten
 x 2019-04-15 Message FB about banking, and tell her she needs to reject one of the 159.99 transactions. 
 x 2019-04-15 Pack for Co-op: amazon return 
+x 2019-04-15 Reply on linkedin to the guy 
+x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
+x 2019-04-15 Write the ironman suit version of our underspend 
+x 2019-04-15 z upload youtube videos Time:08  
