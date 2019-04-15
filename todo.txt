@@ -43,6 +43,7 @@
 (D) Make backup list of potential trustees and ask them
 (D) Pick date for board games gathering with kat 
 (D) Print out some spare parkrun barcodes
+(D) Restart everything and fix watch update. 
 (D) Review personal projects in github +personalprojects  Time:30 
 (D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch' 
