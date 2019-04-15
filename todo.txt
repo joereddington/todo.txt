@@ -2,6 +2,7 @@
 (B) Itterate code for Kat 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in garage. 
+(C) Call parents, talk to them. 
 (C) Check double payment to amazon - £108. 
 (C) Get Yvonne address 
 (C) Get the list of recent camps and add them to the allbooksever file. 
@@ -10,7 +11,6 @@
 (C) Measure the garage for architect  Time:16 
 (C) Pay dreamhost 
 (C) Post about speechful on facebook and create an alert for twitter 
-(C) Print another set of parkrun barcodes for emergencyies. 
 (C) Process Halifax statement
 (C) Promote Speechful podcast. 
 (C) Put this in the list of THINGs to apply for https://contentdesign.london/academy/
@@ -25,7 +25,6 @@
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
 (C) Take dead batteries to the co-op 
-(C) Try content in new Open Voice Factory website +EQT Time:20 
 (C) Write and send minutes +EQT  Time:15
 (D) Arrange tour of amazon. 
 (D) Do full accounts algorithm +EQT Time:99
@@ -127,23 +126,25 @@
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Video call with Kat family +Family @nova  Time:15 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10 
-(E) Write a letter to Nova +Family Time:10   
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to nova +Family Time:10 
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
+x 2019-04-15 2019-04-15 Print another set of parkrun barcodes for emergencyies. 
+x 2019-04-15 Try content in new Open Voice Factory website +EQT Time:20 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10 
+x 2019-04-15 Write a letter to Nova +Family Time:10   
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-15 Write a letter to Nova +Family Time:30 
