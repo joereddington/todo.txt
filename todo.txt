@@ -1,10 +1,11 @@
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Itterate code for Kat 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(B) Itterate code for Kat  Time:60 
+(C) 1. Process Email @singleton +Overhead @phone  Time:40 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in @garage.  
 (C) Check double payment to amazon - £108. 
+(C) Create speechless alert on twitter 
 (C) Get Yvonne address 
 (C) Get paying in slip for cheque
 (C) Get the list of recent camps and add them to the allbooksever file. 
@@ -12,9 +13,7 @@
 (C) Map everpad project 
 (C) Measure the garage for architect  Time:16 
 (C) Pay dreamhost 
-(C) Post about speechful on facebook and create an alert for twitter 
 (C) Process Halifax statement
-(C) Promote Speechful podcast. 
 (C) Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
@@ -45,15 +44,12 @@
 (E) Backup Dreamhost +EQT
 (E) Brainstrom the last time you changed your mind. 
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Explain overnight stay plans to grandparents
 (E) Find out about the features in the new OSX 
 (E) Find out if slow folder loading appears in the other account 
-x 2019-04-16 Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
@@ -110,30 +106,13 @@ x 2019-04-16 Floss +Health @nova  Time:05
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
-(E) Video call with Kat family +Family @nova  Time:15 
+(E) Video call with Kat family to explain overnight stay plans to grandparents
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to nova +Family Time:10 
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
-x 2019-04-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-04-16 Ask for testimonial from completed fundings
-x 2019-04-16 Brainstorm proper project review Time:10 
-x 2019-04-16 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-04-16 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone 
-x 2019-04-16 Cut nails +Health @nova  Time:04 
-x 2019-04-16 Cut nails +Health @nova  Time:04 
-x 2019-04-16 Floss +Health @nova  Time:05
-x 2019-04-16 Get tools from shed to take apart crate 
-x 2019-04-16 Get two containers for the luggage tags and the paper clips
-x 2019-04-16 Listen to  Randy Pausch Talk +Overhead @phone 
-x 2019-04-16 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-04-16 Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
-x 2019-04-16 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-16 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x 2019-04-16 Print out some spare parkrun barcodes
+x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-16 Promote Speechful podcast. 
+x 2019-04-16 Video call with Kat family +Family @nova  Time:15 
