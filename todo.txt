@@ -1,7 +1,11 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Itterate code for Kat 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in garage. 
-x 2019-04-16 Call parents, talk to them. 
 (C) Check double payment to amazon - £108. 
 (C) Get Yvonne address 
 (C) Get the list of recent camps and add them to the allbooksever file. 
@@ -30,6 +34,7 @@ x 2019-04-16 Call parents, talk to them.
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
 (D) Get tools from shed to take apart crate 
 (D) Get two containers for the luggage tags and the paper clips
 (D) Get £30 cash out to pay Kat back.
@@ -48,6 +53,7 @@ x 2019-04-16 Call parents, talk to them.
 (E) Backup Dreamhost +EQT
 (E) Brainstrom the last time you changed your mind. 
 (E) Call dentist to book Checkup @car  Time:04 
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -55,8 +61,6 @@ x 2019-04-16 Call parents, talk to them.
 (E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
-(E) Cut nails +Health @nova  Time:04 
-(E) Cut nails +Health @nova  Time:04 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Explain overnight stay plans to grandparents
 (E) Find out about the features in the new OSX 
@@ -68,17 +72,19 @@ x 2019-04-16 Call parents, talk to them.
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
+x 2019-04-16 Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
 (E) Map project to move teapot to the gargae 
+(E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
 (E) Open list of projects to be funded +EQT
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
@@ -104,12 +110,15 @@ x 2019-04-16 Call parents, talk to them.
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
 (E) Review starred items in feeds +Overhead Time:20 
 (E) Review your highlights and notes from Kindle books +Overhead
+(E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
@@ -120,31 +129,14 @@ x 2019-04-16 Call parents, talk to them.
 (E) Use Face strip +Health @nova Time:10 
 (E) Video call with Kat family +Family @nova  Time:15 
 (E) Write a letter to Nova +Family Time:30 
+(E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to nova +Family Time:10 
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 (F) Brainstorm proper project review Time:10 
-x 2019-04-15 () Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 10 Contacts on the contact list 
-x 2019-04-15 2019-04-15 Print another set of parkrun barcodes for emergencyies. 
-x 2019-04-15 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-x 2019-04-15 Try content in new Open Voice Factory website +EQT Time:20 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10 
-x 2019-04-15 Write a letter to Nova +Family Time:10   
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
-x 2019-04-15 Write a letter to Nova +Family Time:30 
+x 2019-04-16 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-16 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-16 Cut nails +Health @nova  Time:04 
+x 2019-04-16 Cut nails +Health @nova  Time:04 
+x 2019-04-16 Floss +Health @nova  Time:05
