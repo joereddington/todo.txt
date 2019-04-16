@@ -1,7 +1,5 @@
-(C) Go and pay in cheque Time:20 
-(C) Get the list of recent camps and add them to the allbooksever file. Time:10 
-(C) Send Glasses to Yvonne. 
-(D) Arrange tour of amazon. 
+x 2019-04-16 Send Glasses to Yvonne. 
+x 2019-04-16 Arrange tour of amazon. Time 
 (D) Do a search for speechless mentions on twitter, save the search.  
 (D) Get £70 cash out to pay Kat back.
 (D) Make backup list of potential trustees and ask them
@@ -57,6 +55,7 @@ x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
 x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06 
 x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
+(C) Get the list of recent camps and add them to the allbooksever file. Time:10 
 (C) Map everpad project  Time:10 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
@@ -80,6 +79,7 @@ x 2019-04-16 Update the youtube watch list +Famil Time:10 @phone @nova
 x 2019-04-16 Video call with Kat family +Family @nova  Time:15 
 (C) Measure the garage for architect  Time:16 
 (C) Read 200 pages of book for exam  Time:180
+(C) Go and pay in cheque Time:20 
 (C) Process Halifax statement Time:20 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
