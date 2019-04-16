@@ -1,10 +1,6 @@
-x 2019-04-16 Send Glasses to Yvonne. 
-x 2019-04-16 Arrange tour of amazon. Time 
-(D) Do a search for speechless mentions on twitter, save the search.  
-(D) Get £70 cash out to pay Kat back.
-(D) Make backup list of potential trustees and ask them
-(D) Pick date for board games gathering with kat 
-(D) Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
+(D) Get £70 cash out to pay Kat back. Time:04
+x 2019-04-16 put board game gathering and kat birthday on meeting list 
+x 2019-04-16 Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 (D) Setup Kat's bike for 'launch'  @garage
 (D) Shoow Kat the budget and balence sheets 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
@@ -26,11 +22,15 @@ x 2019-04-16 Arrange tour of amazon. Time
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Video call with Kat family to explain overnight stay plans to grandparents
+x 2019-04-16 Arrange tour of amazon. Time 
 x 2019-04-16 Check double payment to amazon - £108. 
+x 2019-04-16 Do a search for speechless mentions on twitter, save the search.  
 x 2019-04-16 Get Yvonne address 
+x 2019-04-16 Make backup list of potential trustees and ask them
 x 2019-04-16 Promote Speechful podcast. 
 x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 x 2019-04-16 Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment. 
+x 2019-04-16 Send Glasses to Yvonne. 
 x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-16 Save a nice family memory +Family @phone @nova  Time:03 
