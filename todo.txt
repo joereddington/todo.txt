@@ -65,7 +65,7 @@
 (E) Review all projects in github +Overhead Time:40 
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
 (E) Review starred items in feeds +Overhead Time:20 
-(E) Review your highlights and notes from Kindle books +Overhead
+x 2019-04-16 Review your highlights and notes from Kindle books +Overhead
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
