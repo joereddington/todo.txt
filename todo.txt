@@ -1,95 +1,95 @@
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(B) Itterate code for Kat  Time:60 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Break up bedside table in @garage.  Time:15 
+(C) Check experiation for  equality time insurance Time:04 
+(C) Get the list of recent camps and add them to the allbooksever file. Time:10 
+(C) Go and pay in cheque Time:20 
+(C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
+(C) Map everpad project  Time:10 
+(C) Measure the @garage for architect  Time:16  
+(C) Pay dreamhost Time:06 
+(C) Process Halifax statement Time:20 
+(C) Read 200 pages of book for exam  Time:180
+(C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
+(C) Review and rewrite house improvement spreadsheet +Family Time:15 
+(C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
+(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
+(C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
+(C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
+(C) Write and send minutes +EQT  Time:15
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Get £70 cash out to pay Kat back. Time:04
+(D) Review personal projects in github +personalprojects  Time:30 
+(D) Setup Kat's bike for 'launch'  @garage Time:05 
+(E) Backup Dreamhost +EQT Time:05 
+(E) Call dentist to book Checkup @car  Time:04 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Find out about the features in the new OSX 
 (E) Find out if slow folder loading appears in the other account 
 (E) Finish the blog post about TV habits Time:20
-(E) Open list of projects to be funded +EQT Time:03 
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10  
+(E) Map project to move teapot to the gargae Time:10
 (E) Open list of projects to be funded +EQT
+(E) Open list of projects to be funded +EQT Time:03 
 (E) Pick the next book you are reading. 
-x 2019-04-16 Put post it note rules on your wall. 
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Print out picture of the moon for the lounge. Time:10 
+(E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
+(E) Put receipts in receipt book. Time:20 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
+(E) Review starred items in feeds +Overhead Time:20 
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) Take batteries to co-op Time:10 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
+(E) Use Face strip +Health @nova Time:10 
 (E) Video call with Kat family to explain overnight stay plans to grandparents
+(E) Write a letter to Nova +Family Time:30 
+(E) Write a letter to Nova +Family Time:30 
+(E) Write a letter to nova +Family Time:10 
+(E) Write contributions code for Wikipedia. Time:60 
+(E) Write script that produces list of 'detection' files Time:40 
+(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
 x 2019-04-16 Brainstrom the last time you changed your mind. 
 x 2019-04-16 Make interupt post-it 
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(D) Get £70 cash out to pay Kat back. Time:04
-(C) Check experiation for  equality time insurance Time:04 
-(E) Call dentist to book Checkup @car  Time:04 
-(E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(D) Setup Kat's bike for 'launch'  @garage Time:05 
-(E) Backup Dreamhost +EQT Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Trim nose hair +Health @nova  Time:05 
-(C) Pay dreamhost Time:06 
-(E) Map project to move teapot to the gargae Time:10
-(E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
-(C) Get the list of recent camps and add them to the allbooksever file. Time:10 
-(C) Map everpad project  Time:10 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Print out picture of the moon for the lounge. Time:10 
-(E) Take batteries to co-op Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Use Face strip +Health @nova Time:10 
-(E) Write a letter to nova +Family Time:10 
-(E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10  
-(C) Write and send minutes +EQT  Time:15
-(C) Break up bedside table in @garage.  Time:15 
-(C) Review and rewrite house improvement spreadsheet +Family Time:15 
-(C) Measure the @garage for architect  Time:16  
-(C) Read 200 pages of book for exam  Time:180
-(C) Go and pay in cheque Time:20 
-(C) Process Halifax statement Time:20 
-(C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
-(E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Put receipts in receipt book. Time:20 
-(E) Review starred items in feeds +Overhead Time:20 
-(D) Review personal projects in github +personalprojects  Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Write script that produces list of 'detection' files Time:40 
-(C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Itterate code for Kat  Time:60 
-(C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
-(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
-(C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
-(C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
-(E) Write contributions code for Wikipedia. Time:60 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
+x 2019-04-16 Put post it note rules on your wall. 
