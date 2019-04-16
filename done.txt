@@ -648,3 +648,8 @@ x 2019-04-16 Put post it note rules on your wall.
 x 2019-04-16 Trim nose hair +Health @nova  Time:05 
 x 2019-04-16 Use Face strip +Health @nova Time:10 
 x 2019-04-16 Use Face strip +Health @nova Time:10 
+x 2019-04-16 Open list of projects to be funded +EQT
+x 2019-04-16 Find out about the features in the new OSX 
+x 2019-04-16 Review your highlights and notes from Kindle books +Overhead
+x 2019-04-16 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-16 Pick the next book you are reading.  Time:03 
