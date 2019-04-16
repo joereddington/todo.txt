@@ -1,9 +1,5 @@
-(D) Get £70 cash out to pay Kat back. Time:04
-x 2019-04-16 put board game gathering and kat birthday on meeting list 
-x 2019-04-16 Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
-(D) Setup Kat's bike for 'launch'  @garage
-(D) Shoow Kat the budget and balence sheets 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-04-16 Shoow Kat the budget and balance sheets 
+x 2019-04-16 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask Co-op if they can take batteries 
 (E) Backup Dreamhost +EQT
 (E) Brainstrom the last time you changed your mind. 
@@ -30,10 +26,13 @@ x 2019-04-16 Make backup list of potential trustees and ask them
 x 2019-04-16 Promote Speechful podcast. 
 x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 x 2019-04-16 Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment. 
+x 2019-04-16 Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall. 
 x 2019-04-16 Send Glasses to Yvonne. 
+x 2019-04-16 put board game gathering and kat birthday on meeting list 
 x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-16 Save a nice family memory +Family @phone @nova  Time:03 
+(D) Get £70 cash out to pay Kat back. Time:04
 (C) Check experiation for  equality time insurance Time:04 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
@@ -43,6 +42,7 @@ x 2019-04-16 Save a nice family memory +Family @phone @nova  Time:03
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
+(D) Setup Kat's bike for 'launch'  @garage Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
