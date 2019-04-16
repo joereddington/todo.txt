@@ -1,23 +1,18 @@
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Itterate code for Kat  Time:60 
-x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in @garage.  Time:15 
-(C) Check double payment to amazon - £108. 
-(C) Create speechless alert on twitter 
-(C) Get Yvonne address 
 (C) Get paying in slip for cheque
 (C) Get the list of recent camps and add them to the allbooksever file. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(C) Map everpad project 
+(C) Map everpad project  Time:10 
 (C) Measure the garage for architect  Time:16 
-(C) Pay dreamhost 
-(C) Process Halifax statement
-(C) Put this in the list of THINGs to apply for https://contentdesign.london/academy/
+(C) Pay dreamhost Time:06 
+(C) Process Halifax statement Time:20 
 (C) Read 200 pages of book for exam 
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
-(C) Renew equality time insurance
+(C) Check experiation for  equality time insurance Time:04 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
 (C) Send Glasses to Yvonne. 
@@ -27,6 +22,7 @@ x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40
 (C) Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
 (C) Write and send minutes +EQT  Time:15
 (D) Arrange tour of amazon. 
+(D) Do a search for speechless mentions on twitter, save the search.  
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
@@ -113,6 +109,10 @@ x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
+x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40 
 x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-16 Check double payment to amazon - £108. 
+x 2019-04-16 Get Yvonne address 
 x 2019-04-16 Promote Speechful podcast. 
+x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 x 2019-04-16 Video call with Kat family +Family @nova  Time:15 
