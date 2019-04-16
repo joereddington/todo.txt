@@ -26,7 +26,6 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Get £70 cash out to pay Kat back. Time:04
 (D) Review personal projects in github +personalprojects  Time:30 
-(D) Setup Kat's bike for 'launch'  @garage Time:05 
 (E) Backup Dreamhost +EQT Time:05 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
@@ -86,10 +85,3 @@
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
-x 2019-04-16 Brainstrom the last time you changed your mind. 
-x 2019-04-16 Floss +Health @nova  Time:05
-x 2019-04-16 Make interupt post-it 
-x 2019-04-16 Put post it note rules on your wall. 
-x 2019-04-16 Trim nose hair +Health @nova  Time:05 
-x 2019-04-16 Use Face strip +Health @nova Time:10 
-x 2019-04-16 Use Face strip +Health @nova Time:10 
