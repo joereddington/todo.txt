@@ -1,18 +1,18 @@
-x 2019-04-16 Brainstrom the last time you changed your mind. 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Find out about the features in the new OSX 
 (E) Find out if slow folder loading appears in the other account 
-(E) Finish the blog post about TV habits 
-(E) Open list of projects to be funded +EQT
+(E) Finish the blog post about TV habits Time:20
+(E) Open list of projects to be funded +EQT Time:03 
 (E) Open list of projects to be funded +EQT
 (E) Pick the next book you are reading. 
-(E) Put post it note rules on your wall. 
+x 2019-04-16 Put post it note rules on your wall. 
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Video call with Kat family to explain overnight stay plans to grandparents
+x 2019-04-16 Brainstrom the last time you changed your mind. 
 x 2019-04-16 Make interupt post-it 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (D) Get £70 cash out to pay Kat back. Time:04
