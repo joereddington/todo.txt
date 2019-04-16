@@ -1,9 +1,10 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Itterate code for Kat 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Get paying in slip for cheque
 (C) Break up bedside table in garage. 
 (C) Check double payment to amazon - £108. 
 (C) Get Yvonne address 
@@ -57,7 +58,6 @@
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
 (E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -75,7 +75,7 @@ x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
 (E) Floss +Health Time:05 
-(E) Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
+x 2019-04-16 Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 (E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10 
 (E) Map project to move teapot to the gargae 
 (E) Open list of projects to be funded +EQT
@@ -132,6 +132,7 @@ x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone
 x 2019-04-16 Brainstorm proper project review Time:10 
 x 2019-04-16 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-04-16 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone 
 x 2019-04-16 Cut nails +Health @nova  Time:04 
 x 2019-04-16 Cut nails +Health @nova  Time:04 
 x 2019-04-16 Floss +Health @nova  Time:05
