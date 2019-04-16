@@ -3,6 +3,7 @@
 (B) Itterate code for Kat  Time:60 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in @garage.  Time:15 
+(C) Check experiation for  equality time insurance Time:04 
 (C) Get paying in slip for cheque
 (C) Get the list of recent camps and add them to the allbooksever file. 
 (C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
@@ -10,11 +11,9 @@
 (C) Measure the garage for architect  Time:16 
 (C) Pay dreamhost Time:06 
 (C) Process Halifax statement Time:20 
-(C) Read 200 pages of book for exam 
+(C) Read 200 pages of book for exam  Time:180
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
-(C) Check experiation for  equality time insurance Time:04 
 (C) Review and rewrite house improvement spreadsheet +Family Time:15 
-(C) Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.  Time:20 
 (C) Send Glasses to Yvonne. 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
@@ -42,7 +41,7 @@
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Create spreadsheet from [200~https://www.netflix.com/viewingactivity[201~
+(E) Finish the blog post about TV habits 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Find out about the features in the new OSX 
 (E) Find out if slow folder loading appears in the other account 
@@ -92,7 +91,7 @@
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-04-16 Update the youtube watch list +Famil Time:10 @phone @nova
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
 (E) Use Face strip +Health @nova Time:10 
@@ -115,4 +114,5 @@ x 2019-04-16 Check double payment to amazon - £108.
 x 2019-04-16 Get Yvonne address 
 x 2019-04-16 Promote Speechful podcast. 
 x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
+x 2019-04-16 Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment. 
 x 2019-04-16 Video call with Kat family +Family @nova  Time:15 
