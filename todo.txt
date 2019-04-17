@@ -1,57 +1,52 @@
-(C) Read 200 pages of book for exam  Time:180
-(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
-(C) Write and send minutes +EQT  Time:15
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Get £70 cash out to pay Kat back. Time:04
-(D) Review personal projects in github +personalprojects  Time:30 
-(E) Backup Dreamhost +EQT Time:05 
-(E) Buy flowers for mum 
+(D) Get £70 cash out (and take batteries) to pay Kat back. Time:04
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Choose a set of photos to get printed at Snapfish.  Time:20 
-(E) Find out if slow folder loading appears in the other account  Time:10
-(E) Finish the blog post about TV habits Time:20
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Floss +Health Time:05 
-(E) Map project on transfering joe.reddington to a properly separate hosting system.  Time:10  
-(E) Map project to move teapot to the gargae Time:10
-(E) Open list of projects to be funded +EQT Time:03 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Print out picture of the moon for the lounge. Time:10 
 (E) Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
-(E) Put receipts in receipt book. Time:20 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
-(E) Review all projects in github +Overhead Time:40 
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Floss +Health @nova  Time:05
+(E) Backup Dreamhost +EQT Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Floss +Health Time:05 
+(E) Find out if slow folder loading appears in the other account  Time:10
+(E) Map project to move teapot to the gargae Time:10
 (E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
-(E) Review starred items in feeds +Overhead Time:20 
-(E) Search for funding for eQuality Time Projects +EQT Time:50 
-(E) Search for funding for eQuality Time Projects +EQT Time:50 
-(E) Search for funding for eQuality Time Projects +EQT Time:50 
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Print out picture of the moon for the lounge. Time:10 
 (E) Take batteries to co-op Time:10 
+(E) Write a letter to nova +Family Time:10 
+(C) Write and send minutes +EQT  Time:15
+(C) Read 200 pages of book for exam  Time:180
+(E) Finish the blog post about TV habits Time:20
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Choose a set of photos to get printed at Snapfish.  Time:20 
+(E) Put receipts in receipt book. Time:20 
+(E) Review starred items in feeds +Overhead Time:20 
 (E) Video call with Kat family to explain overnight stay plans to grandparents Time:30 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to nova +Family Time:10 
-(E) Write contributions code for Wikipedia. Time:60 
-(E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Review all projects in github +Overhead Time:40 
+(E) Write script that produces list of 'detection' files Time:40 
+(E) Search for funding for eQuality Time Projects +EQT Time:50 
+(E) Search for funding for eQuality Time Projects +EQT Time:50 
+(E) Search for funding for eQuality Time Projects +EQT Time:50 
+(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
+(E) Write contributions code for Wikipedia. Time:60 
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do full accounts algorithm +EQT Time:99

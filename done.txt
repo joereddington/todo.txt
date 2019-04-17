@@ -674,3 +674,7 @@ x 2019-04-17 Review and rewrite house improvement spreadsheet +Family Time:15
 x 2019-04-17 Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 x 2019-04-17 Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
 x 2019-04-17 Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60 
+x 2019-04-17 Map project on transfering joe.reddington to a properly separate hosting system.  Time:10  
+x 2019-04-17 Open list of projects to be funded +EQT Time:03 
+x 2019-04-17 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-04-17 Review personal projects in github +personalprojects  Time:30 
