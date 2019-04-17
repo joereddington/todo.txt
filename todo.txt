@@ -6,7 +6,7 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
-(D) Get £70 cash out (and take batteries) to pay Kat back. Time:04
+x 2019-04-17 Get £70 cash out (and take batteries) to pay Kat back. Time:04
 (E) Backup Dreamhost +EQT Time:05 
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
