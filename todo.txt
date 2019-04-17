@@ -1,13 +1,5 @@
-(C) Get the list of recent camps and add them to the allbooksever file. Time:10 
-(C) Go and pay in cheque Time:20 
-(C) Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
-(C) Map everpad project  Time:10 
-(C) Measure the @garage for architect  Time:16  
-(C) Pay dreamhost Time:06 
-(C) Process Halifax statement Time:20 
 (C) Read 200 pages of book for exam  Time:180
 (C) Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20 
-(C) Review and rewrite house improvement spreadsheet +Family Time:15 
 (C) Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60 
 (C) Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60 
@@ -27,7 +19,7 @@
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:03 
 (E) Find out if slow folder loading appears in the other account  Time:10
 (E) Finish the blog post about TV habits Time:20
-(E) Floss +Health @nova  Time:05
+x 2019-04-17 Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05
@@ -74,5 +66,13 @@ x 2019-04-17 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-04-17 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-17 Break up bedside table in @garage.  Time:15 
 x 2019-04-17 Check experiation for  equality time insurance Time:04 
+x 2019-04-17 Get the list of recent camps and add them to the allbooksever file. Time:10 
+x 2019-04-17 Go and pay in cheque Time:20 
+x 2019-04-17 Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 x 2019-04-17 Itterate code for Kat  Time:60 
 x 2019-04-17 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-17 Map everpad project  Time:10 
+x 2019-04-17 Measure the @garage for architect  Time:16  
+x 2019-04-17 Pay dreamhost Time:06 
+x 2019-04-17 Process Halifax statement Time:20 
+x 2019-04-17 Review and rewrite house improvement spreadsheet +Family Time:15 
