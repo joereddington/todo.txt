@@ -1,5 +1,10 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Itterate code for Kat  Time:60 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Break up bedside table in @garage.  Time:15 
 (C) Check experiation for  equality time insurance Time:04 
