@@ -13,11 +13,11 @@
 (D) Do full accounts algorithm +EQT Time:99
 (E) Backup Dreamhost +EQT Time:05 
 (E) Call dentist to book Checkup @car  Time:04 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(D) 1. Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Find out if slow folder loading appears in the other account  Time:10
 (E) Finish the blog post about TV habits Time:20
 (E) Map project to move teapot to the gargae Time:10
-(E) Put receipts in receipt book. Time:20 
+(D) 1. Put receipts in receipt book. Time:20 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
