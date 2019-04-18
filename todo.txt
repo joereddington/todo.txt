@@ -1,4 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-18 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -37,7 +37,7 @@
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
-(E) Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
+x 2019-04-18 Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
 (E) Review starred items in feeds +Overhead Time:20 
 (E) Search for funding for eQuality Time Projects +EQT Time:50 
 (E) Search for funding for eQuality Time Projects +EQT Time:50 
