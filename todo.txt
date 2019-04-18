@@ -1,5 +1,4 @@
 (A) Iterate Kat code 
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Mark the tasks you can do live (it's review github) account and start streaming +EQT @singleton Time:99
@@ -17,7 +16,6 @@
 (E) Call dentist to book Checkup @car  Time:04 
 (E) Find out if slow folder loading appears in the other account  Time:10
 (E) Finish the blog post about TV habits Time:20
-(E) Map project to move teapot to the gargae Time:10
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
 (E) Review all projects in github +Overhead Time:40 
@@ -39,16 +37,4 @@
 (E) Write contributions code for Wikipedia. Time:60 
 (E) Write script that produces list of 'detection' files Time:40 
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35 
-x 2019-04-17 Get £70 cash out (and take batteries) to pay Kat back. Time:04
-x 2019-04-17 Print out picture of the moon for the lounge. Time:10 
-x 2019-04-17 Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04 
-x 2019-04-18 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-04-18 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-04-18 Choose a set of photos to get printed at Snapfish.  Time:20 
-x 2019-04-18 Floss +Health @nova  Time:05
-x 2019-04-18 Review funding bids you were refused for last year and see if you can still apply +EQT Time:10
-x 2019-04-18 Review starred items in feeds +Overhead Time:20 
-x 2019-04-18 Send something to the grandparent facebook group 
-x 2019-04-18 Take batteries to co-op Time:10 
-x 2019-04-18 Video call with Kat family to explain overnight stay plans to grandparents Time:30 
-x 2019-04-18 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-18 Lock phone away and drink 1L of Water @singleton +Health Time:03
