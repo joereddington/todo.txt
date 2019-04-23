@@ -16,6 +16,7 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
+(D) Wikipedia page for Dhiraj Mukherjee
 (E) 10 Contacts on the contact list 
 (E) 10 notifications in Facebook @nova @phone Time:01 
 (E) Add two bags to the car for clearning/carring out +EQT Time:06 
