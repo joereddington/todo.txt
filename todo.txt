@@ -23,6 +23,7 @@
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Finish the blog post about TV habits Time:20
 (E) Floss +Health @nova  Time:05
+(E) Get football for nova
 (E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10
 (E) Search for funding for eQuality Time Projects +EQT Time:50
@@ -37,4 +38,3 @@
 (E) Write contributions code for Wikipedia. Time:60
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-(E) Get football for nova
