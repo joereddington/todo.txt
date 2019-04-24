@@ -1,5 +1,6 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Fix second buisness payment reminder on amazon.
+(A) Message Kate about CM 
+(C) Delete [200~NO[201~ sound video on youtube 
 (C) Read 200 pages of book for exam  Time:180
 (C) Record happy birthday video for Archie 😀 due:2019-04-29
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
@@ -11,27 +12,23 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
+(D) Email Rob with [200~thank you[201~gies 
 (D) Wikipedia page for Dhiraj Mukherjee
+(D) Write recycling project post on facebook
+(E) Add slides to public/68 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06
 (E) Cut nails +Health @nova  Time:04
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Finish the blog post about TV habits Time:20
 (E) Floss +Health @nova  Time:05
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 (E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10
-(E) Review all projects in github +Overhead Time:
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
-(E) Trim nose hair +Health @nova  Time:05
 (E) Wash sheets and towels +Family @nova  Time:10
 (E) Write a letter to Nova +Family Time:30
 (E) Write a letter to Nova +Family Time:30
@@ -55,3 +52,11 @@ x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
 x 2019-04-24 (E) Publicly thank someone +Overhead Time:15
 x 2019-04-24 (E) Video call with Kat family +Family @nova  Time:15
 x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
+x 2019-04-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-24 Confirm plans for next two weekends.+Overhead @phone  Time:06
+x 2019-04-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
+x 2019-04-24 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
+x 2019-04-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
+x 2019-04-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
+x 2019-04-24 Review all projects in github +Overhead Time:
+x 2019-04-24 Trim nose hair +Health @nova  Time:05
