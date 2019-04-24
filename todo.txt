@@ -1,10 +1,15 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-04-24 (A) Iterate Kat code
+(A) Fix second buisness payment reminder on amazon.
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60
+(B) Work out what happened with richard’s expenses.
+(C) Put Lizzie in diary.
 (C) Read 200 pages of book for exam  Time:180
+(C) Record happy birthday video for Archie 😀 due:2019-04-29
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
 (C) Write and send minutes +EQT  Time:15
+(C) find out about Enterprise Development Programme -  Enterprise Grants (Updated)
+(C) find out about Road Safety Trust (Updated)
 (D) 1. Check the 'to put in Evernote' folder and add to database +Overhead Time:10
 (D) 1. Put receipts in receipt book. Time:20
 (D) Do full accounts algorithm +EQT Time:99
@@ -26,7 +31,6 @@ x 2019-04-24 (A) Iterate Kat code
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Finish the blog post about TV habits Time:20
 (E) Floss +Health @nova  Time:05
-x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
@@ -34,15 +38,12 @@ x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 (E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10
-x 2019-04-24 (E) Publicly thank someone +Overhead Time:15
 (E) Review all projects in github +Overhead Time:
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Trim nose hair +Health @nova  Time:05
-x 2019-04-24 (E) Video call with Kat family +Family @nova  Time:15
-x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Wash sheets and towels +Family @nova  Time:10
 (E) Write a letter to Nova +Family Time:30
 (E) Write a letter to Nova +Family Time:30
@@ -51,11 +52,10 @@ x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Write contributions code for Wikipedia. Time:60
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-(C) find out about Enterprise Development Programme -  Enterprise Grants (Updated)
-(C) find out about Road Safety Trust (Updated)
-(C) Record happy birthday video for Archie 😀 due:2019-04-29
-(B) Work out what happened with richard’s expenses.
-(A) Fix second buisness payment reminder on amazon.
 Find out about assembly
-(C) Put Lizzie in diary.
 Get football for nova
+x 2019-04-24 (A) Iterate Kat code
+x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
+x 2019-04-24 (E) Publicly thank someone +Overhead Time:15
+x 2019-04-24 (E) Video call with Kat family +Family @nova  Time:15
+x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
