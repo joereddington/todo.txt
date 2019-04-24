@@ -37,26 +37,4 @@
 (E) Write contributions code for Wikipedia. Time:60
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-Find out about assembly
-Get football for nova
-x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-x (B) 1. Exercise @singleton +Exercise @nova  Time:60
-x (B) Work out what happened with richard’s expenses.
-x (C) Put Lizzie in diary.
-x (C) find out about Enterprise Development Programme -  Enterprise Grants (Updated)
-x (C) find out about Road Safety Trust (Updated)
-x (D) 1. Put receipts in receipt book. Time:20
-x (E) 10 Contacts on the contact list
-x 2019-04-24 (A) Iterate Kat code
-x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
-x 2019-04-24 (E) Publicly thank someone +Overhead Time:15
-x 2019-04-24 (E) Video call with Kat family +Family @nova  Time:15
-x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
-x 2019-04-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-04-24 Confirm plans for next two weekends.+Overhead @phone  Time:06
-x 2019-04-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-24 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
-x 2019-04-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
-x 2019-04-24 Review all projects in github +Overhead Time:
-x 2019-04-24 Trim nose hair +Health @nova  Time:05
+(E) Get football for nova
