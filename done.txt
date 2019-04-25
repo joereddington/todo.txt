@@ -750,3 +750,19 @@ x 2019-04-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
 x 2019-04-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 x 2019-04-24 Review all projects in github +Overhead Time:
 x 2019-04-24 Trim nose hair +Health @nova  Time:05
+x (A) Fix second buisness payment reminder on amazon.
+x (E) Cut nails +Health @nova  Time:04
+x 2019-04-25 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-04-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-25 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-25 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-04-25 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-25 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-25 Delete [200~NO[201~ sound video on youtube 
+x 2019-04-25 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-25 Message Kate about CM 
+x 2019-04-25 Post to WWW facebook page +EQT @nova @phone  Time:10
+x 2019-04-25 Send something to the grandparent facebook group 
+x 2019-04-25 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-04-25 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-25 Write Paper for CM 

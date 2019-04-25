@@ -1,17 +1,8 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) Message Kate about CM 
-(A) Write Paper for CM 
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Check Flowers for Turing with mum. 
 (C) Check for next months birthday cards 
-(C) Delete [200~NO[201~ sound video on youtube 
 (C) Phone up about screen repair
 (C) Read 200 pages of book for exam  Time:180
 (C) Record happy birthday video for Archie 😀 due:2019-04-29
-(C) Send something to the grandparent facebook group 
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
 (C) Write and send minutes +EQT  Time:15
 (D) Ask Kat about Blackout curtains 
@@ -31,8 +22,6 @@
 (E) Add slides to public/68 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -47,15 +36,12 @@
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 (E) Post to Sibling Facebook group @nova @phone  Time:06
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-04-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Vitimin Tablet +Health @nova  Time:02
 (E) Wash sheets and towels +Family @nova  Time:10
 (E) Write a letter to Nova +Family Time:30
 (E) Write a letter to Nova +Family Time:30
@@ -66,5 +52,3 @@
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-x (A) Fix second buisness payment reminder on amazon.
-x (E) Cut nails +Health @nova  Time:04
