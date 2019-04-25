@@ -24,20 +24,13 @@
 (E) Call dentist to book Checkup @car  Time:04
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Finish the blog post about TV habits Time:20
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
 (E) Get football for nova
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2019-04-25 Open and log progress on the bid status document +EQT Time:04
 (E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-04-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
