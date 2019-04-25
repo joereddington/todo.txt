@@ -1,27 +1,30 @@
-(A) Fix second buisness payment reminder on amazon.
 (A) Message Kate about CM 
+(A) Write Paper for CM 
+(C) Check Flowers for Turing with mum. 
+(C) Check for next months birthday cards 
 (C) Delete [200~NO[201~ sound video on youtube 
+(C) Phone up about screen repair
 (C) Read 200 pages of book for exam  Time:180
 (C) Record happy birthday video for Archie 😀 due:2019-04-29
 (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
 (C) Write and send minutes +EQT  Time:15
+(D) Ask Kat about Blackout curtains 
 (D) Buy a paper folder adn reciept book for paperwork. 
 (D) Do full accounts algorithm +EQT Time:99
-(C) Check Flowers for Turing with mum. 
-(D) Put up the upwork architecture post with measurements 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Email Rob with [200~thank you[201~gies 
+(D) Find pictures for Nova's first 20 words 
+(D) Put up the upwork architecture post with measurements 
 (D) Wikipedia page for Dhiraj Mukherjee
 (D) Write recycling project post on facebook
 (E) Add slides to public/68 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
-(E) Cut nails +Health @nova  Time:04
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Finish the blog post about TV habits Time:20
 (E) Floss +Health @nova  Time:05
@@ -38,5 +41,8 @@
 (E) Write a letter to Nova +Family Time:30
 (E) Write a letter to nova +Family Time:10
 (E) Write contributions code for Wikipedia. Time:60
+(E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
+x (A) Fix second buisness payment reminder on amazon.
+x (E) Cut nails +Health @nova  Time:04
