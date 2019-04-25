@@ -7,6 +7,8 @@
 (C) Write and send minutes +EQT  Time:15
 (D) Buy a paper folder adn reciept book for paperwork. 
 (D) Do full accounts algorithm +EQT Time:99
+(C) Check Flowers for Turing with mum. 
+(D) Put up the upwork architecture post with measurements 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
