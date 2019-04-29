@@ -771,3 +771,8 @@ x 2019-04-25 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead T
 x 2019-04-25 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-04-25 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 x 2019-04-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-04-25 Add slides to public/68 
+x 2019-04-25 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-25 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
+x 2019-04-25 Open and log progress on the bid status document +EQT Time:04
+x 2019-04-25 Save a nice family memory +Family @phone @nova  Time:03 
