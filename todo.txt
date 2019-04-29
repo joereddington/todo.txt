@@ -22,6 +22,8 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Email Rob with [200~thank you[201~gies 
 (D) Find pictures for Nova's first 20 words 
+(D) Get Airconditioner
+(D) Put themral camera on Amazon. 
 (D) Put up the upwork architecture post with measurements 
 (D) Wikipedia page for Dhiraj Mukherjee
 (D) Write recycling project post on facebook
@@ -88,5 +90,3 @@
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-(D) Get Airconditioner
-(D) Put themral camera on Amazon. 
