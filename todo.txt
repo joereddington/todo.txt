@@ -1,15 +1,16 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Upload Wikipedia Video 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+x (B) Upload Wikipedia Video 
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Check Flowers for Turing with mum. 
-(C) Check for next months birthday cards 
-(C) Phone up about screen repair
+x (C) Check for next months birthday cards 
+x (C) Phone up about screen repair
 (C) Read 200 pages of book for exam  Time:180
-(C) Record happy birthday video for Archie 😀 due:2019-04-29
-(C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
-(C) Write and send minutes +EQT  Time:15
+x (C) Record happy birthday video for Archie 😀 due:2019-04-29
+x (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
+x (C) Write and send minutes +EQT  Time:15
 (D) Ask Kat about Blackout curtains 
 (D) Buy a paper folder adn reciept book for paperwork. 
 (D) Do full accounts algorithm +EQT Time:99
