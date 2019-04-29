@@ -20,14 +20,10 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99
+(D) Draft 'if found' picture to put on the back of keys 
 (D) Email Rob with [200~thank you[201~gies 
 (D) Find pictures for Nova's first 20 words 
 (D) Get Airconditioner
-x 2019-04-29 Put thermal camera on Amazon. 
-(E) Test charging wires
-x 2019-04-29 Ask FB about 
-(D) Draft 'if found' picture to put on the back of keys 
-(E) Fix Brio
 (D) Put up the upwork architecture post with measurements 
 (D) Wikipedia page for Dhiraj Mukherjee
 (D) Write recycling project post on facebook
@@ -47,6 +43,7 @@ x 2019-04-29 Ask FB about
 (E) Empty crate completely +Overhead @nova  Time:15
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Finish the blog post about TV habits Time:20
+(E) Fix Brio
 (E) Floss +Health @nova  Time:05
 (E) Get football for nova
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
@@ -78,6 +75,7 @@ x 2019-04-29 Ask FB about
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Test charging wires
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Video call with Kat family +Family @nova  Time:15 
@@ -94,3 +92,5 @@ x 2019-04-29 Ask FB about
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
+x 2019-04-29 Ask FB about 
+x 2019-04-29 Put thermal camera on Amazon. 
