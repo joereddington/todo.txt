@@ -23,7 +23,11 @@
 (D) Email Rob with [200~thank you[201~gies 
 (D) Find pictures for Nova's first 20 words 
 (D) Get Airconditioner
-(D) Put thermal camera on Amazon. 
+x 2019-04-29 Put thermal camera on Amazon. 
+(E) Test charging wires
+x 2019-04-29 Ask FB about 
+(D) Draft 'if found' picture to put on the back of keys 
+(E) Fix Brio
 (D) Put up the upwork architecture post with measurements 
 (D) Wikipedia page for Dhiraj Mukherjee
 (D) Write recycling project post on facebook
