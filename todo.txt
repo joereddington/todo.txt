@@ -1,6 +1,7 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(B) Upload Wikipedia Video 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Check Flowers for Turing with mum. 
@@ -75,7 +76,6 @@
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
-(E) Test charging wires
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Video call with Kat family +Family @nova  Time:15 
@@ -94,3 +94,4 @@
 (E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
 x 2019-04-29 Ask FB about 
 x 2019-04-29 Put thermal camera on Amazon. 
+x 2019-04-29 Test charging wires
