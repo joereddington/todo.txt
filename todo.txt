@@ -1,26 +1,18 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) Register for the everpad provider 
-(A) Review the new Kings finances. 
-(A) Write Yvonne email about invoices... j
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
+(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Check Flowers for Turing with mum. 
 (C) Read 200 pages of book for exam  Time:180
 (C) Send Cards for Ammy, Hannah Newton and Leigh
-(C) Send something to the grandparent facebook group 
 (D) Ask Kat about Blackout curtains 
 (D) Buy a paper folder adn reciept book for paperwork. 
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(D) Do full accounts algorithm +EQT Time:99
 (D) Draft 'if found' picture to put on the back of keys 
 (D) Find pictures for Nova's first 20 words 
 (D) Get Airconditioner
@@ -94,3 +86,10 @@ x 2019-04-29 Trim nose hair +Health @nova  Time:05
 x 2019-04-29 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-04-29 Wash sheets and towels +Family @nova  Time:10
 x 2019-04-29 Wash sheets and towels +Family @nova  Time:10 
+x 2019-04-30 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-30 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-30 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-30 Register for the everpad provider 
+x 2019-04-30 Review the new Kings finances. 
+x 2019-04-30 Send something to the grandparent facebook group 
+x 2019-04-30 Write Yvonne email about invoices... j
