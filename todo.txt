@@ -22,8 +22,7 @@
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-04-30 Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Cut nails +Health @nova  Time:04 
 (E) Finish the blog post about TV habits Time:20
@@ -35,13 +34,13 @@
 (E) Open list of projects to be funded +EQT
 (E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Publicly thank someone +Overhead Time:15 
+x 2019-04-30 Publicly thank someone +Overhead Time:15 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-30 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Vitimin Tablet +Health @nova  Time:02
