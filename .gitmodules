@@ -1,0 +1,3 @@
+[submodule "igor"]
+	path = igor
+	url = https://github.com/joereddington/igor
