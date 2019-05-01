@@ -1,4 +1,3 @@
-x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Do full accounts algorithm for Comic Relief report +EQT Time:99
 (A) Do full accounts algorithm for Comic Relief report +EQT Time:99
 (A) Do full accounts algorithm for Comic Relief report +EQT Time:99
@@ -11,8 +10,8 @@ x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Print label for returning ikea boxes 
 (C) Map flowers for turing 
+(C) Print label for returning ikea boxes 
 (C) Read 200 pages of book for exam  Time:180
 (C) Send Cards for Ammy, Hannah Newton and Leigh
 (D) Buy a paper folder adn reciept book for paperwork. 
@@ -57,5 +56,6 @@ x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-04-30 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-04-30 Publicly thank someone +Overhead Time:15 
 x 2019-04-30 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-01 Check Flowers for Turing with mum. 
 x 2019-05-01 Get football for nova
