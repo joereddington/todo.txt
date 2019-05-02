@@ -1,12 +1,4 @@
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Do full accounts algorithm for Comic Relief report +EQT Time:99
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(A) Comic Relief report. https://github.com/eQualityTime/Public/issues/79
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -30,25 +22,13 @@
 (E) Finish the blog post about TV habits Time:20
 (E) Fix Brio
 (E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Open list of projects to be funded +EQT
-(E) Post to Sibling Facebook group @nova @phone  Time:06
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Search for funding for eQuality Time Projects +EQT Time:50
-(E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Vitimin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30
-(E) Write a letter to Nova +Family Time:30
-(E) Write a letter to Nova +Family Time:30
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write a letter to nova +Family Time:10
 (E) Write contributions code for Wikipedia. Time:60
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
@@ -59,3 +39,5 @@ x 2019-04-30 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of
 x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-01 Check Flowers for Turing with mum. 
 x 2019-05-01 Get football for nova
+x 2019-05-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-01 Vitimin Tablet +Health @nova  Time:02
