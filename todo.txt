@@ -26,7 +26,6 @@
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Finish the blog post about TV habits Time:20
 (E) Fix Brio
-x 2019-05-07 Floss +Health @nova  Time:05
 (E) Go through Walking Meeting with Kat +Family Time:180  
 (E) Install python3 on everything. 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
@@ -38,8 +37,6 @@ x 2019-05-07 Floss +Health @nova  Time:05
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Write a letter to Nova +Family Time:30
-(E) Write a letter to Nova +Family Time:30 
 (E) Write contributions code for Wikipedia. Time:60
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
@@ -61,6 +58,7 @@ x 2019-05-07 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advi
 x 2019-05-07 Cut nails +Health @nova  Time:04 
 x 2019-05-07 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-05-07 Draft 'if found' picture to put on the back of keys 
+x 2019-05-07 Floss +Health @nova  Time:05
 x 2019-05-07 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 x 2019-05-07 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-05-07 Log weight +Health  Time:02 
@@ -83,3 +81,5 @@ x 2019-05-07 Trim nose hair +Health @nova  Time:05
 x 2019-05-07 Vitimin Tablet +Health @nova  Time:02
 x 2019-05-07 Wash sheets and towels +Family @nova  Time:10 
 x 2019-05-07 Wikipedia page for Dhiraj Mukherjee
+x 2019-05-07 Write a letter to Nova +Family Time:30
+x 2019-05-07 Write a letter to Nova +Family Time:30 
