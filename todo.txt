@@ -22,7 +22,6 @@
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-05-07 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Finish the blog post about TV habits Time:20
 (E) Fix Brio
@@ -63,6 +62,7 @@ x 2019-05-01 Vitimin Tablet +Health @nova  Time:02
 x 2019-05-02 Comic Relief report. https://github.com/eQualityTime/Public/issues/79
 x 2019-05-07 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-05-07 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-05-07 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-05-07 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-05-07 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-05-07 Cut nails +Health @nova  Time:04 
