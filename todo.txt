@@ -21,7 +21,7 @@
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Finish the blog post about TV habits Time:20
 (E) Get glue gun to Fix Brio
-(E) Install python3 on everything. 
+(E) Install python3 on Laptop
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
