@@ -25,7 +25,7 @@
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Find video on shoe polish and desks
 (E) Finish the blog post about TV habits Time:20
-(E) Fix Brio
+(E) Get glue gun to Fix Brio
 (E) Go through Walking Meeting with Kat +Family Time:180  
 (E) Install python3 on everything. 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
