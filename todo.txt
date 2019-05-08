@@ -1,7 +1,5 @@
-x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-05-08 Get eQuality Time twitter back. 
-(B) TTS on the proposals that you've been sent 
 (B) Review the everpad repo. https://github.com/joassouza/etherpad-joe
+(B) TTS on the proposals that you've been sent 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Buy hinges
@@ -9,18 +7,17 @@ x 2019-05-08 Get eQuality Time twitter back.
 (C) Read 200 pages of book for exam  Time:180
 (C) Send Cards for Ammy, Hannah Newton and Leigh
 (C) Send something to the grandparent facebook group 
-(D) Buy a paper folder adn reciept book for paperwork. 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Find pictures for Nova's first 20 words 
 (D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
+(D) Sand down wood for the cup cuboard 
+(D) Sort receipts into months 
 (D) Update Amazon credit card information for selling. 
 (D) Write recycling project post on facebook
-(D) put shelf in cup cupboard. 
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -49,3 +46,6 @@ x 2019-05-08 Get eQuality Time twitter back.
 x 2019-05-08 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-05-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-08 Add igor to the igor 
+x 2019-05-08 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-05-08 Get eQuality Time twitter back. 
+x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
