@@ -24,7 +24,6 @@
 (E) Get glue gun to Fix Brio
 (E) Install python3 on everything. 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-05-08 Post to Sibling F group @nova @phone  Time:06 
 (E) Review all projects in github +Overhead Time: 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
@@ -48,5 +47,6 @@ x 2019-05-08 Get eQuality Time twitter back.
 x 2019-05-08 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-05-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-08 Post to Sibling F group @nova @phone  Time:06 
 x 2019-05-08 Update Amazon credit card information for selling. 
 x 2019-05-08 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
