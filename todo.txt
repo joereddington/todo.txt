@@ -1,7 +1,13 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(B) Get eQuality Time twitter back. 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Read the proposals and reivew them. k
 (B) Review the everpad repo. 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Add igor to the igor 
 (C) Map flowers for turing 
@@ -15,6 +21,7 @@
 (D) Put up the upwork architecture post with measurements 
 (D) Update Amazon credit card information for selling. 
 (D) Write recycling project post on facebook
+(D) put shelf in cup cupboard. 
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
