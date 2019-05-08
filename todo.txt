@@ -16,7 +16,6 @@
 (E) Do menu for week. 
 (E) Finish the blog post about TV habits Time:20
 (E) Get glue gun to Fix Brio
-(E) Install python3 on Laptop
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
@@ -36,6 +35,7 @@ x 2019-05-08 Find pictures for Nova's first 20 words
 x 2019-05-08 Find video on shoe polish and desks
 x 2019-05-08 Get eQuality Time twitter back. 
 x 2019-05-08 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-05-08 Install python3 on Laptop
 x 2019-05-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-05-08 Post to Sibling F group @nova @phone  Time:06 
