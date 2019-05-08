@@ -1,4 +1,4 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) Get eQuality Time twitter back. 
 (B) Read the proposals and reivew them. k
 (B) Review the everpad repo. 
