@@ -14,7 +14,6 @@
 (E) Call dentist to book Checkup @car  Time:04
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Do menu for week. 
-(E) Finish the blog post about TV habits Time:20
 (E) Get glue gun to Fix Brio
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
@@ -22,7 +21,8 @@
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
-(E) Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
+(E) Fix the links to the public todo list. 
+x 2019-05-08 Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
 x 2019-05-08 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-05-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-08 Add igor to the igor 
@@ -33,6 +33,7 @@ x 2019-05-08 Check the firebreak in: whatsapp and facebook and and twitter. +Ove
 x 2019-05-08 Empty crate completely +Overhead @nova  Time:15 
 x 2019-05-08 Find pictures for Nova's first 20 words 
 x 2019-05-08 Find video on shoe polish and desks
+x 2019-05-08 Finish the blog post about TV habits Time:20
 x 2019-05-08 Get eQuality Time twitter back. 
 x 2019-05-08 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-05-08 Install python3 on Laptop
