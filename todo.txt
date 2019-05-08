@@ -8,7 +8,6 @@
 (C) Send Cards for Ammy, Hannah Newton and Leigh
 (C) Send something to the grandparent facebook group 
 (D) Do full accounts algorithm +EQT Time:99
-(D) Find pictures for Nova's first 20 words 
 (D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
 (D) Sand down wood for the cup cuboard 
@@ -23,12 +22,11 @@
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Do menu for week. 
 (E) Empty crate completely +Overhead @nova  Time:15 
-(E) Find video on shoe polish and desks
 (E) Finish the blog post about TV habits Time:20
 (E) Get glue gun to Fix Brio
 (E) Go through Walking Meeting with Kat +Family Time:180  
 (E) Install python3 on everything. 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-05-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Review all projects in github +Overhead Time: 
@@ -37,6 +35,7 @@
 (E) Setup youtube on fire 
 (E) Share quickbooks with Sarah 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Test bubble machine 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Write contributions code for Wikipedia. Time:60
@@ -47,5 +46,7 @@ x 2019-05-08 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-05-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-08 Add igor to the igor 
 x 2019-05-08 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-05-08 Find pictures for Nova's first 20 words 
+x 2019-05-08 Find video on shoe polish and desks
 x 2019-05-08 Get eQuality Time twitter back. 
 x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
