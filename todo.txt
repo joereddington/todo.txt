@@ -3,8 +3,8 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 
 (C) Read 200 pages of book for exam  Time:180
-(C) Send Cards for Ammy, Hannah Newton and Leigh
 (C) Send something to the grandparent facebook group 
+(C) Take cards to post office. 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
