@@ -16,7 +16,6 @@
 (E) Call dentist to book Checkup @car  Time:04
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Do menu for week. 
 (E) Empty crate completely +Overhead @nova  Time:15 
 (E) Finish the blog post about TV habits Time:20
@@ -38,6 +37,7 @@ x 2019-05-08 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-05-08 Add igor to the igor 
 x 2019-05-08 Buy hinges
 x 2019-05-08 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-05-08 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 x 2019-05-08 Find pictures for Nova's first 20 words 
 x 2019-05-08 Find video on shoe polish and desks
 x 2019-05-08 Get eQuality Time twitter back. 
