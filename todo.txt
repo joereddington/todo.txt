@@ -10,7 +10,7 @@
 (D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
 (D) Sand down wood for the cup cuboard 
-(D) Sort receipts into months 
+x 2019-05-08 Sort receipts into months 
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
@@ -23,7 +23,6 @@
 (E) Install python3 on Laptop
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
-x 2019-05-08 Save a nice family memory +Family @phone @nova  Time:03 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Test bubble machine 
@@ -43,6 +42,7 @@ x 2019-05-08 Go through Walking Meeting with Kat +Family Time:180
 x 2019-05-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-05-08 Post to Sibling F group @nova @phone  Time:06 
+x 2019-05-08 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-05-08 Setup youtube on fire TV stick 
 x 2019-05-08 Share quickbooks with Sarah 
 x 2019-05-08 Update Amazon credit card information for selling. 
