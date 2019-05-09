@@ -30,8 +30,8 @@ Notes on 19:
 * Disemination seems rubbish. 
 * LCK's fingerprints are all over this. Lot of fucking lego.  
 * I have NO Idea what a co-designed digital platofrm is. 
-* "less than 40% are ex ofenders" 
-
+* "less than 40% are ex ofenders" up to 30 
+* Still NO idea what a platform is. 
 
 While waiting... 
 
