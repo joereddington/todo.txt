@@ -18,6 +18,13 @@ x (E) Vitimin Tablet +Health @nova  Time:02
 ## 09/05/19 11:39 (B) TTS on the proposals that you've been sent 
 - 09/05/19 smallest next step: : Open the proposal. 
 
+
+Notes on 19: 
+
+
+
+While waiting... 
+
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 
