@@ -10,10 +10,10 @@
 (D) Sand down wood for the cup cuboard 
 (D) Take photo of the dinosaur 
 (E) Backup Dreamhost +EQT Time:05
+(E) Children in need: map and sprint 
 (E) Floss +Health @nova  Time:05
-(E) Review all projects in github +Overhead Time: @live
-(E) Search for funding for eQuality Time Projects +EQT Time:50 
 (E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
+(E) Review all projects in github +Overhead Time: @live
 (E) Send back arts council! 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Write python code the counts SA moments in leader and followers
@@ -27,6 +27,7 @@ x 2019-05-09 Get Airconditioner
 x 2019-05-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-05-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-05-09 Put up the upwork architecture post with measurements 
+x 2019-05-09 Search for funding for eQuality Time Projects +EQT Time:50 
 x 2019-05-09 Update amazon Pay by Invoice Settings 
 x 2019-05-09 Vitimin Tablet +Health @nova  Time:02
 x 2019-05-09 follow up with wimledon high school.
