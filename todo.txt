@@ -5,6 +5,7 @@
 (C) Read 200 pages of book for exam  Time:180
 (C) Send something to the grandparent facebook group 
 (C) Take cards to post office. 
+(D) Take phot of the dinosaur 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
