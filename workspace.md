@@ -26,6 +26,11 @@ Notes on 19:
 * The summary has many long words, but also doesn't actually say what it's doing to the reader... 
 * Ah, this is a pilot. 
 * Ah, they are running focus groups. Excellent. 
+* I feel like they just threw myscoiety into the mix there. 
+* Disemination seems rubbish. 
+* LCK's fingerprints are all over this. Lot of fucking lego.  
+* I have NO Idea what a co-designed digital platofrm is. 
+* "less than 40% are ex ofenders" 
 
 
 While waiting... 
