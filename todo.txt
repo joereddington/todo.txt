@@ -6,7 +6,6 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 
 (C) Read 200 pages of book for exam  Time:180
-(C) We should  
 (C) Take cards to post office. 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Get Airconditioner
@@ -25,7 +24,3 @@
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
-x 2019-05-09 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-x 2019-05-09 Do menu for week. 
-x 2019-05-09 Get glue gun to Fix Brio
-x 2019-05-09 Send something to the grandparent facebook group 
