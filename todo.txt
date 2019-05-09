@@ -1,5 +1,10 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) TTS on the proposals that you've been sent 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 
 (C) Read 200 pages of book for exam  Time:180
@@ -16,39 +21,12 @@
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Do menu for week. 
 (E) Fix the links to the public todo list. 
+(E) Floss +Health @nova  Time:05
 (E) Get glue gun to Fix Brio
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
 (E) Search for funding for eQuality Time Projects +EQT Time:50
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Vitimin Tablet +Health @nova  Time:02
 (E) Write python code the counts SA moments in leader and follwoers 
 (E) Write script that produces list of 'detection' files Time:40
-x 2019-05-08 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-05-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-08 Add igor to the igor 
-x 2019-05-08 Buy hinges
-x 2019-05-08 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-05-08 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-05-08 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-05-08 Empty crate completely +Overhead @nova  Time:15 
-x 2019-05-08 Find pictures for Nova's first 20 words 
-x 2019-05-08 Find video on shoe polish and desks
-x 2019-05-08 Finish the blog post about TV habits Time:20
-x 2019-05-08 Get eQuality Time twitter back. 
-x 2019-05-08 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-05-08 Install python3 on Laptop
-x 2019-05-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-05-08 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-05-08 Post to Sibling F group @nova @phone  Time:06 
-x 2019-05-08 Review the everpad repo. https://github.com/joassouza/etherpad-joe
-x 2019-05-08 Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-05-08 Setup youtube on fire TV stick 
-x 2019-05-08 Share quickbooks with Sarah 
-x 2019-05-08 Sort receipts into months 
-x 2019-05-08 Test bubble machine 
-x 2019-05-08 Update Amazon credit card information for selling. 
-x 2019-05-08 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2019-05-08 Update the youtube watch list +Family Time:10 @phone @nova
-x 2019-05-08 Write contributions code for Wikipedia. Time:60
-x 2019-05-08 Write recycling project post on facebook
-x 2019-05-08 Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
