@@ -20,10 +20,21 @@ x (E) Vitimin Tablet +Health @nova  Time:02
 
 
 Notes on 19: 
-
+* We like Giroscope
+* School of Law, Forensic Psycjolgy 
+* Project title doesn't give anything away. 
+* The summary has many long words, but also doesn't actually say what it's doing to the reader... 
+* Ah, this is a pilot. 
+* Ah, they are running focus groups. Excellent. 
 
 
 While waiting... 
+
+x (E) Fix the links to the public todo list. 
+
+
+## 09/05/19 11:51, Wolfram says 1:36 pm .
+
 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -38,7 +49,6 @@ While waiting...
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT Time:05
 (E) Call dentist to book Checkup @car  Time:04
-(E) Fix the links to the public todo list. 
 (E) Floss +Health @nova  Time:05
 (E) Look at list of topics (including PAYE) and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Review all projects in github +Overhead Time: 
