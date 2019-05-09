@@ -13,6 +13,8 @@
 (E) Floss +Health @nova  Time:05
 (E) Review all projects in github +Overhead Time: @live
 (E) Search for funding for eQuality Time Projects +EQT Time:50 
+(E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
+(E) Send back arts council! 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Write python code the counts SA moments in leader and followers
 (E) Write script that produces list of 'detection' files Time:40
