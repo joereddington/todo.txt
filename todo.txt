@@ -1,14 +1,12 @@
 (B) TTS on the proposals that you've been sent 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
-(C) Sync up Unity and Dropbox: look at the list of files 
 (C) Map flowers for turing 2019 
 (C) Put in Website changes for Open Voice Factory
 (C) Read 200 pages of book for exam  Time:180
+(C) Sync up Unity and Dropbox: look at the list of files 
 (C) Take cards to post office. 
-(C) Update amazon Pay by Invoice Settings 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fill out Richard's CM form. 
-(D) Get Airconditioner
 (D) Put up the upwork architecture post with measurements 
 (D) Sand down wood for the cup cuboard 
 (D) Take photo of the dinosaur 
@@ -25,5 +23,7 @@
 x 2019-05-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-09 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-05-09 Fix the links to the public todo list. 
+x 2019-05-09 Get Airconditioner
 x 2019-05-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-09 Update amazon Pay by Invoice Settings 
 x 2019-05-09 Vitimin Tablet +Health @nova  Time:02
