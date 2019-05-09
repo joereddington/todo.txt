@@ -35,6 +35,13 @@ Notes on 19:
 
 While waiting... 
 
+
+## 09/05/19 12:38 
+Notes on 23. 
+
+There's a lot of people on this grant doing half a job. 
+Not really part of the scope.. .
+
 x (E) Fix the links to the public todo list. 
 
 
