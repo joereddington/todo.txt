@@ -2,6 +2,7 @@
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 
+(C) Put in Website changes for Open Voice Factory
 (C) Read 200 pages of book for exam  Time:180
 (C) Take cards to post office. 
 (D) Do full accounts algorithm +EQT Time:99
