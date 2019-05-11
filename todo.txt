@@ -18,16 +18,3 @@
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) Write python code the counts SA moments in leader and followers
 (E) Write script that produces list of 'detection' files Time:40
-x (E) Call dentist to book Checkup @car  Time:04
-x 2019-05-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-09 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-05-09 10 Contacts on the contact list 
-x 2019-05-09 Fix the links to the public todo list. 
-x 2019-05-09 Get Airconditioner
-x 2019-05-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-05-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-05-09 Put up the upwork architecture post with measurements 
-x 2019-05-09 Search for funding for eQuality Time Projects +EQT Time:50 
-x 2019-05-09 Update amazon Pay by Invoice Settings 
-x 2019-05-09 Vitimin Tablet +Health @nova  Time:02
-x 2019-05-09 follow up with wimledon high school.
