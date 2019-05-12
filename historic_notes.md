@@ -50,3 +50,6 @@ Next thing is receive phone call from Rob, and then write out the text.
 ## 30/04/19 10:25 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 ## 30/04/19 11:04 (A) Review the new Kings finances. 
 ## 30/04/19 11:14 (A) Write Comic Relief report
+## 12/05/19 09:52 to 10:44,
+Went on a bit of a thinking journey. I ended up with the plan that Workspace should have a special symbol for when I've ticked off the issue on top of the stack, and I should keep track of that on paper for the moment.  If I can do that for a week then I'll write some more code.   
+
