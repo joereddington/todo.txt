@@ -10,7 +10,7 @@ A file that has the last hour of command history, the last set of screenshots, a
 
 MVP: it's a set of tabs in a new window that has all that information in it. Sorted so the main STUFF is on top.  
 
-
+That's a bash script if there ever was one. 
 
 
 
