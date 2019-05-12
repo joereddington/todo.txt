@@ -17,8 +17,22 @@ So, what's the best way of doing that? I think I want a command that is literall
 Let's make something pretty... 
 So I want a bit of a code that runs pop, but also, raises the stakes as I move up the ranks. 
 
-Effectively I want it to read the code and then make an animated cool THING that builds up every time I upgrade the system.  
+Effectively I want it to read the code and then make an animated cool THING that builds up every time I upgrade the system.: 
 
+
+So what's the play? 
+
+* Play a sound 
+* Save state, play another sound as the state gets bigger 
+* Display the state, which is listed somewhere. 
+* This is game developement. 
+
+Simplify it, I only want a record of how long a streak I managed. I can literally only look at that at the end of the day. So let's look at the simple use: 
+
+* Opendiff between the current version and the version at the start of the day. 
+	* Pro: Easy, write it down on paper 
+	* Con: if high priority tasks are added halfway thought the day. 
+Check: what was my streak from Friday. 
 
 
 ## 12/05/19 10:14, So let's brainstorm other charts 
