@@ -2,15 +2,19 @@
 ##  Notes from current sprint 
 
 
-## 12/05/19 10:46 
-Next bit of light code to do: Produce the 'last hour forensis' 
+## 13/05/19 08:10 
 
-What does this look like? 
-A file that has the last hour of command history, the last set of screenshots, and the last hour of internet history.  
 
-MVP: it's a set of tabs in a new window that has all that information in it. Sorted so the main STUFF is on top.  
-
-That's a bash script if there ever was one. 
+(B) Write reviews for proposals Time:30 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
+(C) Map flowers for turing 2019 Time:10
+(C) Put in Website changes for Open Voice Factory Time:20
+(C) Read 200 pages of book for exam  Time:180
+(C) Sync up Unity and Dropbox: look at the list of files  Time:20
+(C) Take cards to post office. Time:10 
+(D) Do full accounts algorithm +EQT Time:99
+(D) Fill out Richard's CM form.  Time:08
+(D) Sand down wood for the cup cuboard 
 
 
 
