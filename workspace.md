@@ -23,7 +23,18 @@ So, what's the plan?
 
 ## 13/05/19 09:23 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 Okay, exercuse is next, but I am still recovering. I think A nice walk to the shop is what I need. 
-(B) Write reviews for proposals Time:30 
+
+
+## 13/05/19 09:55 
+Done exercise. 
+## 13/05/19 09:56 (B) Write reviews for proposals Time:30 
+Okay, I think  I did one of these, let's have a look.
+- 13/05/19 smallest next step:  Checking out the folder. 
+Working out if you need to review two or one of them. 
+I did 45, I started 19. 
+
+
+
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
