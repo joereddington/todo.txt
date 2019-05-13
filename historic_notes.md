@@ -53,3 +53,17 @@ Next thing is receive phone call from Rob, and then write out the text.
 ## 12/05/19 09:52 to 10:44,
 Went on a bit of a thinking journey. I ended up with the plan that Workspace should have a special symbol for when I've ticked off the issue on top of the stack, and I should keep track of that on paper for the moment.  If I can do that for a week then I'll write some more code.   
 
+## 13/05/19 08:11,  (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+* Bought Gate lock, and attic boards 
+* Everything else got sorted  
+
+## 13/05/19 08:45 x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+## 13/05/19 08:49 to 09:23 (A) 30 minutes on accounts in Quickbooks 
+x (A) Process the expenditure in Unity. 
+* Go thought the spreadsheet and check if it's been paid, and if not, will it be. 
+* Go through the files in each directory and see where they should be. 
+
+## 13/05/19 09:23 to 09:55 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
+Nice walk to the shop. 
+## 13/05/19 09:56 to 10:52 (B) Write reviews for proposals Time:30 
+- 13/05/19 smallest next step:  Checking out the folder. 
