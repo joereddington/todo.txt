@@ -1,9 +1,8 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Write reviews for proposals Time:30 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
+x 2019-05-13 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-13 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-13 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-05-13 Write reviews for proposals Time:30 
+x 2019-05-13 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 2019 Time:10
 (C) Put in Website changes for Open Voice Factory Time:20

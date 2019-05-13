@@ -2,8 +2,6 @@
 ##  Notes from current sprint 
 
 
-## 13/05/19 08:10 
-Starting Monday morning 
 
 ## 13/05/19 08:11,  (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 Crap! I'm due to have that call with Comic Relief today!  
@@ -12,12 +10,8 @@ Crap! I'm due to have that call with Comic Relief today!
 * Everything else got sorted  
 
 ## 13/05/19 08:45 x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-## 13/05/19 08:49 (A) 30 minutes on accounts in Quickbooks 
-Needs rewriting: (A) sort out the THINGs that haven't been paid. 
+## 13/05/19 08:49 to 09:23 (A) 30 minutes on accounts in Quickbooks 
 x (A) Process the expenditure in Unity. 
-
-## 13/05/19 08:57, Still the most important action eh?  
-So, what's the plan? 
 * Go thought the spreadsheet and check if it's been paid, and if not, will it be. 
 * Go through the files in each directory and see where they should be. 
 
