@@ -57,5 +57,6 @@ Done exercise.
 (E) Find microphone 
 (E) Find out about command line video editing 
 (C) Follow up with Patrick about orders again. 
+(C) Redo printouts for keys 
 
 # Media 
