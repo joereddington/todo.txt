@@ -27,13 +27,10 @@ Okay, exercuse is next, but I am still recovering. I think A nice walk to the sh
 
 ## 13/05/19 09:55 
 Done exercise. 
-## 13/05/19 09:56 (B) Write reviews for proposals Time:30 
-Okay, I think  I did one of these, let's have a look.
+## 13/05/19 09:56 to 10:52 (B) Write reviews for proposals Time:30 
 - 13/05/19 smallest next step:  Checking out the folder. 
-Working out if you need to review two or one of them. 
-I did 45, I started 19. 
 
-
+## 13/05/19 10:56 Process meail. 
 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
