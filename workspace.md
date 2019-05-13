@@ -11,8 +11,9 @@ Crap! I'm due to have that call with Comic Relief today!
 * Bought Gate lock, and attic boards 
 * Everything else got sorted  
 
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) 30 minutes on accounts in Quickbooks 
+## 13/05/19 08:45 x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+## 13/05/19 08:49 (A) 30 minutes on accounts in Quickbooks 
+Needs rewriting: (A) sort out the THINGs that haven't been paid. 
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Write reviews for proposals Time:30 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -41,3 +42,4 @@ Crap! I'm due to have that call with Comic Relief today!
 (E) Find out about command line video editing 
 (C) Follow up with Patrick about orders again. 
 
+# Media 
