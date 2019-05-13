@@ -26,6 +26,17 @@ Crap! I'm due to have that call with Comic Relief today!
 (E) Fix bulb in Longue  @nova 
 (E) Empty picture frames and put in memories folder 
 (E) Get lights for streaming in office. 
-
-
+(E) Take the office chair to the playroom 
+(E) Fix Nova's blind
+(E) Find the occasional event plans 
+(E) Work out how to sort out the amazon tv stick power.
+(E) Tidy garage 
+(E) Fix bug in watch sleep tracking 
+(E) See if you can change the pressure on the kitchen tap 
+(E) Itterate the first words book: milk, shoe, up, suzi 
+(E) Get out drill for hinges 
+(C) More work on the Shazam article 
+(E) Find microphone 
+(E) Find out about command line video editing 
+(C) Follow up with Patrick about orders again. 
 
