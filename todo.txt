@@ -1,20 +1,90 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (B) Write reviews for proposals Time:30 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:60 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Map flowers for turing 2019 Time:10
 (C) Put in Website changes for Open Voice Factory Time:20
 (C) Read 200 pages of book for exam  Time:180
+(C) Send something to the grandparent facebook group 
 (C) Sync up Unity and Dropbox: look at the list of files  Time:20
 (C) Take cards to post office. Time:10 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fill out Richard's CM form.  Time:08
 (D) Sand down wood for the cup cuboard 
 (D) Take photo of the dinosaur 
+(E) 10 Contacts on the contact list 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Backup Dreamhost +EQT
 (E) Backup Dreamhost +EQT Time:05
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check ranking scripts +Overhead
+(E) Check team cooper visit dates: every two weeks  +Family Time:03 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check the next school time +EQT Time:03 
+(E) Check wishlist
+(E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Children in need: map and sprint 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Download the amazon months sales figures +EQT
+(E) Empty crate completely +Overhead @nova  Time:15 
 (E) Floss +Health @nova  Time:05
+(E) Give laptop screen a good clean +Overhead
+(E) Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+(E) If back on sugar then start sugar project +Health
 (E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Make sure paper crane is in bat@nova @phone  Time:03 
+(E) Make workstation spotless +Overhead @nova  
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Open list of projects to be funded +EQT
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review all projects in github +Overhead Time: 
 (E) Review all projects in github +Overhead Time: @live
+(E) Review facebook theory of change
+(E) Review starred items in feeds +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Send Trustees something nice about outcomes +EQT
 (E) Send back arts council! 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) TSE +Health Time:04 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Video call with Kat family +Family @nova  Time:15 
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Wash sheets and towels +Family @nova  Time:10 
+(E) Write a letter to Nova +Family Time:30 
 (E) Write script that produces list of 'detection' files Time:40
 x 2019-05-12 Write python code the counts SA moments in leader and followers
