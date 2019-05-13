@@ -9,7 +9,7 @@ Starting Monday morning
 Crap! I'm due to have that call with Comic Relief today!  
 
 * Bought Gate lock, and attic boards 
-* 
+* Everything else got sorted  
 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) 30 minutes on accounts in Quickbooks 
@@ -33,7 +33,8 @@ Crap! I'm due to have that call with Comic Relief today!
 (E) Tidy garage 
 (E) Fix bug in watch sleep tracking 
 (E) See if you can change the pressure on the kitchen tap 
-(E) Itterate the first words book: milk, shoe, up, suzi 
+(E) Itterate the first words book: milk, shoe, up, suzi, apple 
+(B) Follow up with Laura 
 (E) Get out drill for hinges 
 (C) More work on the Shazam article 
 (E) Find microphone 
