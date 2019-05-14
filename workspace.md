@@ -17,6 +17,15 @@ There's lots of different styles I'd like to try:
 * Very simple line drawings. 
 
 
+What's our premise? That our central character is trying to pretend not to be sick? 
+
+
+What's our premise? That our central character is a normal human being who can do superhuman THINGs when he confesses is small THINGs 
+How about we throw away everything other than that? 
+
+Today's THING is that I am sick and I don't have enough energy. 
+
+
 
 
 ##  New actions 
