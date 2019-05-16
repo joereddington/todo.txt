@@ -91,6 +91,12 @@ So what's next?
 ## 16/05/19 11:31 
 Put in a fake object for the writing of the word files 
 
+## 16/05/19 11:42 
+I think there is something more fundermentally borken than that.  Currently stuck on L1 
+
+## 16/05/19 11:48 
+Tracking it down with sentients. 
+
 
 
 
