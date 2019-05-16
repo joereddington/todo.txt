@@ -65,6 +65,10 @@ Tests should execute quickly, we need to drop the one that takes ages.
 ## 16/05/19 10:21 
 Maybe start entirely again? 
 
+## 16/05/19 10:31 
+Okay, I've started an new THING, and the next THING to do is to get it to read all of the students from the student file 
+
+- 16/05/19 smallest next step:  read file of students 
 
 
 
