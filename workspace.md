@@ -109,6 +109,9 @@ Yeah, I think I can do this differenty .
 ## 16/05/19 11:56 
 We're starting again again. 
 
+## 16/05/19 12:29 
+Okay, making tiny progress, but only tiny. 
+
 
 
 
