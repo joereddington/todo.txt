@@ -34,6 +34,28 @@ Okay, today is about Kat's owrk.
 I've got some code to run. 
 
 
+What's the steps? 
+
+* Find and open the folder 
+* Take git snapshot
+* Look at the old tests see which ones can be/should be changed. 
+
+
+## 16/05/19 10:16 
+I'm looking at the code and it's a mess. There should be nice classes and lots of other thTHINGings. 
+
+What's the best way of structuring this code? 
+What are the objects? 
+
+Student
+Exam
+
+Each student is linked to one or more exams. Each exam is linked to one or more students. 
+
+
+
+
+
 
 ##  New actions 
 
