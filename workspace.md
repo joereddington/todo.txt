@@ -112,6 +112,10 @@ We're starting again again.
 ## 16/05/19 12:29 
 Okay, making tiny progress, but only tiny. 
 
+## 16/05/19 13:33 
+Okay, why don't I just fix the problem? It's the import of the results. That's a seperate file. No, drink and nap.  
+- 16/05/19 smallest next step:  copy the file into the folder. 
+
 
 
 
