@@ -116,6 +116,12 @@ Okay, making tiny progress, but only tiny.
 Okay, why don't I just fix the problem? It's the import of the results. That's a seperate file. No, drink and nap.  
 - 16/05/19 smallest next step:  copy the file into the folder. 
 
+## 16/05/19 17:07 
+So what's the next action? is it...  What is it? 
+
+
+Let's talk about were we are. I've moved to an object oriented wayo f doing THINGs. I'm passing most of the tests but I'm also using the old way of recording exams so MAYBE we should start again and read all of those. Let's read all of those.  
+
 
 
 
