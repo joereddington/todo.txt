@@ -141,6 +141,10 @@ How many questions are there for a level
 So what's our understanding right now? That we can work out the exam from the umber. It's getting dicy isn't it? 
 
 
+## 16/05/19 18:02
+No, the next THING is to put the exam nubmer in the exam info sheet, then we'll have a fighting chance. 
+
+
 
 
 
