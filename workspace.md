@@ -52,6 +52,18 @@ Exam
 
 Each student is linked to one or more exams. Each exam is linked to one or more students. 
 
+Oh, it was taking a really long time last time right? I couldn't work out why? have I got that right? 
+
+## 16/05/19 10:20, Running tests 
+
+We should disconnect the output on the word document from any other output. This includes making a fake class that accepts the same commands and is used as a test. 
+
+
+## 16/05/19 10:21, 
+Tests should execute quickly, we need to drop the one that takes ages. 
+
+## 16/05/19 10:21 
+Maybe start entirely again? 
 
 
 
