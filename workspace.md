@@ -123,6 +123,26 @@ So what's the next action? is it...  What is it?
 Let's talk about were we are. I've moved to an object oriented wayo f doing THINGs. I'm passing most of the tests but I'm also using the old way of recording exams so MAYBE we should start again and read all of those. Let's read all of those.  
 
 
+## 16/05/19 17:11 
+Crap, I can only read exams when I have already read the exam questions. So that means that I'm doing a very different THING when I read the exam questions first: and actually that ends up being quite useful because then I know the total marks availbile. 
+
+Wait... that's NOT entirely true right? No, it's easier to know about the exam before we know about the exam results. 
+
+
+What's the test for this? 
+
+
+What's the total amount of marks for an exam 
+What's the total amount of marks for an question 
+How many questions are there for a level 
+
+
+
+
+
+
+
+
 
 
 
