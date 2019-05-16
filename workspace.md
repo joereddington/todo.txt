@@ -83,6 +83,13 @@ Todo:
 * Build the speedy testing class for the other file  
 
 
+Okay, so the anonomisation isn't my problem for the moment, although I do have to do some thinking about how that would work.  I suspect that the solution is: fuck it, run it on Kat's machine. 
+
+So what's next? 
+
+
+
+
 
 
 
