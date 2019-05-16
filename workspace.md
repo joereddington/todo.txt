@@ -98,6 +98,19 @@ I think there is something more fundermentally borken than that.  Currently stuc
 Tracking it down with sentients. 
 
 
+## 16/05/19 11:52 
+Okay, the issue is that table add.row getting increasingly slow as the table gets bigger, but apparently i can do som  
+
+
+## 16/05/19 11:55 
+Yeah, I think I can do this differenty .
+
+
+## 16/05/19 11:56 
+We're starting again again. 
+
+
+
 
 
 
