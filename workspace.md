@@ -28,6 +28,13 @@ Today's THING is that I am sick and I don't have enough energy.
 
 
 
+## 16/05/19 10:08 
+Okay, today is about Kat's owrk. 
+
+I've got some code to run. 
+
+
+
 ##  New actions 
 
 # Media 
