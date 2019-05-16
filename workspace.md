@@ -79,6 +79,8 @@ Todo:
 
 * Student print_string method 
 * build up the student more from the information given. 
+* Import some more tests 
+* Build the speedy testing class for the other file  
 
 
 
