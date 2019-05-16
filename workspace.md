@@ -88,6 +88,10 @@ Okay, so the anonomisation isn't my problem for the moment, although I do have t
 So what's next? 
 
 
+## 16/05/19 11:31 
+Put in a fake object for the writing of the word files 
+
+
 
 
 
