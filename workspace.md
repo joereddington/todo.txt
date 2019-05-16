@@ -145,6 +145,10 @@ So what's our understanding right now? That we can work out the exam from the um
 No, the next THING is to put the exam nubmer in the exam info sheet, then we'll have a fighting chance. 
 
 
+## 16/05/19 19:26 
+Okay, the exam info is in the sheet, now what? 
+
+
 
 
 
