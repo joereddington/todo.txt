@@ -137,6 +137,9 @@ What's the total amount of marks for an question
 How many questions are there for a level 
 
 
+## 16/05/19 17:57 
+So what's our understanding right now? That we can work out the exam from the umber. It's getting dicy isn't it? 
+
 
 
 
