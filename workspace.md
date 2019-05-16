@@ -70,6 +70,25 @@ Okay, I've started an new THING, and the next THING to do is to get it to read a
 
 - 16/05/19 smallest next step:  read file of students 
 
+## 16/05/19 10:57 
+I've learned something new and that's cool. I'm also technically looking for a bigger problem to write a test for.  
+
+Obvious bigger problem would be to read in exams, but I want to check in with Kat before I do that, particularly because I'll want to read in the exam answers as well. 
+
+Todo: 
+
+* Student print_string method 
+* build up the student more from the information given. 
+
+
+
+
+
+
+
+
+
+
 
 
 
