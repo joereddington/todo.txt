@@ -1,4 +1,3 @@
-x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Call Mum about comic con 
 (A) Comic 
 (A) Do thnak yous. 
@@ -71,3 +70,4 @@ x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  
 (E) Write a letter to Nova +Family Time:30 
 (E) Write script that produces list of 'detection' files Time:40
 jE) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
