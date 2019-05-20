@@ -949,3 +949,28 @@ x 2019-05-13 Sync up Unity and Dropbox: look at the list of files  Time:20
 x 2019-05-13 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-05-13 Wash sheets and towels +Family @nova  Time:10 
 x 2019-05-13 Write reviews for proposals Time:30 
+x 2019-05-20 Backup Dreamhost +EQT Time:05
+x 2019-05-20 Fix bulb in Longue  @nova 
+x 2019-05-20 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-05-20 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2019-05-20 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+x 2019-05-20 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-05-20 Send something to the grandparent facebook group 
+x 2019-05-20 Take cards to post office. Time:10 
+x 2019-05-20 Take the office chair to the playroom 
+x 2019-05-20 Trim nose hair +Health @nova  Time:05 
+x 2019-05-20 Wash sheets and towels +Family @nova  Time:10 
+x 2019-05-20 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-05-20 Check the next school time +EQT Time:03 
+x 2019-05-20 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-05-20 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-05-20 Log weight +Health  Time:02 
+x 2019-05-20 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-05-20 Open and log progress on the bid status document +EQT Time:04
+x 2019-05-20 Publicly thank someone +Overhead Time:15 
+x 2019-05-20 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
