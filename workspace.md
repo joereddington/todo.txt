@@ -28,6 +28,19 @@ Okay,
 - 20/05/19 smallest next step:  get water bottle and tea 
 
 
+#Stack 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Brainstorm social media "Checking" 
+(C) Follow up with Laura 
+(C) Map flowers for turing 2019 Time:10
+(C) More work on the Shazam article 
+(C) Put in Website changes for Open Voice Factory Time:20
+(C) Read 200 pages of book for exam  Time:180
+(C) Redo printouts for keys 
+(C) Return old hinges
+
+
 
 
 
