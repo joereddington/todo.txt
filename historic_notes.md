@@ -79,3 +79,10 @@ One of the activities I ended up trying earlier was starting from scratch, it go
 
 ## 16/05/19 17:07 to 18:02 
 More work bringing in the exam files 
+
+## 20/05/19 09:25 to 10:26,
+Called mum again 
+
+## 20/05/19 10:26 
+Okay, 
+- 20/05/19 smallest next step:  get water bottle and tea 
