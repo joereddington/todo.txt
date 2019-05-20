@@ -67,3 +67,15 @@ x (A) Process the expenditure in Unity.
 Nice walk to the shop. 
 ## 13/05/19 09:56 to 10:52 (B) Write reviews for proposals Time:30 
 - 13/05/19 smallest next step:  Checking out the folder. 
+
+
+## 16/05/19 10:08, to 13:33
+Doing the Code for Kat. 
+
+Most of today is about restructuring, moving into classes and using the new input files. A lot of today was working out why some tests are slow and that got a lot to do with the speed of the python-docx library.  
+
+One of the activities I ended up trying earlier was starting from scratch, it got my brain in gear and that was great, and it meant I learned some things about how to make tests better  
+
+
+## 16/05/19 17:07 to 18:02 
+More work bringing in the exam files 
