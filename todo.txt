@@ -1,5 +1,4 @@
 (A) Call Mum about comic con 
-x 2019-05-20 Comic 
 (A) Do thnak yous. 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
@@ -71,3 +70,4 @@ x 2019-05-20 Comic
 (E) Write script that produces list of 'detection' files Time:40
 jE) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-20 Comic 
