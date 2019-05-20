@@ -19,6 +19,8 @@ Working out the big rocks for the day.
 ## 20/05/19 08:28 
 Comic Should honestly reflect what happened last night without causing Kat any futher pain. 
 
+## 20/05/19 08:48 Hmmm, it didn't unfortunately,
+
 
 
 
