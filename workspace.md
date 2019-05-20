@@ -28,17 +28,11 @@ Today's THING is that I am sick and I don't have enough energy.
 
 
 
-## 16/05/19 10:08 
-Okay, today is about Kat's owrk. 
+## 16/05/19 10:08, to 10:20 
+Doing the Code for Kat. 
 
-I've got some code to run. 
+Most of today is about restructuring, moving into classes and using the new input files. A lot of today was working out why some tests are slow and that got a lot to do with 
 
-
-What's the steps? 
-
-* Find and open the folder 
-* Take git snapshot
-* Look at the old tests see which ones can be/should be changed. 
 
 
 ## 16/05/19 10:16 
@@ -153,6 +147,8 @@ Okay, the exam info is in the sheet, now what?
 
 
 
+## 20/05/19 07:57, Hello. 
+* Working out the big rocks for the day. 
 
 
 
