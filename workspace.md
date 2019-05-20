@@ -22,6 +22,13 @@ Working out the big rocks for the day.
 * Wipe the system. 
 
 
+## 20/05/19 12:10 
+Start again. 
+* Running the rests 
+
+## 20/05/19 12:12 
+You know what, I'd like to get vim quickfix working.
+
 
 
 

@@ -1,4 +1,3 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -72,3 +71,4 @@ x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-05-20 Call Mum about comic con 
 x 2019-05-20 Comic 
 x 2019-05-20 Do thnak yous. 
+x 2019-05-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
