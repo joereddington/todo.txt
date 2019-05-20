@@ -16,6 +16,13 @@ Working out the big rocks for the day.
 * Work out Comic Con 
 
 
+## 20/05/19 08:28 
+Comic Should honestly reflect what happened last night without causing Kat any futher pain. 
+
+
+
+
+
 
 
 

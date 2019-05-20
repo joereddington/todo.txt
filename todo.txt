@@ -1,4 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Call Mum about comic con 
 (A) Comic 
 (A) Do thnak yous. 
@@ -20,8 +20,10 @@
 (D) Take photo of the dinosaur 
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT
+(E) CHekc if Clare needs to change her address 
 (E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check pensions amount 
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Children in need: map and sprint 
@@ -46,6 +48,7 @@
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Put amazon card on watch and on last pass 
+(E) Put carabaines on Nova's Bike 
 (E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 (E) Review all projects in github +Overhead Time: 
 (E) Review all projects in github +Overhead Time: @live
@@ -60,7 +63,6 @@
 (E) Stop the regualr payment to 'spending' and remove card' 
 (E) TSE +Health Time:04 
 (E) Take photos of milk, shoe, up, outside and 'all done', ball, seesaw, kick, ear, mouth, nose 
-(E) CHekc if Clare needs to change her address 
 (E) Tidy garage 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
@@ -69,5 +71,3 @@
 (E) Write a letter to Nova +Family Time:30 
 (E) Write script that produces list of 'detection' files Time:40
 jE) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Put carabaines on Nova's Bike 
-(E) Check pensions amount 
