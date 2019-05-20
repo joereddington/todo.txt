@@ -24,6 +24,9 @@ Comic Should honestly reflect what happened last night without causing any futhe
 ## 20/05/19 09:01 
 What's next? Calling mum, sh'es NOT answering. 
 
+## 20/05/19 09:01 to 09:25 
+
+
 
 
 
