@@ -10,6 +10,10 @@ Okay, what's happening now?
 Got to write the code. Let's start by getting the tests right. 
 
 
+## 21/05/19 10:41 
+Things are starting to work. The big [200~THING[201~ is the project response and then the actual [200~THING[201~g 
+
+
 
 #Stack 
 
