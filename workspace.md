@@ -19,6 +19,9 @@ There should be a plan.
 ## 21/05/19 20:40 
 Next is the main function. 
 
+## 21/05/19 22:41 
+Just had to change the input file 
+
 
 
 #Stack 
