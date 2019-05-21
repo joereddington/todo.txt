@@ -8,17 +8,14 @@
 (D) Take photo of the dinosaur 
 (E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT
-(E) CHekc if Clare needs to change her address 
+(E) Check if Clare needs to change her address 
 (E) Check pensions amount 
 (E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Children in need: map and sprint 
 (E) Cut nails +Health @nova  Time:04 
 (E) Empty picture frames and put in memories folder 
 (E) Find microphone 
-x 2019-05-21 Find out about command line video editing 
-(E) Find the occasional event plans 
 (E) Fix Nova's blind
 (E) Fix bug in watch sleep tracking 
 (E) Floss +Health @nova  Time:05
@@ -29,6 +26,7 @@ x 2019-05-21 Find out about command line video editing
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make workstation spotless +Overhead @nova  
+(E) Make apointment with the apple store 
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
@@ -43,6 +41,7 @@ x 2019-05-21 Find out about command line video editing
 (E) Send back arts council! 
 (E) Tidy garage 
 (E) Vitimin Tablet +Health @nova  Time:02
+(E) Write a blog post for your occasional event plans 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write script that produces list of 'detection' files Time:40
 x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
@@ -55,8 +54,10 @@ x 2019-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2019-05-21 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-05-21 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-05-21 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-05-21 Check that everything in the 'in process' box really does have a task+Overhead @nova 
 x 2019-05-21 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-05-21 Empty crate completely +Overhead @nova  Time:15 
+x 2019-05-21 Find out about command line video editing 
 x 2019-05-21 Follow up with Laura 
 x 2019-05-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 x 2019-05-21 Go through Walking Meeting with Kat +Family Time:180  
