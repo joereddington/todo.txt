@@ -1,27 +1,19 @@
 # Workspace 
 ##  Notes from current sprint 
 
+## 21/05/19 19:36 
+I have been lax.
 
-## 21/05/19 10:20
+There should be a plan.
 
-Okay, what's happening now?
+* Catch the exception and make it clear that it's a data error.  
+* Work through the rest of the data until all errors are handled. [200~NO[201~
+* Create a main function for the process.py: it should clearly output the errors. 
+* Create the project file 
+  * Create a filter for boys, girls, and all of the special circumstances, along with tests 
+* Rearrange the testing so that there are several different setup/takedown classes 
+* Redo the git history 
 
-## 21/05/19 10:23 
-Got to write the code. Let's start by getting the tests right. 
-
-
-## 21/05/19 10:41 
-Things are starting to work. The big [200~THING[201~ is the project response and then the actual [200~THING[201~g 
-
-## 21/05/19 10:51 
-Okay, significant bugs: 
-
-* Suggestion only ever gives work on both. 
-* the pass marks are inverted
-* feedback only given for 0%
-* lanauge and mathamatics seem fliped on the first one. 
-
-## 21/05/19 10:54 
 
 
 
