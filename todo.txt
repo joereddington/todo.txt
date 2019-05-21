@@ -23,8 +23,6 @@
 (E) Get long white usb cable for TV power 
 (E) Glue down wood for the cup cuboard 
 (E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make apointment with the apple store 
 (E) Make workstation spotless +Overhead @nova  
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
@@ -59,7 +57,9 @@ x 2019-05-21 Follow up with Laura
 x 2019-05-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 x 2019-05-21 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-05-21 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-05-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-05-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-21 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-05-21 Map flowers for turing 2019 Time:10
 x 2019-05-21 More work on the Shazam article 
 x 2019-05-21 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
