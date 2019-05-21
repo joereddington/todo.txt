@@ -12,7 +12,7 @@ There should be a plan.
 . Create the project file 
   . Create tests for filer for gender
   * Fix 'percentage_of_passing' because it's the pecentage of the students who pass, NOT the percentage of students that took the exam 
-  * Create a filter for boys, girls, and all of the special circumstances, along with tests 
+  . Create a filter for boys, girls, and all of the special circumstances, along with tests 
 * Rearrange the testing so that there are several different setup/takedown classes 
 * Redo the git history 
 
@@ -29,6 +29,11 @@ So where am I?
 
 ## 21/05/19 23:29 
 * Fix the broken test (again) 
+* Check the construction of the table 
+* Do the rest of the project report elements 
+* Write the readme.txt file 
+* Rearrange the testing so that there are several different setup/takedown classes 
+* Redo the git history 
 
 
 
