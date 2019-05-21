@@ -2,7 +2,7 @@
 (C) Implement "Reasons I get my phone out" list 
 (C) Put in Website changes for Open Voice Factory Time:20
 (C) Read 200 pages of book for exam  Time:180
-(C) Return old hinges
+(C) Put old hinges in Nova pram
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fill out Richard's CM form.  Time:08
 (D) Take photo of the dinosaur 
@@ -10,7 +10,8 @@
 (E) Backup Dreamhost +EQT
 (E) Check if Clare needs to change her address 
 (E) Check pensions amount 
-(E) Check ranking scripts +Overhead
+x 2019-05-21 Check ranking scripts +Overhead
+(C) Fix http://equalitytime.co.uk/rankingdis/
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Children in need: map and sprint 
 (E) Cut nails +Health @nova  Time:04 
@@ -25,8 +26,8 @@
 (E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make workstation spotless +Overhead @nova  
 (E) Make apointment with the apple store 
+(E) Make workstation spotless +Overhead @nova  
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
@@ -35,7 +36,6 @@
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) See if you can change the pressure on the kitchen tap 
 (E) Send Trustees something nice about outcomes +EQT
 (E) Send back arts council! 
@@ -69,6 +69,7 @@ x 2019-05-21 Put amazon card on watch and on last pass
 x 2019-05-21 Put carabaines on Nova's Bike 
 x 2019-05-21 Redo printouts for keys 
 x 2019-05-21 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-05-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-05-21 Search for funding for eQuality Time Projects +EQT
 x 2019-05-21 Send Hannah Newton card if we already haven't
 x 2019-05-21 Stop the regualr payment to 'spending' and remove card' 
