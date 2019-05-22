@@ -35,6 +35,9 @@ So where am I?
 * Rearrange the testing so that there are several different setup/takedown classes 
 * Redo the git history 
 
+## 22/05/19 09:54 
+Okay, fixing tests
+
 
 
 #Stack 
