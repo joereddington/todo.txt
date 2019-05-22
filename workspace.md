@@ -56,6 +56,12 @@ Accounts: Plan.
 * Find the old accounts 
 - Oh, we already had accounts 
 * Make a list of the sections. 
+  * Income statment 
+  * Balance sheet o
+
+
+Wait... https://www.gov.uk/government/publications/charity-reporting-and-accounting-the-essentials-march-2015-cc15c/charity-reporting-and-accounting-the-essentials-march-2015
+Seems to say that I need independent examination .
 
 
 
