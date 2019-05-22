@@ -39,6 +39,32 @@ So where am I?
 Okay, fixing tests
 
 
+## 22/05/19 16:33 
+Okay, what is my comic? Is it yesterday or today? 
+
+
+Was it: 
+Big run, 
+dentist funny 
+late night code... 
+
+Or... 
+Cracked code, dealt with fear/passion
+
+## 22/05/19 16:36 
+Accounts: Plan.
+* Find the old accounts 
+- Oh, we already had accounts 
+* Make a list of the sections. 
+
+
+
+
+
+
+
+
+
 
 #Stack 
 
