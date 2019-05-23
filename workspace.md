@@ -73,6 +73,11 @@ Getting started with the WWW code
 Need to install jQ 
 
 
+## 23/05/19 14:56 
+Okay, wasted the day, what can I do to bring it back? I have one hour. 
+
+
+I guess I want the emails of previous donors right? 
 
 
 
