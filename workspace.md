@@ -80,6 +80,17 @@ Okay, wasted the day, what can I do to bring it back? I have one hour.
 I guess I want the emails of previous donors right? 
 
 
+## 23/05/19 15:34 
+I have done *so* little today.  Like properly *so* little. 
+
+* Mostly because of fear, or lack of sleep. 
+* I've exercised, slept, and will be back up to full strengh soon. 
+
+
+
+
+
+
 
 
 
