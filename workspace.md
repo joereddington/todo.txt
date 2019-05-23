@@ -64,6 +64,10 @@ Wait... https://www.gov.uk/government/publications/charity-reporting-and-account
 Seems to say that I need independent examination .
 
 
+## 23/05/19 10:48 
+Getting started with the WWW code 
+
+
 
 
 
