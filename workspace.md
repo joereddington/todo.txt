@@ -37,8 +37,13 @@ Small diversion while I looked for the correct way to do a caption: there isn't 
 ## 27/05/19 12:30,
 But first, making lunch. 
 
-## 27/05/19 13:50 
-Briefly calling in to check on SE notifiaitons. 
+## 27/05/19 13:50 to 14:07,
+Called in to check on SE notifications and after a brief poke, created [a pull request](https://github.com/ferrine/md-img-paste.vim/issues/12) for the issue with macvim. 
+
+
+
+## 27/05/19 14:08 
+Regardless, the issue at question was my ability to create comics, and I think I do need to quickly be able to put in photos that have arrived. First I want to check if I can drag to powerpoint.   
 
 
 
