@@ -31,8 +31,17 @@ I've installed their plugin, but it needs xclip apparently.
 I believe I have it working, but only for images in the clipboard, rather than files in the clipboard. Needs a bit of extension there.  
 
 ## 27/05/19 11:48 
-Asked a question here: https://vi.stackexchange.com/questions/20121/echo-hasmac-returns-0-but-im-on-a-mac
+Asked a question [here](https://vi.stackexchange.com/questions/20121/echo-hasmac-returns-0-but-im-on-a-mac)
 
+![image form screenshot](http://localhost:8000/todo.txt/img/2019-05-27-11:54.png)
+
+
+## 27/05/19 11:57 
+Hmm, okay so there is a problem with image insertion in general, and I'm unsual how to deal with that, presumably the easy way is to change something in penfold. Let's have a look. 
+
+
+## 27/05/19 11:55 
+Okay, but the issue is that this doens't appear in penfold, which is strange... 
 
 
 
