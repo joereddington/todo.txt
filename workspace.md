@@ -37,6 +37,9 @@ Small diversion while I looked for the correct way to do a caption: there isn't 
 ## 27/05/19 12:30,
 But first, making lunch. 
 
+## 27/05/19 13:50 
+Briefly calling in to check on SE notifiaitons. 
+
 
 
 
