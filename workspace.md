@@ -108,7 +108,13 @@ I'm suddenly wondering how much of this I can do with CSS... Possibly the first 
 Like, I'm pretty sure that the text is pretty doable, and they layout is. And lots of THINGs can be automated. Including print-as-pdf.   
 
 
+Like, it would be genuinely harder to put THINGs into Instagram, but a lot easier to put them in? Right? No, harder, would definately be harder, The only THING we like is that the images might also have the text. It would be good to generate the text for something else, but we like it where it is.   
 
+
+
+
+
+## 27/05/19 18:21 Oh, Annyoing the HEIC images don't wokr. 
 
 
 
