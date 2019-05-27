@@ -31,7 +31,11 @@ There are some ongoing issues:
 
 ## 27/05/19 12:24 
 No, the next steps are to now try and demonstrate a comic with this. 
+Small diversion while I looked for the correct way to do a caption: there isn't one, you simply write. 
 
+
+## 27/05/19 12:30,
+But first, making lunch. 
 
 
 
