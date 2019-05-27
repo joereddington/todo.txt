@@ -46,8 +46,22 @@ Called in to check on SE notifications and after a brief poke, created [a pull r
 Regardless, the issue at question was my ability to create comics, and I think I do need to quickly be able to put in photos that have arrived. First I want to check if I can drag to powerpoint.   
 
 
+## 27/05/19 14:09,
+Can't drag, but can copy-paste easily. I'll take that. 
 
+But the importing of images. Hmm.  
 
+[This vim tip](https://vim.fandom.com/wiki/Drag_and_drop_file_names_into_the_Vim_command_line) suggests that I can do it by drag and drop into the command line, which futher suggests that I could simply write a command that took it as an argument. 
+
+I've tested with dragging into echo, let me create by first vim script funciton. 
+
+Now reading [this](https://www.tautvidas.com/blog/2012/09/embedding-images-in-markdown-with-vim/). 
+
+The possibilities are these: Either create a command line script that drops the markdown into the clipboard, or create a vim command that inserts it directly.  "/Users/josephreddington/Desktop/Screenshot\ 2019-05-25\ at\ 16.38.47.png" 
+
+Or directly insert... 
+
+![this image]("/Users/josephreddington/Desktop/alldone.jpeg")
 
 
 
