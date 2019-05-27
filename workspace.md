@@ -64,4 +64,13 @@ Or directly insert...
 ![this image]("/Users/josephreddington/Desktop/alldone.jpeg")
 
 
+...which only will really work if they are in the image directory, but is a reasonable way of doing it in the circumstances. 
+
+![this image]("img/Screenshot\ 2019-05-25\ at\ 16.38.47.png")
+
+## 27/05/19 14:23 
+Taking Nova out. 
+
+
+
 
