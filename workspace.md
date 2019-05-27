@@ -91,14 +91,24 @@ Breakfast in bed.
 This is an ordered THING, so it's pretty easy to set up into a comic I think .
 
 
-![image]("../todo.txt./img/IMG_1486.HEIC")
-![image]("../todo.txt/img/IMG_1489.HEIC")
-![image]("../todo.txt/img/IMG_1490.PNG")
-![image]("../todo.txt/img/IMG_1501.HEIC")
-![image]("../todo.txt/img/_JOE2627.JPG")
-![image]("../todo.txt/img/_JOE2630.jpg")
-![image]("../todo.txt/img/_JOE2633.JPG")
-![image]("../todo.txt/img/_JOE2637.JPG")
+![image](../todo.txt./img/IMG_1486.HEIC)
+![image](../todo.txt/img/IMG_1489.HEIC)
+![image](../todo.txt/img/IMG_1490.PNG)
+![image](../todo.txt/img/IMG_1501.HEIC)
+![image](../todo.txt/img/_JOE2627.JPG)
+![image](../todo.txt/img/_JOE2630.jpg)
+![image](../todo.txt/img/_JOE2633.JPG)
+![image](../todo.txt/img/_JOE2637.JPG)
+
+
+## 27/05/19 18:13 
+I'm suddenly wondering how much of this I can do with CSS... Possibly the first page at least...
+
+
+Like, I'm pretty sure that the text is pretty doable, and they layout is. And lots of THINGs can be automated. Including print-as-pdf.   
+
+
+
 
 
 
