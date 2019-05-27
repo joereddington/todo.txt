@@ -14,6 +14,10 @@ Some bugs: refresh isn't working well...
 
 
 
+## 27/05/19 11:10 
+Working on the import scripts some more.  
+
+[This person](https://vi.stackexchange.com/questions/14114/paste-link-to-image-in-clipboard-when-editing-markdown) knows exactly what I want.
 
 
 
@@ -21,6 +25,3 @@ Some bugs: refresh isn't working well...
 
 
 
-##  New actions 
-
-# Media 
