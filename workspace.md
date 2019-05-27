@@ -78,4 +78,29 @@ Testing Comic for Yesterday.
 
 
 
+So what's the theme. 
+
+
+
+What did I do yesterday that I was proud of: 
+
+Breakfast in bed. 
+* Sorting boxes from home. 
+* Getting the crap kicked out of me. 
+
+This is an ordered THING, so it's pretty easy to set up into a comic I think .
+
+
+![image]("../todo.txt./img/IMG_1486.HEIC")
+![image]("../todo.txt/img/IMG_1489.HEIC")
+![image]("../todo.txt/img/IMG_1490.PNG")
+![image]("../todo.txt/img/IMG_1501.HEIC")
+![image]("../todo.txt/img/_JOE2627.JPG")
+![image]("../todo.txt/img/_JOE2630.jpg")
+![image]("../todo.txt/img/_JOE2633.JPG")
+![image]("../todo.txt/img/_JOE2637.JPG")
+
+
+
+
 
