@@ -21,8 +21,17 @@ Working on the import scripts some more.
 
 
 
+
+
 ## 27/05/19 11:26 
 I've installed their plugin, but it needs xclip apparently. 
+
+
+## 27/05/19 11:42 
+I believe I have it working, but only for images in the clipboard, rather than files in the clipboard. Needs a bit of extension there.  
+
+## 27/05/19 11:48 
+Asked a question here: https://vi.stackexchange.com/questions/20121/echo-hasmac-returns-0-but-im-on-a-mac
 
 
 
