@@ -21,6 +21,9 @@ Working on the import scripts some more.
 
 
 
+## 27/05/19 11:26 
+I've installed their plugin, but it needs xclip apparently. 
+
 
 
 
