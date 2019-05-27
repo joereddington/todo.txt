@@ -117,6 +117,13 @@ Like, it would be genuinely harder to put THINGs into Instagram, but a lot easie
 ## 27/05/19 18:21 Oh, Annyoing the HEIC images don't wokr. 
 
 
+## 27/05/19 21:31 
+Hmmm, So, there's a potential for a html based version. But I feel like it doesn't gain anything in the final solution. 
+
+
+However, there is quite a lot we can do to improve the look of penfold. Mostly in the css.  
+
+
 
 
 
