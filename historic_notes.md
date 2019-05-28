@@ -86,3 +86,6 @@ Called mum again
 ## 20/05/19 10:26 
 Okay, 
 - 20/05/19 smallest next step:  get water bottle and tea 
+## 28/05/19 09:57 to 10:14, working on Accounts 
+## 28/05/19 10:14 to 10:41 
+Wow, that's how long it took to make a cup of tea. 
