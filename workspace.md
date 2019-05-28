@@ -129,7 +129,13 @@ Going to get started with redit
 
 ## 28/05/19 06:56 
 
+So what would the comic of yesterday be? 
 
+
+So, slight problem in that I've only got two photos.  What did I do? 
+
+
+It was actually quite a good day. But never mind that. Let's sort out this. 
 
 
 
