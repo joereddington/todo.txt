@@ -12,4 +12,11 @@ Commit was 710320e8ea739a7fafb810f6a90dba70578d9cfc
 Been literally writing up this file. 
 
 
+## 28/05/19 12:20 Back. But Kat has given me something to do.  
 
+
+## 28/05/19 15:26 Back again. 
+
+Okay, we're at zero. What happens now? 
+
+We do other Stuff

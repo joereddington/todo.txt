@@ -1,39 +1,84 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Email accountants 
 (A) Email the rest of the trustees 
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Fix http://equalitytime.co.uk/rankingdis/
 (C) Implement "Reasons I get my phone out" list 
 (C) Put in Website changes for Open Voice Factory Time:20
 (C) Put old hinges in Nova pram
 (C) Read 200 pages of book for exam  Time:180
+(C) Send something to the grandparent facebook group 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Fill out Richard's CM form.  Time:08
 (D) Take photo of the dinosaur 
+(E) 10 Contacts on the contact list 
 (E) Backup Dreamhost +EQT
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if Clare needs to change her address 
 (E) Check pensions amount 
+(E) Check team cooper visit dates: every two weeks  +Family Time:03 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook+Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check the next school time +EQT Time:03 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Children in need: map and sprint 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
+(E) Empty crate completely +Overhead @nova  Time:15 
 (E) Empty picture frames and put in memories folder 
 (E) Find microphone 
 (E) Fix Nova's blind
 (E) Fix bug in watch sleep tracking 
+(E) Floss +Health @nova  Time:05
+(E) Get Flu vaxine +Health
 (E) Get lights for streaming in office. 
 (E) Get long white usb cable for TV power 
 (E) Glue down wood for the cup cuboard 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make apointment with the apple store 
+(E) Make sure paper crane is in bat@nova @phone  Time:03 
 (E) Make workstation spotless +Overhead @nova  
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Open list of projects to be funded +EQT
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 (E) Review all projects in github +Overhead Time: 
 (E) Review all projects in github +Overhead Time: @live
 (E) Review your highlights and notes from Kindle books +Overhead
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Search for funding for eQuality Time Projects +EQT
 (E) See if you can change the pressure on the kitchen tap 
 (E) Send Trustees something nice about outcomes +EQT
 (E) Send back arts council! 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Tidy garage 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Video call with Kat family +Family @nova  Time:15 
 (E) Vitimin Tablet +Health @nova  Time:02
+(E) Wash sheets and towels +Family @nova  Time:10 
 (E) Write a blog post for your occasional event plans 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write script that produces list of 'detection' files Time:40
@@ -76,97 +121,3 @@ x 2019-05-21 Stop the regualr payment to 'spending' and remove card'
 x 2019-05-21 TSE +Health Time:04 
 x 2019-05-21 Take photos of milk, shoe, up, outside and 'all done', ball, seesaw, kick, ear, mouth, nose 
 x 2019-05-21 Update the youtube watch list +Family Time:10 @phone @nova
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Get Flu vaxine +Health
-(D) Do full accounts algorithm +EQT Time:99
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Write a letter to Nova +Family Time:30 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(E) Floss +Health @nova  Time:05
-(E) Vitimin Tablet +Health @nova  Time:02
-(C) Send something to the grandparent facebook group 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Write a letter to Nova +Family Time:30 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Open list of projects to be funded +EQT
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Floss +Health @nova  Time:05
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) 10 Contacts on the contact list 
-(E) Check team cooper visit dates: every two weeks  +Family Time:03 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Empty crate completely +Overhead @nova  Time:15 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through Walking Meeting with Kat +Family Time:180  
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) Log weight +Health  Time:02 
-(E) Make sure paper crane is in bat@nova @phone  Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Publicly thank someone +Overhead Time:15 
-(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
-(E) Review all projects in github +Overhead Time: 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Video call with Kat family +Family @nova  Time:15 
-(E) Wash sheets and towels +Family @nova  Time:10 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
