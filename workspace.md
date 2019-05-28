@@ -60,6 +60,20 @@ Doing the facebook launch of FFT
 ## 28/05/19 10:52, Kat here.  
 
 
+## 28/05/19 11:02 
+Okay, the other project of the day is to properly remove dropbox from the machine. Pressumably the easy way for me to do that is with selective sync.  
+
+
+- [ ]  Find out how big the folder is. 
+- [ ] Gradually remove STUFF until it's small and easy and everything is up to day.  
+- [ ] Remove all remaining STUFF. 
+
+
+
+![It's this that makes it hard](img/2019-05-28-11:04.png)
+
+
+I could simply leave it alone for a while so that I can keep working. 
 
 
 
