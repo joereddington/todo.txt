@@ -69,6 +69,11 @@ Okay, the other project of the day is to properly remove dropbox from the machin
 - [ ] Remove all remaining STUFF. 
 
 
+No
+
+- [ ] Start again from a new user account and do everything *properly* 
+
+
 
 ![It's this that makes it hard](img/2019-05-28-11:04.png)
 
@@ -86,6 +91,18 @@ Hmm, still 95 files 1 section. Still haven't got even a fucking size on the fold
 
 ## 28/05/19 11:18 
 Okay, doing Kat THING 
+
+
+- [ ] importing the new data 
+- [ ] Checking the data, 
+- [ ] Removing the error about questions 
+- [ ] Send kat back the errors 
+- [ ] disagreate by gender 
+- [ ] Send back the report 
+
+
+## 28/05/19 11:25 
+Have imported the new data 
 
 
 
