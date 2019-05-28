@@ -89,20 +89,23 @@ Doing emails while I wait.
 Hmm, still 95 files 1 section. Still haven't got even a fucking size on the folder..  
 
 
-## 28/05/19 11:18 
-Okay, doing Kat THING 
+## 28/05/19 11:18  to 11:32:
+Processed data for Kat, made a chance to the process, sent her back the new files. 
+Commit was 710320e8ea739a7fafb810f6a90dba70578d9cfc 
 
-
-- [ ] importing the new data 
-- [ ] Checking the data, 
-- [ ] Removing the error about questions 
-- [ ] Send kat back the errors 
-- [ ] disagreate by gender 
-- [ ] Send back the report 
 
 
 ## 28/05/19 11:25 
 Have imported the new data 
 
+## 28/05/19 11:32, 
+Done everything but the disaggregation.  
 
 
+
+## 28/05/19 11:33 
+Okay, I'm going to put this file on the server and then I'm going to work out the best way of moving THINGs over.  
+
+
+## 28/05/19 11:33 
+Hmm, This file is currently a bit random and doesn't produce good notes. 
