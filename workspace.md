@@ -3,72 +3,6 @@ http://localhost:8000/penfold/index.html?filename=http://localhost:8000/todo.txt
 ##  Notes from current sprint 
 
 
-## 27/05/19 14:08 to 14:23
-Checked that it was easy to copy paste images into powerpoint. 
-
-But the importing of images. Hmm.  
-
-[This vim tip](https://vim.fandom.com/wiki/Drag_and_drop_file_names_into_the_Vim_command_line) suggests that I can do it by drag and drop into the command line, which futher suggests that I could simply write a command that took it as an argument. 
-
-The possibilities are these: Either create a command line script that drops the markdown into the clipboard, or create a vim command that inserts it directly.  "/Users/josephreddington/Desktop/Screenshot\ 2019-05-25\ at\ 16.38.47.png" 
-
-Or directly insert... 
-
-...which only will really work if they are in the image directory, but is a reasonable way of doing it in the circumstances. 
-
-
-
-## 27/05/19 17:56 
-Testing Comic for Yesterday. 
-
-
-
-So what's the theme. 
-
-
-
-What did I do yesterday that I was proud of: 
-
-Breakfast in bed. 
-* Sorting boxes from home. 
-* Getting the crap kicked out of me. 
-
-This is an ordered THING, so it's pretty easy to set up into a comic I think .
-
-
-![image](../todo.txt./img/IMG_1486.HEIC)
-![image](../todo.txt/img/IMG_1489.HEIC)
-![image](../todo.txt/img/IMG_1490.PNG)
-![image](../todo.txt/img/IMG_1501.HEIC)
-![image](../todo.txt/img/_JOE2627.JPG)
-![image](../todo.txt/img/_JOE2630.jpg)
-![image](../todo.txt/img/_JOE2633.JPG)
-![image](../todo.txt/img/_JOE2637.JPG)
-
-
-## 27/05/19 18:13 
-I'm suddenly wondering how much of this I can do with CSS... Possibly the first page at least...
-
-
-Like, I'm pretty sure that the text is pretty doable, and they layout is. And lots of THINGs can be automated. Including print-as-pdf.   
-
-
-Like, it would be genuinely harder to put THINGs into Instagram, but a lot easier to put them in? Right? No, harder, would definately be harder, The only THING we like is that the images might also have the text. It would be good to generate the text for something else, but we like it where it is.   
-
-
-
-
-
-## 27/05/19 18:21 Oh, Annyoing the HEIC images don't wokr. 
-
-
-## 27/05/19 21:31 
-Hmmm, So, there's a potential for a html based version. But I feel like it doesn't gain anything in the final solution. 
-
-
-However, there is quite a lot we can do to improve the look of penfold. Mostly in the css.  
-
-
 ## 28/05/19 06:47 
 Going to get started with redit 
 
@@ -118,6 +52,12 @@ Finished writing up.
 Wow, that's how long it took to make a cup of tea. 
 
 
+
+## 28/05/19 10:51 
+Doing the facebook launch of FFT
+
+
+## 28/05/19 10:52, Kat here.  
 
 
 
