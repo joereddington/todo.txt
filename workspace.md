@@ -124,6 +124,10 @@ Hmmm, So, there's a potential for a html based version. But I feel like it doesn
 However, there is quite a lot we can do to improve the look of penfold. Mostly in the css.  
 
 
+## 28/05/19 06:47 
+Going to get started with redit 
+
+
 
 
 
