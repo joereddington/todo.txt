@@ -77,5 +77,15 @@ I could simply leave it alone for a while so that I can keep working.
 
 
 
+## 28/05/19 11:14 
+Doing emails while I wait.
+
+## 28/05/19 11:16 
+Hmm, still 95 files 1 section. Still haven't got even a fucking size on the folder..  
+
+
+## 28/05/19 11:18 
+Okay, doing Kat THING 
+
 
 
