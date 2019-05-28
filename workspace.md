@@ -138,4 +138,7 @@ So, slight problem in that I've only got two photos.  What did I do?
 It was actually quite a good day. But never mind that. Let's sort out this. 
 
 
+## 28/05/19 07:24 
+So, what was I doing yesterday? I was making a comic and making it easy to insert pictures into issue.  
+
 
