@@ -89,7 +89,7 @@ So, what was I doing yesterday? I was making a comic and making it easy to inser
 
 
 ## 28/05/19 09:53 
-Hello. I think today's comic is going to be about FFT and coding, and writing up.   
+Hello. I think today's comic is going to be about FFT and coding, and writing up. Also removing from Dropbox. 
 
 
 
@@ -102,7 +102,15 @@ Ringing mum about account
 
 Brief Summary: A combination of illness, poor timing, and Not Knowing the rules means we are very likely to pay a £150 fine for late filling of accounts.  
 
-Less brief: Some time ago we engagued Stephen Shepard to do our accounts for 2017-2018. He produced some accounts that, on inspection, were incorrect (counting grants as direct income for example). He also resigned shortly afterwards as trustees will remember.  Since then we moved our bookkeeping entirely onto Quickbooks, tightened various things up, and Joe started taking accounting exams. 
+Less brief: Some time ago we engaged Stephen Shepard to do our accounts for 2017-2018. He produced some accounts that, on inspection, were incorrect (counting grants as direct income for example). He also resigned shortly afterwards as trustees will remember.  Since then we moved our bookkeeping entirely onto Quickbooks, tightened various things up, and Joe started taking accounting exams. The updated plan was for Joe to produce the end of year accounts after Comic Relief and SHINE finished at the end of March. (They are due at the end of May) In the middle of last week it became clear that, because our turnover is high, accounts need to be submitted by an external person. We rang TLL (our old accountants) to get an assessment and they are happy to do them, but, because of the rules of their association, Stephen has to 'release' the accounts to TLL (effectively to stop companies trying to slip dodgy accounts past multiple accountants).  TLL's assessment was, effectively "By the time we've got the permissions back you're going to pay the late fine".  This is my fault on a few counts, partly misjudging Steven, but also not being on top of Comic Relief enough to do this early. 
+
+I do need to offically tell you that I'm planning on offically enguaging TLL to do the accounts. 
+
+
+
+## 28/05/19 10:14,
+
+Finished writing up.  
 
 
 
