@@ -974,3 +974,52 @@ x 2019-05-20 Make sure paper crane is in bat@nova @phone  Time:03
 x 2019-05-20 Open and log progress on the bid status document +EQT Time:04
 x 2019-05-20 Publicly thank someone +Overhead Time:15 
 x 2019-05-20 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-20 Call Mum about comic con 
+x 2019-05-20 Comic 
+x 2019-05-20 Do thnak yous. 
+x 2019-05-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-21 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-21 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-05-21 10 Contacts on the contact list 
+x 2019-05-21 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-05-21 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-05-21 Check ranking scripts +Overhead
+x 2019-05-21 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-05-21 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-05-21 Empty crate completely +Overhead @nova  Time:15 
+x 2019-05-21 Find out about command line video editing 
+x 2019-05-21 Floss +Health @nova  Time:05
+x 2019-05-21 Follow up with Laura 
+x 2019-05-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-05-21 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-05-21 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-05-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-05-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-21 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-05-21 Map flowers for turing 2019 Time:10
+x 2019-05-21 More work on the Shazam article 
+x 2019-05-21 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-05-21 Put amazon card on watch and on last pass 
+x 2019-05-21 Put carabaines on Nova's Bike 
+x 2019-05-21 Redo printouts for keys 
+x 2019-05-21 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-05-21 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-05-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-05-21 Search for funding for eQuality Time Projects +EQT
+x 2019-05-21 Send Hannah Newton card if we already haven't
+x 2019-05-21 Stop the regualr payment to 'spending' and remove card' 
+x 2019-05-21 TSE +Health Time:04 
+x 2019-05-21 Take photos of milk, shoe, up, outside and 'all done', ball, seesaw, kick, ear, mouth, nose 
+x 2019-05-28 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-05-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-28 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-05-28 Contact Nancy about birthday cake for Cak. 
+x 2019-05-28 Email the rest of the trustees 
+x 2019-05-28 Empty crate completely +Overhead @nova  Time:15 
+x 2019-05-28 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-05-28 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-05-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-05-28 Ping Zoe about visits 
+x 2019-05-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20

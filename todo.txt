@@ -1,125 +1,86 @@
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) Investigate richard's missing expenses
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Fix http://equalitytime.co.uk/rankingdis/
-(C) Implement "Reasons I get my phone out" list 
-(C) Put in Website changes for Open Voice Factory Time:20
-(C) Put old hinges in Nova pram
-(C) Read 200 pages of book for exam  Time:180
-(C) Review passwords and switch lasspass to new one. 
-(C) Send something to the grandparent facebook group 
-(D) Do full accounts algorithm +EQT Time:99
-(D) Fill out Richard's CM form.  Time:08
-(D) Take (photo of the dinosaur 
-(E) 10 Contacts on the contact list 
-(E) Backup Dreamhost +EQT
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check if Clare needs to change her address 
-(E) Check pensions amount 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the firebreak in: whatsapp and facebook+Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Children in need: map and sprint 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Empty picture frames and put in memories folder 
-(E) Find microphone 
-(E) Fix Nova's blind
-(E) Fix bug in watch sleep tracking 
-(E) Floss +Health @nova  Time:05
-(E) Get Flu vaxine +Health
-(E) Get lights for streaming in office. 
-(E) Get long white usb cable for TV power 
-(E) Glue down wood for the cup cuboard 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity 
-(E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make apointment with the apple store 
-(E) Make sure paper crane is in bat@nova @phone  Time:03 
-(E) Make workstation spotless +Overhead @nova  
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Publicly thank someone +Overhead Time:15 
-(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
-(E) Review all projects in github +Overhead Time: 
-(E) Review all projects in github +Overhead Time: @live
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Search for funding for eQuality Time Projects +EQT
-(E) See if you can change the pressure on the kitchen tap 
-(E) Send Trustees something nice about outcomes +EQT
-(E) Send back arts council! 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Tidy garage 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Video call with Kat family +Family @nova  Time:15 
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Wash sheets and towels +Family @nova  Time:10 
-(E) Watch a video about loft flooring. 
-(E) Write a blog post for your occasional event plans 
-(E) Write a letter to Nova +Family Time:30 
-(E) Write script that produces list of 'detection' files Time:40
-x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-20 Call Mum about comic con 
-x 2019-05-20 Comic 
-x 2019-05-20 Do thnak yous. 
-x 2019-05-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-05-21 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-21 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-05-21 10 Contacts on the contact list 
-x 2019-05-21 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-05-21 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-05-21 Check ranking scripts +Overhead
-x 2019-05-21 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-05-21 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-05-21 Empty crate completely +Overhead @nova  Time:15 
-x 2019-05-21 Find out about command line video editing 
-x 2019-05-21 Floss +Health @nova  Time:05
-x 2019-05-21 Follow up with Laura 
-x 2019-05-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2019-05-21 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-05-21 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-05-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-05-21 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-05-21 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-05-21 Map flowers for turing 2019 Time:10
-x 2019-05-21 More work on the Shazam article 
-x 2019-05-21 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-05-21 Put amazon card on watch and on last pass 
-x 2019-05-21 Put carabaines on Nova's Bike 
-x 2019-05-21 Redo printouts for keys 
-x 2019-05-21 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
-x 2019-05-21 Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-05-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-x 2019-05-21 Search for funding for eQuality Time Projects +EQT
-x 2019-05-21 Send Hannah Newton card if we already haven't
-x 2019-05-21 Stop the regualr payment to 'spending' and remove card' 
-x 2019-05-21 TSE +Health Time:04 
-x 2019-05-21 Take photos of milk, shoe, up, outside and 'all done', ball, seesaw, kick, ear, mouth, nose 
-x 2019-05-28 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-05-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-28 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-05-28 Contact Nancy about birthday cake for Cak. 
-x 2019-05-28 Email the rest of the trustees 
-x 2019-05-28 Empty crate completely +Overhead @nova  Time:15 
-x 2019-05-28 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-05-28 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-05-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-05-28 Ping Zoe about visits 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99 date:2019-05-29
+(C) Connect external drive. date:2019-05-29
+(C) Fix http://equalitytime.co.uk/rankingdis/ date:2019-05-29
+(C) Implement "Reasons I get my phone out" list  date:2019-05-29
+(C) Investigate richard's missing expenses date:2019-05-29
+(C) Put in Website changes for Open Voice Factory Time:20 date:2019-05-29
+(C) Put old hinges in Nova pram date:2019-05-29
+(C) Read 200 pages of book for exam  Time:180 date:2019-05-29
+(C) Review passwords and switch lasspass to new one.  date:2019-05-29
+(C) Send something to the grandparent facebook group  date:2019-05-29
+(C) Upload exported images to flickr date:2019-05-29
+(D) Do full accounts algorithm +EQT Time:99 date:2019-05-29
+(D) Fill out Richard's CM form.  Time:08 date:2019-05-29
+(D) Take (photo of the dinosaur  date:2019-05-29
+(E) 10 Contacts on the contact list  date:2019-05-29
+(E) Backup Dreamhost +EQT date:2019-05-29
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02  date:2019-05-29
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-05-29
+(E) Check if Clare needs to change her address  date:2019-05-29
+(E) Check pensions amount  date:2019-05-29
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-05-29
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-05-29
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20  date:2019-05-29
+(E) Check the firebreak in: whatsapp and facebook+Overhead Time:20  date:2019-05-29
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-05-29
+(E) Check the next school time +EQT Time:03  date:2019-05-29
+(E) Check £40 in Wallet +Overhead @nova  @phone  date:2019-05-29
+(E) Children in need: map and sprint  date:2019-05-29
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06  date:2019-05-29
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-05-29
+(E) Cut nails +Health @nova  Time:04  date:2019-05-29
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-05-29
+(E) Empty house inbox completely +Overhead @nova  Time:15  date:2019-05-29
+(E) Empty picture frames and put in memories folder  date:2019-05-29
+(E) Find microphone  date:2019-05-29
+(E) Fix Nova's blind date:2019-05-29
+(E) Fix bug in watch sleep tracking  date:2019-05-29
+(E) Floss +Health @nova  Time:05 date:2019-05-29
+(E) Get Flu vaxine +Health date:2019-05-29
+(E) Get lights for streaming in office.  date:2019-05-29
+(E) Get long white usb cable for TV power  date:2019-05-29
+(E) Glue down wood for the cup cuboard  date:2019-05-29
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-05-29
+(E) Go through Walking Meeting with Kat +Family Time:180   date:2019-05-29
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08  date:2019-05-29
+(E) Investigate NIHR Public Health Research Programme (PHR), Cobb Charity  date:2019-05-29
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  date:2019-05-29
+(E) Log weight +Health  Time:02  date:2019-05-29
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-05-29
+(E) Make apointment with the apple store  date:2019-05-29
+(E) Make sure paper crane is in bat@nova @phone  Time:03  date:2019-05-29
+(E) Make workstation spotless +Overhead @nova   date:2019-05-29
+(E) Open and log progress on the bid status document +EQT Time:04 date:2019-05-29
+(E) Open list of projects to be funded +EQT date:2019-05-29
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§ date:2019-05-29
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03  date:2019-05-29
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03  date:2019-05-29
+(E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-05-29
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-05-29
+(E) Publicly thank someone +Overhead Time:15  date:2019-05-29
+(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01  date:2019-05-29
+(E) Review all projects in github +Overhead Time:  date:2019-05-29
+(E) Review all projects in github +Overhead Time: @live date:2019-05-29
+(E) Review your highlights and notes from Kindle books +Overhead date:2019-05-29
+(E) Save a nice family memory +Family @phone @nova  Time:03  date:2019-05-29
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05  date:2019-05-29
+(E) Search for funding for eQuality Time Projects +EQT date:2019-05-29
+(E) See if you can change the pressure on the kitchen tap  date:2019-05-29
+(E) Send Trustees something nice about outcomes +EQT date:2019-05-29
+(E) Send back arts council!  date:2019-05-29
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-05-29
+(E) Tidy garage  date:2019-05-29
+(E) Trim nose hair +Health @nova  Time:05  date:2019-05-29
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-05-29
+(E) Video call with Kat family +Family @nova  Time:15  date:2019-05-29
+(E) Vitimin Tablet +Health @nova  Time:02 date:2019-05-29
+(E) Wash sheets and towels +Family @nova  Time:10  date:2019-05-29
+(E) Watch a video about loft flooring.  date:2019-05-29
+(E) Write a blog post for your occasional event plans  date:2019-05-29
+(E) Write a letter to Nova +Family Time:30  date:2019-05-29
+(E) Write script that produces list of 'detection' files Time:40 date:2019-05-29
