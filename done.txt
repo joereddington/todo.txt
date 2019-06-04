@@ -1077,3 +1077,28 @@ x 2019-05-29 Investigate NIHR Public Health Research Programme (PHR), Cobb Chari
 x 2019-05-29 Open list of projects to be funded +EQT date:2019-05-29
 x 2019-05-29 Change Clare address date:2019-05-29
 x 2019-05-29 Video of Nova saying dinosaur. date:2019-05-29
+x 2019-06-03 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-06-02 Open and log progress on the bid status document +EQT Time:04
+x 2019-06-03 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-03 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-03 10 Contacts on the contact list 
+x 2019-06-03 2. Switch to live account and start streaming +EQT @singleton Time:99 date:2019-05-29
+x 2019-06-03 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-03 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-03 Cut nails +Health @nova  Time:04 
+x 2019-06-03 Find out if Folio 303 was ever paid (46.35)
+x 2019-06-03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-06-03 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-03 Log weight +Health  Time:02 
+x 2019-06-03 Log weight +Health  Time:02  date:2019-05-29
+x 2019-06-03 Look in garage for old hinges date:2019-05-29
+x 2019-06-03 Make a list of good remaining subreddits. 
+x 2019-06-03 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-06-03 Move the bashrc file between accounts. Consider adding to VIMrc directory 
+x 2019-06-03 Open and log progress on the bid status document +EQT Time:04
+x 2019-06-03 Open support case for why your thermal camera listing isn't active. 
+x 2019-06-03 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-03 Publicly thank someone +Overhead Time:15 
+x 2019-06-03 Review all projects in github +Overhead Time: 
+x 2019-06-03 Send something to the grandparent facebook group 
