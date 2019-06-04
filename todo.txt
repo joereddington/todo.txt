@@ -11,11 +11,9 @@
 (E) Get glue to glue down wood for the cup cupboard  date:2019-05-29
 (E) Make appointment with the apple store  date:2019-05-29
 (E) Map and sprint on Children in need bid date:2019-05-29
+(E) Map project for loft. 
 (E) SSH into both dream host accounts and create tar file  Dreamhost +EQT date:2019-05-29
 (E) Tidy garage date:2019-05-29
-x 2019-06-04 Vitimin Tablet +Health @nova  Time:02
-(E) Map project for loft. 
-(E) Write a blog post for your occasional event plans  date:2019-05-29
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30  date:2019-05-29
 (E) Write script that produces list of 'detection' files Time:40 date:2019-05-29
@@ -30,4 +28,6 @@ x 2019-06-04 Reduce dependence on Dreamhost.
 x 2019-06-04 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-06-04 Search for funding for eQuality Time Projects +EQT date:2019-05-29
 x 2019-06-04 Send back arts council!  date:2019-05-29
+x 2019-06-04 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-04 Write a blog post for your occasional event plans  date:2019-05-29
 x 2019-06-04 Write to Northern people about august holiday 
