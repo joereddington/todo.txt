@@ -1158,3 +1158,7 @@ x 2019-06-04 Write a letter to Nova +Family Time:30
 x 2019-06-04 Write a letter to Nova +Family Time:30  date:2019-05-29
 x 2019-06-04 Write script that produces list of 'detection' files Time:40 date:2019-05-29
 x 2019-06-04 Write to Northern people about august holiday 
+x 2019-06-04 Fill out Richard's CM form.  Time:08 date:2019-05-29
+x 2019-06-04 Get glue to glue down wood for the cup cupboard  date:2019-05-29
+x 2019-06-04 Glue stairs
+x 2019-06-04 Talk to someone about website changes for eQuality Time site 
