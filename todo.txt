@@ -1,14 +1,14 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-06-04 Glue stairs
-(C) Talk to someone about website changes for eQuality Time site 
+(C) Read 200 pages of book for exam  Time:180 date:2019-05-29
 (C) Update OVF website without the disclaimer. 
 (D) Change PIN on Amazon card 
+(D) Do full accounts algorithm +EQT Time:99 date:2019-05-29
 (D) Post Yvonne's glasses
 (D) See how the lock looks for the back gates 
 (E) Map project for loft. 
-(E) Try screen for creating Dreamhost backups 
-(C) Read 200 pages of book for exam  Time:180 date:2019-05-29
-(D) Do full accounts algorithm +EQT Time:99 date:2019-05-29
-(D) Fill out Richard's CM form.  Time:08 date:2019-05-29
-x 2019-06-04 Get glue to glue down wood for the cup cupboard  date:2019-05-29
 (E) Tidy garage date:2019-05-29
+(E) Try screen for creating Dreamhost backups 
+x 2019-06-04 Fill out Richard's CM form.  Time:08 date:2019-05-29
+x 2019-06-04 Get glue to glue down wood for the cup cupboard  date:2019-05-29
+x 2019-06-04 Glue stairs
+x 2019-06-04 Talk to someone about website changes for eQuality Time site 
