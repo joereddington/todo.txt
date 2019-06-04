@@ -1110,3 +1110,32 @@ x 2019-06-03 Go through phone and save all of the numbers +Overhead @nova @phone
 x 2019-06-03 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 x 2019-06-03 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-03 Trim nose hair +Health @nova  Time:05 
+x 2019-06-04 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-04 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-04 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-04 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-06-04 Check the next school time +EQT Time:03 
+x 2019-06-04 Confirm all visitors next week. 
+x 2019-06-04 Contact Nat with a 'where are we I got lost' email. 
+x 2019-06-04 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-06-04 Fill out sarah form 
+x 2019-06-04 Find package for microphone and take to post office. 
+x 2019-06-04 Get lights for streaming in office.  date:2019-05-29
+x 2019-06-04 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-06-04 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-06-04 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-04 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-06-04 Message Natatlie with "Is there anything you need from me right now" 
+x 2019-06-04 Pay the etherpad guy! 
+x 2019-06-04 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-06-04 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-06-04 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-06-04 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-06-04 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2019-06-04 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-06-04 Post that we are giving a talk about 
+x 2019-06-04 Review your highlights and notes from Kindle books +Overhead date:2019-05-29
+x 2019-06-04 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-06-04 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-06-04 Wash sheets and towels +Family @nova  Time:10 
+x 2019-06-04 Review all projects in github +Overhead Time:  date:2019-05-29

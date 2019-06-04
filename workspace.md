@@ -61,6 +61,12 @@ First we clear the space.
 ## 04/06/19 10:13 Cleaned up.  Clock ticking. 
 
 
+## 04/06/19 14:27 
+
+Reviewing github projects 
+
+
+
 
 
 # Next actions 
