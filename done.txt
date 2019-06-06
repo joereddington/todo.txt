@@ -1165,3 +1165,8 @@ x 2019-06-04 Talk to someone about website changes for eQuality Time site
 x 2019-06-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-05 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-06-05 Tidy garage date:2019-05-29
+x 2019-06-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-06 Floss +Health @nova  Time:05
+x 2019-06-06 Post Yvonne's glasses
+x 2019-06-06 Send something to the grandparent facebook group 
+x 2019-06-06 Vitimin Tablet +Health @nova  Time:02
