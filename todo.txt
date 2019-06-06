@@ -1,10 +1,18 @@
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Chase accountants 
 (C) Read 200 pages of book for exam  Time:180 date:2019-05-29
-(C) Update OVF website without the disclaimer. 
-(D) Change PIN on Amazon card 
+(D) Go to Co-op and Change PIN on Amazon card 
 (D) Do full accounts algorithm +EQT Time:99 date:2019-05-29
 (D) Post Yvonne's glasses
 (D) See how the lock looks for the back gates 
+(D) Update OVF website without the disclaimer. 
+(E) Contact R&Y about camps for E 
+(E) Floss +Health @nova  Time:05
 (E) Map project for loft. 
-(E) Tidy garage date:2019-05-29
+(E) Setup side table in garage for putting bits on. 
 (E) Try screen for creating Dreamhost backups 
+(E) Vitimin Tablet +Health @nova  Time:02
+x 2019-06-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-06 Send something to the grandparent facebook group 

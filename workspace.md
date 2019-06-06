@@ -72,8 +72,35 @@ Thinking about improving this file again.
 
 
 
+## 05/06/19 09:38 
+Okay, 
 
-# Next actions 
-Update a template comic. 
+What's going on. 
+
+
+Comic first. 
+
+## 05/06/19 09:42 
+What is wrong with me? I'm all over the place?  
+
+Shower would be good. 
+
+
+## 05/06/19 09:51 
+Worked through email a bit. 
+
+
+
+
+## 06/06/19 09:45 
+Okay, quick comic and go? 
+
+
+## 06/06/19 10:03 
+Still going. 
+
+## 06/06/19 11:04 
+That and a talk with mum 
+
 
 
