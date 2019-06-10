@@ -1173,3 +1173,20 @@ x 2019-06-06 Vitimin Tablet +Health @nova  Time:02
 x 2019-06-06 Put speechful into another useraccount,
 x 2019-06-08 1. Process Email @singleton +Overhead @phone  Time:50
 x 2019-06-08 2. Switch to live account and start streaming +EQT @singleton Time:99
+x (E) Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-06-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-10 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-06-10 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-10 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-06-10 Cut nails +Health @nova  Time:04 
+x 2019-06-10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-06-10 Download the amazon months sales figures +EQT
+x 2019-06-10 Get Flu vaxine +Health
+x 2019-06-10 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-06-10 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-10 Log weight +Health  Time:02 
+x 2019-06-10 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-06-10 Make workstation spotless +Overhead @nova  
+x 2019-06-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-10 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-06-10 Send something to the grandparent facebook group 
