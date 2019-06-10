@@ -1,14 +1,15 @@
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(C) 1. Process Email @singleton +Overhead @phone  Time:50
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Read 200 pages of book for exam  Time:180 date:2019-05-29
+(D) Check amazon for another lock for the back gates 
 (D) Do full accounts algorithm +EQT Time:99 date:2019-05-29
 (D) Go to Co-op and Change PIN on Amazon card and Post Yvonne's Glasses
-(D) See how the lock looks for the back gates 
+(D) Read 200 pages of book for exam  Time:180 date:2019-05-29
 (D) Update OVF website without the disclaimer.
 (E) Check and delete Novareddington.com on dreamhost  
 (E) Contact R&Y about camps for E 
-(E) Put speechful into another useraccount,
+(E) See if any of the luton gaming people want the cards 
 (E) Send feedback to architect, check amount spent 
 (E) Setup side table in garage for putting bits on. 
 c 2019-06-06 Chase accountants 
+x 2019-06-06 Put speechful into another useraccount,
+x 2019-06-08 1. Process Email @singleton +Overhead @phone  Time:50
+x 2019-06-08 2. Switch to live account and start streaming +EQT @singleton Time:99

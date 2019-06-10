@@ -89,3 +89,15 @@ Okay,
 ## 28/05/19 09:57 to 10:14, working on Accounts 
 ## 28/05/19 10:14 to 10:41 
 Wow, that's how long it took to make a cup of tea. 
+
+## 03/06/19 15:18 Appears to have disapeared. Moving on for a sec. 
+(C) Make a list of good remaining subreddits. 
+r/manchester... 
+r/compsci again...
+r/technology
+r/gaming (big swing) 
+r/programming
+r/learnprogramming. 
+r/gaybros
+r/rainbow
+r/games
