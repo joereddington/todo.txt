@@ -1170,3 +1170,6 @@ x 2019-06-06 Floss +Health @nova  Time:05
 x 2019-06-06 Post Yvonne's glasses
 x 2019-06-06 Send something to the grandparent facebook group 
 x 2019-06-06 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-06 Put speechful into another useraccount,
+x 2019-06-08 1. Process Email @singleton +Overhead @phone  Time:50
+x 2019-06-08 2. Switch to live account and start streaming +EQT @singleton Time:99
