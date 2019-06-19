@@ -1,44 +1,61 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
+(B) Do the spreadsheet for Kat
+(B) Send mum the list of constations
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Design card for KAt
 (C) Do full accounts algorithm +EQT Time:99 date:2019-05-29
-(C) Get card for KAt
+(C) Literally go to B&Q for gate STUFF. 
+(C) Make terms of reference for the next school 
+(C) Migrate the Open Voice Factory site/subsites to it's own user. 
 (C) Read 200 pages of book for exam  Time:180 date:2019-05-29
-(C) Test OVF website aid generation. 
-(D) Buy new lock for back gates on Amazon  
+(C) Send something to the grandparent facebook group 
+(C) Sort out bounty 
+(C) due:2019-06-18 Write to companies house 
+(C) message kat's dad back 
 (D) Do full accounts algorithm +EQT Time:99
-(E) 10 Contacts on the contact list 
-(E) Check if there are any moonpig cards to send this month +Overhead
+(D) Ring these guys https://www.london.gov.uk/what-we-do/london-family-fund
+(D) Send out messages for next games day 
+(D) Show kat STUFF in project drawer. 
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check the firebreak in: facebook. +Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Floss +Health @nova  Time:05
 (E) Go through Walking Meeting with Kat +Family Time:180  
 (E) Go to Co-op and Change PIN on Amazon card 
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make workstation spotless +Overhead @nova  
-(E) Open list of projects to be funded +EQT
-(E) Put more dreamhost accounts on their own user account 
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Put drill on charge for screws 
+(E) Put teabags on door of cupboard 
+(E) Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 (E) Review all projects in github +Overhead Time: 
-(E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
+(E) Try username for excel on phone 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitimin Tablet +Health @nova  Time:02
-(B) Put Amazon Invoice in the bank 
-(B) Renew insurance 
-(B) Work out rough plan for August visits 
-(C) due:2019-06-18 Write to companies house 
-(E) Get excel working on the phone
-(A) Create proper Kings Invoice and send to Dionee
-(B) Ring unity bank on 0345 140 1000 to check that everything can be uploaded. 
-(C) Plan social media calendar. 
-(E) Work out what to do about Desktop tracking. (a whole suite from todo.txt?) 
 (E) Write a letter to Nova +Family Time:30 
