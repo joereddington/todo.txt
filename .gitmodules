@@ -1,3 +1,6 @@
 [submodule "igor"]
 	path = igor
 	url = https://github.com/joereddington/igor
+[submodule "watcher"]
+	path = watcher
+	url = ./watcher

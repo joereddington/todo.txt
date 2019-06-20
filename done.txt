@@ -1340,3 +1340,60 @@ x 2019-06-17 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-17 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-06-17 Send rest of weekend thank you messages 
 x 2019-06-17 Setup google authenticator... 
+x 2019-06-19 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-06-19 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-06-19 Design card for KAt
+x 2019-06-19 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-06-19 Do the spreadsheet for Kat
+x 2019-06-19 Listen to  Randy Pausch Talk +Overhead @phone 
+x 2019-06-19 Log weight +Health  Time:02 
+x 2019-06-19 Open and log progress on the bid status document +EQT Time:04
+x 2019-06-19 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-06-19 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-06-19 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-06-19 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-06-19 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-06-19 Put drill on charge for screws 
+x 2019-06-19 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-06-19 Send mum the list of constations
+x 2019-06-19 Send something to the grandparent facebook group 
+x 2019-06-19 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-06-19 Sort out bounty 
+x 2019-06-19 Try username for excel on phone 
+x 2019-06-19 message kat's dad back 
+x 2019-06-19 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-19 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-06-19 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-19 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-19 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-06-19 Cut nails +Health @nova  Time:04 
+x 2019-06-19 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
+x 2019-06-19 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-19 Publicly thank someone +Overhead Time:15 
+x 2019-06-19 Check the firebreak in: facebook. +Overhead Time:20 
+x 2019-06-19 () Write a letter to Nova +Family Time:30 
+x 2019-06-19 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-19 Block out time for reading a book  Time:05
+x 2019-06-19 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-06-19 Floss +Health @nova  Time:05
+x 2019-06-19 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-06-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-06-19 Make workstation spotless +Overhead @nova   Time:05 
+x 2019-06-19 Map project for guys https://www.london.gov.uk/what-we-do/london-family-fund Time:10 #POWERHOUR
+x 2019-06-19 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2019-06-19 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-06-19 Send out messages for next games day Time:10 
+x 2019-06-19 Trim nose hair +Health @nova  Time:05 
+x 2019-06-19 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-06-19 due:2019-06-18 Write to companies house Time:15 
+x 2019-06-20 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-20 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-20 Fix stairgate 
+x 2019-06-20 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-06-20 Go to Co-op and Change PIN on Amazon card  Time:15  @nova
+x 2019-06-20 Literally go to B&Q for gate STUFF. Time:60 
+x 2019-06-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-20 Read 200 pages of book for exam  Time:180 date:2019-05-29
+x 2019-06-20 Vitimin Tablet +Health @nova  Time:02
