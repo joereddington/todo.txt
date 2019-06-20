@@ -1,6 +1,6 @@
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Buy new screws for gate 
+(C) Take Gate off stand and move for drilling. 
 (C) Check Natwest - did you accidentally get paid for the expenses? @nova
+(C) Confirm external donation to Flowers For Turing. 
 (C) Do full accounts algorithm +EQT Time:99 date:2019-05-29
 (C) Download and process the wikipedia files 
 (C) Migrate the Open Voice Factory site/subsites to it's own user. Time:60 
@@ -8,6 +8,10 @@
 (D) Apologise to Eleanor.  @nova 
 (D) Show kat STUFF in project drawer.  Time:05 
 (E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Find a GIMP video series to watch. 
 (E) Floss +Health @nova  Time:05
+(E) Plug teapot in in Garage
 (E) Review all projects in github +Overhead Time:30 
+(E) Sprint on Smallest next action tracker. 
+x 2019-06-20 Buy new screws for gate 
 x 2019-06-20 Message Francesca abotu Fridays   @nova
