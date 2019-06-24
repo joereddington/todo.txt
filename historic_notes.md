@@ -91,13 +91,7 @@ Okay,
 Wow, that's how long it took to make a cup of tea. 
 
 ## 03/06/19 15:18 Appears to have disapeared. Moving on for a sec. 
-(C) Make a list of good remaining subreddits. 
-r/manchester... 
-r/compsci again...
-r/technology
-r/gaming (big swing) 
-r/programming
-r/learnprogramming. 
-r/gaybros
-r/rainbow
-r/games
+
+## 20/06/19 17:31 to 17:44, Made the start of a quick S AS counter script at https://github.com/joereddington/watcher 
+
+## 20/06/19 20:15 to 20:41, Worked on https://github.com/joereddington/watcher some more. 

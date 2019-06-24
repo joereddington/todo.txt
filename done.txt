@@ -1397,3 +1397,9 @@ x 2019-06-20 Literally go to B&Q for gate STUFF. Time:60
 x 2019-06-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-20 Read 200 pages of book for exam  Time:180 date:2019-05-29
 x 2019-06-20 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-20 Apologise to Eleanor.  @nova 
+x 2019-06-20 Buy new screws for gate 
+x 2019-06-20 Confirm external donation to Flowers For Turing. 
+x 2019-06-20 Message Francesca abotu Fridays   @nova
+x 2019-06-20 Migrate the Open Voice Factory site/subsites to it's own user. Time:60 
+x 2019-06-20 Sprint on Smallest next action tracker. 
