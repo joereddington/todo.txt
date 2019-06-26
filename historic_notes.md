@@ -95,3 +95,27 @@ Wow, that's how long it took to make a cup of tea.
 ## 20/06/19 17:31 to 17:44, Made the start of a quick S AS counter script at https://github.com/joereddington/watcher 
 
 ## 20/06/19 20:15 to 20:41, Worked on https://github.com/joereddington/watcher some more. 
+
+
+## 24/06/19 10:28 (B) Fix the OVF website and demos
+Various issues on this: 
+
+### Plan
+
+* Update the demos. 
+* Rename 'upload' to 'create' 
+* Get the code working again and find out where it fails.
+* Remove the Nationality of the voice. 
+
+Our first issue was that the upload file wasn't being found.  I looked and the designs folder was empty. I scped everthing accross but that didn't help. It turned out that the domain was being served from the wrong account.  I opened a support ticked, got an email back and it appears to have been fixed this morning. 
+
+
+Later Notes: installed the pptx library as a user, the following issue was that the .htaccess file that we'd used before hadn't come through. 
+
+## 24/06/19 15:59 to 16:57, Generally picking off little bits on the list.   
+## 25/06/19 09:53 to 10:00, Rewriting the workspace  
+
+## 25/06/19 10:02 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+## 25/06/19 10:03 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+
+## 25/06/19 10:22 (B) Fix disability list again

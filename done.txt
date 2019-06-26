@@ -1403,3 +1403,51 @@ x 2019-06-20 Confirm external donation to Flowers For Turing.
 x 2019-06-20 Message Francesca abotu Fridays   @nova
 x 2019-06-20 Migrate the Open Voice Factory site/subsites to it's own user. Time:60 
 x 2019-06-20 Sprint on Smallest next action tracker. 
+x 2019-06-24 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-24 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-06-24 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-24 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-06-24 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-06-24 Check the next school time +EQT Time:03 
+x 2019-06-24 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-06-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-06-24 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-06-24 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-06-24 Fix the OVF website and demos
+x 2019-06-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-06-24 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-06-24 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-24 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-06-24 Open and log progress on the bid status document +EQT Time:04
+x 2019-06-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-06-24 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-06-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-06-24 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2019-06-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-06-24 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2019-06-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-24 Publicly thank someone +Overhead Time:15 
+x 2019-06-24 Review all projects here: https://github.com/orgs/eQualityTime/projects/4
+x 2019-06-24 Send something to the grandparent facebook group 
+x 2019-06-24 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-06-24 Setup and sort the dutch book. 
+x 2019-06-24 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-06-24 Write a letter to Nova +Family Time:30 
+x 2019-06-24 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+x 2019-06-24 Contact Mark about DINK day 
+x 2019-06-24 Delete the retired account 
+x 2019-06-24 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-06-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-06-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-06-24 Review all projects in github +Overhead Time: 
+x 2019-06-24 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-06-24 Show kat STUFF in project drawer.  Time:05 
+x 2019-06-24 Wrap Kat presents Time:15
+x 2019-06-25 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-25 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-25 10 Contacts on the contact list 
+x 2019-06-25 Fix disability list again
+x 2019-06-25 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-26 Vitimin Tablet +Health @nova  Time:02

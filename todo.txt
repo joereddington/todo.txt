@@ -1,56 +1,28 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) Setup and sort the dutch book. 
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Fix the OVF website and demos
-(B) Review all projects here: https://github.com/orgs/eQualityTime/projects/4
+(B) Follow up with Chris 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Check who raised the misfiled expeneses payment on Unity
 (C) Download and process the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
 (C) Drill holes in gate for hinges 
+(C) Fill out form for bedfordshire library
+(C) Listen to the artist that FB recommended. 
+(C) Produce next invoice for HH
 (C) Put insurance payment into unity
-(C) Send something to the grandparent facebook group 
 (C) Sprint on Expenses: https://github.com/joereddington/Projects-Private/issues/126
-(C) Wrap Kat presents Time:15
-(D) Do full accounts algorithm +EQT Time:99
-(D) Show kat STUFF in project drawer.  Time:05 
-(E) 10 Contacts on the contact list 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Check if the thermal camera is doing it's THING 
+(E) Check to see if you have to commit the top blogs 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Floss +Health @nova  Time:05
-(E) Go through Walking Meeting with Kat +Family Time:180  
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make sure paper crane is in bat@nova @phone  Time:03 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Open list of projects to be funded +EQT
 (E) Plug teapot in in Garage
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Read GIMP manual more. 
-(E) Review all projects in github +Overhead Time: 
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Search for funding for eQuality Time Projects +EQT
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Write a letter to Nova +Family Time:30 
-x 2019-06-24 Empty house inbox completely +Overhead @nova  Time:15 
-x 2019-06-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2019-06-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
-x 2019-06-24 Publicly thank someone +Overhead Time:15 
+x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
