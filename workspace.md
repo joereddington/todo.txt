@@ -3,3 +3,9 @@ http://localhost:8000/penfold/index.html?filename=http://localhost:8000/todo.txt
 ##  Notes from current sprint 
 
 
+
+# Additional actions
+* Monitor and keyboard in shed to setup teapot.
+
+
+

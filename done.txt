@@ -1451,3 +1451,21 @@ x 2019-06-25 10 Contacts on the contact list
 x 2019-06-25 Fix disability list again
 x 2019-06-25 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-26 Check if the thermal camera is doing it's THING 
+x 2019-06-26 Check the amount of unrestricted funds in Unity 
+x 2019-06-26 Check to see if you have to commit the top blogs 
+x 2019-06-26 Check who raised the misfiled expeneses payment on Unity
+x 2019-06-26 Fill out form for bedfordshire library
+x 2019-06-26 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-26 Open list of projects to be funded +EQT
+x 2019-06-26 Post about the birthday cake 
+x 2019-06-26 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-06-26 Trim nose hair +Health @nova  Time:05 
+x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-26 Do halifax statement for Kat  
+x 2019-06-26 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-06-26 Follow up with Chris 
+x 2019-06-26 Produce next invoice for HH
+x 2019-06-26 1. Process Email @singleton +Overhead @phone  Time:15
+x 2019-06-26 Plug teapot in in Garage Time:05 

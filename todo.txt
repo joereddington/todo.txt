@@ -1,28 +1,11 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-(B) Follow up with Chris 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Check who raised the misfiled expeneses payment on Unity
-(C) Download and process the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D
-(C) Drill holes in gate for hinges 
-(C) Fill out form for bedfordshire library
-(C) Listen to the artist that FB recommended. 
-(C) Produce next invoice for HH
-(C) Put insurance payment into unity
-(C) Sprint on Expenses: https://github.com/joereddington/Projects-Private/issues/126
-(E) Check if the thermal camera is doing it's THING 
-(E) Check to see if you have to commit the top blogs 
-(E) Check £40 in Wallet +Overhead @nova  @phone 
+(C) Download and process the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000
+(C) Drill holes in gate for hinges  Time:15
+(C) Put insurance payment into Unity and check who rasied the misfiled expenses payment Time:10
+(C) Sprint on Expenses: https://github.com/joereddington/Projects-Private/issues/126 Time:90
 (E) Cut nails +Health @nova  Time:04 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Floss +Health @nova  Time:05
-(E) Log weight +Health  Time:02 
-(E) Open list of projects to be funded +EQT
-(E) Plug teapot in in Garage
-(E) Read GIMP manual more. 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Trim nose hair +Health @nova  Time:05 
-x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
+(E) Get £40 for Wallet (and money for Kat) +Overhead @nova   Time:10
+(E) Read GIMP manual more.  Time:30
+(E) Search for funding for eQuality Time Projects +EQT Time:20

@@ -119,3 +119,7 @@ Later Notes: installed the pptx library as a user, the following issue was that 
 ## 25/06/19 10:03 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 
 ## 25/06/19 10:22 (B) Fix disability list again
+## 26/06/19 09:23 to 09:33, Writing a promotional facebook post. 
+## 26/06/19 09:38 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+## 26/06/19 09:48 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+## 26/06/19 10:52 to 11:29, Picking STUFF off 
