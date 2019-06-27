@@ -3,4 +3,4 @@
 	url = https://github.com/joereddington/igor
 [submodule "watcher"]
 	path = watcher
-	url = ./watcher
+	url = https://github.com/joereddington/watcher
