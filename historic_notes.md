@@ -123,3 +123,33 @@ Later Notes: installed the pptx library as a user, the following issue was that 
 ## 26/06/19 09:38 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 ## 26/06/19 09:48 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 ## 26/06/19 10:52 to 11:29, Picking STUFF off 
+## 03/07/19 11:08 to 13:36, Wrote pitch for Hari, interupted by Nova. Enjoyed it.  
+## 05/07/19 09:34 Got distracted with email, which is sort of positive. 
+## 05/07/19 09:41, to 10:47, 
+I've had two phone calls about the accounts, sent off the email summaries and updated invoices. I'm currently raising another invoice and then will work out how to apply payments to various invoices 
+
+## 05/07/19 10:56, Doing unity bank 
+
+## 05/07/19 11:04 Working out this invoice. 
+
+## 05/07/19 11:19, talking about accounts 
+
+## 05/07/19 10:47, 
+http://joereddington.com/wp-content/uploads/2013/09/1308.3745v1.pdf
+## 08/07/19 06:41 to 08:19, Working on Accounts. 
+Reviewing the information that Peter Buck requested. This included: 
+* Working out if expenses should be included 
+* Separating out Staff Pay from All expenses  
+* Working out that some of our payments come from different 'accounts' and working out how to show them in a report. 
+
+Main THING I found out is that I CAN'T currently replicate this in Quickbooks. There is a payroll system but it costs money and we never set it up. So it is for separate documents  
+
+I spoke to Mum on the phone (with Nova) and confirmed a few bits at the same time. Overall I've decided that we should leave it as mum sent it. 
+
+
+## 08/07/19 08:29 to 08:50, Sorting myself out for the day. 
+Various small tasks in inboxes 
+
+## 08/07/19 09:15 to 09:47, Preparing for call with DM
+## 08/07/19 11:00 to 11:50, Call with DM and writing summary email 
+## 08/07/19 12:56 to 13:33, phone call with Clare

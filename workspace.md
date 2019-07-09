@@ -3,15 +3,13 @@ http://localhost:8000/penfold/index.html?filename=http://localhost:8000/todo.txt
 ##  Notes from current sprint 
 
 
-## 27/06/19 09:35 
-Online. The goal for today is to really maximise the number smallest steps identified. 
+## 09/07/19 06:36, Good morning.  
+Start with a quick clear-up. 
 
-## 27/06/19 09:36 
-We are already on process email. 
+## 09/07/19 06:41, Processing the files in downloads 
 
 
-## 27/06/19 11:02 
-Interupt to make watcher work. 
+
 
 # Additional actions
 
