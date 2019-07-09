@@ -18,6 +18,7 @@
 (E) Add bolts to bottom of gate  date:2019-07-08
 (E) Add to draft trustee email the issue with the mispayment.  date:2019-07-08
 (E) Brainstorm on 'never going to wake up with adrenaline  date:2019-07-01
+(E) Deal with [200~https://vi.stackexchange.com/questions/20375/alarm-for-inactivity?noredirect=1#comment35851_20375[201~ 
 (E) Brainstorm on faster ways to put payments into system. 
 (E) Check Desktop Tracker is working +Overhead @nova  Time:02  date:2019-07-08
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-07-08
