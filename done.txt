@@ -1534,3 +1534,54 @@ x 2019-07-09 Make sure paper crane is in bat@nova @phone  Time:03  date:2019-07-
 x 2019-07-09 Publicly thank someone +Overhead Time:15  date:2019-07-08
 x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-02
 x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-08
+x 2019-07-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-09 Contact PR honestly 
+x 2019-07-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-07-09 Process the flowers for Turing  date:2019-07-02
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+x (C) Arrange Climbing with Patrick 
+x (C) Fix the expenses generator  date:2019-07-08
+x (C) Message people about next week's Games day 
+x (C) Put notebook in fridge
+x (C) Update wake time sheet 
+x (C) Write the 'but I have to write this first' blog post  date:2019-07-08
+x (D) Brainstorm on fride usage
+x (D) Deal with disk quota issues  date:2019-07-08
+x (D) Do full accounts algorithm +EQT Time:99 date:2019-07-08
+x (D) Print rider for HH, also work out the invoice  
+x (E) 10 Contacts on the contact list  date:2019-07-01
+x (E) 10 Contacts on the contact list  date:2019-07-08
+x (E) Add to draft trustee email the issue with the mispayment.  date:2019-07-08
+x (E) Brainstorm on 'never going to wake up with adrenaline  date:2019-07-01
+x (E) Check Desktop Tracker is working +Overhead @nova  Time:02  date:2019-07-08
+x (E) Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-07-08
+x (E) Check if Mozfest and comic con are the same day again 
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-07-08
+x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-07-01
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-07-08
+x (E) Check the next school time +EQT Time:03  date:2019-07-08
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06  date:2019-07-08
+x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-07-08
+x (E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-08
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-07-08
+x (E) Go through Walking Meeting with Kat +Family Time:180   date:2019-07-08
+x (E) Library: books about kids and all of the tools of titans recommendations  date:2019-07-01
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-07-08
+x (E) Open and log progress on the bid status document +EQT Time:04 date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§ date:2019-07-08
+x (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03  date:2019-07-08
+x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-07-08
+x (E) Take off gate to move to bottom of gate  date:2019-07-08
+x (E) Youtube on Nova tablet  date:2019-07-01
+x 2019-07-10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  okay 
+x 2019-07-10 Ping both eleanor and natlie about Scotland and booking flights 
+x 2019-07-10 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05  date:2019-07-08
+x j(E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-01

@@ -153,3 +153,58 @@ Various small tasks in inboxes
 ## 08/07/19 09:15 to 09:47, Preparing for call with DM
 ## 08/07/19 11:00 to 11:50, Call with DM and writing summary email 
 ## 08/07/19 12:56 to 13:33, phone call with Clare
+## 09/07/19 12:03 to 12:17, The watchtower homepage is now the driver file 
+## 09/07/19 09:51 to 12:50 (C Trusteee) Sprint on Expenses: https://github.com/joereddington/Projects-Private/issues/126 Time:90 date:2019-07-01 @EQT
+Working on Expenses, 
+- 09/07/19 smallest next step: Fix the expenses spreadsheet. 
+* I fixed the expenses spreadsheet eventually by copying from a previous version. 
+* Before that I found an interesting excel-to-javascript github that was broken and have made contact. 
+- 09/07/19 smallest next step: see if a previous excel file works 
+- 09/07/19 smallest next step: Export the EQT spreadsheet into a new folder. 
+* Fetched old receipt books from the loft and also put a bunch of existing receipts in the right place. 
+* Worked on the 'EQT expenses': took lots of photos. 
+* Made a change to the algorithm so it is quicker next time and saved it in github.  
+
+
+## 09/07/19 12:50
+Breaking here for lunch, the code is EQT and I'm finding receipt 22 
+
+## 09/07/19 13:23 
+Lunch done. Going into town. Will: 
+* get the electoral roll done. 
+* read in library 
+* Have a hot chocolate 
+## 09/07/19 07:09 
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x (B) Contact PR honestly 
+
+## 09/07/19 07:09 to 07:20 (B) Process the flowers for Turing  date:2019-07-02
+- 09/07/19 smallest next step:  Log in to the ssh account and move the themes and such. 
+I've opened a support ticket and put it into the directory. 
+- 09/07/19 smallest next step: Start writing the document and actually transfer the money. 
+
+So, this is what Alan Turing's Status looked like on his birthday! 
+
+You did this, once again you came together and did this, and you raised £2,056.41 for Special Effect. 
+
+## Accounting!
+Okay, the accounting part:
+
+* We were again approached by a private donor, who, at our advice, sent £1,000 to special effect. We remain staggered by this.
+* The Paypal pool raised £1,056.41. 
+* Bath University sent Joe personally £43.74 (they had those payment details from a previous year) 
+* There were then two large purchases of flowers, one of 59.66 and one of 34.84, for a total of £94.50.  The receipts are below.
+* This leaves exactly £530 to transfer to special effect. Screenshot below. 
+
+## 09/07/19 07:32
+- 09/07/19 smallest next step:  copy paste the text above to the github issue and add the photos 
+
+## 09/07/19 07:30 to 09:20, Nova time.  @Family 
+
+## 09/07/19 09:20 to 09:43, 
+I've completed the payments and report for Flowers For Turing, Now I need to email all the donors: it's gone into the list. 
+
+## 09/07/19 09:44 to 09:49, two minute task: change screenshot locatio. 
+
+
