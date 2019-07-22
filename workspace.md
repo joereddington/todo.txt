@@ -83,16 +83,22 @@ Okay, list of questions to ask:
 ## 22/07/19 10:16, 
 
 I've been tiding up and am currently on hold.  Wondering what other bits need doing around the house. Oh, I can put a wash on, but don't blieve that counts.  Oh, Make seiten would be good.  
+
+
+## 22/07/19 10:38 
+Family call, got that wrong. What's next to do?   
+
+Oh yeah, I was looking at todo.txt 
+
+## 22/07/19 10:47 
+Okay there is a new EQT todo list. That's cool, now what's the easy way of taking those THINGs out of the other list.  
+
  
 
 
 
 
 # Stack
-* Create the invoice for this finantial year 
-* Add assets to quickbookx 
-* Check expenditure with quickbooks 
-* Invesitgate the missing payment to me  
 
 
 

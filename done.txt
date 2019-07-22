@@ -1619,3 +1619,22 @@ x 2019-07-14 Check Desktop Tracker is working +Overhead @nova  Time:02
 x 2019-07-14 Give laptop screen a good clean +Overhead
 x 2019-07-14 Trim nose hair +Health @nova  Time:05  date:2019-07-08
 x 2019-07-14 Work out the amount of eqt leave you've had 
+x 2019-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-15 Call RCSLT
+x 2019-07-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-07-15 Phone and fix travel insurance. 
+x 2019-07-15 Write and send the Flowers For Turing thank you email 
+x 2019-07-15 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-07-15 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-07-15 Buy new glasses 
+x 2019-07-15 Look at the unclaimed upwork expenses and see what project it was for. 
+x 2019-07-15 Take all the private repos off your github. It's silly. 
+x 2019-07-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-07-15 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-07-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-07-14 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-07-14 Contact these people: https://www.bloomberg.com/news/features/2019-07-08/how-to-be-a-professional-dungeons-dragons-master-hosting-games
+x 2019-07-14 Deal with https://vi.stackexchange.com/questions/20375/alarm-for-inactivity?noredirect=1#comment35851_20375
+x 2019-07-14 Do full accounts algorithm +EQT Time:99
+x 2019-07-14 Open and log progress on the bid status document +EQT Time:04
+x 2019-07-14 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
