@@ -93,9 +93,23 @@ Oh yeah, I was looking at todo.txt
 ## 22/07/19 10:47 
 Okay there is a new EQT todo list. That's cool, now what's the easy way of taking those THINGs out of the other list.  
 
+## 22/07/19 11:00 
+Hey, let's have a recorganise 
+
+## 22/07/19 11:31 
+Did a bit of work reorganising the dropbox, wrote a blog. Happy with it, more to do. Yvonne call arranged 
  
 
 
+## 22/07/19 11:35 
+More redoing dropbox: projects files 
+
+## 22/07/19 11:30 to 11:57, working out a bag for the bike 
+
+## 22/07/19 12:29 
+Err. Faffed a bit. 
+
+## 22/07/19 12:29 
 
 
 # Stack
