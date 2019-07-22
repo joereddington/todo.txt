@@ -1585,3 +1585,37 @@ x 2019-07-10 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2019-07-10 Ping both eleanor and natlie about Scotland and booking flights 
 x 2019-07-10 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05  date:2019-07-08
 x j(E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-01
+x 2019-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-07-11 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-07-11 Ask Kat about present for Mark 
+x 2019-07-11 Check our travel insurance and see if you did  
+x 2019-07-11 Check ranking scripts +Overhead
+x 2019-07-11 Check wishlist
+x 2019-07-11 Confirm the rest of the visit dates 
+x 2019-07-11 Cut nails +Health @nova  Time:04  date:2019-07-01
+x 2019-07-11 Cut nails +Health @nova  Time:04  date:2019-07-08
+x 2019-07-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-07-08
+x 2019-07-11 Download the amazon months sales figures +EQT
+x 2019-07-11 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08  date:2019-07-08
+x 2019-07-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-07-11 If back on sugar then start sugar project +Health
+x 2019-07-11 Make workstation spotless +Overhead @nova  
+x 2019-07-11 Message the etherpad guy to get some instructions of logging in and restarting. 
+x 2019-07-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-07-11 Send something to the grandparent facebook group 
+x 2019-07-11 Update watcher.py to do some manual work. 
+x 2019-07-11 Vitimin Tablet +Health @nova  Time:02
+x 2019-07-11 Write and send the EQT newsletter 
+x 2019-07-11 Brainstorm on faster ways to put payments into system. 
+x 2019-07-11 Find and reopen the learning accounting project  date:2019-07-08
+x 2019-07-11 Review (days since) app counts +Overhead @nova @phone 
+x 2019-07-11 Review other charity accounts  date:2019-07-08
+x 2019-07-11 Review your highlights and notes from Kindle books +Overhead
+x 2019-07-11 Send Trustees something nice about outcomes +EQT
+x 2019-07-11 todo.txt should automatically be nowrap
+x 2019-07-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-14 Ask Kat for safty pins to fix the blind 
+x 2019-07-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-07-14 Give laptop screen a good clean +Overhead
+x 2019-07-14 Trim nose hair +Health @nova  Time:05  date:2019-07-08
+x 2019-07-14 Work out the amount of eqt leave you've had 

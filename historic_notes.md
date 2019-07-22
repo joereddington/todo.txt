@@ -208,3 +208,46 @@ I've completed the payments and report for Flowers For Turing, Now I need to ema
 ## 09/07/19 09:44 to 09:49, two minute task: change screenshot locatio. 
 
 
+## 10/07/19 18:23 
+- 10/07/19 smallest next step:  see if any of workspace can go into an issue  
+
+- 10/07/19 smallest next step:  Tidy kitchen.  
+
+## 10/07/19 19:22 
+- 10/07/19 smallest next step:  Order Pizza 
+
+
+## 11/07/19 07:11 
+- 11/07/19 smallest next step: Comit the git.  
+
+## 11/07/19 12:09 
+
+(B) Write and send the EQT newsletter 
+- 11/07/19 smallest next step:  Open email. 
+- 11/07/19 smallest next step:  work out the amount of leave you have. 
+
+
+## 11/07/19 13:32 (B) Write and send the Flowers For Turing thank you email 
+- 11/07/19 smallest next step:  get the list of donors from emails. 
+
+## 11/07/19 13:53 to 15:35, call with Donor and follow up email 
+
+## 11/07/19 16:18 (B) Confirm the rest of the visit dates 
+- 11/07/19 smallest next step: Look at facebook and work out what you have already commited to. 
+
+
+## 15/07/19 11:00 (C) Take Paying in slip to co-op to pay in Amazon cheques 
+- 15/07/19 smallest next step:  Get dressed 
+
+## 15/07/19 11:13, hange of plan 
+
+## 15/07/19 11:13 (C) Look at the unclaimed upwork expenses and see what project it was for. 
+
+
+## 15/07/19 11:25 
+- 15/07/19 smallest next step: Create expense form properly. 
+
+## 15/07/19 11:26 
+
+
+

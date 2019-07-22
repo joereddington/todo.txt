@@ -1,75 +1,96 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(B) Write and send the EQT newsletter 
-(B) Write and send the Flowers For Turing thank you email 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Go through all the expenses were you claimed for upwork and check for 693.73 date:2019-07-08
-(C) Message the etherpad guy to get some instructions of logging in and restarting. 
-(C) Send something to the grandparent facebook group 
-(C) Sort fridge with trays 
+x 2019-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-15 Call RCSLT
+x 2019-07-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
+(A) Find out when Yvonne is back and set up a call. 
+x 2019-07-15 Phone and fix travel insurance. 
+x 2019-07-15 Write and send the Flowers For Turing thank you email 
+x 2019-07-15 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-07-15 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-07-15 Buy new glasses 
+(D) Take Paying in slip to bank 
+x 2019-07-15 Look at the unclaimed upwork expenses and see what project it was for. 
+(C) Pack for France 
+(C) Phone up for Yvonne's address again 
+(C) Post lights to Mark 
+(C) Put HH printout in laptop bag, with expenses forms 
 (C) Sprint on Expenses: https://github.com/joereddington/Projects-Private/issues/126 Time:90 date:2019-07-01
+(C) Talk to dimond about adendas for the meeting coming up. 
 (C) Update the Allbooksever and send to Richard to check that I've got Yvonne's books right. 
 (C) Watch more videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s
-(D) Work out the amount of eqt leave you've had 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-07-15 Take all the private repos off your github. It's silly. 
+(D) Cut out the new pictures for the keys 
+(E) 10 Contacts on the contact list 
+(E) Add several more significant assets to quickbooks: laptop, monitors, the THING you sent to Clare 
 (E) Ask Kat why she needs a scanner app 
 (E) Backup Dreamhost +EQT
-(E) Brainstorm on faster ways to put payments into system. 
+x 2019-07-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
-(E) Check ranking scripts +Overhead
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-07-15 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20  date:2019-07-01
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Cut nails +Health @nova  Time:04  date:2019-07-01
-(E) Cut nails +Health @nova  Time:04  date:2019-07-08
-(E) Deal with [200~https://vi.stackexchange.com/questions/20375/alarm-for-inactivity?noredirect=1#comment35851_20375[201~ 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-07-08
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check the next school time +EQT Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Download and process the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
-(E) Download the amazon months sales figures +EQT
+(E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Empty house inbox completely +Overhead @nova  Time:15  date:2019-07-08
-(E) Find and reopen the learning accounting project  date:2019-07-08
+(E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05 date:2019-07-01
 (E) Floss +Health @nova  Time:05 date:2019-07-08
-(E) Give laptop screen a good clean +Overhead
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08  date:2019-07-08
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
-(E) If back on sugar then start sugar project +Health
-(E) Make workstation spotless +Overhead @nova  
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
 (E) Mark upwork as subcontractors in QB date:2019-07-08
 (E) Open list of projects to be funded +EQT
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-07-08
+(E) Publicly thank someone +Overhead Time:15 
 (E) Pump up bike tires  date:2019-07-08
 (E) Read GIMP manual more.  Time:30 date:2019-07-01
 (E) Reoganise EQT folders in dropbox
-(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review all projects in github +Overhead Time: 
 (E) Review all projects in github +Overhead Time:  date:2019-07-01
 (E) Review all projects in github +Overhead Time:  date:2019-07-08
-(E) Review other charity accounts  date:2019-07-08
 (E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Save a nice family memory +Family @phone @nova  Time:03  date:2019-07-01
 (E) Save a nice family memory +Family @phone @nova  Time:03  date:2019-07-08
-(E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT Time:20 date:2019-07-01
-(E) Send Trustees something nice about outcomes +EQT
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Sinere thanking of dimond 
 (E) TSE +Health Time:04 
 (E) Thank you note for Rob and Payroll people 
-(E) Trim nose hair +Health @nova  Time:05  date:2019-07-08
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-07-08
-(E) Update watcher.py to do some manual work. 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Update your own child protection training.  date:2019-07-08
 (E) Vitimin Tablet +Health @nova  Time:02
-(E) Work out how quickbooks reorders assets well.  date:2019-07-08
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-08
+(E) change razor blade Time:03 
 (E) change razor blade Time:03  date:2019-07-08
 (E) share your gift policy on the social networks.  Time:05  @phone 
-(E) todo.txt should automatically be nowrap
 (c) Map and sprint: Create Bills in Quickbooks for the next few expenses and see if they automatically settle themselves. 
+x 2019-07-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-07-14 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-07-14 Contact these people: https://www.bloomberg.com/news/features/2019-07-08/how-to-be-a-professional-dungeons-dragons-master-hosting-games
+x 2019-07-14 Deal with https://vi.stackexchange.com/questions/20375/alarm-for-inactivity?noredirect=1#comment35851_20375
+x 2019-07-14 Do full accounts algorithm +EQT Time:99
+x 2019-07-14 Open and log progress on the bid status document +EQT Time:04
+x 2019-07-14 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
