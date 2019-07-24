@@ -1,24 +1,29 @@
-(A) Set up call with Yvonne 
+(B) Process notebook 
+(E) Setup laptop for work in kitchen 
+(C) Do some lists about going to ISAAC 
 (C) Process emails 
-(C) Send Yvonne Adenda 
-(C) Sprint moving payments thought the system 
+(C) Raise expenses in unity. 
+(C) Split the big shine invoice
 (C) Talk to dimond about adendas for the meeting coming up. 
+(C) Try the commands Joas sent 
 (C) Update the Allbooksever and send to Richard to check that I've got Yvonne's books right. 
 (C) Watch more videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s
+(C) Work out how to show defeered income in Quickbooks  
+(D) Film the "How to approve a payment in unity" youtube document.  
 (D) Take Paying in slip to bank 
 (D) Write up the accounts and their associated issues from the perspective of next year.  
-(E) Add several more significant assets to quickbooks: laptop, monitors, the THING you sent to Clare 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Close current expenses issue 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Rearrange and rewrite our projects file 
 (E) Reoganise EQT folders in dropbox
 (E) Review all projects in github +Overhead Time:  date:2019-07-08
 (E) Search for funding for eQuality Time Projects +EQT Time:20 date:2019-07-01
+(E) Update quickbooks assetds to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions
 (E) Update your own child protection training.  date:2019-07-08
 (E) Write thank you card for Rob and Keele Payroll people 
 x 2019-07-22 Book hotel for scotland leaders 
+x 2019-07-22 Check that everything in the 'in process' box really does have a task+Overhead @nova 
 x 2019-07-22 Check the next school time +EQT Time:03 
+x 2019-07-22 Close current expenses issue 
 x 2019-07-22 Find out the amount of the  
 x 2019-07-22 Open list of projects to be funded +EQT
 x 2019-07-22 Phone up for Yvonne's address again 
@@ -26,4 +31,8 @@ x 2019-07-22 Post to WWW facebook page +EQT @nova @phone  Time:10
 x 2019-07-22 Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-07-08
 x 2019-07-22 Put HH printout in laptop bag, with expenses forms 
 x 2019-07-22 Reoganise EQT folders in dropbox
+x 2019-07-22 Set up call with Yvonne 
 x 2019-07-22 Sinere thanking of dimond 
+x 2019-07-24 Add Sarah to list of directors 
+x 2019-07-24 Produce Comic Relief Accounts 
+x 2019-07-24 Send Yvonne Adenda 

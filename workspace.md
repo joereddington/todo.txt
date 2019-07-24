@@ -110,18 +110,95 @@ More redoing dropbox: projects files
 Err. Faffed a bit. 
 
 ## 22/07/19 12:29 
+Back 
+
+## 22/07/19 12:38 
+Rewriting todos 
+
+## 22/07/19 12:46 
+
+I'm currently trying to put attachements into quickbooks 
+
+- 22/07/19 smallest next step:  Work out how much of the Upwork work is for accounting and how much is for greg... 
+
+## 22/07/19 13:01 
+Did that, Now trying to work out how I can make this easy for the trustees. I want the report of the  
+
+- 22/07/19 smallest next step:  Find out how to show the unmatched transactions. 
+
+## 22/07/19 13:25, Back  
+
+Ah-ha! There is an unpaid bill list. 
+
+## 22/07/19 13:30 
+- 22/07/19 smallest next step:  Put the payments into the normal dropbox 
+
+## 22/07/19 13:36, Doing that now. 
+
+## 22/07/19 13:36 
+
+You know, if I properly get thought the inbox we'll have done pretty well. 
+
+## 22/07/19 13:39 
+
+## 22/07/19 13:40 
+
+Only got 18 left. 
 
 
-# Stack
+## 22/07/19 13:40 
+Replying to some messages. 
+
+## 22/07/19 13:51 
+Okay, let's make a start on the email, but really I want some rest. 
+
+## 22/07/19 14:12 
+Did personal emails, now doing work ones. 
+
+## 22/07/19 15:27 
+Doing okay. 
 
 
 
 
-# Actions to add 
 
 
 
 
+## 24/07/19 09:39 to 10:59, Doing Adenda, fixing old accounts, and doing the comic relief accounts along with some emails 
 
+
+## 24/07/19 11:04 Bonus shower.  
+
+
+## 24/07/19 11:08 x 2019-07-24 Add Sarah to list of directors 
+
+
+
+## 24/07/19 11:09 
+Big notebook processing to come. 
+
+
+## 24/07/19 11:13 Two minute reply. 
+
+
+## 24/07/19 11:15 two minute ebay 
+
+## 24/07/19 11:18 two minute message 
+
+## 24/07/19 11:21 Two minute on amazon photos 
+
+## 24/07/19 11:28 1 page done. 
+
+
+## 24/07/19 11:41, another page done.  
+
+## 24/07/19 11:46 tw minute 
+
+## 24/07/19 11:52 Back  
+
+## 24/07/19 11:53 Taking a break 
+
+## 24/07/19 14:24 Back. V hot 
 
 
