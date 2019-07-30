@@ -247,7 +247,221 @@ I've completed the payments and report for Flowers For Turing, Now I need to ema
 ## 15/07/19 11:25 
 - 15/07/19 smallest next step: Create expense form properly. 
 
-## 15/07/19 11:26 
+## 22/07/19 07:31 to 07:59, +EQT getting the Quickbooks numbers to aggree with the accounts 
+* So it's definately NOT clear to me why total debtors on my own balance sheet is negative. 
+* The problem turns out to be that the accountant is using different invoices from us. 
+
+Okay, list of questions to ask: 
+
+* Can we have these in a different format. 
+* Have you got a handy list of your trade debtors and other creditros 
+* p8, you've cataogriesed that STUFF differently. 
+
+
+## 22/07/19 10:16, 
+
+I've been tiding up and am currently on hold.  Wondering what other bits need doing around the house. Oh, I can put a wash on, but don't blieve that counts.  Oh, Make seiten would be good.  
+
+
+## 22/07/19 10:38 
+Family call, got that wrong. What's next to do?   
+
+Oh yeah, I was looking at todo.txt 
+
+## 22/07/19 10:47 
+Okay there is a new EQT todo list. That's cool, now what's the easy way of taking those THINGs out of the other list.  
+
+## 22/07/19 11:00 
+Hey, let's have a recorganise 
+
+## 22/07/19 11:31 
+Did a bit of work reorganising the dropbox, wrote a blog. Happy with it, more to do. Yvonne call arranged 
+ 
+
+
+## 22/07/19 11:35 
+More redoing dropbox: projects files 
+
+## 22/07/19 11:30 to 11:57, working out a bag for the bike 
+
+## 22/07/19 12:29 
+Err. Faffed a bit. 
+
+## 22/07/19 12:29 
+Back 
+
+## 22/07/19 12:38 
+Rewriting todos 
+
+## 22/07/19 12:46 
+
+I'm currently trying to put attachements into quickbooks 
+
+- 22/07/19 smallest next step:  Work out how much of the Upwork work is for accounting and how much is for greg... 
+
+## 22/07/19 13:01 
+Did that, Now trying to work out how I can make this easy for the trustees. I want the report of the  
+
+- 22/07/19 smallest next step:  Find out how to show the unmatched transactions. 
+
+## 22/07/19 13:25, Back  
+
+Ah-ha! There is an unpaid bill list. 
+
+## 22/07/19 13:30 
+- 22/07/19 smallest next step:  Put the payments into the normal dropbox 
+
+## 22/07/19 13:36, Doing that now. 
+
+## 22/07/19 13:36 
+
+You know, if I properly get thought the inbox we'll have done pretty well. 
+
+## 22/07/19 13:39 
+
+## 22/07/19 13:40 
+
+Only got 18 left. 
 
 
 
+
+
+
+
+## 24/07/19 07:30 to 09:10, +Family
+
+## 24/07/19 08:32 to 08:54, adenda for meeting +EQT
+
+
+## 24/07/19 09:39 to 10:59, Doing Adenda, fixing old accounts, and doing the comic relief accounts along with some emails +EQT
+
+
+## 24/07/19 11:04, Bonus shower.  
+
+## 24/07/19 11:08,  +EQT
+x 2019-07-24 Add Sarah to list of directors 
+
+
+
+## 24/07/19 11:09 to 11:53, Processing task list +EQT 
+Included a bunch of two minute tasks and working out the best way of dealing with meetings like yesterday.  
+
+
+
+## 24/07/19 15:07 to 16:16, Making a proper work tracker +EQT
+As part of this I did some work clearing out the old dropbox. 
+
+Good news: the ubuntu calendar updates instantly when a local ICS file is changed. 
+
+* I've pushed the Dr watson code up and now back down again. 
+* I've installed pip so I can install the libraries to run the tests 
+
+## 24/07/19 16:16 to 16:55, worked out how to run the damn program +EQT
+Next action is to work out how to add the calendar files again. 
+
+Now I'm making sure entry can produce the right files 
+
+
+## 24/07/19 17:23 to 20:22, +Family 
+
+## 24/07/19 20:22 to 21:30, +EQT meeting 
+
+
+
+## 25/07/19 05:15 to 09:24, +Family 
+We fixed toys, and tried to nap and made breakfast and did all sorts 
+
+## 25/07/19 09:24 to 10:07, +Faff
+
+## 25/07/19 13:20 to 13:34, Costa: emails  +PersonalProjects
+
+## 25/07/19 13:34 to 14:49, +EQT emails, writing minutes, writing newsletter. 
+
+## 25/07/19 15:00, Okay, now what? 
+
+
+## 25/07/19 15:06  Anything to do in town. 
+
+
+
+
+
+## 29/07/19 00:05 to 02:25, +Family 
+Nova awake 
+
+
+## 29/07/19 06:15 to 09:10, +Family 
+Running around with Nova 
+
+## 29/07/19 07:59 to 09:05, +Exercise  (Running with buggy)
+
+## 29/07/19 09:20 to 10:23, Faffing around 
+
+## 29/07/19 10:25 to 10:52, +EQT gathering tasks 
+I'm processing everything in the notepad 
+- 29/07/19 smallest next step:  get the notepad  
+
+## 29/07/19 10:52 to 11:04, All these tasks have been +PersonalProjects 
+A bunch of tasks that were only in personal projects 
+
+## 29/07/19 11:04 to 11:17, Starting to get some +EQT tasks again 
+
+## 29/07/19 11:22 to 12:28, (B) Check exepsenss to work out which hotel you used last time for scotland +EQT
+It was Edinburght Central premier in - I'll need to check the postcode of that(EH3 9DG) against the school  - yes, 15 minutes away. Okay, we know where we are on that. I need to message the people.  
+
+Next action on this is to message both the leaders
+Crap it's fringe! I've messaged various people... 
+
+It's done. 
+
+## 29/07/19 12:29 to 12:47 (B) Write match funding document for Higher Hoizons +EQT
+So what does that look like? 
+
+It's a headed paper letter, 
+
+Dear Anthony, 
+
+Following our recent meeting I'm have sent some details on our costs and the proportions that are provided as 'in kind' contributions. 
+
+As you know, our licensing fee is £600, and as a longstanding gesture of goodwill we purchase copies of the published books for the writers and pay the delivery costs (amount varies by camp, but the most recent figure for a camp was £131.66) for 'Virtual Immortality'.  As part of the same gesture we also pay Richard Seymour's Expense claims which are normally in the £40-£60 region. 
+
+For completeness, you are aware that we've offered to waive our licensing fee in some circumstances to help you scale up the process. This obviously would be considered a donation in our accounts and should be seen similarly. 
+
+Yours, 
+
+Dr Joseph Reddington 
+
+
+
+## 29/07/19 14:51 to 15:14, +EQT todo rewriting.  
+
+## 29/07/19 15:15 to 15:19, Blogging for +EQT
+
+## 29/07/19 16:36 to 16:56, +EQT working on the Scottish school - need the other system.
+
+## 29/07/19 16:56 to 17:13, +EQT dealing with messages  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 30/07/19 11:47 to 12:08, Compiling code in the cafe +EQT

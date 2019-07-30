@@ -1,18 +1,29 @@
-(B) Process notebook 
-(E) Setup laptop for work in kitchen 
-(C) Do some lists about going to ISAAC 
-(C) Process emails 
-(C) Raise expenses in unity. 
+x 2019-07-30 Email Scotish head to confirm it's actually the 19th. 
+(A) Phone up to alter travelodge booking 
+(B) Review github push requests 
+(B) Send email to book exam at Luton International Centre
+(B) Write a blog post about the accounts and how you would do things differently in future. 
+(B) review the EQT minutes on dropbox and add actions to this file. 
+(C) Check Procontract and Call Litchfield council about the tender on 01543 308706 
+(C) Event to review quickbooks with Peter Buck 
+(C) Fix the watson time zone issue 
+(C) Google for showing deffered income in Quickbooks 
+(C) Publish the minutes of the last meeting (put on the social media calendar.  
+(C) Review the CM program and put something in the social calendar. 
+(C) Rewrite the Keele supplier aggreement 
+(C) Send the arts council bid 
+(C) Set up T.M Cooks on GoodReads 
 (C) Split the big shine invoice
-(C) Talk to dimond about adendas for the meeting coming up. 
+(C) Test Demo link for the OVF client 
 (C) Try the commands Joas sent 
+(C) Try the commands at https://github.com/eQualityTime/Public/issues/77
 (C) Update the Allbooksever and send to Richard to check that I've got Yvonne's books right. 
 (C) Watch more videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s
-(C) Work out how to show defeered income in Quickbooks  
-(D) Film the "How to approve a payment in unity" youtube document.  
-(D) Take Paying in slip to bank 
-(D) Write up the accounts and their associated issues from the perspective of next year.  
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(C) Write the pro and con lists about going to ISACC 
+(D) Film the "How to approve a payment in unity" YouTube document.  
+(D) Take Amazon Paying in slip to bank 
+(E) Brainstorm clearning up the office desktop at the end of the day 
+(E) Find photos for WWW instagram post 
 (E) Rearrange and rewrite our projects file 
 (E) Reoganise EQT folders in dropbox
 (E) Review all projects in github +Overhead Time:  date:2019-07-08
@@ -36,3 +47,13 @@ x 2019-07-22 Sinere thanking of dimond
 x 2019-07-24 Add Sarah to list of directors 
 x 2019-07-24 Produce Comic Relief Accounts 
 x 2019-07-24 Send Yvonne Adenda 
+x 2019-07-29 Check exepsenss to work out which hotel you used last time for scotland 
+x 2019-07-29 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-07-29 Create an email text exapnders for 'thank yu, I've put X in my todo list and you can see it rise to the top here' 
+x 2019-07-29 Email HH with match funding document 
+x 2019-07-29 Process emails 
+x 2019-07-29 Process notebook 
+x 2019-07-29 Raise expenses in unity. 
+x 2019-07-29 Setup laptop for work in kitchen 
+x 2019-07-29 Talk to dimond about adendas for the meeting coming up. 
+x 2019-07-29 Update IMPS to use scriptwriting code 
