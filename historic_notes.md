@@ -405,3 +405,23 @@ Disasterous phone call, then trying to do it by web
 
 ## 30/07/19 16:14 to 16:31, Home, trying travelodge again. +EQT
 ## 30/07/19 16:31 to 16:49, writing up workday +EQT
+## 31/07/19 09:24 to 09:40, Working on Kat's excel issue +Family
+## 31/07/19 09:42, Desktop is wiped  
+## 31/07/19 09:44 to 10:05, Working on https://github.com/eQualityTime/Public/issues/78 +EQT
+## 31/07/19 10:08 to 10:50, Working on https://github.com/eQualityTime/Public/issues/77 +EQT
+## 31/07/19 10:58 to 11:25  (B) Review github push requests +EQT
+* Updated Node by downloading the new version (rather than doing it inline) 
+* Build an entirely clean version from source. 
+* Reviewed and merged, was later told NOT to. 
+
+The important commands to run turned out to be: 
+* npm install 
+* ng serve 
+## 31/07/19 11:25 to 11:35 (B) review the EQT minutes on dropbox and add actions to this file. +EQT
+## 31/07/19 11:36 to 11:59 (C) Check Procontract and Call Litchfield council about the tender on 01543 308706 +EQT
+## 31/07/19 11:59 to 12:05, Checking details with Clare +EQT
+## 31/07/19 12:06 (C) Google for showing deffered income in Quickbooks 
+## 31/07/19 12:10 to 12:20, doing social media for the day. 
+## 31/07/19 12:25 to 12:56, (C) Process email properly. +EQT
+## 31/07/19 12:57 to 13:13, Doing personal email and seeing what happens. 
+## 31/07/19 13:22, more +EQT emails and work. 
