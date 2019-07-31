@@ -2,25 +2,20 @@
 (A) Change prioirt of urgent THINGs 
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Map startup project 
-(A) Message caroline about jury duty week 
 (A) Reply abotu startup 
 (A) Thank you cards for start up guys 
 (B) Ask Pete about zika test 
-(B) Do social media sorry for birthday cards 
 (B) Email Justine and Dan about publishing 
-(B) Fix gate 
 (B) Follow up with Dhari
 (B) Map Kat swimming ambush plan 
 (B) Map project for top vegan blogs 
-(B) Ping Kat family about Friday. 
 (B) Work out amazon login. 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Ask Kat abotu her headphones 
-(C) Buy book you keep meaning to read on mindfulness 
 (C) Buy £30 of containers for gargage sorting. 
 (C) Check bike is G2G 
-(C) Confirm mum and dad visit on friday. 
+x 2019-07-30 Confirm mum and dad visit on friday. 
 (C) Create your own packing list file and include big water bottle 
 (C) Do adenda for kat walk 
 (C) Fill out the wake times sheet 
@@ -36,6 +31,7 @@
 (C) Send Kat a picture of Nova's drawers with letters on  
 (C) Send Pete's family a gift with a nice note. 
 (C) Send something to the grandparent facebook group 
+(C) check library for book you keep meaning to read on mindfulness - 
 (D) Cut out the new pictures for the keys 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Find a set of developement reading for Nova 
@@ -133,3 +129,6 @@
 (E) share your gift policy on the social networks.  Time:05  @phone 
 (c) Map and sprint: Create Bills in Quickbooks for the next few expenses and see if they automatically settle themselves. 
 x 2019-07-29 Send Nick the 'so you are visiting' guide 
+x 2019-07-30 Do social media sorry for birthday cards 
+x 2019-07-30 Fix gate 
+x 2019-07-30 Message caroline about jury duty week 
