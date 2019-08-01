@@ -1,61 +1,22 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Change prioirt of urgent THINGs 
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) Map startup project 
-(A) Reply abotu startup 
-(A) Thank you cards for start up guys 
-(B) Ask Pete about zika test 
-(B) Email Justine and Dan about publishing 
-(B) Follow up with Dhari
-(B) Map Kat swimming ambush plan 
+(A) Map/Sprint https://github.com/joereddington/Projects-Private/issues/128
 (B) Map project for top vegan blogs 
-(B) Work out amazon login. 
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Ask Kat abotu her headphones 
-(C) Buy £30 of containers for gargage sorting. 
-(C) Check bike is G2G 
-x 2019-07-30 Confirm mum and dad visit on friday. 
-(C) Create your own packing list file and include big water bottle 
+(B) Work out amazon login on laptop
+(C) Brainstorm your own packing list file and include big water bottle 
 (C) Do adenda for kat walk 
-(C) Fill out the wake times sheet 
-(C) Find some spotlight options for the longue and show to kat. 
-(C) Follow up with calre about spoilers 
-(C) Follow up with reddit about messages 
-(C) Go through Igor and mark each task with eqt or not. 
+(C) Get igor to split the new tasks 
 (C) Make apointment to get head lump removed.
-(C) Make igor event to tell careoline about Nova develpoement 
-(C) Make office whiteboard into Joe-Kat list 
-(C) Make sign for Joe-Kat office 
-(C) Post lights to Mark 
-(C) Send Kat a picture of Nova's drawers with letters on  
-(C) Send Pete's family a gift with a nice note. 
-(C) Send something to the grandparent facebook group 
-(C) check library for book you keep meaning to read on mindfulness - 
 (D) Cut out the new pictures for the keys 
 (D) Do full accounts algorithm +EQT Time:99
-(D) Find a set of developement reading for Nova 
 (D) Fix kitchen tap 
-(D) Map project on air con.
-(E)  See if you can get a replica key for gargae 
-(E) 10 Contacts on the contact list 
+(D) Post lights to Mark 
 (E) Add Kat fingerprint to phone 
-(E) Ask Kat why she needs a scanner app 
-(E) Backup Dreamhost +EQT
 (E) Brainstorm growing luton vegan
 (E) Brainstorm on sorting inboxes better 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check make on neightbour's lock 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20  date:2019-07-01
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check the next school time +EQT Time:03 
 (E) Childminding certificate for Kat Family 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Create ebay alerts for everything in wishlist 
 (E) Cut nails +Health @nova  Time:04 
@@ -63,8 +24,6 @@ x 2019-07-30 Confirm mum and dad visit on friday.
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Download and process the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
 (E) Empty house inbox completely +Overhead @nova  Time:15 
-(E) Empty house inbox completely +Overhead @nova  Time:15  date:2019-07-08
-(E) Event about godless grace 
 (E) Event to make rice pudding for kat 
 (E) Event to talk to kat about improving office 
 (E) Fill out the 'food goes off in this many days' notebook 
@@ -91,6 +50,7 @@ x 2019-07-30 Confirm mum and dad visit on friday.
 (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post moonpig cards 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
@@ -128,7 +88,47 @@ x 2019-07-30 Confirm mum and dad visit on friday.
 (E) change razor blade Time:03  date:2019-07-08
 (E) share your gift policy on the social networks.  Time:05  @phone 
 (c) Map and sprint: Create Bills in Quickbooks for the next few expenses and see if they automatically settle themselves. 
+134 to do. 
+And I've reduced it down.  And only 12 of them make the top 100, looks like we are doing this the hard way.  
+Getting tired. 86 left .
+I used this site as a basis: https://www.culinarynutrition.com/top-50-vegan-blogs/ 
+I'm using the 'blogranking' list rather than the 'topblogs' for now. 
+It's running, we'll have a look and then MAYBE add some more information. 
+Looks like we'll have to make it a UK vegan blog one: https://blog.feedspot.com/vegan_blogs/ 
+Luton library now 
+Okay, let's go to flow. I'm going to do a full washington on the normal todo list. 
+Okay, let's have a bit of a look at this one. 
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Reply abotu startup 
+x (A) Thank you cards for start up guys 
+x (B) Ask Pete about zika test 
+x (B) Email Justine and Dan about publishing 
+x (B) Follow up with Dhari
+x (B) Map Kat swimming ambush plan 
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) Buy £30 of containers for gargage sorting. 
+x (C) Check bike is G2G 
+x (C) Fill out the wake times sheet 
+x (C) Find some spotlight options for the longue and show to kat. 
+x (C) Follow up with calre about spoilers 
+x (C) Follow up with reddit about messages 
+x (C) Go through Igor and mark each task with eqt or not. 
+x (C) Make igor event to tell careoline about Nova develpoement 
+x (C) Make office whiteboard into Joe-Kat list 
+x (C) Make sign for Joe-Kat office 
+x (C) Send Kat a picture of Nova's drawers with letters on  
+x (C) Send Pete's family a gift with a nice note. 
+x (C) Send something to the grandparent facebook group 
+x (C) check library for book you keep meaning to read on mindfulness - 
+x (D) Find a set of developement reading for Nova 
+x (D) Map project on air con.
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x (E) Check the next school time +EQT Time:03 
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-07-29 Send Nick the 'so you are visiting' guide 
+x 2019-07-30 Confirm mum and dad visit on friday. 
 x 2019-07-30 Do social media sorry for birthday cards 
 x 2019-07-30 Fix gate 
 x 2019-07-30 Message caroline about jury duty week 
