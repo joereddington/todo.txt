@@ -4,9 +4,9 @@
 (C) Rewrite the Keele supplier aggreement 
 (C) Split the big shine invoice
 (C) Test Demo link for the OVF client 
+(D) Check how cheques to unity are paid. 
 (D) Check that we are deferering the same set of inputs in quickbooks as accounts  
 (D) Film the "How to approve a payment in unity" YouTube document.  
-(D) Check how cheques to unity are paid. 
 (D) Watch more videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s
 (D) Write the pro and con lists about going to ISACC 
 (E) Brainstorm clearning up the office desktop at the end of the day 
@@ -20,3 +20,23 @@
 (E) Update quickbooks assetds to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions
 (E) Update your own child protection training.  date:2019-07-08
 (E) Write thank you card for Rob and Keele Payroll people 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+(E) Open list of projects to be funded +EQT
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Backup Dreamhost +EQT
+(E) Download the amazon months sales figures +EQT
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Send Trustees something nice about outcomes +EQT
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(E) Check the next school time +EQT Time:03 
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Open and log progress on the bid status document +EQT Time:04
