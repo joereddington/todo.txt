@@ -525,3 +525,8 @@ Okay, some bike notes.
 I have a Mens Pro Rider Lithium Mens Lightweight Steel Road Racing Bike Shimano 14 Speed, bought from ebay in January 2017. It's done about 630 km so far. 
 
 ## 18/08/19 16:33 to 17:29, Wrote a blog post, then rewrote it better 
+## 19/08/19 08:08 to 08:45, Sorting out machine and getting documents and so on +EQT 
+## 19/08/19 08:47 to 09:05, Creating payment in Unity.  +EQT
+## 19/08/19 09:07 to 09:25, Setting up Scotland Camps   +EQT
+## 19/08/19 09:27 to 09:40, processing the list while streaming. +EQT
+## 19/08/19 09:40 (C) Split the big shine invoice+EQT

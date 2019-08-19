@@ -2,19 +2,14 @@
 ##  Notes from current sprint 
 
 
-## 19/08/19 08:08 
-I've got an urgent bill for EQT to look at 
+Rewriten. 
 
-That amount hasn't gone out of our account, so we definately owe it. 
+## 19/08/19 09:42 to 11:12, (C) Mapping and working on https://github.com/eQualityTime/Public/issues/82 +EQT
 
-## 19/08/19 08:17 
-Everything very slow. Worth using this time to switch accounts. 
+10:57 - tried to spend a few minutes properly rewriting this list so it's easy and public but found I could do a few of them easily. 
 
 
-
-
-
-
+## 19/08/19 11:12, Going to spend a few minutes rewriting this list. But first, let's commit 
 
 
 
