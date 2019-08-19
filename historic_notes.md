@@ -515,3 +515,13 @@ Just the tagging
 
 ## 04/08/19 07:46 to 08:00 And now the cropping 
 Cropping on the major ones 
+## 14/08/19 15:36 to 15:52, Been working on igor.  +PersonalProjects
+## 14/08/19 15:53 to 16:03, working on sleep inport
+## 15/08/19 14:43 to 15:19, Gathering all the tasks. 
+## 15/08/19 15:19 to 15:48, emptying inboxes
+## 15/08/19 16:12 
+Okay, some bike notes. 
+
+I have a Mens Pro Rider Lithium Mens Lightweight Steel Road Racing Bike Shimano 14 Speed, bought from ebay in January 2017. It's done about 630 km so far. 
+
+## 18/08/19 16:33 to 17:29, Wrote a blog post, then rewrote it better 

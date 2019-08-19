@@ -1,6 +1,8 @@
 (B) Go throught all the amazon invoices and process them. 
+(B) Check we've paid the fine for companies house.
 (B) Update the Allbooksever and send to Richard to check that I've got Yvonne's books right. 
 (C) Review the CM program and put something in the social calendar. 
+(C) Split the consolutant github issue into a seperate project board. 
 (C) Rewrite the Keele supplier aggreement 
 (C) Split the big shine invoice
 (C) Test Demo link for the OVF client 

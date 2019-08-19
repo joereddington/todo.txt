@@ -1690,3 +1690,19 @@ x 2019-08-01 Read tristen's blog
 x 2019-08-01 Trim nose hair +Health @nova  Time:05 
 x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-07-08
+x 2019-08-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-08-15 Add Kat's fingerprint to my phone
+x 2019-08-15 Add another pannier to the wishlist 
+x 2019-08-15 Buy new back tyre for bike 
+x 2019-08-15 Check ranking scripts +Overhead
+x 2019-08-15 Find out if you can temporarily block richard's calls, like - when driving. 
+x 2019-08-15 Fix doorbell
+x 2019-08-15 Get Nova chickenpox vaccination.
+x 2019-08-15 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-08-15 If back on sugar then start sugar project +Health
+x 2019-08-15 Project on support for people on juries 
+x 2019-08-15 Review (days since) app counts +Overhead @nova @phone 
+x 2019-08-15 Send something to the grandparent facebook group 
+x 2019-08-16 Book Eleanor ticket  +EQT (extra) 
+x 2019-08-16 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-08-16 Write the test file for Igor sending tasks to different files 
