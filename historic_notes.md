@@ -428,3 +428,125 @@ The important commands to run turned out to be:
 ## 31/07/19 14:10 to 14:58, writing TMC emails +PersonalProjects
 ## 31/07/19 15:19 to 15:24 (E) Set up T.M Cooks on GoodReads +EQT
 I used contact@whitewaterwriters.com as the email and a standard password. They are reviewing and will come back to me. 
+## 31/07/19 13:22, more +EQT emails and work. 
+
+## 01/08/19 12:44 to 14:18, Starting a washington run, Touching every task 
+We start with 134 to do. 
+
+Marked off the following 
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Reply abotu startup 
+x (A) Thank you cards for start up guys 
+x (B) Ask Pete about zika test 
+x (B) Email Justine and Dan about publishing 
+x (B) Follow up with Dhari
+x (B) Map Kat swimming ambush plan 
+x (B) Map project for top vegan blogs 
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) Buy £30 of containers for gargage sorting. 
+x (C) Check bike is G2G 
+x 2019-07-30 Confirm mum and dad visit on friday. 
+x (C) Fill out the wake times sheet 
+x (C) Find some spotlight options for the longue and show to kat. 
+x (C) Follow up with calre about spoilers 
+x (C) Follow up with reddit about messages 
+x (C) Go through Igor and mark each task with eqt or not. 
+x (C) Make igor event to tell careoline about Nova develpoement 
+x (C) Make office whiteboard into Joe-Kat list 
+x (C) Make sign for Joe-Kat office 
+x (C) Send Kat a picture of Nova's drawers with letters on  
+x (C) Send Pete's family a gift with a nice note. 
+x (C) Send something to the grandparent facebook group 
+x (C) check library for book you keep meaning to read on mindfulness - 
+x (D) Find a set of developement reading for Nova 
+x (D) Map project on air con.
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x (E) Check the next school time +EQT Time:03 
+(E) Childminding certificate for Kat Family 
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+
+Also ordered some books and did some other bits. 
+
+## 01/08/19 14:47 to 15:16, I didn't get to the end, but I might have another hit.  
+x 2019-08-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-08-01 Cut nails +Health @nova  Time:04 
+x 2019-08-01 Get the new address for C&L 
+x 2019-08-01 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-08-01 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-08-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-08-01 Google for websites to report bad driving 
+x 2019-08-01 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-08-01 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-08-01 Publicly thank someone +Overhead Time:15 
+x 2019-08-01 Pump up bike tires  date:2019-07-08
+x 2019-08-01 Put bike rack on wishlist 
+x 2019-08-01 Put cycling shoes on amazon wishlist 
+x 2019-08-01 Read tristen's blog 
+x 2019-08-01 Trim nose hair +Health @nova  Time:05 
+x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-07-08
+
+
+
+## 01/08/19 15:16 to 15:46, Change of plan. The 'for public consumption' version. 
+x 2019-08-01 Childminding certificate for Kat Family 
+x 2019-08-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-08-01 Create ebay alerts for everything in wishlist 
+x 2019-08-01 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-08-01 Event to make rice pudding for kat 
+x 2019-08-01 Event to talk to kat about improving office 
+x 2019-08-01 Floss +Health @nova  Time:05
+x 2019-08-01 Floss +Health @nova  Time:05 date:2019-07-01
+x 2019-08-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-08-01 Map project for top vegan blogs 
+x 2019-08-01 Mark upwork as subcontractors in QB date:2019-07-08
+x 2019-08-01 Open and log progress on the bid status document +EQT Time:04
+x 2019-08-01 Pre-order pokemon for C&L 
+x 2019-08-01 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-08-01 Save a nice family memory +Family @phone @nova  Time:03  date:2019-07-01
+x 2019-08-01 Save a nice family memory +Family @phone @nova  Time:03  date:2019-07-08
+x 2019-08-01 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-08-01 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-08-01 TSE +Health Time:04 
+
+That's actually pretty good for rewriting. I wonder if I can go back a version.  
+
+## 04/08/19 06:08 to 07:14, Photo Editing +Personal Projects
+Just the tagging
+
+## 04/08/19 07:46 to 08:00 And now the cropping 
+Cropping on the major ones 
+## 14/08/19 15:36 to 15:52, Been working on igor.  +PersonalProjects
+## 14/08/19 15:53 to 16:03, working on sleep inport
+## 15/08/19 14:43 to 15:19, Gathering all the tasks. 
+## 15/08/19 15:19 to 15:48, emptying inboxes
+## 15/08/19 16:12 
+Okay, some bike notes. 
+
+I have a Mens Pro Rider Lithium Mens Lightweight Steel Road Racing Bike Shimano 14 Speed, bought from ebay in January 2017. It's done about 630 km so far. 
+
+## 18/08/19 16:33 to 17:29, Wrote a blog post, then rewrote it better 
+## 19/08/19 08:08 to 08:45, Sorting out machine and getting documents and so on +EQT 
+## 19/08/19 08:47 to 09:05, Creating payment in Unity.  +EQT
+## 19/08/19 09:07 to 09:25, Setting up Scotland Camps   +EQT
+## 19/08/19 09:27 to 09:40, processing the list while streaming. +EQT
+## 19/08/19 09:40 (C) Split the big shine invoice+EQT
+## 19/08/19 09:42 to 11:12, (C) Mapping and working on https://github.com/eQualityTime/Public/issues/82 +EQT
+## 19/08/19 11:12 to 11:24, Going through the todo list to work out next steps. 
+## 19/08/19 11:31 to 11:59, Hmm. Email is probably the sensible thing. Doing a first pass on phone.   
+lots of accumulated content from being away for a few weeks. 
+## 19/08/19 12:02 to 12:08, From email - book exam  +EQT
+## 19/08/19 12:08 to 12:15,  From email sort out goodreads (text on twitter)+EQT
+## 19/08/19 12:24 to 12:31, Wanted to stop for food, but ticking off a couple of extra tasks +EQT
+## 19/08/19 12:34 Lunch severed - I was looking at vim gx command and get and set 
+## 19/08/19 14:06, Wow, that was quite the lunch break. :s 
+## 19/08/19 14:07, Let's finnish the gx issue and then come back to it. 
+## 19/08/19 14:23 to 14:51, Attempting to work on OVF but getting distracted by test infrastructure
+## 19/08/19 14:51 to 15:49, Changing plans - moving to WWW for a full deployment.  +EQT
+[etherpad 01c8dfd]
+Details at https://github.com/eQualityTime/Public/issues/77#issuecomment-522609045
+## 19/08/19 15:51 to 19:50, +Family Time
+## 19/08/19 19:50 to 20:38, +EQT debrief from prison camp
