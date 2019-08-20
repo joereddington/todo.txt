@@ -530,3 +530,19 @@ I have a Mens Pro Rider Lithium Mens Lightweight Steel Road Racing Bike Shimano 
 ## 19/08/19 09:07 to 09:25, Setting up Scotland Camps   +EQT
 ## 19/08/19 09:27 to 09:40, processing the list while streaming. +EQT
 ## 19/08/19 09:40 (C) Split the big shine invoice+EQT
+## 19/08/19 09:42 to 11:12, (C) Mapping and working on https://github.com/eQualityTime/Public/issues/82 +EQT
+## 19/08/19 11:12 to 11:24, Going through the todo list to work out next steps. 
+## 19/08/19 11:31 to 11:59, Hmm. Email is probably the sensible thing. Doing a first pass on phone.   
+lots of accumulated content from being away for a few weeks. 
+## 19/08/19 12:02 to 12:08, From email - book exam  +EQT
+## 19/08/19 12:08 to 12:15,  From email sort out goodreads (text on twitter)+EQT
+## 19/08/19 12:24 to 12:31, Wanted to stop for food, but ticking off a couple of extra tasks +EQT
+## 19/08/19 12:34 Lunch severed - I was looking at vim gx command and get and set 
+## 19/08/19 14:06, Wow, that was quite the lunch break. :s 
+## 19/08/19 14:07, Let's finnish the gx issue and then come back to it. 
+## 19/08/19 14:23 to 14:51, Attempting to work on OVF but getting distracted by test infrastructure
+## 19/08/19 14:51 to 15:49, Changing plans - moving to WWW for a full deployment.  +EQT
+[etherpad 01c8dfd]
+Details at https://github.com/eQualityTime/Public/issues/77#issuecomment-522609045
+## 19/08/19 15:51 to 19:50, +Family Time
+## 19/08/19 19:50 to 20:38, +EQT debrief from prison camp
