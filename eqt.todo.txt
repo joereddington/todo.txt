@@ -1,25 +1,28 @@
+(B) Write the vision for 2022
+(C) Chase the unity bank situation 
 (C) Read Financial Accounting book
 (C) Test Demo link for the OVF client and see if you can bring another one back https://equalitytime.github.io/ovfplayer/#/config?pagesetURL=https://dl.dropboxusercontent.com/s/oiwfo47fprv3jl4/ck20.obz?dl=1
 (C) Use accountants list of debits and credits to redo the accounts in Quicktime. 
+(C) Watch and review https://drive.google.com/file/d/1Kk7tQXMPIkQemJDFkTLBRaoQIYnmHRHE/view
 (C) Write up notes on new system of approving payments 
 (D) Film the "How to approve a payment in unity" YouTube video.  
-(D) Login to Quickbooks on iPhone and update lastpass 
 (D) Raise issue at vim-test about the error message
 (D) Review Amazon's pay by invoice page and see if any are outstanding. 
-(D) Test Quickbooks Private mode
 (D) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s
 (D) Write the pro and con lists about going to ISACC 
 (E) Backup Dreamhost +EQT
 (E) Brainstorm clearning up the office desktop at the end of the day 
 (E) IFTT for github comments to Twitter
-(E) Put new version of node on laptop. 
 (E) Rearrange and rewrite our projects file https://www.dropbox.com/home/eQuality%20Time/staff%26trusteesonly/Projects?select=Projects+file.docx
 (E) Reoganise EQT folders in dropbox
 (E) Review all projects in github +Overhead Time:  date:2019-07-08
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT Time:20 date:2019-07-01
 (E) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions
 (E) Update your own child protection training.  date:2019-07-08
 (E) Write thank you card for Rob and Keele Payroll people 
 x 2019-08-19 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-08-19 Set up T.M Cooks on GoodReads 
+x 2019-08-20 Login to Quickbooks on iPhone and update lastpass 
+x 2019-08-20 Put new version of node on laptop. 
+x 2019-08-20 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-08-20 Test Quickbooks Private mode

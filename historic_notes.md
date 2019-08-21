@@ -202,7 +202,7 @@ Okay, the accounting part:
 
 ## 09/07/19 07:30 to 09:20, Nova time.  @Family 
 
-## 09/07/19 09:20 to 09:43, 
+## 09/07/19 09:20 to 09:43, +EQT
 I've completed the payments and report for Flowers For Turing, Now I need to email all the donors: it's gone into the list. 
 
 ## 09/07/19 09:44 to 09:49, two minute task: change screenshot locatio. 
@@ -541,9 +541,6 @@ lots of accumulated content from being away for a few weeks.
 ## 19/08/19 12:02 to 12:08, From email - book exam  +EQT
 ## 19/08/19 12:08 to 12:15,  From email sort out goodreads (text on twitter)+EQT
 ## 19/08/19 12:24 to 12:31, Wanted to stop for food, but ticking off a couple of extra tasks +EQT
-## 19/08/19 12:34 Lunch severed - I was looking at vim gx command and get and set 
-## 19/08/19 14:06, Wow, that was quite the lunch break. :s 
-## 19/08/19 14:07, Let's finnish the gx issue and then come back to it. 
 ## 19/08/19 14:23 to 14:51, Attempting to work on OVF but getting distracted by test infrastructure
 ## 19/08/19 14:51 to 15:49, Changing plans - moving to WWW for a full deployment.  +EQT
 [etherpad 01c8dfd]
