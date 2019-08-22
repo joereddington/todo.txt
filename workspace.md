@@ -1,32 +1,26 @@
 # Workspace 
 ##  Notes from current sprint 
 
-## 20/08/19 09:20 to 09:39, Setting up for the day +EQT
-Good morning! 
+## 21/08/19 09:39 to 09:49, Getting setup. 
+Files are clear, mouse is away. We're good to go. 
 
-## 20/08/19 09:53 to 12:13, Email +EQT
-Email is the big thing for the morning. 
-
-## 20/08/19 13:57 to 14:42, Doing budgets +EQT
-What's next? Let's look at the accounts 
-
-Budgets! 
-It's time to prepare a new organisational budget for the year. As part of that process I ran a 'variance analysis' (or I compared the budget to the actual spend) for the last organisational budget. It looks like this: and I've attached the pdf. It isn't yet complete (the year hasn't ended and there are various payments/invoices to process) but it's broadly accurate and it's nice to see I was somewhat pessimistic with the projections. 
-
-I've used the actual spends to build a new organisational budget for 2019-2020 and have attached it. I'm assuming an increase in income from Yvonne and Higher Horizons and a matching increase in cost of sales, but I'm otherwise assuming the same spend in the same categories except for staff pay as we have my salary to cover. At the moment, we'll make a (coverable) loss on the year unless I bring in another decent grant. 
-
-I've also included our current balance sheet, as you can see, our cash flow is good  
+## 21/08/19 09:51 to 10:57, (B) Write the vision for 2022
+I've moved this on a fair way, but it needs to sit for a bit, I need to think carefully about what I think we can do in five years and then write it down properly. 
 
 
-## 20/08/19 15:06 
-I've lost it. What's next? A short trip out? Get some chocolate?  
+## 21/08/19 10:58 to 11:42 (E) Make a bar chart of WWW camps per year
+Done and posted to social (also put out a fire on a WWW project)
 
+## 21/08/19 11:42 to 11:46,  x 2019-08-21 Open and log progress on the bid status document +EQT Time:04
 
+## 21/08/19 11:46 to 12:22, Looking for available grants 
 
+## 21/08/19 12:27 Stopping for lunch. 
 
+## 21/08/19 13:43 to 13:58, Fixing a camp issue. 
 
-
-
+## 21/08/19 13:58 to 15:21, Working on ovf
+Fixing tests, trying a new algorithm and asking facebook about it. 
 
 
 
