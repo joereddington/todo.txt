@@ -22,7 +22,15 @@ Done and posted to social (also put out a fire on a WWW project)
 ## 21/08/19 13:58 to 15:21, Working on ovf
 Fixing tests, trying a new algorithm and asking facebook about it. 
 
+## 22/08/19 09:31 to 12:12, I have a new algorithm, I'm excited about it. 
+Still no gain. This is silly. The original should work, why doesn't it? 
 
+## 22/08/19 12:19 
+Next action when I come back to this is to try again with an engineering optimisation. 
+
+## 22/08/19 12:47 Did some save the children stuff.  
+
+## 22/08/19 12:47 Lunch .
 
 
 
