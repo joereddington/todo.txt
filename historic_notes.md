@@ -558,3 +558,22 @@ It's time to prepare a new organisational budget for the year. As part of that p
 I've used the actual spends to build a new organisational budget for 2019-2020 and have attached it. I'm assuming an increase in income from Yvonne and Higher Horizons and a matching increase in cost of sales, but I'm otherwise assuming the same spend in the same categories except for staff pay as we have my salary to cover. At the moment, we'll make a (coverable) loss on the year unless I bring in another decent grant. 
 
 I've also included our current balance sheet, as you can see, our cash flow is good  
+## 21/08/19 09:39 to 09:49, Getting setup. +EQT
+## 21/08/19 09:51 to 10:57, (B) Write the vision for 2022 +EQT
+## 21/08/19 10:58 to 11:42 (E) Make a bar chart of WWW camps per year +EQT
+## 21/08/19 11:42 to 11:46,  x 2019-08-21 Open and log progress on the bid status document +EQT Time:04
+## 21/08/19 11:46 to 12:22, Looking for available grants +EQT
+## 21/08/19 12:27 Stopping for lunch. 
+## 21/08/19 13:43 to 13:58, Fixing a camp issue. +EQT
+
+## 21/08/19 13:58 to 15:21, Working on ovf+EQT
+## 22/08/19 09:31 to 12:12, I have a new algorithm, I'm excited about it. 
+
+## 25/08/19 16:37 to 16:56, Working on blog post - found out it had already been done better elsewhere. Oh no!  +PersonalProjects
+## 25/08/19 16:58 to 17:01, Let's find out about book machine +EQT
+## 25/08/19 17:11 to 17:30, IFTTT connection. 
+## 26/08/19 07:16 to 08:04, Good morning.  (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+## 26/08/19 08:09 to 08:38, WOrking on the buisness sprint  +personalprojects
+## 27/08/19 09:39 to 10:04, Getting started +EQT
+## 27/08/19 10:04 to 1020 Notes from house meeting. 
+* Trip to reading. Leaving here at 4pm, picking up Nova at 3:30. Pack as if to stay over. 

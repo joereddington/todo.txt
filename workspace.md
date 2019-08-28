@@ -1,39 +1,52 @@
 # Workspace 
 ##  Notes from current sprint 
 
-## 21/08/19 09:39 to 09:49, Getting setup. 
-Files are clear, mouse is away. We're good to go. 
-
-## 21/08/19 09:51 to 10:57, (B) Write the vision for 2022
-I've moved this on a fair way, but it needs to sit for a bit, I need to think carefully about what I think we can do in five years and then write it down properly. 
 
 
-## 21/08/19 10:58 to 11:42 (E) Make a bar chart of WWW camps per year
-Done and posted to social (also put out a fire on a WWW project)
+## 27/08/19 10:24 
+First things, clear the old files. 
 
-## 21/08/19 11:42 to 11:46,  x 2019-08-21 Open and log progress on the bid status document +EQT Time:04
+## 27/08/19 10:26 
+Okay, it's not an entirely blank, but I'll be using those files today.      
 
-## 21/08/19 11:46 to 12:22, Looking for available grants 
-
-## 21/08/19 12:27 Stopping for lunch. 
-
-## 21/08/19 13:43 to 13:58, Fixing a camp issue. 
-
-## 21/08/19 13:58 to 15:21, Working on ovf
-Fixing tests, trying a new algorithm and asking facebook about it. 
-
-## 22/08/19 09:31 to 12:12, I have a new algorithm, I'm excited about it. 
-Still no gain. This is silly. The original should work, why doesn't it? 
-
-## 22/08/19 12:19 
-Next action when I come back to this is to try again with an engineering optimisation. 
-
-## 22/08/19 12:47 Did some save the children stuff.  
-
-## 22/08/19 12:47 Lunch .
+## 27/08/19 10:29 to 11:34, (B) Start writing the slides for CM +EQT
+Mapped the issue at https://github.com/eQualityTime/Public/issues/83 more to do. 
+Included some checking in on the tweets from last year. 
 
 
+## 27/08/19 11:32 to 12:22, Publishing Scotland books +EQT 
+* Wating for the update now I've changed a thing 
+First one done, Need to message Richard about the covers for the kindle versions.  
 
+## 27/08/19 12:23 
+Signing off for lunch and emails and other private work. 
+
+## 27/08/19 14:26 to 15:16, more email +EQT
+
+## 28/08/19 09:51 
+Good morning! Late start.  
+
+Main things to do this morning: 
+
+* Publish prison book, 
+* Write newsletter for trustees 
+
+## 28/08/19 09:52 to 11:50, Book publishing. 
+Okay, pdf is complete and live, I've opened a KDP book but needs a bit of work, particularly on the cover, Can't do much until have an author. Stopping here for now.
+
+Done and handed off. 
+
+## 28/08/19 11:50 
+Newsletter is next. 
+
+- 28/08/19 smallest next step:  SHOULD GET THE OTHER LAPTOP. 
+
+
+
+
+
+
+ 
 
 
 
