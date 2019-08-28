@@ -31,16 +31,15 @@ Main things to do this morning:
 * Publish prison book, 
 * Write newsletter for trustees 
 
-## 28/08/19 09:52 to 11:50, Book publishing. 
+## 28/08/19 09:52 to 11:50, Book publishing. +EQT
 Okay, pdf is complete and live, I've opened a KDP book but needs a bit of work, particularly on the cover, Can't do much until have an author. Stopping here for now.
 
 Done and handed off. 
 
-## 28/08/19 11:50 
-Newsletter is next. 
 
-- 28/08/19 smallest next step:  SHOULD GET THE OTHER LAPTOP. 
+15L51 to 16:42
 
+## 28/08/19 15:21 to 16:50, emails +EQT
 
 
 
