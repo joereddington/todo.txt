@@ -553,7 +553,7 @@ Details at https://github.com/eQualityTime/Public/issues/77#issuecomment-5226090
 What's next? Let's look at the accounts 
 
 Budgets! 
-It's time to prepare a new organisational budget for the year. As part of that process I ran a 'variance analysis' (or I compared the budget to the actual spend) for the last organisational budget. It looks like this: and I've attached the pdf. It isn't yet complete (the year hasn't ended and there are various payments/invoices to process) but it's broadly accurate and it's nice to see I was somewhat pessimistic with the projections. 
+It's time to prepare a new organisational budget for the year. As part of that process I ran a 'variance analysis' (or I compared the budget to the actual spend) for the last organisational budget. It looks like this: I've attached the pdf. It isn't yet complete (the year hasn't ended and there are various payments/invoices to process that will improve the bottom line) but it's broadly accurate. Worth noting this was only for six months - it runs end of Fen to End of August.
 
 I've used the actual spends to build a new organisational budget for 2019-2020 and have attached it. I'm assuming an increase in income from Yvonne and Higher Horizons and a matching increase in cost of sales, but I'm otherwise assuming the same spend in the same categories except for staff pay as we have my salary to cover. At the moment, we'll make a (coverable) loss on the year unless I bring in another decent grant. 
 

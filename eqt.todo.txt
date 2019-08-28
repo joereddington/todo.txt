@@ -1,8 +1,8 @@
 (B) Write the vision for 2022
 (C) Chase the unity bank situation 
-(C) Investigate http://www.blcf.org.uk/2017/09/16/mark-west-fund/ 
+x 2019-08-28 Investigate http://www.blcf.org.uk/2017/09/16/mark-west-fund/ 
 (C) Investigate https://www.haystravel.co.uk/foundation/funding-charities.phtml for WWW laptops in Crewe  OR Superhero cyborgs in London
-(C) Suggest http://weavers.org.uk/content/grant-application-guidelines to trsutees as a bid to put in. 
+x 2019-08-28 Suggest http://weavers.org.uk/content/grant-application-guidelines to trsutees as a bid to put in. 
 (C) Lookup recent accounts and Ring this charity about your income http://www.thebromleytrust.org.uk/index.php?/project/criteria-and-guidelines/ 
 (C) Read Financial Accounting book
 (C) Test Demo link for the OVF client and see if you can bring another one back https://equalitytime.github.io/ovfplayer/#/config?pagesetURL=https://dl.dropboxusercontent.com/s/oiwfo47fprv3jl4/ck20.obz?dl=1
@@ -33,7 +33,7 @@ x 2019-08-21 Open and log progress on the bid status document +EQT Time:04
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Search for funding for eQuality Time Projects +EQT Time:20 date:2019-07-01
-(E) Send Trustees something nice about outcomes +EQT
+x 2019-08-28 Send Trustees something nice about outcomes +EQT
 (E) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions
 (E) Update your own child protection training.  date:2019-07-08
 (E) Write thank you card for Rob and Keele Payroll people 
