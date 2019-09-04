@@ -577,3 +577,45 @@ I've also included our current balance sheet, as you can see, our cash flow is g
 ## 27/08/19 09:39 to 10:04, Getting started +EQT
 ## 27/08/19 10:04 to 1020 Notes from house meeting. 
 * Trip to reading. Leaving here at 4pm, picking up Nova at 3:30. Pack as if to stay over. 
+## 27/08/19 10:24 to 10:29, Tidying up to start +EQT
+## 27/08/19 10:29 to 11:34, (B) Start writing the slides for CM +EQT
+Mapped the issue at https://github.com/eQualityTime/Public/issues/83 more to do. 
+Included some checking in on the tweets from last year. 
+## 27/08/19 11:32 to 12:22, Publishing Scotland books +EQT 
+First one done, Need to message Richard about the covers for the kindle versions.  
+## 27/08/19 14:26 to 15:16, email +EQT
+
+## 28/08/19 09:52 to 11:50, Book publishing. +EQT
+Can be viewed at https://youtu.be/X82WW24758I
+Okay, pdf is complete and live, I've opened a KDP book but needs a bit of work, particularly on the cover, Can't do much until have an author. Stopping here for now.
+
+Done and handed off. 
+
+## 28/08/19 15:21 to 16:50, emails +EQT, Completely emptied inbox 
+## 29/08/19 09:15 to 09:32, +EQT Starting day and amazon. 
+Starting day, clearing user area, tidying up this file. 
+Checked Amazon Publishing to make sure everything is level
+
+## 29/08/19 09:32 to 09:51, Exploring a charity form  +EQT
+## 29/08/19 09::51 to 10:01 (E) IFTT for github comments to Twitter +EQT
+## 29/08/19 10:03 (D) Write the pro and con lists about going to ISACC 
+## 29/08/19 10:05 to 10:16 (C) Test Demo link for the OVF client and see if you can bring another one back 
+## 29/08/19 10:18 to 10:30 (C) Write up notes on new system of approving payments +EQT
+## 29/08/19 10:34 to 11:12,  (E) Rearrange and rewrite our projects file https://www.dropbox.com/home/eQuality%20Time/staff%26trusteesonly/Projects?select=Projects+file.docx
+## 29/08/19 11:13 to 11:29, Create invoice and email Scottish school.+EQT
+
+## 29/08/19 11:35, the only seneible thing Is probably to go through the github projects. 
+
+## 29/08/19 11:39 to 12:30, Writing the CM presentation.
+I'm using 'landslide' which is actually pretty fun. It's lightweight and it forces me to put the information actually on the page.  
+
+Also, If I've got my understanding right, because each slide is a different web address I really can tweet out slides as I go. 
+In general I like it. 
+
+I've got a github repo - the gh-pages isn't working for some reason, but there is at least a place for the stuff to live. 
+
+Might have mostly been a distraction from actually *writing* the talk, but it's nice to get the structure out. 
+
+## 29/08/19 12:30 to 15:27, Working on Children in Need bid 
+See notes at: https://github.com/eQualityTime/Public/issues/80
+

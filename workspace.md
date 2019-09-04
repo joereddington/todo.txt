@@ -1,52 +1,49 @@
 # Workspace 
 ##  Notes from current sprint 
 
+Today is all about the Children in Need grant 
+
+## 02/09/19 10:50 
+Back to complete the grant, starting with the budget 
 
 
-## 27/08/19 10:24 
-First things, clear the old files. 
+## 02/09/19 10:52 to 11:16,
+It's a midnight deadline and I've put a call out for reviewers 
 
-## 27/08/19 10:26 
-Okay, it's not an entirely blank, but I'll be using those files today.      
+Some back of the envelope calculations, based on how it worked on the pilot suggests that the leader needs 16 hours per school to get something started and then come back for research collection, including setting up and transport and faff.  It's actually less for part time staff presuming that they can fit in for when schools want them. Given the proper school year we're thinking that a full time facilitator can do 50 schools and 0.5 can do 30, with 20 for 0.3.  
 
-## 27/08/19 10:29 to 11:34, (B) Start writing the slides for CM +EQT
-Mapped the issue at https://github.com/eQualityTime/Public/issues/83 more to do. 
-Included some checking in on the tweets from last year. 
+Fitting a reasonable project into £10k a year is going to be hard - we're going to be absorbing a lot of this into the core costs if it comes off.  But we do believe in it as a project. 
 
+I've cut the project manager role right down. It's come out at 999.30 which I'm willing to take.  
 
-## 27/08/19 11:32 to 12:22, Publishing Scotland books +EQT 
-* Wating for the update now I've changed a thing 
-First one done, Need to message Richard about the covers for the kindle versions.  
-
-## 27/08/19 12:23 
-Signing off for lunch and emails and other private work. 
-
-## 27/08/19 14:26 to 15:16, more email +EQT
-
-## 28/08/19 09:51 
-Good morning! Late start.  
-
-Main things to do this morning: 
-
-* Publish prison book, 
-* Write newsletter for trustees 
-
-## 28/08/19 09:52 to 11:50, Book publishing. +EQT
-Okay, pdf is complete and live, I've opened a KDP book but needs a bit of work, particularly on the cover, Can't do much until have an author. Stopping here for now.
-
-Done and handed off. 
+So we're hoping for 40 schools over the two year project. Or 60 over three. 
 
 
-15L51 to 16:42
+## 02/09/19 11:24 to 11:49, Worked out an answer and quickly blogged it. 
 
-## 28/08/19 15:21 to 16:50, emails +EQT
+
+## 02/09/19 11:49 to 12:29, writing until lunch.
+Only one question left for the first version. 
+
+
+## 02/09/19 13:18 to 13:50, Doing the finance 
+
+## 02/09/19 13:50 Okay, taking a break now and will maybe take another stab at it before Kat reads it but otherwise is goodho
+
+## 02/09/19 16:18 to 16:43, I'm back for the second, more complete, fufilled version of the application. 
 
 
 
 
+## 02/09/19 21:45 to 22:28, 
+Done! 
 
- 
 
 
+# Next actions 
+. Find/make budget for 20k over two years. 
+. Rewrite the issue so it becomes easy 
+. See if ED wants some training. 
+* Review the child protection policy. 
 
 
