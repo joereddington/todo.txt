@@ -40,10 +40,22 @@ Done!
 
 
 
-# Next actions 
-. Find/make budget for 20k over two years. 
-. Rewrite the issue so it becomes easy 
-. See if ED wants some training. 
-* Review the child protection policy. 
+## 04/09/19 15:39 
+What to do about the payments? There's a lot there? I've sent an email.  
+
+- 04/09/19 smallest next step:  Create a folder. 
+
+## 05/09/19 09:45 
+Got to do the presentation prep. 
+
+Starting with fixing the link, and possibly some other bits. 
+
+## 05/09/19 10:42 
+Fixed the link nd other bits of the presentation 
+
+
+
+
+
 
 
