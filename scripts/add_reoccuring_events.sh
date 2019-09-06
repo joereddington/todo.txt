@@ -1,3 +1,6 @@
+#!/bin/bash
+cd "$(dirname "$0")"
+cd ..
 sort todo.txt > sorted.all
 sort eqt.todo.txt > sorted.eqt
 igor/igor -d > igor.txt 
