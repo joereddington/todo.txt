@@ -27,7 +27,3 @@ Submodule for adding reoccurring events
 
 This file 
 
-* workspace.md
-
-A general purpose file for writing myself notes about the actions I'm currently doing. Mostly used in case I get interrupted. Should generally be blank online. 
-
