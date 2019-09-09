@@ -2,21 +2,24 @@
 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128
 (B) Give Kat a list of dates for next year socials 
-(B) Message a bunch of people about 
+(B) List of people to come to my birthday :) 
 (B) Log into Amazon on Laptop. 
+(B) Weight self in BJJ suit 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Investigate bookmachine dates 
-(C) Enter https://rostrum.events/hertfordshire-open-2019/. 
-(C) Send Kate some woodland creators for her wallpaper
+(C) Check Weight and enter https://rostrum.events/hertfordshire-open-2019/ 
+(C) Message the people who responded to your streaming thing with an ask. 
+(C) Send Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv
 (C) Send something to the grandparent facebook group 
 (C) Treat yourself to a fit at https://www.pedalworks.co.uk/news-events/ 
+(C) fix joereddington.com/live by checking the current wordpress rewriting. 
 (D) Brainstorm best way to store, mark, hang pillowcases
 (D) Cut out the new pictures for the keys 
 (D) Do full accounts algorithm +EQT Time:99
 (D) Empty Kitchen Cupboard to Fix kitchen tap 
+(D) Find out about doing parkrun photographs 
 (D) Map project for advertisting sleep to kat 
 (D) Remap project for the arch
+(D) Volenteer once for parkrun - worth the experience. 
 (D) Wrap Mark's Present for Post
 (D) size and mount shoe rack
 (D) sort out garage
@@ -26,6 +29,8 @@
 (E) Backup Dreamhost +EQT
 (E) Brainstorm on growing the Luton Vegan Facebook group.
 (E) Brainstorm on improving thoughput of boxes
+(E) Bring board pens up to office 
+(E) Buy another receipt book 
 (E) Buy the extra fastener for the car seat. 
 (E) Check Desktop Tracker is working +Overhead @nova  Time:02 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
@@ -34,6 +39,7 @@
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that you have replied to all messages in Facebook
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+<<<<<<< HEAD
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check the next school time +EQT Time:03 
@@ -42,29 +48,38 @@
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
+=======
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+>>>>>>> 1d72c5af9a5b1bc2d1325db207c076f0eff5a266
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Download the amazon months sales figures +EQT
-(E) Draft a blog post about the comics you made 
 (E) Edit the family photo for Kat
 (E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Empty physical inbox completely +Overhead @nova  Time:15 
+(E) Fill out all the projects and notes on the notice board. 
 (E) Fill out the 'food goes off in this many days' notebook 
 (E) Find out what make the neighbours lock is any buy
-(E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05 date:2019-07-08
+(E) Get screwdriver for child car lock 
 (E) Give laptop screen a good clean +Overhead
+<<<<<<< HEAD
 (E) Go though documents folder and put everything you want to save in dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through Walking Meeting with Kat +Family Time:180  
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) If back on sugar then start sugar project +Health
+=======
+>>>>>>> 1d72c5af9a5b1bc2d1325db207c076f0eff5a266
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(E) Link goodreads and twitter using IfTTT
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Make playdoh for Nova 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
 (E) Make workstation spotless +Overhead @nova  
 (E) Map project to scan project board and add tasks to todo.txt 
@@ -85,6 +100,7 @@
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Process the external hard drive in the filing cabinate 
 (E) Proper brainstorm on YouTube use. 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Put bike rack on top of car 
@@ -103,8 +119,10 @@
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Setup IFFT to take photos of doorbell 
 (E) Show Kat the chapter in Sticky Ideas about Greenhousing
+(E) Smart blug for bubble machine 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health Time:04 
+(E) Take pillowcase to garage for judo kit 
 (E) Test the answer on vim.stackexchange 
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Try a one-word brainstorm on something 
@@ -112,6 +130,7 @@
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitimin Tablet +Health @nova  Time:02
+(E) Volenteer oce for parkrun. 
 (E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
@@ -120,6 +139,7 @@
 (E) change razor blade Time:03  date:2019-07-08
 (E) share your gift policy on the social networks.  Time:05  @phone 
 (E) todo.txt should include nowrap 
+<<<<<<< HEAD
 x 2019-08-18 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2019-08-18 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-08-18 Check Voicemail  +Overhead @nova  @phone  Time:02 
@@ -137,3 +157,585 @@ x 2019-08-18 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03
 x 2019-08-18 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
 x 2019-08-18 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-08-18 Write agenda for country walk with Kat
+=======
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(C) Send something to the grandparent facebook group 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check ranking scripts +Overhead
+(E) Check wishlist
+(E) Give laptop screen a good clean +Overhead
+(E) If back on sugar then start sugar project +Health
+(E) Make workstation spotless +Overhead @nova  
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review starred items in feeds +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) TSE +Health Time:04 
+(E) share your gift policy on the social networks.  Time:05  @phone 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(C) Send something to the grandparent facebook group 
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(C) Send something to the grandparent facebook group 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(C) Send something to the grandparent facebook group 
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(C) Send something to the grandparent facebook group 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(C) Send something to the grandparent facebook group 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check ranking scripts +Overhead
+(E) Check wishlist
+(E) Give laptop screen a good clean +Overhead
+(E) If back on sugar then start sugar project +Health
+(E) Make workstation spotless +Overhead @nova  
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review starred items in feeds +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) TSE +Health Time:04 
+(E) Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Ask for testimonal from completed fundings
+(E) Go though documents folder and put everything you want to save in dropbox.
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(C) Send something to the grandparent facebook group 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(C) Send something to the grandparent facebook group 
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(C) Send something to the grandparent facebook group 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) 10 Contacts on the contact list 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) change razor blade Time:03 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Empty house inbox completely +Overhead @nova  Time:15 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Log weight +Health  Time:02 
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review all projects in github +Overhead Time: 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health @nova  Time:05 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(E) Floss +Health @nova  Time:05
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Write a letter to Nova +Family Time:30 
+(C) Send something to the grandparent facebook group 
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+>>>>>>> 1d72c5af9a5b1bc2d1325db207c076f0eff5a266

@@ -44,3 +44,31 @@ x 2019-08-20 Login to Quickbooks on iPhone and update lastpass
 x 2019-08-20 Put new version of node on laptop. 
 x 2019-08-20 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-08-20 Test Quickbooks Private mode
+x 2019-08-21 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-08-29 Check if gx works in any of your accounts
+x 2019-08-21 Make a bar chart of WWW camps per year
+x 2019-08-21 Open and log progress on the bid status document +EQT Time:04
+x 2019-08-27 Find out where the twitter people for CM are - be good to understand how they think
+x 2019-08-27 Start writing the slides for CM
+x 2019-08-28 Investigate http://www.blcf.org.uk/2017/09/16/mark-west-fund/ 
+x 2019-08-28 Send Trustees something nice about outcomes +EQT
+x 2019-08-28 Suggest http://weavers.org.uk/content/grant-application-guidelines to trsutees as a bid to put in. 
+x 2019-08-29 Check the next school time +EQT Time:03 
+x 2019-08-29 Download the amazon months sales figures +EQT
+x 2019-08-29 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-08-29 IFTT for github comments to Twitter
+x 2019-08-29 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-08-29 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2019-08-29 Open list of projects to be funded +EQT
+x 2019-08-29 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-08-29 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-08-29 Search for funding for eQuality Time Projects +EQT
+x 2019-08-29 Search for funding for eQuality Time Projects +EQT Time:20 date:2019-07-01
+x 2019-08-29 Suggest http://weavers.org.uk/content/grant-application-guidelines to trsutees as a bid to put in. 
+x 2019-08-29 Work out the books for the scotland school 
+x 2019-08-29 Write up notes on new system of approving payments 
+x 2019-08-29 Test Demo link for the OVF client and see if you can bring another one back https://equalitytime.github.io/ovfplayer/#/config?pagesetURL=https://dl.dropboxusercontent.com/s/oiwfo47fprv3jl4/ck20.obz?dl=1
+x 2019-08-29 Email Scotland School about books and do invoice +EQT
+x 2019-08-29 Raise issue at vim-test about the error message
+x 2019-08-29 Rearrange and rewrite our projects file https://www.dropbox.com/home/eQuality%20Time/staff%26trusteesonly/Projects?select=Projects+file.docx
+x 2019-08-29 Write thank you card for Rob and Keele Payroll people 
