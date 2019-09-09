@@ -1,4 +1,44 @@
 x 2019-08-19 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-07-22 Book hotel for scotland leaders 
+x 2019-07-22 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-07-22 Check the next school time +EQT Time:03 
+x 2019-07-22 Close current expenses issue 
+x 2019-07-22 Find out the amount of the  
+x 2019-07-22 Open list of projects to be funded +EQT
+x 2019-07-22 Phone up for Yvonne's address again 
+x 2019-07-22 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-07-22 Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-07-08
+x 2019-07-22 Put HH printout in laptop bag, with expenses forms 
+x 2019-07-22 Reoganise EQT folders in dropbox
+x 2019-07-22 Set up call with Yvonne 
+x 2019-07-22 Sinere thanking of dimond 
+x 2019-07-24 Add Sarah to list of directors 
+x 2019-07-24 Produce Comic Relief Accounts 
+x 2019-07-24 Send Yvonne Adenda 
+x 2019-07-29 Check exepsenss to work out which hotel you used last time for scotland 
+x 2019-07-29 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-07-29 Create an email text exapnders for 'thank yu, I've put X in my todo list and you can see it rise to the top here' 
+x 2019-07-29 Email HH with match funding document 
+x 2019-07-29 Process emails 
+x 2019-07-29 Process notebook 
+x 2019-07-29 Raise expenses in unity. 
+x 2019-07-29 Setup laptop for work in kitchen 
+x 2019-07-29 Talk to dimond about adendas for the meeting coming up. 
+x 2019-07-29 Update IMPS to use scriptwriting code 
+x 2019-07-30 Email Scotish head to confirm it's actually the 19th. 
+x 2019-07-30 Send email to book exam at Luton International Centre
+x 2019-07-30 Write a blog post about the accounts and how you would do things differently in future. 
+x 2019-07-31 Alter travellodge booking 
+x 2019-07-31 Check Procontract and Call Litchfield council about the tender on 01543 308706 
+x 2019-07-31 Event to review quickbooks with Peter Buck 
+x 2019-07-31 Process email properly. 
+x 2019-07-31 Publish the minutes of the last meeting (put on the social media calendar.  
+x 2019-07-31 Review github push requests 
+x 2019-07-31 Send the arts council bid 
+x 2019-07-31 Submit arts council bid 
+x 2019-07-31 Try the commands Joas sent 
+x 2019-07-31 Try the commands at https://github.com/eQualityTime/Public/issues/77
+x 2019-07-31 review the EQT minutes on dropbox and add actions to this file. 
 x 2019-08-19 Set up T.M Cooks on GoodReads 
 x 2019-08-20 Login to Quickbooks on iPhone and update lastpass 
 x 2019-08-20 Put new version of node on laptop. 
