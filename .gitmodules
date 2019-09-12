@@ -1,6 +1,9 @@
 [submodule "igor"]
-	path = igor
+	path = submodules/igor
 	url = https://github.com/joereddington/igor
 [submodule "watcher"]
-	path = watcher
+	path = submodules/watcher
 	url = https://github.com/joereddington/watcher
+[submodule "submodules/metatodo"]
+	path = submodules/metatodo
+	url = https://github.com/joereddington/metatodo
