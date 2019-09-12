@@ -1852,3 +1852,22 @@ x 2019-09-12 Go through phone and save all of the numbers +Overhead @nova @phone
 x 2019-09-12 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-09-12 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-09-12 Message the people who responded to your streaming thing with an ask. 
+x 2019-09-12 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ Time:06
+x 2019-09-12 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-09-12 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-09-12 () Open and log progress on the bid status document +EQT Time:04
+x 2019-09-12 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-09-12 Bring board pens up to office  Time:02
+x 2019-09-12 Check if there are any moonpig cards to send this month +Overhead Time:04
+x 2019-09-12 Floss +Health @nova  Time:05
+x 2019-09-12 Get screwdriver for child car lock  @home Time:05
+x 2019-09-12 Give laptop screen a good clean +Overhead Time:04
+x 2019-09-12 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-09-12 Remove small saucepan from rack @home Time:05
+x 2019-09-12 TSE +Health Time:04 
+x 2019-09-12 Take board pens up to office @home Time:02
+x 2019-09-12 Take pillowcase to garage for judo kit @home Time:02
+x 2019-09-12 Throw out the cerment weight you made @home Time:03
+x (D Kat) Break up the old fence panel @home Time:10
+x (D Kat) Check drawers for Mark's Present for Post Time:10
+x 2019-09-12 Write down the list of foods in the fridge in the red notebook Time:06
