@@ -1739,3 +1739,76 @@ x 2019-08-25 Investigate bookmachine dates
 x 2019-08-25 Link goodreads and twitter using IfTTT
 x 2019-08-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-08-26 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-08-18 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-08-18 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-08-18 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-08-18 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-08-18 Check wishlist
+x 2019-08-18 Cut nails +Health @nova  Time:04 
+x 2019-08-18 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-08-18 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-08-18 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2019-08-18 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+x 2019-08-18 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-08-18 Write agenda for country walk with Kat
+x 2019-09-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-09-09 Ask for testimonal from completed fundings
+x 2019-09-09 Brainstorm on growing the Luton Vegan Facebook group.
+x 2019-09-09 Buy the extra fastener for the car seat. 
+x 2019-09-09 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-09-09 Check Weight and enter https://rostrum.events/hertfordshire-open-2019/ 
+x 2019-09-09 Check reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-09-09 Check the next school time +EQT Time:03 
+x 2019-09-09 List of people to come to my birthday :) 
+x 2019-09-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-09-09 Remap project for the arch
+x 2019-09-09 Send something to the grandparent facebook group 
+x 2019-09-09 Volenteer once for parkrun - worth the experience. 
+x 2019-09-09 Weight self in BJJ suit 
+x 2019-09-09 share your gift policy on the social networks.  Time:05  @phone 
+x 2019-09-09 size and mount shoe rack
+x 2019-09-09 todo.txt should include nowrap 
+x 2019-09-09 Check that you have replied to all messages in Facebook
+x 2019-09-09 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-09-09 Send Trustees something nice about outcomes +EQT
+x 2019-09-09 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-09-09 Check ranking scripts +Overhead
+x 2019-09-09 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-09-09 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-09-09 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-09-09 Go though documents folder and put evrything you want to save in dropbox.
+x 2019-09-09 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-09-09 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-09-09 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-09-09 Cut nails +Health @nova  Time:04 
+x 2019-09-09 Log weight +Health  Time:02 
+x 2019-09-09 Open list of projects to be funded +EQT
+x 2019-09-09 If back on sugar then start sugar project +Health
+x 2019-09-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-09-09 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-09-09 Publicly thank someone +Overhead Time:15 
+x 2019-09-09 Trim nose hair +Health @nova  Time:05 
+x 2019-09-09 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-09-09 Empty physical inbox completely +Overhead @nova  Time:15 
+x 2019-09-09 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-09-09 fix joereddington.com/live by checking the current wordpress rewriting. 
+x 2019-09-09 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-09-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-09-09 Download the amazon months sales figures +EQT
+x 2019-09-09 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-09-09 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-09-09 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-09-09 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-09-09 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-09-09 Log into Amazon on Laptop. 
+x 2019-09-09 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2019-09-09 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-09-09 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-09-09 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-09-09 Order the printing for mum. 
+x 2019-09-09 Review (days since) app counts +Overhead @nova @phone 
