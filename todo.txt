@@ -1,104 +1,67 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-(A) Make moonpig cards for the book
-(A) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128
-(B) Draft list of events for next year for Kat 
-(B) Talk to Kat about the christmas meal.
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) Book bike fit https://www.pedalworks.co.uk/news-events/ 
-(C) Confirm mum visit 
-(C) Message the people who responded to your streaming thing with an ask. 
-(C) Send Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv
-(C) Write a list of family projects on the office whiteboard @home
-(D) Brainstorm best way to store, mark, hang pillowcases
-(D) Check if Luton Parkrun is getting pictures taken.
-(D) Cut out the new pictures for the keys @home
-(D) Do full accounts algorithm +EQT Time:99
-(D) Empty Kitchen Cupboard to Fix kitchen tap @home
-(D) Sprint on making calendar generation work so Kat can see sleep 
-(D) Throw out the cerment weight you made @home
-(D) Wrap Mark's Present for Post
-(E) 10 Contacts on the contact list 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Backup Dreamhost +EQT
-(E) Brainstorm on improving thoughput of boxes
-(E) Break up the old fence panel @home
-(E) Bring board pens up to office 
-(E) Buy 2019-2020 receipt book 
-(E) Buy another receipt book 
-(E) Buy the extra fastener for the car seat. 
-(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(A due:2019-09-12 Clare) Make Moonpig card for Clare Time: 20 
+(A due:2019-09-12 unknown) 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:10
+(B Kat, Trustees ) .Map Sprint for full accounts algorithm Time:10
+(B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
+(C Startup guy) .Write first draft pitch deck Time:20 
+(C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
+(C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
+(D Kat) Book bike fit https://www.pedalworks.co.uk/news-events/  Time:05 
+(D Kat) Break up the old fence panel @home Time:10
+(D Kat) Cut out the new pictures for the keys @home Time:10
+(D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
+(D Kat) Sprint on making calendar generation work so Kat can see sleep Time:60
+(D Kat) Wrap Mark's Present for Post Time:10
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ Time:06
+(E) Backup Dreamhost +EQT Time:10
+(E) Brainstorm best way to store, mark, hang pillowcases Time:10
+(E) Brainstorm on improving thoughput of boxes Time:10
+(E) Bring board pens up to office  Time:02
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check if there are any moonpig cards to send this month +Overhead
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check that you have replied to all messages in Facebook
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Check if there are any moonpig cards to send this month +Overhead Time:04
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova  Time:20
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Download the amazon months sales figures +EQT
-(E) Edit the family photo for Kat
-(E) Fill out the 'food goes off in this many days' notebook 
-(E) Find out what make the neighbours lock is any buy
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:10
+(E) Edit the family photo for Kat Time:20
+(E) Empty Kitchen Cupboard to Fix kitchen tap @home Time:35
+(E) Find out what make the neighbours lock is any buy Time:07
 (E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05 date:2019-07-08
-(E) Get screwdriver for child car lock  @home
-(E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in dropbox.
+(E) Get screwdriver for child car lock  @home Time:05
+(E) Give laptop screen a good clean +Overhead Time:04
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through Walking Meeting with Kat +Family Time:180  
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) If back on sugar then start sugar project +Health
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Listen to Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Look at the 'how often you see your parents' calendar for Nova 
-(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-(E) Make playdoh for Nova 
-(E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home
+(E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
+(E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
-(E) Make workstation spotless +Overhead @nova  
-(E) Make workstation spotless +Overhead @nova  @home 
-(E) Map project to scan project board and add tasks to todo.txt 
-(E) Message mum - I'm using my phone a lot less so worth checking she has Kat's number 
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open streaming account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
-(E) Post Moonpig cards 
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
-(E) Process the external hard drive in the filing cabinate @home
-(E) Proper brainstorm on YouTube use. 
-(E) Put bike rack on top of car  @home 
+(E) Process the external hard drive in the filing cabinate @home Time:30
+(E) Proper brainstorm on YouTube use. Time:10 
+(E) Put bike rack on top of car  @home  Time:30
 (E) Read more of the GIMP manual.  Time:30 date:2019-07-01
-(E) Remove small saucepan from rack @home
-(E) Review all projects in github +Overhead Time: 
-(E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Send floor plan and measurements for architect 
-(E) Setup IFFT to take photos of doorbell @home
-(E) Show Kat the chapter in Sticky Ideas about Greenhousing
-(E) Smart plug for bubble machine @home
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) Remove small saucepan from rack @home Time:05
+(E) Review all projects in github +Overhead Time:20
+(E) Review starred items in feeds +Overhead Time:20
+(E) Review your highlights and notes from Kindle books +Overhead Time:20
+(E) Search for funding for eQuality Time Projects +EQT Time:15
+(E) Send floor plan and measurements for architect Time:10 
+(E) Setup IFFT to take photos of doorbell @home Time:15
+(E) Show Kat the chapter in Sticky Ideas about Greenhousing Time:07
+(E) Show Kat these as presents for Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:03
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
 (E) TSE +Health Time:04 
-(E) Take board pens up to office @home
-(E) Take pillowcase to garage for judo kit @home
-(E) Test the answer on vim.stackexchange 
-(E) Try a one-word brainstorm on something 
-(E) Try a rewriting-the-question brainstorm for something 
+(E) Take board pens up to office @home Time:02
+(E) Take pillowcase to garage for judo kit @home Time:02
+(E) Test the answer on vim.stackexchange  Time:15 
+(E) Throw out the cerment weight you made @home Time:03
+(E) Try a one-word brainstorm on something  Time:10
+(E) Try a rewriting-the-question brainstorm for something Time:10
 (E) Vitimin Tablet +Health @nova  Time:02
-(E) Volenteer once for parkrun. 
-(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-08
+(E) Write a list of family projects on the office whiteboard @home Time:10
+(E) Write down the list of foods in the fridge in the red notebook Time:06
 (E) change razor blade Time:03  date:2019-07-08
-(E) share your gift policy on the social networks.  Time:05  @phone 
-(E) todo.txt should include nowrap 
