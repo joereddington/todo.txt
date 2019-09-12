@@ -1,0 +1,10 @@
+'setup.sh' should probably start watcher as well. 
+Add(read-add) graphs 
+* Go and see if the old code works..
+Have the setup file add scripts to the path. 
+Put submodules in 'submodules' folder 
+Write a function for commit and push (that updates the chart) 
+x Have the setup file checkout the submodules (and run repeating tasks) 
+x Move addrepeatingtasks into scripts. 
+x Remoove historic notes 
+x Remove workspace 
