@@ -1,7 +1,7 @@
-(A due:2019-09-12 Clare) Get a photo to make Moonpig card for all of the new birthdays Time:20 
 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
 (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
+(B) Get a photo to make Moonpig card for all of the new birthdays Time:20 
 (C Kat) call hitchen to see chickenpox vaxine @phone Time:05 
 (C Startup guy) .Write first draft pitch deck Time:20 
 (C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
