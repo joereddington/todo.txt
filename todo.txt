@@ -1,4 +1,6 @@
 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
+(B, Mum, Steph) create the tenancy deposit scheme
+(B, Mum, Steph) Make standing orders for Richard rent. 
 (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
 (B) Get a photo to make Moonpig card for all of the new birthdays Time:20 
@@ -23,7 +25,7 @@
 (E) Find out what make the neighbours lock is any buy Time:07
 (E) Floss +Health @nova  Time:05 date:2019-07-08
 (E) Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
 (E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
 (E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
