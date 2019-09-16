@@ -1,8 +1,6 @@
-(B Funder) Call NI funder back @phone  Time:20
-(B Sarah) ring Unity again Time:10 
+(A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
 (B Trustees) Open and Brainstorm the vision for 2022 Time:10 
 (C Coder) Watch and review https://drive.google.com/file/d/1Kk7tQXMPIkQemJDFkTLBRaoQIYnmHRHE/view @private Time:15
-(C Eleanor) Check in with Eleanor about future camps. Time:03
 (C Trustees) Read next chapter Financial Accounting book @private Time:60
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 (C Trustees) Use accountants list of debits and credits to redo the accounts in Quickbooks. @private Time:30 
@@ -10,8 +8,10 @@
 (D) Do full accounts algorithm +EQT Time:99 @private Time:60 
 (D) Film the "How to approve a payment in unity" YouTube video.   @private Time:30 
 (D) Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
-(E) Backup Dreamhost +EQT Time:10
-(E) Brainstorm clearning up the office desktop at the end of the day Time:10 
+(E) Investigate Fidelio Charitable Trust
 (E) Reorganise EQT folders in dropbox @private  Time:30
 (E) Review all projects in github +Overhead Time:40  date:2019-07-08
 (E) Search for funding for eQuality Time Projects +EQT Time:20
+(E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
+x 2019-09-16 (B Funder) Call NI funder back @phone  Time:20
+x 2019-09-16 (B Sarah) ring Unity again Time:10 
