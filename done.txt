@@ -1871,3 +1871,9 @@ x 2019-09-12 Throw out the cerment weight you made @home Time:03
 x (D Kat) Break up the old fence panel @home Time:10
 x (D Kat) Check drawers for Mark's Present for Post Time:10
 x 2019-09-12 Write down the list of foods in the fridge in the red notebook Time:06
+x 2019-09-17 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
+x 2019-09-16 (C Kat) call hitchen to see chickenpox vaxine @phone Time:05 
+x 2019-09-16 (D Kat) Brainstorm the correct way to do packing lists  Time:10
+x 2019-09-16 Brainstorm on improving thoughput of boxes Time:10
+x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-09-16 Request Dreamhost backup +EQT Time:10
