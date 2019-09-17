@@ -1,18 +1,16 @@
 (A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
 (B Everybody) process email. 
 (B Trustees) Open and Brainstorm the vision for 2022 Time:10 
-(D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
 (B) Map the Bookmachine conference - travel, what you want. 
 (C Coder) Watch and review https://drive.google.com/file/d/1Kk7tQXMPIkQemJDFkTLBRaoQIYnmHRHE/view @private Time:15
+(C Trustees) pick and exam date and commit 
+(E) Move the bash_profile form mac to laptop
 (C Trustees) Read next chapter Financial Accounting book @private Time:60
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
-(C Trustees) Use accountants list of debits and credits to redo the accounts in Quickbooks. @private Time:30 
 (C) Review all projects in github +Overhead Time:40  date:2019-07-08
+(D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
 (D Trustees) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s @private Time:60 
 (D) Do full accounts algorithm +EQT Time:99 @private Time:60 
-(D) Film the "How to approve a payment in unity" YouTube video.   @private Time:30 
-(D) Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
 (E) Investigate Fidelio Charitable Trust
 (E) Reorganise EQT folders in dropbox @private  Time:30
 (E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
-x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:20
