@@ -1,44 +1,45 @@
-(A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
-(B, Mum, Steph) create the tenancy deposit scheme
-(B, Mum, Steph) Make standing orders for Richard rent. 
+x 2019-09-17 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
 (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
 (B) Get a photo to make Moonpig card for all of the new birthdays Time:20 
-(C Kat) call hitchen to see chickenpox vaxine @phone Time:05 
+(B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
+(B, Mum, Steph) Make standing orders for Richard rent. 
+(B, Mum, Steph) create the tenancy deposit scheme
 (C Startup guy) .Write first draft pitch deck Time:20 
 (C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
 (C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) Put 'date night' on our couple board
 (D Kat) Book Sunday bike fit https://www.pedalworks.co.uk/bike-fit/  Time:05 
-(D Kat) Brainstorm the correct way to do packing lists  Time:10
 (D Kat) Cut out the new pictures for the keys @home Time:10
 (D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
 (D Kat) Edit the family photo for Kat Time:20
 (D Kat) Install new door handle in longue
 (D Kat) Sprint on making calendar generation work so Kat can see sleep Time:60
+(D) Brainstorm a bunch of travel lists 
 (E) Brainstorm best way to store, mark, hang pillowcases Time:10
 (E) Brainstorm on YouTube use. Time:10 
-(E) Brainstorm on improving thoughput of boxes Time:10
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova  Time:20
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:10
 (E) Empty Kitchen Cupboard to Fix kitchen tap @home Time:35
 (E) Find out what make the neighbours lock is any buy Time:07
+(E) Find youtube video for the bike roof rack
 (E) Floss +Health @nova  Time:05 date:2019-07-08
 (E) Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
-x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
 (E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
 (E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
 (E) Process the external hard drive in the filing cabinate @home Time:30
-(E) Put bike rack on top of car  @home  Time:30
 (E) Read more of the GIMP manual.  Time:30 date:2019-07-01
-(E) Request Dreamhost backup +EQT Time:10
+(E) Redo the upstairs sign 
 (E) Review all projects in github +Overhead Time:20
 (E) Review starred items in feeds +Overhead Time:20
+(E) Review the notebook list of instagram 'important things in my life' 
 (E) Review your highlights and notes from Kindle books +Overhead Time:20
 (E) Search for funding for eQuality Time Projects +EQT Time:15
 (E) Send floor plan and measurements for architect Time:10 
+(E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
 (E) Setup IFFT to take photos of doorbell @home Time:15
 (E) Show Kat the chapter in Sticky Ideas about Greenhousing Time:07
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
@@ -46,7 +47,13 @@ x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.st
 (E) Test the answer on vim.stackexchange  Time:15 
 (E) Try a one-word brainstorm on something  Time:10
 (E) Try a rewriting-the-question brainstorm for something Time:10
+(E) Watch Lightroom lectures - the language is what matters 
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-08
 (E) Write a list of family projects on the office whiteboard @home Time:10
 (E) change razor blade Time:03  date:2019-07-08
+x 2019-09-16 (C Kat) call hitchen to see chickenpox vaxine @phone Time:05 
+x 2019-09-16 (D Kat) Brainstorm the correct way to do packing lists  Time:10
+x 2019-09-16 Brainstorm on improving thoughput of boxes Time:10
+x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-09-16 Request Dreamhost backup +EQT Time:10
