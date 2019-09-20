@@ -3,7 +3,7 @@ cd "$(dirname "$0")"
 cd ..
 sort todo.txt > sorted.all
 sort eqt.todo.txt > sorted.eqt
-igor/igor -d > igor.txt 
+submodules/igor/igor -d > igor.txt 
 grep "EQT" igor.txt >> sorted.eqt 
 grep -v "EQT" igor.txt >> sorted.all
 mv sorted.all todo.txt
