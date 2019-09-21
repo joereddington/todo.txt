@@ -1,47 +1,152 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+(A) Sort boxes
+(B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
+(B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
+(B) Buy new ikea boxes
 (B) Create the proper issue for the Escape room 
+(B) Get a photo to make Moonpig card for all of the new birthdays Time:20 
 (B) Get a photo to make Moonpig card for all of the new birthdays at https://www.dropbox.com/home/BABY?select=Operation+House+of+Cards+for+Birthdays.xlsx Time:20 
+(B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
+(B, Mum, Steph) Make standing orders for Richard rent. 
 (B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
+(B, Mum, Steph) create the tenancy deposit scheme
+(C Family due:2019-09-31) put some camera lenses on Camera Jungle Camera Jungle 
 (C Startup guy) .Write first draft pitch deck Time:20 
 (C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
 (C Wikipedia guy) Respond to Depbt of field GA review 
+(C Wikipedia guy) Respond to Depbt of field GA review 
 (C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) Give Kat cash back
+(C) Put 'date night' on our couple board
 (C) Put 'date night' on our couple board Time:02
+(C) Send bathroom and loft dimentions to architect
+(C) Send something to the grandparent facebook group 
+(C, Kat) Move Camera in Nova room 
 (D Kat) Book Sunday bike fit https://www.pedalworks.co.uk/bike-fit/  Time:05 
 (D Kat) Cut out the new pictures for the keys @home Time:10
 (D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
 (D Kat) Edit the family photo for Kat Time:20
 (D Kat) Install new door handle in longue
 (D Kat) Sprint on making calendar generation work so Kat can see sleep Time:60
+(D Kat) Take screensaver off Kindle Fire 
 (D) Brainstorm a bunch of travel lists 
+(D) Sprint blogging these: [200~https://github.com/joereddington/projects-public/issues[201~
+(E) 10 Contacts on the contact list 
+(E) Add 'mouth guard' to BJJ list
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Ask Kat if she wants to replace front door
+(E) Ask Kat if we've got the quote from the guy
+(E) Ask for testimonal from completed fundings
+(E) Badger RSC
 (E) Brainstorm best way to store, mark, hang pillowcases Time:10
 (E) Brainstorm on YouTube use. Time:10 
+(E) Charge bed light
+(E) Check Desktop Tracker is working +Overhead @nova  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check if there are any moonpig cards to send this month +Overhead
+(E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova  Time:20
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check wishlist
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do some messages to luton vegans that have been posting good content 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:10
+(E) Edit photo for steph
 (E) Empty Kitchen Cupboard to Fix kitchen tap @home Time:35
+(E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Find out what make the neighbours lock is any buy Time:07
+(E) Find sleep glasses 
+(E) Find youtube video for the bike roof rack
+(E) Fix bulbs in kitchen
+(E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05 date:2019-07-08
+(E) Floss +Health @nova  Time:05 date:2019-07-08
+(E) Follow up with little red about photography equipment
+(E) Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
+(E) Get new lock for Gargae 
+(E) Give laptop screen a good clean +Overhead
+(E) Go though documents folder and put everything you want to save in dropbox.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through Walking Meeting with Kat +Family Time:180  
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) If back on sugar then start sugar project +Health
+(E) Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Look at your list of 'things that you respect' and compare it to how you spend your day. 
 (E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
+(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
+(E) Make workstation spotless +Overhead @nova  
 (E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
+(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
 (E) Process the external hard drive in the filing cabinate @home Time:30
+(E) Publicly thank someone +Overhead Time:15 
 (E) Read more of the GIMP manual.  Time:30 date:2019-07-01
+(E) Redo the 'upstairs' sign
 (E) Redo the upstairs sign 
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review all projects in github +Overhead Time: 
 (E) Review all projects in github +Overhead Time:20
+(E) Review starred items in feeds +Overhead
 (E) Review starred items in feeds +Overhead Time:20
 (E) Review the notebook list of instagram 'important things in my life' 
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead Time:20
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Search for funding for eQuality Time Projects +EQT Time:15
 (E) Send floor plan and measurements for architect Time:10 
 (E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Setup IFFT to take photos of doorbell @home Time:15
 (E) Show Kat the chapter in Sticky Ideas about Greenhousing Time:07
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
+(E) Sprint on Air con project 
+(E) TSE +Health Time:04 
 (E) Take Vitamin Tablet +Health @nova  Time:02
 (E) Test the answer on vim.stackexchange  Time:15 
+(E) Trim nose hair +Health @nova  Time:05 
 (E) Try a one-word brainstorm on something  Time:10
 (E) Try a rewriting-the-question brainstorm for something Time:10
+(E) Try seperating emails into multiple inbox 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Watch Lightroom lectures - the language is what matters 
+(E) Work out if Nova's Camera can record and how? 
+(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
+(E) Write Packing list for Camera bag 
+(E) Write a letter to Nova +Family Time:30 
+(E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-08
+(E) Write a letter to Nova +Family Time:30  date:2019-07-08
 (E) Write a list of family projects on the office whiteboard @home Time:10
-x 2019-09-17 Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
+(E) Write a list of family projects on the office whiteboard @home Time:10
+(E) change razor blade Time:03 
+(E) change razor blade Time:03  date:2019-07-08
+(E) share your gift policy on the social networks.  Time:05  @phone 
