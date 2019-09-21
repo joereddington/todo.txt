@@ -1,14 +1,13 @@
-(B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
-(C Wikipedia guy) Respond to Depbt of field GA review 
+(B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
-(B) Get a photo to make Moonpig card for all of the new birthdays Time:20 
-(B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
-(B, Mum, Steph) Make standing orders for Richard rent. 
-(B, Mum, Steph) create the tenancy deposit scheme
+(B) Create the proper issue for the Escape room 
+(B) Get a photo to make Moonpig card for all of the new birthdays at https://www.dropbox.com/home/BABY?select=Operation+House+of+Cards+for+Birthdays.xlsx Time:20 
+(B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
 (C Startup guy) .Write first draft pitch deck Time:20 
 (C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
+(C Wikipedia guy) Respond to Depbt of field GA review 
 (C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) Put 'date night' on our couple board
+(C) Put 'date night' on our couple board Time:02
 (D Kat) Book Sunday bike fit https://www.pedalworks.co.uk/bike-fit/  Time:05 
 (D Kat) Cut out the new pictures for the keys @home Time:10
 (D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
@@ -23,10 +22,7 @@
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:10
 (E) Empty Kitchen Cupboard to Fix kitchen tap @home Time:35
 (E) Find out what make the neighbours lock is any buy Time:07
-(E) Find youtube video for the bike roof rack
 (E) Floss +Health @nova  Time:05 date:2019-07-08
-(E) Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
-(E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
 (E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
 (E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
@@ -36,8 +32,6 @@
 (E) Review all projects in github +Overhead Time:20
 (E) Review starred items in feeds +Overhead Time:20
 (E) Review the notebook list of instagram 'important things in my life' 
-(E) Review your highlights and notes from Kindle books +Overhead Time:20
-(E) Search for funding for eQuality Time Projects +EQT Time:15
 (E) Send floor plan and measurements for architect Time:10 
 (E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
 (E) Setup IFFT to take photos of doorbell @home Time:15
@@ -47,8 +41,7 @@
 (E) Test the answer on vim.stackexchange  Time:15 
 (E) Try a one-word brainstorm on something  Time:10
 (E) Try a rewriting-the-question brainstorm for something Time:10
-(E) Watch Lightroom lectures - the language is what matters 
 (E) Write a letter to Nova +Family Time:30  date:2019-07-01
 (E) Write a letter to Nova +Family Time:30  date:2019-07-08
 (E) Write a list of family projects on the office whiteboard @home Time:10
-(E) change razor blade Time:03  date:2019-07-08
+x 2019-09-17 Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04

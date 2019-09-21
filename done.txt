@@ -1877,3 +1877,12 @@ x 2019-09-16 (D Kat) Brainstorm the correct way to do packing lists  Time:10
 x 2019-09-16 Brainstorm on improving thoughput of boxes Time:10
 x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-09-16 Request Dreamhost backup +EQT Time:10
+x (B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
+x (E) Find youtube video for the bike roof rack
+x (E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
+x (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
+x 2019-09-17 (B, Mum, Steph) Make standing orders for Richard rent. 
+x 2019-09-17 Review your highlights and notes from Kindle books +Overhead Time:20
+x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:15
+x 2019-09-17 Watch Lightroom lectures - the language is what matters 
+x 2019-09-17 change razor blade Time:03  date:2019-07-08
