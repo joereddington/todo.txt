@@ -1696,3 +1696,4 @@ x 2019-09-22 Put SM(ST) into birthday list
 x 2019-09-22 Use the aqua mat
 x 2019-09-22 Write list of 'making tomorrow amazing' 
 x j(E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-01
+x 2019-09-23 (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
