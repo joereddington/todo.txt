@@ -108,3 +108,5 @@ x 2019-09-17 (C Trustees) Use accountants list of debits and credits to redo the
 x 2019-09-17 Film the "How to approve a payment in unity" YouTube video.   @private Time:30 
 x 2019-09-17 Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
 x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:20
+x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:20
+x 2019-09-23 Email Sarah about prisons.    

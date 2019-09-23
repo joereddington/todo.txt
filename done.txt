@@ -1,14 +1,114 @@
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Fix second buisness payment reminder on amazon.
+x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
+x (A) Reply abotu startup 
+x (A) Thank you cards for start up guys 
+x (B Kat, Trustees ) .Create new issue on sprint for full accounts algorithm Time:10
+x (B) 1. Exercise @singleton +Exercise @nova  Time:60
+x (B) 1. Exercise @singleton +Exercise @nova  Time:60 
+x (B) Ask Pete about zika test 
+x (B) Email Justine and Dan about publishing 
+x (B) Follow up with Dhari
+x (B) Map Kat swimming ambush plan 
+x (B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
+x (B) Upload Wikipedia Video 
+x (B) Work out what happened with richard’s expenses.
+x (C Startup guy) .Write first draft pitch deck Time:20 
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+x (C) Arrange Climbing with Patrick 
+x (C) Buy £30 of containers for gargage sorting. 
+x (C) Check bike is G2G 
+x (C) Check for next months birthday cards 
+x (C) Connect external drive. date:2019-05-29
+x (C) Fill out the wake times sheet 
+x (C) Find some spotlight options for the longue and show to kat. 
+x (C) Fix http://equalitytime.co.uk/rankingdis/ date:2019-05-29
+x (C) Fix the expenses generator  date:2019-07-08
+x (C) Follow up with calre about spoilers 
+x (C) Follow up with reddit about messages 
+x (C) Go through Igor and mark each task with eqt or not. 
+x (C) Implement "Reasons I get my phone out" list  date:2019-05-29
+x (C) Make igor event to tell careoline about Nova develpoement 
+x (C) Make office whiteboard into Joe-Kat list 
+x (C) Make sign for Joe-Kat office 
+x (C) Message people about next week's Games day 
+x (C) Phone up about screen repair
+x (C) Put Lizzie in diary.
+x (C) Put notebook in fridge
+x (C) Record happy birthday video for Archie 😀 due:2019-04-29
+x (C) Review passwords and switch lasspass to new one.  date:2019-05-29
+x (C) Send Kat a picture of Nova's drawers with letters on  
+x (C) Send Pete's family a gift with a nice note. 
+x (C) Send something to the grandparent facebook group 
+x (C) Send something to the grandparent facebook group  date:2019-05-29
+x (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
+x (C) Update wake time sheet 
+x (C) Write and send minutes +EQT  Time:15
+x (C) Write the 'but I have to write this first' blog post  date:2019-07-08
+x (C) check library for book you keep meaning to read on mindfulness - 
+x (C) find out about Enterprise Development Programme -  Enterprise Grants (Updated)
+x (C) find out about Road Safety Trust (Updated)
+x (D Kat) Break up the old fence panel @home Time:10
+x (D Kat) Check drawers for Mark's Present for Post Time:10
+x (D) 1. Put receipts in receipt book. Time:20
+x (D) Brainstorm on fride usage
+x (D) Deal with disk quota issues  date:2019-07-08
+x (D) Do full accounts algorithm +EQT Time:99 date:2019-07-08
+x (D) Find a set of developement reading for Nova 
+x (D) Map project on air con.
+x (D) Print rider for HH, also work out the invoice  
+x (E) 10 Contacts on the contact list
+x (E) 10 Contacts on the contact list  date:2019-07-01
+x (E) 10 Contacts on the contact list  date:2019-07-08
+x (E) Add to draft trustee email the issue with the mispayment.  date:2019-07-08
+x (E) Brainstorm on 'never going to wake up with adrenaline  date:2019-07-01
+x (E) Call dentist to book Checkup @car  Time:04
+x (E) Check Desktop Tracker is working +Overhead @nova  Time:02  date:2019-07-08
+x (E) Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-07-08
+x (E) Check if Mozfest and comic con are the same day again 
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-07-08
+x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-07-01
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-07-08
+x (E) Check the next school time +EQT Time:03 
+x (E) Check the next school time +EQT Time:03  date:2019-07-08
+x (E) Check £40 in Wallet +Overhead @nova  @phone 
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06  date:2019-07-08
+x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-07-08
+x (E) Cut nails +Health @nova  Time:04
+x (E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-08
+x (E) Find youtube video for the bike roof rack
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-07-08
+x (E) Go through Walking Meeting with Kat +Family Time:180   date:2019-07-08
+x (E) Library: books about kids and all of the tools of titans recommendations  date:2019-07-01
+x (E) Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-07-08
+x (E) Open and log progress on the bid status document +EQT Time:04 date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§ date:2019-07-08
+x (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03  date:2019-07-08
+x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03  date:2019-07-08
+x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-07-08
+x (E) Take off gate to move to bottom of gate  date:2019-07-08
+x (E) Youtube on Nova tablet  date:2019-07-01
 x 2019-03-04 1a. 1L of Water @singleton +Health
 x 2019-03-05 1. Exercise @singleton +Exercise
 x 2019-03-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
 x 2019-03-05 1. Process Email @singleton +Overhead
+x 2019-03-05 2019-03-05 test
+x 2019-03-05 Approve Nava visit
 x 2019-03-05 Badger martha
 x 2019-03-05 Brainstorm professional TMC +EQT
 x 2019-03-05 Check Voicemail  +Overhead
+x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 x 2019-03-05 Cut nails +Health
-x 2019-03-05 Floss +Health
-x 2019-03-05 Floss +Health
-x 2019-03-05 Floss +Health
 x 2019-03-05 Floss +Health
 x 2019-03-05 Label filing cabinet key
 x 2019-03-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
@@ -22,9 +122,6 @@ x 2019-03-05 Video call with Kat family +Family
 x 2019-03-05 Work out how to commit git file from vim.
 x 2019-03-05 do data for yvoone
 x 2019-03-05 find out why spotlight is slow
-x 2019-03-05 2019-03-05 test
-x 2019-03-05 Approve Nava visit
-x 2019-03-05 Consider big display of latest SAS (That would be so COOL!)
 x 2019-03-07 1. Exercise @singleton +Exercise
 x 2019-03-07 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking
 x 2019-03-07 1a. 1L of Water @singleton +Health
@@ -47,33 +144,20 @@ x 2019-03-11 Block chimney
 x 2019-03-11 Brainstorm on setting up a story line for each day.  @nova
 x 2019-03-11 Buy wide angle lens for holiday from Camera Jungle
 x 2019-03-11 Check Desktop Tracker is working +Overhead
-x 2019-03-11 Check Desktop Tracker is working +Overhead
-x 2019-03-11 Check Desktop Tracker is working +Overhead
-x 2019-03-11 Check Voicemail  +Overhead
 x 2019-03-11 Check Voicemail  +Overhead
 x 2019-03-11 Check ranking scripts +Overhead
 x 2019-03-11 Check team cooper visit dates: every two weeks  +Family
 x 2019-03-11 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-03-11 Check that everything in the 'in process' box really does have a task+Overhead
-x 2019-03-11 Check the 'to put in Evernote' folder and add to database +Overhead
 x 2019-03-11 Check the 'to put in Evernote' folder and add to database +Overhead
 x 2019-03-11 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-x 2019-03-11 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-x 2019-03-11 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead
-x 2019-03-11 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2019-03-11 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family
 x 2019-03-11 Check the next school time +EQT
-x 2019-03-11 Check the next school time +EQT
-x 2019-03-11 Confirm plans for next two weekends.+Overhead
 x 2019-03-11 Confirm plans for next two weekends.+Overhead
 x 2019-03-11 Contact Nova's Grandparents about Friday 22nd March @phone Time:05
-x 2019-03-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 x 2019-03-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something
 x 2019-03-11 Create a telegram bot.
 x 2019-03-11 Create event to register for AAATE http://aaate2019.eu/registration/fees/
 x 2019-03-11 Cut nails +Health
-x 2019-03-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-03-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-11 Email Laura and Eleanor about school coming up. +EQT
 x 2019-03-11 Email the local remap groups
@@ -87,10 +171,7 @@ x 2019-03-11 Get the quote about lositics printed
 x 2019-03-11 Go over the weekend list
 x 2019-03-11 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 x 2019-03-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
-x 2019-03-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead
 x 2019-03-11 Go through phone and save all of the numbers +Overhead
-x 2019-03-11 Go through phone and save all of the numbers +Overhead
-x 2019-03-11 Go through the shared reminder list with Heart +Family
 x 2019-03-11 Go through the shared reminder list with Heart +Family
 x 2019-03-11 Igor, assert about some facebook accountability.
 x 2019-03-11 Inscribe and N on the bottom of novice cups
@@ -98,9 +179,6 @@ x 2019-03-11 Install evernote.
 x 2019-03-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT
 x 2019-03-11 Listen to  Randy Pausch Talk +Overhead
 x 2019-03-11 Log weight +Health
-x 2019-03-11 Log weight +Health
-x 2019-03-11 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
-x 2019-03-11 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 x 2019-03-11 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family
 x 2019-03-11 Look up "Al Madad Foundation Education Grants" and find out if we can apply
 x 2019-03-11 Look up "Allen Lane Foundation" and find out if we can apply
@@ -108,28 +186,18 @@ x 2019-03-11 Look up "Paul Hamlyn Foundation - Act for Change Fund " and find ou
 x 2019-03-11 Look up the basic plots in fiction and write a summary of your day using each.
 x 2019-03-11 Lookup Luton Centre and book ACCA exam (number 4509995)
 x 2019-03-11 Make sure paper crane is in bathroom +Family
-x 2019-03-11 Make sure paper crane is in bathroom +Family
 x 2019-03-11 Map 'submit accounts by 31st May' project in EQT
 x 2019-03-11 Map project for youtube watch list.
 x 2019-03-11 Map project on contacting board games manufacturers +EQT
 x 2019-03-11 Open and log progress on the bid status document +EQT
-x 2019-03-11 Open and log progress on the bid status document +EQT
-x 2019-03-11 Open and log progress on the bid status document +EQT
 x 2019-03-11 Open events.csv and label each task with: time, context, and project.
 x 2019-03-11 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x 2019-03-11 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x 2019-03-11 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead
-x 2019-03-11 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 x 2019-03-11 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§
 x 2019-03-11 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x 2019-03-11 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§
-x 2019-03-11 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-03-11 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-03-11 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§
 x 2019-03-11 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
-x 2019-03-11 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§
 x 2019-03-11 Plan taking more photos.
-x 2019-03-11 Post to WWW facebook page +EQT
 x 2019-03-11 Post to WWW facebook page +EQT
 x 2019-03-11 Print out the documents for the next WWW camp
 x 2019-03-11 Print out the ten year plan
@@ -139,30 +207,15 @@ x 2019-03-11 Put tablet charger in the car @nova +Family  Time:05
 x 2019-03-11 Put up Nova's picture in her room.
 x 2019-03-11 Re-confirm with Kat the size of gate she wants for the garden.  Time:05
 x 2019-03-11 Remind Kat to do Nova's menu +Family
-x 2019-03-11 Remind Kat to do Nova's menu +Family
 x 2019-03-11 Replace light bulbs in the kitchen
 x 2019-03-11 Review all projects in personal github +Overhead
 x 2019-03-11 Review the funding opertuntiies in your reminders
 x 2019-03-11 Review yearly goals +Overhead
-x 2019-03-11 Review yearly goals +Overhead
 x 2019-03-11 Review your highlights and notes from Kindle books +Overhead
 x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
-x 2019-03-11 Save a nice family memory +Family
 x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
-x 2019-03-11 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:03
-x 2019-03-11 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2019-03-11 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked
 x 2019-03-11 Start tracking food. It's easier now.
-x 2019-03-11 Swimming and climbing gear should be in the car +Overhead
-x 2019-03-11 Swimming and climbing gear should be in the car +Overhead
 x 2019-03-11 Swimming and climbing gear should be in the car +Overhead
 x 2019-03-11 Switch to live account and start streaming +EQT @singleton
 x 2019-03-11 Tag Igor events with Time
@@ -173,10 +226,7 @@ x 2019-03-11 Throw away the biscuits in the garage.  Time:04
 x 2019-03-11 Tidy router  Time:02
 x 2019-03-11 Trim nose hair +Health
 x 2019-03-11 Update Goodreads with the current book and your progress +Overhead
-x 2019-03-11 Update Goodreads with the current book and your progress +Overhead
-x 2019-03-11 Update Goodreads with the current book and your progress +Overhead
 x 2019-03-11 Video call with Kat family +Family
-x 2019-03-11 Vitimin Tablet +Health
 x 2019-03-11 Vitimin Tablet +Health
 x 2019-03-11 Wash sheets and towels +Family
 x 2019-03-11 Wheel of life should include cycling to parkrun.
@@ -193,17 +243,16 @@ x 2019-03-11 x 2019-03-11 Check that everything in the 'in process' box really d
 x 2019-03-12 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-03-12 1a. 1L of Water @singleton +Health Time:03
 x 2019-03-12 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-03-12 2019-03-12 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-03-12 Buy metal brace for the garden arch Time:07
 x 2019-03-12 Empty crate completely +Overhead Time:15
-x 2019-03-12 Empty crate completely +Overhead Time:15
+x 2019-03-12 Find and map the home office "Building a stronger britian" funding +EQT Time:10
 x 2019-03-12 Get sweaty and run, feel good  Time:60
+x 2019-03-12 Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
 x 2019-03-12 Post contract to solitor Time:10
 x 2019-03-12 Read thermal camera instructions Time:08
 x 2019-03-12 Staple cardboard to the washing machine door. Time:10
 x 2019-03-12 Tighten keychains with pliers. Time:10
-x 2019-03-12 2019-03-12 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-03-12 Buy metal brace for the garden arch Time:07
-x 2019-03-12 Find and map the home office "Building a stronger britian" funding +EQT Time:10
-x 2019-03-12 Phone 01582 720012 (Luton International College) with number 4509995 to book ACCA exam  Time:08
 x 2019-03-13 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-03-13 due:2019-03-13 Do revision
 x 2019-03-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
@@ -242,7 +291,6 @@ x 2019-03-18 Cut nails +Health @nova  Time:04
 x 2019-03-18 Draft your gratitude post early.
 x 2019-03-18 Email Eleanor and Laura about the camp
 x 2019-03-18 Floss +Health @nova  Time:05
-x 2019-03-18 Floss +Health @nova  Time:05
 x 2019-03-18 Get Kat to write something nice in the late card Time:04 +Personal
 x 2019-03-18 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
 x 2019-03-18 Go through Walking Meeting with Kat +Family Time:180
@@ -267,41 +315,39 @@ x 2019-03-18 Video call with Kat family +Family @nova  Time:15
 x 2019-03-18 Vitimin Tablet +Health @nova  Time:02
 x 2019-03-18 Wash sheets and towels +Family @nova  Time:10
 x 2019-03-18 Write a letter to Nova +Family Time:10
-x 2019-03-18 Write a letter to Nova +Family Time:10
 x 2019-03-18 Write down the rules of the lock on the key
-x 2019-03-19 Get Rob to recommend a solicitor.
-x 2019-03-19 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-03-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-19 Call mum and then transfer money for house.
 x 2019-03-19 Create Doodle Poll for Trustees to setup next meeting. +EQT Time:08
 x 2019-03-19 Draft letter for trustees: equipment approval as well.
 x 2019-03-19 Fill out form for going to CM
 x 2019-03-19 Floss +Health @nova  Time:05
+x 2019-03-19 Get Rob to recommend a solicitor.
 x 2019-03-19 Get phone repaired.
 x 2019-03-19 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-03-19 Open and log progress on the bid status document +EQT Time:04
 x 2019-03-19 Register for Communication Matters
+x 2019-03-19 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-03-20 1. Exercise @singleton +Exercise @nova  Time:60
-x 2019-03-20 Measure the width of the monitor poll
-x 2019-03-20 Message Caronline about nova times
-x 2019-03-20 Process all the 'in preperation' finance documents
-x 2019-03-20 Process payments into Unity.
-x 2019-03-20 Repack wellies and take to post office
-x 2019-03-20 Send Trustees Letter
-x 2019-03-20 Send the new members template to the moderator team.
-x 2019-03-20 Transfer Money to One Voice
 x 2019-03-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-03-20 Check Desktop Tracker is working +Overhead @nova  Time:02
 x 2019-03-20 Check Voicemail  +Overhead @nova  @phone  Time:02
 x 2019-03-20 Check if there are any moonpig cards to send this month +Overhead
 x 2019-03-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
-x 2019-03-20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
+x 2019-03-20 Measure the width of the monitor poll
+x 2019-03-20 Message Caronline about nova times
+x 2019-03-20 Process all the 'in preperation' finance documents
+x 2019-03-20 Process payments into Unity.
+x 2019-03-20 Repack wellies and take to post office
 x 2019-03-20 Review Aideen Document.
 x 2019-03-20 Review facebook theory of change
 x 2019-03-20 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05
+x 2019-03-20 Send Trustees Letter
 x 2019-03-20 Send Trustees something nice about outcomes +EQT
+x 2019-03-20 Send the new members template to the moderator team.
 x 2019-03-20 TSE +Health Time:04
+x 2019-03-20 Transfer Money to One Voice
 x 2019-03-20 Trim nose hair +Health @nova  Time:05
 x 2019-03-20 Try one of the kitchen chairs in your room +Family https://github.com/joereddington/Projects-Private/issues/97 Time:06
 x 2019-03-20 Vitimin Tablet +Health @nova  Time:02
@@ -317,7 +363,6 @@ x 2019-03-23 2. Switch to live account and start streaming +EQT @singleton Time:
 x 2019-03-23 Brainstorm being good at Judo @nova Time:10
 x 2019-03-23 Check Voicemail  +Overhead @nova  @phone  Time:02
 x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-03-23 Check that everything in the 'in process' box really does have a task+Overhead @nova
 x 2019-03-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-03-23 Open and log progress on the bid status document +EQT Time:04
 x 2019-03-23 Wrap up parcel for Camera Jungle
@@ -328,66 +373,37 @@ x 2019-03-28 2. Switch to live account and start streaming +EQT @singleton Time:
 x 2019-03-28 Add Cycling to parkrun to the wheel of life
 x 2019-03-28 Ask Francesca about Writers events.  Time:07
 x 2019-03-28 Do full accounts algorithm +EQT Time:99
-x 2019-03-28 Do full accounts algorithm +EQT Time:99
-x 2019-03-28 Do full accounts algorithm +EQT Time:99
 x 2019-03-28 Lock phone away @singleton +Health Time:03
 x 2019-03-28 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-01 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-04-01 Get wheel of life from other laptop.
-x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-04-01 10 notifications in Facebook @nova @phone Time:01
-x 2019-04-01 10 notifications in Facebook @nova @phone Time:01
 x 2019-04-01 10 notifications in Facebook @nova @phone Time:01
 x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06
-x 2019-04-01 Add two bags to the car for clearning/carring out +EQT Time:06
-x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02
 x 2019-04-01 Check Desktop Tracker is working +Overhead @nova  Time:02
 x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02
-x 2019-04-01 Check Voicemail  +Overhead @nova  @phone  Time:02
-x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03
 x 2019-04-01 Check team cooper visit dates: every two weeks  +Family Time:03
 x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
-x 2019-04-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
 x 2019-04-01 Check the next school time +EQT Time:03
-x 2019-04-01 Check the next school time +EQT Time:03
-x 2019-04-01 Cut nails +Health @nova  Time:04
+x 2019-04-01 Check £40 in Wallet +Overhead @nova  @phone
+x 2019-04-01 Confirm plans for next two weekends.+Overhead @phone  Time:06
+x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
 x 2019-04-01 Cut nails +Health @nova  Time:04
 x 2019-04-01 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180
+x 2019-04-01 Get wheel of life from other laptop.
 x 2019-04-01 Go through Walking Meeting with Kat +Family Time:180
 x 2019-04-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
-x 2019-04-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
+x 2019-04-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-01 Log weight +Health  Time:02
-x 2019-04-01 Log weight +Health  Time:02
-x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
-x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
 x 2019-04-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
 x 2019-04-01 Make card for mother's day +Family Time:15
 x 2019-04-01 Make sure paper crane is in bat@nova @phone  Time:03
-x 2019-04-01 Make sure paper crane is in bat@nova @phone  Time:03
-x 2019-04-01 Post to WWW facebook page +EQT @nova @phone  Time:10
 x 2019-04-01 Post to WWW facebook page +EQT @nova @phone  Time:10
 x 2019-04-01 Publicly thank someone +Overhead Time:15
-x 2019-04-01 Publicly thank someone +Overhead Time:15
-x 2019-04-01 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-04-01 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-04-01 Setup secret bin.
 x 2019-04-01 Video call with Kat family +Family @nova  Time:15
-x 2019-04-01 Video call with Kat family +Family @nova  Time:15
-x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
 x 2019-04-01 Vitimin Tablet +Health @nova  Time:02
 x 2019-04-01 Wash sheets and towels +Family @nova  Time:10
-x 2019-04-01 Wash sheets and towels +Family @nova  Time:10
-x 2019-04-01 Check £40 in Wallet +Overhead @nova  @phone
-x 2019-04-01 Confirm plans for next two weekends.+Overhead @phone  Time:06
-x 2019-04-01 Confirm plans for next two weekends.+Overhead @phone  Time:06
-x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
-x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
-x 2019-04-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
 x 2019-04-02 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-02 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -396,12 +412,8 @@ x 2019-04-02 Pay kate
 x 2019-04-03 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-04-03 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-03 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10
-x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10
-x 2019-04-03 Check the 'to put in Evernote' folder and add to database +Overhead Time:10
-x 2019-04-03 Empty crate completely +Overhead @nova  Time:15
 x 2019-04-03 Empty crate completely +Overhead @nova  Time:15
 x 2019-04-03 Fix daylight lamp
 x 2019-04-03 Floss +Health @nova  Time:05
@@ -411,12 +423,6 @@ x 2019-04-14 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-14 1. Looking for urgent: reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-14 April is big for birthdays - send all the cards
 x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-14 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova
 x 2019-04-14 Check that everything in the 'in process' box really does have a task+Overhead @nova
 x 2019-04-14 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
 x 2019-04-14 Check the next school time +EQT Time:03
@@ -436,32 +442,21 @@ x 2019-04-14 Put doorbell bracket in
 x 2019-04-14 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-04-14 Review (days since) app counts +Overhead @nova @phone
 x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-14 Save a nice family memory +Family @phone @nova  Time:03
 x 2019-04-14 Send Trustees something nice about outcomes +EQT
-x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
-x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
 x 2019-04-14 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
 x 2019-04-14 Take photo of office
 x 2019-04-14 Trim nose hair +Health @nova  Time:05
-x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
-x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
 x 2019-04-14 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
 x 2019-04-14 Update operating system on mac mini
 x 2019-04-14 Video call with Kat family +Family @nova  Time:15
 x 2019-04-14 Wash sheets and towels +Family @nova  Time:10
 x 2019-04-14 Work out how much clearence you need for the garden gate  Time:10
+x 2019-04-15 () Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
 x 2019-04-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-15 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-15 10 Contacts on the contact list
+x 2019-04-15 2019-04-15 Print another set of parkrun barcodes for emergencyies.
 x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06
-x 2019-04-15 Add two bags to the car for clearning/carring out +EQT Time:06
-x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02
-x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02
 x 2019-04-15 Check Voicemail  +Overhead @nova  @phone  Time:02
 x 2019-04-15 Check if there are any moonpig cards to send this month +Overhead
 x 2019-04-15 Check ranking scripts +Overhead
@@ -472,30 +467,20 @@ x 2019-04-15 Check wishlist
 x 2019-04-15 Confirm plans for next two weekends.+Overhead @phone  Time:06
 x 2019-04-15 Contact Kings and get the dollar amount left in the budget.
 x 2019-04-15 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
+x 2019-04-15 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-04-15 Download the amazon months sales figures +EQT
 x 2019-04-15 Empty crate completely +Overhead @nova  Time:15
-x 2019-04-15 Empty crate completely +Overhead @nova  Time:15
-x 2019-04-15 Empty crate completely +Overhead @nova  Time:15
 x 2019-04-15 Go though documents folder and put everything you want to save in dropbox.
-x 2019-04-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
-x 2019-04-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
-x 2019-04-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
+x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 x 2019-04-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
 x 2019-04-15 Go through Walking Meeting with Kat +Family Time:180
-x 2019-04-15 Go through Walking Meeting with Kat +Family Time:180
-x 2019-04-15 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
 x 2019-04-15 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
 x 2019-04-15 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 x 2019-04-15 If back on sugar then start sugar project +Health
 x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15
-x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15
-x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15
-x 2019-04-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15
 x 2019-04-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-15 Log weight +Health  Time:02
 x 2019-04-15 Look at expense claims in 'In Preperation' and move them on.
-x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
-x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
 x 2019-04-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
 x 2019-04-15 Make seiten
 x 2019-04-15 Make sure paper crane is in bat@nova @phone  Time:03
@@ -503,49 +488,16 @@ x 2019-04-15 Make workstation spotless +Overhead @nova
 x 2019-04-15 Map Easter egg project  Time:10
 x 2019-04-15 Message FB about banking, and tell her she needs to reject one of the 159.99 transactions.
 x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-15 Open and log progress on the bid status document +EQT Time:04
 x 2019-04-15 Pack for Co-op: amazon return
 x 2019-04-15 Pay for a proper social media [200~THING[201~ for the year out of comic relief.  Time:20
 x 2019-04-15 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-04-15 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-04-15 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-04-15 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-04-15 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-x 2019-04-15 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
-x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 x 2019-04-15 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
 x 2019-04-15 Post voting form
 x 2019-04-15 Publicly thank someone +Overhead Time:15
@@ -556,104 +508,66 @@ x 2019-04-15 Restart everything and fix watch update.
 x 2019-04-15 Review Facebook theory of change
 x 2019-04-15 Review your highlights and notes from Kindle books +Overhead
 x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2019-04-15 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05
-x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05
 x 2019-04-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05
 x 2019-04-15 Search email for invoices 1082,1076,and 1083 and email Richard to let him know the current state of play
 x 2019-04-15 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
 x 2019-04-15 TSE +Health Time:04
-x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
+x 2019-04-15 Try content in new Open Voice Factory website +EQT Time:20
 x 2019-04-15 Vitimin Tablet +Health @nova  Time:02
 x 2019-04-15 Wash sheets and towels +Family @nova  Time:10
 x 2019-04-15 Watch something on the youtube watch list.
+x 2019-04-15 Write a letter to Nova +Family Time:10
+x 2019-04-15 Write a letter to Nova +Family Time:30
 x 2019-04-15 Write the ironman suit version of our underspend
 x 2019-04-15 z upload youtube videos Time:08
-x 2019-04-15 () Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
-x 2019-04-15 10 Contacts on the contact list
-x 2019-04-15 10 Contacts on the contact list
-x 2019-04-15 10 Contacts on the contact list
-x 2019-04-15 10 Contacts on the contact list
-x 2019-04-15 2019-04-15 Print another set of parkrun barcodes for emergencyies.
-x 2019-04-15 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-04-15 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
-x 2019-04-15 Try content in new Open Voice Factory website +EQT Time:20
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:10
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-15 Write a letter to Nova +Family Time:30
-x 2019-04-16 Call parents, talk to them.
 x 2019-04-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40
+x 2019-04-16 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2019-04-16 Arrange tour of amazon. Time
 x 2019-04-16 Ask for testimonial from completed fundings
 x 2019-04-16 Brainstorm proper project review Time:10
+x 2019-04-16 Brainstrom the last time you changed your mind.
+x 2019-04-16 Call parents, talk to them.
+x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02
 x 2019-04-16 Check Voicemail  +Overhead @nova  @phone  Time:02
+x 2019-04-16 Check double payment to amazon - £108.
 x 2019-04-16 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
-x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
 x 2019-04-16 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
 x 2019-04-16 Check £40 in Wallet +Overhead @nova  @phone
 x 2019-04-16 Cut nails +Health @nova  Time:04
-x 2019-04-16 Cut nails +Health @nova  Time:04
+x 2019-04-16 Do a search for speechless mentions on twitter, save the search.
+x 2019-04-16 Find out about the features in the new OSX
 x 2019-04-16 Floss +Health @nova  Time:05
-x 2019-04-16 Floss +Health @nova  Time:05
+x 2019-04-16 Get Yvonne address
 x 2019-04-16 Get tools from shed to take apart crate
 x 2019-04-16 Get two containers for the luggage tags and the paper clips
 x 2019-04-16 Listen to  Randy Pausch Talk +Overhead @phone
+x 2019-04-16 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-16 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
+x 2019-04-16 Make backup list of potential trustees and ask them
+x 2019-04-16 Make interupt post-it
 x 2019-04-16 Make sure the only things on 'Reminders' are adendas for lists coming up +Overhead
 x 2019-04-16 Open and log progress on the bid status document +EQT Time:04
+x 2019-04-16 Open list of projects to be funded +EQT
+x 2019-04-16 Pick the next book you are reading.  Time:03
 x 2019-04-16 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
-x 2019-04-16 Print out some spare parkrun barcodes
-x 2019-04-16 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-04-16 Arrange tour of amazon. Time
-x 2019-04-16 Check double payment to amazon - £108.
-x 2019-04-16 Do a search for speechless mentions on twitter, save the search.
-x 2019-04-16 Get Yvonne address
-x 2019-04-16 Make backup list of potential trustees and ask them
-x 2019-04-16 Promote Speechful podcast.
-x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
-x 2019-04-16 Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.
-x 2019-04-16 Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall.
-x 2019-04-16 Send Glasses to Yvonne.
-x 2019-04-16 Shoow Kat the budget and balance sheets
-x 2019-04-16 put board game gathering and kat birthday on meeting list
-x 2019-04-16 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-16 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
-x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
-x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
-x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
 x 2019-04-16 Post to Sibling Facebook group @nova @phone  Time:06
 x 2019-04-16 Post to Sibling Facebook group Time:10
-x 2019-04-16 Update the youtube watch list +Famil Time:10 @phone @nova
-x 2019-04-16 Video call with Kat family +Family @nova  Time:15
-x 2019-04-16 1. Process Email @singleton +Overhead @phone  Time:40
-x 2019-04-16 Brainstrom the last time you changed your mind.
-x 2019-04-16 Floss +Health @nova  Time:05
-x 2019-04-16 Make interupt post-it
+x 2019-04-16 Print out some spare parkrun barcodes
+x 2019-04-16 Promote Speechful podcast.
 x 2019-04-16 Put post it note rules on your wall.
-x 2019-04-16 Trim nose hair +Health @nova  Time:05
-x 2019-04-16 Use Face strip +Health @nova Time:10
-x 2019-04-16 Use Face strip +Health @nova Time:10
-x 2019-04-16 Open list of projects to be funded +EQT
-x 2019-04-16 Find out about the features in the new OSX
+x 2019-04-16 Put this in the list of THINGs to apply for https://contentdesign.london/academy/
 x 2019-04-16 Review your highlights and notes from Kindle books +Overhead
-x 2019-04-16 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-04-16 Pick the next book you are reading.  Time:03
-x 2019-04-17 1. Exercise @singleton +Exercise @nova  Time:60
+x 2019-04-16 Rewrite https://github.com/joereddington/Projects-Public/issues/4 and brainstorm on how it fits into your life at the moment.
+x 2019-04-16 Rewrite weekend meeting list of topics to include the recent nice family moments and the list on the wall.
+x 2019-04-16 Save a nice family memory +Family @phone @nova  Time:03
+x 2019-04-16 Send Glasses to Yvonne.
+x 2019-04-16 Shoow Kat the budget and balance sheets
+x 2019-04-16 Trim nose hair +Health @nova  Time:05
+x 2019-04-16 Update the youtube watch list +Famil Time:10 @phone @nova
+x 2019-04-16 Use Face strip +Health @nova Time:10
+x 2019-04-16 Video call with Kat family +Family @nova  Time:15
+x 2019-04-16 put board game gathering and kat birthday on meeting list
 x 2019-04-17 1. Exercise @singleton +Exercise @nova  Time:60
 x 2019-04-17 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-17 1. Process Email @singleton +Overhead @phone  Time:90
@@ -661,26 +575,26 @@ x 2019-04-17 Break up bedside table in @garage.  Time:15
 x 2019-04-17 Check experiation for  equality time insurance Time:04
 x 2019-04-17 Floss +Health @nova  Time:05
 x 2019-04-17 Get the list of recent camps and add them to the allbooksever file. Time:10
+x 2019-04-17 Get £70 cash out (and take batteries) to pay Kat back. Time:04
 x 2019-04-17 Go and pay in cheque Time:20
 x 2019-04-17 Go to the library/bookshop and find out who is running the existing licensing.  @Nova +EQT Time:40  @outside
 x 2019-04-17 Itterate code for Kat  Time:60
 x 2019-04-17 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-17 Map everpad project  Time:10
+x 2019-04-17 Map project on transfering joe.reddington to a properly separate hosting system.  Time:10
 x 2019-04-17 Measure the @garage for architect  Time:16
+x 2019-04-17 Open list of projects to be funded +EQT Time:03
 x 2019-04-17 Pay dreamhost Time:06
+x 2019-04-17 Post to WWW facebook page +EQT @nova @phone  Time:10
+x 2019-04-17 Print out picture of the moon for the lounge. Time:10
 x 2019-04-17 Process Halifax statement Time:20
+x 2019-04-17 Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04
 x 2019-04-17 Read http://www.charitysorp.org/media/620341/frsse_module-5.pdf and summarise for Trustees Time:20
 x 2019-04-17 Review and rewrite house improvement spreadsheet +Family Time:15
+x 2019-04-17 Review personal projects in github +personalprojects  Time:30
 x 2019-04-17 Sprint (offline) on https://github.com/eQualityTime/Public/issues/71 +EQT Time:60
 x 2019-04-17 Sprint on https://github.com/joereddington/Projects-Private/issues/125  Time:60
 x 2019-04-17 Sprint on https://github.com/joereddington/Projects-Public/issues/5  Time:60
-x 2019-04-17 Map project on transfering joe.reddington to a properly separate hosting system.  Time:10
-x 2019-04-17 Open list of projects to be funded +EQT Time:03
-x 2019-04-17 Post to WWW facebook page +EQT @nova @phone  Time:10
-x 2019-04-17 Review personal projects in github +personalprojects  Time:30
-x 2019-04-17 Get £70 cash out (and take batteries) to pay Kat back. Time:04
-x 2019-04-17 Print out picture of the moon for the lounge. Time:10
-x 2019-04-17 Put Bank photos form 15:21 11/3/2019 into EQT dropbox Time:04
 x 2019-04-18 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-18 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-18 Choose a set of photos to get printed at Snapfish.  Time:20
@@ -692,105 +606,72 @@ x 2019-04-18 Send something to the grandparent facebook group
 x 2019-04-18 Take batteries to co-op Time:10
 x 2019-04-18 Video call with Kat family to explain overnight stay plans to grandparents Time:30
 x 2019-04-18 Vitimin Tablet +Health @nova  Time:02
-x 2019-04-24 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-04-24 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-04-24 Mark the tasks you can do live (it's review github) account and start streaming +EQT @singleton Time:99
-x 2019-04-24 Check Desktop Tracker is working +Overhead @nova  Time:02
-x 2019-04-24 Check Voicemail  +Overhead @nova  @phone  Time:02
-x 2019-04-24 Check team cooper visit dates: every two weeks  +Family Time:03
-x 2019-04-24 Check that everything in the 'in process' box really does have a task+Overhead @nova
-x 2019-04-24 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
-x 2019-04-24 Check the next school time +EQT Time:03
-x 2019-04-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
-x 2019-04-24 Find out if slow folder loading appears in the other account  Time:10
-x 2019-04-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
-x 2019-04-24 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
-x 2019-04-24 Log weight +Health  Time:02
-x 2019-04-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
-x 2019-04-24 Make sure paper crane is in bat@nova @phone  Time:03
-x 2019-04-24 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-24 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Review all projects in github +Overhead Time:40
-x 2019-04-24 Save a nice family memory +Family @phone @nova  Time:03
-x 2019-04-24 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
-x 2019-04-24 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
-x 2019-04-24 Update the youtube watch list +Family Time:10 @phone @nova
-x 2019-04-24 Find out about Insteon hub and Alexa.
-x 2019-04-24 Write paper for Cm.
-x 2019-04-24 It will be far far far better for you to refuse to go to the car boot sale and have nice quiet time at home. Do that. You will be happier.
-x 2019-04-24 81.3
-x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-x (B) 1. Exercise @singleton +Exercise @nova  Time:60
-x (B) Work out what happened with richard’s expenses.
-x (C) Put Lizzie in diary.
-x (C) find out about Enterprise Development Programme -  Enterprise Grants (Updated)
-x (C) find out about Road Safety Trust (Updated)
-x (D) 1. Put receipts in receipt book. Time:20
-x (E) 10 Contacts on the contact list
 x 2019-04-24 (A) Iterate Kat code
 x 2019-04-24 (E) Go through Walking Meeting with Kat +Family Time:180
 x 2019-04-24 (E) Publicly thank someone +Overhead Time:15
 x 2019-04-24 (E) Video call with Kat family +Family @nova  Time:15
 x 2019-04-24 (E) Vitimin Tablet +Health @nova  Time:02
 x 2019-04-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-04-24 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-24 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-04-24 81.3
+x 2019-04-24 Check Desktop Tracker is working +Overhead @nova  Time:02
+x 2019-04-24 Check Voicemail  +Overhead @nova  @phone  Time:02
+x 2019-04-24 Check team cooper visit dates: every two weeks  +Family Time:03
+x 2019-04-24 Check that everything in the 'in process' box really does have a task+Overhead @nova
+x 2019-04-24 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
+x 2019-04-24 Check the next school time +EQT Time:03
 x 2019-04-24 Confirm plans for next two weekends.+Overhead @phone  Time:06
+x 2019-04-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
+x 2019-04-24 Find out about Insteon hub and Alexa.
+x 2019-04-24 Find out if slow folder loading appears in the other account  Time:10
+x 2019-04-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
+x 2019-04-24 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
+x 2019-04-24 It will be far far far better for you to refuse to go to the car boot sale and have nice quiet time at home. Do that. You will be happier.
+x 2019-04-24 Log weight +Health  Time:02
+x 2019-04-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
+x 2019-04-24 Make sure paper crane is in bat@nova @phone  Time:03
+x 2019-04-24 Mark the tasks you can do live (it's review github) account and start streaming +EQT @singleton Time:99
+x 2019-04-24 Open and log progress on the bid status document +EQT Time:04
 x 2019-04-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03
 x 2019-04-24 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
 x 2019-04-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03
 x 2019-04-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03
+x 2019-04-24 Remind Kat to do Nova's menu +Family @nova @phone  Time:01
 x 2019-04-24 Review all projects in github +Overhead Time:
+x 2019-04-24 Review all projects in github +Overhead Time:40
+x 2019-04-24 Save a nice family memory +Family @phone @nova  Time:03
+x 2019-04-24 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
 x 2019-04-24 Trim nose hair +Health @nova  Time:05
-x (A) Fix second buisness payment reminder on amazon.
-x (E) Cut nails +Health @nova  Time:04
+x 2019-04-24 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
+x 2019-04-24 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-04-24 Write paper for Cm.
 x 2019-04-25 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-04-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-25 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-04-25 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-04-25 Add slides to public/68 
 x 2019-04-25 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-04-25 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-04-25 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-04-25 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
 x 2019-04-25 Delete [200~NO[201~ sound video on youtube 
+x 2019-04-25 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-04-25 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-04-25 Message Kate about CM 
+x 2019-04-25 Open and log progress on the bid status document +EQT Time:04
+x 2019-04-25 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-04-25 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-04-25 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 x 2019-04-25 Post to WWW facebook page +EQT @nova @phone  Time:10
+x 2019-04-25 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-04-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-04-25 Send something to the grandparent facebook group 
 x 2019-04-25 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-04-25 Vitimin Tablet +Health @nova  Time:02
 x 2019-04-25 Write Paper for CM 
-x 2019-04-25 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-04-25 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x 2019-04-25 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-04-25 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-x 2019-04-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-x 2019-04-25 Add slides to public/68 
-x 2019-04-25 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-04-25 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20
-x 2019-04-25 Open and log progress on the bid status document +EQT Time:04
-x 2019-04-25 Save a nice family memory +Family @phone @nova  Time:03 
-x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-x (B) Upload Wikipedia Video 
-x (C) 1. Process Email @singleton +Overhead @phone  Time:90
-x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-x (C) Check for next months birthday cards 
-x (C) Phone up about screen repair
-x (C) Record happy birthday video for Archie 😀 due:2019-04-29
-x (C) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 Time:60
-x (C) Write and send minutes +EQT  Time:15
-x 2019-04-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-29 Ask FB about 
-x 2019-04-29 Put thermal camera on Amazon. 
-x 2019-04-30 Ask Kat about Blackout curtains 
-x 2019-04-30 Empty crate completely +Overhead @nova  Time:15 
 x 2019-04-29 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-04-29 Check team cooper visit dates: every two weeks  +Family Time:03 
 x 2019-04-29 Check that everything in the 'in process' box really does have a task+Overhead @nova 
@@ -804,7 +685,6 @@ x 2019-04-29 Go through Walking Meeting with Kat +Family Time:180
 x 2019-04-29 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-04-29 Log weight +Health  Time:02 
 x 2019-04-29 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-04-29 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-04-29 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-04-29 Open and log progress on the bid status document +EQT Time:04
 x 2019-04-29 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
@@ -814,6 +694,7 @@ x 2019-04-29 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03
 x 2019-04-29 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
 x 2019-04-29 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-04-29 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-04-29 Put thermal camera on Amazon. 
 x 2019-04-29 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 x 2019-04-29 Review all projects in github +Overhead Time: 
 x 2019-04-29 Trim nose hair +Health @nova  Time:05 
@@ -822,14 +703,16 @@ x 2019-04-29 Wash sheets and towels +Family @nova  Time:10
 x 2019-04-29 Wash sheets and towels +Family @nova  Time:10 
 x 2019-04-30 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-04-30 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-04-30 Ask Kat about Blackout curtains 
+x 2019-04-30 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-04-30 Empty crate completely +Overhead @nova  Time:15 
 x 2019-04-30 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-04-30 Publicly thank someone +Overhead Time:15 
 x 2019-04-30 Register for the everpad provider 
 x 2019-04-30 Review the new Kings finances. 
 x 2019-04-30 Send something to the grandparent facebook group 
-x 2019-04-30 Write Yvonne email about invoices... j
-x 2019-04-30 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-04-30 Publicly thank someone +Overhead Time:15 
 x 2019-04-30 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-04-30 Write Yvonne email about invoices... j
 x 2019-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-01 Check Flowers for Turing with mum. 
 x 2019-05-01 Get football for nova
@@ -898,20 +781,19 @@ x 2019-05-08 Update the youtube watch list +Family Time:10 @phone @nova
 x 2019-05-08 Write contributions code for Wikipedia. Time:60
 x 2019-05-08 Write recycling project post on facebook
 x 2019-05-08 Write up the blog for this: https://github.com/joereddington/Projects-Public/issues/1  Time:35
-x 2019-05-09 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-x 2019-05-09 Do menu for week. 
-x 2019-05-09 Get glue gun to Fix Brio
-x 2019-05-09 Send something to the grandparent facebook group 
-x (E) Call dentist to book Checkup @car  Time:04
 x 2019-05-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-09 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-05-09 10 Contacts on the contact list 
+x 2019-05-09 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-05-09 Do menu for week. 
 x 2019-05-09 Fix the links to the public todo list. 
 x 2019-05-09 Get Airconditioner
+x 2019-05-09 Get glue gun to Fix Brio
 x 2019-05-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-05-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-05-09 Put up the upwork architecture post with measurements 
 x 2019-05-09 Search for funding for eQuality Time Projects +EQT Time:50 
+x 2019-05-09 Send something to the grandparent facebook group 
 x 2019-05-09 Update amazon Pay by Invoice Settings 
 x 2019-05-09 Vitimin Tablet +Health @nova  Time:02
 x 2019-05-09 follow up with wimledon high school.
@@ -949,8 +831,20 @@ x 2019-05-13 Sync up Unity and Dropbox: look at the list of files  Time:20
 x 2019-05-13 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-05-13 Wash sheets and towels +Family @nova  Time:10 
 x 2019-05-13 Write reviews for proposals Time:30 
+x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-20 Backup Dreamhost +EQT Time:05
+x 2019-05-20 Call Mum about comic con 
+x 2019-05-20 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-05-20 Check the next school time +EQT Time:03 
+x 2019-05-20 Comic 
+x 2019-05-20 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-05-20 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-05-20 Do thnak yous. 
 x 2019-05-20 Fix bulb in Longue  @nova 
+x 2019-05-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-05-20 Log weight +Health  Time:02 
+x 2019-05-20 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-05-20 Open and log progress on the bid status document +EQT Time:04
 x 2019-05-20 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
 x 2019-05-20 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 x 2019-05-20 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
@@ -960,25 +854,13 @@ x 2019-05-20 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-05-20 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 x 2019-05-20 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
 x 2019-05-20 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-05-20 Publicly thank someone +Overhead Time:15 
 x 2019-05-20 Send something to the grandparent facebook group 
+x 2019-05-20 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-05-20 Take cards to post office. Time:10 
 x 2019-05-20 Take the office chair to the playroom 
 x 2019-05-20 Trim nose hair +Health @nova  Time:05 
 x 2019-05-20 Wash sheets and towels +Family @nova  Time:10 
-x 2019-05-20 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-05-20 Check the next school time +EQT Time:03 
-x 2019-05-20 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-05-20 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-05-20 Log weight +Health  Time:02 
-x 2019-05-20 Make sure paper crane is in bat@nova @phone  Time:03 
-x 2019-05-20 Open and log progress on the bid status document +EQT Time:04
-x 2019-05-20 Publicly thank someone +Overhead Time:15 
-x 2019-05-20 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-x 2019-05-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-05-20 Call Mum about comic con 
-x 2019-05-20 Comic 
-x 2019-05-20 Do thnak yous. 
-x 2019-05-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-05-21 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-05-21 1. Process Email @singleton +Overhead @phone  Time:90
@@ -1022,34 +904,34 @@ x 2019-05-28 Go through Walking Meeting with Kat +Family Time:180
 x 2019-05-28 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-05-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-05-28 Ping Zoe about visits 
-x 2019-05-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x (C) Connect external drive. date:2019-05-29
-x (C) Fix http://equalitytime.co.uk/rankingdis/ date:2019-05-29
-x (C) Implement "Reasons I get my phone out" list  date:2019-05-29
-x (C) Review passwords and switch lasspass to new one.  date:2019-05-29
-x (C) Send something to the grandparent facebook group  date:2019-05-29
 x 2019-05-29 () Get Flu vaxine +Health date:2019-05-29
+x 2019-05-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-05-29 10 Contacts on the contact list  date:2019-05-29
+x 2019-05-29 Change Clare address date:2019-05-29
 x 2019-05-29 Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-05-29
+x 2019-05-29 Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-05-29
+x 2019-05-29 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-05-29
 x 2019-05-29 Check £40 in Wallet +Overhead @nova  @phone  date:2019-05-29
 x 2019-05-29 Confirm plans for next two weekends.+Overhead @phone  Time:06  date:2019-05-29
+x 2019-05-29 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-05-29
+x 2019-05-29 Cut nails +Health @nova  Time:04  date:2019-05-29
+x 2019-05-29 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-05-29
 x 2019-05-29 Empty house inbox completely +Overhead @nova  Time:15  date:2019-05-29
 x 2019-05-29 Empty picture frames and put in memories folder  date:2019-05-29
 x 2019-05-29 Find microphone  date:2019-05-29
+x 2019-05-29 Fix Nova's blind date:2019-05-29
+x 2019-05-29 Floss +Health @nova  Time:05 date:2019-05-29
 x 2019-05-29 Get long white usb cable for TV power  date:2019-05-29
+x 2019-05-29 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-05-29
 x 2019-05-29 Go through Walking Meeting with Kat +Family Time:180   date:2019-05-29
 x 2019-05-29 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08  date:2019-05-29
+x 2019-05-29 Investigate NIHR Public Health Research Programme (PHR), Cobb Charity  date:2019-05-29
+x 2019-05-29 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  date:2019-05-29
+x 2019-05-29 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-05-29
 x 2019-05-29 Make sure paper crane is in bat@nova @phone  Time:03  date:2019-05-29
 x 2019-05-29 Make workstation spotless +Overhead @nova   date:2019-05-29
 x 2019-05-29 Open and log progress on the bid status document +EQT Time:04 date:2019-05-29
-x 2019-05-29 Post to Sibling Facebook group @nova @phone  Time:06  date:2019-05-29
-x 2019-05-29 Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-05-29
-x 2019-05-29 Publicly thank someone +Overhead Time:15  date:2019-05-29
-x 2019-05-29 Remind Kat to do Nova's menu +Family @nova @phone  Time:01  date:2019-05-29
-x 2019-05-29 Trim nose hair +Health @nova  Time:05  date:2019-05-29
-x 2019-05-29 Upload exported images to flickr date:2019-05-29
-x 2019-05-29 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-05-29
-x 2019-05-29 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-05-29
-x 2019-05-29 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-05-29
+x 2019-05-29 Open list of projects to be funded +EQT date:2019-05-29
 x 2019-05-29 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03  date:2019-05-29
 x 2019-05-29 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03  date:2019-05-29
 x 2019-05-29 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03  date:2019-05-29
@@ -1058,26 +940,20 @@ x 2019-05-29 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03  da
 x 2019-05-29 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§ date:2019-05-29
 x 2019-05-29 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03  date:2019-05-29
 x 2019-05-29 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03  date:2019-05-29
-x 2019-05-29 Send Trustees something nice about outcomes +EQT date:2019-05-29
-x 2019-05-29 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-05-29
-x 2019-05-29 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-05-29
-x 2019-05-29 Wash sheets and towels +Family @nova  Time:10  date:2019-05-29
-x 2019-05-29 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-05-29
-x 2019-05-29 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-05-29
-x 2019-05-29 Cut nails +Health @nova  Time:04  date:2019-05-29
-x 2019-05-29 Floss +Health @nova  Time:05 date:2019-05-29
-x 2019-05-29 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  date:2019-05-29
+x 2019-05-29 Post to Sibling Facebook group @nova @phone  Time:06  date:2019-05-29
+x 2019-05-29 Post to WWW facebook page +EQT @nova @phone  Time:10  date:2019-05-29
+x 2019-05-29 Publicly thank someone +Overhead Time:15  date:2019-05-29
+x 2019-05-29 Remind Kat to do Nova's menu +Family @nova @phone  Time:01  date:2019-05-29
 x 2019-05-29 Save a nice family memory +Family @phone @nova  Time:03  date:2019-05-29
 x 2019-05-29 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05  date:2019-05-29
-x 2019-05-29 x 2019-05-29 Vitimin Tablet +Health @nova  Time:02 date:2019-05-29
-x 2019-05-29 10 Contacts on the contact list  date:2019-05-29
-x 2019-05-29 Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-05-29
-x 2019-05-29 Fix Nova's blind date:2019-05-29
-x 2019-05-29 Investigate NIHR Public Health Research Programme (PHR), Cobb Charity  date:2019-05-29
-x 2019-05-29 Open list of projects to be funded +EQT date:2019-05-29
-x 2019-05-29 Change Clare address date:2019-05-29
+x 2019-05-29 Send Trustees something nice about outcomes +EQT date:2019-05-29
+x 2019-05-29 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-05-29
+x 2019-05-29 Trim nose hair +Health @nova  Time:05  date:2019-05-29
+x 2019-05-29 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-05-29
+x 2019-05-29 Upload exported images to flickr date:2019-05-29
 x 2019-05-29 Video of Nova saying dinosaur. date:2019-05-29
-x 2019-06-03 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-05-29 Wash sheets and towels +Family @nova  Time:10  date:2019-05-29
+x 2019-05-29 x 2019-05-29 Vitimin Tablet +Health @nova  Time:02 date:2019-05-29
 x 2019-06-02 Open and log progress on the bid status document +EQT Time:04
 x 2019-06-03 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
@@ -1085,10 +961,14 @@ x 2019-06-03 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-06-03 10 Contacts on the contact list 
 x 2019-06-03 2. Switch to live account and start streaming +EQT @singleton Time:99 date:2019-05-29
 x 2019-06-03 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-06-03 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-03 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-06-03 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-06-03 Cut nails +Health @nova  Time:04 
+x 2019-06-03 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-06-03 Find out if Folio 303 was ever paid (46.35)
+x 2019-06-03 Floss +Health @nova  Time:05
 x 2019-06-03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-06-03 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-06-03 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-03 Log weight +Health  Time:02 
 x 2019-06-03 Log weight +Health  Time:02  date:2019-05-29
@@ -1100,31 +980,38 @@ x 2019-06-03 Open and log progress on the bid status document +EQT Time:04
 x 2019-06-03 Open support case for why your thermal camera listing isn't active. 
 x 2019-06-03 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-06-03 Publicly thank someone +Overhead Time:15 
-x 2019-06-03 Review all projects in github +Overhead Time: 
-x 2019-06-03 Send something to the grandparent facebook group 
-x 2019-06-03 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-06-03 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-06-03 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-06-03 Floss +Health @nova  Time:05
-x 2019-06-03 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-06-03 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-06-03 Review all projects in github +Overhead Time: 
+x 2019-06-03 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-06-03 Send something to the grandparent facebook group 
 x 2019-06-03 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-03 Trim nose hair +Health @nova  Time:05 
 x 2019-06-04 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-04 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-04 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-04 Brainstorm good ways of 'one click deploying' comics. 
+x 2019-06-04 Call mum about  pensions amount  date:2019-05-29
+x 2019-06-04 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-06-04 Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-05-29
+x 2019-06-04 Check the firebreak in: whatsapp and facebook+Overhead Time:20  date:2019-05-29
 x 2019-06-04 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-06-04 Check the next school time +EQT Time:03 
 x 2019-06-04 Confirm all visitors next week. 
 x 2019-06-04 Contact Nat with a 'where are we I got lost' email. 
 x 2019-06-04 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-06-04 Fill out Richard's CM form.  Time:08 date:2019-05-29
 x 2019-06-04 Fill out sarah form 
 x 2019-06-04 Find package for microphone and take to post office. 
+x 2019-06-04 Get glue to glue down wood for the cup cupboard  date:2019-05-29
 x 2019-06-04 Get lights for streaming in office.  date:2019-05-29
+x 2019-06-04 Get up to date sleep tracking data and Fix bug in watch sleep tracking  date:2019-05-29
+x 2019-06-04 Glue stairs
 x 2019-06-04 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-06-04 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-06-04 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-04 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-06-04 Make appointment with the apple store  date:2019-05-29
+x 2019-06-04 Map and sprint on Children in need bid date:2019-05-29
 x 2019-06-04 Message Natatlie with "Is there anything you need from me right now" 
 x 2019-06-04 Pay the etherpad guy! 
 x 2019-06-04 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
@@ -1134,134 +1021,87 @@ x 2019-06-04 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-06-04 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 x 2019-06-04 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-06-04 Post that we are giving a talk about 
-x 2019-06-04 Review your highlights and notes from Kindle books +Overhead date:2019-05-29
-x 2019-06-04 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2019-06-04 Update the youtube watch list +Family Time:10 @phone @nova
-x 2019-06-04 Wash sheets and towels +Family @nova  Time:10 
-x 2019-06-04 Review all projects in github +Overhead Time:  date:2019-05-29
-x 2019-06-04 Brainstorm good ways of 'one click deploying' comics. 
-x 2019-06-04 Call mum about  pensions amount  date:2019-05-29
-x 2019-06-04 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-06-04 Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-05-29
-x 2019-06-04 Check the firebreak in: whatsapp and facebook+Overhead Time:20  date:2019-05-29
-x 2019-06-04 Get up to date sleep tracking data and Fix bug in watch sleep tracking  date:2019-05-29
-x 2019-06-04 Make appointment with the apple store  date:2019-05-29
-x 2019-06-04 Map and sprint on Children in need bid date:2019-05-29
 x 2019-06-04 Post to Sibling Facebook group @nova @phone  Time:06 
 x 2019-06-04 Reduce dependence on Dreamhost. 
+x 2019-06-04 Review all projects in github +Overhead Time:  date:2019-05-29
+x 2019-06-04 Review your highlights and notes from Kindle books +Overhead date:2019-05-29
 x 2019-06-04 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-06-04 Search for funding for eQuality Time Projects +EQT date:2019-05-29
 x 2019-06-04 Send back arts council!  date:2019-05-29
+x 2019-06-04 Talk to someone about website changes for eQuality Time site 
+x 2019-06-04 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-06-04 Update the youtube watch list +Family Time:10 @phone @nova
 x 2019-06-04 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-04 Wash sheets and towels +Family @nova  Time:10 
 x 2019-06-04 Write a blog post for your occasional event plans  date:2019-05-29
 x 2019-06-04 Write a letter to Nova +Family Time:30 
 x 2019-06-04 Write a letter to Nova +Family Time:30  date:2019-05-29
 x 2019-06-04 Write script that produces list of 'detection' files Time:40 date:2019-05-29
 x 2019-06-04 Write to Northern people about august holiday 
-x 2019-06-04 Fill out Richard's CM form.  Time:08 date:2019-05-29
-x 2019-06-04 Get glue to glue down wood for the cup cupboard  date:2019-05-29
-x 2019-06-04 Glue stairs
-x 2019-06-04 Talk to someone about website changes for eQuality Time site 
 x 2019-06-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-05 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-06-05 Tidy garage date:2019-05-29
 x 2019-06-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-06 Floss +Health @nova  Time:05
 x 2019-06-06 Post Yvonne's glasses
+x 2019-06-06 Put speechful into another useraccount,
 x 2019-06-06 Send something to the grandparent facebook group 
 x 2019-06-06 Vitimin Tablet +Health @nova  Time:02
-x 2019-06-06 Put speechful into another useraccount,
 x 2019-06-08 1. Process Email @singleton +Overhead @phone  Time:50
 x 2019-06-08 2. Switch to live account and start streaming +EQT @singleton Time:99
-x (E) Check £40 in Wallet +Overhead @nova  @phone 
 x 2019-06-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-10 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-06-10 Backup Dreamhost +EQT
 x 2019-06-10 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-10 Check ranking scripts +Overhead
+x 2019-06-10 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-06-10 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-06-10 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-06-10 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-06-10 Cut nails +Health @nova  Time:04 
 x 2019-06-10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-06-10 Download the amazon months sales figures +EQT
 x 2019-06-10 Get Flu vaxine +Health
+x 2019-06-10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-06-10 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-06-10 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-06-10 If back on sugar then start sugar project +Health
 x 2019-06-10 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-10 Log weight +Health  Time:02 
 x 2019-06-10 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-06-10 Make workstation spotless +Overhead @nova  
-x 2019-06-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
-x 2019-06-10 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
-x 2019-06-10 Send something to the grandparent facebook group 
-x 2019-06-10 Backup Dreamhost +EQT
-x 2019-06-10 Check ranking scripts +Overhead
-x 2019-06-10 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2019-06-10 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-06-10 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-06-10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2019-06-10 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-06-10 If back on sugar then start sugar project +Health
 x 2019-06-10 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2019-06-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-06-10 Publicly thank someone +Overhead Time:15 
+x 2019-06-10 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
 x 2019-06-10 Review (days since) app counts +Overhead @nova @phone 
 x 2019-06-10 Review facebook theory of change
 x 2019-06-10 Review your highlights and notes from Kindle books +Overhead
 x 2019-06-10 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-06-10 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-06-10 See if any of the luton gaming people want the cards 
+x 2019-06-10 Send something to the grandparent facebook group 
 x 2019-06-10 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-10 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-06-10 Update OVF website without the disclaimer.
 x 2019-06-10 Wash sheets and towels +Family @nova  Time:10 
 x 2019-06-11 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-11 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-11 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2019-06-11 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-06-11 Check and delete Novareddington.com on dreamhost  
 x 2019-06-11 Check ranking scripts +Overhead
 x 2019-06-11 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-06-11 Check wishlis
+x 2019-06-11 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-06-11 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-06-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2019-06-11 Cut nails +Health @nova  Time:04 
+x 2019-06-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-06-11 Download the amazon months sales figures +EQT
 x 2019-06-11 Email scotish school will details 
 x 2019-06-11 Go though https://www.facebook.com/joe.reddington/friends_with_unseen_posts and make a connection with each person.
 x 2019-06-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2019-06-11 Send message for subreddit mods 
-x 2019-06-11 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2019-06-11 due:2018-06-12 chase accountants again.
-x 2019-06-11 due:2018-06-13 buy 10 mm rawl plugs 
-x 2019-06-11 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-06-11 Check and delete Novareddington.com on dreamhost  
-x 2019-06-11 Check wishlis
-x 2019-06-11 Check £40 in Wallet +Overhead @nova  @phone 
-x 2019-06-11 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-06-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-06-11 Download the amazon months sales figures +EQT
-x 2019-06-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
-x 2019-06-11 If back on sugar then start sugar project +Health
-x 2019-06-11 Log weight +Health  Time:02 
-x 2019-06-11 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-06-11 Make sure paper crane is in bat@nova @phone  Time:03 
-x 2019-06-11 Open and log progress on the bid status document +EQT Time:04
-x 2019-06-11 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-06-11 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-x 2019-06-11 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-x 2019-06-11 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-x 2019-06-11 Post freecycle photo to facebook
-x 2019-06-11 Publicly thank someone +Overhead Time:15 
-x 2019-06-11 Review (days since) app counts +Overhead @nova @phone 
-x 2019-06-11 Review facebook theory of change
-x 2019-06-11 Review starred items in feeds +Overhead
-x 2019-06-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2019-06-11 Setup side table in garage for putting bits on. 
-x 2019-06-11 Twitter: Complain to Anker about cable
-x 2019-06-11 Wash sheets and towels +Family @nova  Time:10 
-x 2019-06-11 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-06-11 Check and delete Novareddington.com on dreamhost  
-x 2019-06-11 Check wishlis
-x 2019-06-11 Check £40 in Wallet +Overhead @nova  @phone 
-x 2019-06-11 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-06-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-06-11 Download the amazon months sales figures +EQT
 x 2019-06-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 x 2019-06-11 If back on sugar then start sugar project +Health
 x 2019-06-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
@@ -1284,45 +1124,46 @@ x 2019-06-11 Review (days since) app counts +Overhead @nova @phone
 x 2019-06-11 Review facebook theory of change
 x 2019-06-11 Review starred items in feeds +Overhead
 x 2019-06-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-06-11 Send message for subreddit mods 
 x 2019-06-11 Setup side table in garage for putting bits on. 
 x 2019-06-11 Twitter: Complain to Anker about cable
+x 2019-06-11 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-06-11 Wash sheets and towels +Family @nova  Time:10 
+x 2019-06-11 due:2018-06-12 chase accountants again.
+x 2019-06-11 due:2018-06-13 buy 10 mm rawl plugs 
 x 2019-06-12 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-06-13 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-13 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-13 10 Contacts on the contact list 
+x 2019-06-13 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-06-13 Add recycling to list of projects to be funded +EQT
 x 2019-06-13 Book accountancy exam
-x 2019-06-13 Do menu from the next week. 
-x 2019-06-13 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-06-13 Put New trustee into unity bank https://apply.unity.co.uk/customer-update/section/1
 x 2019-06-13 Brainstorm longest time without repeating a food 
+x 2019-06-13 Buy tape dispensor for office 
+x 2019-06-13 Call Octopus to renew insurance. 
+x 2019-06-13 Create proper Kings Invoice and send to Dionee
+x 2019-06-13 Do menu from the next week. 
 x 2019-06-13 Get back to E about camps 
+x 2019-06-13 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-13 Post to Sibling Facebook group @nova @phone  Time:06 
 x 2019-06-13 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-13 Put Amazon Invoice in the bank 
+x 2019-06-13 Put New trustee into unity bank https://apply.unity.co.uk/customer-update/section/1
+x 2019-06-13 Review the funding calls in the reminders list 
+x 2019-06-13 Review your highlights and notes from Kindle books +Overhead
+x 2019-06-13 Ring unity bank on 0345 140 1000 to check that everything can be uploaded. 
+x 2019-06-13 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-06-13 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-06-13 Send Trustees something nice about outcomes +EQT
 x 2019-06-13 Send feedback to architect,
 x 2019-06-13 Send something to the grandparent facebook group 
-x 2019-06-13 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-06-13 Review your highlights and notes from Kindle books +Overhead
-x 2019-06-13 Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-06-13 Send Trustees something nice about outcomes +EQT
 x 2019-06-13 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-13 TSE +Health Time:04 
 x 2019-06-13 Trim nose hair +Health @nova  Time:05 
 x 2019-06-13 Vitimin Tablet +Health @nova  Time:02
+x 2019-06-13 Watch the youtube watch list +Family Time:10 @phone @nova
 x 2019-06-13 Work out what to do about Desktop tracking. (a whole suite from todo.txt?) 
 x 2019-06-13 Write a letter to Nova +Family Time:30 
-x (B) 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-06-13 10 Contacts on the contact list 
-x 2019-06-13 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-06-13 Add recycling to list of projects to be funded +EQT
-x 2019-06-13 Buy tape dispensor for office 
-x 2019-06-13 Call Octopus to renew insurance. 
-x 2019-06-13 Create proper Kings Invoice and send to Dionee
-x 2019-06-13 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-06-13 Put Amazon Invoice in the bank 
-x 2019-06-13 Review the funding calls in the reminders list 
-x 2019-06-13 Ring unity bank on 0345 140 1000 to check that everything can be uploaded. 
-x 2019-06-13 Watch the youtube watch list +Family Time:10 @phone @nova
 x 2019-06-13 Write down everything you know about august visits into a message for Kat.
 x 2019-06-13 Write gratitude post for tomorrow 
 x 2019-06-17 1. Exercise @singleton +Exercise @nova  Time:60 
@@ -1340,84 +1181,90 @@ x 2019-06-17 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-17 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-06-17 Send rest of weekend thank you messages 
 x 2019-06-17 Setup google authenticator... 
+x 2019-06-19 () Write a letter to Nova +Family Time:30 
+x 2019-06-19 1. Exercise @singleton +Exercise @nova  Time:60 
+x 2019-06-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-19 Block out time for reading a book  Time:05
+x 2019-06-19 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-06-19 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-06-19 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-06-19 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-06-19 Check the firebreak in: facebook. +Overhead Time:20 
 x 2019-06-19 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-06-19 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
+x 2019-06-19 Cut nails +Health @nova  Time:04 
 x 2019-06-19 Design card for KAt
 x 2019-06-19 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-06-19 Do the spreadsheet for Kat
+x 2019-06-19 Floss +Health @nova  Time:05
+x 2019-06-19 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-06-19 Listen to  Randy Pausch Talk +Overhead @phone 
+x 2019-06-19 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-19 Log weight +Health  Time:02 
+x 2019-06-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-06-19 Make workstation spotless +Overhead @nova   Time:05 
+x 2019-06-19 Map project for guys https://www.london.gov.uk/what-we-do/london-family-fund Time:10 #POWERHOUR
 x 2019-06-19 Open and log progress on the bid status document +EQT Time:04
 x 2019-06-19 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 x 2019-06-19 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
 x 2019-06-19 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
 x 2019-06-19 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 x 2019-06-19 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-06-19 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2019-06-19 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-06-19 Publicly thank someone +Overhead Time:15 
 x 2019-06-19 Put drill on charge for screws 
 x 2019-06-19 Remind Kat to do Nova's menu +Family @nova @phone  Time:01 
+x 2019-06-19 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-06-19 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-06-19 Send mum the list of constations
+x 2019-06-19 Send out messages for next games day Time:10 
 x 2019-06-19 Send something to the grandparent facebook group 
 x 2019-06-19 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-19 Sort out bounty 
-x 2019-06-19 Try username for excel on phone 
-x 2019-06-19 message kat's dad back 
-x 2019-06-19 Vitimin Tablet +Health @nova  Time:02
-x 2019-06-19 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-06-19 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-06-19 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-06-19 Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-06-19 Cut nails +Health @nova  Time:04 
-x 2019-06-19 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
-x 2019-06-19 Post to WWW facebook page +EQT @nova @phone  Time:10 
-x 2019-06-19 Publicly thank someone +Overhead Time:15 
-x 2019-06-19 Check the firebreak in: facebook. +Overhead Time:20 
-x 2019-06-19 () Write a letter to Nova +Family Time:30 
-x 2019-06-19 1. Exercise @singleton +Exercise @nova  Time:60 
-x 2019-06-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-06-19 Block out time for reading a book  Time:05
-x 2019-06-19 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-x 2019-06-19 Floss +Health @nova  Time:05
-x 2019-06-19 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-06-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-06-19 Make workstation spotless +Overhead @nova   Time:05 
-x 2019-06-19 Map project for guys https://www.london.gov.uk/what-we-do/london-family-fund Time:10 #POWERHOUR
-x 2019-06-19 Post to Sibling Facebook group @nova @phone  Time:06 
-x 2019-06-19 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-x 2019-06-19 Send out messages for next games day Time:10 
 x 2019-06-19 Trim nose hair +Health @nova  Time:05 
+x 2019-06-19 Try username for excel on phone 
 x 2019-06-19 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-06-19 Vitimin Tablet +Health @nova  Time:02
 x 2019-06-19 due:2019-06-18 Write to companies house Time:15 
+x 2019-06-19 message kat's dad back 
 x 2019-06-20 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-20 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-06-20 Apologise to Eleanor.  @nova 
+x 2019-06-20 Buy new screws for gate 
+x 2019-06-20 Confirm external donation to Flowers For Turing. 
 x 2019-06-20 Fix stairgate 
 x 2019-06-20 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-06-20 Go to Co-op and Change PIN on Amazon card  Time:15  @nova
 x 2019-06-20 Literally go to B&Q for gate STUFF. Time:60 
 x 2019-06-20 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-06-20 Read 200 pages of book for exam  Time:180 date:2019-05-29
-x 2019-06-20 Vitimin Tablet +Health @nova  Time:02
-x 2019-06-20 Apologise to Eleanor.  @nova 
-x 2019-06-20 Buy new screws for gate 
-x 2019-06-20 Confirm external donation to Flowers For Turing. 
 x 2019-06-20 Message Francesca abotu Fridays   @nova
 x 2019-06-20 Migrate the Open Voice Factory site/subsites to it's own user. Time:60 
+x 2019-06-20 Read 200 pages of book for exam  Time:180 date:2019-05-29
 x 2019-06-20 Sprint on Smallest next action tracker. 
+x 2019-06-20 Vitimin Tablet +Health @nova  Time:02
 x 2019-06-24 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-24 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-06-24 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-06-24 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-06-24 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 x 2019-06-24 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-06-24 Check the next school time +EQT Time:03 
 x 2019-06-24 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-06-24 Contact Mark about DINK day 
 x 2019-06-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-06-24 Delete the retired account 
 x 2019-06-24 Do Menu for the week +Family @nova @phone  Time:01 
 x 2019-06-24 Empty house inbox completely +Overhead @nova  Time:15 
 x 2019-06-24 Fix the OVF website and demos
 x 2019-06-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-06-24 Go through Walking Meeting with Kat +Family Time:180  
 x 2019-06-24 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-06-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-06-24 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-06-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-06-24 Make sure paper crane is in bat@nova @phone  Time:03 
 x 2019-06-24 Open and log progress on the bid status document +EQT Time:04
 x 2019-06-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
@@ -1429,96 +1276,89 @@ x 2019-06-24 Post to Sibling Facebook group @nova @phone  Time:06
 x 2019-06-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-06-24 Publicly thank someone +Overhead Time:15 
 x 2019-06-24 Review all projects here: https://github.com/orgs/eQualityTime/projects/4
+x 2019-06-24 Review all projects in github +Overhead Time: 
+x 2019-06-24 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-06-24 Send something to the grandparent facebook group 
 x 2019-06-24 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-06-24 Setup and sort the dutch book. 
-x 2019-06-24 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2019-06-24 Write a letter to Nova +Family Time:30 
-x 2019-06-24 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2019-06-24 Contact Mark about DINK day 
-x 2019-06-24 Delete the retired account 
-x 2019-06-24 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-06-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-06-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-06-24 Review all projects in github +Overhead Time: 
-x 2019-06-24 Save a nice family memory +Family @phone @nova  Time:03 
 x 2019-06-24 Show kat STUFF in project drawer.  Time:05 
+x 2019-06-24 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-06-24 Wrap Kat presents Time:15
+x 2019-06-24 Write a letter to Nova +Family Time:30 
 x 2019-06-25 1. Exercise @singleton +Exercise @nova  Time:60 
 x 2019-06-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-06-25 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-06-25 10 Contacts on the contact list 
 x 2019-06-25 Fix disability list again
 x 2019-06-25 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
 x 2019-06-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-06-26 1. Process Email @singleton +Overhead @phone  Time:15
 x 2019-06-26 Check if the thermal camera is doing it's THING 
 x 2019-06-26 Check the amount of unrestricted funds in Unity 
 x 2019-06-26 Check to see if you have to commit the top blogs 
 x 2019-06-26 Check who raised the misfiled expeneses payment on Unity
+x 2019-06-26 Do halifax statement for Kat  
+x 2019-06-26 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2019-06-26 Fill out form for bedfordshire library
+x 2019-06-26 Follow up with Chris 
 x 2019-06-26 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-06-26 Open list of projects to be funded +EQT
+x 2019-06-26 Plug teapot in in Garage Time:05 
 x 2019-06-26 Post about the birthday cake 
+x 2019-06-26 Produce next invoice for HH
 x 2019-06-26 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-06-26 Trim nose hair +Health @nova  Time:05 
 x 2019-06-26 Vitimin Tablet +Health @nova  Time:02
-x 2019-06-26 Do halifax statement for Kat  
-x 2019-06-26 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-06-26 Follow up with Chris 
-x 2019-06-26 Produce next invoice for HH
-x 2019-06-26 1. Process Email @singleton +Overhead @phone  Time:15
-x 2019-06-26 Plug teapot in in Garage Time:05 
-x 2019-07-01 Check that everythin in the 'in process' box really does have a task+Overhead @nova 
-x 2019-07-01 Event about changing razorblade 
-x 2019-07-01 Jury servce THING 
-x 2019-07-01 Send something to the grandparent facebook group 
-x 2019-07-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-07-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-07-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-07-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-07-01 Check the next school time +EQT Time:03 
-x 2019-07-01 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2019-07-01 Make sure paper crane is in bat@nova @phone  Time:03 
-x 2019-07-01 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x 2019-07-01 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-x 2019-07-01 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-x 2019-07-01 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-x 2019-07-01 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-x 2019-07-01 Open and log progress on the bid status document +EQT Time:04
-x 2019-07-01 Trim nose hair +Health @nova  Time:05 
-x 2019-07-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2019-07-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-07-01 Get £40 for Wallet (and money for Kat) +Overhead @nova   Time:10
-x 2019-07-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-07-01 Post to WWW facebook page +EQT @nova @phone  Time:10 
-x 2019-07-01 Empty house inbox completely +Overhead @nova  Time:15 
-x 2019-07-01 Publicly thank someone +Overhead Time:15 
-x 2019-07-01 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-07-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-07-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-07-01 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-07-01 Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-01
 x 2019-07-01 (C Insurance people) Put insurance payment into Unity and check who raised the misfiled expenses payment Time:10 date:2019-07-01
 x 2019-07-01 (C Kat) Cut top of gates evenly.  date:2019-07-01
 x 2019-07-01 (C Natalie) Check in with Natlie about the scotland trip.  date:2019-07-01
 x 2019-07-01 (C Trustees) Sort out minutes for last meeting  date:2019-07-01
 x 2019-07-01 1. Exercise @singleton +Exercise @nova  Time:60  date:2019-07-01
+x 2019-07-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-01 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-07-01 Check Desktop Tracker is working +Overhead @nova  Time:02 
+x 2019-07-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-07-01 Check that everythin in the 'in process' box really does have a task+Overhead @nova 
+x 2019-07-01 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-07-01 Check the next school time +EQT Time:03 
+x 2019-07-01 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-07-01 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-07-01 Event about changing razorblade 
 x 2019-07-01 Get cash for next BJJ payment.  date:2019-07-01
+x 2019-07-01 Get £40 for Wallet (and money for Kat) +Overhead @nova   Time:10
+x 2019-07-01 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-07-01 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-07-01 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-07-01 Jury servce THING 
 x 2019-07-01 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  date:2019-07-01
+x 2019-07-01 Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-07-01 Log weight +Health  Time:02  date:2019-07-01
+x 2019-07-01 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-07-01 Make sure paper crane is in bat@nova @phone  Time:03 
+x 2019-07-01 Open and log progress on the bid status document +EQT Time:04
+x 2019-07-01 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-07-01 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-07-01 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-07-01 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 x 2019-07-01 Post Jury Service date:2019-07-01
+x 2019-07-01 Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-01
+x 2019-07-01 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-07-01 Publicly thank someone +Overhead Time:15 
 x 2019-07-01 Put buisess cards in BJJ bag  date:2019-07-01
+x 2019-07-01 Send something to the grandparent facebook group 
+x 2019-07-01 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 x 2019-07-01 Set up asperational youtube watchlist  date:2019-07-01
 x 2019-07-01 Take monitor and keyboard to shed to set up teapot date:2019-07-01
+x 2019-07-01 Trim nose hair +Health @nova  Time:05 
+x 2019-07-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-07-01 Update the youtube watch list +Family Time:10 @phone @nova
 x 2019-07-01 Vitimin Tablet +Health @nova  Time:02 date:2019-07-01
-x 2019-07-02 Check in with Mark about board games  ho
 x 2019-07-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 date:2019-07-02
 x 2019-07-02 Add end of year accounts penalties to the github issue  date:2019-07-02
-x 2019-07-02 Ring Companies House and check the status 
 x 2019-07-02 Brainstorm on end of year accounts  date:2019-07-02
+x 2019-07-02 Check in with Mark about board games  ho
 x 2019-07-02 Lock phone away and drink 1L of Water @singleton +Health Time:03 date:2019-07-02
+x 2019-07-02 Ring Companies House and check the status 
 x 2019-07-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-07-03 2. Switch to live account and start streaming +EQT @singleton Time:99 date:2019-07-01
 x 2019-07-03 Check in with FB
@@ -1529,65 +1369,22 @@ x 2019-07-05 Write a tight 8k pitch for Hari date:2019-07-03
 x 2019-07-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 date:2019-07-08j
 x 2019-07-08 Lock phone away and drink 1L of Water @singleton +Health Time:03 date:2019-07-08
 x 2019-07-08 Write script for Phone call 
-x 2019-07-09 Make seiten as post workout snack date:2019-07-08
-x 2019-07-09 Make sure paper crane is in bat@nova @phone  Time:03  date:2019-07-08
-x 2019-07-09 Publicly thank someone +Overhead Time:15  date:2019-07-08
-x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-02
-x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-08
 x 2019-07-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-07-09 Contact PR honestly 
 x 2019-07-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-07-09 Make seiten as post workout snack date:2019-07-08
+x 2019-07-09 Make sure paper crane is in bat@nova @phone  Time:03  date:2019-07-08
 x 2019-07-09 Process the flowers for Turing  date:2019-07-02
-x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
-x (C) 1. Process Email @singleton +Overhead @phone  Time:90
-x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-x (C) Arrange Climbing with Patrick 
-x (C) Fix the expenses generator  date:2019-07-08
-x (C) Message people about next week's Games day 
-x (C) Put notebook in fridge
-x (C) Update wake time sheet 
-x (C) Write the 'but I have to write this first' blog post  date:2019-07-08
-x (D) Brainstorm on fride usage
-x (D) Deal with disk quota issues  date:2019-07-08
-x (D) Do full accounts algorithm +EQT Time:99 date:2019-07-08
-x (D) Print rider for HH, also work out the invoice  
-x (E) 10 Contacts on the contact list  date:2019-07-01
-x (E) 10 Contacts on the contact list  date:2019-07-08
-x (E) Add to draft trustee email the issue with the mispayment.  date:2019-07-08
-x (E) Brainstorm on 'never going to wake up with adrenaline  date:2019-07-01
-x (E) Check Desktop Tracker is working +Overhead @nova  Time:02  date:2019-07-08
-x (E) Check Voicemail  +Overhead @nova  @phone  Time:02  date:2019-07-08
-x (E) Check if Mozfest and comic con are the same day again 
-x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova  date:2019-07-08
-x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  date:2019-07-01
-x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03  date:2019-07-08
-x (E) Check the next school time +EQT Time:03  date:2019-07-08
-x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06  date:2019-07-08
-x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10  date:2019-07-08
-x (E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-08
-x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  date:2019-07-08
-x (E) Go through Walking Meeting with Kat +Family Time:180   date:2019-07-08
-x (E) Library: books about kids and all of the tools of titans recommendations  date:2019-07-01
-x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35  date:2019-07-08
-x (E) Open and log progress on the bid status document +EQT Time:04 date:2019-07-08
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03  date:2019-07-08
-x (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03  date:2019-07-08
-x (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03  date:2019-07-08
-x (E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§ date:2019-07-08
-x (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03  date:2019-07-08
-x (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03  date:2019-07-08
-x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03  date:2019-07-08
-x (E) Take off gate to move to bottom of gate  date:2019-07-08
-x (E) Youtube on Nova tablet  date:2019-07-01
+x 2019-07-09 Publicly thank someone +Overhead Time:15  date:2019-07-08
+x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-02
+x 2019-07-09 Vitimin Tablet +Health @nova  Time:02 date:2019-07-08
 x 2019-07-10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15  okay 
 x 2019-07-10 Ping both eleanor and natlie about Scotland and booking flights 
 x 2019-07-10 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05  date:2019-07-08
-x j(E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-01
 x 2019-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 (A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 x 2019-07-11 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-07-11 Ask Kat about present for Mark 
+x 2019-07-11 Brainstorm on faster ways to put payments into system. 
 x 2019-07-11 Check our travel insurance and see if you did  
 x 2019-07-11 Check ranking scripts +Overhead
 x 2019-07-11 Check wishlist
@@ -1596,83 +1393,52 @@ x 2019-07-11 Cut nails +Health @nova  Time:04  date:2019-07-01
 x 2019-07-11 Cut nails +Health @nova  Time:04  date:2019-07-08
 x 2019-07-11 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family date:2019-07-08
 x 2019-07-11 Download the amazon months sales figures +EQT
+x 2019-07-11 Find and reopen the learning accounting project  date:2019-07-08
 x 2019-07-11 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08  date:2019-07-08
 x 2019-07-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 x 2019-07-11 If back on sugar then start sugar project +Health
 x 2019-07-11 Make workstation spotless +Overhead @nova  
 x 2019-07-11 Message the etherpad guy to get some instructions of logging in and restarting. 
+x 2019-07-11 Review (days since) app counts +Overhead @nova @phone 
+x 2019-07-11 Review other charity accounts  date:2019-07-08
+x 2019-07-11 Review your highlights and notes from Kindle books +Overhead
 x 2019-07-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-07-11 Send Trustees something nice about outcomes +EQT
 x 2019-07-11 Send something to the grandparent facebook group 
 x 2019-07-11 Update watcher.py to do some manual work. 
 x 2019-07-11 Vitimin Tablet +Health @nova  Time:02
 x 2019-07-11 Write and send the EQT newsletter 
-x 2019-07-11 Brainstorm on faster ways to put payments into system. 
-x 2019-07-11 Find and reopen the learning accounting project  date:2019-07-08
-x 2019-07-11 Review (days since) app counts +Overhead @nova @phone 
-x 2019-07-11 Review other charity accounts  date:2019-07-08
-x 2019-07-11 Review your highlights and notes from Kindle books +Overhead
-x 2019-07-11 Send Trustees something nice about outcomes +EQT
 x 2019-07-11 todo.txt should automatically be nowrap
 x 2019-07-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2019-07-14 Ask Kat for safty pins to fix the blind 
 x 2019-07-14 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-07-14 Give laptop screen a good clean +Overhead
-x 2019-07-14 Trim nose hair +Health @nova  Time:05  date:2019-07-08
-x 2019-07-14 Work out the amount of eqt leave you've had 
-x 2019-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-07-15 Call RCSLT
-x 2019-07-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-07-15 Phone and fix travel insurance. 
-x 2019-07-15 Write and send the Flowers For Turing thank you email 
-x 2019-07-15 1. Process Email @singleton +Overhead @phone  Time:90
-x 2019-07-15 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-07-15 Buy new glasses 
-x 2019-07-15 Look at the unclaimed upwork expenses and see what project it was for. 
-x 2019-07-15 Take all the private repos off your github. It's silly. 
-x 2019-07-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-07-15 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-x 2019-07-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2019-07-14 Check £40 in Wallet +Overhead @nova  @phone 
 x 2019-07-14 Contact these people: https://www.bloomberg.com/news/features/2019-07-08/how-to-be-a-professional-dungeons-dragons-master-hosting-games
 x 2019-07-14 Deal with https://vi.stackexchange.com/questions/20375/alarm-for-inactivity?noredirect=1#comment35851_20375
 x 2019-07-14 Do full accounts algorithm +EQT Time:99
+x 2019-07-14 Give laptop screen a good clean +Overhead
 x 2019-07-14 Open and log progress on the bid status document +EQT Time:04
 x 2019-07-14 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x (A) Reply abotu startup 
-x (A) Thank you cards for start up guys 
-x (B) Ask Pete about zika test 
-x (B) Email Justine and Dan about publishing 
-x (B) Follow up with Dhari
-x (B) Map Kat swimming ambush plan 
-x (C) 1. Process Email @singleton +Overhead @phone  Time:90
-x (C) Buy £30 of containers for gargage sorting. 
-x (C) Check bike is G2G 
-x (C) Fill out the wake times sheet 
-x (C) Find some spotlight options for the longue and show to kat. 
-x (C) Follow up with calre about spoilers 
-x (C) Follow up with reddit about messages 
-x (C) Go through Igor and mark each task with eqt or not. 
-x (C) Make igor event to tell careoline about Nova develpoement 
-x (C) Make office whiteboard into Joe-Kat list 
-x (C) Make sign for Joe-Kat office 
-x (C) Send Kat a picture of Nova's drawers with letters on  
-x (C) Send Pete's family a gift with a nice note. 
-x (C) Send something to the grandparent facebook group 
-x (C) check library for book you keep meaning to read on mindfulness - 
-x (D) Find a set of developement reading for Nova 
-x (D) Map project on air con.
-x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x (E) Check the next school time +EQT Time:03 
-x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-07-14 Trim nose hair +Health @nova  Time:05  date:2019-07-08
+x 2019-07-14 Work out the amount of eqt leave you've had 
+x 2019-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-07-15 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-07-15 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-07-15 Buy new glasses 
+x 2019-07-15 Call RCSLT
+x 2019-07-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-07-15 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-07-15 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-07-15 Look at the unclaimed upwork expenses and see what project it was for. 
+x 2019-07-15 Phone and fix travel insurance. 
+x 2019-07-15 Take all the private repos off your github. It's silly. 
+x 2019-07-15 Write and send the Flowers For Turing thank you email 
 x 2019-07-29 Send Nick the 'so you are visiting' guide 
 x 2019-07-30 Confirm mum and dad visit on friday. 
 x 2019-07-30 Do social media sorry for birthday cards 
 x 2019-07-30 Fix gate 
 x 2019-07-30 Message caroline about jury duty week 
-x 2019-08-01 share your gift policy on the social networks.  Time:05  @phone 
 x 2019-08-01 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-08-01 Cut nails +Health @nova  Time:04 
 x 2019-08-01 Get the new address for C&L 
@@ -1690,6 +1456,7 @@ x 2019-08-01 Read tristen's blog
 x 2019-08-01 Trim nose hair +Health @nova  Time:05 
 x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-08-01 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05  date:2019-07-08
+x 2019-08-01 share your gift policy on the social networks.  Time:05  @phone 
 x 2019-08-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-08-15 Add Kat's fingerprint to my phone
 x 2019-08-15 Add another pannier to the wishlist 
@@ -1739,144 +1506,131 @@ x 2019-08-25 Investigate bookmachine dates
 x 2019-08-25 Link goodreads and twitter using IfTTT
 x 2019-08-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-08-26 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-08-18 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2019-08-18 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-08-18 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2019-08-18 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-08-18 Check wishlist
-x 2019-08-18 Cut nails +Health @nova  Time:04 
-x 2019-08-18 Do Menu for the week +Family @nova @phone  Time:01 
-x 2019-08-18 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-x 2019-08-18 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-x 2019-08-18 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-x 2019-08-18 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-x 2019-08-18 Write agenda for country walk with Kat
 x 2019-09-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2019-09-09 Ask for testimonal from completed fundings
 x 2019-09-09 Brainstorm on growing the Luton Vegan Facebook group.
 x 2019-09-09 Buy the extra fastener for the car seat. 
+x 2019-09-09 Check Amazon wishlist has the stuff on it you need 
+x 2019-09-09 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-09-09 Check Voicemail  +Overhead @nova  @phone  Time:02 
 x 2019-09-09 Check Weight and enter https://rostrum.events/hertfordshire-open-2019/ 
-x 2019-09-09 Check reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2019-09-09 Check the next school time +EQT Time:03 
-x 2019-09-09 List of people to come to my birthday :) 
-x 2019-09-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
-x 2019-09-09 Remap project for the arch
-x 2019-09-09 Send something to the grandparent facebook group 
-x 2019-09-09 Volenteer once for parkrun - worth the experience. 
-x 2019-09-09 Weight self in BJJ suit 
-x 2019-09-09 share your gift policy on the social networks.  Time:05  @phone 
-x 2019-09-09 size and mount shoe rack
-x 2019-09-09 todo.txt should include nowrap 
-x 2019-09-09 Check that you have replied to all messages in Facebook
-x 2019-09-09 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-09-09 Send Trustees something nice about outcomes +EQT
-x 2019-09-09 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-09-09 Check ranking scripts +Overhead
+x 2019-09-09 Check reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-09-09 Check that you have replied to all messages in Facebook
 x 2019-09-09 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-09-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-09-09 Check the next school time +EQT Time:03 
+x 2019-09-09 Check £40 in Wallet +Overhead @nova  @phone 
+x 2019-09-09 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 x 2019-09-09 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-09-09 Cut nails +Health @nova  Time:04 
 x 2019-09-09 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-09-09 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-09-09 Download the amazon months sales figures +EQT
+x 2019-09-09 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-09-09 Empty physical inbox completely +Overhead @nova  Time:15 
 x 2019-09-09 Go though documents folder and put evrything you want to save in dropbox.
 x 2019-09-09 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 x 2019-09-09 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-09-09 Check £40 in Wallet +Overhead @nova  @phone 
-x 2019-09-09 Cut nails +Health @nova  Time:04 
-x 2019-09-09 Log weight +Health  Time:02 
-x 2019-09-09 Open list of projects to be funded +EQT
-x 2019-09-09 If back on sugar then start sugar project +Health
-x 2019-09-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2019-09-09 Make sure paper crane is in bathroom @nova @phone  Time:03 
-x 2019-09-09 Publicly thank someone +Overhead Time:15 
-x 2019-09-09 Trim nose hair +Health @nova  Time:05 
-x 2019-09-09 Empty house inbox completely +Overhead @nova  Time:15 
-x 2019-09-09 Empty physical inbox completely +Overhead @nova  Time:15 
 x 2019-09-09 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-09-09 fix joereddington.com/live by checking the current wordpress rewriting. 
-x 2019-09-09 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-09-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-09-09 Download the amazon months sales figures +EQT
+x 2019-09-09 If back on sugar then start sugar project +Health
+x 2019-09-09 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-09-09 List of people to come to my birthday :) 
+x 2019-09-09 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-09-09 Log into Amazon on Laptop. 
+x 2019-09-09 Log weight +Health  Time:02 
+x 2019-09-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-09-09 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2019-09-09 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-09-09 Open list of projects to be funded +EQT
+x 2019-09-09 Order the printing for mum. 
+x 2019-09-09 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-09-09 Publicly thank someone +Overhead Time:15 
+x 2019-09-09 Remap project for the arch
+x 2019-09-09 Review (days since) app counts +Overhead @nova @phone 
 x 2019-09-09 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-09-09 Save a nice family memory +Family @phone @nova  Time:03 
-x 2019-09-09 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-x 2019-09-09 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2019-09-09 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-x 2019-09-09 Log into Amazon on Laptop. 
-x 2019-09-09 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-x 2019-09-09 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-09-09 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-09-09 Send Trustees something nice about outcomes +EQT
+x 2019-09-09 Send something to the grandparent facebook group 
+x 2019-09-09 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-09-09 Trim nose hair +Health @nova  Time:05 
+x 2019-09-09 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 x 2019-09-09 Update the youtube watch list +Family Time:10 @phone @nova
-x 2019-09-09 Order the printing for mum. 
-x 2019-09-09 Review (days since) app counts +Overhead @nova @phone 
-x 2019-09-09 Check Amazon wishlist has the stuff on it you need 
+x 2019-09-09 Volenteer once for parkrun - worth the experience. 
+x 2019-09-09 Weight self in BJJ suit 
+x 2019-09-09 fix joereddington.com/live by checking the current wordpress rewriting. 
+x 2019-09-09 share your gift policy on the social networks.  Time:05  @phone 
+x 2019-09-09 size and mount shoe rack
+x 2019-09-09 todo.txt should include nowrap 
+x 2019-09-12 () Open and log progress on the bid status document +EQT Time:04
+x 2019-09-12 (A due:2019-10-01 um) Confirm mum visit while Kat away Time:05
+x 2019-09-12 (C due:2019-10-10 Kat) send message to Cooper family about meal Time:05 
+x 2019-09-12 10 deep Contacts on the contact list 
+x 2019-09-12 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ Time:06
+x 2019-09-12 Bring board pens up to office  Time:02
+x 2019-09-12 Buy 2019-2020 receipt book 
 x 2019-09-12 Buy another receipt book 
 x 2019-09-12 Buy the extra fastener for the car seat. 
 x 2019-09-12 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-09-12 Check if Luton Parkrun is getting pictures taken.
+x 2019-09-12 Check if there are any moonpig cards to send this month +Overhead Time:04
 x 2019-09-12 Check ranking scripts +Overhead
 x 2019-09-12 Check that you have replied to all messages in Facebook
 x 2019-09-12 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2019-09-12 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-09-12 Check wishlist
 x 2019-09-12 Check £40 in Wallet +Overhead @nova  @phone 
 x 2019-09-12 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-09-12 Talk to Kat about the christmas meal.
-x 2019-09-12 Post Moonpig cards  
-x 2019-09-12 todo.txt should include nowrap 
-x 2019-09-12 10 deep Contacts on the contact list 
-x 2019-09-12 Buy 2019-2020 receipt book 
+x 2019-09-12 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-09-12 Cut nails +Health @nova  Time:04 
+x 2019-09-12 Do Menu for the week +Family @nova @phone  Time:01 
 x 2019-09-12 Download the amazon months sales figures +EQT
+x 2019-09-12 Floss +Health @nova  Time:05
+x 2019-09-12 Get screwdriver for child car lock  @home Time:05
+x 2019-09-12 Give laptop screen a good clean +Overhead Time:04
 x 2019-09-12 Go though documents folder and put everything you want to save in dropbox.
+x 2019-09-12 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-09-12 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-09-12 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 x 2019-09-12 If back on sugar then start sugar project +Health
+x 2019-09-12 Log weight +Health  Time:02 
+x 2019-09-12 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-09-12 Look at the 'how often you see your parents' calendar for Nova 
 x 2019-09-12 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 x 2019-09-12 Make playdoh for Nova 
+x 2019-09-12 Make sure paper crane is in bathroom @nova @phone  Time:03 
 x 2019-09-12 Make workstation spotless +Overhead @nova  
 x 2019-09-12 Make workstation spotless +Overhead @nova  @home 
 x 2019-09-12 Map project to scan project board and add tasks to todo.txt 
 x 2019-09-12 Message Jenna about Cooper family meal
 x 2019-09-12 Message mum - I'm using my phone a lot less so worth checking she has Kat's number 
-x 2019-09-12 Smart plug for bubble machine @home
-x 2019-09-12 Volenteer once for parkrun. 
-x 2019-09-12 Work out the last time you changed your mind (and can you blog about it) +Overhead
-x 2019-09-12 Do Menu for the week +Family @nova @phone  Time:01 
-x 2019-09-12 Log weight +Health  Time:02 
-x 2019-09-12 Cut nails +Health @nova  Time:04 
-x 2019-09-12 (A due:2019-10-01 um) Confirm mum visit while Kat away Time:05
-x 2019-09-12 (C due:2019-10-10 Kat) send message to Cooper family about meal Time:05 
-x 2019-09-12 share your gift policy on the social networks.  Time:05  @phone 
-x 2019-09-12 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2019-09-12 Go through Walking Meeting with Kat +Family Time:180  
-x 2019-09-12 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-09-12 Message the people who responded to your streaming thing with an ask. 
-x 2019-09-12 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ Time:06
-x 2019-09-12 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2019-09-12 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2019-09-12 () Open and log progress on the bid status document +EQT Time:04
-x 2019-09-12 Make sure paper crane is in bathroom @nova @phone  Time:03 
-x 2019-09-12 Bring board pens up to office  Time:02
-x 2019-09-12 Check if there are any moonpig cards to send this month +Overhead Time:04
-x 2019-09-12 Floss +Health @nova  Time:05
-x 2019-09-12 Get screwdriver for child car lock  @home Time:05
-x 2019-09-12 Give laptop screen a good clean +Overhead Time:04
-x 2019-09-12 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-09-12 Post Moonpig cards  
 x 2019-09-12 Remove small saucepan from rack @home Time:05
+x 2019-09-12 Smart plug for bubble machine @home
 x 2019-09-12 TSE +Health Time:04 
 x 2019-09-12 Take board pens up to office @home Time:02
 x 2019-09-12 Take pillowcase to garage for judo kit @home Time:02
+x 2019-09-12 Talk to Kat about the christmas meal.
 x 2019-09-12 Throw out the cerment weight you made @home Time:03
-x (D Kat) Break up the old fence panel @home Time:10
-x (D Kat) Check drawers for Mark's Present for Post Time:10
+x 2019-09-12 Volenteer once for parkrun. 
+x 2019-09-12 Work out the last time you changed your mind (and can you blog about it) +Overhead
 x 2019-09-12 Write down the list of foods in the fridge in the red notebook Time:06
-x 2019-09-17 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
+x 2019-09-12 share your gift policy on the social networks.  Time:05  @phone 
+x 2019-09-12 todo.txt should include nowrap 
 x 2019-09-16 (C Kat) call hitchen to see chickenpox vaxine @phone Time:05 
 x 2019-09-16 (D Kat) Brainstorm the correct way to do packing lists  Time:10
 x 2019-09-16 Brainstorm on improving thoughput of boxes Time:10
 x 2019-09-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-09-16 Request Dreamhost backup +EQT Time:10
+x 2019-09-17 (A due:2019-09-12 unknown) Check notebooks for tasks @singleton +PlanningAndTracking Time:10
+x 2019-09-17 (B, Mum, Steph) Make standing orders for Richard rent. 
+x 2019-09-17 Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
+x 2019-09-17 Review your highlights and notes from Kindle books +Overhead Time:20
+x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:15
+x 2019-09-17 Watch Lightroom lectures - the language is what matters 
+x 2019-09-17 change razor blade Time:03  date:2019-07-08
 x 2019-09-19 Read https://en.wikipedia.org/wiki/List_of_Elementary_episodes#Season_5_(2016%E2%80%9317)
 x 2019-09-21 (C Family due:2019-09-31) put some camera lenses on Camera Jungle Camera Jungle 
 x 2019-09-21 (C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -1885,44 +1639,60 @@ x 2019-09-21 1. Looking for urgent: @singleton +PlanningAndTracking Time:20
 x 2019-09-21 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-09-21 Ask Kat if she wants to replace front door
 x 2019-09-21 Ask Kat if we've got the quote from the guy
+x 2019-09-21 Ask for testimonal from completed Comic Relif 
+x 2019-09-21 Badger RSC
 x 2019-09-21 Charge bed light
+x 2019-09-21 Check Desktop Tracker is working +Overhead @nova  Time:02 
 x 2019-09-21 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-09-21 Check ranking scripts +Overhead
 x 2019-09-21 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-09-21 Check wishlist
 x 2019-09-21 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2019-09-21 If back on sugar then start sugar project +Health
-x 2019-09-21 Listen to  Randy Pausch Talk +Overhead @phone 
-x 2019-09-21 Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
-x 2019-09-21 Map the escape room conference, what you want - what shots you want, what you want from the conference 
-x 2019-09-21 Packing list for day out. 
-x 2019-09-21 Put 'date night' on our couple board
-x 2019-09-21 Review all projects in github +Overhead Time: 
-x 2019-09-21 Review all projects in github +Overhead Time:20
-x 2019-09-21 Sort boxes
-x 2019-09-21 change razor blade Time:03 
-x 2019-09-21 change razor blade Time:03  date:2019-07-08
-x 2019-09-21 share your gift policy on the social networks.  Time:05  @phone 
-x 2019-09-21 Give Kat paper for packing list 
-x 2019-09-21 Review your highlights and notes from Kindle books +Overhead
-x 2019-09-21 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-09-21 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-09-21 Find sleep glasses 
 x 2019-09-21 Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
+x 2019-09-21 Give Kat paper for packing list 
 x 2019-09-21 Give laptop screen a good clean +Overhead
 x 2019-09-21 Go though documents folder and put everything you want to save in dropbox.
 x 2019-09-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-09-21 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-09-21 If back on sugar then start sugar project +Health
+x 2019-09-21 Listen to  Randy Pausch Talk +Overhead @phone 
+x 2019-09-21 Listen to  Randy Pausch Talk +Overhead @phone  Time:60 
 x 2019-09-21 Log weight +Health  Time:02 
 x 2019-09-21 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 x 2019-09-21 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-09-21 Map the escape room conference, what you want - what shots you want, what you want from the conference 
+x 2019-09-21 Packing list for day out. 
 x 2019-09-21 Publicly thank someone +Overhead Time:15 
-x 2019-09-21 Badger RSC
-x 2019-09-21 Watch Lightroom lectures - the language is what matters 
-x 2019-09-21 Write a list of family projects on the office whiteboard @home Time:10
-x 2019-09-21 Ask for testimonal from completed Comic Relif 
-x 2019-09-21 Check Desktop Tracker is working +Overhead @nova  Time:02 
-x 2019-09-21 Check ranking scripts +Overhead
-x 2019-09-21 Empty house inbox completely +Overhead @nova  Time:15 
-x 2019-09-21 Find sleep glasses 
-x 2019-09-21 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-09-21 Put 'date night' on our couple board
+x 2019-09-21 Review (days since) app counts +Overhead @nova @phone 
+x 2019-09-21 Review all projects in github +Overhead Time: 
+x 2019-09-21 Review all projects in github +Overhead Time:20
+x 2019-09-21 Review your highlights and notes from Kindle books +Overhead
 x 2019-09-21 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 x 2019-09-21 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-09-21 Sort boxes
 x 2019-09-21 TSE +Health Time:04 
 x 2019-09-21 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-09-21 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-09-21 Watch Lightroom lectures - the language is what matters 
+x 2019-09-21 Work out if Nova's Camera can record and how? 
+x 2019-09-21 Write a list of family projects on the office whiteboard @home Time:10
+x 2019-09-21 change razor blade Time:03 
+x 2019-09-21 change razor blade Time:03  date:2019-07-08
+x 2019-09-21 share your gift policy on the social networks.  Time:05  @phone 
+x 2019-09-22 (B, Mum, Steph) transfer money to the deposti scheme
+x 2019-09-22 Brainstorm a bunch of travel lists 
+x 2019-09-22 Buy new ikea boxes
+x 2019-09-22 Check if there are any moonpig cards to send this month +Overhead
+x 2019-09-22 Draw chalk on pavement outside with Nova 
+x 2019-09-22 Fix bulbs in kitchen Time:10
+x 2019-09-22 Follow up with little red about photography equipment
+x 2019-09-22 Get extension lead from garage for fridge charging station Time:02
+x 2019-09-22 Go through Walking Meeting with Kat +Family Time:180  
+x 2019-09-22 Lock phone away and drink 1L of Water @singleton +Health Time:03
+x 2019-09-22 Put SM(ST) into birthday list 
+x 2019-09-22 Use the aqua mat
+x 2019-09-22 Write list of 'making tomorrow amazing' 
+x j(E) Do Menu for the week +Family @nova @phone  Time:01  date:2019-07-01

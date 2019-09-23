@@ -1,15 +1,15 @@
 (A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
-(A) draft the email to the limb difference charities
-(B) Book tickets to Mozfest
-(A) fill out this form [200~https://www.shapehistory.com/history-shaper-christmas-special-2019/[201~
-(B) Send out calendar event 
 (A) Chase richard's expenses
-(A) Email Sarah about prisons.    
-(A) Write paragraph for yvonne and find references. 
+(A) Confirm timing for this podcast interview 
+(A) Write another paragraph for yvonne and find references. 
+(A) draft the email to the limb difference charities
+(A) fill out this form [200~https://www.shapehistory.com/history-shaper-christmas-special-2019/[201~
 (B Everybody) process email. 
 (B Trustees) Open and Brainstorm the vision for 2022 Time:10 
+(B) Book tickets to Mozfest
 (B) Map the Bookmachine conference - travel, what you want. 
 (B) Nail down date for helping with a stoke camp
+(B) Send out calendar event 
 (B) Sprint on the consulant recomendations 
 (C Coder) Watch and review https://drive.google.com/file/d/1Kk7tQXMPIkQemJDFkTLBRaoQIYnmHRHE/view @private Time:15
 (C Trustees) Read next chapter Financial Accounting book @private Time:60
@@ -23,7 +23,6 @@
 (C) Download dreamhost backup
 (C) Draft WWW advertisting post for main Fb account
 (C) Forward budgets to esther
-(C) Review all projects in github +Overhead Time:40  date:2019-07-08
 (C) Review all projects in github +Overhead Time:40  date:2019-07-08
 (C) Sprint on the blogging on the projects board - there's like nine things!
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
@@ -49,5 +48,3 @@
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
 (E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
-(E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
-x 2019-09-17 Search for funding for eQuality Time Projects +EQT Time:20
