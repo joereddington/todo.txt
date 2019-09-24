@@ -1,51 +1,35 @@
-(A Yvonne) Write another paragraph for SHINE Paper. @private
-(A) Send out calendar event for EQT meeting
-(A) fill out this form [200~https://www.shapehistory.com/history-shaper-christmas-special-2019/[201~
-(B Kat) Book ticket to Sunday of  Mozfest
-(B Kat) Map the Bookmachine conference - travel, what you want. 
-(B Richard) Nail down date for helping with a stoke camp
-(B Trustees) Open and Brainstorm the vision for 2022 Time:10 
-(B Trustees) Sprint on the consulant recomendations 
+(B Kat) Buy Sunday Ticket https://ti.to/Mozilla/mozilla-festival-2019/with/3dhaa9lrsg8  @private
+(B Kat) Map https://www.eventbrite.co.uk/e/bic-breakfast-september-2019-reach-out-achieving-discoverability-for-diverse-inclusive-books-tickets-70027150091
+(B Trustees) Open and Brainstorm the vision for 2022 Time:10 @private
+(B Trustees) Sprint on https://github.com/orgs/eQualityTime/projects/5
 (C Coder) Watch and review https://drive.google.com/file/d/1Kk7tQXMPIkQemJDFkTLBRaoQIYnmHRHE/view @private Time:15
 (C Trustees) Read next chapter Financial Accounting book @private Time:60
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
-(C Trustees) Use accountants list of debits and credits to redo the accounts in Quickbooks. @private Time:30 
-(C Trustees) pick and exam date and commit 
+(C Trustees) pick an exam date and commit 
 (C WWW people) Find out about Drawing stages 
+(C becuase it's an application form) write blog on 'how many benefitarios' 
 (C due:2019-09-25) Ask Kat about bookmachine event on thrusday 
 (C) Ask about WWW covers for Fb 
 (C) Blog and publishing audiobook from new vic cmap
 (C) Download dreamhost backup
 (C) Draft WWW advertisting post for main Fb account
-(C) Forward budgets to esther
 (C) Review all projects in github +Overhead Time:40  date:2019-07-08
 (C) Sprint on the blogging on the projects board - there's like nine things!
+(C) Update the news section here: [200~http://equalitytime.co.uk/about-equality-time/[201~
+(C) Write guide to approving payments for trustees
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
 (D Trustees) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s @private Time:60 
-(D) Do full accounts algorithm +EQT Time:99
 (D) Do full accounts algorithm +EQT Time:99 @private Time:60 
-(D) Film the "How to approve a payment in unity" YouTube video.   @private Time:30 
 (D) Put receipts into receipt book 
 (D) Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
 (E) Backup Dreamhost +EQT
-(E) Check the next school time +EQT Time:03 
-(E) Download the amazon months sales figures +EQT
 (E) Find out about vim files that are two formats (todo and md) 
 (E) Finnish the blog about this is rubbish on the equality time site. 
 (E) Fix vim paste issue in joepublic
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Investigate Fidelio Charitable Trust
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Move the bash_profile form mac to laptop
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Reorganise EQT folders in dropbox @private  Time:30
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
-(E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
-x 2019-09-23 (A due:2019-09-24) draft the email to the limb difference charities
-x 2019-09-23 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-09-24 (A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
