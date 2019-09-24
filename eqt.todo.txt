@@ -1,5 +1,4 @@
-(A Yvonne) Write another paragraph for SHINE Paper.
-(A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
+(A Yvonne) Write another paragraph for SHINE Paper. @private
 (A) Send out calendar event for EQT meeting
 (A) fill out this form [200~https://www.shapehistory.com/history-shaper-christmas-special-2019/[201~
 (B Kat) Book ticket to Sunday of  Mozfest
@@ -12,8 +11,8 @@
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 (C Trustees) Use accountants list of debits and credits to redo the accounts in Quickbooks. @private Time:30 
 (C Trustees) pick and exam date and commit 
-(E) Finnish the blog about this is rubbish on the equality time site. 
 (C WWW people) Find out about Drawing stages 
+(C due:2019-09-25) Ask Kat about bookmachine event on thrusday 
 (C) Ask about WWW covers for Fb 
 (C) Blog and publishing audiobook from new vic cmap
 (C) Download dreamhost backup
@@ -31,6 +30,9 @@
 (E) Backup Dreamhost +EQT
 (E) Check the next school time +EQT Time:03 
 (E) Download the amazon months sales figures +EQT
+(E) Find out about vim files that are two formats (todo and md) 
+(E) Finnish the blog about this is rubbish on the equality time site. 
+(E) Fix vim paste issue in joepublic
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Investigate Fidelio Charitable Trust
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
@@ -46,3 +48,4 @@
 (E) Send to LCK https://www.sctp.org.uk/government-launches-cyber-security-skills-immediate-impact-fund/
 x 2019-09-23 (A due:2019-09-24) draft the email to the limb difference charities
 x 2019-09-23 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-09-24 (A due:2019-10-01 Trustees, Funder) Sprint on SupCy.todo.txt 
