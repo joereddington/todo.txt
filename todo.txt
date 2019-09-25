@@ -1,5 +1,5 @@
-(A) Birthday video for sarah 
-(D Kat) clear out filing cabinet
+x 2019-09-25 Birthday video for sarah 
+(A) post this [200~https://www.facebook.com/joe.reddington/posts/10100786892609710[201~
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
@@ -12,10 +12,6 @@
 (B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
 (B, Mum, Steph) create the tenancy deposit scheme
 (C Family due:2019-09-31) put some camera lenses on Camera Jungle Camera Jungle 
-(C) Put luton vegan fair in calenadra 
-(D Kat) buy some new bulbs for kitchen
-(D Kat) Buy magnetic aga covers 
-(E) Post the lecture room sizes blog
 (C Kat) Finnish installing the door handles
 (C Startup guy) .Write first draft pitch deck Time:20 
 (C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
@@ -27,16 +23,19 @@
 (C) Give Kat £10 back
 (C) Put 'date night' on our couple board
 (C) Put 'date night' on our couple board Time:02
+(C) Put luton vegan fair in calenadra 
 (C) Send bathroom and loft dimentions to architect
 (C) Send something to the grandparent facebook group 
 (C, Kat) Move Camera in Nova room 
-(E) Weight Nova 
 (D Kat) Book Saturday bike fit https://www.pedalworks.co.uk/bike-fit/  Time:05 
+(D Kat) Buy magnetic aga covers 
 (D Kat) Cut out the new pictures for the keys @home Time:10
 (D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
 (D Kat) Edit the family photo for Kat Time:20
 (D Kat) Sprint on making calendar generation work so Kat can see sleep Time:60
 (D Kat) Take screensaver off Kindle Fire 
+(D Kat) buy some new bulbs for kitchen
+(D Kat) clear out filing cabinet
 (D) Brainstorm a bunch of travel lists 
 (D) Sprint blogging these: [200~https://github.com/joereddington/projects-public/issues[201~
 (E) 10 Contacts on the contact list 
@@ -76,6 +75,7 @@
 (E) Make workstation spotless +Overhead @nova  
 (E) Map project about making blog very low tech for 2020 (or indeed, 2019) 
 (E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
+(E) Post the lecture room sizes blog
 (E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
 (E) Process the external hard drive in the filing cabinate @home Time:30
 (E) Read more of the GIMP manual.  Time:30 date:2019-07-01
@@ -100,6 +100,7 @@
 (E) Try a rewriting-the-question brainstorm for something Time:10
 (E) Try seperating emails into multiple inbox 
 (E) Vitimin Tablet +Health @nova  Time:02
+(E) Weight Nova 
 (E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Write (or find) blog post and do  https://www.dropbox.com/home/teaching/TeachingPrizeEyeTest
 (E) Write Packing list for Camera bag 
