@@ -1,5 +1,3 @@
-x 2019-09-25 Birthday video for sarah 
-(A) post this [200~https://www.facebook.com/joe.reddington/posts/10100786892609710[201~
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
@@ -9,7 +7,7 @@ x 2019-09-25 Birthday video for sarah
 (B) Get a photo to make Moonpig card for all of the new birthdays at https://www.dropbox.com/home/BABY?select=Operation+House+of+Cards+for+Birthdays.xlsx Time:20 
 (B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
 (B, Mum, Steph) Make standing orders for Richard rent. 
-(B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
+x 2019-09-26 (B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
 (B, Mum, Steph) create the tenancy deposit scheme
 (C Family due:2019-09-31) put some camera lenses on Camera Jungle Camera Jungle 
 (C Kat) Finnish installing the door handles
@@ -111,3 +109,5 @@ x 2019-09-25 Birthday video for sarah
 (E) change razor blade Time:03 
 (E) change razor blade Time:03  date:2019-07-08
 (E) share your gift policy on the social networks.  Time:05  @phone 
+x 2019-09-25 Birthday video for sarah 
+x 2019-09-26 post this [200~https://www.facebook.com/joe.reddington/posts/10100786892609710[201~
