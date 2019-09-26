@@ -1,42 +1,24 @@
-(B Trustees) Create next meeting addenda and include 'Formal delegation of budget responsibility' https://github.com/eQualityTime/Finance-project-issues/issues/20  +EQT
-(B Trustees) Search github for the old risk management policy and see how it applies to the organisation as a whole  +EQT
-(B Trustees) Create Payment system document - Include in payment system that you (joe) only add a payment if it has been approved by yourself.  +EQT
-(A) Find the missing amazon payment of £20.97 
-x (B Trustees) Quickbooks - rewrite quickbooks regualr mail so that it is actually the start of the newsletter  +EQT
-(B Trustees) Sprint writing https://github.com/eQualityTime/Finance-project-issues/issues/20
-(B Trustees) Vision document should have a heading 'Financing strategy'  +EQT
-(B Trustees) Open Quickbooks and find out what 50% of annual spending was https://github.com/eQualityTime/Finance-project-issues/issues/18  +EQT
-(C Trustees) Read next chapter Financial Accounting book @private Time:60
-(C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
-(C) Ask about WWW covers on FB 
-(C) Blog and publishing audiobook from new vic cmap
-(C) Download dreamhost backup
-(C) Draft WWW advertisting post for main Fb account
-(C) Review all projects in github +Overhead Time:40  date:2019-07-08
-(C) Sprint on the blogging on the projects board - there's like nine things!
-(C) Update the news section here: [200~http://equalitytime.co.uk/about-equality-time/[201~
-(C) Write guide to approving payments for trustees
+(A) Find the missing amazon payment of £20.97 form https://www.amazon.co.uk/b2b/invoices?groupId=AGKQCAZ2R88LE&ref_=b2b_inv_wdg_yi 
+(B Trustees) Review https://github.com/eQualityTime/Public/issues/47 and see how the policy applies to the organisation as a whole 
+(C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60
+(C Trustees) Update Quickbooks Assets to (384 in ye 2017, 98 in ye 2018 at 33%) (and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
+(C) Blog the organisational budget
+(C) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup 
+(C) Process social media calendar and write up posts
+(C) Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
+(C) Write blog to go with http://equalitytime.co.uk/media/
+(C) Write guide to approving payments for trustees in https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
-(D Trustees) Read next chapter Financial Accounting book @private Time:60
-(D Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
+(D Trustees) Map ACCA qualification in github project board 
 (D Trustees) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s @private Time:60 
-(D Trustees) pick an exam date and commit 
-(D) Blog annual budget use the text from newsletter in email 
-(D) Do full accounts algorithm +EQT Time:99 @private Time:60 
-(D) Draft 'go-nogo' policy 
+(D) Finnish the blog about this is rubbish on the equality time site. 
 (D) Get other receipt book from loft - Put receipts into receipt book 
-(D) Look in policies for procurment policy... thought we had one. 
-(D) Make a list of the finance tasks that need to be done monthly/quaterly and setup calendar events 
-(D) Put receipts into receipt book 
-(D) Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
-(E) Backup Dreamhost +EQT
-(E) Find out about vim files that are two formats (todo and md) 
-(E) Finnish the blog about this is rubbish on the equality time site. 
-(E) Fix vim paste issue in joepublic
-(E) Investigate Fidelio Charitable Trust
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
-(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-(E) Move the bash_profile form mac to laptop
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Reorganise EQT folders in dropbox @private  Time:30
-(E) Send Trustees something nice about outcomes +EQT
+(D) Make a list of the finance tasks that need to be done monthly/quaterly from here: https://github.com/eQualityTime/Public/issues/82 and setup calendar events 
+(D) Rewrite the organisational budget post on eQuality Time website 
+(D) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private Time:60 
+(D) Write blog/policy on 'how do we formally decide if this funding bid is right for us' 
+(D) Write short procurment policy and link it from the payments document 
+(E) Check that vim and macvim on fileless account have the same rc and do paste differently.  
+(E) Try this: https://vim.fandom.com/wiki/Different_syntax_highlighting_within_regions_of_a_file 
+(E) Update bash_profile on laptop
+(F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 

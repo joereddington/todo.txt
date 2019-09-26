@@ -164,3 +164,20 @@ x 2019-09-26 (B Trustees) Sprint on https://github.com/eQualityTime/Public/issue
 x 2019-09-26 (C Coder) Check Joases 
 x 2019-09-26 (C WWW people) Get book on Drawing stages that Bex recommended. 
 x 2019-09-26 Pack bag for Book Machine, include buisness cards and laptop 
+x (B Trustees) Quickbooks - rewrite quickbooks regualr mail so that it is actually the start of the newsletter  +EQT
+x 2019-09-26 Send Trustees something nice about outcomes +EQT
+x (B Trustees) Create Payment system document - Include in payment system that you (joe) only add a payment if it has been approved by yourself.  +EQT
+x (B Trustees) Create next meeting addenda and include 'Formal delegation of budget responsibility' https://github.com/eQualityTime/Finance-project-issues/issues/20  +EQT
+x (B Trustees) Open Quickbooks and find out what 50% of annual spending was https://github.com/eQualityTime/Finance-project-issues/issues/18  +EQT
+x (B Trustees) Sprint writing https://github.com/eQualityTime/Finance-project-issues/issues/20
+x (B Trustees) Vision document should have a heading 'Financing strategy'  +EQT
+x (C) Ask about WWW covers on FB 
+x (C) Update the news section here: http://equalitytime.co.uk/about-equality-time/
+x (D Trustees) Read next chapter Financial Accounting book @private Time:60
+x (D Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
+x (D) Review Amazon's pay by invoice page and see if any are outstanding. @private Time:15
+x (E) Backup Dreamhost +EQT
+x (E) Investigate Fidelio Charitable Trust
+x (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x (E) facebook page +EQT @nova @phone  Time:10 
