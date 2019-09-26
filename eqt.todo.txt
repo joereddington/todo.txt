@@ -1,5 +1,11 @@
-(B Trustees) Sprint on https://github.com/eQualityTime/Public/issues/82 
-(B Trustees) Sprint writing the vision for 2022
+x 2019-09-26 (B Trustees) Sprint on https://github.com/eQualityTime/Public/issues/82 
+(B Trustees) check reserves policy against https://github.com/eQualityTime/Finance-project-issues/issues/18  +EQT
+(B Trustees) Include in payment system that you (joe) only add a payment if it has been approved by yourself.  +EQT
+(B Trustees) Add 'Formal delegation of budget responsibility' deglates budget responsbility per https://github.com/eQualityTime/Finance-project-issues/issues/20  +EQT
+(B Trustees) Quickbooks - rewrite quickbooks regualr mail so that it is actually the start of the newsletter  +EQT
+(B Trustees) Vision document should have a heading 'Financing strategy'  +EQT
+(B Trustees) Find the old risk management policy and see how it applies to the organisation as a whole  +EQT
+(B Trustees) Sprint writing https://github.com/eQualityTime/Finance-project-issues/issues/20
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 x 2019-09-26 (C WWW people) Get book on Drawing stages that Bex recommended. 
 (C) Ask about WWW covers on FB 
