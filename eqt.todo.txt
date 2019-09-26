@@ -1,10 +1,11 @@
-(B Trustees) Add 'Formal delegation of budget responsibility' deglates budget responsbility per https://github.com/eQualityTime/Finance-project-issues/issues/20  +EQT
-(B Trustees) Find the old risk management policy and see how it applies to the organisation as a whole  +EQT
-(B Trustees) Include in payment system that you (joe) only add a payment if it has been approved by yourself.  +EQT
-(B Trustees) Quickbooks - rewrite quickbooks regualr mail so that it is actually the start of the newsletter  +EQT
+(B Trustees) Create next meeting addenda and include 'Formal delegation of budget responsibility' https://github.com/eQualityTime/Finance-project-issues/issues/20  +EQT
+(B Trustees) Search github for the old risk management policy and see how it applies to the organisation as a whole  +EQT
+(B Trustees) Create Payment system document - Include in payment system that you (joe) only add a payment if it has been approved by yourself.  +EQT
+(A) Find the missing amazon payment of £20.97 
+x (B Trustees) Quickbooks - rewrite quickbooks regualr mail so that it is actually the start of the newsletter  +EQT
 (B Trustees) Sprint writing https://github.com/eQualityTime/Finance-project-issues/issues/20
 (B Trustees) Vision document should have a heading 'Financing strategy'  +EQT
-(B Trustees) check reserves policy against https://github.com/eQualityTime/Finance-project-issues/issues/18  +EQT
+(B Trustees) Open Quickbooks and find out what 50% of annual spending was https://github.com/eQualityTime/Finance-project-issues/issues/18  +EQT
 (C Trustees) Read next chapter Financial Accounting book @private Time:60
 (C Trustees) Update Quickbooks Assets to match accountant and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 (C) Ask about WWW covers on FB 
