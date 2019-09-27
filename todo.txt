@@ -1,4 +1,5 @@
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
+(B) Send the photos and text to the artictect
 (C due:end of week) Send instructions and measurements to Architecture
 (B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
