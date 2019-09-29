@@ -1,10 +1,13 @@
-(A) Find the missing amazon payment of £20.97 form https://www.amazon.co.uk/b2b/invoices?groupId=AGKQCAZ2R88LE&ref_=b2b_inv_wdg_yi 
-(A) Do Doodle poll for agm 
 (A) Check if we invoiced Tolworth Girls School
-Produce Invoice for Keele
-Produce Invoice for Yvonne 
-Put up Technical Sheep
-(E) Search for funding for eQuality Time Projects +EQT Time:15
+(B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
+(E) Send Eleanor proper delegation email 
+(E) Clear out dropbox git folder again
+(D Prison) Write a blog post about Prison camp for sarah
+(D) Blog post about making sure all the eQuality Time informaiton is in the correct place if I die
+(E) Big brainstorm on Project work 
+(E) Brainstorm a weekly review 
+(A) Do Doodle poll for agm 
+(A) Find the missing amazon payment of £20.97 form https://www.amazon.co.uk/b2b/invoices?groupId=AGKQCAZ2R88LE&ref_=b2b_inv_wdg_yi 
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review https://github.com/eQualityTime/Public/issues/47 and see how the policy applies to the organisation as a whole 
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60
@@ -26,6 +29,10 @@ Put up Technical Sheep
 (D) Write blog/policy on 'how do we formally decide if this funding bid is right for us' 
 (D) Write short procurment policy and link it from the payments document 
 (E) Check that vim and macvim on fileless account have the same rc and do paste differently.  
+(E) Search for funding for eQuality Time Projects +EQT Time:15
 (E) Try this: https://vim.fandom.com/wiki/Different_syntax_highlighting_within_regions_of_a_file 
 (E) Update bash_profile on laptop
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
+Produce Invoice for Keele
+Produce Invoice for Yvonne 
+Put up Technical Sheep
