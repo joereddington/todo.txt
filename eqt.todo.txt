@@ -4,6 +4,8 @@
 Produce Invoice for Keele
 Produce Invoice for Yvonne 
 Put up Technical Sheep
+(E) Search for funding for eQuality Time Projects +EQT Time:15
+(B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review https://github.com/eQualityTime/Public/issues/47 and see how the policy applies to the organisation as a whole 
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60
 (C Trustees) Update Quickbooks Assets to (384 in ye 2017, 98 in ye 2018 at 33%) (and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
