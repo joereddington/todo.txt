@@ -1,15 +1,12 @@
 (A) Check if we invoiced Tolworth Girls School
-(B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
-(E) Send Eleanor proper delegation email 
-(E) Clear out dropbox git folder again
-(D Prison) Write a blog post about Prison camp for sarah
-(D) Blog post about making sure all the eQuality Time informaiton is in the correct place if I die
-(E) Big brainstorm on Project work 
-(E) Brainstorm a weekly review 
+
 (A) Do Doodle poll for agm 
 (A) Find the missing amazon payment of £20.97 form https://www.amazon.co.uk/b2b/invoices?groupId=AGKQCAZ2R88LE&ref_=b2b_inv_wdg_yi 
+(B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
+(C) Check train ticket prices for preston trip. 
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review https://github.com/eQualityTime/Public/issues/47 and see how the policy applies to the organisation as a whole 
+(B) Fix the EQT website 
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60
 (C Trustees) Update Quickbooks Assets to (384 in ye 2017, 98 in ye 2018 at 33%) (and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 (C) Blog the organisational budget
@@ -19,8 +16,10 @@
 (C) Write blog to go with http://equalitytime.co.uk/media/
 (C) Write guide to approving payments for trustees in https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory
+(D Prison) Write a blog post about Prison camp for sarah
 (D Trustees) Map ACCA qualification in github project board 
 (D Trustees) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s @private Time:60 
+(D) Blog post about making sure all the eQuality Time informaiton is in the correct place if I die
 (D) Finnish the blog about this is rubbish on the equality time site. 
 (D) Get other receipt book from loft - Put receipts into receipt book 
 (D) Make a list of the finance tasks that need to be done monthly/quaterly from here: https://github.com/eQualityTime/Public/issues/82 and setup calendar events 
@@ -28,11 +27,17 @@
 (D) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private Time:60 
 (D) Write blog/policy on 'how do we formally decide if this funding bid is right for us' 
 (D) Write short procurment policy and link it from the payments document 
+(E) Alias 'vim' to launch macvim (probably 'open') on desktop
+(E) Big brainstorm on Project work 
+(E) Brainstorm a weekly review 
 (E) Check that vim and macvim on fileless account have the same rc and do paste differently.  
+(E) Clear out dropbox git folder again
 (E) Search for funding for eQuality Time Projects +EQT Time:15
+(E) Send Eleanor proper delegation email 
 (E) Try this: https://vim.fandom.com/wiki/Different_syntax_highlighting_within_regions_of_a_file 
 (E) Update bash_profile on laptop
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
 Produce Invoice for Keele
 Produce Invoice for Yvonne 
 Put up Technical Sheep
+x 2019-10-01 Deal with NI Funding

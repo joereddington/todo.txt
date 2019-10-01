@@ -1,4 +1,6 @@
 (A Startup guy) Sprint on https://github.com/joereddington/Projects-Private/issues/128  Time:60
+(E) Fix iTunes payment method. 
+(E) Order new cards 
 (C Kat) get drill bits from gargage to finish installing the door handles Time:05
 (C Wikipedia) Thank the person who worked on the depth of field GA review Time:10
 (C, Kat) Get rawl plugs to move camera in Nova room Time:03
