@@ -1,116 +1,88 @@
-(B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
-(C due:end of week) Send instructions and measurements to Architecture
-(B Kat, Trustees ) Do full accounts algorithm +EQT Time:99
-(B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
-(B) Buy new ikea boxes
-(B) Create the proper issue for the Escape room 
-(B) Get a photo to make Moonpig card for all of the new birthdays (Oscar Astrid, Tommie) Time:20 
-(B) Get a photo to make Moonpig card for all of the new birthdays at https://www.dropbox.com/home/BABY?select=Operation+House+of+Cards+for+Birthdays.xlsx Time:20 
-(B) Map the escape room conference, what you want - what shots you want, what you want from the conference 
-(B, Mum, Steph) Make standing orders for Richard rent. 
-(B, Mum, Steph) create the tenancy deposit scheme
-(C Family due:2019-09-31) put some camera lenses on Camera Jungle Camera Jungle 
-(C Kat) Finnish installing the door handles
-(C Startup guy) .Write first draft pitch deck Time:20 
-(C Startup guy) Sprint on this project: https://github.com/joereddington/Projects-Private/issues/128 Time:60
-(C Wikipedia guy) Respond to Depbt of field GA review 
-(C due:2019-09-12 Expected ) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) CHeck with Rachel and Clarea bout birthday 
-(C) Give Kat cash back
-(C) Give Kat £10 back
-(C) Put 'date night' on our couple board
-(C) Put 'date night' on our couple board Time:02
-(C) Put luton vegan fair in calenadra 
-(C) Send bathroom and loft dimentions to architect
-(C) Send something to the grandparent facebook group 
-(C, Kat) Move Camera in Nova room 
-(D Kat) Book Saturday bike fit https://www.pedalworks.co.uk/bike-fit/  Time:05 
-(D Kat) Buy magnetic aga covers 
-(D Kat) Cut out the new pictures for the keys @home Time:10
-(D Kat) Draft list of events for next year for Kat: Three birthdays and missing years  Time:10
-(D Kat) Edit the family photo for Kat Time:20
-(D Kat) Sprint on making calendar generation work so Kat can see sleep Time:60
-(D Kat) Take screensaver off Kindle Fire 
-(D Kat) buy some new bulbs for kitchen
-(D Kat) clear out filing cabinet
-(D) Brainstorm a bunch of travel lists 
-(D) Sprint blogging these: [200~https://github.com/joereddington/projects-public/issues[201~
-(E) 10 Contacts on the contact list 
-(E) Add 'mouth guard' to BJJ list Time:02 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask Kat if she wants to replace front door
-(E) Ask Kat if we've got the quote from the guy
-(E) Ask for testimonal from completed fundings
-(E) Attach google calendar to the generated calendars 
-(E) Badger RSC
-(E) Brainstorm best way to store, mark, hang pillowcases Time:10
-(E) Brainstorm on YouTube use. Time:10 
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova  Time:20
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do some messages to luton vegans that have been posting good content 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family Time:10
-(E) Do the use by dates in the red book 
-(E) Edit photo for steph
-(E) Empty Kitchen Cupboard to Fix kitchen tap @home Time:35
-(E) Find out what make the neighbours lock is any buy Time:07
-(E) Find youtube video for the bike roof rack (didn't turn up :( )
-(E) Floss +Health @nova  Time:05
-(E) Floss +Health @nova  Time:05 date:2019-07-08
-(E) Follow up with little red about photography equipment
-(E) Get Kate some woodland creators https://www.ebay.co.uk/itm/Cute-Forest-Characters-Wall-Decals-Stickers-Animals-Tree-Nursery-Wall-Decoration/283497971640?hash=item4201cbbfb8:g:ckQAAOSwB6Bc69iv Time:04
-(E) Get new lock for Gargae 
-(E) Get proper crayons for Nova 
-(E) Get £40 out and put in Wallet +Overhead @nova  @phone 
-(E) Go through all desk drawers for bank cards 
-(E) Look At calendar and see where the missing blocks of time are
-(E) Look at your list of 'things that you respect' and compare it to how you spend your day. 
-(E) Make cauliflower rice several times 
-(E) Make playdoh for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe[201~ @home Time:30
-(E) Make workstation spotless +Overhead @nova  
-(E) Map project about making blog very low tech for 2020 (or indeed, 2019) 
-(E) Open joepublic account and download and edit the wikipedia files https://studio.youtube.com/channel/UC4DUmGMOWnrf4VH3kLw6P2A/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D Time:1000 date:2019-07-02
-(E) Post the lecture room sizes blog
-(E) Post to Sibling Facebook group @nova @phone  Time:06  date:2019-07-08
-(E) Process the external hard drive in the filing cabinate @home Time:30
-(E) Read more of the GIMP manual.  Time:30 date:2019-07-01
-(E) Redo the 'upstairs' sign
-(E) Review starred items in feeds +Overhead Time:20
-(E) Review the notebook list of instagram 'important things in my life' 
-(E) Review your highlights and notes from Kindle books +Overhead Time:20
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Search for funding for eQuality Time Projects +EQT Time:15
-(E) Send floor plan and measurements for architect Time:10 
-(E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
-(E) Setup IFFT to take photos of doorbell @home Time:15
+(A Startup guy) Sprint on https://github.com/joereddington/Projects-Private/issues/128  Time:60
+(A) Sort out that you have *three* expenses issues here: https://github.com/users/joereddington/projects/1 
+(A) Sprint on Air con project https://github.com/joereddington/Projects-Private/issues/129 
+(C due:2019-10-05) Message for Massage apointment Time:03 https://github.com/joereddington/Projects-Private/issues/133
+(C) Message everybody you met on Thursday https://github.com/joereddington/Projects-Private/issues/128
+(C) Write thank you cards for Thursday Event https://github.com/joereddington/Projects-Private/issues/128 
+(D Kat) Find the family photo from Richard's house for Kat and edit it.  https://github.com/users/joereddington/projects/1#card-27368033
+(D Kat) Show Kat the list of events you'd like to do Time:10 https://github.com/joereddington/Projects-Private/issues/134
+(D Kat) get drill bits from gargage to finish installing the door handles Time:05 https://github.com/users/joereddington/projects/1#card-27368009
+(D Wikipedia) Thank the person who worked on the depth of field GA review Time:10 https://github.com/joereddington/Projects-Public/issues/15
+(D) Find out what make the neighbours lock is and buy Time:07
+(D) Fix car seat strap
+(D) Make list of dates of contact with builder - borrow Kat's phone Time:30 https://github.com/users/joereddington/projects/1#card-27368120
+(D) Search for upcoming vegan events in Luton and do a thread. https://github.com/joereddington/Projects-Private/issues/115
+(D) Sprint: Write blogs around these: https://github.com/joereddington/projects-public/issues Time:60 https://github.com/users/joereddington/projects/1#card-27368133
+(D, Kat) Get rawl plugs to move camera in Nova room Time:03 https://github.com/users/joereddington/projects/1#card-27368029
+(E) 10 Contacts on the contact list  Time:20 https://github.com/joereddington/Projects-Private/issues/125
+(E) Check Car MOT date and put in calendar 
+(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  https://github.com/users/joereddington/projects/1#card-27368157
+(E) Check the firebreak in: whatsapp and facebook and twitter. +Overhead Time:20 https://github.com/users/joereddington/projects/1#card-27368157 
+(E) Cut nails +Health @nova  Time:04  https://github.com/users/joereddington/projects/1#card-27368161
+(E) Do a 'sloganed' version of another listi nthe brainstorm book https://github.com/users/joereddington/projects/1#card-27368163 
+(E) Find a way of marking 'Wheel of life important' on the github priority lists 
+(E) Floss +Health @nova  Time:05 https://github.com/users/joereddington/projects/1#card-27369656
+(E) Floss +Health @nova  Time:05 https://github.com/users/joereddington/projects/1#card-27369656
+(E) Get out ingredients for this for Nova  https://www.bbcgoodfood.com/howto/guide/playdough-recipe~ @home Time:30 https://github.com/joereddington/Projects-Private/issues/82 
+(E) Google for the use by dates in the red book  https://github.com/joereddington/Projects-Private/issues/112 
+(E) Make house remodeling a seperate project and put bathroom in it. 
+(E) Map and brainstorm transparency https://github.com/joereddington/Projects-Private/issues/139 
+(E) Map https://github.com/joereddington/Projects-Public/issues/26
+(E) Process the external hard drive in the filing cabinate @home Time:30 https://github.com/users/joereddington/projects/1#card-27369850
+(E) Proper reverse brainstorm on talking/listening  https://github.com/joereddington/Projects-Private/issues/140 
+(E) Put Nova videos onto iPad https://github.com/joereddington/Projects-Private/issues/82 
+(E) Review JoKa meals  https://github.com/joereddington/Projects-Private/issues/112 
+(E) Review the notebook list of instagram 'important things in my life' https://github.com/joereddington/Projects-Private/issues/125  
+(E) Review your highlights and notes on Goodreads +Overhead Time:20 https://github.com/users/joereddington/projects/1#card-27369877 
+(E) Save a nice family memory +Family @phone @nova  Time:03  https://github.com/users/joereddington/projects/1#card-27369850 
+(E) See about making a gift for P https://github.com/joereddington/Projects-Private/issues/125 
+(E) Send Richard's address and facetime details to Julie - he's livig on his own and would love a call and particularly a vdieo    https://github.com/joereddington/Projects-Private/issues/138 
 (E) Show Kat the chapter in Sticky Ideas about Greenhousing Time:07
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20
-(E) Sprint on Air con project 
-(E) TSE +Health Time:04 
-(E) Take Vitamin Tablet +Health @nova  Time:02
-(E) Test rtsp viewing of camera with rtsp://X.X.X.X:554/onvif1
-(E) Test the answer on vim.stackexchange  Time:15 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Try a one-word brainstorm on something  Time:10
-(E) Try a rewriting-the-question brainstorm for something Time:10
-(E) Try seperating emails into multiple inbox 
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Weight Nova 
-(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
-(E) Write (or find) blog post and do  https://www.dropbox.com/home/teaching/TeachingPrizeEyeTest
-(E) Write Packing list for Camera bag 
-(E) Write a letter to Nova +Family Time:30  date:2019-07-01
-(E) Write a letter to Nova +Family Time:30  date:2019-07-08
-(E) Write a letter to Nova +Family Time:30 https://www.dropbox.com/home/BABY/Letters%20to%20Nova
-(E) Write a list of family projects on the office whiteboard @home Time:10
-(E) change razor blade Time:03 
-(E) change razor blade Time:03  date:2019-07-08
-(E) share your gift policy on the social networks.  Time:05  @phone 
-x 2019-09-25 Birthday video for sarah 
-x 2019-09-26 (B, Mum, Steph) Pay £585 to https://myaccount.depositprotection.com/#depositPayment/create/24836633
-x 2019-09-26 post this [200~https://www.facebook.com/joe.reddington/posts/10100786892609710[201~
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead Time:20 https://github.com/users/joereddington/projects/1#card-27376044 
+(E) Test Voice recognition on Fire TV using power from wall https://github.com/users/joereddington/projects/1#card-27376073
+(E) Test blogging/mapping posts in notebook https://github.com/users/joereddington/projects/1#card-27368163
+(E) Try forzen salad  https://github.com/joereddington/Projects-Private/issues/112
+(E) Weigh Nova  https://github.com/joereddington/Projects-Private/issues/82
+(E) Write (or find) blog post and do  https://www.dropbox.com/home/teaching/TeachingPrizeEyeTest https://github.com/joereddington/Projects-Private/issues/141
+(E) Write Packing list for Camera bag  https://github.com/users/joereddington/projects/2
+(E) Write a letter to Nova +Family Time:30  date:2019-07-01 https://github.com/joereddington/Projects-Private/issues/82
+(E) Write a letter to Nova +Family Time:30  date:2019-07-08 https://github.com/joereddington/Projects-Private/issues/112
+(E) Write a letter to Nova +Family Time:30 https://www.dropbox.com/home/BABY/Letters%20to%20Nova https://github.com/joereddington/Projects-Private/issues/112
+(E) Write a social media post about scheduled trips  https://github.com/joereddington/Projects-Private/issues/125
+(E) proper task for Nova 'thank you shoes' https://github.com/joereddington/Projects-Private/issues/82
+x (E) Review starred items in feeds +Overhead Time:20
+x (B) Move https://github.com/joereddington/Projects-Private/issues/106 to EQT project board
+x (B) Move https://github.com/joereddington/Projects-Private/issues/93 to EQT project board  
+x (B) Put bike rack on car and test 
+x (D Kat) Cut out the new pictures for the keys @home Time:10
+x (D Kat) Switch on screentime on Nova's iPad
+x (D Kat) Tighten the bolt on my bike seat 
+x (D Kat) Write 'Dirty nappy bag' on the nappy bag packing list  Time:02
+x (D Kat) clear out filing cabinet 
+x (D) Pack BJJ Pillowcase and store 
+x (E) Add 'mouth guard' to BJJ list Time:02 
+x (E) Add these calendars http://flow.joereddington.com/todo.txt/submodules/watson/calendars/ to Google Calendar
+x (E) Ask Kat for copy for exlectic bill to check when the electricy is cheap 
+x (E) Brainstorm on bringing back a longer term goal focus
+x (E) Check if we have accopy of tidying up by marie kondo
+x (E) Empty filing cabinet drawer into Ikea box Time:03
+x (E) Find YouTube video for changing bike back wheel. Time:04
+x (E) Find a way to invert this search: https://github.com/joereddington/Projects-Private/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Ajoereddington%2F1+ 
+x (E) Fix iTunes payment method. 
+x (E) Get piano out for Nova to play with. 
+x (E) Look at garage door and work out new lock
+x (E) Look at your list of 'things that you respect' and compare it to how you spend your day. 
+x (E) Make workstation spotless +Overhead @nova  
+x (E) Map project around musical queues and reinforcement 
+x (E) Message luton vegans that have been posting good content 
+x (E) Open the other bike rack box and check for instructions Time:05
+x (E) Order new cards 
+x (E) Redo the 'upstairs' sign
+x (E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
+x (E) Setup IFFT to take photos of doorbell @home Time:15
+x (E) Take photo of underneeth kitchen cupbaord to ask what tool I need
+x (E) Talk to Kat about visiting Sportsbank street
+x (E) Talk to Kat about wheel of life
+x (E) Tell Kat about Paper bag
+x (E) Test the answer on vim.stackexchange  Time:15 
+x (E) Withdraw balance from paypa
