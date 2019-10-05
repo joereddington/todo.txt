@@ -13,7 +13,6 @@
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60
 (C Trustees) Update Quickbooks Assets to (384 in ye 2017, 98 in ye 2018 at 33%) (and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
 (C) Blog the organisational budget
-(C) Check train ticket prices for preston trip. 
 (C) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup 
 (C) Process social media calendar and write up posts
 (C) Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
