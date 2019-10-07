@@ -181,3 +181,18 @@ x (E) Investigate Fidelio Charitable Trust
 x (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 x (E) facebook page +EQT @nova @phone  Time:10 
+x 2019-10-07 Check what clare said about the message 
+x 2019-10-07 EQT meeting adenda and folder 
+x 2019-10-07 Find the missing amazon payment of £20.97 from https://www.amazon.co.uk/b2b/invoices?groupId=AGKQCAZ2R88LE&ref_=b2b_inv_wdg_yi 
+x 2019-10-07 Get back to Danilla about call  
+x 2019-10-07 Put up Technical Sheep
+x 2019-10-07 Fix the EQT website 
+x 2019-10-07 Move https://github.com/joereddington/Projects-Private/issues/106 to EQT project board
+x 2019-10-07 (C Trustees) Update Quickbooks Assets to (384 in ye 2017, 98 in ye 2018 at 33%) (and add Mac Mini, Macbook, Windows Tablet, Insurance, Internet Subscriptions @private Time:60 
+x 2019-10-07 Blog the organisational budget
+x 2019-10-07 Lookup ways that multiple people can manage a filespace 
+x 2019-10-07 Process social media calendar and write up posts
+x 2019-10-07 Rewrite the organisational budget post on eQuality Time website 
+x 2019-10-07 Write guide to approving payments for trustees in https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
+x 2019-10-07 Big brainstorm on Project work 
+x 2019-10-07 Check that vim and macvim on fileless account have the same rc and do paste differently.  
