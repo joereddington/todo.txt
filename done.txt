@@ -1763,3 +1763,41 @@ x 2019-09-29 Edit photo o for steph
 x 2019-09-29 Make cauliflower rice several times 
 x 2019-09-29 Try a one-word brainstorm on something  Time:10
 x 2019-09-29 Try seperating emails into multiple inbox 
+x (E) Review starred items in feeds +Overhead Time:20
+x (B) Move https://github.com/joereddington/Projects-Private/issues/106 to EQT project board
+x (B) Move https://github.com/joereddington/Projects-Private/issues/93 to EQT project board  
+x (B) Put bike rack on car and test 
+x (D Kat) Cut out the new pictures for the keys @home Time:10
+x (D Kat) Switch on screentime on Nova's iPad
+x (D Kat) Tighten the bolt on my bike seat 
+x (D Kat) Write 'Dirty nappy bag' on the nappy bag packing list  Time:02
+x (D Kat) clear out filing cabinet 
+x (D) Pack BJJ Pillowcase and store 
+x (E) Add 'mouth guard' to BJJ list Time:02 
+x (E) Add these calendars http://flow.joereddington.com/todo.txt/submodules/watson/calendars/ to Google Calendar
+x (E) Ask Kat for copy for exlectic bill to check when the electricy is cheap 
+x (E) Brainstorm on bringing back a longer term goal focus
+x (E) Check if we have accopy of tidying up by marie kondo
+x (E) Empty filing cabinet drawer into Ikea box Time:03
+x (E) Find YouTube video for changing bike back wheel. Time:04
+x (E) Find a way to invert this search: https://github.com/joereddington/Projects-Private/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+project%3Ajoereddington%2F1+ 
+x (E) Fix iTunes payment method. 
+x (E) Get piano out for Nova to play with. 
+x (E) Look at garage door and work out new lock
+x (E) Look at your list of 'things that you respect' and compare it to how you spend your day. 
+x (E) Make workstation spotless +Overhead @nova  
+x (E) Map project around musical queues and reinforcement 
+x (E) Message luton vegans that have been posting good content 
+x (E) Open the other bike rack box and check for instructions Time:05
+x (E) Order new cards 
+x (E) Redo the 'upstairs' sign
+x (E) Send this to the BJJ guys https://www.istockphoto.com/gb/photos/multiple-exposure-fighters-fighting?sort=mostpopular&mediatype=photography&phrase=multiple%20exposure%20fighters%20fighting
+x (E) Setup IFFT to take photos of doorbell @home Time:15
+x (E) Take photo of underneeth kitchen cupbaord to ask what tool I need
+x (E) Talk to Kat about visiting Sportsbank street
+x (E) Talk to Kat about wheel of life
+x (E) Tell Kat about Paper bag
+x (E) Test the answer on vim.stackexchange  Time:15 
+x (E) Withdraw balance from paypa
+x 2019-10-05 Check Car MOT date and put in calendar 
+x 2019-10-05 Show Kat the chapter in Sticky Ideas about Greenhousing Time:07
