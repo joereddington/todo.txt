@@ -196,3 +196,9 @@ x 2019-10-07 Rewrite the organisational budget post on eQuality Time website
 x 2019-10-07 Write guide to approving payments for trustees in https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance 
 x 2019-10-07 Big brainstorm on Project work 
 x 2019-10-07 Check that vim and macvim on fileless account have the same rc and do paste differently.  
+x 2019-10-07 Draft blog to go with http://equalitytime.co.uk/media/
+x 2019-10-07 (D Trustees) Watch more Accounting videos in this series: https://www.youtube.com/watch?v=JX2cCNY9ceE&t=1262s @private Time:60 
+x 2019-10-07 Alias 'vim' to launch macvim (probably 'open') on desktop
+x 2019-10-07 Try this: https://vim.fandom.com/wiki/Different_syntax_highlighting_within_regions_of_a_file 
+x 2019-10-07 Get other receipt book from loft - Put receipts into receipt book 
+x 2019-10-07 Brainstorm a weekly review 
