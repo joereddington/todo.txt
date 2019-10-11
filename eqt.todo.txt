@@ -1,20 +1,23 @@
-(A) Put bike rack on car and test for UCLAN event https://github.com/eQualityTime/Public/issues/84
-(D Francesca) review https://knowhow.ncvo.org.uk/safeguarding/?_cldee=ZmJha2VyQGxpdmUuY28udWs%3d&recipientid=contact-755275a8154fe61181223863bb349ab8-7954a90696324ce7b2440043953b18b3&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Safeguarding&esid=76c762d9-dee9-e911-a812-000d3ab701f8 
+(A) Inform Trustees about NI funding 
+(A) Map project for Superhero Cyborg funding 
+(C) Map the automatic invoicing project - it's over an hour and I want to blog it 
 (A) Trace and fix bug for Arthur
-(E) Make the todo.txt readme work - it looks terrible 
-(A) Review slides for https://github.com/eQualityTime/Public/issues/84, using the Portsmouth ones as a starting point 
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 (B Kat, Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review https://github.com/eQualityTime/Public/issues/47 and see how the policy applies to the organisation as a whole 
 (B) Map transparency project for EQT from https://github.com/joereddington/Projects-Private/issues/93
 (B) Produce Invoice for Keele  https://github.com/orgs/eQualityTime/projects/4#card-27420141 
 (B) Produce Invoice for Yvonne  https://github.com/orgs/eQualityTime/projects/4#card-27420141 
+(B) Review notebooks for tasks 
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
 (C) Bring Quickbooks into sync with files prepared by accountant  https://github.com/orgs/eQualityTime/projects/4#card-27420186
 (C) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530
+(C) Map Plymouth project and find leaders 
+(C) Map project on making quickbooks match accounts 
 (C) Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640
+(D Francesca) review https://knowhow.ncvo.org.uk/safeguarding/?_cldee=ZmJha2VyQGxpdmUuY28udWs%3d&recipientid=contact-755275a8154fe61181223863bb349ab8-7954a90696324ce7b2440043953b18b3&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Safeguarding&esid=76c762d9-dee9-e911-a812-000d3ab701f8 
 (D Prison) Write a blog post about Prison camp for sarah https://github.com/orgs/eQualityTime/projects/4#card-27416538 
 (D Trustees) Map ACCA qualification in github project board 
 (D) Blog post about making sure all the eQuality Time informaiton is in the correct place if I die https://github.com/orgs/eQualityTime/projects/4#card-27416543
@@ -26,6 +29,7 @@
 (D) Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (E) Add equality time account to tweetdeck  https://github.com/orgs/eQualityTime/projects/4#card-27420067
 (E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530
+(E) Make the todo.txt readme work - it looks terrible 
 (E) Search for funding for eQuality Time Projects +EQT Time:15 https://github.com/orgs/eQualityTime/projects/4#card-27420616
 (E) Update bash_profile on laptop https://github.com/orgs/eQualityTime/projects/4#card-27420459
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530

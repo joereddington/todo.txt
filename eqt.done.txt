@@ -202,3 +202,5 @@ x 2019-10-07 Alias 'vim' to launch macvim (probably 'open') on desktop
 x 2019-10-07 Try this: https://vim.fandom.com/wiki/Different_syntax_highlighting_within_regions_of_a_file 
 x 2019-10-07 Get other receipt book from loft - Put receipts into receipt book 
 x 2019-10-07 Brainstorm a weekly review 
+x 2019-10-11 Put bike rack on car and test for UCLAN event https://github.com/eQualityTime/Public/issues/84
+x 2019-10-11 Review slides for https://github.com/eQualityTime/Public/issues/84, using the Portsmouth ones as a starting point 
