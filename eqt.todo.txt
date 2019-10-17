@@ -1,4 +1,5 @@
-(A) Inform Trustees about NI funding 
+x 2019-10-13 Inform Trustees about NI funding 
+(C) Fix the automatic invoices
 (A) Map project for Superhero Cyborg funding 
 (C) Map the automatic invoicing project - it's over an hour and I want to blog it 
 (A) Trace and fix bug for Arthur
