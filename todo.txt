@@ -1,6 +1,6 @@
 (B) Build and make good the rest of the Wheel of Life Time:40
+(B) Map project for tidy garage 
 (B) Rewrite pitch deck and send to D https://github.com/joereddington/projects-private/issues/128 Time:60
-(D Kat) Show Kat the list of events you'd like to do Time:10 https://github.com/joereddington/Projects-Private/issues/134
 (D) Sprint: Write blogs around these: https://github.com/joereddington/projects-public/issues Time:60 https://github.com/users/joereddington/projects/1#card-27368133
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10  https://github.com/users/joereddington/projects/1#card-27368157
 (E) Cut nails +Health @nova  Time:04  https://github.com/users/joereddington/projects/1#card-27368161 Time:05

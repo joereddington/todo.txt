@@ -1889,3 +1889,5 @@ x 2019-10-17 Test Voice recognition on Fire TV using power from wall https://git
 x 2019-10-17 10 Contacts on the contact list  Time:20 https://github.com/joereddington/Projects-Private/issues/125
 x 2019-10-17 Process the messages in Facebook messenger. +Overhead Time:20 https://github.com/users/joereddington/projects/1#card-27368157 
 x 2019-10-17 Review Personal Centred Plan  https://github.com/joereddington/Projects-Private/issues/152 Time:30
+x 2019-10-17 (D Kat) Show Kat the list of events you'd like to do Time:10 https://github.com/joereddington/Projects-Private/issues/134
+x 2019-10-17 Plan halve term holiday 
