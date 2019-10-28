@@ -1,3 +1,4 @@
+(A) Work out what happened to the invoice? 
 (A) Map project for Superhero Cyborg funding 
 (A) Trace and fix bug for Arthur
 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
