@@ -204,3 +204,18 @@ x 2019-10-07 Get other receipt book from loft - Put receipts into receipt book
 x 2019-10-07 Brainstorm a weekly review 
 x 2019-10-11 Put bike rack on car and test for UCLAN event https://github.com/eQualityTime/Public/issues/84
 x 2019-10-11 Review slides for https://github.com/eQualityTime/Public/issues/84, using the Portsmouth ones as a starting point 
+x 2019-10-29 Map the automatic invoicing project - it's over an hour and I want to blog it 
+x 2019-10-29 (D Francesca) review https://knowhow.ncvo.org.uk/safeguarding/?_cldee=ZmJha2VyQGxpdmUuY28udWs%3d&recipientid=contact-755275a8154fe61181223863bb349ab8-7954a90696324ce7b2440043953b18b3&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Safeguarding&esid=76c762d9-dee9-e911-a812-000d3ab701f8 
+x 2019-10-13 Inform Trustees about NI funding 
+x 2019-10-29 Fix the automatic invoices
+x 2019-10-29 Make the todo.txt readme work - it looks terrible 
+x 2019-10-29 Map project for Superhero Cyborg funding 
+x 2019-10-29 Produce Invoice for Keele  https://github.com/orgs/eQualityTime/projects/4#card-27420141 
+x 2019-10-29 Produce Invoice for Yvonne  https://github.com/orgs/eQualityTime/projects/4#card-27420141 
+x 2019-10-29 Write Eleanor proper delegation email  https://github.com/orgs/eQualityTime/projects/4#card-27420492
+x 2019-10-29 (D Prison) Write a blog post about Prison camp for sarah https://github.com/orgs/eQualityTime/projects/4#card-27416538 
+x 2019-10-29 Add equality time account to tweetdeck  https://github.com/orgs/eQualityTime/projects/4#card-27420067
+x 2019-10-30 Book the AGM at Gestalt https://github.com/orgs/eQualityTime/projects/4#card-28457069
+x 2019-10-31 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
+x 2019-10-31 Map Plymouth project and find leaders  https://github.com/orgs/eQualityTime/projects/4#card-28457126
+x 2019-10-31 Search for funding for eQuality Time Projects +EQT Time:15 https://github.com/orgs/eQualityTime/projects/4#card-27420616
