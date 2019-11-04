@@ -1,8 +1,4 @@
-(A) Create the meeting folder and review minutes 
-(C) Ping Hinchley wood for a camp 
-(E) Check out mail for good... 
-(E) Test the 'proper noun and number' note taking approach with speech or tv program
-(A) Sprint on: https://github.com/eQualityTime/Public/issues/89
+(A) Review meeting minutes in Dropbox. https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Minutes 
 (A) Trace and fix bug for Arthur
 (B Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review Rewrite https://github.com/eQualityTime/Public/files/2400893/Risk.Policy.v0-3.docx for an organisation 
@@ -14,8 +10,10 @@
 (C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
 (C) Add the new purchase order to Quickbooks: https://github.com/orgs/eQualityTime/projects/4#card-27420141 
 (C) Bring Quickbooks into sync with files prepared by accountant  https://github.com/orgs/eQualityTime/projects/4#card-27420186
+(C) Create a project for the Allen Lane Foudntion for Supertitle. Tell trustees  
 (C) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530
 (C) Map project on making quickbooks match accounts  https://github.com/orgs/eQualityTime/projects/4#card-27420186
+(C) Ping Hinchley wood for a camp 
 (C) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413 
 (C) Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640
@@ -28,5 +26,9 @@
 (D) Write blog/policy on 'how do we formally decide if this funding bid is right for us' https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (D) Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530
+(E) Test the 'proper noun and number' note taking approach with speech or tv program
 (E) Update bash_profile on laptop https://github.com/orgs/eQualityTime/projects/4#card-27420459
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
+x (A) Create the meeting folder and review minutes 
+x (A) Sprint on: https://github.com/eQualityTime/Public/issues/8
+x (E) Check out mail for good... 
