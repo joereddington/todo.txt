@@ -1,6 +1,8 @@
 [submodule "submodules/watson"]
 	path = submodules/watson
 	url = http://github.com/joereddington/watson
+        branch = master
 [submodule "submodules/igor"]
 	path = submodules/igor
 	url = https://github.com/joereddington/igor/
+        branch = master
