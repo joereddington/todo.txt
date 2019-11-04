@@ -1,5 +1,5 @@
 (A) Review meeting minutes in Dropbox. https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Minutes 
-(A) Trace and fix bug for Arthur
+(A) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131
 (B Trustees ) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
 (B Trustees) Review Rewrite https://github.com/eQualityTime/Public/files/2400893/Risk.Policy.v0-3.docx for an organisation 
 (B Trustees) Work out the millage claim on littlefinger 
