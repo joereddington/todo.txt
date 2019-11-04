@@ -1,5 +1,6 @@
 Add(read-add) graphs 
 Make dr_wat the main branch 
+Fix the igor update issue - the submodule turns up with a detched head and that's making it difficult to update - one option is that we remove the submodule and just have it cloned when needed 
 Practice using the script to put in the todo lists. 
 Remove watson from the submodules and have it cloned out with ./scripts/setup
 Watcher: include the commands used and the webpages visited.
