@@ -219,3 +219,22 @@ x 2019-10-30 Book the AGM at Gestalt https://github.com/orgs/eQualityTime/projec
 x 2019-10-31 (B Kat, Trustees ) .open littlefinger and import Natwest transactions https://github.com/joereddington/Projects-Private/issues/131 
 x 2019-10-31 Map Plymouth project and find leaders  https://github.com/orgs/eQualityTime/projects/4#card-28457126
 x 2019-10-31 Search for funding for eQuality Time Projects +EQT Time:15 https://github.com/orgs/eQualityTime/projects/4#card-27420616
+x (A) Create the meeting folder and review minutes 
+x (B) Map transparency project for EQT from https://github.com/joereddington/Projects-Private/issues/93
+x (B) Put the right dates into the calendar for the new software  https://github.com/orgs/eQualityTime/projects/4#card-28457413
+x (B) Review notebooks for tasks 
+x (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+x (D) Do full accounts algorithm +EQT Time:99
+x (E) Check out mail for good... 
+x (E) Check the next school time +EQT Time:03 
+x (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x (E) Open and log progress on the bid status document +EQT Time:04
+x (E) Open list of projects to be funded +EQT
+x (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-11-11 Send Trustees something nice about outcomes +EQT
+x 2019-11-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-11-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-11-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-11-11 Backup Dreamhost +EQT
+x 2019-11-11 Download the amazon months sales figures +EQT
+x 2019-11-11 Build the organisational wheel of life 
