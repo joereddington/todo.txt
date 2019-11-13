@@ -1,26 +1,26 @@
-(A) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131
-(A) Sprint on: https://github.com/eQualityTime/Public/issues/89
-(B Trustees) .Work out the millage claim on littlefinger https://github.com/joereddington/Projects-Private/issues/131
+(E) Map project for pitching Multi-academy trusts
+(D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
+(A) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530
+(A) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 @private (might leak existing ones) 
+(A) Sprint on: https://github.com/eQualityTime/Public/issues/89 @phone
+(B Trustees) .Work out the millage claim on littlefinger https://github.com/joereddington/Projects-Private/issues/131 @private
 (B Trustees) Review Rewrite https://github.com/eQualityTime/Public/files/2400893/Risk.Policy.v0-3.docx for an organisation 
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99
-(B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401
-(C Trustees) Schedule read next chapter Financial Accounting book for about 11am  @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
-(C) Add the new purchase order to Quickbooks: https://github.com/orgs/eQualityTime/projects/4#card-27420141 
-(C) Bring Quickbooks into sync with files prepared by accountant  https://github.com/orgs/eQualityTime/projects/4#card-27420186
-(C) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530
-(C) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413 
-(C) Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
-(D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640
-(D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
-(D) Blog post about making sure all the eQuality Time informaiton is in the correct place if I die https://github.com/orgs/eQualityTime/projects/4#card-27416543
+(B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413 
+(B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
+(C Trustees) read next chapter Financial Accounting book @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
+(D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640 @private
+(D) Go though allbooksever file and check that the relevent ones have been invoiced for. 
 (D) Make a list of the finance tasks that need to be done monthly/quaterly from here: https://github.com/eQualityTime/Public/issues/82 and setup calendar events 
-Reply Facebook messages, and check in with Richard
 (D) Redraft the blog about this is rubbish on equalitytime.co.uk https://github.com/orgs/eQualityTime/projects/4#card-17339051
-(D) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private Time:60 
-(D) Write blog/policy on 'how do we formally decide if this funding bid is right for us' https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (D) Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
-(E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530
-(E) Map project for pitching Multi-academy trusts
-(E) Search for funding for eQuality Time Projects +EQT
+(E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
 (E) Test the 'proper noun and number' note taking approach with speech or tv program
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
+(C) Get back to Holly and work out onboarding 
+x (C) Bring Quickbooks into sync with files prepared by accountant  https://github.com/orgs/eQualityTime/projects/4#card-27420186
+x 2019-11-12 Add the new purchase order to Quickbooks: https://github.com/orgs/eQualityTime/projects/4#card-27420141 
+x 2019-11-13 Blog post about making sure all the eQuality Time information is in the correct place if I die https://github.com/orgs/eQualityTime/projects/4#card-27416543
+x 2019-11-13 Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
+x 2019-11-13 Search for funding for eQuality Time Projects +EQT
+x 2019-11-13 Write blog/policy on 'how do we formally decide if this funding bid is right for us' https://github.com/orgs/eQualityTime/projects/4#card-25342291
