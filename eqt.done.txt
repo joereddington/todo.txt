@@ -238,3 +238,10 @@ x 2019-11-11 Ring up every funder currently funding you and be nice to them and 
 x 2019-11-11 Backup Dreamhost +EQT
 x 2019-11-11 Download the amazon months sales figures +EQT
 x 2019-11-11 Build the organisational wheel of life 
+x (C) Bring Quickbooks into sync with files prepared by accountant  https://github.com/orgs/eQualityTime/projects/4#card-27420186
+x (E) Map project for pitching Multi-academy trusts
+x 2019-11-12 Add the new purchase order to Quickbooks: https://github.com/orgs/eQualityTime/projects/4#card-27420141 
+x 2019-11-13 Blog post about making sure all the eQuality Time information is in the correct place if I die https://github.com/orgs/eQualityTime/projects/4#card-27416543
+x 2019-11-13 Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
+x 2019-11-13 Search for funding for eQuality Time Projects +EQT
+x 2019-11-13 Write blog/policy on 'how do we formally decide if this funding bid is right for us' https://github.com/orgs/eQualityTime/projects/4#card-25342291
