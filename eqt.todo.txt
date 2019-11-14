@@ -14,6 +14,6 @@
 (D) Redraft the blog about this is rubbish on equalitytime.co.uk https://github.com/orgs/eQualityTime/projects/4#card-17339051
 (D) Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
-(E) Test the 'proper noun and number' note taking approach with speech or tv program
+x (E) Test the 'proper noun and number' note taking approach with speech or tv program
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
 x (D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
