@@ -7,13 +7,15 @@
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 (C Trustees) read next chapter Financial Accounting book @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
-(C) Get back to Holly and work out onboarding 
+(C) Ring 07754 271 086 and get the accounting email for Glyn school. Then raise invoice and send  
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640 @private
-(D) Go though allbooksever file and check that the relevent ones have been invoiced for.  @private
+(D) Go though allbooksever file and check that the relevant ones have been invoiced for.  @private
 (D) Make a list of the finance tasks that need to be done monthly/quaterly from here: https://github.com/eQualityTime/Public/issues/82 and setup calendar events 
 (D) Redraft the blog about this is rubbish on equalitytime.co.uk https://github.com/orgs/eQualityTime/projects/4#card-17339051
 (D) Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
 (E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
-x (E) Test the 'proper noun and number' note taking approach with speech or tv program
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
+Investigate digital ocean for new sites 
 x (D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
+x (E) Test the 'proper noun and number' note taking approach with speech or tv program
+x 2019-11-15 Get back to Holly and work out onboarding 
