@@ -1,5 +1,9 @@
-(A) Lookup local therapists 
-(A) Phone Mark's Guy about the Air-Con
+x 2019-11-26 Lookup local therapists 
+(C) Push Igor to github 
+(C) Check the exact amount and date for buying out richard's house
+(D) Write up properly the Nova birthday event. 
+(A) Put weights and bench in the card for BJJ
+x 2019-11-24 Phone Mark's Guy about the Air-Con
 (B) Book dentsits/dental hygineise 
 (B) Build and make good the rest of the Wheel of Life Time:40
 (B) Rewrite pitch deck and send to D https://github.com/joereddington/projects-private/issues/128 Time:60
