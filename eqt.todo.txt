@@ -12,8 +12,6 @@
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 (C Trustees) read next chapter Financial Accounting book @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 3. Bring +EQT timesheet into balance @singleton Time:99
 (C) 3. Bring +EQT timesheet into balance @singleton Time:99
 (C) Make social media more about book sprints 
 (C) Ring 07754 271 086 and get the accounting email for Glyn school. Then raise invoice and send  
