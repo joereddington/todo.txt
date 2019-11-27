@@ -1,20 +1,21 @@
-(A) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
-(B) Reply by email to Voicemail 
 (A) Book Exam
+(A) Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
 (A) Read exam book
 (A) Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 @private (might leak existing ones) 
-(E) Make landing page for Equality Time 
-(E) Tell lyle about underdog 
-(C) Make social media more about book sprints 
 (A) Sprint on: https://github.com/eQualityTime/Public/issues/89 @phone
 (B Trustees) .Work out the millage claim on littlefinger https://github.com/joereddington/Projects-Private/issues/131 @private
 (B Trustees) Review Rewrite https://github.com/eQualityTime/Public/files/2400893/Risk.Policy.v0-3.docx for an organisation 
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
+(B) Contact people from the recovery event 
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
+(B) Reply by email to Voicemail 
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 (C Trustees) read next chapter Financial Accounting book @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 3. Bring +EQT timesheet into balance @singleton Time:99
+(C) 3. Bring +EQT timesheet into balance @singleton Time:99
+(C) Make social media more about book sprints 
 (C) Ring 07754 271 086 and get the accounting email for Glyn school. Then raise invoice and send  
 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640 @private
 (D) Do full accounts algorithm +EQT Time:99
@@ -28,12 +29,14 @@
 (E) Download the amazon months sales figures +EQT
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+(E) Make landing page for Equality Time 
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
+(E) Tell lyle about underdog 
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
 Investigate digital ocean for new sites 
 x (D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
