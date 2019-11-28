@@ -245,3 +245,26 @@ x 2019-11-13 Blog post about making sure all the eQuality Time information is in
 x 2019-11-13 Review all projects in github +EQT https://github.com/orgs/eQualityTime/projects/4  Time:40  date:2019-07-08
 x 2019-11-13 Search for funding for eQuality Time Projects +EQT
 x 2019-11-13 Write blog/policy on 'how do we formally decide if this funding bid is right for us' https://github.com/orgs/eQualityTime/projects/4#card-25342291
+x (B Trustees) Review Rewrite https://github.com/eQualityTime/Public/files/2400893/Risk.Policy.v0-3.docx for an organisation 
+x (C Trustees) read next chapter Financial Accounting book @private Time:60 https://github.com/orgs/eQualityTime/projects/4#card-27414655
+x (D Trustees) Map ACCA qualification in github project board https://github.com/orgs/eQualityTime/projects/4#card-27414655
+x (E) Test the 'proper noun and number' note taking approach with speech or tv program
+x 2019-11-15 Get back to Holly and work out onboarding 
+x 2019-11-27 (B Trustees) .Work out the millage claim on littlefinger https://github.com/joereddington/Projects-Private/issues/131 @private
+x 2019-11-27 3. Bring +EQT timesheet into balance @singleton Time:99
+x 2019-11-27 Backup Dreamhost +EQT
+x 2019-11-27 Book Exam
+x 2019-11-27 Check the next school time +EQT Time:03 
+x 2019-11-27 Do full accounts algorithm +EQT Time:99
+x 2019-11-27 Download the amazon months sales figures +EQT
+x 2019-11-27 Follow up with the two main people you met at the recovery event 
+x 2019-11-27 Get external drive and download dreamhost backup. https://panel.dreamhost.com/index.cgi?tree=billing.backup  https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
+x 2019-11-27 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2019-11-27 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-11-27 Open and log progress on the bid status document +EQT Time:04
+x 2019-11-27 Open list of projects to be funded +EQT
+x 2019-11-27 Redraft the blog about this is rubbish on equalitytime.co.uk https://github.com/orgs/eQualityTime/projects/4#card-17339051
+x 2019-11-27 Reply by email to Voicemail 
+x 2019-11-27 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2019-11-27 Send Trustees something nice about outcomes +EQT
+x 2019-11-27 Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 @private (might leak existing ones) 
