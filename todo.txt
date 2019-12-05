@@ -1,5 +1,6 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Lock phone away and drink 1L of Water @singleton +Health Time:03
 (A) Make sure all tasks are linked to their github project 
-Rubberduck clare to Work out solution to igor and github. 
 (A) Review all projects in github +Overhead Time: 
 (A) Review and rescore Wheel Of life https://www.dropbox.com/scl/fi/mbfiyttyb6paeqx0u4x38/Wheel-of-Life.xlsx
 (B) Get car cleaned https://github.com/users/joereddington/projects/5#card-30063564 
@@ -8,6 +9,7 @@ Rubberduck clare to Work out solution to igor and github.
 (B) Work out the work targets for wheel of life  https://github.com/joereddington/Projects-Private/issues/137 
 (B) Work out what's wrong with bike light https://github.com/users/joereddington/projects/5#card-30064047  
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 3. Bring work timesheet into balance @singleton Time:99
 (C) 3. Bring work timesheet into balance @singleton Time:99 github:WOL:Assets 
 (C) Get Kat special ornament for tree 
 (C) Get drill/screwdriver to properly screw in Novas butterfly bolt. https://github.com/joereddington/Projects-Private/issues/144
@@ -40,8 +42,10 @@ Rubberduck clare to Work out solution to igor and github.
 (E) Consider a custom-made notebook for Kat Christmas 
 (E) Cook the new proteint pasta 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Find out more about unbound 
+(E) Floss +Health @nova  Time:05
 (E) Floss +Health @nova  Time:05 https://github.com/users/joereddington/projects/1#card-27369656 Time:03
 (E) Get some of those bbq starter charcoal THINGs 
 (E) Give laptop screen a good clean +Overhead
@@ -50,19 +54,25 @@ Rubberduck clare to Work out solution to igor and github.
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make workstation spotless +Overhead @nova  
+(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Review all projects in github +Overhead Time: 
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Talk to Kat about paper crane 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Vitimin Tablet +Health @nova  Time:02
 (E) Work out the last time you changed your mind (and can you blog about it) +Overhead
 (E) Work out the rough number of valid projects based on blogging  
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
+Rubberduck clare to Work out solution to igor and github. 
 x 2019-12-03 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 x 2019-12-03 Check £40 in Wallet +Overhead @nova  @phone 
 x 2019-12-03 Confirm plans for next two weekends.+Overhead @phone  Time:06 

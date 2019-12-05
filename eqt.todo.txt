@@ -1,9 +1,9 @@
-(A) Put all the payments in the bank
-(A) Write the adenda for EQT meeting 
 (A) Do the ACCA ethics module
 (A) Email the trustees with everything they need   
-(A) Write the stratergy document 
 (A) Phone the rest of the organisations at https://github.com/eQualityTime/Public/issues/89 @phone
+(A) Put all the payments in the bank
+(A) Write the adenda for EQT meeting 
+(A) Write the stratergy document 
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
 (B) Put on the AGM list of topics 'what management accounts do trustees want' 
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
