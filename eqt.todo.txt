@@ -1,8 +1,6 @@
 (A) Phone the rest of the organisations at https://github.com/eQualityTime/Public/issues/89 @phone
-(A) Write the strategic document 
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
 (B) Order printing for EQT meeting 
-(B) Put on the AGM list of topics 'what management accounts do trustees want' 
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 (B) Write gdrive/everpad transfer code
@@ -20,7 +18,6 @@
 (E) Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
 (E) Investigate digital ocean for new sites 
 (E) Make landing page for Equality Time 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Setup public key for logging into joereddington.com and WWW servers 
 (E) Tell lyle about underdog 
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private

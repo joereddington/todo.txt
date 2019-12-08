@@ -278,3 +278,6 @@ x 2019-12-08 Find out more about unbound
 x 2019-12-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
 x 2019-12-08 Open and log progress on the bid status document +EQT Time:04
 x 2019-12-08 Search for funding for eQuality Time Projects +EQT
+x 2019-12-08 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-12-08 Put on the AGM list of topics 'what management accounts do trustees want' 
+x 2019-12-08 Write the strategic document 
