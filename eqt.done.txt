@@ -270,3 +270,11 @@ x 2019-11-27 Send Trustees something nice about outcomes +EQT
 x 2019-11-27 Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 @private (might leak existing ones) 
 x 2019-12-03 Read Study Text for ACCA Finantial Accounting Exam https://github.com/joereddington/Projects-Private/issues/106 @private 
 x 2019-12-05 Do the ACCA ethics module
+x 2019-12-08 Email the trustees with everything they need   
+x 2019-12-08 Put all the payments in the bank
+x 2019-12-08 Write the adenda for EQT meeting 
+x 2019-12-08 Check the next school time +EQT Time:03 
+x 2019-12-08 Find out more about unbound 
+x 2019-12-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2019-12-08 Open and log progress on the bid status document +EQT Time:04
+x 2019-12-08 Search for funding for eQuality Time Projects +EQT
