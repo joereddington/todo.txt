@@ -268,3 +268,5 @@ x 2019-11-27 Reply by email to Voicemail
 x 2019-11-27 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2019-11-27 Send Trustees something nice about outcomes +EQT
 x 2019-11-27 Sprint on https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 @private (might leak existing ones) 
+x 2019-12-03 Read Study Text for ACCA Finantial Accounting Exam https://github.com/joereddington/Projects-Private/issues/106 @private 
+x 2019-12-05 Do the ACCA ethics module

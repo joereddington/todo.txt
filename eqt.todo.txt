@@ -1,4 +1,3 @@
-(A) Do the ACCA ethics module
 (A) Email the trustees with everything they need   
 (A) Phone the rest of the organisations at https://github.com/eQualityTime/Public/issues/89 @phone
 (A) Put all the payments in the bank
@@ -30,4 +29,3 @@
 (E) Setup public key for logging into joereddington.com and WWW servers 
 (E) Tell lyle about underdog 
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
-x 2019-12-03 Read Study Text for ACCA Finantial Accounting Exam https://github.com/joereddington/Projects-Private/issues/106 @private 
