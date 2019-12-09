@@ -2,7 +2,9 @@
 cd "$(dirname "$0")"
 cd .. 
 git log > history.md
-git log | grep EQT > eqt.txt 
+echo "<ul>" > eqt.html
+git log | grep +EQT | sed 's/^/<li>/g'  >> eqt.html 
+echo "</ul>" >> eqt.html
 cd submodules/watson
 ./watson ../../history.md
 cd ../..

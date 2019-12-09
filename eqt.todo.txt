@@ -3,7 +3,7 @@
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
-(B) Write gdrive/everpad transfer code
+(B) more sprint on https://github.com/eQualityTime/Public/issues/96
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Brainstorm making social media more about book sprints  @private
 (C) Call Yvonne 
