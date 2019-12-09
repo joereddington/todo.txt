@@ -1,10 +1,9 @@
+(A) Order printing for EQT meeting 
 (A) Phone the rest of the organisations at https://github.com/eQualityTime/Public/issues/89 @phone
 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
-(B) Order printing for EQT meeting 
 (B) Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
 (B) Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 (B) Write gdrive/everpad transfer code
-(B) Write up a 'is eQuality Time successful' 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Brainstorm making social media more about book sprints  @private
 (C) Call Yvonne 
@@ -21,5 +20,8 @@
 (E) Make landing page for Equality Time 
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Setup public key for logging into joereddington.com and WWW servers 
+(E) Save the IMPS2 Code somewhere
 (E) Tell lyle about underdog 
 (F) Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
+x 2019-12-09 Make sure all tasks are linked to their github project https://github.com/joereddington/Projects-Private/issues/137
+x 2019-12-09 Write up a 'is eQuality Time successful' 
