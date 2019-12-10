@@ -3,12 +3,12 @@
 (A) Make sure all tasks are linked to their github project https://github.com/joereddington/Projects-Private/issues/137
 (A) Review and restore Wheel Of life
 (A) Take amzaon return to the shop 
-(A) Claim all the expenses 
-(B) Call halifax about Kat phone 
+(A) Claim all the expenses +EQT
+(B) Activate Kat credit card 
 (B) Work out the work targets for wheel of life  https://github.com/joereddington/Projects-Private/issues/137 
 (B) Work out what's wrong with bike light https://github.com/users/joereddington/projects/5#card-30064047  
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2019-12-10 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-12-10 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Go though https://www.dropbox.com/preview/Houses/68%20Truro%20gardens/architects/bathroom/Bathroom%20planning.xlsx?role=personal with cataglogues and give feedback (also take photos and send to Lili with other instructions)   Github:https://github.com/users/joereddington/projects/5#card-30280099 
 (C) Make Eva Moonpig card https://github.com/users/joereddington/projects/5#column-6773921
 (C) Properly work out the Partner and child targets for Wheel of life (eliminating bad food habits is a good one)  https://github.com/joereddington/Projects-Private/issues/107 
