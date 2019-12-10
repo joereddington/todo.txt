@@ -1,10 +1,9 @@
-x 2019-12-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) 1. drink 1L of Water @singleton +Health Time:03
-(A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+(A) Rewrite the startup slides
 (A) Find youtube video about restoring old photos on Darktable https://github.com/users/joereddington/projects/5#card-30280466
 (A) Make sure all tasks are linked to their github project https://github.com/joereddington/Projects-Private/issues/137
 (A) Review and restore Wheel Of life
 (A) Take amzaon return to the shop 
+(A) Claim all the expenses 
 (B) Call halifax about Kat phone 
 (B) Work out the work targets for wheel of life  https://github.com/joereddington/Projects-Private/issues/137 
 (B) Work out what's wrong with bike light https://github.com/users/joereddington/projects/5#card-30064047  
@@ -57,3 +56,7 @@ x 2019-12-09 1. Looking for urgent: Check Calendar and reminders and notebooks  
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
+x 2019-12-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-10 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2019-12-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-10 1. drink 1L of Water @singleton +Health Time:03
