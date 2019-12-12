@@ -2050,3 +2050,10 @@ x 2019-12-08 Go though documents folder and put everything you want to save in d
 x 2019-12-08 Put new monitor in downstaris 
 x 2019-12-08 Return Phone to HDMI *thing* 
 x 2019-12-08 Check ranking scripts +Overhead
+x 2019-12-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-10 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2019-12-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-10 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-12-10 1. drink 1L of Water @singleton +Health Time:03
+x 2019-12-10 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2019-12-11 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 

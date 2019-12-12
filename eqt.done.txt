@@ -281,3 +281,32 @@ x 2019-12-08 Search for funding for eQuality Time Projects +EQT
 x 2019-12-08 Post to WWW facebook page +EQT @nova @phone  Time:10 
 x 2019-12-08 Put on the AGM list of topics 'what management accounts do trustees want' 
 x 2019-12-08 Write the strategic document 
+x 2019-12-11 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-12-09 Make sure all tasks are linked to their github project https://github.com/joereddington/Projects-Private/issues/137
+x 2019-12-09 Write up a 'is eQuality Time successful' 
+x 2019-12-10 (B Trustees) Sprint on https://github.com/joereddington/Projects-Private/issues/131 +EQT Time:99 @private
+x 2019-12-10 (D Alex) Process Alex's files (https://mail.google.com/mail/u/0/#inbox/QgrcJHsTjVPVglwXtpsDNmzxPsKKchZQXlG)  +EQT +OpenVoiceFactory https://github.com/orgs/eQualityTime/projects/4#card-27420640 @private
+x 2019-12-10 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-12-10 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-12-10 Brainstorm making social media more about book sprints  @private
+x 2019-12-10 Call Yvonne 
+x 2019-12-10 Check https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 from kat laptop
+x 2019-12-10 Check the next school time +EQT Time:03 
+x 2019-12-10 Clear out dropbox git folder again https://github.com/orgs/eQualityTime/projects/4#card-27416530 @private
+x 2019-12-10 Do full accounts algorithm +EQT Time:99
+x 2019-12-10 Go though allbooksever file and check that the relevant ones have been invoiced for.  @private
+x 2019-12-10 Investigate digital ocean for new sites 
+x 2019-12-10 Make a list of the finance tasks that need to be done monthly/quaterly from here: https://github.com/eQualityTime/Public/issues/82 and setup calendar events 
+x 2019-12-10 Make landing page for Equality Time 
+x 2019-12-10 Order printing for EQT meeting 
+x 2019-12-10 Phone the rest of the organisations at https://github.com/eQualityTime/Public/issues/89 @phone
+x 2019-12-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-12-10 Reorganise This EQT folder: https://www.dropbox.com/home/eQuality%20Time/TrusteesOnly/Finance  https://github.com/orgs/eQualityTime/projects/4#card-27416530AJKJKJJ @private
+x 2019-12-10 Reply Joas  https://github.com/orgs/eQualityTime/projects/4#card-28457413  @private
+x 2019-12-10 Ring 07754 271 086 and get the accounting email for Glyn school. Then raise invoice and send   @private
+x 2019-12-10 Save the IMPS2 Code somewhere
+x 2019-12-10 Setup public key for logging into joereddington.com and WWW servers 
+x 2019-12-10 Tell lyle about underdog 
+x 2019-12-10 Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
+x 2019-12-10 Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
+x 2019-12-10 more sprint on https://github.com/eQualityTime/Public/issues/96
