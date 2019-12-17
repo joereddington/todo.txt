@@ -2057,3 +2057,84 @@ x 2019-12-10 1. Process Email @singleton +Overhead @phone  Time:90
 x 2019-12-10 1. drink 1L of Water @singleton +Health Time:03
 x 2019-12-10 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 x 2019-12-11 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2019-12-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-11 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2019-12-11 Brainstorm clothes system
+x 2019-12-11 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-12-11 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-12-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-12-11 Cut nails +Health @nova  Time:04 
+x 2019-12-11 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-12-11 Empty house inbox completely +Overhead @nova  Time:15 
+x 2019-12-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-12-11 Log weight +Health  Time:02 
+x 2019-12-11 Login to feedly Review starred items in feeds +Overhead
+x 2019-12-11 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-12-11 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-12-11 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-12-11 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-12-11 Publicly thank someone +Overhead Time:15 
+x 2019-12-11 Tidy Garage https://github.com/users/joereddington/projects/5#card-30063753  
+x 2019-12-11 Write out the 'so you are looking for a tool?' document for Kat 
+x 2019-12-12 1. drink 1L of Water @singleton +Health Time:03
+x 2019-12-16 Write a letter to Nova +Family Time:30 
+x 2019-12-16 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2019-12-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2019-12-16 1. Process Email @singleton +Overhead @phone  Time:90
+x 2019-12-16 1. drink 1L of Water @singleton +Health Time:03
+x 2019-12-16 10 Contacts on the contact list 
+x 2019-12-16 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2019-12-16 Activate Kat credit card 
+x 2019-12-16 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2019-12-16 Check projects in bearclaw match the wheel of life... 
+x 2019-12-16 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2019-12-16 Check the firebreak in: whatsapp and facebook. +Overhead Time:20 
+x 2019-12-16 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2019-12-16 Claim all the expenses +EQT
+x 2019-12-16 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2019-12-16 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2019-12-16 Cook the new proteint pasta 
+x 2019-12-16 Cut nails +Health @nova  Time:04 
+x 2019-12-16 Do Menu for the week +Family @nova @phone  Time:01 
+x 2019-12-16 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2019-12-16 Find youtube video about restoring old photos on Darktable https://github.com/users/joereddington/projects/5#card-30280466
+x 2019-12-16 Go though https://www.dropbox.com/preview/Houses/68%20Truro%20gardens/architects/bathroom/Bathroom%20planning.xlsx?role=personal with cataglogues and give feedback (also take photos and send to Lili with other instructions)   Github:https://github.com/users/joereddington/projects/5#card-30280099 
+x 2019-12-16 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2019-12-16 Go through all your photos and pick out good ones for 10x8 7x5 and a6 frames https://github.com/users/joereddington/projects/5#card-30280466
+x 2019-12-16 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2019-12-16 Log weight +Health  Time:02 
+x 2019-12-16 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2019-12-16 Make Eva Moonpig card https://github.com/users/joereddington/projects/5#column-6773921
+x 2019-12-16 Make sure all tasks are linked to their github project https://github.com/joereddington/Projects-Private/issues/137
+x 2019-12-16 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2019-12-16 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2019-12-16 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2019-12-16 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2019-12-16 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2019-12-16 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2019-12-16 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2019-12-16 Properly work out the Partner and child targets for Wheel of life (eliminating bad food habits is a good one)  https://github.com/joereddington/Projects-Private/issues/107 
+x 2019-12-16 Properly work out the photography target 
+x 2019-12-16 Publicly thank someone +Overhead Time:15 
+x 2019-12-16 Remap https://github.com/joereddington/Projects-Private/issues/107 
+x 2019-12-16 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2019-12-16 Review and rescore  Wheel Of life
+x 2019-12-16 Review and restore Wheel Of life
+x 2019-12-16 Review your highlights and notes from Kindle books +Overhead
+x 2019-12-16 Rewrite the startup slides
+x 2019-12-16 Save a nice family memory +Family @phone @nova  Time:03 
+x 2019-12-16 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2019-12-16 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2019-12-16 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2019-12-16 Sprint: Write blogs around these: https://github.com/joereddington/projects-public/issues Time:60 https://github.com/users/joereddington/projects/1#card-27368133
+x 2019-12-16 Take Amazon return to the shop 
+x 2019-12-16 Trim nose hair +Health @nova  Time:05 
+x 2019-12-16 Try reseting darktable with this https://askubuntu.com/questions/194616/how-to-reset-darktable/194634#194634  https://github.com/users/joereddington/projects/5#card-30280466
+x 2019-12-16 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2019-12-16 Update the youtube watch list +Family Time:10 @phone @nova
+x 2019-12-16 Vitimin Tablet +Health @nova  Time:02
+x 2019-12-16 Work out the work targets for wheel of life  https://github.com/joereddington/Projects-Private/issues/137 
+x 2019-12-16 Work out what's wrong with bike light https://github.com/users/joereddington/projects/5#card-30064047  
+x 2019-12-16 Work out why you aren't getting alerts from doorbell https://github.com/users/joereddington/projects/5#card-27907252
+x 2019-12-16 Write up properly the Nova birthday event. 
+x 2019-12-16 change razor blade Time:03 
