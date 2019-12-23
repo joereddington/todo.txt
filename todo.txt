@@ -5,4 +5,4 @@
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make workstation spotless +Overhead @nova  
 (E) Review all projects in github +Overhead Time: 
-x 2019-12-16 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+xx 2019-12-16 Spend 20 minutes or so considering the fruits of long term goals +Overhead
