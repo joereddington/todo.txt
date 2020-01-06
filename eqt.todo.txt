@@ -1,9 +1,5 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (D) Do full accounts algorithm +EQT Time:99
-(E) Search for funding for eQuality Time Projects +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(E) Open and log progress on the bid status document +EQT Time:04
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Search for funding for eQuality Time Projects +EQT
