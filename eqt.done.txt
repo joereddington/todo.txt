@@ -310,3 +310,13 @@ x 2019-12-10 Tell lyle about underdog
 x 2019-12-10 Write answers to podcast interview questions https://github.com/orgs/eQualityTime/projects/4#card-27414401 @private
 x 2019-12-10 Write short procurement policy and link it from the payments document https://github.com/orgs/eQualityTime/projects/4#card-25342291
 x 2019-12-10 more sprint on https://github.com/eQualityTime/Public/issues/96
+x 2019-12-16 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2019-12-16 Check the next school time +EQT Time:03 
+x 2019-12-16 Do full accounts algorithm +EQT Time:99
+x 2019-12-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2019-12-16 Open and log progress on the bid status document +EQT Time:04
+x 2019-12-16 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2019-12-24 Check the next school time +EQT Time:03 
+x 2019-12-24 Open and log progress on the bid status document +EQT Time:04
+x 2019-12-24 Open list of projects to be funded +EQT
+x 2019-12-24 Post to WWW facebook page +EQT @nova @phone  Time:10 

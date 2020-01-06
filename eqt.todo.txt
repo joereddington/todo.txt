@@ -1,6 +1,9 @@
-x 2019-12-16 2. Switch to live account and start streaming +EQT @singleton Time:99
-x 2019-12-16 Do full accounts algorithm +EQT Time:99
-x 2019-12-16 Check the next school time +EQT Time:03 
-x 2019-12-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-x 2019-12-16 Open and log progress on the bid status document +EQT Time:04
-x 2019-12-16 Post to WWW facebook page +EQT @nova @phone  Time:10 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Search for funding for eQuality Time Projects +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
