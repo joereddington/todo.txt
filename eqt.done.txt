@@ -320,3 +320,9 @@ x 2019-12-24 Check the next school time +EQT Time:03
 x 2019-12-24 Open and log progress on the bid status document +EQT Time:04
 x 2019-12-24 Open list of projects to be funded +EQT
 x 2019-12-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-01-06 Do full accounts algorithm +EQT Time:99
+x 2020-01-06 Search for funding for eQuality Time Projects +EQT
+x 2020-01-06 Check the next school time +EQT Time:03 
+x 2020-01-06 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2020-01-06 Open and log progress on the bid status document +EQT Time:04
+x 2020-01-06 Post to WWW facebook page +EQT @nova @phone  Time:10 
