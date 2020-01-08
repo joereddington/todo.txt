@@ -2,7 +2,7 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-01-08 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check doorbell batteries
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
