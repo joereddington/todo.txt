@@ -326,3 +326,12 @@ x 2020-01-06 Check the next school time +EQT Time:03
 x 2020-01-06 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 x 2020-01-06 Open and log progress on the bid status document +EQT Time:04
 x 2020-01-06 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-01-13 Bring expenses up to date 
+x 2020-01-13 Check the next school time +EQT Time:03 
+x 2020-01-13 Download the amazon months sales figures +EQT
+x 2020-01-13 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2020-01-13 Open list of projects to be funded +EQT
+x 2020-01-13 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-01-13 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2020-01-13 Search for funding for eQuality Time Projects +EQT
+x 2020-01-13 Send Trustees something nice about outcomes +EQT
