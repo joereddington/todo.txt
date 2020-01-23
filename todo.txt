@@ -1,6 +1,6 @@
 (A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
+(A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -13,6 +13,7 @@ x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
@@ -26,12 +27,6 @@ x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Put bookshelves in order and have a book you are reading 
@@ -45,3 +40,4 @@ x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
 x 2020-01-10 Check the firebreak in: whatsapp and facebook. +Overhead Time:20 
+x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
