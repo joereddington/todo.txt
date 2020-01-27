@@ -1,3 +1,7 @@
+(A) Do actions for Feb EQT meeting 
+(C) Tell trustees that accounting process has started 
+(C) Tell trustees about the thomas wlal trust 
+(C) Add 'equality time' to the open voice factory website 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (D) Do full accounts algorithm +EQT Time:99
 (E) Backup Dreamhost +EQT
