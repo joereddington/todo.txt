@@ -2256,3 +2256,8 @@ x 2020-01-10 Trim nose hair +Health @nova  Time:05
 x 2020-01-10 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2020-01-10 Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 x 2020-01-10 TSE +Health Time:04 
+x 2020-01-10 Check the firebreak in: whatsapp and facebook. +Overhead Time:20 
+x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
+x 2020-01-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-01-27 1. drink 1L of Water @singleton +Health Time:03
+x 2020-01-27 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917

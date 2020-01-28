@@ -1,7 +1,8 @@
-x 2020-01-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2020-01-27 1. drink 1L of Water @singleton +Health Time:03
-x 2020-01-27 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-01-28 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review and rescore  Wheel Of life
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check doorbell batteries
 (C) Project for putting up TV in new place 
@@ -32,6 +33,7 @@ x 2020-01-27 Review all projects in github +Overhead https://github.com/users/jo
 (E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 (E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
 (E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
 (E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
 (E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
@@ -46,6 +48,3 @@ x 2020-01-27 Review all projects in github +Overhead https://github.com/users/jo
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
-A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
-x 2020-01-10 Check the firebreak in: whatsapp and facebook. +Overhead Time:20 
-x 2020-01-20 1. drink 1L of Water @singleton +Health Time:03
