@@ -29,6 +29,3 @@
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
-x 2020-01-28 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2020-01-28 Check £40 in Wallet +Overhead @nova  @phone 
-x 2020-01-28 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
