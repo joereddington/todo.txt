@@ -11,4 +11,7 @@
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
+<<<<<<< HEAD
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+=======
+>>>>>>> 373694f97f18b144177d047d1cfa1bfdb5d76672
