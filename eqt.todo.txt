@@ -1,5 +1,6 @@
 (A) Do actions for Feb EQT meeting 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Add 'equality time' to the open voice factory website 
 (C) Tell trustees about the thomas wlal trust 
 (C) Tell trustees that accounting process has started 
@@ -12,6 +13,9 @@
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
 <<<<<<< HEAD
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 =======
 >>>>>>> 373694f97f18b144177d047d1cfa1bfdb5d76672
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Open and log progress on the bid status document +EQT Time:04
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
