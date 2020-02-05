@@ -1,4 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-02-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review and rescore  Wheel Of life
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
