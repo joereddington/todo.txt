@@ -1,9 +1,9 @@
 x 2020-02-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) 1. drink 1L of Water @singleton +Health Time:03
+x 2020-02-07 1. drink 1L of Water @singleton +Health Time:03
 (A) Review and rescore  Wheel Of life
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Check doorbell batteries
+x 2020-02-07 Check doorbell batteries
 (C) Put together package for dry clearning 
 (C) Show Builder about Caron monoxide alarm 
 (C) Write paragraph and send with photos to Kat for hat has to happen for the back gate 
