@@ -2288,3 +2288,6 @@ x 2020-01-30 Work out when you can next give blood
 x 2020-02-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2020-02-07 1. drink 1L of Water @singleton +Health Time:03
 x 2020-02-07 Check doorbell batteries
+x 2020-02-07 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-02-07 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-02-07 Confirm plans for next two weekends.+Overhead @phone  Time:06 
