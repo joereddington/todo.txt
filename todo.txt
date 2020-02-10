@@ -1,9 +1,10 @@
-x 2020-02-07 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
-Put judo blet in Nova bag
+(A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check doorbell batteries
 (C) Put together package for dry clearning 
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -21,6 +22,7 @@ Put judo blet in Nova bag
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
 (E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
@@ -57,6 +59,9 @@ Put judo blet in Nova bag
 (E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
+Put judo blet in Nova bag
+x 2020-02-07 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
