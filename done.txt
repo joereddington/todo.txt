@@ -2291,3 +2291,7 @@ x 2020-02-07 Check doorbell batteries
 x 2020-02-07 1. Process Email @singleton +Overhead @phone  Time:90
 x 2020-02-07 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 x 2020-02-07 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2020-02-12 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-02-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-02-12 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-02-07 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
