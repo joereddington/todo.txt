@@ -1,16 +1,19 @@
-(A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
+(B) Print declaration of trust 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check doorbell batteries
+(C) Make more different salads 
 (C) Put together package for dry clearning 
+(C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Show Builder about Caron monoxide alarm 
 (C) Write paragraph and send with photos to Kat for hat has to happen for the back gate 
+(C) map the iron man gif project 
 (E) 10 Contacts on the contact list 
 (E) 2020-01-30 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-x 2020-02-14 Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
@@ -61,3 +64,7 @@ x 2020-02-14 Check Voicemail  +Overhead @nova  @phone  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
 Put judo blet in Nova bag
+x 2020-02-14 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2020-02-20 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-02-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-02-20 1. drink 1L of Water @singleton +Health Time:03
