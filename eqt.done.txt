@@ -335,3 +335,23 @@ x 2020-01-13 Post to WWW facebook page +EQT @nova @phone  Time:10
 x 2020-01-13 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2020-01-13 Search for funding for eQuality Time Projects +EQT
 x 2020-01-13 Send Trustees something nice about outcomes +EQT
+x 2020-02-14 Do actions for Feb EQT meeting 
+x 2020-02-14 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2020-02-14 Add 'equality time' to the open voice factory website 
+x 2020-02-14 Get a refund for Chris's ticket
+x 2020-02-14 Review Kat's comments on strategic plan
+x 2020-02-14 Tell trustees about the thomas wlal trust 
+x 2020-02-14 Tell trustees that accounting process has started 
+x 2020-02-14 Do full accounts algorithm +EQT Time:99
+x 2020-02-14 Backup Dreamhost +EQT
+x 2020-02-14 Check the next school time +EQT Time:03 
+x 2020-02-14 Download the amazon months sales figures +EQT
+x 2020-02-14 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2020-02-14 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2020-02-14 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2020-02-14 Open and log progress on the bid status document +EQT Time:04
+x 2020-02-14 Open list of projects to be funded +EQT
+x 2020-02-14 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-02-14 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2020-02-14 Search for funding for eQuality Time Projects +EQT
+x 2020-02-14 Send Trustees something nice about outcomes +EQT
