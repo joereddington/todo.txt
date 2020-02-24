@@ -1,8 +1,10 @@
 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+(B) map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/21 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
 (*) map project:smile.amazon.co.uk +EQT
+(A) Prepare for EQT meeting - proper notes on agenda and so on. 
 (A) Properly rewrite prison paper 
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/101 +EQT

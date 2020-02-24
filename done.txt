@@ -2307,3 +2307,41 @@ x 2020-02-22 Write paragraph and send with photos to Kat for hat has to happen f
 x 2020-02-23 (*) Work on: https://github.com/joereddington/Projects-Public/issues/1 +PersonalProjects
 x 2020-02-23 (*) map project:https://edu.rsc.org/resources/accessibility-awareness/2240.article +PersonalProjects
 x 2020-02-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-02-24 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-02-24 1. drink 1L of Water @singleton +Health Time:03
+x 2020-02-24 2020-01-30 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2020-02-24 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2020-02-24 Check if there are any moonpig cards to send this month +Overhead
+x 2020-02-24 Check ranking scripts +Overhead
+x 2020-02-24 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2020-02-24 Check £40 in Wallet +Overhead @nova  @phone 
+x 2020-02-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2020-02-24 Cut nails +Health @nova  Time:04 
+x 2020-02-24 Do Menu for the week +Family @nova @phone  Time:01 
+x 2020-02-24 Floss +Health @nova  Time:05
+x 2020-02-24 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2020-02-24 If back on sugar then start sugar project +Health
+x 2020-02-24 Log weight +Health  Time:02 
+x 2020-02-24 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2020-02-24 Make sure paper crane is in bathroom @nova @phone  Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2020-02-24 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2020-02-24 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+x 2020-02-24 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2020-02-24 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2020-02-24 Publicly thank someone +Overhead Time:15 
+x 2020-02-24 Reprioritise github - WWW site and new software should be high up. 
+x 2020-02-24 Review (days since) app counts +Overhead @nova @phone 
+x 2020-02-24 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-02-24 Review and rewrite  Wheel Of lif
+x 2020-02-24 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2020-02-24 Trim nose hair +Health @nova  Time:05 
+x 2020-02-24 map project:Hi again Joe,
+x 2020-02-24 map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
+x 2020-02-24 map project:Nova Birthday Party +PersonalProjects
+x 2020-02-24 map project:Timesheet to include considerably more bells and whistles for later analysis
