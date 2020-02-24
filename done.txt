@@ -2295,3 +2295,15 @@ x 2020-02-12 1. Lock phone away https://github.com/joereddington/Projects-Public
 x 2020-02-14 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2020-02-12 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 x 2020-02-07 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-02-14 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2020-02-20 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-02-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-02-20 1. drink 1L of Water @singleton +Health Time:03
+x 2020-02-22 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-02-22 Check doorbell batteries
+x 2020-02-22 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-02-22 Show Builder about Caron monoxide alarm 
+x 2020-02-22 Write paragraph and send with photos to Kat for hat has to happen for the back gate 
+x 2020-02-23 (*) Work on: https://github.com/joereddington/Projects-Public/issues/1 +PersonalProjects
+x 2020-02-23 (*) map project:https://edu.rsc.org/resources/accessibility-awareness/2240.article +PersonalProjects
+x 2020-02-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
