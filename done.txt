@@ -2345,3 +2345,38 @@ x 2020-02-24 map project:Hi again Joe,
 x 2020-02-24 map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 x 2020-02-24 map project:Nova Birthday Party +PersonalProjects
 x 2020-02-24 map project:Timesheet to include considerably more bells and whistles for later analysis
+x 2020-02-25 10 Contacts on the contact list 
+x 2020-02-25 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-02-25 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2020-02-25 Check wishlist
+x 2020-02-25 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2020-02-25 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2020-02-25 Map project for credit cards and work out exactly where are you are: pins, purposes, credit limits and plans
+x 2020-02-25 Map project for filling calendar both networking and friends
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
+x 2020-02-25 map the iron man gif project 
+x 2020-02-25 test vims sort -u when removing opening lines. 
+x 2020-02-25 Log in to personal blog and sort out this layout:  http://joereddington.com/photography-portfolio/
+x 2020-02-25 Print https://tinyurl.com/vchad2p @private
+x 2020-02-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2020-02-25 TSE +Health Time:04 
+x 2020-02-25 Update the youtube watch list +Family Time:10 @phone @nova
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/101 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/129 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/137 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/144 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/146 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/147 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/148 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Private/issues/149 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/22 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/24 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
+x 2020-02-25 Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
