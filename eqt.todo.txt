@@ -1,11 +1,15 @@
+(*) First blog on the cost of campsk
 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
-(B) map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/21 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(*) blog the cost of a travelodge camp 
+(*) map project:ACCA exams https://github.com/joereddington/Projects-Private/issues/106 +EQT
 (*) map project:smile.amazon.co.uk +EQT
 (A) Prepare for EQT meeting - proper notes on agenda and so on. 
 (A) Properly rewrite prison paper 
+(A) Publish UCLAN book with new cover  +EQT
+(A) Work on Alexandra Hayes email 
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/101 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/102 +EQT
@@ -17,6 +21,7 @@
 (A) Work on: https://github.com/eQualityTime/Public/issues/99 +EQT
 (A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
 (A) map project:Find out about hiring a bid writer. +EQT
+(A) map project:Get Accounts prepared for year end 09.  +EQT
 (A) map project:Invesitgate esme fairbain +EQT
 (A) map project:Joe to do full expenses algorithm. +EQT
 (A) map project:Next camp - march 16th in Wigan +EQT
@@ -33,6 +38,7 @@
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/128 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 +EQT
+(B) map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Blog/facebook/google on how to show the value of a licence in Accounts 
 (C) Find out everything you can about GDPR
@@ -40,10 +46,12 @@
 (C) Put some projects on the Cataylst site 
 (C) Rewrite partnership aggreeement for Glasgow 
 (C) Sort out refund on Christ Train ticket
+(C) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/32 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
 (C) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
@@ -74,4 +82,3 @@
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Work out the cost of a travelodge camp 
