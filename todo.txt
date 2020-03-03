@@ -1,4 +1,6 @@
 (*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(*) Put reqest for desk on carestar 
+(*) Put bathroom on carestar
 x 2020-03-02 Work on: https://github.com/joereddington/Projects-Private/issues/129 +PersonalProjects
 (B) brainstorm on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 x 2020-03-02 map project:Timesheet to include considerably more bells and whistles for later analysis
