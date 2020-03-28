@@ -355,3 +355,60 @@ x 2020-02-14 Post to WWW facebook page +EQT @nova @phone  Time:10
 x 2020-02-14 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2020-02-14 Search for funding for eQuality Time Projects +EQT
 x 2020-02-14 Send Trustees something nice about outcomes +EQT
+x 2020-03-02 (*) First blog on the cost of campsk
+x 2020-03-02 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+x 2020-03-02 (*) Work on: https://github.com/eQualityTime/Public/issues/21 +EQT
+x 2020-03-02 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+x 2020-03-02 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+x 2020-03-02 (*) blog the cost of a travelodge camp 
+x 2020-03-02 (*) map project:ACCA exams https://github.com/joereddington/Projects-Private/issues/106 +EQT
+x 2020-03-02 (*) map project:smile.amazon.co.uk +EQT
+x 2020-03-02 Prepare for EQT meeting - proper notes on agenda and so on. 
+x 2020-03-02 Properly rewrite prison paper 
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/101 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/102 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
+x 2020-03-02 Work on: https://github.com/eQualityTime/Public/issues/89 +EQT
+x 2020-03-03 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2020-03-03 Publish UCLAN book with new cover  +EQT
+x 2020-03-03 Trim recent live video. 
+x 2020-03-03 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2020-03-03 map project:Find out about hiring a bid writer. +EQT
+x 2020-03-03 map project:Get Accounts prepared for year end 09.  +EQT
+x 2020-03-03 map project:Invesitgate esme fairbain +EQT
+x 2020-03-03 map project:Update the partnership documents  +EQT
+x 2020-03-04 Get into Google analytics account and work out the link with the Google non-profits   @private 
+x 2020-03-23 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+x 2020-03-23 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+x 2020-03-23 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+x 2020-03-23 (*) map project:Write blog annoucing that OVF will have a complete rewrite.  +EQT
+x 2020-03-23 (*) map project:smile.amazon.co.uk +EQT
+x 2020-03-23 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2020-03-23 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/102 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2020-03-23 Work on: https://github.com/eQualityTime/Public/issues/99 +EQT
+x 2020-03-23 map project:ACCA exams https://github.com/joereddington/Projects-Private/issues/106 +EQT
+x 2020-03-23 map project:Develop WWW hubs and strengthen relationships +EQT
+x 2020-03-23 map project:Get Accounts prepared for year end 09.  +EQT
+x 2020-03-23 map project:Get the new WWW code up and running.  +EQT
+x 2020-03-23 map project:Next camp - march 16th in Wigan +EQT
+x 2020-03-23 map project:Update the partnership documents  +EQT
+x 2020-03-23 Check the next school time +EQT Time:03 
+x 2020-03-23 Download the amazon months sales figures +EQT
+x 2020-03-23 E) Send Trustees something nice about outcomes +EQT
+x 2020-03-23 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2020-03-23 Open list of projects to be funded +EQT
+x 2020-03-23 Write new instructions for artists 
+x 2020-03-23 map project:Bring eQuality Time accounts into sync with files prepared by accountant +EQT
+x 2020-03-23 map project:Bring in external funding by X +EQT
+x 2020-03-23 Open and log progress on the bid status document +EQT Time:04
+x 2020-03-23 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2020-03-23 Fix and publish books 
