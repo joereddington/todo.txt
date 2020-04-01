@@ -1,15 +1,3 @@
-(*) Put bathroom on carestar
-(C) Rememorise Kat phone number 
-(D) Test HMDI setup in Kitchen 
-(D) Watch video on hairband for Nova
-(D) Find box for Nova bath toys 
-(D) Buy Nova mini shopping trolley 
-(C) Upgrade Nova apps on her iPad 
-(E) Write to Nova about bringing yourself to peak.. 
-(D) Try Vegan cream
-(E) Write train packing list.
-(E) Try making own hash browns
-(*) Put reqest for desk on carestar 
 (*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (*) Work on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
@@ -30,8 +18,10 @@
 (C) Empty your email inbox completely
 (C) Experiment with the roast pea recipe
 (C) Make tree house plans for Nova 
+(C) Rememorise Kat phone number 
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Take bag to Dry Cleaners and have everything cleaned and pressed 
+(C) Upgrade Nova apps on her iPad 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/131 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
 (C) Write a book section on the thin line between classes and habits 
@@ -39,13 +29,19 @@
 (C) map project:# Properly develop Drawing version of TMC 
 (D) Brainstorm  on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
+(D) Buy Nova mini shopping trolley 
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
 (D) Find a photo at https://www.dropbox.com/home/Eric2019 for your portfolio. +PersonalProjects
+(D) Find box for Nova bath toys 
 (D) Make sure 'sleep time running on phone' is a mapped project
 (D) Put up the camera mount in Nova's Room 
+(D) Test HMDI setup in Kitchen 
+(D) Try Vegan cream
+(D) Watch video on hairband for Nova
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Write a letter to Nova setting out your feelings about parenting
 (D) Write up electroal roll notes at : https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
+(E) Add all of these: https://vim.fandom.com/wiki/Make_Vim_completion_popup_menu_work_just_like_in_an_IDE 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
@@ -93,6 +89,7 @@
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) TSE +Health Time:04 
 (E) Trim nose hair +Health @nova  Time:05 
+(E) Try making own hash browns
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitimin Tablet +Health @nova  Time:02
@@ -120,6 +117,8 @@
 (E) Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
 (E) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (E) Write a letter to Nova +Family Time:30 
+(E) Write to Nova about bringing yourself to peak.. 
+(E) Write train packing list.
 (E) change razor blade Time:03 
 (E) map project:Make sure bike lights are sorted out. +PersonalProjects
 (E) map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects

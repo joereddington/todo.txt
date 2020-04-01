@@ -2407,3 +2407,5 @@ x 2020-03-02 Write the talk you are giving at Sibs day due:2019-03-02
 x 2020-03-02 map project:Hi again Joe,
 x 2020-03-02 map project:Timesheet to include considerably more bells and whistles for later analysis
 x 2020-03-05 Cancel out doubtful debts 
+x 2020-04-01 (*) Put bathroom on carestar
+x 2020-04-01 (*) Put reqest for desk on carestar 
