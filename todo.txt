@@ -1,4 +1,5 @@
 (*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(*) Check linkedin 
 (*) Work on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
@@ -19,6 +20,7 @@
 (C) Experiment with the roast pea recipe
 (C) Make tree house plans for Nova 
 (C) Rememorise Kat phone number 
+(C) See if you can take apart the birdbath and make safe
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Take bag to Dry Cleaners and have everything cleaned and pressed 
 (C) Upgrade Nova apps on her iPad 
