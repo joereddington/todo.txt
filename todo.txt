@@ -1,8 +1,10 @@
-(*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (*) Check linkedin 
+(*) Write note for the family with the slide  
+(*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (*) Work on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) 1. Process Email @singleton +Overhead @phone  Time:90
 (A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
@@ -13,7 +15,6 @@
 (B) get richard disney+
 (B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check doorbell batteries
 (C) Empty your email inbox completely

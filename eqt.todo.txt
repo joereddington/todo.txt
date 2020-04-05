@@ -2,6 +2,7 @@
   * email document to turstees 
   * Add and review the furlough document 
 (*) Check linkedin 
+(B) Do millage expense
 (A) Do work for Julius 
 (A) Do full accounts algorthm +EQT Tme:99
 (A) Run the Save the Children Code again and check for damage @private
