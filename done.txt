@@ -2409,3 +2409,51 @@ x 2020-03-02 map project:Timesheet to include considerably more bells and whistl
 x 2020-03-05 Cancel out doubtful debts 
 x 2020-04-01 (*) Put bathroom on carestar
 x 2020-04-01 (*) Put reqest for desk on carestar 
+x 2020-04-05 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-04-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-04-05 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-04-05 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-04-05 1. drink 1L of Water @singleton +Health Time:03
+x 2020-04-05 Add 'but' to replaced works in textexpander  
+x 2020-04-05 Buy Nova mini shopping trolley 
+x 2020-04-05 Check doorbell batteries
+x 2020-04-05 Check ranking scripts +Overhead
+x 2020-04-05 Check £40 in Wallet +Overhead @nova  @phone 
+x 2020-04-05 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2020-04-05 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2020-04-05 Empty your email inbox completely
+x 2020-04-05 Find a photo at https://www.dropbox.com/home/Eric2019 for your portfolio. +PersonalProjects
+x 2020-04-05 If back on sugar then start sugar project +Health
+x 2020-04-05 Log weight +Health  Time:02 
+x 2020-04-05 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2020-04-05 Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
+x 2020-04-05 Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
+x 2020-04-05 Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
+x 2020-04-05 Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+x 2020-04-05 Publicly thank someone +Overhead Time:15 
+x 2020-04-05 Put up the camera mount in Nova's Room 
+x 2020-04-05 Review (days since) app counts +Overhead @nova @phone 
+x 2020-04-05 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2020-04-05 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-04-05 Take bag to Dry Cleaners and have everything cleaned and pressed 
+x 2020-04-05 Test HMDI setup in Kitchen 
+x 2020-04-05 Try Vegan cream
+x 2020-04-05 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2020-04-05 Vitimin Tablet +Health @nova  Time:02
+x 2020-04-05 Watch video on hairband for Nova
+x 2020-04-05 Work on: https://github.com/joereddington/Projects-Private/issues/101 +PersonalProjects
+x 2020-04-05 Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
+x 2020-04-05 Write a book section on the thin line between classes and habits 
+x 2020-04-05 change razor blade Time:03 
+x 2020-04-05 get richard disney+
+x 2020-04-05 map project:# Properly develop Drawing version of TMC 
+x 2020-04-05 map project:Learn from mistakes  +PersonalProjects
+x 2020-04-05 map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
+x 2020-04-05 map project:Save memories
+x 2020-04-05 map project:The project's and todo list is up to date with cleared inboxes.  +PersonalProjects
+x 2020-04-05 map project:Timesheet to include considerably more bells and whistles for later analysis
