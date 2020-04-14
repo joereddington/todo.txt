@@ -1,4 +1,4 @@
- +EQT
+(C) map project: Properly develop Drawing version of TMC 
 (*) Check linkedin 
 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT

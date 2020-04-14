@@ -1,66 +1,44 @@
-(A) Call Lizzie 
-(A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(A) Review and rescore  Wheel Of life
-(A) Test the Carbon monoxide detector properly 
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/129 +PersonalProjects
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/131 +PersonalProjects
-(B) Ask Tom and Zoe about the car seat 
-(B) Put up the first two attachements for the blind in the master bedroom 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) brainstorm on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Brainstorm on morning bathroom - water, weight, shaving  
-(C) Care package for seb 
-(C) Check garage of HMDI cable (for video conferencing) and get one from Amazon if NOT
-(C) Experiment with the roast pea recipe
-(C) Make treehouse plans for Nova 
-(C) Map project for joint bank account 
+(C) Ask Michelle for Cover 
+(C) Get Seb and Jen a book, some chocolate, and game 
+(C) Play with PGF/TikZ to create diagrams
+(C) Put nails in the wall for more pictures 
 (C) Rememorise Kat phone number 
 (C) See if you can take apart the birdbath and make safe
-(C) Upgrade Nova apps on her iPad 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/131 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
-(C) map project: Properly develop Drawing version of TMC 
+(C) Write new introduction to memory book with simple writer 
 (D) Brainstorm  on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
 (D) Find box for Nova bath toys 
-(D) Make sure 'sleep time running on phone' is a mapped project
+(D) Go through boxes in the garage for good things for zip lines 
+(D) Think about 'I'm holding back from being joyous in case something terrible happens' 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Write a letter to Nova setting out your feelings about parenting
 (D) Write up electroal roll notes at : https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
 (E) Add all of these: https://vim.fandom.com/wiki/Make_Vim_completion_popup_menu_work_just_like_in_an_IDE 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Call Nava 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Brainstorm on vegans of luton content 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Event (because of wittnesses) to sign deed of trust 
 (E) Floss +Health @nova  Time:05
 (E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Knock a few bricks off the top of the current tower 
 (E) Listen to Randy Pausch Talk +Overhead @phone 
-(E) Make car boot sales jar for kat
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
 (E) Make workstation spotless +Overhead @nova  
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Properly repair the memory palace 
-(E) Put bookshelves in order 
+(E) Put the letter to Nova you wrote into Dropbox .
 (E) Review starred items in feeds +Overhead
 (E) Review the folded page in th Google notebook for memory book ideas
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) TSE +Health Time:04 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Try making own hash browns
 (E) Update the amazon TV screensaver 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Use heat camera *outside* 
@@ -88,7 +66,6 @@
 (E) Write a letter to Nova +Family Time:30 
 (E) Write to Nova about bringing yourself to peak.. 
 (E) Write train packing list.
-(E) map project:Make sure bike lights are sorted out. +PersonalProjects
 (E) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) share your gift policy on the social networks.  Time:05  @phone 
 (E) write a wipe.sh script that removes everything from fileless
@@ -105,6 +82,8 @@
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/84 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/16 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects
-(F) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
-(F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
 (F) map project:Write a blog/guide for how you eventually managed to get notebooks working.  +PersonalProjects
+x 2020-04-13 Floss +Health @nova  Time:05
+x 2020-04-13 Put bookshelves in order 
+x 2020-04-13 TSE +Health Time:04 
+x 2020-04-13 Trim nose hair +Health @nova  Time:05 
