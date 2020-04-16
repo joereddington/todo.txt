@@ -2494,3 +2494,22 @@ x 2020-04-13 Upgrade Nova apps on her iPad
 x 2020-04-13 Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
 x 2020-04-13 Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
 x 2020-04-13 map project:Make sure bike lights are sorted out. +PersonalProjects
+x 2020-04-13 Floss +Health @nova  Time:05
+x 2020-04-13 Put bookshelves in order 
+x 2020-04-13 TSE +Health Time:04 
+x 2020-04-13 Trim nose hair +Health @nova  Time:05 
+x 2020-04-14 Ask Michelle for Cover 
+x 2020-04-14 Get Seb and Jen a book, some chocolate, and game 
+x 2020-04-14 Play with PGF/TikZ to create diagrams
+x 2020-04-14 Work on: https://github.com/joereddington/Projects-Private/issues/131 +PersonalProjects
+x 2020-04-14 Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
+x 2020-04-15 Add all of these: https://vim.fandom.com/wiki/Make_Vim_completion_popup_menu_work_just_like_in_an_IDE 
+x 2020-04-15 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2020-04-15 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2020-04-15 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+x 2020-04-15 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2020-04-15 Get the picture hooks out of the garage
+x 2020-04-15 Rememorise Kat phone number 
+x 2020-04-15 Review the folded page in th Google notebook for memory book ideas
+x 2020-04-15 Update the youtube watch list +Family Time:10 @phone @nova
+x 2020-04-15 Write new introduction to memory book with simple writer 
