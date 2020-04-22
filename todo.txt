@@ -1,34 +1,24 @@
-(*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(*) Work on: https://github.com/joereddington/Projects-Public/issues/33 +PersonalProjects
-(A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) 1. drink 1L of Water @singleton +Health Time:03
-(A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(A) Review and rescore  Wheel Of life
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
-(B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Check doorbell batteries
-(C) Properly repair the memory palace 
-(C) Put Yo Millard Fillmore! into the bibtext references for memory book 
-(C) See if you can take apart the birdbath and make safe
+(B) Fix washing line 
+(B) Map the project about influencers
+(C) Brainstorm on new social media going forward 
+(C) Do Menu for the week +Family @nova @phone  Time:01 
+(C) Message the Sibling Facebook group admin  @nova @phone  Time:06 
+(C) Move gift policy post to git hub 
+(C) Read https://mark-eyles.itch.io/the-salvaged-self 
+(C) See if you can take the spikes off the birdbath
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
+(C) Write blog post announcing that you are writing the book 
 (D) Brainstorm  on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (D) Brainstorm on about 'I'm holding back from being joyous in case something terrible happens' 
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
 (D) Find box for Nova bath toys 
-(D) Go through boxes in the garage for good things for zip lines 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (D) Write a letter to Nova setting out your feelings about parenting
 (D) Write up electroal roll notes at : https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask for testimonal from completed fundings
 (E) Brainstorm on vegans of luton content 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check if there are any moonpig cards to send this month +Overhead
@@ -37,15 +27,10 @@
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty house inbox completely +Overhead @nova  Time:15 
-(E) Event (because of wittnesses) to sign deed of trust 
+(E) Event (because of witnesses) to sign deed of trust 
+(E) Event to empty the swear jar and 
 (E) Floss +Health @nova  Time:05
 (E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in dropbox.
@@ -59,19 +44,7 @@
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
 (E) Make workstation spotless +Overhead @nova  
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-(E) Ping §e:U2FsdGVkX18kCS8P6azgRlBGROHuszzEO3c9cPs4KcM=§
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Publicly thank someone +Overhead Time:15 
 (E) Put the letter to Nova you wrote into Dropbox .
-(E) Review (days since) app counts +Overhead @nova @phone 
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
@@ -117,8 +90,6 @@
 (E) Write train packing list.
 (E) change razor blade Time:03 
 (E) map project:Make sure bike lights are sorted out. +PersonalProjects
-(E) map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
-(E) map project:Release Memory Palace book +PersonalProjects
 (E) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) share your gift policy on the social networks.  Time:05  @phone 
 (E) write a wipe.sh script that removes everything from fileless
@@ -139,7 +110,6 @@
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
 (F) map project:Good book reading habit.  +PersonalProjects
-(F) map project:Learn from mistakes  +PersonalProjects
-(F) map project:Save memories
 (F) map project:The project's and todo list is up to date with cleared inboxes.  +PersonalProjects
 (F) map project:Write a blog/guide for how you eventually managed to get notebooks working.  +PersonalProjects
+x 2020-04-20 Message Yvonne about meetings 
