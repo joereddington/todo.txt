@@ -2552,3 +2552,8 @@ x 2020-04-16 map project:Learn from mistakes  +PersonalProjects
 x 2020-04-16 map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
 x 2020-04-16 map project:Release Memory Palace book +PersonalProjects
 x 2020-04-16 map project:Save memories
+x 2020-04-20 Message Yvonne about meetings 
+x 2020-04-22 Fix washing line 
+x 2020-04-22 Move gift policy post to git hub 
+x 2020-04-22 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-04-22 Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
