@@ -1,4 +1,3 @@
-(*) Check linkedin 
 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
@@ -6,9 +5,19 @@
 (*) map project:Relase the OVF blog annoucement. +EQT
 (*) map project:Renew insurance +EQT
 (*) map project:smile.amazon.co.uk +EQT
-(A) Do full accounts algorthm +EQT Tme:99
+(A Wednesday) write summary for trustees
+(A week) Map the NOT equal grant 
+(A week) Review the Prison paper 
+(A week) Revise the Not Equal Grant 
+(A week) make sure the accounts are all sorted 
+(A week) review THING for Lyle 
+(A week) Update handover notes 
+(A week) write out the training documentation 
+(A week) empty eqt email inbox 
+(A week) work out forwarding from the money@ email account 
+(B week) bank reconcilation)
+(A week) write project proposal for trustees
 (A) Do work for Julius 
-(A) Run the Save the Children Code again and check for damage @private
 (A) Work on Alexandra Hayes email  @private
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
@@ -22,7 +31,6 @@
 (A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
 (A) Write up a note for trustees about timesheet analysis: it's NOT what I could delegate, it's the THINGs I'm NOT doing because we don't have anybody 
 (A) map project:Invesitgate esme fairbain +EQT
-(A) map project:Joe to do full expenses algorithm. +EQT
 (B) Do millage expense
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
@@ -89,3 +97,10 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
+x 2020-04-28 (*) Check linkedin 
+x 2020-04-28 (A today send Richard prison book details
+x 2020-04-28 (A today send Zoom details) 
+x 2020-04-28 (A week) message clare about when the next meeting is 
+x 2020-04-28 Do full accounts algorthm +EQT Tme:99
+x 2020-04-28 Run the Save the Children Code again and check for damage @private
+x 2020-04-28 map project:Joe to do full expenses algorithm. +EQT
