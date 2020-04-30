@@ -1,3 +1,4 @@
+Put a set of files in the 'site' subdirectory so that there is a pretty version.
 Add(read-add) graphs 
 Make dr_wat the main branch 
 Fix the igor update issue - the submodule turns up with a detched head and that's making it difficult to update - one option is that we remove the submodule and just have it cloned when needed 
@@ -12,6 +13,9 @@ x 2019-09-15 write script that updates watson and the other files.
 x 2019-10-07 Timechart: add unclassified 
 x 2019-10-07 Timechart: get working again
 x 2019-10-21 x Push script should scp the calendars as well.
+
+## 30/04/20 07:16, 
+Did some tidying up. 
 
 ## 12/09/19 22:00 
 There is some issue with using the git log as a record. I Often want to change it to add more infomation, or ajust it. I can, of course, force a rewrite, but that sounds... unpleasen't for all concerned.   

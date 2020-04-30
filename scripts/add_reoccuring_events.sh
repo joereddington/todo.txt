@@ -11,3 +11,4 @@ grep "EQT" vision.txt >> sorted.eqt
 grep -v "EQT" vision.txt >> sorted.all
 mv sorted.all todo.txt
 mv sorted.eqt eqt.todo.txt
+rm vision.txt
