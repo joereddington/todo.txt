@@ -412,3 +412,23 @@ x 2020-03-23 map project:Bring in external funding by X +EQT
 x 2020-03-23 Open and log progress on the bid status document +EQT Time:04
 x 2020-03-23 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2020-03-23 Fix and publish books 
+x 2020-04-28 (*) Check linkedin 
+x 2020-04-28 (*) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+x 2020-04-28 (*) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+x 2020-04-28 (*) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+x 2020-04-28 (*) map project:Improve github2todo so that the order of tasks is preserved +EQT
+x 2020-04-28 (*) map project:Release the OVF blog announcement. +EQT
+x 2020-04-28 (*) map project:Renew insurance +EQT
+x 2020-04-28 (*) map project:smile.amazon.co.uk +EQT
+x 2020-04-28 (A today send Richard prison book details
+x 2020-04-28 (A today send Zoom details) 
+x 2020-04-28 (A week) Map the NOT equal grant 
+x 2020-04-28 (A week) message clare about when the next meeting is 
+x 2020-04-28 (A week) write project proposal for trustees
+x 2020-04-28 Do full accounts algorthm +EQT Tme:99
+x 2020-04-28 Run the Save the Children Code again and check for damage @private
+x 2020-04-28 map project:Joe to do full expenses algorithm. +EQT
+x 2020-04-30 (A Wednesday) ring insurance company and work out renewal+EQT
+x 2020-04-30 (A Wednesday) write summary for trustees
+x 2020-04-30 (A week) make sure the accounts are all sorted 
+x 2020-04-30 (A week) write out the training documentation 
