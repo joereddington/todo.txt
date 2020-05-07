@@ -2557,3 +2557,19 @@ x 2020-04-22 Fix washing line
 x 2020-04-22 Move gift policy post to git hub 
 x 2020-04-22 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 x 2020-04-22 Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
+x 2020-04-25 (*) Work on: https://github.com/joereddington/Projects-Private/issues/132 +PersonalProjects
+x 2020-05-02 (*) Work on: https://github.com/joereddington/Projects-Private/issues/153 +PersonalProjects
+x 2020-05-02 (C: Book beta readers) Rewrite the linked list chapter  
+x 2020-05-02 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-05-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-05-02 1. drink 1L of Water @singleton +Health Time:03
+x 2020-05-02 Brainstorm on new social media going forward 
+x 2020-05-02 Check EQT meeting is in calendar on wednesday 
+x 2020-05-02 Do Menu for the week +Family @nova @phone  Time:01 
+x 2020-05-02 Fix shower head +DIY
+x 2020-05-02 If back on sugar then start sugar project +Health
+x 2020-05-02 Map the project about influencers
+x 2020-05-02 Message the Sibling Facebook group admin about merging groups  @nova @phone  Time:06 
+x 2020-05-02 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2020-05-02 Publicly thank someone +Overhead Time:15 
+x 2020-05-02 Put up Blind fastening's in bedroom 
