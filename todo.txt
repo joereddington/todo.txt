@@ -1,132 +1,67 @@
-(*) Annouce birth 
-(*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(*) Work on: https://github.com/joereddington/Projects-Public/issues/30 +PersonalProjects
-(A) 1. Fill out fear chart
-(A) Blackout blinds in bedroom  +DIY 
-(A) Fix AEP STUFF for KAt  +DIY
-(A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(A) Review and rescore  Wheel Of life
-(A) Work on Book +DIY 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
-(B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(C Kat) Put string on back gate  
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Garage shorting +DIY 
-(C) Go to post office +DIY 
+(A) Run reportmaker code with the new file from Kat 
+(A) Tape Fabric for Blackout blinds in bedroom  +DIY 
+(B) Make a list of good Nova home activities  https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+(C) Ask Kat about doing side gate
+(C) Fix wardrobe doors 
+(D) Brainstorm on Wheel of life goals: https://github.com/joereddington/Projects-Private/issues/107  
+(C) Label boxes in the garage 
 (C) Put Doorhandles on doors +DIY 
-(C) Put up pictures +DIY
-(C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) Put on Social - dox direct (JOE56884) 
+(C) Put on Social media: Just getting in touch to let you know that the blog you wrote has been published. It is available here: https://www.skillsforcare.org.uk/About/Blog/Blog/Lockdown-throws-up-big-challenges-for-individual-employers.aspx, and accessed from the Skills for Care home page www.skillsforcare.org.uk. 
+(C) Put up picture hooks where post-it notes are +DIY
+(C) Setup feeding locations 
 (C) Take book back to library
+(C) Take packages to post box. 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C: book publication) Read https://mark-eyles.itch.io/the-salvaged-self 
-(C: book publication) Write blog post announcing that you are writing the book 
-(D) Brainstorm  on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
+(D) Brainstorm on Live streaming and blog : https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (D) Brainstorm on about 'I'm holding back from being joyous in case something terrible happens' 
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
-(D) Find box for Nova bath toys 
+(D) Search for box for Nova bath toys 
 (D) See if you can take the spikes off the birdbath
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (D) Write a letter to Nova setting out your feelings about parenting
 (D) Write up electroal roll notes at : https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
-(E) Brainstorm on vegans of luton content 
 (E) Change bike tyre 
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check if there are any moonpig cards to send this month +Overhead
-(E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Delete the old josephreddington account
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty house inbox completely +Overhead @nova  Time:15 
 (E) Event (because of witnesses) to sign deed of trust 
 (E) Event to empty the swear jar and 
+(E) Fire TV - Select: settings, preferences, screen saver 
 (E) Floss +Health @nova  Time:05
 (E) Get charging hub for garage 
-(E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in dropbox.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) Install this for path fun https://github.com/tpope/vim-apathy 
 (E) Knock a few bricks off the top of the current tower 
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Listen to Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
 (E) Make workstation spotless +Overhead @nova  
-(E) Messge architect with photos of bathroom 
-(E) Ping §e:U2FsdGVkX1+2sCINV5b6K1KSUcMaZeU8RehzZpTXQ5c=§ Time:03 
-(E) Ping §e:U2FsdGVkX1+EsHAGTPwo87cBt8j8EPuzlDY3tRCzIt0=§ +Overhead Time:03 
-(E) Ping §e:U2FsdGVkX1/0apnnauRPI2LtbPyTX5c18ApK7oTVtyk=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/RNYEadGSmLWysIhNm+b/zfD2D5LtKD0M=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/ZOza9Gbrgx1bk2idcEgeOzlyFTiiQZJ8=§ Time:03 
-(E) Ping §e:U2FsdGVkX1/vPg9MWC5w4TnEPWNrJAuZ/9nCzFLVKq4=§
-(E) Ping §e:U2FsdGVkX18/xDtjwjLnkymaYCmTsUyg4eZ1WFjtgz0=§ Time:03 
-(E) Ping §e:U2FsdGVkX18wvyZgaBm7qL030pO3AX6Ap00h5nN5P5E=§ Time:03 
+(E) Message architect with photos of bathroom 
 (E) Put the letter to Nova you wrote into Dropbox .
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) Share your running goals with someone
 (E) TSE +Health Time:04 
-(E) Trim nose hair +Health @nova  Time:05 
 (E) Try a git commit script using https://stackoverflow.com/a/20438380/170243 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update the amazon TV screensaver 
-(E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Use heat camera *outside* 
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Work on CareStar
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/101 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/137 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/138 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/143 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/144 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/145 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/146 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/147 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/148 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/149 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/155 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/158 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/65 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
 (E) Work on: https://github.com/joereddington/Projects-Public/issues/22 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/24 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(E) Work out the last time you changed your mind (and can you blog about it) +Overhead
-(E) Write a letter to Nova +Family Time:30 
 (E) Write to Nova about bringing yourself to peak.. 
 (E) Write train packing list.
-(E) change razor blade Time:03 
-(E) map project:Make sure bike lights are sorted out. +PersonalProjects
-(E) map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
-(E) map project:Release Memory Palace book +PersonalProjects
 (E) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) share your gift policy on the social networks.  Time:05  @phone 
 (E) write a wipe.sh script that removes everything from fileless
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/11 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/114 +PersonalProjects
@@ -148,9 +83,4 @@
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
-(F) map project:Good book reading habit.  +PersonalProjects
-(F) map project:Learn from mistakes  +PersonalProjects
-(F) map project:Make a family tree for mum... +PersonalProjects
-(F) map project:Save memories
-(F) map project:The project's and todo list is up to date with cleared inboxes.  +PersonalProjects
 (F) map project:Write a blog/guide for how you eventually managed to get notebooks working.  +PersonalProjects
