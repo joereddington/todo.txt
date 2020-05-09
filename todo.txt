@@ -1,14 +1,12 @@
+(*) Blog to do 
+(*) Bring in all reminders
+(A today) Post office. 
 (A) Run reportmaker code with the new file from Kat 
-(A) Tape Fabric for Blackout blinds in bedroom  +DIY 
 (B) Make a list of good Nova home activities  https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(C) Ask Kat about doing side gate
-(C) Fix wardrobe doors 
-(D) Brainstorm on Wheel of life goals: https://github.com/joereddington/Projects-Private/issues/107  
+(C) Get Glue to fix wardrobe doors
 (C) Label boxes in the garage 
 (C) Put Doorhandles on doors +DIY 
 (C) Put on Social - dox direct (JOE56884) 
-(C) Put on Social media: Just getting in touch to let you know that the blog you wrote has been published. It is available here: https://www.skillsforcare.org.uk/About/Blog/Blog/Lockdown-throws-up-big-challenges-for-individual-employers.aspx, and accessed from the Skills for Care home page www.skillsforcare.org.uk. 
-(C) Put up picture hooks where post-it notes are +DIY
 (C) Setup feeding locations 
 (C) Take book back to library
 (C) Take packages to post box. 
@@ -16,6 +14,7 @@
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C: book publication) Read https://mark-eyles.itch.io/the-salvaged-self 
 (D) Brainstorm on Live streaming and blog : https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
+(D) Brainstorm on Wheel of life goals: https://github.com/joereddington/Projects-Private/issues/107  
 (D) Brainstorm on about 'I'm holding back from being joyous in case something terrible happens' 
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
