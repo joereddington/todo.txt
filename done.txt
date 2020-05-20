@@ -2647,3 +2647,8 @@ x 2020-05-08 Ask Kat about doing side gate
 x 2020-05-08 Put on Social media: Just getting in touch to let you know that the blog you wrote has been published. It is available here: https://www.skillsforcare.org.uk/About/Blog/Blog/Lockdown-throws-up-big-challenges-for-individual-employers.aspx, and accessed from the Skills for Care home page www.skillsforcare.org.uk. 
 x 2020-05-08 Put up picture hooks where post-it notes are +DIY
 x 2020-05-08 Tape Fabric for Blackout blinds in bedroom  +DIY 
+x 2020-05-09 (*) Blog to do 
+x 2020-05-09 (*) Bring in all reminders
+x 2020-05-09 (A today) Post office. 
+x 2020-05-09 Take packages to post box. 
+x 2020-05-13 (*) Make the blod edits - spelling on feature phone, adding the vimrc on the vim page
