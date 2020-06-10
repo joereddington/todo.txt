@@ -16,7 +16,7 @@
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/36 +PersonalProjects
 (B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-06-10 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Export history again and review it : https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (C) Get Glue to fix wardrobe doors
 (C) Glue magnets to wall in Nova room
