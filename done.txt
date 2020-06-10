@@ -2652,3 +2652,54 @@ x 2020-05-09 (*) Bring in all reminders
 x 2020-05-09 (A today) Post office. 
 x 2020-05-09 Take packages to post box. 
 x 2020-05-13 (*) Make the blod edits - spelling on feature phone, adding the vimrc on the vim page
+x 2020-06-08 Fix car bodywork with tape 
+x 2020-06-08 Leo nappy changing area 
+x 2020-06-08 Move bed over
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/137 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/145 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/148 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/155 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Public/issues/1 +PersonalProjects
+x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
+x 2020-05-13 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-05-13 1. Look at the fear chart and check if we should restart it
+x 2020-05-13 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-05-13 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-05-13 1. drink 1L of Water @singleton +Health Time:03
+x 2020-05-13 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-05-13 Check ranking scripts +Overhead
+x 2020-05-13 Put memory book question on reddit.
+x 2020-05-13 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-05-13 map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
+x 2020-05-14 Make list of THINGs that you'll only do after you have done book work: bike, blogging, running,    
+x 2020-05-20 Fix Leo's bookshelf 
+x 2020-06-02 Fix blind a bit. It only has to be a bit...  
+x 2020-06-03 * Cut hair 
+x 2020-06-03 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-06-03 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-06-03 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-06-03 1. drink 1L of Water @singleton +Health Time:03
+x 2020-06-03 A) Put extension cable and iPhone charer in front room 
+x 2020-06-03 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2020-06-03 Bouncer from attic 
+x 2020-06-03 Change bike tyre 
+x 2020-06-03 Check doorbell batteries
+x 2020-06-03 Check if there are any moonpig cards to send this month +Overhead
+x 2020-06-03 If back on sugar then start sugar project +Health
+x 2020-06-03 Log weight +Health  Time:02 
+x 2020-06-03 Make workstation spotless +Overhead @nova  
+x 2020-06-03 Message architect with photos of bathroom 
+x 2020-06-03 Publicly thank someone +Overhead Time:15 
+x 2020-06-03 Put Doorhandles on doors +DIY 
+x 2020-06-03 Return pillow and print package slip
+x 2020-06-03 Review (days since) app counts +Overhead @nova @phone 
+x 2020-06-03 Search for box for Nova bath toys 
+x 2020-06-03 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-06-03 Vitimin Tablet +Health @nova  Time:02
+x 2020-06-08 map project:Good book reading habit.  +PersonalProjects
+x 2020-06-08 map project:Learn from mistakes  +PersonalProjects
+x 2020-06-08 map project:Make a family tree for mum... +PersonalProjects
+x 2020-06-08 map project:Save memories
+x 2020-06-08 map project:The project's and todo list is up to date with cleared inboxes.  +PersonalProjects
+x 2020-06-08 map project:Write a blog/guide for how you eventually managed to get notebooks working.  +PersonalProjects

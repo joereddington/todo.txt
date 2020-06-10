@@ -1,26 +1,28 @@
+(*) Put together an 'under baby' bag (*) Work on: https://github.com/joereddington/Projects-Private/issues/145 +PersonalProjects
+(*) Work on: https://github.com/joereddington/Projects-Private/issues/148 +PersonalProjects
+(*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(*) Work on: https://github.com/joereddington/Projects-Public/issues/1 +PersonalProjects
 (*) Work on: https://github.com/joereddington/Projects-Public/issues/30 +PersonalProjects
-x 2020-05-14 Make list of THINGs that you'll only do after you have done book work: bike, blogging, running,    
-(A) Fix Leo's bookshelf 
-(A) Put extension cable and iPhone charer in front room 
+(*) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (A) Review and rescore  Wheel Of life
 (A) Run reportmaker code with the new file from Kat 
+(A) Take Pillow to post office
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/160 +PersonalProjects
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/161 +PersonalProjects
 (B) Add to memory book: https://gist.github.com/zephod/3141380 
 (B) Make a list of good Nova home activities  https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/36 +PersonalProjects
+(B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(C) Check doorbell batteries
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Export history again and review it : https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (C) Get Glue to fix wardrobe doors
 (C) Glue magnets to wall in Nova room
 (C) Label boxes in the garage 
 (C) Measure world map
-(C) Put Doorhandles on doors +DIY 
 (C) Put on Social - dox direct (JOE56884) 
-(C) Return pillow and print package slip
 (C) Setup feeding locations 
 (C) Sort out flowers for Caroline
 (C) Take book back to library
@@ -30,23 +32,21 @@ x 2020-05-14 Make list of THINGs that you'll only do after you have done book wo
 (C: book publication) Read https://mark-eyles.itch.io/the-salvaged-self 
 (D) Brainstorm on Live streaming and blog : https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
 (D) Brainstorm on Wheel of life goals: https://github.com/joereddington/Projects-Private/issues/107  
+(D) Brainstorm on a new fear chart 
 (D) Brainstorm on about 'I'm holding back from being joyous in case something terrible happens' 
 (D) Brainstorm project:Timesheet to include considerably more bells and whistles for later analysis
 (D) Check for draft blog post about: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @private
-(D) Search for box for Nova bath toys 
 (D) See if you can take the spikes off the birdbath
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/158 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (D) Write a letter to Nova setting out your feelings about parenting
 (D) Write up electoral roll notes at : https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Change bike tyre 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check if there are any moonpig cards to send this month +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -69,18 +69,12 @@ x 2020-05-14 Make list of THINGs that you'll only do after you have done book wo
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) If back on sugar then start sugar project +Health
 (E) Install this for path fun https://github.com/tpope/vim-apathy 
 (E) Knock a few bricks off the top of the current tower 
-(E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
-(E) Make workstation spotless +Overhead @nova  
-(E) Message architect with photos of bathroom 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Publicly thank someone +Overhead Time:15 
 (E) Put the letter to Nova you wrote into Dropbox .
-(E) Review (days since) app counts +Overhead @nova @phone 
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
@@ -92,7 +86,6 @@ x 2020-05-14 Make list of THINGs that you'll only do after you have done book wo
 (E) Try a git commit script using https://stackoverflow.com/a/20438380/170243 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Vitimin Tablet +Health @nova  Time:02
 (E) Work on CareStar
 (E) Work on: https://github.com/joereddington/Projects-Private/issues/101 +PersonalProjects
 (E) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
@@ -142,27 +135,4 @@ x 2020-05-14 Make list of THINGs that you'll only do after you have done book wo
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/19 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
-(F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
-(F) map project:Good book reading habit.  +PersonalProjects
-(F) map project:Learn from mistakes  +PersonalProjects
-(F) map project:Make a family tree for mum... +PersonalProjects
-(F) map project:Save memories
-(F) map project:The project's and todo list is up to date with cleared inboxes.  +PersonalProjects
-(F) map project:Write a blog/guide for how you eventually managed to get notebooks working.  +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/137 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/145 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/148 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/155 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Public/issues/1 +PersonalProjects
-x 2020-05-13 (*) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
-x 2020-05-13 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
-x 2020-05-13 1. Look at the fear chart and check if we should restart it
-x 2020-05-13 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2020-05-13 1. Process Email @singleton +Overhead @phone  Time:90
-x 2020-05-13 1. drink 1L of Water @singleton +Health Time:03
-x 2020-05-13 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-x 2020-05-13 Check ranking scripts +Overhead
-x 2020-05-13 Put memory book question on reddit.
-x 2020-05-13 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-x 2020-05-13 map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
+(F) Install Wiki on Joereddington.com   https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
