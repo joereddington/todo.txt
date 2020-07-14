@@ -2793,3 +2793,52 @@ x 2020-06-24 Cut hair
 x 2020-06-24 Make card with Nova
 x 2020-06-24 Review Nova's folder. 
 x 2020-06-24 Write a letter to Nova +Family Time:30 
+x 2020-07-07 (*) Set up trustee email 
+x 2020-07-07 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+x 2020-07-07 1. Look at the fear chart and check if we should restart it
+x 2020-07-07 1. drink 1L of Water @singleton +Health Time:03
+x 2020-07-07 Check doorbell batteries
+x 2020-07-07 Redo Nova's icloud account @private
+x 2020-07-07 Send Julie photos of Leo  @private 
+x 2020-07-07 Setup Nova's Toy Kitchen @private (well, offline)
+x 2020-07-07 change razor blade Time:03 
+x 2020-07-07 map project:Make sure bike lights are sorted out. +PersonalProjects
+x 2020-07-07 map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
+x 2020-07-07 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-07-07 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2020-07-07 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2020-07-07 Give laptop screen a good clean +Overhead
+x 2020-07-07 Log weight +Health  Time:02 
+x 2020-07-07 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2020-07-07 Read some of the memory book and mark it in Goodreads @private (well, offline) 
+x 2020-07-07 Review (days since) app counts +Overhead @nova @phone 
+x 2020-07-07 TSE +Health Time:04 
+x 2020-07-07 Update the youtube watch list +Family Time:10 @phone @nova
+x 2020-07-07 2020-07-07 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-07-07 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2020-07-07 Check £40 in Wallet +Overhead @nova  @phone 
+x 2020-07-07 Cut nails +Health @nova  Time:04 
+x 2020-07-07 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2020-07-07 Get Flu vaxine +Health
+x 2020-07-07 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2020-07-07 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2020-07-07 map project:Good book reading habit.  +PersonalProjects
+x 2020-07-07 map project:Learn from mistakes  +PersonalProjects
+x 2020-07-07 map project:Save memories
+x 2020-07-08 (*) Put Blog post up about trustees 
+x 2020-07-08 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-07-08 (*) export photos and send to be printed 
+x 2020-07-08 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2020-07-08 Check wishlist
+x 2020-07-08 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2020-07-08 Publicly thank someone +Overhead Time:15 
+x 2020-07-08 Trim nose hair +Health @nova  Time:05 
+x 2020-07-08 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2020-07-08 Vitimin Tablet +Health @nova  Time:02
+x 2020-07-08 map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
+x 2020-07-08 map project:Timesheet to include considerably more bells and whistles for later analysis
+x 2020-07-08 (*) Contact four potential trustees 
+x 2020-07-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-07-08 Make workstation spotless +Overhead @nova  
+x 2020-07-08 Review starred items in feeds +Overhead
+x 2020-07-08 map project:Watch all the darktable videos.  +PersonalProjects
