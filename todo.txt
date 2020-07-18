@@ -1,39 +1,27 @@
-(A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(A) Review and rescore  Wheel Of life
-(B) Serious brainstorm on 'Partner and Children' goals 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/36 +PersonalProjects
+(A) go throught Kat-joe reminders list
+(B) Try magnets in Nova's room. 
+(C end of July) Return shoes to Post office 
+(C) Complete memory book diagrams https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(C) Fix Philosphers song for memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(C) Fix the bedroom wardrobe door 
 (C) Phone 0300 200 3300 to ask about TAX 
-(C) Setup credit cards 
-(C) Thank you cards for the Kitchen people at 23
-(C) Work on https://github.com/joereddington/Projects-Public/issues/35 
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
-(D) Add vim-peekapoo to vim on live-streaming account
+(C) Put in the rest of the corrections for memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(C) Put the corrections into the book  https://github.com/joereddington/Projects-Public/issues/35 
+(D) Look for Natwest credit card 
+(D) Process Natwest transactions 
+(D) Process garage inbox (and label it)  on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
 (D) Read Clare book 
-(D) Sort out PIN for Natwest credit card 
-(D) Work on: https://github.com/joereddington/Projects-Priv/issues/128 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/158 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(D) Update blog with missing gratitude posts on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
+(D) Work out a day to give blood 
+(D) trial notebook in pocket rather than phone: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Empty Joe inbox completely 
-(E) Floss +Health @nova  Time:05
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) If back on sugar then start sugar project +Health
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make sure paper crane is in bathroom @nova @phone  Time:03 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Review your highlights and notes from Kindle books +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Work on CareStar
 (E) Work on: https://github.com/joereddington/Projects-Private/issues/101 +PersonalProjects
 (E) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
 (E) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
@@ -55,6 +43,7 @@
 (E) Work on: https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (E) Write a letter to Nova +Family Time:30 
 (E) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(F) Check the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/11 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/114 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Private/issues/115 +PersonalProjects
