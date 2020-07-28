@@ -1,57 +1,44 @@
+(*) Work on: https://github.com/joereddington/Projects-Public/issues/30 +PersonalProjects
+(*) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (.) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects 
-    * Next action is to check https://stackoverflow.com/q/63101407/170243 tomorrow
-(A) Clean desktop for Kasia 
-(A) Check notebooks for tasks  @singleton +PlanningAndTracking Time:20
-    * Find purple book 
-(A) Call 0300 123 23 23 to donate blood 
-(E) Listen to https://onanimation.com/2019/03/23/the-into-the-spider-verse-animator-commentary-track-is-here/
-(A) Review and rescore  October Scoresheet
-(B) Update DBS payment at https://secure.crbonline.gov.uk/crsc/subscriber 
-    * Find out what your updat number is
+(A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
+(A) 1. Look at the fear chart and check if we should restart it
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) 1. drink 1L of Water @singleton +Health Time:03
+(A) Check notebooks for tasks  @singleton +PlanningAndTracking Time:20 
+(A) Review and rescore  Wheel Of life
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/36 +PersonalProjects
 (B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis
-(D) Skim an unread book
 (C End of July) Put in the corrections from page 67 in memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 
-    * Clone Repo
 (C End of July) Return shoes 
 (C end of july ) work on the next diagram for the memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 
-    * Switch to public account 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Check doorbell batteries
 (C) Check that Kat's Lastpass is working
 (C) Install door handles and stairgate
+(C) Move Zen internet over to the couples account 
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) Setup Nova's iPad so that the phonics apps are separately locked down
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C) map project:Watch all the darktable videos.  +PersonalProjects
 (D Kat) map project to scan some of the family photos
-(D) Add sibs people on social  
 (D) Break up chest of drawers by garage 
-    * Go outside 
 (D) Map the heat leakage from the external doors 
 (D) Process the paypal and amazon transactions in littlefinger 
-    * Open Email 
-    * Open Littlefinger 
-    * Search email 
 (D) Put Leo hook up in porch 
-    * Go to garage to find the hooks 
 (D) Put credit on burner phone 
+(D) Skim an unread book
 (D) Stretch Kat hooks 
 (D) Take Photos of outside the house and side of the house for the architect 
-    * Take photos of outside the house 
 (D) Update blog with gratitude posts since June 9th on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects 
-    * Clone blog 
-    * Download photos and dates 
 (D) Work on improving light blocking in bedroom https://github.com/joereddington/Projects-Private/issues/149 +PersonalProjects 
-    * Check in garage for more edging 
-    * Cut cardboard to fit and tape down 
-    * Buy edging for Nova's room. 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/158 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/26 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/27 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
@@ -64,23 +51,18 @@
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Copy blog post onto new site: https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects 
-    * Clone blog 
-    * Download these photos http://joereddington.com/6807/2020/03/02/eric-2019/  
-    * Copy and paste this text 
 (E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely 
-    * Go upstairs and get it 
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
 (E) Floss +Health @nova  Time:05
 (E) Go thought calendar and find at least one 'thank you's  you 
-    *can 
-    * make  +Overhead Time:03 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) Go through some of your presentations and put them online: https://github.com/joereddington/Projects-Public/issues/22 +PersonalProjects 
-    * Put the dropbox video here  
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Listen to https://onanimation.com/2019/03/23/the-into-the-spider-verse-animator-commentary-track-is-here/
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make sure paper crane is in bathroom @nova @phone  Time:03 
@@ -95,7 +77,6 @@
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Sprint on: https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects 
-    * Find a set of MP's twitter accounts 
 (E) Take a photo of Nova playing with the kitchen: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
 (E) Test the powerline kit with your desktop 
 (E) Trim nose hair +Health @nova  Time:05 
@@ -125,7 +106,6 @@
 (E) Write a letter to Nova about family photos or about taking control +Family Time:30 
 (E) change razor blade Time:03 
 (E) map photography long term goals:https://github.com/users/joereddington/projects/2 +PersonalProjects 
-    * Brainstorm on what you properly want. 
 (E) map project:Make sure bike lights are sorted out. +PersonalProjects
 (E) map project:Produce another set of photos for the walls to use up the remaining frames +PersonalProjects
 (E) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
@@ -151,9 +131,5 @@
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/19 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects 
-    * Add link to issue for blog: http://flow.joereddington.com/todo.txt/submodules/watcher/
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/37 +PersonalProjects
-(F) map project:Good book reading habit.  +PersonalProjects
-(F) map project:Learn from mistakes  +PersonalProjects
-(F) map project:Save memories
