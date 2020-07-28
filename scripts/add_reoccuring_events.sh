@@ -1,8 +1,8 @@
 #!/bin/bash
 cd "$(dirname "$0")"
 cd ..
-sort todo.txt > sorted.all
-sort eqt.todo.txt > sorted.eqt
+cat todo.txt > sorted.all
+cat eqt.todo.txt > sorted.eqt
 submodules/igor/igor -d > igor.txt 
 python3 submodules/vision/vision.py -d > vision.txt 
 grep "EQT" igor.txt >> sorted.eqt 
