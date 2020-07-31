@@ -4,6 +4,12 @@
 (*) map project:Release the OVF blog announcement. +EQT
 (*) map project:Renew insurance +EQT
 (*) map project:smile.amazon.co.uk +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(.) map project:Release the OVF blog announcement. +EQT
+(.) map project:Renew insurance +EQT
+(.) map project:smile.amazon.co.uk +EQT
 (A Sunday) Do the invoice for the prison books  
 (A Sunday) Email Trustees with invoices to pay, and new handover notes 
 (A) Do work for Julius 
