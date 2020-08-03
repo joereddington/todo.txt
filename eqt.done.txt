@@ -440,3 +440,29 @@ x 2020-05-02 (A week) Revise the Not Equal Grant
 x 2020-05-02 (A week) Update handover notes 
 x 2020-05-02 (A week) empty eqt email inbox 
 x 2020-05-02 (A week) work out forwarding from the money@ email account 
+x 2020-08-03 (A Sunday) Email Trustees with invoices to pay, and new handover notes 
+x 2020-05-02 (A Today ) review thing for Lyle 
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/110 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/112 +EQT
+x 2020-08-03 Write up a note for trustees about timesheet analysis: it's NOT what I could delegate, it's the THINGs I'm NOT doing because we don't have anybody 
+x 2020-08-03 map project:Invesitgate esme fairbain +EQT
+x 2020-08-03 (B week) bank reconcilation)
+x 2020-05-02 (A Today ) review thing for Lyle 
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2020-08-03 Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
+x 2020-08-03 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2020-08-03 map project:Bring in external funding by X +EQT
+x 2020-08-03 map project:Develop WWW hubs and strengthen relationships +EQT
+x 2020-08-03 map project:Get the new WWW code up and running.  +EQT
+x 2020-08-03 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2020-08-03 Check the next school time +EQT Time:03 
+x 2020-08-03 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2020-08-03 () Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/10.html +EQT Time:15 
+x 2020-08-03 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2020-08-03 Open and log progress on the bid status document +EQT Time:04
+x 2020-08-03 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-08-03 Search for funding for eQuality Time Projects +EQT
