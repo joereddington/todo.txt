@@ -8,7 +8,7 @@
 (*) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
 (A) map project:Joe to do full expenses algorithm. +EQT
-(B) Do millage expense
+(B) Do millage expense for EQT
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
