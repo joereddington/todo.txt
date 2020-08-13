@@ -1,31 +1,35 @@
-(.) Work on: https://github.com/joereddington/Projects-Public/issues/30 +PersonalProjects
-(.) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(A) 1. Lock phone away https://github.com/joereddington/Projects-Public/issues/31 
-(A) 1. Look at the fear chart and check if we should restart it
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) 1. drink 1L of Water @singleton +Health Time:03
 (A) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(A) Review and rescore  Wheel Of life
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) map project:I maintain a list of all my commitments and keep on top of it.  +PersonalProjects
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis
 (C End of July) Put in the corrections from page 89 in memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 
 (C end of july ) work on the next diagram for the memory book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Brainstorm on symptoms of fear. 
 (C) Call  Zen internet to move it over to the couples account 
 (C) Check doorbell batteries
 (C) Get photo of the iron test printed
 (C) Install door handles and stairgate
+(C) Make seiten 
+x 2020-08-13 Map climbing frame project 
+(C) Map smell project for Nova (and get facebook to suggest substances) - you'll need some unmarked containers. Include tastes - bitter, Sour, sweet and salty 
+(C) Put litter picking kit in pram
+(C) Send Caroline information about Nova's holiday, goals, and successes. Really pleased by how she played with her cousins  
 (C) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Setup standind order between accounts 
 (C) Sit down with Kat for the next step on the easter egg hunt
+(C) Tidy garage enought for table to go in. 
+(C) Upload the videos that kat sent 
+(C) Watch https://www.amazon.co.uk/Barry-Lyndon-Patrick-Magee/dp/B00EU764WM 
 (C) Watch the Marc Levoy videos https://github.com/joereddington/Projects-Private/issues/163
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/163 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/85 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 
 (D) 4am Map the heat leakage from the external doors 
+(D) Change ipad password and put it on label. 
+(D) Do the memory room with Kat 
+(D) Make playdoh with Nova 
+(D) Map project around https://github.com/joereddington/tmnt_wikipedia_bot 
 (D) Process the paypal and amazon transactions in littlefinger 
 (D) Put Leo hook up in porch 
 (D) Put credit on burner phone 
@@ -141,3 +145,8 @@
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/23 +PersonalProjects 
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/34 +PersonalProjects
 (F) Work on: https://github.com/joereddington/Projects-Public/issues/37 +PersonalProjects
+x 2020-08-13 1. Looking for urgent: and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-08-13 1. drink 1L of Water @singleton +Health Time:03
+x 2020-08-13 Make sure you have ordered the correct foods from tesco 
+x 2020-08-13 Order shower gel. 
+x 2020-08-13 Respond to the mirror STUFF on facebook 
