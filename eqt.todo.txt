@@ -1,9 +1,13 @@
-(A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
-(A) Review the Charity CEO messages about trustees 
+(.) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(.) map project:Release the OVF blog announcement. +EQT
+(.) map project:Renew insurance +EQT
+(.) map project:smile.amazon.co.uk +EQT
 (A) Do work for Julius 
 (A) Folow up with francesca about trustees 
-(A) Write the yvonne recommendation email 
 (A) Get a new DBS certificate 
+(A) Review the Charity CEO messages about trustees 
 (A) Work on Alexandra Hayes email  @private
 (A) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
@@ -17,6 +21,7 @@
 (A) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
+(A) Write the yvonne recommendation email 
 (A) map project:Invesitgate esme fairbain +EQT
 (A) map project:Joe to do full expenses algorithm. +EQT
 (B) Do millage expense for EQT
