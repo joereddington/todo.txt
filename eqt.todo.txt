@@ -1,19 +1,9 @@
-(.) Work on: https://github.com/eQualityTime/Public/issues/16 +EQT
-(.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
-(.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
-(.) map project:Release the OVF blog announcement. +EQT
-(.) map project:Renew insurance +EQT
-(.) map project:smile.amazon.co.uk +EQT
-(A) Do work for Julius 
-(A) Folow up with francesca about trustees 
-(A) Get a new DBS certificate 
-(A) Review the Charity CEO messages about trustees 
-(A) Work on Alexandra Hayes email  @private
-(A) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
+(D) Add https://github.com/eQualityTime/Home/issues/104 to the google doc for Yvonne 
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2020-09-04 Work on: https://github.com/eQualityTime/Public/issues/104 +EQT
+(A) Get back in contact with prison people see where and how we are, be nice. 
 (A) Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+(C) Investigate this https://www.threesixtygiving.org/about/vacancies/trustees/ 
 (A) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/110 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
@@ -21,10 +11,11 @@
 (A) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
-(A) Write the yvonne recommendation email 
-(A) map project:Invesitgate esme fairbain +EQT
 (A) map project:Joe to do full expenses algorithm. +EQT
+(B) Write Proxy voting policy  +EQT
 (B) Do millage expense for EQT
+(B) Map and sprint on project to ainduct trustees 
+(B) Review the Charity CEO facebook group messages about trustees 
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
@@ -37,15 +28,19 @@
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 +EQT
 (B) map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
+(C trustee induction) Make sure all meeting minutes are in the right place 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Blog/facebook/google on how to show the value of a licence in Accounts 
+(C) Contact the insurance octpus about the payments made 
 (C) Do the blog post for Public/issues/84
 (C) Find out everything you can about GDPR
 (C) Find out why the issues script is putting this closed project into the todo list: https://github.com/eQualityTime/Public/issues/101 
 (C) Find paying in slip for cheques 
+(C) Get a new DBS certificate 
 (C) Invesgitate quickbooks discount on techsoup
 (C) Rewrite partnership aggreeement for Glasgow 
 (C) Sort out refund on Chris Train ticket
+(C) Tell trustees that there are potential new trustes 
 (C) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
@@ -56,6 +51,7 @@
 (C) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
 (C) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
+(C) Write a blog post about OVF 
 (C) map project: Properly develop Drawing version of TMC 
 (C) map project:Bring in external funding by X +EQT
 (C) map project:Develop WWW hubs and strengthen relationships +EQT
@@ -79,14 +75,12 @@
 (D) map project:Improvements in transparency +EQT
 (D) map project:Update open Voice Factory site.  +EQT
 (E) Backup Dreamhost +EQT
-(E) Check the next school time +EQT Time:03 
 (E) Download the amazon months sales figures +EQT
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-(E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
+(c Alexandra ) Work on Alexandra Hayes email  @private
