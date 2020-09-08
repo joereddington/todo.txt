@@ -1,4 +1,6 @@
+(A) Do https://github.com/eQualityTime/Home/issues/105 
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+(A) WWW webiste - add the faq, and the leadership pack, and warn about news. 
 (A) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/112 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
