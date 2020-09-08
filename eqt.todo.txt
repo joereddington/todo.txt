@@ -38,7 +38,6 @@
 (C) Invesgitate quickbooks discount on techsoup
 (C) Investigate this https://www.threesixtygiving.org/about/vacancies/trustees/ 
 (C) Rewrite partnership aggreeement for Glasgow 
-(C) Sort out refund on Chris Train ticket
 (C) Tell trustees that there are potential new trustes 
 (C) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
@@ -70,12 +69,7 @@
 (D) map project:Improvements in transparency +EQT
 (D) map project:Update open Voice Factory site.  +EQT
 (E) Backup Dreamhost +EQT
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (c Alexandra ) Work on Alexandra Hayes email  @private
