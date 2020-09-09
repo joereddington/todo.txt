@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (A) Do prep for EQT meeting 
 (B) Nova's height plank/doorway. 
 (B) Put sample books in the office
@@ -10,6 +11,10 @@
 (C) Setup standing order between accounts 
 (C) Sit down with Kat for the next step on the easter egg hunt
 (C) Upload the videos that kat sent 
+=======
+(C Library) Return book to the library 
+(C Nova ) More sanding on the pallets 
+>>>>>>> e029b7e5ebde45b469f4252f8a9cffeb0e0f3c14
 (D Clare) read Clare's book 
 (D Kat) 4am Map the heat leakage from the external doors 
 (D Kat) Go and get Leo hook out of the garage to put  up in porch 
@@ -21,6 +26,7 @@
 (D Kat) look up all the women in Nova's book. 
 (D Kat) put up Mirror
 (D Zoe) read Zoe's book 
+<<<<<<< HEAD
 (D) 4am Map the heat leakage from the external doors 
 (D) Arrange with board games people. 
 (D) Do the memory room with Kat 
@@ -30,6 +36,11 @@
 (D) Put credit on burner phone 
 (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Take Photos of outside the house and side of the house for the architect 
+=======
+(D) Arrange with board games people. 
+(D) Fix curtains 
+(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+>>>>>>> e029b7e5ebde45b469f4252f8a9cffeb0e0f3c14
 (D) Update mac OS (for facetime calling and presumably other THINGs  
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/30 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
