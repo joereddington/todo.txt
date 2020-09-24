@@ -3184,3 +3184,25 @@ x 2020-09-21 10 Phone zen to do a transfer Work on: https://github.com/joereddin
 x 2020-09-21 20 Check that everything in the 'in process' box really does have a task+Overhead @nova 
 x 2020-09-21 10 map project:Watch the Marc Levoy Videos +PersonalProjects
 x 2020-09-21 20 Review starred items in feeds +Overhead
+x 2020-09-22 20 Write a letter to Nova +Family Time:30 
+x 2020-09-22 20 Write a letter to Nova about family photos or about taking control +Family Time:30 
+x 2020-09-22 05 Floss +Health @nova  Time:05
+x 2020-09-22 20 Make seiten 
+x 2020-09-22 15 Pick a project to quit and write a blog about it. 
+x 2020-09-22 10 Empty Joe inbox completely +Overhead @nova  Time:15 
+x 2020-09-22 10 Upload the videos that kat sent 
+x 2020-09-22 20 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2020-09-22 (C Nova ) 15 More sanding on the pallets  (@garage)
+x 2020-09-22 10 Pick out some nice memories to do a memory room for Kat 
+x 2020-09-24 (D Zoe) 60 read Zoe's book 
+x 2020-09-24 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+x 2020-09-23 (D Clare) 40  read Clare's book 
+x 2020-09-23 (D Kat) 10 Go and get Nova's book about women and look up all the women in Nova's book. 
+x 2020-09-23 (D Kat) 60 Process the amazon transactions in littlefinger 
+x 2020-09-23 10 Brainstorm: https://github.com/joereddington/Projects-Private/issues/11 +PersonalProjects
+x 2020-09-23 10 Map and deliver on new Game of House Of Cards project. 
+x 2020-09-23 10 map photography long term goals:https://github.com/users/joereddington/projects/2 +PersonalProjects 
+x 2020-09-23 20 Brainstorm on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
+x 2020-09-23 20 Work on CareStar
+x 2020-09-24 (D Kat) 10 4am Map the heat leakage from the external doors 
+x 2020-09-24 10 Move the teapot inside. 
