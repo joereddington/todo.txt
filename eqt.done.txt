@@ -500,3 +500,6 @@ x 2020-09-07 map project:Get the new WWW code up and running.  +EQT
 x 2020-09-07 map project:Get the new WWW code up and running.  +EQT
 x 2020-09-07 map project:Joe to do full expenses algorithm. +EQT
 x 2020-09-07 map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
+x 2020-09-09 Get back in contact with prison people see where and how we are, be nice. 
+x 2020-09-09 WWW webiste - add the faq, and the leadership pack, and warn about news. 
+x 2020-09-28 Work out how to do email on new white water writers site

@@ -3206,3 +3206,54 @@ x 2020-09-23 20 Brainstorm on: https://github.com/joereddington/Projects-Private
 x 2020-09-23 20 Work on CareStar
 x 2020-09-24 (D Kat) 10 4am Map the heat leakage from the external doors 
 x 2020-09-24 10 Move the teapot inside. 
+x 2020-09-25 (D Kat) Check doorbell batteries
+x 2020-09-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-09-25 1. Process Email @singleton +Overhead @phone  Time:90
+x 2020-09-25 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2020-09-25 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2020-09-25 Check £40 in Wallet +Overhead @nova  @phone 
+x 2020-09-25 Confirm boardgames with A&S and invite Tom 
+x 2020-09-25 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2020-09-25 Do Menu for the week +Family @nova @phone  Time:01 
+x 2020-09-25 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2020-09-25 Find a place for the social media drafts to go 
+x 2020-09-25 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2020-09-25 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2020-09-25 Publicly thank someone +Overhead Time:15 
+x 2020-09-25 Put gratitude post (and Not Equal Post) onto blog 
+x 2020-09-25 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-09-25 Save a nice family memory +Family @phone @nova  Time:03 
+x 2020-09-25 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2020-09-25 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-09-25 Update the youtube watch list +Family Time:10 @phone @nova
+x 2020-09-25 Vitimin Tablet +Health @nova  Time:02
+x 2020-09-25 map project:Timesheet to include considerably more bells and whistles for later analysis
+x 2020-09-25 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2020-09-25 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2020-09-25 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+x 2020-09-25 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2020-09-25 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2020-09-25 Quit some projects
+x 2020-09-25 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2020-09-28 Post review of smashburger
+x 2020-09-28 Send cupcake photos to cupcake place 
+x 2020-09-28 Set up Alexa routine for bedroom lights
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+x 2020-09-28 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 @facebook
+x 2020-09-28 Post to Sibling Facebook group @nova @phone  Time:06 @facebook
+x 2020-09-28 Cut nails +Health @nova  Time:04 
+x 2020-09-28 Trim nose hair +Health @nova  Time:05 
+x 2020-09-28 04 Tidy up the climbing frame
+x 2020-09-28 10 Order bulbs for kitchen 
+x 2020-09-28 10 Review and rescore  Wheel Of life
+x 2020-09-28 Book eye test 
+x 2020-09-28 Create a playlist which is 'current album' 
+x 2020-09-28 Log weight +Health  Time:02 
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Public/issues/39 +PersonalProjects
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+x 2020-09-28 Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2020-09-28 10 redirect www.windsorjudo.co.uk Ato the facebook page 
+x 2020-09-29 Check perscription .
+x 2020-09-28 10 Check work timesheet 
