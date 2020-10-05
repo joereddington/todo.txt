@@ -1,106 +1,133 @@
-(.) 20 Write blog on  https://github.com/eQualityTime/Public/issues/16 +EQT
-x 2020-09-28 (.) 60 Fix the code BG and SK language packs for JS 
-(.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
-(.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
-(.) map project:Release the OVF blog announcement. +EQT
-(.) map project:Renew insurance +EQT
-(.) map project:smile.amazon.co.uk +EQT
-(A) Do bank reconcilaition
+(A) 10 map project:Invesitgate esme fairbain +EQT
+(A) Fix the unpaid expenses in Quickbooks 
+(C) Map mailchimp project 
+(A) 10 map project:Joe to do full expenses algorithm. +EQT
+(A) 30 Add and check unity payments 
+(A) 60 Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
+(A) 60 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Do https://github.com/eQualityTime/Home/issues/105 
-(A) Phone amazon about the credit line
-(A) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/110 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/112 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
-(A) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
-(A) map project:Invesitgate esme fairbain +EQT
-(A) map project:Joe to do full expenses algorithm. +EQT
-(A) map project:Onboard the new trustees  +EQT
-(A) map project:Set up policy for proxy voting. +EQT
+(B) 10 map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
+(B) 20 Update https://github.com/eQualityTime/Public/issues/114 with the information we have +EQT
+(B) 60 Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
 (B) Do millage expense for EQT
-(B) Map and sprint on project to ainduct trustees 
-(B) Review the Charity CEO facebook group messages about trustees 
-(B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/85 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/128 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
 (B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 +EQT
-(B) Write Proxy voting policy  +EQT
-(B) map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
 (C Alexandra ) Work on Alexandra Hayes email  @private
-(C trustee induction) Make sure all meeting minutes are in the right place 
+(C) 10  Blog  https://github.com/eQualityTime/Public/issues/86 +EQT
+(C) 10 Blog Japan trip 
+(C) 10 Blog/facebook/google on how to show the value of a licence in Accounts 
+(C) 10 Do the blog post for Public/issues/84
+(C) 10 map project:Get files off public dropbox  +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Blog jpane trip 
-(C) Blog/facebook/google on how to show the value of a licence in Accounts 
-(C) Contact the insurance octpus about the payments made 
-(C) Do the blog post for Public/issues/84
+(C) 20 Write a blog post about OVF 
+(C) 60 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
+(C) 60 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
 (C) Find out everything you can about GDPR
-(C) Find paying in slip for cheques 
 (C) Get a new DBS certificate 
-(C) Invesgitate quickbooks discount on techsoup
-(C) Investigate this https://www.threesixtygiving.org/about/vacancies/trustees/ 
-(C) Pay in cheques - find the paying in slips 
+(C) Look for the Paying In slips to pay in the Amazon cheques
+(C) Phone the insurance octpus about the payments made 
 (C) Rewrite partnership aggreeement for Glasgow 
-(C) Tell trustees that there are potential new trustes 
-(C) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/32 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
-(C) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
-(C) Write a blog post about OVF 
-(C) map project: Properly develop Drawing version of TMC 
-(C) map project:Bring in external funding by X +EQT
-(C) map project:Develop WWW hubs and strengthen relationships +EQT
-(C) map project:Get files off public dropbox  +EQT
-(C) map project:Get the new WWW code up and running.  +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(D) Add https://github.com/eQualityTime/Home/issues/104 to the google doc for Yvonne 
-(D) Check if Plymouth invoice came through
+(D) 10 Blog  https://github.com/eQualityTime/Public/issues/112 +EQT
+(D) 10 map project:All Employees should have uploaded all changed git code +EQT
+(D) 10 map project:Brainstorm making social media more about books +EQT
+(D) 10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+(D) 10 map project:Release the OVF blog announcement. +EQT
+(D) 10 map project:Update open Voice Factory site.  +EQT
+(D) 10 map project:smile.amazon.co.uk +EQT
+(D) 20 Write Landing Page for EQT website (see https://support.google.com/grants/answer/1657899)   https://github.com/eQualityTime/Home/issues/70 +EQT
+(D) 20 Write blog on  https://github.com/eQualityTime/Home/issues/104 +EQT
+(D) 20 Write blog on  https://github.com/eQualityTime/Public/issues/16 +EQT
 (D) Do full accounts algorithm +EQT Time:99
-(D) Do millage expense for EQT
-(D) Put up Mac Mini Housing 
-(D) Work on: https://github.com/eQualityTime/Home/issues/70 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/113 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/28 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Brainstorm making social media more about books +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
-(D) map project:Improvements in transparency +EQT
-(D) map project:Update open Voice Factory site.  +EQT
-(E) Backup Dreamhost +EQT
+(E) 15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+(E) Open list of projects to be funded +EQT
+(E) Ring up Not Equal and be nice to them. 
+(E) Search for funding for eQuality Time Projects +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (E) Check the next school time +EQT Time:03 
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 (E) Open and log progress on the bid status document +EQT Time:04
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(D) Do full accounts algorithm +EQT Time:99
+(E) Backup Dreamhost +EQT
+(E) Download the amazon months sales figures +EQT
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+(E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
-(c Alexandra ) Work on Alexandra Hayes email  @private
-x 2020-09-28 (.) Probably worth checking your 'time spent' for the week so far. 
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(E) Check the next school time +EQT Time:03 
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(.) map project:Renew insurance +EQT
+(.) map project:Release the OVF blog announcement. +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/112 +EQT
+(.) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
+(.) map project:smile.amazon.co.uk +EQT
+(.) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
+(.) Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
+(A) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
+(A) map project:Joe to do full expenses algorithm. +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+(A) map project:Invesitgate esme fairbain +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+ +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/85 +EQT
+(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
+(B) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
+(B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/128 +EQT
+(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 +EQT
+(C) map project:Get files off public dropbox  +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
+(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
+(C) map project:Get the new WWW code up and running.  +EQT
+(C) map project:Bring in external funding by X +EQT
+(C) map project:Develop WWW hubs and strengthen relationships +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) map project:All Employees should have uploaded all changed git code +EQT
+(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+(D) map project:Brainstorm making social media more about books +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
+(D) map project:Update open Voice Factory site.  +EQT
+(D) map project:Continually improve and train on working practices and technology +EQT
+(D) map project:Improvements in transparency +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/28 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/70 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/113 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT

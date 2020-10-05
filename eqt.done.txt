@@ -503,3 +503,55 @@ x 2020-09-07 map project:Timesheet to include considerably more bells and whistl
 x 2020-09-09 Get back in contact with prison people see where and how we are, be nice. 
 x 2020-09-09 WWW webiste - add the faq, and the leadership pack, and warn about news. 
 x 2020-09-28 Work out how to do email on new white water writers site
+x 2020-09-28 (.) 60 Fix the code BG and SK language packs for JS 
+x 2020-09-28 (.) Probably worth checking your 'time spent' for the week so far. 
+x 2020-09-29 10 Put up Mac Mini Housing 
+x 2020-09-29 Backup Dreamhost +EQT
+x 2020-09-29 Check the next school time +EQT Time:03 
+x 2020-09-29 Download the amazon months sales figures +EQT
+x 2020-09-29 Find paying in slip for cheques 
+x 2020-09-29 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2020-09-29 Investigate this https://www.threesixtygiving.org/about/vacancies/trustees/ 
+x 2020-09-29 Open and log progress on the bid status document +EQT Time:04
+x 2020-09-29 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-09-29 Send Trustees something nice about outcomes +EQT
+x 2020-09-29 Tell trustees that there are potential new trustes 
+x 2020-09-29 Do millage expense for EQT
+x 2020-09-29 Review the Charity CEO facebook group messages about trustees 
+x 2020-09-29 Write Proxy voting policy  +EQT
+x 2020-09-29 map project:Set up policy for proxy voting. +EQT
+x 2020-09-29 (C trustee induction) Make sure all meeting minutes are in the right place 
+x 2020-09-29 Map and sprint on project to ainduct trustees 
+x 2020-09-29 Add https://github.com/eQualityTime/Home/issues/104 to the google doc for Yvonne 
+x 2020-09-29 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/110 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/113 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/32 +EQT
+x 2020-09-29 (.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/85 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
+x 2020-09-29 Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
+x 2020-09-29 10 map project:Improvements in transparency +EQT
+x 2020-09-29 10 map project:Continually improve and train on working practices and technology +EQT
+x 2020-09-29 10 map project:Develop WWW hubs and strengthen relationships +EQT
+x 2020-09-29 Invesgitate quickbooks discount on techsoup
+x 2020-09-29 10 Phone amazon about the credit line
+x 2020-09-29 10 map project:Onboard the new trustees  +EQT
+x 2020-09-29 10 Check if Plymouth invoice came through

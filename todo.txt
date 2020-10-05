@@ -1,13 +1,70 @@
-(B) 10 map project:Do the reconciliation for Kat
-(B) 10 map project:Visit richard +PersonalProjects
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) 120 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (B) 30 Show Nova that you have the same tools https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+(B) Regenerate the list of disabled people on wikipedia. 
+(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(B) map project:Do the reconciliation for Kat. 
+(B) map project:Timesheet to include considerably more bells and whistles for later analysis
+(B) map project:Visit richard +PersonalProjects
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 10 Get Nova hooks on the back of her door 
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 60 Read clockwork strumpet +PersonalProjects
-(C) 90 Bring work timesheet into Balance 
-(D) 10 Make List for Nappy Bag 
-(E) 03 change razor blade Time:03 
-(E) 05 Floss +Health @nova  Time:05
+(C) Quit some projects (oh
+(C) Review and rescore  Wheel Of life
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/39 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) map project:Finnish clockwork strumpet +PersonalProjects
+(D Kat) Check doorbell batteries
+(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (E) 10 Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) 20 Work on CareStar
 (E) 20 Write a letter to Nova +Family Time:30 
+(E) Add reddit to the social media calendar
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check wishlist
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead @nova  Time:15 
+(E) Floss +Health @nova  Time:05
+(E) Give laptop screen a good clean +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) If back on sugar then start sugar project +Health
+(E) Listen to  Randy Pausch Talk +Overhead @phone 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Make workstation spotless +Overhead @nova  
+(E) Map Nova Clock Project
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Publicly thank someone +Overhead Time:15 
+(E) Review (days since) app counts +Overhead @nova @phone 
+(E) Review starred items in feeds +Overhead
+(E) Review your highlights and notes from Kindle books +Overhead
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) TSE +Health Time:04 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Work on CareStar
+(E) Write Moonpig cards for this month +Overhead
+(E) Write a letter to Nova +Family Time:30 
+(E) change razor blade Time:03 
