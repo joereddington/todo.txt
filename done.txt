@@ -3339,3 +3339,12 @@ x 2020-10-16 Message about boardgaming
 x 2020-10-16 map project:Visit richard +PersonalProjects
 x 2020-10-16 Check that everything in the 'in process' box really does have a task+Overhead @nova 
 x 2020-10-16 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2020-10-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-10-16 120 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+x 2020-10-16 30 Show Nova that you have the same tools https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+x 2020-10-16 Do the redirection for http://joereddington.com/793/2013/09/29/famous-disabled-people-according-to-wikipedia/  
+x 2020-10-16 I am doing this, but I'm setting up for the next hour. 
+x 2020-10-16 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-10-16 Send Caroline the Play-doh video and the climbing one
+x 2020-10-16 Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+x 2020-10-16 Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
