@@ -555,3 +555,39 @@ x 2020-09-29 Invesgitate quickbooks discount on techsoup
 x 2020-09-29 10 Phone amazon about the credit line
 x 2020-09-29 10 map project:Onboard the new trustees  +EQT
 x 2020-09-29 10 Check if Plymouth invoice came through
+x (.) Work on: https://github.com/eQualityTime/Public/issues/36 +EQT
+x 2020-10-12 (A ) buy mouse and pens from amazon so there is a sale
+x 2020-10-16 10 map project:Timesheet to include considerably more bells and whistles for later analysis+EQT
+x 2020-10-16 20 Update https://github.com/eQualityTime/Public/issues/114 with the information we have +EQT
+x 2020-10-16 60 Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
+x 2020-10-16 Check the next school time +EQT Time:03 
+x 2020-10-16 Download the amazon months sales figures +EQT
+x 2020-10-16 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2020-10-16 Open and log progress on the bid status document +EQT Time:04
+x 2020-10-16 Open list of projects to be funded +EQT
+x 2020-10-16 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2020-10-16 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2020-10-16 Search for funding for eQuality Time Projects +EQT
+x 2020-10-16 Send Trustees something nice about outcomes +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
+x 2020-10-16 map project:All Employees should have uploaded all changed git code +EQT
+x 2020-10-16 map project:Continually improve and train on working practices and technology +EQT
+x 2020-10-16 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2020-10-16 map project:Improvements in transparency +EQT
+x 2020-10-16 10  Blog  https://github.com/eQualityTime/Public/issues/86 +EQT
+x 2020-10-16 10 Blog Japan trip 
+x 2020-10-16 10 Do the blog post for Public/issues/84
+x 2020-10-16 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2020-10-16 Find out everything you can about GDPR
+x 2020-10-16 map project:Bring in external funding by X +EQT
+x 2020-10-16 map project:Develop WWW hubs and strengthen relationships +EQT
+x 2020-10-16 map project:Get the new WWW code up and running.  +EQT
+x 2020-10-16 10 Blog  https://github.com/eQualityTime/Public/issues/112 +EQT
+x 2020-10-16 10 map project:All Employees should have uploaded all changed git code +EQT
+x 2020-10-16 10 map project:Brainstorm making social media more about books +EQT
+x 2020-10-16 10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2020-10-16 10 map project:Joe to do full expenses algorithm. +EQT @private 
