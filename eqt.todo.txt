@@ -1,8 +1,5 @@
-(.) Blog this: https://www.dropbox.com/home/eQuality%20Time/public?preview=Public+Version+of+Useful+things+to+know+while+Joe+is+away.pdf 
-(.) Put Smile project into social media calendar 
 (.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
 (.) Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
-(.) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
 (.A) Do the expenses for the other people 
 (.A) Set up AGM  @private 
 (A) 60 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
@@ -63,3 +60,6 @@
 x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
+x 2020-10-20 (.) Blog this: https://www.dropbox.com/home/eQuality%20Time/public?preview=Public+Version+of+Useful+things+to+know+while+Joe+is+away.pdf 
+x 2020-10-20 (.) Put Smile project into social media calendar 
+x 2020-10-20 (.) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
