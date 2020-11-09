@@ -3393,3 +3393,34 @@ x 2020-11-04 Review and rescore  Wheel Of life
 x 2020-11-04 Vitimin Tablet +Health @nova  Time:02
 x 2020-11-04 change razor blade Time:03 
 x 2020-11-04 map project:Timesheet to include considerably more bells and whistles for later analysis
+x 2020-11-04 Check wishlist
+x 2020-11-07 Put indexed arrays in memeory book 
+x 2020-11-08 Edit photos
+x 2020-11-08 For fake news - world champtions is a really good examples 
+x 2020-11-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-11-09 20 Write a letter to Nova +Family Time:30 
+x 2020-11-09 Do Menu for the week +Family @nova @phone  Time:01 
+x 2020-11-09 Measure and cut a length of light cable to test with the smart controller 
+x 2020-11-09 Post to Sibling Facebook group @nova @phone  Time:06 
+x 2020-11-09 Publicly thank someone +Overhead Time:15 
+x 2020-11-09 Take screwdriver and clamp out of garage to Change combination on side door 
+x Reply to https://twitter.com/GoContigo/status/1324749668027420673 
+x 2020-11-09 10 Empty Joe inbox completely +Overhead @nova  Time:15 
+x 2020-11-09 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2020-11-09 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2020-11-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2020-11-09 Make workstation spotless +Overhead @nova  
+x 2020-11-09 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2020-11-09 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-11-09 Write a letter to Nova +Family Time:30 
+x 2020-11-09 get Nova's tools from the garage 
+x 2020-11-09 Review your highlights and notes from Kindle books +Overhead
+x 2020-11-09 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2020-11-09 Update the youtube watch list +Family Time:10 @phone @nova
+x 2020-11-09 Review (days since) app counts +Overhead @nova @phone 
+x 2020-11-09 Review starred items in feeds +Overhead
+x 2020-11-09 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2020-11-09 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2020-11-09 Empty Joe inbox completely +Overhead @nova  Time:15 
+x 2020-11-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2020-11-09 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family

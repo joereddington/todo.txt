@@ -1,4 +1,7 @@
 (.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(.) Send YS invoice 
+(.) Get Start dates for Not EQUAL 
+(.) Claim all your lockdown expenses
 (.) Work on: https://github.com/eQualityTime/Public/issues/86 +EQT
 (.A) Do the expenses for the other people 
 (.A) Set up AGM  @private 

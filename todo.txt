@@ -1,59 +1,29 @@
-(. Watch youtube videos on windows 
-Reply to https://twitter.com/GoContigo/status/1324749668027420673 
-Write the blogs about ovf and about frustrations with furlough
-Put indexed arrays in memeory book 
-Text darious about the heater 
-Edit photos
-For fake news - world champtions is a really good examples 
-Make carrot cake 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Buy Nava book 
-(C) Measure and cut a length of light cable to test with the smart controller 
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Write the speech about Leo and Gosh 
-(C) map project:Finnish clockwork strumpet +PersonalProjects
-(D) Go to garage and get padlock for side door 
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Take screwdriver and clamp out of garage to Change combination on side door 
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) get Nova's tools from the garage 
-(E) 10 Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) 20 Write Moonpig cards for this month +Overhead
-(E) 20 Write a letter to Nova +Family Time:30 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
-(E) 60 Spend an hour (a post-it note) sorting out the gargage 
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make workstation spotless +Overhead @nova  
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Publicly thank someone +Overhead Time:15 
-(E) Review (days since) app counts +Overhead @nova @phone 
-(E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) TSE +Health Time:04 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Work on CareStar
-(E) Write Moonpig cards for this month +Overhead
-(E) Write a letter to Nova +Family Time:30 
-x 2020-11-04 Check wishlist
+(B) Review all projects in github https://github.com/users/joereddington/projects/1#card-30279917
+(C) Change combinaton on new lock for side gate 
+(C) Get screwdriver and vasaline have a look at the curtain runner.
+(C) Select birthday gift for Yvonne and send by the 22nd.  
+(C) Watch the window videos that you added to youtube watch later
+(D Kat) Talk to Kat about taking down the shelves in the garage. 
+(D) Take Photos and measurements from outside the house for architect
+(E) Call Natwest on 0370 600 0459 to get new payment card and new pin check THING
+(E) Get drill, bits, and screws to put bold on side soor
+(E) Make this carrot cake for Kat 
+(E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter
+(E) Watch Randy Pausch Talk https://www.youtube.com/watch?v=oTugjssqOT0
+(E) Work out why Tulip isn't on this list https://joereddington.com/rankingmps/ 
+Work on: https://github.com/joereddington/Projects-Private/issues/164 
+Work on: https://github.com/joereddington/Projects-Private/issues/38 
+Work on: https://github.com/joereddington/Projects-Private/issues/82 
+Work on: https://github.com/joereddington/Projects-Public/issues/31 
+Work on: https://github.com/joereddington/Projects-Public/issues/35 
+Work on: https://github.com/joereddington/Projects-Public/issues/41 
+Work on: https://github.com/joereddington/Projects-Public/issues/9 
+Write Moonpig cards for this month 
+Write the speech about Leo and Gosh 
+map project:Finnish clockwork strumpet 
+x 2020-11-09 Check the firebreak in: whatsapp and facebook and and twitter. Time:20 
+x 2020-11-09 Find out the make and model of the heater in the bathroom 
+x 2020-11-09 Save a nice family memory   Time:03 
+x 2020-11-09 TSE Time:04 
+x 2020-11-09 Trim nose hair  Time:05 
+x 2020-11-09 Work on CareStar
