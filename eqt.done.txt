@@ -591,3 +591,9 @@ x 2020-10-16 10 map project:All Employees should have uploaded all changed git c
 x 2020-10-16 10 map project:Brainstorm making social media more about books +EQT
 x 2020-10-16 10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
 x 2020-10-16 10 map project:Joe to do full expenses algorithm. +EQT @private 
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
+x 2020-10-20 (.) Blog this: https://www.dropbox.com/home/eQuality%20Time/public?preview=Public+Version+of+Useful+things+to+know+while+Joe+is+away.pdf 
+x 2020-10-20 (.) Put Smile project into social media calendar 
+x 2020-10-20 (.) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
