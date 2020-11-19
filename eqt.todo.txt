@@ -1,4 +1,6 @@
 (.) Work on: https://github.com/eQualityTime/Public/issues/84 +EQT
+(A) Fix The OBF board name issue, include buying powerpoint licence 
+(B) Format the minutes sent by Clare +EQT 
 (.) Send YS invoice 
 (.) Get Start dates for Not EQUAL 
 (.) Claim all your lockdown expenses
