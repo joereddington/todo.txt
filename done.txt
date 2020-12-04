@@ -3497,3 +3497,20 @@ x 2020-12-03 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2020-12-03 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2020-12-03 Quit some projects (oh
 x 2020-12-03 Watch Randy Pausch Talk https://www.youtube.com/watch?v=oTugjssqOT0
+x 2020-12-04 Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+x 2020-12-04 Work onhttps://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+x 2020-12-04 (D Kat) Check doorbell batteries
+x 2020-12-04 (D Kat) Talk to Kat about taking down the shelves in the garage. 
+x 2020-12-04 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2020-12-04 Fix vision script 
+x 2020-12-04 Get iphone (D) Properly set up smart plugs 
+x 2020-12-04 Get tape measure (C) Measure and buy window fittings
+x 2020-12-04 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2020-12-04 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2020-12-04 Review all of Rachels messages for https://github.com/joereddington/Projects-Private/issues/164 
+x 2020-12-04 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-12-04 Send (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2020-12-04 Ssh into sever (E) Fix top 60 bug in ranking scripts 
+x 2020-12-04 Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
+x 2020-12-04 Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2020-12-04 Write Moonpig cards for this month +Overhead
