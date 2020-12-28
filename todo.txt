@@ -1,13 +1,9 @@
 (A) 10 Empty Joe inbox completely +Overhead @nova  Time:15 
-(B) 30 Review Sibs draft on Google Drive 
-(B) 60 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (B) Do the EQT reconciliation. 
-(C) 03 Add meal planning to DELORES 
 (C) 04 Find the new lock for side gate (C) Change combination on new lock for side gate 
-(C) 10 Brainstrom 'what do I need to walk into the kitchen and say 'this is my kitchen.'?' 
 (C) 15 Rewrite memory latex file. 
 (C) 20 Write up the issue for 'someone else' to do the google grant +EQT 
-(C) Put 'paint house' into projects list. 
+(D) Fix the curtain in the bedroom 
 (E) 04 Take Ties downstaris for zoom. 
 (E) 10 Get drill, bits, and screws from garage to put bolt on side door
 (E) 15 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -22,3 +18,9 @@
 (E) Book flu vaxine 
 (E) Get Letters to a Young Mathematician for Kate's lad 
 (E) Retrun switch to amazon 
+(E) eyeball the window brackets 
+x 2020-12-19 03 Add meal planning to DELORES 
+x 2020-12-19 10 Brainstrom 'what do I need to walk into the kitchen and say 'this is my kitchen.'?' 
+x 2020-12-19 30 Review Sibs draft on Google Drive 
+x 2020-12-19 60 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+x 2020-12-19 Put 'paint house' into projects list. 
