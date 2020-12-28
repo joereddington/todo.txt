@@ -1,21 +1,16 @@
-(A) 1. Looking for urgent: check notebooks  @singleton +PlanningAndTracking Time:20
-(A) 10 Empty Joe inbox completely +Overhead @nova  Time:15 
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+(A) Take Joe inbox around the house putting things in the correct places 
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) map project:https://www.facebook.com/joe.reddington/posts/10101092672604150 +PersonalProjects
-(C) 04 Find the new lock for side gate (C) Change combination on new lock for side gate 
-(C) 15 Rewrite memory reviewing latex file. 
-(C) 20 Write up the issue for 'someone else' to do the google grant +EQT 
-(C) Investigate the Jocko mug 
-(C) Review and rescore  Wheel Of life
+(C) Download and rewrite memory reviewing latex file. 
+(C) Get Kat laptop to Investigate the Jocko mug 
+(C) Get the paper  - sit down and do a full process on sorting out your goals for the year. 
+(C) Go to Garage and  Find the new lock for side gate (C) Change combination on new lock for side gate 
+(C) Measure the main bedroom window for new blind 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Write a post about 'don't like being treated like a child' issue and ask for help. 
 (C) map project:Finnish clockwork strumpet +PersonalProjects
-(D Kat) Check doorbell batteries
-(D) Fix the curtain in the bedroom 
+(D) Get the curtain hooks from garage to Fix the curtain in the bedroom 
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (E) 04 Take Ties downstaris for zoom. 
 (E) 10 Get drill, bits, and screws from garage to put bolt on side door
@@ -31,8 +26,18 @@
 (E) Floss +Health @nova  Time:05
 (E) Get Letters to a Young Mathematician for Kate's lad 
 (E) Make Mouse-sniper a github project( as in, put it on the project boards)  
+(E) Plan food tasting day with Nova 
 (E) Put Switch in a envelope and take to post office. 
+(E) Put spare wifi plug in spare room 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Work on CareStar
 (E) Write a letter to Nova +Family Time:30 
 (E) eyeball the window brackets 
+x 2020-12-28 (D Kat) Check doorbell batteries
+x 2020-12-28 1. Looking for urgent: check notebooks  @singleton +PlanningAndTracking Time:20
+x 2020-12-28 20 Write up the issue for 'someone else' to do the google grant +EQT 
+x 2020-12-28 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2020-12-28 Tell parents you are looking for a lockable chest. 
+x 2020-12-28 Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+x 2020-12-28 Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+x 2020-12-28 map project:https://www.facebook.com/joe.reddington/posts/10101092672604150 +PersonalProjects
