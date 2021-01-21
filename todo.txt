@@ -1,3 +1,5 @@
+x (A) Reply and set up the Media Trust Volenteer +EQT 
+(A) Submit the The Fore Grant +EQT 
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
@@ -9,6 +11,7 @@
 (C) 20 Add extra screws to stairgate
 (C) 30 Get the paper  - sit down and do a full process on sorting out your goals for the year. 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(E) Switch on ssh access for Joe Public 
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work out outside sink 
@@ -28,7 +31,7 @@
 (E) 10 Take apart side gate lock 
 (E) 10 Wrap  escape room game 
 (E) 10 Write Moonpig cards for this month +Overhead
-(E) 10 move the computer controlled lights back into the office. 
+(C) 10 move the computer controlled lights back into the office. 
 (E) 15 Empty Joe inbox completely +Overhead @nova  Time:15 
 x (E) 15 Fix watcher online 
 (E) 15 Move facebook posts over to blog  @private 
