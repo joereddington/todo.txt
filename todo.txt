@@ -1,4 +1,3 @@
-x (A) Reply and set up the Media Trust Volenteer +EQT 
 (A) Submit the The Fore Grant +EQT 
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
@@ -33,7 +32,6 @@ x (A) Reply and set up the Media Trust Volenteer +EQT
 (E) 10 Write Moonpig cards for this month +Overhead
 (C) 10 move the computer controlled lights back into the office. 
 (E) 15 Empty Joe inbox completely +Overhead @nova  Time:15 
-x (E) 15 Fix watcher online 
 (E) 15 Move facebook posts over to blog  @private 
 (E) 20 Go and get flu jap 
 (E) 20 Put the blogs about ovf and about frustrations with furlough into SimpleWriter
