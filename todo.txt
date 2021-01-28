@@ -1,6 +1,9 @@
-(A) .Submit the The Fore Grant +EQT 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Reply to SS about meeting 
+(C) Add Contact page to White Water Writers (and fix full stop on first page) 
+(C) Update the supertitle pages
+(D) Edit Leo's space photos (and put on reddit) 
+(A) Do the EQT reconciliation, and banking and paymetns to you
+(D) Listen to one of the albums from social 
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
@@ -13,6 +16,7 @@
 (C) 20 Add extra screws to stairgate
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 30 Get the paper  - sit down and do a full process on sorting out your goals for the year. 
+(C) Open Project for Nova schools 
 (C) Quit some projects (oh
 (C) Review and rescore  Wheel Of life
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
@@ -42,6 +46,8 @@
 (E) 40 Make rack for garage
 (E) Blog post adding up the costs of Dox Direct (Go to paypal and search for the string)  
 (E) Blog the empty inbox. 
+(E) Brainstorm how to label and sort videos on youtbue. 
+(E) Buy trimer
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
@@ -69,11 +75,7 @@
 (E) Spend an hour on the Food course
 (E) Switch on ssh access for Joe Public 
 (E) Trim nose hair +Health @nova  Time:05 
-x (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(C) Open Project for Nova schools 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Work on CareStar
 (E) Write a letter to Nova +Family Time:30 
-x (E) change razor blade Time:03 
-(E) Buy trimer
