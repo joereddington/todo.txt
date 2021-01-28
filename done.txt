@@ -3734,3 +3734,10 @@ x (E) 15 Fix watcher online
 x (A) .Submit the The Fore Grant +EQT 
 x (A) Reply to SS about meeting 
 x (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2021-01-28 1. Process Email @singleton +Overhead @phone  Time:9
+x 2021-01-28 10 Looking for urgent: check notebooks  @singleton +PlanningAndTracking Time:20
+x 2021-01-28 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2021-01-28 Quit some projects (oh
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) Do the EQT reconciliation, and banking and paymetns to you
+x (A) Review EQT todo and put a note in igor 
