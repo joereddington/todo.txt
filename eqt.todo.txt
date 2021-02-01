@@ -3,8 +3,8 @@
 (A) 60 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Do https://github.com/eQualityTime/Home/issues/105 
 (A) Fix The OBF board name issue, include buying powerpoint licence 
-x (A) Fix the unpaid expenses in Quickbooks 
 (A) Put all the dot projects into the social media calendar. 
+(A) Review all the +EQT tasks while on furlough
 (A) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
@@ -15,13 +15,14 @@ x (A) Fix the unpaid expenses in Quickbooks
 (A) Work on: https://github.com/eQualityTime/Public/issues/117 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Write draft: This is a personal note from me about the Open Voice Factory project. I consider it to be my greatest professional failure, and it's certainly not for want of funding.
+(A) map project:Give someone else the Google Ad grant work.  +EQT
 (A) map project:Invesitgate esme fairbain +EQT
 (A) map project:Joe to do full expenses algorithm. +EQT
 (A) map project:Onboard treasurer  +EQT
 (A) map project:The OVF language files  +EQT
+(A) map project:Trustee Recuritment  +EQT
 (B) Arts council stream https://github.com/eQualityTime/Public/issues/105 +EQT
 (B) Do millage expense for EQT @private 
-x (B) Format the minutes sent by Clare +EQT 
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
@@ -103,6 +104,7 @@ x (B) Format the minutes sent by Clare +EQT
 (E) Download the amazon months sales figures +EQT
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT @nova @phone  Time:10 
@@ -110,5 +112,3 @@ x (B) Format the minutes sent by Clare +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
-x (A) map project:Give someone else the Google Ad grant work.  +EQT
-x (A) map project:Trustee Recuritment  +EQT

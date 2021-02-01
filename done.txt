@@ -3741,3 +3741,7 @@ x 2021-01-28 Quit some projects (oh
 x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x (A) Do the EQT reconciliation, and banking and paymetns to you
 x (A) Review EQT todo and put a note in igor 
+x (A) Do measurements for architect @private
+x (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+x (B) Get Basic DBS check from https://www.gov.uk/request-copy-criminal-record 
+x (B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects

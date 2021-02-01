@@ -597,3 +597,7 @@ x 2020-10-16 Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
 x 2020-10-20 (.) Blog this: https://www.dropbox.com/home/eQuality%20Time/public?preview=Public+Version+of+Useful+things+to+know+while+Joe+is+away.pdf 
 x 2020-10-20 (.) Put Smile project into social media calendar 
 x 2020-10-20 (.) Work on: https://github.com/eQualityTime/whitewaterwriters-site/issues/1 +EQT
+x (A) Fix the unpaid expenses in Quickbooks 
+x (A) map project:Give someone else the Google Ad grant work.  +EQT
+x (A) map project:Trustee Recuritment  +EQT
+x (B) Format the minutes sent by Clare +EQT 
