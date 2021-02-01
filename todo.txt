@@ -1,104 +1,36 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) One hour simple writer on book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Renew driving licencce 
-(B) Review all @private projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(B) Write down 20 nice things about eating with family. @private
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 10 Draft  a post about 'don't like being treated like a child' issue and ask for help. 
-(C) 10 map project:Reading project  +PersonalProjects @private
+(A) 10 Send FB birthday card
+(A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
+(B) 10 Write down 20 nice things about eating with family. @private
+(C) 03 Make sure FB is in the birthday card list @private
+(C) 15 Add Contact page to White Water Writers @private (because CAN'T run ruby on public for some reason)
 (C) 20 Add extra screws to stairgate
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) 30 Get the paper  - sit down and do a full process on sorting out your goals for the year. 
-(C) Add Contact page to White Water Writers (and fix full stop on first page) 
-(C) Buy another TB drive for photobackup that you can keep in the car/garage
-(C) Open Project for Nova schools 
-(C) Quit some projects (oh
-(C) Review and rescore  Wheel Of life
-(C) Update the supertitle pages
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) map project:Reading project  +PersonalProjects
-(D Kat) Check doorbell batteries
-(D) Call 01582 599200 for quote about wood burner
-(D) Edit Leo's space photos (and put on reddit) 
-(D) Listen to one of the albums from social 
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Transfer Flowers For Turing Site into Jekyll
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(E) 03 Update Kate's address from facebook and order book 
-(E) 04 Check cron to find bug in disability blog ranking 
+(C) 20 Read up on when you have to find out about schools and what the process is.
+(C) 30 Work out goals for the year. 
+(C) 30 Write a supertitle landing page @eqt
+(D) 10 Listen to one of the albums from social @private
+(D) 10 Order new paying in slip from Unity trust website
+(D) 10 Put in the initial text for https://equalitytime.github.io/fft-site/ +EQT
+(D) 20 Edit Leo's space photos (and put on reddit) 
+(D) 30 Make rack for garage
+(E) 03 Cut nails +Health @nova  Time:04 
+(E) 03 Update Kate's address from facebook and order book @private
+(E) 04 Bring in and wash judo suits
+(E) 10 Brainstorm 'never audition' +EQT
 (E) 10 Brainstorm food tasting day with Nova  @private 
-(E) 10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) 10 Take apart new side gate lock on kichen table
-(E) 10 Wrap  escape room game 
-(E) 15 Move facebook posts over to blog  @private 
-(E) 20 Go and get flu jap 
-(E) 20 Put the blogs about ovf and about frustrations with furlough into SimpleWriter
-(E) 20 Review your highlights and notes from Kindle books +Overhead @private
-(E) 20 Ring up Nova's investment person and find out what the deal is 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead@private
-(E) 20 Work on CareStar
-(E) 30 Diary should generate ics files. 
-(E) 30 Write a letter to Nova +Family Time:30 @private
-(E) 40 Make rack for garage
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask Kat if we have any grass seed 
-(E) Blog post adding up the costs of Dox Direct (Go to paypal and search for the string)  
-(E) Blog the empty inbox. 
-(E) Brainstorm 'never audition'
-(E) Brainstorm how to label and sort videos on youtbue. 
-(E) Buy trimer
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Do tweets promoting the MPs ranking.
-(E) Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) Floss +Health @nova  Time:05
+(E) 10 Save Amazon Packaging to send escape room game
+(E) 10 Set up Instapaper for kindle articles
+(E) 10 Side gate lock should be in desk 
+(E) 15 Change Mp script to create draft tweet. 
+(E) 15 Find out how much you have spent with dox direct and write blog post about it. 
+(E) 20 Go and get flu jab from birdsfoot lane
+(E) 20 Move facebook posts over to blog  @private 
+(E) 20 Open up the Watson code and see how hard it would be to generated ICS files from diary 
+(E) 20 Save lots of nice family memories in the list +Family @phone @nova  Time:03 
+(E) 20 Write a letter to Nova about the type of father +Family Time:30 @private
+(E) 20 minutes thinking about the fruits of long term goals +Overhead@private
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
+(E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
 (E) Get some hand sanitiser for the house. 
-(E) Get work gloves out (for the cold) 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) If back on sugar then start sugar project +Health
-(E) Investigate getting a regular news to your kindle 
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make workstation spotless +Overhead @nova  
-(E) Map screenshot-to-story code/idea 
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Publicly thank someone +Overhead Time:15 
-(E) Review (days since) app counts +Overhead @nova @phone 
-(E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Spend an hour on the Food course
-(E) Switch on ssh access for Joe Public 
-(E) TSE +Health Time:04 
-(E) Tape up leo's extension to make his room darker. 
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Work on CareStar
-(E) Write Moonpig cards for this month +Overhead
-(E) Write a letter to Nova +Family Time:30 
-(E) change razor blade Time:03 
+(E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
+(E) Review starred items in feeds +Overhead @private
+(E) Ring up Nova's investment person and find out what the deal is 
