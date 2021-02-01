@@ -1,6 +1,7 @@
-(A) Do measurements for architect @private
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Get Basic DBS check from https://www.gov.uk/request-copy-criminal-record 
+x (A) Do measurements for architect @private
+x (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
+(B) Renew driving licencce 
+x (B) Get Basic DBS check from https://www.gov.uk/request-copy-criminal-record 
 (B) One hour simple writer on book https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (B) Review all @private projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Write down 20 nice things about eating with family. @private
