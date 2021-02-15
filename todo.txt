@@ -1,15 +1,21 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Chase mum to make sure she has handed over to Sarah 
-(A) Message the other influencers to set up a call. 
 (A) Do the risk assessment +EQT @private
+(A) Message the other influencers to set up a call. 
 (A) Open and map an accounts project and get started. 
 (A) Upgrade child protection +EQT 
+(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (A) You want to work though everything with a trustee
 (B) Find out what happened to the security on our Unity account +EQT
-(E) Take Kat through all the backups on the hard drive. 
-(A) +EQT write the next blog for Hashtag Poundsign. 
 (B) Investigate the garage roof - take photos and ask about water patterns
 (B) Message trustees about payments from unity
+(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
+(C) +EQT write the next blog for Hashtag Poundsign. 
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 20 Add extra screws to stairgate @private
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 30 Work out goals for the year.  @private
 (C) 30 Write a supertitle landing page @eqt
 (C) Add calendary to my signiture.
@@ -17,14 +23,27 @@
 (C) Do +EQT reconciliation
 (C) Make dentist apointment
 (C) Make this a proper form on google analytics https://www.theopenvoicefactory.org/upload_board.html 
+(C) Quit some projects (oh
+(C) Review and rescore  Wheel Of life
 (C) Set up some payments in quickbooks to match payments in unity (Fines are in 'finance' folder in dropbox) 
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) Work out why there is an overdue hmp hindly invoice. 
 (C) Write the next Hashtag Poundsign blogs (list is on the google doc) 
 (C) Write up a set of blog posts about hastag poundswign +EQT
+(C) map project:Reading project  +PersonalProjects
+(D Kat) Check doorbell batteries
 (D) 10 Put in the initial text for https://equalitytime.github.io/fft-site/ +EQT
 (D) 30 Make rack for garage
 (D) Check in with dimond 
+(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/46 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Write up ad grants as a project. +EQT
 (E)  Withdraw the money from paypal. +EQT
 (E) 04 Bring in and wash judo suits
@@ -38,15 +57,45 @@
 (E) 20 Save lots of nice family memories in the list +Family @phone @nova  Time:03 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+(E) Check £40 in Wallet +Overhead @nova  @phone 
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Cut nails +Health @nova  Time:04 
+(E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do some css updates to the White Water Writers page
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead @nova  Time:15 
+(E) Floss +Health @nova  Time:05
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) Learn how to use Zoom a bit more effectively - this approach isn't ideal.. 
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Publicly thank someone +Overhead Time:15 
 (E) Put google contacts database into thunderbird 
 (E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
 (E) Ring up Nova's investment person and find out what the deal is 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Store the old backup drive in the car, make a yearly calendar event to go and check it 
+(E) Take Kat through all the backups on the hard drive. 
 (E) The right book should be in the backpack. 
+(E) Trim nose hair +Health @nova  Time:05 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Vitimin Tablet +Health @nova  Time:02
+(E) Work on CareStar
 (E) Work out how to get Mouse sniper to switch displays
+(E) Write a letter to Nova +Family Time:30 
 (E) Write a python script for 'commands in this time window'
+(E) change razor blade Time:03 
 (E) sort out igor and watson in the todo submodules
 x 2021-02-12 Get a risk assessment template +EQT @private
 x 2021-02-12 Put the elmeents from the 'main document' into the risk assessment 
