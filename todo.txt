@@ -1,36 +1,52 @@
-(A) 10 Send FB birthday card
-(A) 10 Set up a paypal buisness acount at https://www.paypal.com/bizsignup/  +EQT @private
-(B) 10 Write down 20 nice things about eating with family. @private
-(C) 03 Make sure FB is in the birthday card list @private
-(C) 15 Add Contact page to White Water Writers @private (because CAN'T run ruby on public for some reason)
-(C) 20 Add extra screws to stairgate
-(C) 20 Read up on when you have to find out about schools and what the process is.
-(C) 30 Work out goals for the year. 
+(A) Chase mum to make sure she has handed over to Sarah 
+(A) Message the other influencers to set up a call. 
+(A) Do the risk assessment +EQT @private
+(A) Open and map an accounts project and get started. 
+(A) Upgrade child protection +EQT 
+(A) You want to work though everything with a trustee
+(B) Find out what happened to the security on our Unity account +EQT
+(E) Take Kat through all the backups on the hard drive. 
+(A) +EQT write the next blog for Hashtag Poundsign. 
+(B) Investigate the garage roof - take photos and ask about water patterns
+(B) Message trustees about payments from unity
+(C) 20 Add extra screws to stairgate @private
+(C) 30 Work out goals for the year.  @private
 (C) 30 Write a supertitle landing page @eqt
-(D) 10 Listen to one of the albums from social @private
-(D) 10 Order new paying in slip from Unity trust website
+(C) Add calendary to my signiture.
+(C) Buy the apple watch - it will definitely be faster than going to a store
+(C) Do +EQT reconciliation
+(C) Make dentist apointment
+(C) Make this a proper form on google analytics https://www.theopenvoicefactory.org/upload_board.html 
+(C) Set up some payments in quickbooks to match payments in unity (Fines are in 'finance' folder in dropbox) 
+(C) Work out why there is an overdue hmp hindly invoice. 
+(C) Write the next Hashtag Poundsign blogs (list is on the google doc) 
+(C) Write up a set of blog posts about hastag poundswign +EQT
 (D) 10 Put in the initial text for https://equalitytime.github.io/fft-site/ +EQT
-(D) 20 Edit Leo's space photos (and put on reddit) 
 (D) 30 Make rack for garage
-(E) 03 Cut nails +Health @nova  Time:04 
-(E) 03 Update Kate's address from facebook and order book @private
+(D) Check in with dimond 
+(D) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
+(D) Write up ad grants as a project. +EQT
+(E)  Withdraw the money from paypal. +EQT
 (E) 04 Bring in and wash judo suits
 (E) 10 Brainstorm 'never audition' +EQT
-(E) 10 Brainstorm food tasting day with Nova  @private 
-(E) 10 Save Amazon Packaging to send escape room game
-(E) 10 Set up Instapaper for kindle articles
 (E) 10 Side gate lock should be in desk 
+(E) 10 send escape room game
 (E) 15 Change Mp script to create draft tweet. 
 (E) 15 Find out how much you have spent with dox direct and write blog post about it. 
 (E) 20 Go and get flu jab from birdsfoot lane
-(E) 20 Move facebook posts over to blog  @private 
 (E) 20 Open up the Watson code and see how hard it would be to generated ICS files from diary 
 (E) 20 Save lots of nice family memories in the list +Family @phone @nova  Time:03 
-(E) 20 Write a letter to Nova about the type of father +Family Time:30 @private
-(E) 20 minutes thinking about the fruits of long term goals +Overhead@private
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
-(E) Get some hand sanitiser for the house. 
+(E) Do some css updates to the White Water Writers page
+(E) Learn how to use Zoom a bit more effectively - this approach isn't ideal.. 
+(E) Put google contacts database into thunderbird 
 (E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
-(E) Review starred items in feeds +Overhead @private
 (E) Ring up Nova's investment person and find out what the deal is 
+(E) Store the old backup drive in the car, make a yearly calendar event to go and check it 
+(E) The right book should be in the backpack. 
+(E) Work out how to get Mouse sniper to switch displays
+(E) Write a python script for 'commands in this time window'
+(E) sort out igor and watson in the todo submodules
+x 2021-02-12 Get a risk assessment template +EQT @private
+x 2021-02-12 Put the elmeents from the 'main document' into the risk assessment 
