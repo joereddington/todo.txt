@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+=======
+>>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
 (A) Draft and send the proper email to the domain experts +EQT 
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B Trustees) Message trustees about payments from unity   The form is https://unity.co.uk/content/uploads/COS-Final-Manual.pdf  @private
@@ -52,6 +55,7 @@
 (E) Check in with dimond 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that you vim has a good css mode 
+<<<<<<< HEAD
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check £40 in Wallet +Overhead @nova  @phone 
@@ -59,6 +63,8 @@
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
+=======
+>>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
 (E) Do some css updates to the White Water Writers page
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
@@ -78,10 +84,13 @@
 (E) Review old delores actions
 (E) Rewrite night list 
 (E) Ring up Nova's investment person and find out what the deal is 
+<<<<<<< HEAD
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Set up runnning kit bag
+=======
+>>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
 (E) Setup Burner charger somewhere else
 (E) Store the old backup drive in the car, make a yearly calendar event to go and check it 
 (E) Take Kat through all the backups on the hard drive. 
@@ -92,13 +101,15 @@
 (E) Vitimin Tablet +Health @nova  Time:02
 (E) Work on CareStar
 (E) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(E) Work out how to get Mouse sniper to switch displays
+x 2021-02-19 Work out how to get Mouse sniper to switch displays
+(E) Rewrite readme for Mouse Sniper. 
 (E) Write a letter to Nova +Family Time:30 
 (E) Write a python script for 'commands in this time window'
 (E) Write kitchen cleaning process 
 (E) change razor blade Time:03 
 (E) sort out igor and watson in the todo submodules
 (F) 10 Brainstorm 'never audition' +EQT
+<<<<<<< HEAD
 x (A Nova) Get all the materials you will need to install Nova's light due:2021-02-15
 x (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 x (A) You want to work though everything with a trustee
@@ -161,3 +172,5 @@ x 2021-02-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2021-02-19 Plan 3 pancake meal
 x 2021-02-19 Turn off 'always on top' for mouse sniper
 x 2021-02-19 work out what is going wrong with insta paper and feedly
+=======
+>>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
