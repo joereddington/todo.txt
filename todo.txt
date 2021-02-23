@@ -1,18 +1,8 @@
-<<<<<<< HEAD
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-=======
->>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
 (A) Draft and send the proper email to the domain experts +EQT 
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B Trustees) Message trustees about payments from unity   The form is https://unity.co.uk/content/uploads/COS-Final-Manual.pdf  @private
-(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(C Google Ads Volunteer) Make this a proper form on google analytics https://www.theopenvoicefactory.org/upload_board.html 
-(C Kat Facebook) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C Kat) 20 Add extra screws to stairgate @private
 (C Kat) 30 Work out goals for the year.  @private
 (C Kat) Make dentist apointment
+(C Kat) Measure stairgate for custom install. 
 (C Kat) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C Kat, Nova ) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
 (C Sarah) Do +EQT reconciliation
@@ -20,6 +10,10 @@
 (C Trustees) Set up some payments in quickbooks to match payments in unity (Fines are in 'finance' folder in dropbox) 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Brainstorm on Parenting Leo - split the dad task
+(C) Brainstorm on the lack of project-focused work. 
+(C) Do expense for 22/2/21 books +EQT
+(C) Get quotes for painting the house. 
 (C) Quit some projects (oh
 (C) Review and rescore  Wheel Of life
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
@@ -55,7 +49,6 @@
 (E) Check in with dimond 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check that you vim has a good css mode 
-<<<<<<< HEAD
 (E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check £40 in Wallet +Overhead @nova  @phone 
@@ -63,18 +56,18 @@
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
-=======
->>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
 (E) Do some css updates to the White Water Writers page
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
 (E) Floss +Health @nova  Time:05
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Invesitgate mouseless extension on https://realpython.com/convert-python-string-to-int/
 (E) Learn how to use Zoom a bit more effectively - this approach isn't ideal.. 
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Message trustees about health
+x 2021-02-22 Move .vim using http://marcgg.com/blog/2016/03/01/vimrc-example/ and https://www.reddit.com/r/vim/comments/61i28n/change_vim_location/dff43jw?utm_source=share&utm_medium=web2x&context=3 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
@@ -83,94 +76,27 @@
 (E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
 (E) Review old delores actions
 (E) Rewrite night list 
+(E) Rewrite readme for Mouse Sniper. 
 (E) Ring up Nova's investment person and find out what the deal is 
-<<<<<<< HEAD
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Set up runnning kit bag
-=======
->>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
-(E) Setup Burner charger somewhere else
 (E) Store the old backup drive in the car, make a yearly calendar event to go and check it 
 (E) Take Kat through all the backups on the hard drive. 
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Work on CareStar
 (E) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-x 2021-02-19 Work out how to get Mouse sniper to switch displays
-(E) Rewrite readme for Mouse Sniper. 
 (E) Write a letter to Nova +Family Time:30 
-(E) Write a python script for 'commands in this time window'
 (E) Write kitchen cleaning process 
-(E) change razor blade Time:03 
+(E) get the todo updates working locally. 
 (E) sort out igor and watson in the todo submodules
 (F) 10 Brainstorm 'never audition' +EQT
-<<<<<<< HEAD
-x (A Nova) Get all the materials you will need to install Nova's light due:2021-02-15
-x (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-x (A) You want to work though everything with a trustee
-x (B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-x (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-x 2021-02-12 Get a risk assessment template +EQT @private
-x 2021-02-12 Put the elmeents from the 'main document' into the risk assessment 
-x 2021-02-15 (.) 2. Go through and double check priorities with deadlines and names
-x 2021-02-15 (A Anwent) Post Anwen Card due:2021-02-15
-x 2021-02-15 (A Trustees) Open and map an accounts project and get started. due:2021-03-03
-x 2021-02-15 (B Domain experts) Send the remaining three domain experts the calendarly link. 
-x 2021-02-15 (B Kat) Investigate the garage roof - take photos and ask about water patterns
-x 2021-02-15 (B Sarah) Chase mum to make sure she has handed over to Sarah 
-x 2021-02-15 (B Trustees) Call unity to find out what happened to the security on our Unity account +EQT
-x 2021-02-15 (D Kat) Buy a battery charger for car 
-x 2021-02-15 (D Kat) Check doorbell batteries
-x 2021-02-15 (D Kat) Get running tights
-x 2021-02-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-x 2021-02-15 1. Process Email @singleton +Overhead @phone  Time:90
-x 2021-02-15 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-x 2021-02-15 Check Voicemail  +Overhead @nova  @phone  Time:02 
-x 2021-02-15 Check that everything in the 'in process' box really does have a task+Overhead @nova 
-x 2021-02-15 Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-x 2021-02-15 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2021-02-15 Confirm plans for next two weekends.+Overhead @phone  Time:06 
-x 2021-02-15 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2021-02-15 Do Menu for the week +Family @nova @phone  Time:01 
-x 2021-02-15 Fix the css on https://www.whitewaterwriters.com/ 
-x 2021-02-15 Floss +Health @nova  Time:05
-x 2021-02-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-x 2021-02-15 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-x 2021-02-15 Log weight +Health  Time:02 
-x 2021-02-15 Post to Sibling Facebook group @nova @phone  Time:06 
-x 2021-02-15 Publicly thank someone +Overhead Time:15 
-x 2021-02-15 Quit some projects (oh
-x 2021-02-15 Review and rescore  Wheel Of life
-x 2021-02-15 Review exactly how impact works for academics 
-x 2021-02-15 Save a nice family memory +Family @phone @nova  Time:03 
-x 2021-02-15 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-x 2021-02-15 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-x 2021-02-15 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-x 2021-02-15 The right book should be in the backpack. 
-x 2021-02-15 Trim nose hair +Health @nova  Time:05 
-x 2021-02-15 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-x 2021-02-15 Vitimin Tablet +Health @nova  Time:02
-x 2021-02-15 Withdraw the money from paypal. +EQT
-x 2021-02-15 Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-x 2021-02-15 Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-x 2021-02-15 Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-x 2021-02-15 Write up a set of blog posts about hastag poundswign +EQT
-x 2021-02-15 buy more cartirage pens
-x 2021-02-15 change razor blade Time:03 
-x 2021-02-15 map project:Reading project  +PersonalProjects
-x 2021-02-16 (A Architect) Pay architect @private
-x 2021-02-19 (.) Connect paypal and unity
-x 2021-02-19 (A Fake News Team) Do the risk assessment +EQT @private  due:2021-02-18
-x 2021-02-19 (A Fake News Team, Trustees) Write up everything you want to say about child projection. due:2021-02-18 @private
-x 2021-02-19 (C Fake News Team) Put up the text for the risk assessment blog. 
-x 2021-02-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-x 2021-02-19 Plan 3 pancake meal
-x 2021-02-19 Turn off 'always on top' for mouse sniper
-x 2021-02-19 work out what is going wrong with insta paper and feedly
-=======
->>>>>>> fc03c737d37ab24bfb57fc3eaee46e648433819b
+x 2021-02-22 Setup Burner charger somewhere else
+x 2021-02-22 Sync the main bash_profile file to one in /User/Shared
+x 2021-02-22 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2021-02-22 Vitimin Tablet +Health @nova  Time:02
+x 2021-02-22 Work on CareStar
+x 2021-02-22 Write a python script for 'commands in this time window'
+x 2021-02-22 change razor blade Time:03 
