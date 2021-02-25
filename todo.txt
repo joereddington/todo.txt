@@ -1,4 +1,7 @@
-(A) Draft and send the proper email to the domain experts +EQT 
+(A) Check the DBS nubmers on the domain experts
+(A) Itterate the Child protection policy
+(A) Tell trustees that there is a meeting 
+(B) Pay amazon invoices 
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C Kat) 30 Work out goals for the year.  @private
 (C Kat) Make dentist apointment
@@ -12,8 +15,10 @@
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Brainstorm on Parenting Leo - split the dad task
 (C) Brainstorm on the lack of project-focused work. 
+(C) Card's for Nina and Racheal
 (C) Do expense for 22/2/21 books +EQT
 (C) Get quotes for painting the house. 
+(C) Make a plan for mothers day
 (C) Quit some projects (oh
 (C) Review and rescore  Wheel Of life
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
@@ -66,8 +71,8 @@
 (E) Learn how to use Zoom a bit more effectively - this approach isn't ideal.. 
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Map project for irish citizenship
 (E) Message trustees about health
-x 2021-02-22 Move .vim using http://marcgg.com/blog/2016/03/01/vimrc-example/ and https://www.reddit.com/r/vim/comments/61i28n/change_vim_location/dff43jw?utm_source=share&utm_medium=web2x&context=3 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
@@ -93,6 +98,7 @@ x 2021-02-22 Move .vim using http://marcgg.com/blog/2016/03/01/vimrc-example/ an
 (E) get the todo updates working locally. 
 (E) sort out igor and watson in the todo submodules
 (F) 10 Brainstorm 'never audition' +EQT
+x 2021-02-22 Move .vim using http://marcgg.com/blog/2016/03/01/vimrc-example/ and https://www.reddit.com/r/vim/comments/61i28n/change_vim_location/dff43jw?utm_source=share&utm_medium=web2x&context=3 
 x 2021-02-22 Setup Burner charger somewhere else
 x 2021-02-22 Sync the main bash_profile file to one in /User/Shared
 x 2021-02-22 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
@@ -100,3 +106,4 @@ x 2021-02-22 Vitimin Tablet +Health @nova  Time:02
 x 2021-02-22 Work on CareStar
 x 2021-02-22 Write a python script for 'commands in this time window'
 x 2021-02-22 change razor blade Time:03 
+x 2021-02-24 Draft and send the proper email to the domain experts +EQT 
