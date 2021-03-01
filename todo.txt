@@ -1,12 +1,10 @@
-(.) Map https://github.com/eQualityTime/Public/issues/120 +EQT
-(A) Check the DBS nubmers on the domain experts +EQT https://github.com/eQualityTime/Public/issues/120
-(A) Update the Child protection policy +EQT https://github.com/eQualityTime/Public/issues/120
-(A) Write 'notice of meeting' email for trustees. +EQT
+(A) Check the DBS numbers on the domain experts +EQT https://github.com/eQualityTime/Public/issues/120
+(A) Make Quotation in Quick books for Yvonne about quotation for work. 
+(A) Wish domain experts luck and send them Child Protection Policy
 (B) Make sure that amazon invoices are in Unity and Quickbooks +EQT
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(C Kat) 30 Work out goals for the year. @private
-(C Kat) Make dentist appointment
-(C Kat) Measure stairgate for custom install. 
+(C Kat) Get tape measure to Measure stairgate for custom install. 
+(C Kat) Phone dentist (number in phone) to make appointment
 (C Kat) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C Kat, Nova ) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
 (C) Brainstorm on Parenting Leo - split the existing issue on github
@@ -14,6 +12,7 @@
 (C) Make a plan for mothers day
 (C) Order card's for Nina and Racheal
 (C) Review and rescore  Wheel Of life
+(C) Sort out accounts for lola
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
@@ -23,36 +22,34 @@
 (C) map project:Reading project  +PersonalProjects
 (D Google Ads Volunteer) 30 Write a supertitle landing page @eqt 
 (D Kat) 04 Bring in and wash judo suits
-(D Kat) 30 Make rack for garage
 (D Kat) Buy the apple watch - it will definitely be faster than going to a store
-(D Kat) Find out who you get to come to your house about mould.
 (D Trustees) Work out why there is an overdue hmp hindly invoice. +EQT
+(D) Open front of gargae door next time you take Leo out. 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/46 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(E) 10 Do Menu for the week +Family @nova @phone  Time:01 
 (E) 10 Put in the initial text for https://equalitytime.github.io/fft-site/ +EQT
+(E) 10 Rewrite night list 
+(E) 10 Rewrite readme for Mouse Sniper. 
 (E) 10 Side gate lock should be in desk 
-(E) 10 send escape room game
+(E) 10 Take escape room game to postoffice.
 (E) 15 Change Mp script to create draft tweet. 
-(E) 15 Find out how much you have spent with dox direct and write blog post about it. 
+(E) 15 Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
+(E) 15 Ring up Nova's investment person and find out what the deal is 
+(E) 15 Write blog post  £218.73 with docs direct in the last two years. Using them 12 times for £73.82
 (E) 20 Go and get flu jab from birdsfoot lane
 (E) 20 Save lots of nice family memories in the list +Family @phone @nova  Time:03 
+(E) 20 Take Kat through all the backups on the hard drive. 
+(E) 20 Write a letter to Nova +Family Time:30 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
-(E) Add calendary to my signiture.
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do some css updates to the White Water Writers page
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Do some css updates to the White Water Writers page +EQT
+(E) Fix the bugs on websties that the students pointed out +EQT
 (E) Invesitgate mouseless extension on https://realpython.com/convert-python-string-to-int/
-(E) Put Steph birthday (and Anwen) in calendar
-(E) Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
 (E) Put the old backup drive in the car, make a yearly calendar event to go and check it 
-(E) Rewrite night list 
-(E) Rewrite readme for Mouse Sniper. 
-(E) Ring up Nova's investment person and find out what the deal is 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Take Kat through all the backups on the hard drive. 
 (E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
-(E) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(E) Write a letter to Nova +Family Time:30 
-(E) get the todo updates working locally. 
+(E) Build the Flowers for turing site.
 (F) 10 Brainstorm 'never audition' +EQT
+x 2021-02-27 (C Kat) 30 Work out goals for the year. @private
+x 2021-02-27 (D Kat) Find out who you get to come to your house about mould.
+x 2021-02-28 (.) Map https://github.com/eQualityTime/Public/issues/120 +EQT
