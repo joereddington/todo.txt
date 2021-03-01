@@ -1,8 +1,10 @@
 (A) Check the DBS numbers on the domain experts +EQT https://github.com/eQualityTime/Public/issues/120
 (A) Make Quotation in Quick books for Yvonne about quotation for work. 
 (A) Wish domain experts luck and send them Child Protection Policy
+(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
 (B) Make sure that amazon invoices are in Unity and Quickbooks +EQT
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
 (C Kat) Get tape measure to Measure stairgate for custom install. 
 (C Kat) Phone dentist (number in phone) to make appointment
 (C Kat) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
@@ -43,12 +45,12 @@
 (E) 20 Take Kat through all the backups on the hard drive. 
 (E) 20 Write a letter to Nova +Family Time:30 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
+(E) Build the Flowers for turing site.
 (E) Do some css updates to the White Water Writers page +EQT
 (E) Fix the bugs on websties that the students pointed out +EQT
 (E) Invesitgate mouseless extension on https://realpython.com/convert-python-string-to-int/
 (E) Put the old backup drive in the car, make a yearly calendar event to go and check it 
 (E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
-(E) Build the Flowers for turing site.
 (F) 10 Brainstorm 'never audition' +EQT
 x 2021-02-27 (C Kat) 30 Work out goals for the year. @private
 x 2021-02-27 (D Kat) Find out who you get to come to your house about mould.
