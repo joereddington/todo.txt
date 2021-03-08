@@ -1,43 +1,28 @@
-(A) Check the DBS numbers on the domain experts +EQT https://github.com/eQualityTime/Public/issues/120
-(A) Make Quotation in Quick books for Yvonne about quotation for work. 
-(A) Wish domain experts luck and send them Child Protection Policy
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Make sure that amazon invoices are in Unity and Quickbooks +EQT
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(C Kat) Get tape measure to Measure stairgate for custom install. 
-(C Kat) Phone dentist (number in phone) to make appointment
-(C Kat) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C Kat, Nova ) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
-(C) Brainstorm on Parenting Leo - split the existing issue on github
-(C) Brainstorm on the lack of project-focused work. 
-(C) Make a plan for mothers day
-(C) Order card's for Nina and Racheal
-(C) Review and rescore  Wheel Of life
-(C) Sort out accounts for lola
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C) Write expense form for 22/2/21 books +EQT
-(C) map project:Reading project  +PersonalProjects
-(D Google Ads Volunteer) 30 Write a supertitle landing page @eqt 
+(A) Talk to mum about lola accounts
+(A) Send Yvonne an invoice for influencer times
+(D) Do the analytics course on Google 
+(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top) 
+(C Kat)  ᄐ create cards for the next six months https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
+(C Kat)  ᄑ	Grab the photos 
+(C Kat)  ᄑ	Open the list, 
+(C Kat)  ᄑ	Then do moonpig 
+(C Kat) Pick some sessions on https://schedule.mozillafestival.org/schedule
+(C) 10 Brainstorm on Parenting Leo - split the existing issue on github @private
+(C) Arrange grandparent dinner calls 
+(C) Make a plan for mothers day @private
+(C) Map the memory book tasks: https://github.com/joereddington/projects-public/issues/35 +personalprojects
+(C) ঙ Make expense for hosting costs  @private
+(C) က  Open the Drive and Dropbox versions of littlefinger to remember where you are
 (D Kat) 04 Bring in and wash judo suits
-(D Kat) Buy the apple watch - it will definitely be faster than going to a store
-(D Trustees) Work out why there is an overdue hmp hindly invoice. +EQT
-(D) Open front of gargae door next time you take Leo out. 
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/46 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(D Kat) Buy the apple watch - it will definitely be faster than going to a store @private
+(E) Read this about comics https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html?fbclid=IwAR2EFL1Zwu0ix1hC4Ac5tdlL6HXVcyp_UNsyCISaKIMlp9iFzk8TvuLM2v0#figure_6:~:text=In%20this%20example%2C%20we%20see%20an%20image%20that%20is%20not%20a%20figure%2C%20as%20well%20as%20an%20image%20and%20a%20video%20that%20are 
+(D) Get the fabric out to make the herb garden
+(E) 10 Brainstorm on the lack of project-focused work. 
 (E) 10 Do Menu for the week +Family @nova @phone  Time:01 
-(E) 10 Put in the initial text for https://equalitytime.github.io/fft-site/ +EQT
 (E) 10 Rewrite night list 
-(E) 10 Rewrite readme for Mouse Sniper. 
 (E) 10 Side gate lock should be in desk 
 (E) 10 Take escape room game to postoffice.
 (E) 15 Change Mp script to create draft tweet. 
-(E) 15 Put the blogs about ovf and about frustrations with furlough into SimpleWriter @private +EQT
 (E) 15 Ring up Nova's investment person and find out what the deal is 
 (E) 15 Write blog post  £218.73 with docs direct in the last two years. Using them 12 times for £73.82
 (E) 20 Go and get flu jab from birdsfoot lane
@@ -45,13 +30,12 @@
 (E) 20 Take Kat through all the backups on the hard drive. 
 (E) 20 Write a letter to Nova +Family Time:30 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
+(E) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online 
 (E) Build the Flowers for turing site.
-(E) Do some css updates to the White Water Writers page +EQT
-(E) Fix the bugs on websties that the students pointed out +EQT
+(E) Copy deloreses 'work' process into the book 
 (E) Invesitgate mouseless extension on https://realpython.com/convert-python-string-to-int/
+x 2021-03-05 Link google ads and analytics https://support.google.com/analytics/answer/1033961?hl=en 
 (E) Put the old backup drive in the car, make a yearly calendar event to go and check it 
-(E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got-a-massive-grant-maybe/
+(E) Transfer more posts to the FFT site
+(E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got--massive-grant-maybe/
 (F) 10 Brainstorm 'never audition' +EQT
-x 2021-02-27 (C Kat) 30 Work out goals for the year. @private
-x 2021-02-27 (D Kat) Find out who you get to come to your house about mould.
-x 2021-02-28 (.) Map https://github.com/eQualityTime/Public/issues/120 +EQT
