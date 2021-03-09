@@ -1,101 +1,62 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) Send Yvonne an invoice for influencer times
-(A) Talk to mum about lola accounts
+(A) Send Yvonne an invoice for influencer times @private
+(A) Talk to mum about lola accounts @private
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top) 
-(C Kat)  ᄐ create cards for the next six months https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
-(C Kat)  ᄑ	Grab the photos 
-(C Kat)  ᄑ	Open the list, 
-(C Kat)  ᄑ	Then do moonpig 
-(C Kat) Pick some sessions on https://schedule.mozillafestival.org/schedule
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(B) Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917 @private
+(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top)  @private
 (C) 10 Brainstorm on Parenting Leo - split the existing issue on github @private
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Arrange grandparent dinner calls 
+(C) 30 Transfer more posts to the FFT site
+(C) Arrange grandparent dinner calls  @private
+(C) Find online child first aid course @private
 (C) Make a plan for mothers day @private
-(C) Map the memory book tasks: https://github.com/joereddington/projects-public/issues/35 +personalprojects
-(C) Quit some projects (oh
-(C) Review and rescore  Wheel Of life
+(C) Respond to the linked in messages @private
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C) map project:Reading project  +PersonalProjects
 (C) ঙ Make expense for hosting costs  @private
-(C) က  Open the Drive and Dropbox versions of littlefinger to remember where you are
-(D Kat) 04 Bring in and wash judo suits
+(C) က  Open the Drive and Dropbox versions of littlefinger to remember where you are @private
+(D Kat) 04 Bring in and wash judo suits +Garage
 (D Kat) Buy the apple watch - it will definitely be faster than going to a store @private
-(D Kat) Check doorbell batteries
-(D) Do the analytics course on Google 
-(D) Get the fabric out to make the herb garden
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) 05 Get the fabric out to make the herb garden +Garage
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/46 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(E) 10 Brainstorm on the lack of project-focused work. 
+(E) 02 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) 03 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) 03 Trim nose hair +Health @nova  Time:05 
+(E) 03 change razor blade Time:03 
+(E) 05 Do Menu for the week +Family @nova @phone  Time:01 
+(E) 05 Find out if OOO triggers for admin@and contact @ addreses @private
+(E) 05 Write the Social media process into Delores
 (E) 10 Do Menu for the week +Family @nova @phone  Time:01 
+(E) 10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) 10 Empty Joe inbox completely +Overhead @nova  Time:15 
+(E) 10 Make the backup drive into a proper project
+(E) 10 Map project for analytics course. +EQT
 (E) 10 Rewrite night list 
-(E) 10 Side gate lock should be in desk 
+(E) 10 Save a nice family memory +Family @phone @nova  Time:03 
+(E) 10 Side gate lock should be in desk  +Garage
 (E) 10 Take escape room game to postoffice.
+(E) 10 Write a delores for Gratitdue, include asking for help on things you feel vulnerable about 
+(E) 10 Write up chocolate fudge receipie as blog
+(E) 10 open todo plug on github and check to see if there are any issues that are relevent
+(E) 14 Make a list of really cool beta readers for your book
 (E) 15 Change Mp script to create draft tweet. 
+(E) 15 Copy deloreses 'work' process into the book 
 (E) 15 Ring up Nova's investment person and find out what the deal is 
 (E) 15 Write blog post  £218.73 with docs direct in the last two years. Using them 12 times for £73.82
-(E) 20 Go and get flu jab from birdsfoot lane
+(E) 20 Add instructions to the WWW contact pages +EQT - calls to action, that sort of THING - include a link to the FAQ
+(E) 20 Read this about comics https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html?fbclid=IwAR2EFL1Zwu0ix1hC4Ac5tdlL6HXVcyp_UNsyCISaKIMlp9iFzk8TvuLM2v0#figure_6:~:text=In%20this%20example%2C%20we%20see%20an%20image%20that%20is%20not%20a%20figure%2C%20as%20well%20as%20an%20image%20and%20a%20video%20that%20are 
 (E) 20 Save lots of nice family memories in the list +Family @phone @nova  Time:03 
-(E) 20 Take Kat through all the backups on the hard drive. 
+(E) 20 Send Kat some details of all the backups on the hard drive. 
+(E) 20 Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got--massive-grant-maybe/
 (E) 20 Write a letter to Nova +Family Time:30 
+(E) 20 Write a letter to Nova +Family Time:30 
+(E) 30 Go through and make sure every task has a project
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory.
-(E) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Build the Flowers for turing site.
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the firebreak in: whatsapp and facebook and and twitter. +Overhead Time:20 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Copy deloreses 'work' process into the book 
-(E) Cut nails +Health @nova  Time:04 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) Floss +Health @nova  Time:05
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) If back on sugar then start sugar project +Health
-(E) Invesitgate mouseless extension on https://realpython.com/convert-python-string-to-int/
-(E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make workstation spotless +Overhead @nova  
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Publicly thank someone +Overhead Time:15 
-(E) Put the old backup drive in the car, make a yearly calendar event to go and check it 
-(E) Read this about comics https://www.w3.org/TR/2011/WD-html5-author-20110809/the-figure-element.html?fbclid=IwAR2EFL1Zwu0ix1hC4Ac5tdlL6HXVcyp_UNsyCISaKIMlp9iFzk8TvuLM2v0#figure_6:~:text=In%20this%20example%2C%20we%20see%20an%20image%20that%20is%20not%20a%20figure%2C%20as%20well%20as%20an%20image%20and%20a%20video%20that%20are 
-(E) Review (days since) app counts +Overhead @nova @phone 
-(E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books +Overhead
-(E) Save a nice family memory +Family @phone @nova  Time:03 
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) TSE +Health Time:04 
-(E) Transfer more posts to the FFT site
-(E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
-(E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Update this blog: https://equalitytime.co.uk/6481/2020/12/07/okay-so-we-got--massive-grant-maybe/
-(E) Vitimin Tablet +Health @nova  Time:02
-(E) Work on CareStar
-(E) Write Moonpig cards for this month +Overhead
-(E) Write a letter to Nova +Family Time:30 
-(E) change razor blade Time:03 
+(E) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
+(E) Check trustees on the EQT website +EQT (Make sure you are there as well)  @private
+(E) Definately make sure that you are all over Flowers For Turing with this. 
+(E) How to I tell when someone has left the WWW page to look at the amazon books.
+(E) Investigate this https://support.google.com/analytics/answer/1136920 for capturing outbound links
+(E) Put a call to action on your main blog page  - 'you should check out X', or read A,B,C 
+(E) Put call to actions on the disability wiki and animated pdf pages
+(E) Rewrite https://joereddington.com/1619/2013/12/28/disability-on-facebook-top-20-most-liked-pages/ 
+(E) Set up a funnel for the Open Voice Factory - include the downloading 
 (F) 10 Brainstorm 'never audition' +EQT
-x 2021-03-05 Link google ads and analytics https://support.google.com/analytics/answer/1033961?hl=en 
