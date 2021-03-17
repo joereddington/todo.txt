@@ -1,33 +1,35 @@
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/82 +PersonalProjects
-(B) Add invisible blank nodes to books.tex so that the order is correct https://github.com/joereddington/Projects-Public/issues/35 
+x 2021-03-16 30 Work on CareStar @private
+x 2021-03-16 10 delete the disability facebook group pages on joereddington.com  @private
+x 2021-03-16 06 Check if the book pages on WWW site have GA tracking on them (including external links)  @private https://github.com/eQualityTime/Public/issues/123 
+(E) 05 Delete the old joereddington account on mac @private https://github.com/joereddington/Projects-Public/issues/22 
+(E) 03 Put Nova's money person contact details in phoen
+(C) ঙ Make expense for hosting costs by Friday  @private https://github.com/users/joereddington/projects/1#card-56902539 
+(C) Respond to the linkedin messages @private https://github.com/users/joereddington/projects/1#card-56902446 
+(C) Make a list of ways you can put more brainstorming into your life.  https://github.com/joereddington/Projects-Private/issues/38 
+(C) Arrange grandparent dinner calls  @private +Leo  https://github.com/joereddington/Projects-Private/issues/166 
+(C) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
+(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top)  @private https://github.com/joereddington/Projects-Private/issues/170 
+x 2021-03-16 Sort out the HMRC payments 
+x 2021-03-16 Do the accounts
+x 2021-03-16 Add invisible blank nodes to books.tex so that the order is correct https://github.com/joereddington/Projects-Public/issues/35 
 (B) Draft an email for the Domain experts.  https://github.com/eQualityTime/Public/issues/124 
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top)  @private https://github.com/joereddington/Projects-Private/issues/170 
 (C) 30 Work on https://github.com/eQualityTime/Public/issues/122 
-(C) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
-(C) Arrange grandparent dinner calls  @private +Leo  https://github.com/joereddington/Projects-Private/issues/166 
-(C) Make a list of ways you can put more brainstorming into your life.  https://github.com/joereddington/Projects-Private/issues/38 
-(C) Respond to the linked in messages @private https://github.com/users/joereddington/projects/1#card-56902446 
+(C) Set up camera for ducks
 (C) Set up seperate ring-fenced account for Mum's share of rent.  https://github.com/users/joereddington/projects/1#card-56902290 
 (C) Tell Kat about https://www.youtube.com/watch?v=avYRvVHAvfM&list=PLvd0isBh6beTpKxK0gohHOiaUQqPSlI2J and arrange a date https://github.com/users/joereddington/projects/1#card-27369481 
-(C) ঙ Make expense for hosting costs by Friday  @private https://github.com/users/joereddington/projects/1#card-56902539 
 (D Kat) 04 Bring in and wash more judo suits +Garage https://github.com/users/joereddington/projects/1#card-56902612 
 (D Kat) Fix the Ring app on Kat's phone
-(D) Take pallet into garage and cut the membrane  https://github.com/users/joereddington/projects/1#card-56902675 
-(E) 03 Put Nova's money statement (in the 'in process' drawer and put it in a private issue with the contact details
-(E) 05 Delete the old joereddington account on mac @private https://github.com/joereddington/Projects-Public/issues/22 
+(D) 03  Take pallet into garage and cut the membrane  https://github.com/users/joereddington/projects/1#card-56902675 
 (E) 05 Lookup how to pay in amazon cheques 
-(E) 06 Check if the book pages on WWW site have GA tracking on them (including external links)  @private https://github.com/eQualityTime/Public/issues/123 
 (E) 10 Brainstorm on saving family memories 
 (E) 10 Google for using tikx tree to create the family tree
 (E) 10 Make chocolate fudge again 
 (E) 10 Select some photos from the year to print 
 (E) 10 Take escape room game to postoffice. +Leo 
-(E) 10 delete the disability facebook group pages on joereddington.com  @private
 (E) 15 Move the animated pdf page on joereddington.com to joereddington.github.io
 (E) 20 Write a letter to Nova at https://www.dropbox.com/home/BABY/Letters%20to%20Nova  +Family Time:30 
 (E) 25 Clear out the linkedin inbox
-(E) 30 Work on CareStar @private
 (E) 50 Work on https://github.com/eQualityTime/Public/issues/123 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory. +leo
-(E) 99 Go through and make sure every task has a project
+(E) Brainstorm on being more project oriented.
