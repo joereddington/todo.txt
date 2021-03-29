@@ -1,57 +1,48 @@
-(A) Write up, Map and sprint on accounts project @private
-(E) Find a replacement for lastPass
-(E) Finally download the dreamhost backup. 
-(C) Properly design, on paper, the WWW site journey
-(E) Talk to Kat about reserving items in cupboards
-(E) Process photos 
-(E) Frame the damn picture
-(E) Renew Equality Time insurance. +EQT
-(B) Long, repeated brainstorms on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects @private
-(C Kat)  Find out about custom stairgate (87cm at bottom 89cm at top)  @private https://github.com/joereddington/Projects-Private/issues/170 
-(C) Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
 (C) Arrange grandparent dinner calls  @private +Leo  https://github.com/joereddington/Projects-Private/issues/166 
-(C) Ask feline trickster for logo
+(C) Brainstorm duck cam 
 (C) Buy Kat flowers and make a reoccuring task for it. 
-(C) Cancel giff gaff contract
 (C) Check old analytics for Flowers for Turing to see mobile/desktop ect https://github.com/eQualityTime/Public/issues/122
 (C) Draw out the funnel you want for donations to FFT +EQT https://github.com/eQualityTime/Public/issues/122 
 (C) Email domain experts about videos
 (C) Fix the css on the www page
-(C) Get out old tablet as a duck cam 
 (C) Investigate getting a good paypal donation setup for FFT +EQT https://github.com/eQualityTime/Public/issues/122  @private
 (C) Make a list of ways you can put more brainstorming into your life.  https://github.com/joereddington/Projects-Private/issues/38 
+(C) Make new dentist apointment (they said to call back around this time 
 (C) Move across the 2016 FFT content to github pages +EQT https://github.com/eQualityTime/Public/issues/122 
-(C) Publish blog
-(C) Respond to the linkedin messages @private https://github.com/users/joereddington/projects/1#card-56902446 
+(C) Properly design, on paper, the WWW site journey
 (C) Tell Kat about https://www.youtube.com/watch?v=avYRvVHAvfM&list=PLvd0isBh6beTpKxK0gohHOiaUQqPSlI2J and arrange a date https://github.com/users/joereddington/projects/1#card-27369481  @private
 (C) ঙ Make expense for hosting costs by Friday  @private ttps://github.com/users/joereddington/projects/1#card-56902539 
-(D Kat) 04 Bring in and wash more judo suits +Garage https://github.com/users/joereddington/projects/1#card-56902612 
 (D Kat) Fix the Ring app on Kat's phone
 (D) 03  Take pallet into +Garage and cut the membrane  https://github.com/users/joereddington/projects/1#card-56902675 
 (D) Buy Glasses
 (E) 03 Put Nova's money person contact details in phoen
+(E) 05 Change the stackoverflow link for the animated pdf page
 (E) 05 Lookup how to pay in amazon cheques 
 (E) 10 Brainstorm on saving family memories 
 (E) 10 Google for using tikx tree to create the family tree
 (E) 10 Make chocolate fudge again 
 (E) 10 Select some photos from the year to print 
-(E) 10 Take escape room game to postoffice. +Leo 
-(E) 15 Move the animated pdf page on joereddington.com to joereddington.github.io
 (E) 20 Write a letter to Nova at https://www.dropbox.com/home/BABY/Letters%20to%20Nova  +Family Time:30 
 (E) 25 Clear out the linkedin inbox
 (E) 50 Work on https://github.com/eQualityTime/Public/issues/123 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory. +leo
 (E) Brainstorm on being more project oriented.
+(E) Finally download the dreamhost backup. 
+(E) Find a replacement for lastPass
+(E) get frame for the karnek picture
 (E) Message Kat about getting her one thoughtful present
+(E) Process photos 
 (E) Put mortifying ten year plan on personal social media calendar 
+(E) Renew Equality Time insurance. +EQT
 (E) Review the food brainstorms
+(E) Rewrite morning list in delores
 (E) Separate social media into 'asks' and NOT asks
-(E) Set alarm to do morning goodbyes with Nova
+(E) Take a photo and put in the right colour on the walls of the office.  
+(E) Take photo of morning delores for watch
 (E) Talk to Kat about giving Nova ways to express her power at the dinner table \\\ \\\  \  
+(E) Talk to Kat about reserving items in cupboards
 (E) Write a stack overflow question for how to use code coverage to produce a shorter python script
-mw 
-x 2021-03-17 30 Work on https://github.com/eQualityTime/Public/issues/122 
-x 2021-03-17 Draft an email for the Domain experts.  https://github.com/eQualityTime/Public/issues/124 
-x 2021-03-19 05 Delete the old joereddington account on mac @private https://github.com/joereddington/Projects-Public/issues/22 
-x 2021-03-19 Respond to the stackexc hage questions
-x 2021-03-19 Set up seperate ring-fenced account for Mum's share of rent.  https://github.com/users/joereddington/projects/1#card-56902290 @private
+(E) Write inbox delores
+x 2021-03-26 (C Kat)  Message the carpenter we are interested in working with Find out about custom stairgate (87cm at bottom 89cm at top)  @private https://github.com/joereddington/Projects-Private/issues/170 
+x 2021-03-26 Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
+x 2021-03-26 Long, repeated brainstorms on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects @private
