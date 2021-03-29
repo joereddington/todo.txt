@@ -4115,3 +4115,6 @@ x 2021-03-25 Publish blog
 x 2021-03-25 Respond to the linkedin messages @private https://github.com/users/joereddington/projects/1#card-56902446 
 x 2021-03-25 Write up, Map and sprint on accounts project @private
 x 2021-03-25 Set alarm to do morning goodbyes with Nova
+x 2021-03-26 (C Kat)  Message the carpenter we are interested in working with Find out about custom stairgate (87cm at bottom 89cm at top)  @private https://github.com/joereddington/Projects-Private/issues/170 
+x 2021-03-26 Apply online for the tax relief on working from home https://www.gov.uk/guidance/claim-income-tax-relief-for-your-employment-expenses-p87#claim-online  @private
+x 2021-03-26 Long, repeated brainstorms on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects @private

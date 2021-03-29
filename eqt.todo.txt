@@ -8,6 +8,8 @@
 (A) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
 (A) Work on: https://github.com/eQualityTime/Public/issues/117 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
+(A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
 (A) Write draft: This is a personal note from me about the Open Voice Factory project. I consider it to be my greatest professional failure, and it's certainly not for want of funding.
 (A) map project:Give someone else the Google Ad grant work.  +EQT
 (A) map project:Invesitgate esme fairbain +EQT
@@ -70,6 +72,7 @@
 (D) Work on: https://github.com/eQualityTime/Home/issues/70 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/113 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/123 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/28 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
