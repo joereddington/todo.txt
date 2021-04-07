@@ -1,46 +1,32 @@
-(D) 03  cut the membrane for the herb garden  https://github.com/users/joereddington/projects/1#card-56902675 
-(E) 03 Message Kat about getting her one thoughtful present
-(E) 03 Put Nova's money person contact details in phoen
-(E) 03 Save a nice family memory +Family @phone @nova  Time:03 
-(E) 03 Trim nose hair +Health @nova  Time:05 
-(E) 05 Floss +Health @nova  Time:05
-(E) 05 Lookup how to pay in amazon cheques 
-(E) 05 Talk to Kat about reserving items in cupboards
-(E) 10 Brainstorm on being more project oriented.
-(E) 10 Brainstorm on saving family memories 
-(E) 10 Check the dreamhost backup downlaod 
-(C) 10 Draw out the funnel you want for donations to FFT +EQT https://github.com/eQualityTime/Public/issues/122 
-(E) 10 Google for using tikx tree to create the family tree
+(A) Open Quickbooks and review issues treasurer raised.  
+(B) 20 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (C) 10 Make a list of ways you can put more brainstorming into your life.  https://github.com/joereddington/Projects-Private/issues/38 
-(E) 10 Make chocolate fudge again 
 (C) 10 Properly design, on paper, the WWW site journey
+(C) 10 Tell Kat about https://www.youtube.com/watch?v=avYRvVHAvfM&list=PLvd0isBh6beTpKxK0gohHOiaUQqPSlI2J and arrange a date https://github.com/users/joereddington/projects/1#card-27369481  @private
+(C) 20 Fix the css on the www contact page
+(C) 30  Make expense for hosting costs by Friday  @private ttps://github.com/users/joereddington/projects/1#card-56902539 
+(C) 60 Public Sprint on https://github.com/eQualityTime/Public/issues/122 
+(C) Review the new child protection document +EQT
+(D) 03 cut the membrane for the herb garden  https://github.com/users/joereddington/projects/1#card-56902675 
+(D) 60 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(E) 10 Brainstorm on saving family memories 
+(E) 10 Do Menu for the week +Family @nova @phone  Time:01 
+(E) 10 Check all Tar directories are downloaded 
+(E) 10 Google for using tikx tree to create the family tree
 (E) 10 Select some photos from the year to print 
-(E) 20 Do Menu for the week +Family @nova @phone  Time:01 
 (E) 20 Redesign CareStar
 (E) 20 Review the food brainstorms
-(E) 20 Write a letter to Nova +Family Time:30 
 (E) 20 Write a letter to Nova at https://www.dropbox.com/home/BABY/Letters%20to%20Nova  +Family Time:30 
 (E) 25 Clear out the linkedin inbox
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (E) 30 Renew Equality Time insurance. +EQT
 (E) 50 Work on https://github.com/eQualityTime/Public/issues/123 
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory. +leo
-(C) Brainstorm duck cam 
-(C) Fix the css on the www contact page
-(C) Investigate getting a good paypal donation setup for FFT +EQT https://github.com/eQualityTime/Public/issues/122  @private
-x 2021-03-29 (D Kat) Fix the Ring app on Kat's phone
-(C) Move across the 2016 FFT content to github pages +EQT https://github.com/eQualityTime/Public/issues/122 
-(B) 20 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
-(C) Tell Kat about https://www.youtube.com/watch?v=avYRvVHAvfM&list=PLvd0isBh6beTpKxK0gohHOiaUQqPSlI2J and arrange a date https://github.com/users/joereddington/projects/1#card-27369481  @private
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/164 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/38 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/31 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/46 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(C) ঙ Make expense for hosting costs by Friday  @private ttps://github.com/users/joereddington/projects/1#card-56902539 
+(E) Check how well you breath through your nose with tape. 
+x (E) Rewrite and map new issue about transparency https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2021-04-01 20 Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
+x 2021-04-02 10 Brainstorm on being more project oriented.
+x 2021-04-05 03 Save a nice family memory +Family @phone @nova  Time:03 
+x 2021-04-05 10 brainstorm duck cam 
+x 2021-04-05 15 Move across the 2016 FFT content to github pages +EQT https://github.com/eQualityTime/Public/issues/122 
+x 2021-04-05 20 Investigate getting a good paypal donation setup for FFT +EQT https://github.com/eQualityTime/Public/issues/122  @private
+x 2021-04-05 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
