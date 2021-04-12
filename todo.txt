@@ -1,4 +1,4 @@
-## 08/04/21 08:06 to 08:06, (C) 10 Properly design on paper the WWW site journey +EQT
+(A) 1 Sort out the furlough application
 (A) 10 Write up minutes properly +EQT
 (A) 60 Open Quickbooks and review issues treasurer raised.  +EQT
 (B) 20 Review all projects in github +Overhead https://github.com/users/joereddington/projects/1#card-30279917
@@ -9,12 +9,7 @@
 (D) 60 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (E) 10 Brainstorm on saving family memories 
 (E) 20 Redesign CareStar
-## 09/04/21 07:30 to 08:42, Responding to +EQT accounts feedback
 (E) 30 Renew Equality Time insurance. +EQT
 (E) 60 Spend an hour on the soft matter chemistry course: particular in terms of memory. +leo
 (E) Check outbound links on EQT and blog and write up how to see them on https://github.com/eQualityTime/Public/issues/123 
 (E) Put GA on new Flowers for Turing Site
-x 2021-04-08 10 Make a list of ways you can put more brainstorming into your life.  https://github.com/joereddington/Projects-Private/issues/38 
-x 2021-04-08 50 Work on https://github.com/eQualityTime/Public/issues/123 
-x 2021-04-08 60 Public Sprint on https://github.com/eQualityTime/Public/issues/122 
-
