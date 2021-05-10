@@ -1,4 +1,5 @@
 (.) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
+(A) Invoice Yvonne for the influencer time that hasn't already been invoiced.
 (.) Work on: https://github.com/eQualityTime/Public/issues/115 +EQT
 (A) 60 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (A) Do https://github.com/eQualityTime/Home/issues/105 
@@ -22,6 +23,7 @@
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
 (B) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
@@ -46,6 +48,7 @@
 (C) 10 Blog/facebook/google on how to show the value of a licence in Accounts 
 (C) 10 map project:Get files off public dropbox  +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) 20 Read the polices that RR sent over +EQT https://github.com/eQualityTime/Home/issues/107
 (C) 20 Write a blog post about OVF 
 (C) 60 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
 (C) 60 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
@@ -54,6 +57,7 @@
 (C) Map mailchimp project 
 (C) Phone the insurance octpus about the payments made 
 (C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/127 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -96,97 +100,3 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send Trustees something nice about outcomes +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(E) Backup Dreamhost +EQT
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(A) Review all the +EQT tasks while on furlough
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(E) Check the next school time +EQT Time:03 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(D) Do full accounts algorithm +EQT Time:99
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open and log progress on the bid status document +EQT Time:04
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(A) Review all the +EQT tasks while on furlough
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(E) Check the next school time +EQT Time:03 
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(.) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
-(.) Work on: https://github.com/eQualityTime/Public/issues/115 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
-(A) map project:Trustee Recuritment  +EQT
-(A) map project:Onboard treasurer  +EQT
-(A) map project:The OVF language files  +EQT
-(B) map project:Guidence for Dimond +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
-(B) map project:Joe to do full expenses algorithm. +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/85 +EQT
-(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
-(B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/128 +EQT
-(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/131 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/127 +EQT
-(C) map project:Contact prison journalists  +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
-(C) map project:Get the new WWW code up and running.  +EQT
-(C) map project:Bring in external funding by X +EQT
-(C) map project:Develop WWW hubs and strengthen relationships +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/123 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
-(D) map project:Brainstorm making social media more about books +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
-(D) map project:Update open Voice Factory site.  +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Improvements in transparency +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/28 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/70 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/113 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
