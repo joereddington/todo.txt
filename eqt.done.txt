@@ -638,3 +638,85 @@ x 2021-02-25 Rewrite partnership aggreeement for Glasgow
 x 2021-02-25 Ring Amaozn again and ask for another credit limit increase 
 x 2021-02-25 10 map project:Update open Voice Factory site.  +EQT
 x 2021-02-25 10 map project:smile.amazon.co.uk +EQT
+x 2021-05-11 Review all the +EQT tasks while on furlough
+x 2021-05-11 (.) Work on: https://github.com/eQualityTime/Home/issues/104 +EQT
+x 2021-05-11 Do https://github.com/eQualityTime/Home/issues/105 
+x 2021-05-11 (.) Work on: https://github.com/eQualityTime/Public/issues/115 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
+x 2021-05-11 map project:Give someone else the Google Ad grant work.  +EQT
+x 2021-05-11 map project:Onboard treasurer  +EQT
+x 2021-05-11 map project:Trustee Recuritment  +EQT
+x 2021-05-11 map project:Bring in external funding by X +EQT
+x 2021-05-11 Download the amazon months sales figures +EQT
+x 2021-05-11 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2021-05-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-05-11 Open and log progress on the bid status document +EQT Time:04
+x 2021-05-11 Open list of projects to be funded +EQT
+x 2021-05-11 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-05-11 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2021-05-11 Search for funding for eQuality Time Projects +EQT
+x 2021-05-11 Send Trustees something nice about outcomes +EQT
+x 2021-05-11 Do millage expense for EQT @private 
+x 2021-05-11 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-05-11 Put all the dot projects into the social media calendar. 
+x 2021-05-11 map project:Guidance for Dimond +EQT
+x 2021-05-11 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-05-11 20 Write a blog post about OVF 
+x 2021-05-11 Look at the tasks-from-projects code  - can the title be brought in without breaching confidentiality?  
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/117 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x 2021-05-11 Write draft: This is a personal note from me about the Open Voice Factory project. I consider it to be my greatest professional failure, and it's certainly not for want of funding.
+x 2021-05-11 2021-05-11 Arts council stream 
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2021-05-11 (.) Work on: https://github.com/eQualityTime/Public/issues/115 +EQT
+x 2021-05-11 20 Write blog on  https://github.com/eQualityTime/Public/issues/16 +EQT
+x 2021-05-11 Backup Dreamhost +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/85 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
+x 2021-05-11 Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
+x 2021-05-11 2021-05-11 Check the next school time +EQT Time:03 
+x 2021-05-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-05-11 Open and log progress on the bid status document +EQT Time:04
+x 2021-05-12 (.) Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
+x 2021-05-12 03 Check the amount of hours worked in April and use it to submit the furlough claim  +EQT
+x 2021-05-12 40 Put journal entries into Quickbooks @private +EQT
+x 2021-05-12 Fix The OBF board name issue, include buying powerpoint licence 
+x 2021-05-12 Go through quickbooks expenditure and make sure that all hashtag invoices are marked as invoicable
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/117 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x 2021-05-12 map project:The OVF language files  +EQT
+x 2021-05-12 20 design membership cards out of cardboard and get them printed.  +EQT
+x 2021-05-12 20 Start filling out this unity form https://www.unity.co.uk/update-your-details/ to add trustees to bank   +EQT
+x 2021-05-12 map project:Flowers for Turing +PersonalProjects +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2021-05-12 Work on: ttps://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2021-05-12 map project:Bring in external funding by X +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/95 +EQT
+x 2021-05-12 15 Add several more ads to the turning google ads @private +EQT
+x 2021-05-12 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/103 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/105 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/114 +EQT
+x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
+x 2021-05-12 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-05-12 map project:Get the new WWW code up and running.  +EQT
+x 2021-05-12 map project:Have a set date all employees need to bring expenses up to date by. +EQT
