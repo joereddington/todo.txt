@@ -1,23 +1,26 @@
-(A) Read and review novel. 
+(B) Book soft play
+(B) Ring the garage about canceling apointment 
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
+(B) map project:Flowers for Turing +PersonalProjects
 (C) 05 Go and get the side gate equipment and put it in a drawer.  @garage
 (C) 10 Look at 10 year plan Brainstorm entirely new Wheel of Life
-(C) 10 brainstorming present for Kat
 (C) 60 Full acounts algorithm 
-(C) Post Ammy Card 
-(D) 04 Find bike lights and charge them. (Garage) 
-(D) 05 upload Dad's files on a dropbox backup and send him the link  on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(C) Get next set of moonpig cards: Kim, Connor, Father's days on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Map present for Kat 
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (D) 10 Search for missing stairgate bit in garage 
 (D) 10 map project:Have sensible rules about spending an income. Set up a savings goal with Kat +PersonalProjects
 (D) 120 Go and tidy the garage  on: https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 15 Setup teapot and monitor in gargae   https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
-(D) 20 Brainstorm on all your communication process https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(D) 20 Get mps script to print example tweets https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
 (D) 20 Write blog about live streaming and how it hasn't quite worked.https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
-(D) 20 cut the membrane for the herb garden https://github.com/users/joereddington/projects/1#card-56902675  Garage
+(D) Send RR her trustee card 
 (D) Contact mum about visits. 
+(D) Find Saturdays in June For Zoto
+(D) Cut down the grill for the BBQ
+(D) Take a bunch of photos of something 
+(D) Tidy the Mps ranking https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/128 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
@@ -26,20 +29,30 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/40 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/49 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
 (D) Work on: https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(D) Write calendar delploy script Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
 (D) map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects
-(D) map project:Make myself a herb garden +PersonalProjects
-(D) map project:Make sure bike lights are sorted out. +PersonalProjects
 (D) map project:Side gate has correct locks and combinations on it.  +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) 04 Put the daylight lamp in the office for bonus light 
 (E) 05 Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) 15 rewrite office. 
 (E) 30 Write 'you might also like section' for white water writers.
+(E) Call Dad back 
 (E) Check mould on planks
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
+(E) Empty Joe inbox completely +Overhead @nova  Time:15 
+(E) Floss +Health @nova  Time:05
+(E) Get dashcam 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Put bits of string on hanging baskets 
+(E) Respond to voicemail
+(E) Save a nice family memory +Family @phone @nova  Time:03 
+(E) Work on CareStar
+(E) Write a letter to Nova +Family Time:30 
