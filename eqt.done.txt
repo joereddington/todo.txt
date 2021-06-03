@@ -720,3 +720,11 @@ x 2021-05-12 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
 x 2021-05-12 map project:All Employees should have uploaded all changed git code +EQT
 x 2021-05-12 map project:Get the new WWW code up and running.  +EQT
 x 2021-05-12 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2021-06-01 Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x 2021-06-01 Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
+x 2021-06-01 Work on: https://github.com/eQualityTime/Public/issues/126 +EQT
+x 2021-06-01 Work on: https://github.com/eQualityTime/Public/issues/128 +EQT
+x 2021-06-01 map project:Guidence for Dimond +EQT
+x 2021-06-01 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-06-01 Get the paypal files 
+x 2021-06-01 Review all the +EQT tasks while on furlough
