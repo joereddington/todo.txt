@@ -728,3 +728,13 @@ x 2021-06-01 map project:Guidence for Dimond +EQT
 x 2021-06-01 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2021-06-01 Get the paypal files 
 x 2021-06-01 Review all the +EQT tasks while on furlough
+x (A) Fill out the trustee forms and have them sent off. 
+x (A) Fix company number on website - should be  09197133 
+x (A) Review all the +EQT tasks while on furlough
+x (A) Use https://www.gov.uk/send-charity-annual-return?fbclid=IwAR0mD6L2nUG0nVwVARRBOncTubvd5Tigc9sqaKovTBcGMxDNCzQbcBYP3x0 to file charity commision accounts https://github.com/eQualityTime/Public/issues/118 +EQT
+x 2021-06-08 Check the next school time +EQT Time:03 
+x 2021-06-08 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2021-06-08 Open and log progress on the bid status document +EQT Time:04
+x 2021-06-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-06-08 30 Ring about Equality Time insurance. +EQT
+x 2021-06-08 Backup Dreamhost +EQT
