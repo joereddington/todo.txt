@@ -1,19 +1,33 @@
-(A) Check the reconcilation spreadsheet and work out howm much Kat owes you.  @private
-(A) File the proper accounts +EQT @private 
-(A) Find out about amazon credit card  @private 
-(A) Set up Nova gymnastics payments @private
-(A) Thank you card for Sarah 
-(A) Write 1 page description for the Open Voice Factory
-(B) 30 Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(B) Regenerate the Slavic and Arabic exampels of the open voice factory.  +EQT
-(C) 13 Get next set of moonpig cards: Father's days on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
-(C) 20 More long term brainstorming.  @private
-(C) 30 Watch a lecture on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects @private
-(C) 60 Full accounts algorithm  @private
-(D) 10 Brainstorm on stimulation https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(A Thursday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
+(E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
+(B) 13 Get next set of moonpig cards: Father's days on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
+(B) 40 Record a podcast for Yvonne's friend.
+(C Friday) 05 Return library book. 
+(C) 03 Thank you card for Sarah  @private
+(C) 10 Make seiten
+(C) 10 Spray the rest of the mould in garage
+(C) 15 Empty Joe inbox completely +Overhead @nova  Time:15 
+(C) 20 Do next set of moonpig cards  https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(D) 05 Buy Kat flowers
+(D) 07 Work out what cables Kat needs for her work. 
+(D) 10 Fix saw and cut grill for BBQ
 (D) 10 Look at 10 Year Plan and brainstorm entirely new Wheel of Life  https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
-(D) 12 Create an embedded tiled calendar  https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
-(D) 15 Setup teapot and monitor in Garage   https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
-(D) 25 Build shelving unit in garage https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) 10 Make list of daddy-dagher day activities. 
+(D) 10 Test mirror for office calls: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) 15 Drill holes for cables in charging station. 
+(D) 15 Re-sync the external hard drive and the USB one on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) 20 Rebuild the third ikea cabinet
+(D) 30 Tidy garage 
 (D) 40 Process Photos on Camera 
-(E) Add calednar event for running vision. 
+(D) 60 Watch the food videos : https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(E) 03 Call doctors for appointment about toenail. 
+(E) 04 Check if social algorithm survived the water and then Put reddit in the social algorithm 
+(E) 04 Put lock in climbing bag 
+(E) 05 Get Velcro for the Office remotes
+(E) 05 Message your publisher friend to check in.  
+(E) 05 Pick day for party and tell Kat https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(E) 10 Have the joereddington.com homepage redirect to new site, but not the rest of the articles. https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(E) 10 buy Red bull for the car 
+(E) 15 Write a letter to Nova +Family Time:30 
+(E) 20 Add 'click counting' to mousesniper. on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
+(E) 30 Write up the 'everything breaks' Flowers For Turing post. 
