@@ -738,3 +738,5 @@ x 2021-06-08 Open and log progress on the bid status document +EQT Time:04
 x 2021-06-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 x 2021-06-08 30 Ring about Equality Time insurance. +EQT
 x 2021-06-08 Backup Dreamhost +EQT
+x 2021-06-30 Open and log progress on the bid status document +EQT Time:04
+x 2021-06-30 60 full review of the EQT list. 

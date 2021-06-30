@@ -1,4 +1,5 @@
 (A Thursday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
+
 (E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
 (B) 13 Get next set of moonpig cards: Father's days on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
 (B) 40 Record a podcast for Yvonne's friend.
