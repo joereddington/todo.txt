@@ -1,8 +1,5 @@
-(A Thursday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
-
-(E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
-(B) 13 Get next set of moonpig cards: Father's days on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
-(B) 40 Record a podcast for Yvonne's friend.
+(A 25th July) Setup standing order for Nova's gymnastics  (£25 starting 1st August)
+(B) 13 Get next set of moonpig cards:  https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
 (C Friday) 05 Return library book. 
 (C) 03 Thank you card for Sarah  @private
 (C) 10 Make seiten
@@ -13,7 +10,6 @@
 (D) 07 Work out what cables Kat needs for her work. 
 (D) 10 Fix saw and cut grill for BBQ
 (D) 10 Look at 10 Year Plan and brainstorm entirely new Wheel of Life  https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
-(D) 10 Make list of daddy-dagher day activities. 
 (D) 10 Test mirror for office calls: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) 15 Drill holes for cables in charging station. 
 (D) 15 Re-sync the external hard drive and the USB one on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
@@ -28,7 +24,13 @@
 (E) 05 Message your publisher friend to check in.  
 (E) 05 Pick day for party and tell Kat https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (E) 10 Have the joereddington.com homepage redirect to new site, but not the rest of the articles. https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(E) 10 buy Red bull for the car 
 (E) 15 Write a letter to Nova +Family Time:30 
 (E) 20 Add 'click counting' to mousesniper. on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
 (E) 30 Write up the 'everything breaks' Flowers For Turing post. 
+(E) Talk to C about autism.
+(E) Test two facebook posts a day 
+(E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
+x (A Thursday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
+x (B) 40 Record a podcast for Yvonne's friend.
+x (D) 10 Make list of daddy-dagher day activities. 
+x (E) 10 buy Red bull for the car 
