@@ -1,9 +1,7 @@
-(.) Write blog post with the accounts in it https://github.com/eQualityTime/Public/issues/118 +EQT
-(A) File the proper accounts +EQT @private 
-(A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
-(A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
-(B) 20 Write up Data breach +EQT
+x (A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x (A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
+x (A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
+x (B) 20 Write up Data breach +EQT
 (B) 60 Review state of application for on: https://github.com/eQualityTime/Public/issues/94 +EQT
 (B) Full algorithm for Joe expenses.
 (B) Regenerate the Slavic and Arabic examples of the open voice factory.  +EQT @private (needs email) 
@@ -65,3 +63,4 @@
 x (.) 20 Write blog on  https://github.com/eQualityTime/Home/issues/104 +EQT
 x (.) Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
 x (.) Work on: https://github.com/eQualityTime/Public/issues/128 +EQT
+x (A) File the proper accounts +EQT @private 
