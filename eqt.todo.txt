@@ -1,9 +1,5 @@
 (A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-(C) Do an A/B Test about putting the price on the website +EQT
-(C) Write minutes for +EQT meeting+EQT
-(C) Cybercurrency policy +EQT
-(C) Check size of dreamhost server and possibly delete stuff.+EQT
-(C) Write policy on Data breaches +EQT
+(C) Finalise bitcoin policy
 (A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
 (A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
 (B) 60 Review state of application for on: https://github.com/eQualityTime/Public/issues/94 +EQT
@@ -26,12 +22,17 @@
 (C) 10 Blog/facebook/google on how to show the value of a licence in Accounts 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 20 Read the polices that RR sent over +EQT https://github.com/eQualityTime/Home/issues/107 +EQT
+(C) Check size of dreamhost server and possibly delete stuff.+EQT
 (C) Claim back the amazon purchase that is on the amazon credit card  
+(C) Cybercurrency policy +EQT
+(C) Do an A/B Test about putting the price on the website +EQT
 (C) Find the funding proposal for Comic Relief and use that to build a 1 page thing for Kat +EQT @private
 (C) Login to Dreamhost and switch OVF site to this one: https://equalitytime.github.io/TheOpenVoiceFactory-site/ +EQT
 (C) Phone the insurance octopus about the payments made 
 (C) Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Write minutes for +EQT meeting+EQT
+(C) Write policy on Data breaches +EQT
 (C) map project:Develop WWW hubs and strengthen relationships +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (D) Do full accounts algorithm +EQT Time:99

@@ -1,36 +1,30 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(C) Rewrite the FAQ page on the WWW site. 
+(C) Pack and return the fly swat
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
-(B) 13 Get next set of moonpig cards:  https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @private
 (B) Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
-(C Friday) 05 Return library book. 
-(C) 03 Thank you card for Sarah  @private
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 10 Make seiten
-(C) 10 Spray the rest of the mould in garage
-(C) 15 Empty Joe inbox completely +Overhead @nova  Time:15 
-(C) 20 Do next set of moonpig cards  https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) 10 Spray the rest of the mould in garage @Garage 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Quit some projects (and blog it)  
 (C) Review and rescore  Wheel Of life
 (C) Review the feedbacks from Kat and follow up
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(D Kat) Check doorbell batteries
 (D) 05 Buy Kat flowers
 (D) 07 Work out what cables Kat needs for her work. 
-(D) 10 Fix saw and cut grill for BBQ
+(D) 10 Fix saw and cut grill for BBQ @Garage 
 (D) 10 Look at 10 Year Plan and brainstorm entirely new Wheel of Life  https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
 (D) 10 Test mirror for office calls: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
-(D) 15 Drill holes for cables in charging station. 
 (D) 15 Re-sync the external hard drive and the USB one on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(D) 20 Rebuild the third ikea cabinet
-(D) 30 Tidy garage 
-(D) 40 Process Photos on Camera 
+(D) 30 Tidy garage  @Garage 
 (D) 60 Watch the food videos : https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (D) Buy Kat flowers
+(D) Fix Amazon prime payment method 
 (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
@@ -43,6 +37,7 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/12 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
@@ -59,15 +54,11 @@
 (D) map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 03 Call doctors for appointment about toenail. 
-(E) 04 Check if social algorithm survived the water and then Put reddit in the social algorithm 
 (E) 04 Put lock in climbing bag 
 (E) 05 Get Velcro for the Office remotes
 (E) 05 Message your publisher friend to check in.  
 (E) 05 Pick day for party and tell Kat https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (E) 10 Have the joereddington.com homepage redirect to new site, but not the rest of the articles. https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(E) 15 Write a letter to Nova +Family Time:30 
-(E) 20 Add 'click counting' to mousesniper. on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
-(E) 30 Write up the 'everything breaks' Flowers For Turing post. 
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
@@ -77,12 +68,15 @@
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
+(E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Floss +Health @nova  Time:05
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
 (E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Photo time with the kids. 
 (E) Post to Sibling Facebook group @nova @phone  Time:06 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
@@ -90,13 +84,51 @@
 (E) Talk to C about autism.
 (E) Test two facebook posts a day 
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitamin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03 
-x (A 25th July) Setup standing order for Nova's gymnastics  (£25 starting 1st August)
-x (A Thursday) 40 Work through Kat's Feedback on book and send to magic people. https://github.com/joereddington/Projects-Public/issues/35
-x (B) 40 Record a podcast for Yvonne's friend.
-x (D) 10 Make list of daddy-dagher day activities. 
-x (E) 10 buy Red bull for the car 
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+x (B) Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+x (C Friday) 05 Return library book. 
+x (C) 03 Thank you card for Sarah  @private
+x (C) 1. Process Email @singleton +Overhead @phone  Time:90
+x (C) 10 Make seiten
+x (C) 15 Empty Joe inbox completely +Overhead @nova  Time:15 
+x (C) 20 Do next set of moonpig cards  https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+x (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x (C) Review the feedbacks from Kat and follow up
+x (C) Rewrite the FAQ page on the WWW site. 
+x (D) 15 Drill holes for cables in charging station. 
+x (D) 20 Rebuild the third ikea cabinet
+x (D) 40 Process Photos on Camera 
+x (D) Buy Kat flowers
+x (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x (E) 04 Check if social algorithm survived the water and then Put reddit in the social algorithm 
+x (E) 20 Add 'click counting' to mousesniper. on: https://github.com/joereddington/Projects-Public/issues/52 +PersonalProjects
+x (E) 30 Write up the 'everything breaks' Flowers For Turing post. 
+x (E) Check Voicemail  +Overhead @nova  @phone  Time:02 
+x (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x (E) Cut nails +Health @nova  Time:04 
+x (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x (E) Empty Joe inbox completely +Overhead @nova  Time:15 
+x (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x (E) Log weight +Health  Time:02 
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x (E) Publicly thank someone +Overhead Time:15 
+x (E) Save a nice family memory +Family @phone @nova  Time:03 
+x (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x (E) Trim nose hair +Health @nova  Time:05 
+x (E) Try https://vi.stackexchange.com/questions/5110/quickfix-support-for-python-tracebacks for python makefiles  +EQT
+x (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x (E) Vitamin Tablet +Health @nova  Time:02
+x (E) change razor blade Time:03 
