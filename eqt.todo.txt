@@ -1,82 +1,22 @@
+(A) Do full accounts algorithm +EQT Time:99
 (A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-(C) Finalise bitcoin policy
 (A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
 (A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
-(B) 60 Review state of application for on: https://github.com/eQualityTime/Public/issues/94 +EQT
-(B) Full algorithm for Joe expenses.
 (B) Regenerate the Slavic and Arabic examples of the open voice factory.  +EQT @private (needs email) 
+(B) Review the current state of this bid: https://github.com/eQualityTime/Public/issues/94 +EQT
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/105 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
-(B) Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
-(B) Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-(B) map project:Guidence for Dimond +EQT
 (B) map project:Joe to do full expenses algorithm. +EQT
-(C Alexandra ) Work on Alexandra Hayes email  @private
-(C Meeting) Fix Sarah's Date of Birth
-(C) 10 Blog/facebook/google on how to show the value of a licence in Accounts 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 20 Read the polices that RR sent over +EQT https://github.com/eQualityTime/Home/issues/107 +EQT
-(C) Check size of dreamhost server and possibly delete stuff.+EQT
 (C) Claim back the amazon purchase that is on the amazon credit card  
-(C) Cybercurrency policy +EQT
-(C) Do an A/B Test about putting the price on the website +EQT
-(C) Find the funding proposal for Comic Relief and use that to build a 1 page thing for Kat +EQT @private
+(C) Cybercurrency policy +EQT https://github.com/eQualityTime/Public/issues/57
 (C) Login to Dreamhost and switch OVF site to this one: https://equalitytime.github.io/TheOpenVoiceFactory-site/ +EQT
 (C) Phone the insurance octopus about the payments made 
-(C) Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Write minutes for +EQT meeting+EQT
-(C) Write policy on Data breaches +EQT
-(C) map project:Develop WWW hubs and strengthen relationships +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(D) Do full accounts algorithm +EQT Time:99
+(C) Write policy on Data breaches +EQT https://github.com/eQualityTime/Public/issues/57 
+(D) Download ppt template https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Draft MAT pitch email https://github.com/eQualityTime/Public/issues/93 +EQT
+(D) Login to mailchimp: https://github.com/eQualityTime/Public/issues/107 +EQT
+(D) Lookup Allen Lane and then call them on: https://github.com/eQualityTime/Public/issues/76 +EQT
+(D) Read the books on: https://github.com/eQualityTime/Public/issues/9 +EQT
+(D) Setup Analytics event for clicking on the 'upload' button in OVF  on: https://github.com/eQualityTime/Public/issues/119 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/119 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/123 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/127 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/130 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/28 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/38 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/69 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/88 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/97 +EQT
-(D) Work on: https://github.com/eQualityTime/WhiteWaterWriters/issues/109 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Brainstorm making social media more about books +EQT
-(D) map project:Bring in external funding by X +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
-(E) Check the next school time +EQT Time:03 
-(E) Draft standard words for Facebook post about publishing a new book. 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Search for funding for eQuality Time Projects +EQT
-x (.) 20 Write blog on  https://github.com/eQualityTime/Home/issues/104 +EQT
-x (.) Work on: https://github.com/eQualityTime/Public/issues/122 +EQT
-x (.) Work on: https://github.com/eQualityTime/Public/issues/128 +EQT
-x (A) File the proper accounts +EQT @private 
-x (A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-x (A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
-x (A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
-x (B) 20 Write up Data breach +EQT
