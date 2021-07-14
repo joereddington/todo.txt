@@ -1,11 +1,7 @@
 (A) Do full accounts algorithm +EQT Time:99
-(A) Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
-(A) Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
-(A) map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
 (B) Regenerate the Slavic and Arabic examples of the open voice factory.  +EQT @private (needs email) 
 (B) Review the current state of this bid: https://github.com/eQualityTime/Public/issues/94 +EQT
 (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(B) map project:Joe to do full expenses algorithm. +EQT
 (C) 20 Read the polices that RR sent over +EQT https://github.com/eQualityTime/Home/issues/107 +EQT
 (C) Claim back the amazon purchase that is on the amazon credit card  
 (C) Cybercurrency policy +EQT https://github.com/eQualityTime/Public/issues/57
@@ -19,4 +15,4 @@
 (D) Lookup Allen Lane and then call them on: https://github.com/eQualityTime/Public/issues/76 +EQT
 (D) Read the books on: https://github.com/eQualityTime/Public/issues/9 +EQT
 (D) Setup Analytics event for clicking on the 'upload' button in OVF  on: https://github.com/eQualityTime/Public/issues/119 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Make a list of 20 cool t-shirts https://github.com/eQualityTime/Home/issues/106 +EQT

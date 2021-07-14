@@ -790,3 +790,7 @@ x 2021-07-13 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
 x 2021-07-13 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
 x 2021-07-13 Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
 x 2021-07-13 Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
+x 2021-07-13 map project:Joe to do full expenses algorithm. +EQT
+x 2021-07-13 Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x 2021-07-13 Work on: https://github.com/eQualityTime/Public/issues/125 +EQT
+x 2021-07-13 map project:The OVF language files - I've been asked for examples of all the different langugages I have Communicate in, and it's pulling on a messy thread.  The solution is clearly to do the start from scratch approach but that feels like a right pain.  Hmmm.  +EQT
