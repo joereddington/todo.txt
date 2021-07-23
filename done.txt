@@ -5058,3 +5058,9 @@ x 2021-07-13 Empty Joe inbox completely +Overhead @nova  Time:15
 x 2021-07-13 Empty whatsapp and facebook inboxes. +Overhead Time:20 
 x 2021-07-13 05 Buy Kat flowers
 x 2021-07-13 Buy Kat flowers
+x 2021-07-14 Floss +Health @nova  Time:05
+x 2021-07-14 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2021-07-14 Publicly thank someone +Overhead Time:15 
+x 2021-07-14 Trim nose hair +Health @nova  Time:05 
+x 2021-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2021-07-15 10 Test mirror for office calls: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
