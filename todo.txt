@@ -1,27 +1,24 @@
-(A) Put Kat corrections in book. 
-(A) Do the video edits for Project Real +EQT
-(E) Rewrite delores for the big rock approach 
-(E) Add to deloresed - vim tasks go onto the issue 
-(E) respond to vim github issue 
-(C) Send mum date of next visit
-(C) Put Nova screentime back on. 
+x 2021-07-26 Put Kat corrections in book. 
+x 2021-07-26 Send proper invites for Nova birthday party 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+(B) Message nursery for guests for Nova's birthday. 
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C Friday) tell Kat you want to throw a party 
 (C) 10 Spray the rest of the mould in garage @Garage 
-(C) Do a quick pivot table on family spending. 
-(C) Fill in journalists spreadsheet
+(C) Message Steph about Suprise party 
 (C) Pack and return the fly swat
+(C) Pay in Natwest Check 
+(C) Put Nova screentime back on. 
 (C) Quit some projects (and blog it)  
 (C) Review and rescore  Wheel Of life
 (C) Review the feedbacks from Kat and follow up
+(C) Send mum date of next visit
 (C) Talk to Dad about suprising mum on her birthday 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (D Kat) Check doorbell batteries
-(D) 07 Work out what cables Kat needs for her work. 
 (D) 10 Fix saw and cut grill for BBQ @Garage 
 (D) 10 Look at 10 Year Plan and brainstorm entirely new Wheel of Life  https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
 (D) 15 Re-sync the external hard drive and the USB one on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
@@ -62,17 +59,23 @@
 (E) 05 Pick day for party and tell Kat https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (E) 10 Have the joereddington.com homepage redirect to new site, but not the rest of the articles. https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
+(E) Do post about all male events 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Draft a Caroline Checklist and have Kat check it.
+(E) Get Spanner to fix stairgate 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
-(E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Look at page 86 of unicorn book and redo daily stress sheets. 
+(E) Office remote needs a string and a board. 
 (E) Photo time with the kids. 
-(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Rewrite delores for the big rock approach 
 (E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Send mum a visit date - ideally thursdday night, look up trains
 (E) Talk to C about autism.
 (E) Work out adding times to todo.txt 
 (E) Write a letter to Nova +Family Time:30 
+(E) Write list fr 'when to call family in for dinner' 
+x 2021-07-26 Do a quick pivot table on family spending. 

@@ -5064,3 +5064,10 @@ x 2021-07-14 Publicly thank someone +Overhead Time:15
 x 2021-07-14 Trim nose hair +Health @nova  Time:05 
 x 2021-07-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 x 2021-07-15 10 Test mirror for office calls: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+x 2021-07-23 Fill in journalists spreadsheet
+x 2021-07-23 Log weight +Health  Time:02 
+x 2021-07-25 07 Work out what cables Kat needs for her work. 
+x 2021-07-25 respond to vim github issue 
+x 2021-07-25 Add to deloresed - vim tasks go onto the issue 
+x 2021-07-25 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2021-07-25 Post to Sibling Facebook group @nova @phone  Time:06 
