@@ -6,6 +6,7 @@
 (C) Review and rescore  Wheel Of life
 (C) Review the feedbacks from Kat and follow up
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(*) Check out Clara's email 
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/42 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
