@@ -801,3 +801,5 @@ x 2021-07-14 Cybercurrency policy +EQT https://github.com/eQualityTime/Public/is
 x 2021-07-14 Do full accounts algorithm +EQT Time:99
 x 2021-07-14 Login to Dreamhost and switch OVF site to this one: https://equalitytime.github.io/TheOpenVoiceFactory-site/ +EQT
 x 2021-07-14 Login to mailchimp: https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2021-08-04 Do the lizzie work and find some places to send papers
+x 2021-08-04 Do the video edits for Project Real +EQT
