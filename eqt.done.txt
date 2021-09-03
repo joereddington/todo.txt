@@ -803,3 +803,56 @@ x 2021-07-14 Login to Dreamhost and switch OVF site to this one: https://equalit
 x 2021-07-14 Login to mailchimp: https://github.com/eQualityTime/Public/issues/107 +EQT
 x 2021-08-04 Do the lizzie work and find some places to send papers
 x 2021-08-04 Do the video edits for Project Real +EQT
+x 2021-08-24 Upgrade the Google Analytics 
+x 2021-08-24 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2021-08-24 Check the next school time +EQT Time:03 
+x 2021-08-24 Download the amazon months sales figures +EQT
+x 2021-08-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-08-24 Follow up about the application to the Fore  
+x 2021-08-24 Send Trustees something nice about outcomes +EQT
+x 2021-08-24 Write minutes for +EQT meeting+EQT
+x 2021-08-24 Do full accounts algorithm +EQT Time:99
+x 2021-08-24 Claim back the amazon purchase that is on the amazon credit card  
+x 2021-08-24 20 Read the polices that RR sent over +EQT https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-08-24 Draft MAT pitch email https://github.com/eQualityTime/Public/issues/93 +EQT
+x 2021-08-24 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2021-08-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-08-24 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2021-08-24 Open and log progress on the bid status document +EQT Time:04
+x 2021-08-24 Review the current state of this bid: https://github.com/eQualityTime/Public/issues/94 +EQT
+x 2021-08-24 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2021-08-24 Work on: https://github.com/eQualityTime/Public/issues/124 +EQT
+x 2021-08-24 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-08-24 map project:Bring in external funding by X +EQT
+x 2021-08-24 Backup Dreamhost +EQT
+x 2021-08-24 map project:Continually improve and train on working practices and technology +EQT
+x 2021-08-24 Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2021-08-25 Check on the Project real website list for the website works: https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2021-08-25 Download pptx template https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/111 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/119 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/123 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/127 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/82 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/90 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
+x 2021-08-25 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT
+x 2021-08-25 map project:Create 1 page document for Kat (from project files)  +EQT
+x 2021-08-25 10 Make a list of 20 cool t-shirts https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2021-08-25 20 Write policy on Data breaches +EQT https://github.com/eQualityTime/Public/issues/57 
+x 2021-08-25 Remap this issue: https://github.com/eQualityTime/Public/issues/130 +EQT
+x 2021-08-25 Remove the OVF website from the git repo. 
+x 2021-08-25 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2021-08-25 05 Post the amazon cheuqe 
+x 2021-08-25 1ap project:Joe to do full expenses algorithm. +EQT
