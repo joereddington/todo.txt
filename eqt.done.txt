@@ -856,3 +856,38 @@ x 2021-08-25 Remove the OVF website from the git repo.
 x 2021-08-25 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2021-08-25 05 Post the amazon cheuqe 
 x 2021-08-25 1ap project:Joe to do full expenses algorithm. +EQT
+x 2021-09-15 Check the next school time +EQT Time:03 
+x 2021-09-15 Download the amazon months sales figures +EQT
+x 2021-09-15 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2021-09-15 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-09-15 Open and log progress on the bid status document +EQT Time:04
+x 2021-09-15 Open list of projects to be funded +EQT
+x 2021-09-15 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-09-15 map project:All Employees should have uploaded all changed git code +EQT 2021-09-15
+x 2021-09-15 map project:Bring in external funding by X +EQT 2021-09-15
+x 2021-09-15 map project:Continually improve and train on working practices and technology +EQT 2021-09-15
+x 2021-09-15 map project:Have a set date all employees need to bring expenses up to date by. +EQT 2021-09-15
+x 2021-09-15 10 Brainstorm and  map project:Develop WWW hubs and strengthen relationships +EQT 2021-08-27
+x 2021-09-15 10 Prep-press release for Project Real. 2021-08-27
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-09-15
+x 2021-09-15 10 Get Quickbooks to send out a regular 'unpaid invoice' report on: https://github.com/eQualityTime/Public/issues/92 +EQT 2021-08-27
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT 2021-09-15
+x 2021-09-15 60 Work on Arts Grant https://github.com/eQualityTime/Public/issues/94  2021-08-27
+x 2021-09-15 Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT 2021-09-15
+x 2021-09-15 Talk to Kat about going up to visit Keele.  2021-09-15
+x 2021-09-15 map project:Develop WWW hubs and strengthen relationships +EQT 2021-09-15
+x 2021-09-15 03 Talk to Kat about going to Keele for the day  on: https://github.com/eQualityTime/Public/issues/106 +EQT 2021-08-27
+x 2021-09-15 Backup Dreamhost +EQT 2021-09-15
+x 2021-09-15 Send Trustees something nice about outcomes +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/22 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT 2021-09-15
+x 2021-09-15 Pick a policy to review on: https://github.com/eQualityTime/Public/issues/57 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT 2021-09-15
+x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/130 +EQT 2021-09-15
