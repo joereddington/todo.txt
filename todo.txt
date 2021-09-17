@@ -1,8 +1,7 @@
-(A) Write proper guest list for Leo's birthday : https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects 2021-08-27
+(A) Message people about Sunday 3rd. 
 (C Kat Tuesday) 10 Pack Judo Bag 2021-09-13
 (C Public September) 80 Go through memory book with TTS: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 2021-08-27 2021-09-13
 (D Kat) 10  Put bolts on bbq so that it is steady  2021-08-27
-(D Kat) 10 Review the feedbacks from Kat and follow up 2021-08-27
 (D Kat) 10 Spray the rest of the mould in garage @Garage   2021-07-28
 (D Kat) 20 Do the memory activity that Kat wanted: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects  2021-07-28
 (D Kat) 20 Read this and talk to Kat about it https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/changing-mindsets/#closeSignup  2021-08-27
@@ -15,16 +14,15 @@
 (D) 10 map project:Get up to date with all expenses.  +PersonalProjects 2021-08-27
 (D) 10 map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects 2021-09-13
 (D) 10 map project:https://github.com/users/joereddington/projects/2 +PersonalProjects 2021-08-27
-(D) 10 message leo party guests with choosen date 2021-08-04
 (D) 12  Move more old blog posts over https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects 2021-08-27
 (D) 20 Take Kat to A drive through mc-donalds  2021-09-13
-(D) 30 jgo to Halfords and get a dash cam  2021-09-13
+(D) 30 go to Halfords and get a dash cam  2021-09-13
 (D) 60 Try a comic day: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects  2021-08-04
 (E) 03 Call doctors for appointment about toenail.   2021-07-28
 (E) 03 Make workstation spotless +Overhead @nova   2021-09-13
 (E) 05 Floss +Health @nova  Time:05 2021-09-13
-(E) 05 Make a list of things that can be in Nova fridge 2021-09-03
-(E) 05 Measure up space for a garden shed 2021-08-27
+(E) 05 Save some plastic recycling for Nova's fork knife and spoon jars 
+(E) 04 Put rice cakes into Nova's kitchen 
 (E) 05 Put Nova's toy kitchen STUFF into a box.  2021-09-13
 (E) 05 Save a nice family memory +Family @phone @nova  Time:03   2021-08-04
 (E) 05 Save a nice family memory +Family @phone @nova  Time:03  2021-08-27
@@ -32,9 +30,8 @@
 (E) 10 Brainstorm on communication process on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects  2021-07-28
 (E) 10 Brainstorm on public work around Facebook: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects  2021-07-28
 (E) 10 Compare the lego shot you took between the preview and the version on darktable 2021-08-27
-(E) 10 Google for a website were you can post work quotes  https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects  2021-07-28
+(E) 10 Get Nova's first words book and alter for Leo a first words book: Muma, Dadda, Nova, Pepper Pig, Bubble, and yogurt.  2021-09-13
 (E) 10 Look at page 86 of unicorn book and redo daily stress sheets.   2021-07-28
-(E) 10 Make Leo a first words book: Muma, Dadda, Nova, Pepper Pig, Bubble, and yogurt.  2021-09-13
 (E) 10 Properly isolate the 'stress eating trigger' and write it up as a letter to Nova.   2021-08-04
 (E) 10 Publicly thank someone +Overhead Time:15  2021-08-27
 (E) 10 Write Moonpig cards for this month +Overhead 2021-09-13
@@ -46,5 +43,9 @@
 (E) 15 Test Speed of writing to USB stick  on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects  2021-07-28
 (E) 20 Call doctors about toe at 8am sharp.  2021-08-27
 (E) 20 Process the 'to put in Evernote' folder and add to database +Overhead Time:10  2021-08-27
-(E) 20 Review starred items in feeds +Overhead  2021-08-04
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead  2021-08-04
+x (D Kat) 10 Review the feedbacks from Kat and follow up 2021-08-27
+x (D) 10 message leo party guests with choosen date 2021-08-04
+x (E) 05 Measure up space for a garden shed 2021-08-27
+x (E) 10 Google for a website were you can post work quotes  https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects  2021-07-28
+x (E) 20 Review starred items in feeds +Overhead  2021-08-04
