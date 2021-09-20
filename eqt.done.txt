@@ -891,3 +891,5 @@ x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT 202
 x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT 2021-09-15
 x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT 2021-09-15
 x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/130 +EQT 2021-09-15
+x (E) 25 Search for funding for eQuality Time Projects +EQT 2021-09-15
+x (B Trustees) 20 Open Quickbooks and draft an EQT annual budget
