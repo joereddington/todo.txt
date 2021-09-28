@@ -1,47 +1,57 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(B) Write MCVE and then ask on stack overflow about the book margins  2021-09-28
+(B) Put the book corrections into book.  2021-09-28
+(C) Sign and process credit card  2021-09-28
+(D Kat) 10 Check the dates on the memory list that Kat sent you.  2021-09-28
+(D) Transfer the momentoes into the filing cabinet 2021-09-28
+(E) 20 Setup photography and locks playlist for one evening 2021-09-28
+(E) Map project to find process for proccessing emotions  2021-09-28
+(D Kat) 10 Spray the rest of the mould in garage @Garage   2021-07-28
+(D Kat) 30 Tidy garage  @Garage   2021-07-28
+(D Kat) 60 Try removing the radiator again. Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects  2021-07-28
+(E) 10 Brainstorm on communication process on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects  2021-07-28
+(E) 10 Brainstorm on public work around Facebook: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects  2021-07-28
+(E) 10 Look at page 86 of unicorn book and redo daily stress sheets.   2021-07-28
+(E) 15 Test Speed of writing to USB stick  on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects  2021-07-28
+(D) 10 Get deed of trust signed  2021-08-04
+(D) 60 Try a comic day: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects  2021-08-04
+(E) 05 Save a nice family memory +Family @phone @nova  Time:03   2021-08-04
+(E) 10 Properly isolate the 'stress eating trigger' and write it up as a letter to Nova.   2021-08-04
+(E) 15 Read this food guidance https://www.nhs.uk/start4life/weaning/what-to-feed-your-baby/around-6-months/   2021-08-04
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead  2021-08-04
+(D Kat) 10  Get some bolts for bbq so that it is steady  2021-08-27
+(D) 10 Get paper and Brainstorm goals around positivity  : https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects 2021-08-27
+(D) 10 map project:Get up to date with all expenses.  +PersonalProjects 2021-08-27
+(D) 12  Move more old blog posts over https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects 2021-08-27
+(E) 05 Save a nice family memory +Family @phone @nova  Time:03  2021-08-27
+(E) 10 Compare the lego shot you took between the preview and the version on darktable 2021-08-27
+(E) 10 Publicly thank someone +Overhead Time:15  2021-08-27
+(E) 10 brainstorm improving linkedin.  2021-08-27
+(E) 15 Buy Kat flowers 2021-08-27
+(E) 20 Call doctors about toe at 8am sharp.  2021-08-27
+(E) 20 Process the 'to put in Evernote' folder and add to database +Overhead Time:10  2021-08-27
+(D Public September) 80 Go through memory book with TTS: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 2021-08-27 2021-09-13
+(E) 10 Brainstorm how you don't say 'bored'  2021-09-03
+(E) 15 Attach the earthing device.  2021-09-04
+(D Public) 60 Do the food course! https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects 2021-09-13
+(D) 10 map project:Brainstorm sensible rules about spending an income. Set up a savings goal with Kat +PersonalProjects 2021-09-13
+(D) 20 Take Kat to A drive through mc-donalds  2021-09-13
+(D) 30 go to Halfords and get a dash cam  2021-09-13
+(E) 03 Make workstation spotless +Overhead @nova   2021-09-13
+(E) 05 Floss +Health @nova  Time:05 2021-09-13
+(E) 05 Put Nova's toy kitchen STUFF into a box.  2021-09-13
+(E) 10 Get Nova's first words book and alter for Leo a first words book: Muma, Dadda, Nova, Pepper Pig, Bubble, and yogurt.  2021-09-13
+(E) 10 Write Moonpig cards for this month +Overhead 2021-09-13
 (A) Message C about Sunday 3rd when we get a response  2021-09-20
-(A) RSVP to funeral  2021-09-22
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects 2021-09-22
-(B) Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917 2021-09-22
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 2021-09-22
-(C Kat Tuesday) 10 Pack Judo Bag 2021-09-13
-(C Public September) 80 Go through memory book with TTS: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 2021-08-27 2021-09-13
-(C) 1. Process Email @singleton +Overhead @phone  Time:90 2021-09-22
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938 2021-09-22
-(C) Brainstorm 'angry' process - from the point of view of the angry person  2021-09-20
-(C) Double check brake on running buggy 2021-09-20
-(C) Make a note of the gas reading 2021-09-22
-(C) Pump up bike tyres and work out what size tires the pram has 2021-09-20
-(C) Quit some projects (and blog it)   2021-09-22
-(C) Review and rescore  Wheel Of life 2021-09-22
-(C) Review the feedbacks from Kat and follow up 2021-09-22
+(E) 04 Put rice cakes into Nova's kitchen  2021-09-20
+(E) 05 Save some plastic recycling for Nova's fork knife and spoon jars  2021-09-20
+(E) 10 Brainstorm 'angry' process - from the point of view of the angry person  2021-09-20
+(E) 10 look through your washers and see if any of them fit the showerhead  2021-09-20
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects 2021-09-22
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/186 +PersonalProjects 2021-09-22
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects 2021-09-22
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects 2021-09-22
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects 2021-09-22
-(D Kat 10) Fix the white cabinet drawer  2021-09-20
-(D Kat) 10  Put bolts on bbq so that it is steady  2021-08-27
-(D Kat) 10 Spray the rest of the mould in garage @Garage   2021-07-28
-(D Kat) 20 Do the memory activity that Kat wanted: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects  2021-07-28
-(D Kat) 20 Read this and talk to Kat about it https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/changing-mindsets/#closeSignup  2021-08-27
-(D Kat) 30 Tidy garage  @Garage   2021-07-28
-(D Kat) 60 Try removing the radiator again. Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects  2021-07-28
-(D Kat) Check doorbell batteries 2021-09-22
-(D Public) 60 Do the food course! https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects 2021-09-13
-(D) 05 Make dentist checkup apointment  2021-08-27 @phone
-(D) 10 Brainstorm goals around positivity  : https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects 2021-08-27
-(D) 10 Get deed of trust signed  2021-08-04
-(D) 10 map project:Get up to date with all expenses.  +PersonalProjects 2021-08-27
-(D) 10 map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects 2021-09-13
-(D) 10 map project:https://github.com/users/joereddington/projects/2 +PersonalProjects 2021-08-27
-(D) 12  Move more old blog posts over https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects 2021-08-27
-(D) 20 Take Kat to A drive through mc-donalds  2021-09-13
-(D) 30 go to Halfords and get a dash cam  2021-09-13
-(D) 60 Try a comic day: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects  2021-08-04
 (D) Buy Kat flowers 2021-09-22
-(D) Check starred messages in kat whatsapp  2021-09-22
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919 2021-09-22
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects 2021-09-22
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects 2021-09-22
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects 2021-09-22
@@ -70,60 +80,15 @@
 (D) map project:Get up to date with all expenses.  +PersonalProjects2021-09-22
 (D) map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects2021-09-22
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects2021-09-22
-(E) 03 Make workstation spotless +Overhead @nova   2021-09-13
-(E) 04 Put rice cakes into Nova's kitchen  2021-09-20
-(E) 05 Floss +Health @nova  Time:05 2021-09-13
-(E) 05 Put Nova's toy kitchen STUFF into a box.  2021-09-13
-(E) 05 Save a nice family memory +Family @phone @nova  Time:03   2021-08-04
-(E) 05 Save a nice family memory +Family @phone @nova  Time:03  2021-08-27
-(E) 05 Save some plastic recycling for Nova's fork knife and spoon jars  2021-09-20
-(E) 10 Brainstorm how you don't say 'bored'  2021-09-03
-(E) 10 Brainstorm on communication process on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects  2021-07-28
-(E) 10 Brainstorm on public work around Facebook: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects  2021-07-28
-(E) 10 Compare the lego shot you took between the preview and the version on darktable 2021-08-27
-(E) 10 Get Nova's first words book and alter for Leo a first words book: Muma, Dadda, Nova, Pepper Pig, Bubble, and yogurt.  2021-09-13
-(E) 10 Look at page 86 of unicorn book and redo daily stress sheets.   2021-07-28
-(E) 10 Properly isolate the 'stress eating trigger' and write it up as a letter to Nova.   2021-08-04
-(E) 10 Publicly thank someone +Overhead Time:15  2021-08-27
-(E) 10 Write Moonpig cards for this month +Overhead 2021-09-13
-(E) 10 brainstorm improving linkedin.  2021-08-27
-(E) 10 look through your washers and see if any of them fit the showerhead  2021-09-20
-(E) 15 Attach the earthing device.  2021-09-04
-(E) 15 Buy Kat flowers 2021-08-27
-(E) 15 Read this food guidance https://www.nhs.uk/start4life/weaning/what-to-feed-your-baby/around-6-months/   2021-08-04
-(E) 15 Test Speed of writing to USB stick  on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects  2021-07-28
-(E) 20 Call doctors about toe at 8am sharp.  2021-08-27
-(E) 20 Process the 'to put in Evernote' folder and add to database +Overhead Time:10  2021-08-27
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead  2021-08-04
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 2021-09-22
-(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 2021-09-22
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 2021-09-22
-(E) Check £40 in Wallet +Overhead @nova  @phone 2021-09-22
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 2021-09-22
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 2021-09-22
-(E) Cut Nova nails +Health @nova  Time:04 2021-09-22
-(E) Cut nails +Health @nova  Time:04 2021-09-22
+(E) 05 Floss +Health @nova  Time:052021-09-22
+(E) 10 Check that everything in the 'in process' box really does have a task+Overhead @nova 2021-09-22
 (E) Do Menu for the week +Family @nova @phone  Time:01 2021-09-22
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family2021-09-22
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 2021-09-22
-(E) Empty whatsapp and facebook inboxes. +Overhead Time:20 2021-09-22
-(E) Floss +Health @nova  Time:052021-09-22
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 2021-09-22
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 2021-09-22
 (E) Listen to one of the social media albums 2021-09-22
-(E) Log weight +Health  Time:02 2021-09-22
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 2021-09-22
 (E) Make a list of the social media albums 2021-09-22
-(E) Post to Sibling Facebook group @nova @phone  Time:06 2021-09-22
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 2021-09-22
 (E) Publicly thank someone +Overhead Time:15 2021-09-22
 (E) Save a nice family memory +Family @phone @nova  Time:03 2021-09-22
-(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 2021-09-22
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 2021-09-22
-(E) Trim nose hair +Health @nova  Time:05 2021-09-22
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 2021-09-22
-(E) Update the youtube watch list +Family Time:10 @phone @nova2021-09-22
-(E) Vitamin Tablet +Health @nova  Time:022021-09-22
 (E) Write a letter to Nova +Family Time:30 2021-09-22
-(E) change razor blade Time:03 2021-09-22
-x 2021-09-21 03 Call doctors for appointment about toenail.   2021-07-28
