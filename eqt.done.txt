@@ -893,3 +893,53 @@ x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT 202
 x 2021-09-15 Work on: https://github.com/eQualityTime/Public/issues/130 +EQT 2021-09-15
 x (E) 25 Search for funding for eQuality Time Projects +EQT 2021-09-15
 x (B Trustees) 20 Open Quickbooks and draft an EQT annual budget
+x 2021-09-29 Draft the press release for project real  2021-09-22 
+x 2021-09-20 40 Review project real website and add bells and whistles. https://github.com/eQualityTime/Public/issues/120 +EQT 2021-08-27
+x 2021-09-22 07 Do post office expenses  2021-09-15
+x 2021-09-22 20 Regenerate the Slavic and Arabic examples of the open voice factory.  +EQT @private (needs email)  2021-08-27
+x 2021-09-22 20 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT 2021-09-15
+x 2021-09-22 50 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT 2021-09-15
+x 2021-09-22 Trace bug for the guy from russia  2021-09-20
+x 2021-09-28 15 search email for all pptx files again and put them in the regressions file.  on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-08-27
+x 2021-09-28 Phone up and check that the corportation tax notice isn't one to worry about for a bit (check you got the delivery while you are there.   2021-09-20
+x 2021-09-29 Setup project to email all the former schools  2021-09-20
+x  W2021-09-29 ork on: https://github.com/eQualityTime/Public/issues/120 +EQT 2021-09-22 
+x  W2021-09-29 ork on: https://github.com/eQualityTime/Public/issues/132 +EQT 2021-09-22 
+x 2021-09-29 2021-08-27 03 Download the pdfs to phone  https://github.com/eQualityTime/Public/issues/9 +EQT 
+x 2021-09-29 2021-08-27 10 Look at the OVF rewrite and see how far you got https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT 
+x 2021-09-29 2021-08-27 10 Phone the insurance octopus about the payments made  
+x 2021-09-29 2021-08-27 15 Switch to live account and start streaming +EQT @singleton Time:99 
+x 2021-09-29 2021-09-20 Write the press release for the Project real stuff 
+x 2021-09-29 2021-09-22 2. Switch to live account and start streaming +EQT @singleton Time:99  
+x 2021-09-29 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT  
+x 2021-09-29 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT  
+x 2021-09-29 2021-09-22 Work on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT  
+x 2021-09-29 2021-09-22 map project:Develop WWW hubs and strengthen relationships +EQT  
+x 2021-09-29 2021-09-29 Map prison project out properly. 
+x Cr2021-09-22 eate issue about combining images in OBF  
+x 2021-10-01 2021-08-27 20 Email the first ten teachers on your spreadsheet : https://github.com/eQualityTime/Public/issues/107 +EQT 
+x 2021-10-01 2021-09-03 15 Invoice Japan    @private
+x 2021-10-01 2021-09-22 Search email for CK20V3 templates: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT  
+x 2021-10-01 2021-09-22 Search email for the hosting details of etherpad so you can write up the issue. https://github.com/eQualityTime/Public/issues/77 +EQT  
+x 2021-10-01 2021-09-22 map project:All Employees should have uploaded all changed git code +EQT  
+x 2021-10-01 2021-09-27 Email Trustees with your Wednesday 1pm notes about https://www.gov.uk/guidance/safeguarding-duties-for-charity-trustees  
+x 2021-10-01 2021-09-20 Sort out filing cabinet 
+x 2021-10-01 2021-09-22 Check the next school time +EQT Time:03   
+x 2021-10-01 2021-09-22 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15   
+x 2021-10-01 2021-09-22 Open and log progress on the bid status document +EQT Time:04  
+x 2021-10-01 2021-09-22 Open list of projects to be funded +EQT  
+x 2021-10-01 2021-09-22 map project:Bring in external funding by X +EQT  
+x 2021-10-01 2021-09-22 map project:Continually improve and train on working practices and technology +EQT  
+x 2021-10-01 2021-09-22 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT  
+x 2021-10-01 2021-09-29 badger Yvonne about schools for COP 
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/107 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT  
+x 2021-10-01 2021-08-27 10 Check Analytics event for clicking on the 'upload' button in OVF  on: https://github.com/eQualityTime/Public/issues/119 +EQT @private
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/13 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/130 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/22 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT  
+x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT  
+x 2021-10-01 2021-09-22 20 Go over unpaid invoices: https://github.com/eQualityTime/Public/issues/92 +EQT  
+x 2021-10-01 2021-09-15 05 Review the Quickbooks reports and see which of them look nice to trustees 
