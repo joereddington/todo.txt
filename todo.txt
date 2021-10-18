@@ -1,19 +1,37 @@
+(B) Pay parking fine
+(E) Find drawers for pantry - measure up first
+(B) Put together Nova scooter
+(C) Message Nova gymanstics 
+(C) Project to transrer the rest of the blog quotes
+(B) Get a helmum tank for balloons 
+(B) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(B) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+(B) Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Put the book corrections into book.
-(E) Google to see if your washing machine has an alarm
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917
 (B) Set up the bithday party for yourself. 
 (B) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (B) Work out some loudness and patience games for Nova.
 (B) Write MCVE and then ask on stack overflow about the book margins
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Arrange a damn party. 
+(C) Check start of the food course
+(C) Create Google Ads for the Open Voice Factory
 (C) Do morning delores and access it on phone. 
+(C) Get replacements for Running buggy tires - you have photos on your phone.  
+(C) Make a note of the gas reading
 (C) Quit some projects (and blog it)
 (C) Review and rescore  Wheel Of life
 (C) Review the feedbacks from Kat and follow up
+(C) Send Danny a pdf 
 (C) Sign and process credit card
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/186 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(C) Write a 'kat is sick' plan
 (D Kat) 10  Get some bolts for bbq so that it is steady
 (D Kat) 10 Check the dates on the memory list that Kat sent you.
 (D Kat) 10 Spray the rest of the mould in garage @Garage
@@ -32,6 +50,8 @@
 (D) 60 Try a comic day: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Buy Kat flowers
 (D) Check starred messages in kat whatsapp
+(D) Check starred messages in kat whatsapp 
+(D) Lookup more half marthons in season. 
 (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Transfer the momentoes into the filing cabinet
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
@@ -93,51 +113,75 @@
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy plug so you can wire that light to a plug.
 (E) Check Voicemail  +Overhead @nova  @phone  Time:02
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
 (E) Check £40 in Wallet +Overhead @nova  @phone
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06
+(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+(E) Copy out the meals from the purple book into meals.todo.
 (E) Cut Nova nails +Health @nova  Time:04
+(E) Cut Nova nails +Health @nova  Time:04 
 (E) Cut nails +Health @nova  Time:04
+(E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01
+(E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Email the RHUL judo club to see if I can still have a hoodie.
 (E) Empty Joe inbox completely +Overhead @nova  Time:15
+(E) Empty Joe inbox completely +Overhead @nova  Time:15 
 (E) Empty whatsapp and facebook inboxes. +Overhead Time:20
 (E) Find out why Mouse sniper isn't working on public (doesn't launch as an app, and doesn't take more screenshots run from macvim
 (E) Fix ruby on public machine
 (E) Floss +Health @nova  Time:05
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08
+(E) Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+(E) Google to see if your washing machine has an alarm
 (E) If back on sugar then start sugar project +Health
 (E) Listen to  Randy Pausch Talk +Overhead @phone
 (E) Listen to one of the social media albums
 (E) Log weight +Health  Time:02
+(E) Log weight +Health  Time:02 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Make a list of the social media albums
 (E) Make a verion of mouseless that uses short english works, or even numbers, or that refreshes as you type
 (E) Make workstation spotless +Overhead @nova
 (E) Map project to find process for proccessing emotions
 (E) Post to Sibling Facebook group @nova @phone  Time:06
+(E) Post to Sibling Facebook group @nova @phone  Time:06 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10
 (E) Publicly thank someone +Overhead Time:15
+(E) Publicly thank someone +Overhead Time:15 
 (E) Review (days since) app counts +Overhead @nova @phone
 (E) Review starred items in feeds +Overhead
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone @nova  Time:03
+(E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
 (E) Switch screen time on for Nova
 (E) TSE +Health Time:04
 (E) Trim nose hair +Health @nova  Time:05
+(E) Trim nose hair +Health @nova  Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone @nova
 (E) Vitamin Tablet +Health @nova  Time:02
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a SE question about the massive spike in my screentime
 (E) Write a letter to Nova +Family Time:30
+(E) Write a letter to Nova +Family Time:30 
 (E) change razor blade Time:03
+(E) change razor blade Time:03 
 (E) process Garage inbox.

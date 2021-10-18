@@ -1,38 +1,44 @@
-(A) Clear email inbox
-x 2021-10-05 Check actions from last meeting
+(A) Complete the funding bid.
+(E) Invesitgate threads in WWW 
+(A) Message Eleanor with an update. 
+(A) Work out proper contract and terms with the yvonne volenteer 
+(B) 2021-09-22 60 Fill out application form: https://github.com/eQualityTime/Public/issues/100 +EQT  
+(B) Brainstorm on balanced system for marketing on: https://github.com/eQualityTime/Public/issues/108 +EQT
+(B) Do a mail merge for your journalist contacts - may as well test it out. 
+(B) Fix hmrc payment
+(B) Map project for a AWS virtual machine 
+(B) Put fart noise into CK20 
+(B) Put minutes in the right place  +EQT
 (B) Respond to FB comments on data breach policy (in email) 
 (B) Rubberduck what a volenteer is with Clare and Rachel  
-(B) Rewrite volenteering policy with more safeguarding 
-(B) Put minutes in the right place  +EQT
-(B) Respond to FB comments in Data breach policy
-(B) 2021-09-22 20 Go through child project documents and word things better around 'volunteers' @private  on: https://github.com/eQualityTime/Home/issues/107 +EQT  
-(B) 2021-09-28 05 Message prison charity contact about caesar bond .  https://equalitytime.co.uk/6399/2019/11/13/new-project-caesar-bond/  @private
-(B) 2021-09-28 10 Get dates from Dan and offer them to the Prisons.   @private
-(B) Do the damn scotland grant
-(B) Write upwork post for VA to create contact spreadsheet
-(C) 2021-08-27 20 Draft the email to send to schools about project real  
+(B) Send out the briefing for the prison books. 
+(B) Start drafting accounts
+(B) Tell Yvonne its wigan. 
 (C) 2021-09-15 20 Edit the projects file for trustes -add missing projects ects   @private
 (C) 2021-09-20 10 post the bank statment form  @private 
-(C) 2021-09-22 10 Go through spending and look for expenses you can claim  +EQT @private
 (C) 2021-09-22 20 Create adverts for Open Voice Factory   @private
 (C) 2021-09-22 20 Open Dropbox policy folder and read: https://github.com/eQualityTime/Public/issues/57 +EQT  
-(C) 2021-10-01 10 Buy Microsoft office - need it for PPTx files, add a calendar event to cancel 
 (C) 2021-10-01 30 Update the spreadsheet of books with cover images so everything is on the website
-(C) Fix dropbox access for rachel 
-(C) Fix tests on server and then upgrade python-pptx
-(C) Test the answer for excel in Stackexchange 
+(C) Build OVF ads. 
+(C) Find out what's happening to the project real clicks and optimise them for conversion (as in, clicking on a link) 
+(C) Map the accounts project - probably starts with creating a drive directory  +EQT
+(C) See if you can get the 'new' OVF code to work with the 'old' STUFF on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
+(C) Talk to Richard about projectreal.co.uk
+(C) WWW cups 
+(C) Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
 (D) 2021-08-27 10 Ask for Google Ads Help: https://github.com/eQualityTime/Public/issues/131 +EQT @private
-(D) 2021-08-27 10 Lookup Allen Lane and then call them on: https://github.com/eQualityTime/Public/issues/76 +EQT 
-(D) 2021-08-27 10 increase the font size on white water writers site  
+(D) 2021-08-27 10 Fix the mobile fonts on WWW sites via this SE question https://stackoverflow.com/questions/69405451/css-media-only-screen-only-triggers-when-i-resize-window
 (D) 2021-08-27 10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT 
 (D) 2021-08-27 20 Create the Theory of change for Project Real  https://github.com/eQualityTime/Public/issues/13 +EQT  
 (D) 2021-09-15 20 Call some MATs using spreadsheet  https://github.com/eQualityTime/Public/issues/93 +EQT 
 (D) 2021-09-22 10 Talk to Kat about visiting Stoke for drawing on: https://github.com/eQualityTime/Public/issues/106 +EQT  
 (D) 2021-09-22 15 Try out a custom t-shirt company: https://github.com/eQualityTime/Home/issues/106 +EQT  
 (D) 2021-09-22 30 Get Analytics event to fire on Open Voice Factory on: https://github.com/eQualityTime/Public/issues/119 +EQT  
-(D) 2021-09-22 60 Fill out application form: https://github.com/eQualityTime/Public/issues/100 +EQT  
-(D) 2021-09-28 30 Fix all the unknown links in Canonical CK20 and make CK20V2.1
-(E) 2021-09-15 10 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
+(D) Do full accounts algorithm +EQT Time:99
+(D) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
+(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
 (E) 2021-09-22 05 Post to WWW facebook page +EQT @nova @phone  Time:10   
 (E) 2021-09-22 20 Search for funding for eQuality Time Projects +EQT  
-(E) 2021-09-29 05 Add images to Caesar bond page https://equalitytime.co.uk/6399/2019/11/13/new-project-caesar-bond/
+(E) Make a note to read the python book again from beginning
+(E) Properly populate public minutes folder 
+(E) Put in a progress bar in OVF 

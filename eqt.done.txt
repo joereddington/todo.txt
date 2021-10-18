@@ -943,3 +943,53 @@ x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/9
 x 2021-10-01 2021-09-22 Work on: https://github.com/eQualityTime/Public/issues/94 +EQT  
 x 2021-10-01 2021-09-22 20 Go over unpaid invoices: https://github.com/eQualityTime/Public/issues/92 +EQT  
 x 2021-10-01 2021-09-15 05 Review the Quickbooks reports and see which of them look nice to trustees 
+x 2021-10-05 Check actions from last meeting
+x 2021-10-06 2021-09-22 20 Go through child project documents and word things better around 'volunteers' @private  on: https://github.com/eQualityTime/Home/issues/107 +EQT  
+x 2021-10-06 2021-09-28 05 Message prison charity contact about caesar bond .  https://equalitytime.co.uk/6399/2019/11/13/new-project-caesar-bond/  @private
+x 2021-10-06 2021-09-28 10 Get dates from Dan and offer them to the Prisons.   @private
+x 2021-10-06 Clear email inbox
+x 2021-10-06 Message the prison people. 
+x 2021-10-06 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2021-10-06 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2021-10-06 Work on: https://github.com/eQualityTime/Public/issues/132 +EQT
+x 2021-10-06 Check the next school time +EQT Time:03 
+x 2021-10-06 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-10-06 Open and log progress on the bid status document +EQT Time:04
+x 2021-10-06 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-10-06 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-10-06 map project:Continually improve and train on working practices and technology +EQT
+x 2021-10-06 Do the damn scotland grant
+x 2021-10-06 2021-09-28 30 Fix all the unknown links in Canonical CK20 and make CK20V2.1
+x 2021-10-06 Look up contract and work out what your annual leave entitlement is 
+x 2021-10-06 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2021-10-06 2021-09-22 10 Go through spending and look for expenses you can claim  +EQT @private
+x 2021-10-06 2021-10-01 10 Buy Microsoft office - need it for PPTx files, add a calendar event to cancel 
+x 2021-10-06 Fix dropbox access for rachel 
+x 2021-10-06 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-10-06 2021-09-15 10 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT 
+x (B) Rewrite volenteering policy with more safeguarding 
+x (B) Write upwork post for VA to create contact spreadsheet
+x (C) 2021-08-27 20 Draft the email to send to schools about project real  
+x (C) Find out when pay for september starts
+x (C) Test the answer for excel in Stackexchange 
+x (D) map project:Bring in external funding by X +EQT
+x (E) 2021-09-29 05 Add images to Caesar bond page https://equalitytime.co.uk/6399/2019/11/13/new-project-caesar-bond/
+x (E) Talk to Kat about annual leave 
+x 2021-10-08 *C) Reesnd the email from uclan to yvonne 
+x (B) Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x (B) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/116 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2021-10-08 Work on: https://github.com/eQualityTime/Public/issues/130 +EQT
+x (C) Fix tests on server and then upgrade python-pptx
+x 2021-10-08 2021-08-27 10 Lookup Allen Lane and then call them on: https://github.com/eQualityTime/Public/issues/76 +EQT 
+x 2021-10-11 Offer dates to prison  on: https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2021-10-11 Pay fine
+x 2021-10-18 (A Trusee Meeting) Have a strategy for the meeting 
+x 2021-10-18 (A Trustee Meeting) Add safeguarding notes to the volunteer policy
