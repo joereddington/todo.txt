@@ -993,3 +993,124 @@ x 2021-10-11 Offer dates to prison  on: https://github.com/eQualityTime/Public/i
 x 2021-10-11 Pay fine
 x 2021-10-18 (A Trusee Meeting) Have a strategy for the meeting 
 x 2021-10-18 (A Trustee Meeting) Add safeguarding notes to the volunteer policy
+x 2021-10-18 Ask for Google Ads Help: https://github.com/eQualityTime/Public/issues/131 +EQT @private
+x 2021-10-18 Do a mail merge for your journalist contacts - may as well test it out. 
+x 2021-10-18 Do full accounts algorithm +EQT Time:99
+x 2021-10-18 Fill out application form: https://github.com/eQualityTime/Public/issues/100 +EQT  
+x 2021-10-18 Fix hmrc payment
+x 2021-10-18 Fix the mobile fonts on WWW sites via this SE question https://stackoverflow.com/questions/69405451/css-media-only-screen-only-triggers-when-i-resize-window
+x 2021-10-18 Map the accounts project - probably starts with creating a drive directory  +EQT
+x 2021-10-18 Properly populate public minutes folder 
+x 2021-10-18 Put minutes in the right place  +EQT
+x 2021-10-18 Respond to FB comments on data breach policy (in email) 
+x 2021-10-18 Tell Yvonne its wigan. 
+x 2021-10-18 Try out a custom t-shirt company: https://github.com/eQualityTime/Home/issues/106 +EQT  
+x 2021-10-18 Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2021-10-18 Work out proper contract and terms with the yvonne volenteer 
+x 2021-10-18 Put in a progress bar in OVF 
+x 2021-10-18 10 Talk to Richard about projectreal.co.uk
+x 2021-10-18 Brainstorm on balanced system for marketing on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-10-18 Create a funnel in Project Real analytics and then go back to Google ads and add the conversion. 
+x 2021-10-18 Post to WWW facebook page +EQT @nova @phone  Time:10   
+x 2021-10-18 Map project for a AWS virtual machine 
+x 2021-10-21 Check the next school time +EQT Time:03 
+x 2021-10-21 Create an IMPS branch for implementing threaded downloads of files
+x 2021-10-21 Open and log progress on the bid status document +EQT Time:04
+x 2021-10-21 Search for funding for eQuality Time Projects +EQT
+x 2021-10-21 map project:Bring in external funding by X +EQT
+x 2021-10-21 map project:Continually improve and train on working practices and technology +EQT
+x 2021-10-21 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2021-10-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-10-21 Message Eleanor with an update. 
+x 2021-10-21 (C Trustees) Open risk assessment and copy paste information in +EQT https://github.com/equalitytime/public/issues/100
+x 2021-10-21 Get an upwork person to find all the covers for books in the allbooksever sheet
+x 2021-10-21 Open Allbooksever sheet and work out teacher names on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-10-21 Open list of projects to be funded +EQT
+x 2021-10-21 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-10-21 Get an upwork person to find all the covers for books in the allbooksever sheet
+x 2021-10-21 Open Allbooksever sheet and work out teacher names on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-10-21 Open list of projects to be funded +EQT
+x 2021-10-21 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-10-21 (.) Work on: https://github.com/eQualityTime/Home/issues/111 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/100 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2021-10-21 Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2021-10-21 Investigate the OVF ads on Google ads and see if you can switch back on
+x 2021-11-04 Brainstorm eight hour days: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2021-11-04 Check the next school time +EQT Time:03 
+x 2021-11-04 Download the amazon months sales figures +EQT
+x 2021-11-04 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2021-11-04 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2021-11-04 Send Trustees something nice about outcomes +EQT
+x 2021-11-04 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-11-04 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-11-04 Block out the Highlands week 
+x 2021-11-04 Design the teacher's sheet for: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-11-04 Draft email to optikey about new pagesets: https://github.com/eQualityTime/Public/issues/132 +EQT
+x 2021-11-04 Fix the accounts +EQT
+x 2021-11-04 Provide a OBZ file for OVF player: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
+x 2021-11-04 Work on: https://github.com/eQualityTime/Public/issues/132 +EQT
+x 2021-11-04 Work on: https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2021-11-08 (B Trustees) Set up envelopes for posting Bank statement form to trustees
+x 2021-11-08 Book accommodations for prison
+x 2021-11-08 Find the difference in the EQT accounts 
+x 2021-11-08 map project:UCLAN Feb 14-18  +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
+x 2021-11-08 map project:Preston camps with former uclan people +EQT
+x 2021-11-08 map project:UCLAN Feb 14-18  +EQT
+x 2021-11-08 A/B test for project real website
+x 2021-11-08 Message trustees about using ring-fenced funds for the coding I've been doing
+x 2021-11-08 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
+x 2021-11-08 map project:Preston camps with former uclan people +EQT
+x 2021-11-08 map project:UCLAN Feb 14-18  +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2021-11-08 Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2021-11-08 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2021-11-08 Fix github push on joe2021
+x 2021-11-08 Give JoePublic Admin rights +EQT
+x 2021-11-08 Implement A/B Testing on Project Real. 
+x 2021-11-08 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2021-11-08 Open and log progress on the bid status document +EQT Time:04
+x 2021-11-08 Open list of projects to be funded +EQT
+x 2021-11-08 map project:Bring in external funding by X +EQT
+x 2021-11-09 (C Trustees Next meeting) Write up 'how to pay stuff' in a format for the trustees.  +EQT
+x 2021-11-09 (C Trustees, Richard due:2021-11-11) Find all the contact teacher contact details  https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2021-11-09 Work on: https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2021-11-09 x 2021-11-09 Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2021-11-09 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2021-11-09 Look into Better Community Buisness network Grant Initative - 3k but very friendly 
+x 2021-11-09 Look into Centre for Cultural Value - Collaborate Fund 20k 
+x 2021-11-09 Open and log progress on the bid status document +EQT Time:04
+x 2021-11-09 map project:Bring in external funding by X +EQT
+x 2021-11-09 map project:Continually improve and train on working practices and technology +EQT
+x 2021-11-09 Look into Footwork trust (collorboration between arts and non-arts charity)
+x 2021-11-09 Look into NHS Unified Tech fund 
+x 2021-11-10 map project:All Employees should have uploaded all changed git code +EQT
+x 2021-11-10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2021-11-10 Backup Dreamhost +EQT
+x 2021-11-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2021-11-10 (C Trustees Next meeting) Find a volunteer bid writer on: https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2021-11-10 (D Trustees) Map volunteer fundraiser project (doit.com)  
+x 2021-11-10 Check the next school time +EQT Time:03 
+x 2021-11-10 Do full accounts algorithm +EQT Time:99
+x 2021-11-10 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2021-11-10 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2021-11-10 Work on: https://github.com/eQualityTime/Public/issues/108 +EQT

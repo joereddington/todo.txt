@@ -1,44 +1,40 @@
-(A) Complete the funding bid.
-(E) Invesitgate threads in WWW 
-(A) Message Eleanor with an update. 
-(A) Work out proper contract and terms with the yvonne volenteer 
-(B) 2021-09-22 60 Fill out application form: https://github.com/eQualityTime/Public/issues/100 +EQT  
-(B) Brainstorm on balanced system for marketing on: https://github.com/eQualityTime/Public/issues/108 +EQT
-(B) Do a mail merge for your journalist contacts - may as well test it out. 
-(B) Fix hmrc payment
-(B) Map project for a AWS virtual machine 
-(B) Put fart noise into CK20 
-(B) Put minutes in the right place  +EQT
-(B) Respond to FB comments on data breach policy (in email) 
-(B) Rubberduck what a volenteer is with Clare and Rachel  
-(B) Send out the briefing for the prison books. 
-(B) Start drafting accounts
-(B) Tell Yvonne its wigan. 
-(C) 2021-09-15 20 Edit the projects file for trustes -add missing projects ects   @private
-(C) 2021-09-20 10 post the bank statment form  @private 
-(C) 2021-09-22 20 Create adverts for Open Voice Factory   @private
-(C) 2021-09-22 20 Open Dropbox policy folder and read: https://github.com/eQualityTime/Public/issues/57 +EQT  
-(C) 2021-10-01 30 Update the spreadsheet of books with cover images so everything is on the website
-(C) Build OVF ads. 
-(C) Find out what's happening to the project real clicks and optimise them for conversion (as in, clicking on a link) 
-(C) Map the accounts project - probably starts with creating a drive directory  +EQT
-(C) See if you can get the 'new' OVF code to work with the 'old' STUFF on: https://github.com/eQualityTime/TheOpenVoiceFactory/issues/129 +EQT
-(C) Talk to Richard about projectreal.co.uk
-(C) WWW cups 
-(C) Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
-(D) 2021-08-27 10 Ask for Google Ads Help: https://github.com/eQualityTime/Public/issues/131 +EQT @private
-(D) 2021-08-27 10 Fix the mobile fonts on WWW sites via this SE question https://stackoverflow.com/questions/69405451/css-media-only-screen-only-triggers-when-i-resize-window
-(D) 2021-08-27 10 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT 
-(D) 2021-08-27 20 Create the Theory of change for Project Real  https://github.com/eQualityTime/Public/issues/13 +EQT  
-(D) 2021-09-15 20 Call some MATs using spreadsheet  https://github.com/eQualityTime/Public/issues/93 +EQT 
-(D) 2021-09-22 10 Talk to Kat about visiting Stoke for drawing on: https://github.com/eQualityTime/Public/issues/106 +EQT  
-(D) 2021-09-22 15 Try out a custom t-shirt company: https://github.com/eQualityTime/Home/issues/106 +EQT  
-(D) 2021-09-22 30 Get Analytics event to fire on Open Voice Factory on: https://github.com/eQualityTime/Public/issues/119 +EQT  
-(D) Do full accounts algorithm +EQT Time:99
+(B) map project:Preston camps with former uclan people +EQT
+(C Truestes, Richard ) Test setting up a server on AWS on: https://github.com/eQualityTime/Public/issues/77 +EQT (C because more important projects depend on it)  XX
+(C) Map Luton School WWW
+(C) Put grant writer request onto mediatrust website https://github.com/equalitytime/public/issues/109 
+(C) Remap the MATs project https://github.com/eQualityTime/Public/issues/93 +EQT 
+(C) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/132 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
+(C) Work on: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
+(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+(D Clare) Open the Projects file and review/rewrite 
+(D Truestees) Write more Ads for OVF XX
+(D) 04 Look into Comic Relief Community Fund 
+(D) 10 Talk to Kat about visiting Stoke for drawing on: https://github.com/eQualityTime/Public/issues/106 +EQT  
+(D) 20 Open Dropbox policy folder and read: https://github.com/eQualityTime/Public/issues/57 +EQT  
+(D) 5 Lookup how to post  amazon cheques
+(D) A/B test on the Project Real site on: https://github.com/eQualityTime/Public/issues/120 +EQT XX
+(D) Claim back hotel booking money
+(D) Map and put work into 10000 missing children project
+(D) Put fart noise into CK20  (and set up follow on tasks) from https://commons.wikimedia.org/wiki/Category:Flatulence
+(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
 (D) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
-(D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
-(E) 2021-09-22 05 Post to WWW facebook page +EQT @nova @phone  Time:10   
-(E) 2021-09-22 20 Search for funding for eQuality Time Projects +EQT  
-(E) Make a note to read the python book again from beginning
-(E) Properly populate public minutes folder 
-(E) Put in a progress bar in OVF 
+(D) Work on: https://github.com/eQualityTime/Public/issues/119 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/129 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/130 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/131 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/135 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/136 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
+(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
+(E) 10 Add the Nominet prize to the OVF website  XX
+(E) Create the Theory of change for Project Real  https://github.com/eQualityTime/Public/issues/13 +EQT  
+(E) Read the grants book 
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Upgrade OVF to GA4 on: https://github.com/eQualityTime/Public/issues/119 +EQT   XX
