@@ -1,6 +1,6 @@
-(B) map project:Preston camps with former uclan people +EQT
-(C Truestes, Richard ) Test setting up a server on AWS on: https://github.com/eQualityTime/Public/issues/77 +EQT (C because more important projects depend on it)  XX
+x 2021-11-17 (C Truestes, Richard ) Test setting up a server on AWS on: https://github.com/eQualityTime/Public/issues/77 +EQT (C because more important projects depend on it)  XX
 (C) Map Luton School WWW
+(C) Message Char back about camp @phone
 (C) Put grant writer request onto mediatrust website https://github.com/equalitytime/public/issues/109 
 (C) Remap the MATs project https://github.com/eQualityTime/Public/issues/93 +EQT 
 (C) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
@@ -8,7 +8,6 @@
 (C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
 (C) Work on: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (D Clare) Open the Projects file and review/rewrite 
 (D Truestees) Write more Ads for OVF XX
 (D) 04 Look into Comic Relief Community Fund 
@@ -38,3 +37,4 @@
 (E) Read the grants book 
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Upgrade OVF to GA4 on: https://github.com/eQualityTime/Public/issues/119 +EQT   XX
+x 2021-11-11 map project:Preston camps with former uclan people +EQT
