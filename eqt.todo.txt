@@ -1,40 +1,21 @@
-x 2021-11-17 (C Truestes, Richard ) Test setting up a server on AWS on: https://github.com/eQualityTime/Public/issues/77 +EQT (C because more important projects depend on it)  XX
-(C) Map Luton School WWW
-(C) Message Char back about camp @phone
-(C) Put grant writer request onto mediatrust website https://github.com/equalitytime/public/issues/109 
-(C) Remap the MATs project https://github.com/eQualityTime/Public/issues/93 +EQT 
-(C) Work on: https://github.com/eQualityTime/Public/issues/109 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/132 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: https://github.com/eQualityTime/Public/issues/92 +EQT
-(C) Work on: https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
+(A) Update accounts document : https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2021-12-07 Fix the www issue
+(C) Write mail merge code for luton teachers  on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (D Clare) Open the Projects file and review/rewrite 
+(C) Message the alex park teacher with times and dates
 (D Truestees) Write more Ads for OVF XX
 (D) 04 Look into Comic Relief Community Fund 
 (D) 10 Talk to Kat about visiting Stoke for drawing on: https://github.com/eQualityTime/Public/issues/106 +EQT  
-(D) 20 Open Dropbox policy folder and read: https://github.com/eQualityTime/Public/issues/57 +EQT  
-(D) 5 Lookup how to post  amazon cheques
-(D) A/B test on the Project Real site on: https://github.com/eQualityTime/Public/issues/120 +EQT XX
-(D) Claim back hotel booking money
+(D) Brainstorm marketing for eQuality Time: https://github.com/eQualityTime/Public/issues/107 +EQT
+(D) Create Supertitle theory of change on: https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Create a spreadsheet for MATs on: https://github.com/eQualityTime/Public/issues/93 +EQT
+(D) Find more funding 
 (D) Map and put work into 10000 missing children project
-(D) Put fart noise into CK20  (and set up follow on tasks) from https://commons.wikimedia.org/wiki/Category:Flatulence
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/107 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/119 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/130 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/135 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/136 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/22 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/76 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/9 +EQT
-(D) Work on: https://github.com/eQualityTime/Public/issues/93 +EQT
+(D) Organise the atomiser scripts a bit more on: https://github.com/eQualityTime/Public/issues/136 +EQT
+(D) Work out how to have a fart noise into CK20  (and set up follow on tasks) from https://commons.wikimedia.org/wiki/Category:Flatulence
 (E) 10 Add the Nominet prize to the OVF website  XX
-(E) Create the Theory of change for Project Real  https://github.com/eQualityTime/Public/issues/13 +EQT  
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
 (E) Read the grants book 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Upgrade OVF to GA4 on: https://github.com/eQualityTime/Public/issues/119 +EQT   XX
-x 2021-11-11 map project:Preston camps with former uclan people +EQT
+(E) Time the running of ovf tests from the external drive. 
+(E) read python book @paper +EQT

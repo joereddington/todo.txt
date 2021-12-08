@@ -1,57 +1,93 @@
-(D) Take Kat to A drive through mc-donalds @car
-(*) Blog some notes about creating epubs @desk
-(*) Blog that you released the book.  @desk
-(A) PLan and throw a party! on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects @desk
-(A) Set up the bithday party for yourself.  @desk
-(B) Order memory book for ED  @desk
-(B) Put memory palace book on reddit  @desk
-(C) 10 Hire carpet shampooer  @desk
+(B) Map "Design, develop and test an approach for processing emotions" 
+(E) Put packing list on running buggy
+(C) 05 Setup return for amazon purchase of drawers @inbox
+(C) 10 brainstorm birthday cards on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @paper
 (C) 20 Migrate the narrative maps on blog: https://github.com/joereddington/Projects-Public/issues/55 +PersonalProjects @desk
+(C) 20 Review the richard staff handbook in dropbox @desk
 (C) 30 Review some old blog posts for mirgration on: https://github.com/joereddington/Projects-Public/issues/55 +PersonalProjects @desk
-(C) Review the richard staff handbook in dropbox @desk
-(D) Get an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects @desk
+(C) Make a note of the gas reading @house
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/186 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(C) Write covering note for Ed and take it to post office. 
+(D Kat) Check doorbell batteries @phone
+(D) 02 Set time to take Kat to A drive through mc-donalds @car
+(D) 03 Ask next visitor to sign deed of trust @special
+(D) 05 Get some bolts for bbq so that it is steady @garage
+(D) 05 Transfer the momentoes into the filing cabinet @garage
+(D) 10 Brainstorm Positiveity on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
+(D) 10 Brainstorm SMART positivity goals on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
+(D) 10 Brainstorm communcation process @paper on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
+(D) 10 Buy Kat flowers @outside
+(D) 10 Work on memory book promotion: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects @desk
+(D) 10 brainstorm on timings with food https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects @paper
+(D) 10 map project:Get up to date with all expenses.  +PersonalProjects @desk
+(D) 20 Get an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects @desk
+(D) 20 Write blog post for tiled calendar  https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects @desk
+(D) 34 Spray the rest of the mould in garage @garage
+(D) Buy Kat flowers @outside
+(D) Check starred messages in kat whatsapp  @phone
+(D) Create a whatsapp group for family  
 (D) Try a comic day: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects @desk
-(D) Work on memory book promotion: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects @desk
-(D) Write blog post for tiled calendar  https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects @desk
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/107 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/118 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/74 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/35 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/40 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Public/issues/55 +PersonalProjects
+(D) Work on: https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (D) map project:Get up to date with all expenses.  +PersonalProjects @desk
 (D) map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects @desk
-(E) Copy out the meals from the purple book into meals.todo. @desk
-(E) Map fellowship holiday @desk
-(E) Read this food guidance https://www.nhs.uk/start4life/weaning/what-to-feed-your-baby/around-6-months/ @desk
-(E) Write Moonpig cards for this month +Overhead @desk
+(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects @desk
+(E) 03 Check you have a spare inner tube for running buggy  @garage 
+(E) 03 Log weight +Health  Time:02  @house
+(E) 05 Wire plug onto light @garage
+(E) 10 Brainstorm about the point of joe public and if you can get the same results by using a different browser sometiems.  @paper
+(E) 10 Brainstorm family memoryies  @paper
+(E) 10 Brainstorm on public work around Facebook: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @paper
+(E) 10 Read this food guidance https://www.nhs.uk/start4life/weaning/what-to-feed-your-baby/around-6-months/ @desk
+(E) 12 Floss +Health   Time:05 @house
+(E) 12 Look at page 86 of unicorn book and redo daily stress sheets. @paper
+(E) 12 Try making online doctors apointment @desk
+(E) 15 Write Moonpig cards for this month +Overhead @desk
+(E) 20 Put a jumper on and go to process the @garage inbox. 
+(E) 20 Put goo into buggy tyres. @garage 
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead @paper
+(E) 20 Write a letter to Nova +Family Time:30  @desk
+(E) Check that everything in the 'in process' box really does have a task+Overhead  
+(E) Cut Nova nails +Health   Time:04 
+(E) Do Menu for the week +Family  @phone  Time:01 
+(E) Empty Joe inbox completely +Overhead   Time:15  @desk
+(E) Empty whatsapp and facebook inboxes. +Overhead Time:20  @desk
+(E) Floss +Health   Time:05
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03  @desk
+(E) Log weight +Health  Time:02 
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+(E) Messsage about fellowship holiday @desk
+(E) Post to Sibling Facebook group  @phone  Time:06 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Publicly thank someone +Overhead Time:15  @desk
+(E) Save a nice family memory +Family @phone   Time:03 
+(E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Trim nose hair +Health   Time:05 
+(E) Update the youtube watch list +Family Time:10 @phone 
+(E) Vitamin Tablet +Health   Time:02
 (E) Write a letter to Nova +Family Time:30  @desk
-(E) Check that everything in the 'in process' box really does have a task+Overhead @desk
-(D) Spray the rest of the mould in garage @garage
-(C) Put bike rack on top of car @garage
-(D) Get some bolts for bbq so that it is steady @garage
-(D) Transfer the momentoes into the filing cabinet @garage
-(E) Wire plug onto light @garage
-(E) look through your washers and see if any of them fit the showerhead @garage
-(C) 10 Fix compost bin  @garage 
-(E) Attach the earthing device. @garage 
-(E) Put goo into buggy tyres. @garage 
-(E) Put a jumper on and go to process the @garage inbox. 
-(E) Log weight +Health  Time:02  @house
-(E) Vitamin Tablet +Health @house  Time:02
-(C) 05 Setup return for amazon purchase of drawers @inbox
-(E) Floss +Health @nova  Time:05 @house
-(D) Buy Kat flowers @outside
-(B) 10 Work out some loudness and patience games for Nova. @paper
-(C) Write running buggy packing list: water, tissues (lunchboxes, bags, and medicne)  and attach to handlebar @paper
-(C) brainstorm birthday cards on: https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects @paper
-(D) Brainstorm Positiveity on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
-(D) Brainstorm SMART positivity goals on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
-(D) brainstorm on timings with food https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects @paper
-(E) Brainstorm about the point of joe public and if you can get the same results by using a different browser sometiems.  @paper
-(E) Brainstorm family memoryies  @paper
-(E) Brainstorm on public work around Facebook: https://github.com/joereddington/Projects-Public/issues/4 +PersonalProjects @paper
-(E) Look at page 86 of unicorn book and redo daily stress sheets. @paper
-(E) Nominate someone to have our spare keys.  @paper
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead @paper
-(E) read python book @paper
-(D) Brainstorm communcation process @paper on: https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(C) 03 Take a note of gas reading @phone
-(C) Message about getting bike on Sunday @phone
-(E) Set alarm at 7:55 to call doctors about toe at 8am sharp. @phone
-(E) Buy Kat flowers @shop
-(D) Ask next visitor to sign deed of trust @special
+(E) process Garage inbox.  @garage
+* Change 'breathe' settings @phone

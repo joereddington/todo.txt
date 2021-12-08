@@ -5686,3 +5686,50 @@ x 2021-11-19 Work on: https://github.com/joereddington/Projects-Private/issues/1
 x 2021-11-19 Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 x 2021-11-19 Work on: https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 x 2021-11-19 map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+x 2021-11-19 10 Fix compost bin  @garage 
+x 2021-11-19 Check that everything in the 'in process' box really does have a task+Overhead @desk
+x 2021-11-19 (*) Blog that you released the book.  @desk
+x 2021-11-19 03 Take a note of gas reading @phone
+x 2021-11-19 10 Hire carpet shampooer  @desk
+x 2021-11-19 10 Work out some loudness and patience games for Nova. @paper
+x 2021-11-19 Buy Kat flowers @shop
+x 2021-11-19 Order memory book for ED  @desk
+x 2021-11-19 Put memory palace book on reddit  @desk
+x 2021-11-19 map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects @desk
+x 2021-11-19 Copy out the meals from the purple book into meals.todo. @desk
+x 2021-11-19 05 look through your washers and see if any of them fit the showerhead @garage
+x 2021-11-19 10 Put bike rack on top of car @garage
+x 2021-11-19 Attach the earthing device. @garage 
+x 2021-11-19 Nominate someone to have our spare keys.  @paper
+x 2021-11-19 03 Vitamin Tablet +Health @house  Time:02
+x 2021-11-19 03 Message about getting bike on Sunday @phone
+x 2021-11-19 05 Write running buggy packing list: water, tissues (lunchboxes, bags, and medicne)  and attach to handlebar @paper
+x 2021-11-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2021-11-28 10 Plan and throw a party! on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects @desk
+x 2021-11-28 Cancel party for clare
+x 2021-11-28 Message Izzy about Thursday. 
+x 2021-11-28 * Find yourself a desk chair
+x 2021-11-28 1. Process Email @singleton +Overhead @phone  Time:90
+x 2021-11-28 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2021-11-28 Add stephanie to the email list
+x 2021-11-28 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2021-11-28 Check £40 in Wallet +Overhead @nova  @phone 
+x 2021-11-28 Fix the apple watch syncing issue
+x 2021-11-28 Transfer the warm thing from old pram to running buggy.
+x 2021-11-28 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2021-11-28 change razor blade Time:03 
+x 2021-11-28 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2021-11-28 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2021-11-28 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2021-11-28 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2021-11-28 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2021-11-28 Cut nails +Health @nova  Time:04 
+x 2021-11-28 Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2021-11-28 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917
+x 2021-11-28 Quit some projects (and blog it)  
+x 2021-11-28 Review and rescore  Wheel Of life
+x 2021-11-28 Review the feedbacks from Kat and follow up
+x 2021-11-28 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2021-11-28 Work on: https://github.com/joereddington/Projects-Private/issues/166 +PersonalProjects
+x 2021-11-28 Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+x 2021-11-28 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
