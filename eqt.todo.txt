@@ -1,17 +1,15 @@
-x (A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-x (A) Complete the reconcilation 
-x (A) Clear the inboxes and do OOO. 
-x (A) Create Alex Park issue ingithub 
-x (A) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
-x (B) Make sure that all open github issues are in a project+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-x (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-x (B) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-x (B) Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
-x (B) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-x (B) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+(A) 05 Find bag to Do new DBS check and put it on the update server
+(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+(A) Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+(A) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+(B) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+(B) Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+(B) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
 (B) map project:Preston camps with former uclan people +EQT
+(C) 15 Write SE question about setting up the link for the etherpad server on: Write IMPS 2.0 https://github.com/eQualityTime/Public/issues/77 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Work on: Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
 (C) Work on: Hastag Poundsign https://github.com/eQualityTime/Public/issues/120 +EQT
@@ -23,19 +21,12 @@ x (B) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/
 (C) Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Write mail merge code for luton teachers  on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(D Truestees) Write more Ads for OVF XX
-(D) 10 Talk to Kat about visiting Stoke for drawing on: https://github.com/eQualityTime/Public/issues/106 +EQT  
-(D) Brainstorm marketing for eQuality Time: https://github.com/eQualityTime/Public/issues/107 +EQT
-(D) Create Supertitle theory of change on: https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Create a spreadsheet for MATs on: https://github.com/eQualityTime/Public/issues/93 +EQT
-(D) Do full accounts algorithm +EQT Time:99
-(D) Find more funding 
-(D) Map and put work into 10000 missing children project
-(D) Move forward the Grant writer project. 
-(D) Organise the atomiser scripts a bit more on: https://github.com/eQualityTime/Public/issues/136 +EQT
-(D) Send Kat a note about the current amount of leave you have and how that relates to the year in general. 
+(D) 20 Create Supertitle theory of change on: https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) 20 Map and put work into 10000 missing children project
+(D) 30 Phone some MAT with this script  https://github.com/eQualityTime/Public/issues/93 +EQT
+(D) 40 Do full accounts algorithm +EQT Time:99
+(D) 40 Update and refocus the Google Ads, particularly OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Work on: Apply to Aldgate & Allhallows Foundation https://github.com/eQualityTime/Public/issues/22 +EQT
 (D) Work on: Apply to Allen Lane foundation https://github.com/eQualityTime/Public/issues/76 +EQT
 (D) Work on: Atomiser script https://github.com/eQualityTime/Public/issues/136 +EQT
@@ -46,36 +37,10 @@ x (B) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/
 (D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
 (D) Work on: Read the Green and Magenta Books https://github.com/eQualityTime/Public/issues/9 +EQT
 (D) Work on: Set up analytics on the OVF website.  https://github.com/eQualityTime/Public/issues/119 +EQT
-(D) Work on: Update CK20 obz file https://github.com/eQualityTime/ovfplayer/issues/192 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Work on: You might also like chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work out how to have a fart noise into CK20  (and set up follow on tasks) from https://commons.wikimedia.org/wiki/Category:Flatulence
-(D) Write out task for Connor to set up goodreads profile. 
 (D) map project:All Employees should have uploaded all changed git code +EQT
 (D) map project:Bring in external funding by X +EQT
 (D) map project:Continually improve and train on working practices and technology +EQT
 (D) map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
-(E) 10 Add the Nominet prize to the OVF website  XX
-(E) Backup Dreamhost +EQT
-(E) Check the next school time +EQT Time:03 
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Move the 'allbooksever' code to AWS (or desktop IDC) 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
-(E) Read the grants book 
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
-(E) read python book @paper +EQT
-x (D Clare) Open the Projects file and review/rewrite  https://www.dropbox.com/scl/fi/102dqqrdod0z9wb2kyarq/Projects-file-Updated.docx.docx?cloud_editor=gdoc&dl=0 and write Who it helps? How much it helps them? How much it costs us?
-x 2021-12-07 Fix the www issue
-x 2021-12-13 Fix the WWW latex 
-x 2021-12-13 Message the alex park teacher with times and dates
-x 2021-12-13 On macbook - turn on firefox sync containers
-x 2021-12-13 Reply to Connor. 
-x 2021-12-13 Time the running of ovf tests from the external drive. 
-x 2021-12-13 Update accounts document : https://github.com/eQualityTime/Public/issues/141 +EQT
