@@ -1277,3 +1277,292 @@ x 2022-01-05 25 Add Fart noice to CK20V2 and see if you can extract it with code
 x 2022-01-05 40 Fill out the tender form for Essex - codename:Proactis
 x 2022-01-05 10 Set up analytics on the OVF website.  https://github.com/eQualityTime/Public/issues/119 +EQT
 x 2022-01-05 20 Find more funding 
+x 2022-01-05 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-01-05 map project:Bring in external funding by X +EQT
+x 2022-01-06 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-01-06 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-01-06 Work on: Hastag Poundsign https://github.com/eQualityTime/Public/issues/120 +EQT
+x 2022-01-06 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-01-06 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-01-06 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-01-06 Work on: Reorganise Codebase https://github.com/eQualityTime/TheOpenVoiceFactory/issues/139 +EQT
+x 2022-01-06 Work on: Scotland camp (post furlough)  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-01-06 Work on: Write IMPS 2.0 https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2022-01-06 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-06 Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2022-01-06 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2022-01-06 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-01-06 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-06 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-01-06 map project:Preston camps with former uclan people +EQT
+x 2022-01-06 Work on: Read the Green and Magenta Books https://github.com/eQualityTime/Public/issues/9 +EQT
+x 2022-01-06 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-06 map project:Continually improve and train on working practices and technology +EQT
+x 2022-01-06 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2022-01-06 Work on: Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2022-01-06 Work on: Hire a bid writer  https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-01-06 Create OVF funnel on Analytics https://github.com/eQualityTime/Public/issues/119 +EQT
+x 2022-01-06 40 Update and refocus the Google Ads, particularly OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-06 05 Do new DBS check 
+x 2022-01-06 TED talk tasks for Connor. 
+x 2022-01-06 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-01-06 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-01-10 Ask in Luton group abotu getting a dbs check done. 
+x 2022-01-10 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-01-10 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-01-10 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-01-10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-10 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-01-10 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-01-10 Write SE/issue about etherpad and nginx https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/108 +EQT
+x 2022-01-10 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-01-10 Check if we have a budget for this year. 
+x 2022-01-10 Install etherpad on AWS with https://www.rosehosting.com/blog/install-etherpad-on-a-centos-7-vps/ https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2022-01-10 Work on: Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2022-01-10 Work on: Scotland camp (post furlough)  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-01-10 Work on: Set up analytics on the OVF website.  https://github.com/eQualityTime/Public/issues/119 +EQT
+x 2022-01-10 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-01-10 * Write up the etherpad issue as a issue. 
+x 2022-01-10 Check the next school time +EQT Time:03 
+x 2022-01-10 Open and log progress on the bid status document +EQT Time:04
+x 2022-01-10 map project:Bring in external funding by X +EQT
+x 2022-01-10 Make changes to review policies from last meeting  https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-01-10 Search upwork for possible bid writers. https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-01-10 Work on: Write IMPS 2.0 https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-01-10 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-10 Review your spending for any expenses 
+x 2022-01-10 40 Do full accounts algorithm +EQT Time:99
+x 2022-01-10 Do full accounts algorithm +EQT Time:99
+x 2022-01-10 20 Create Supertitle theory of change on: https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-01-10 20 Map and put work into 10000 missing children project
+x 2022-01-10 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-01-10 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-01-10 Work on: Read the Green and Magenta Books https://github.com/eQualityTime/Public/issues/9 +EQT
+x 2022-01-10 Work on: You might also like chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
+x 2022-01-10 Work on: More Google Ads work https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-01-11 Work on: Atomiser script https://github.com/eQualityTime/Public/issues/136 +EQT
+x 2022-01-11 Work on: Have a balanced system for marketing https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2022-01-11 Talk to Kat about upwork ambition. 
+x 2022-01-11 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-01-11 Work on: Apply to Aldgate & Allhallows Foundation https://github.com/eQualityTime/Public/issues/22 +EQT
+x 2022-01-12 30 Phone some MAT with this script  https://github.com/eQualityTime/Public/issues/93 +EQT
+x 2022-01-12 Customise the etherpad install
+x 2022-01-12 Find New Equality and diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-01-12 Work on: Pitch Multi-Academy Trusts for WWW https://github.com/eQualityTime/Public/issues/93 +EQT
+x 2022-01-12 Work out the amount of salary that should be taken out of the ring fencing for OVF 
+x 2022-01-12 map project:Continually improve and train on working practices and technology +EQT
+x 2022-01-12 Check upwork
+x 2022-01-12 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-01-12 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-01-13 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-01-13 map project:EQT's Dropbox should be easy for Trustees and public to find their way around  +EQT
+x 2022-01-13 Work out what has happened to the OVF repo. 
+x 2022-01-13 40 OVF - fix the bug where the tests add a bunch of modified files. 
+x 2022-01-13 Post unity cheque 
+x 2022-01-13 30 Read Chapter of effective giving book. 
+x 2022-01-13 30 Read chapter of grant book
+x 2022-01-13 60 Review all the brainstorms around work and properly file them
+x 2022-01-13 60 Setup an AWS sever and clone the repos to it. 
+x (E) copy the AWS keys to other external drive
+x 2022-01-17 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-17 Check the next school time +EQT Time:03 
+x 2022-01-17 Open and log progress on the bid status document +EQT Time:04
+x 2022-01-17 Open list of projects to be funded +EQT
+x 2022-01-17 Search for funding for eQuality Time Projects +EQT
+x 2022-01-17 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-01-17 map project:Bring in external funding by X +EQT
+x 2022-01-17 map project:Read papers for CSRG +EQT
+x 2022-01-17 Work on: Set up analytics on the OVF website.  https://github.com/eQualityTime/Public/issues/119 +EQT
+x 2022-01-17 save the commands you used for AWS they where good commands 
+x 2022-01-17 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-01-17 Do full accounts algorithm +EQT Time:99
+x 2022-01-17 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-01-17 Work on: You might also like chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
+x 2022-01-17 Work on: Apply to Aldgate & Allhallows Foundation https://github.com/eQualityTime/Public/issues/22 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-01-17 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-01-17 map project:Continually improve and train on working practices and technology +EQT
+x 2022-01-17 Work on: Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2022-01-17 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-01-17 Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-01-17 Work on: Write IMPS 2.0 https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2022-01-17 Work on: Atomiser script https://github.com/eQualityTime/Public/issues/136 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-17 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-17 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-01-17 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-01-17 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-01-17 Work on: Have a balanced system for marketing https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2022-01-17 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-01-17 Post the books 
+x 2022-01-17 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-17 Find out why the folding works on laptop and NOT on desktop 
+x 2022-01-17 Add some other files to your vim repo - MAYBE  your bash rc
+x 2022-01-17 Try the Stackoverflow answer about etherpad and award bounty  https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-01-17 Fix the photos of the bank statements in dropbox. 
+x 2022-01-17 Write more on the guide to EQT Dropbox https://github.com/eQualityTime/Public/issues/147 +EQT
+x 2022-01-17 Rebuild the White Water Writers Site:  https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-17 Rebuild the Project Real Site:  https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-17 Rewrite how vision gets tasks. 
+x 2022-01-18 Read a chapter of alturism Book
+x 2022-01-18 20 Review and reply all the people from upwork https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-01-18 Apply as a trustee to https://www.greenwoodacademies.org/page/?title=Become+a+Trustee&pid=39 
+x 2022-01-18 Put the email addresses you have into google ads  https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-18 05 Contact Chris on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-01-18 05 Update Chris about camps on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-01-21 Read a chapter of grant book 
+x 2022-01-21 Rewrite the ten year goals with 'out of ten' marks. 
+x 2022-01-21 10 Set a date with Richard about a drawing TMC  https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-01-21 15 Setup streaming on this user account
+x 2022-01-21 10 Brainstorm more tasks for Connor... 
+x 2022-01-21 Write out, in complete honesty, what you want to do with MATs: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-01-21 Find the commands we used to install jekyll on AWS https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-01-23 20 Review remaining policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-01-24 Open and log progress on the bid status document +EQT Time:04
+x 2022-01-24 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-24 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-24 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-01-24 map project:Bring in external funding by X +EQT
+x 2022-01-24 map project:Continually improve and train on working practices and technology +EQT
+x 2022-01-24 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-01-24 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-01-24 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-24 Work on: https://github.com/eQualityTime/Home/issues/109 +EQT
+x 2022-01-24 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-24 Check the next school time +EQT Time:03 
+x 2022-01-24 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-01-24 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-01-24 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-01-24 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-01-24 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-01-24 Set Date for properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-01-24 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-01-24 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-01-24 Do full accounts algorithm +EQT Time:99
+x 2022-01-24 map project:Read papers for CSRG +EQT
+x 2022-01-24 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-01-24 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-01-24 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-01-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-01-24 Draft Amazon Giving Grant  @public
+x 2022-01-24 map project:Amazon Funding Bid +EQT @public
+x 2022-01-24 Social Post looking for bid writers, particularly asking about tech work https://github.com/eQualityTime/Public/issues/109 +EQT @private @public (the writing) @social
+x 2022-01-25 Read a chapter of the Giving book @private
+x 2022-01-25 Switch to live account and start streaming +EQT @singleton Time:99 @public
+x 2022-01-25 Thank the CEO for their help 
+x 2022-01-25 Post new books to WWW facebook page +EQT @nova @phone  Time:10  @private @social
+x 2022-01-25 Block out Fridays 
+x 2022-01-25 social Post EQT's Filespace guide to Small Charity Ceos https://github.com/eQualityTime/Public/issues/147 +EQT @private
+x 2022-01-25 Message Kat with annual leave summary on: https://github.com/eQualityTime/Home/issues/110 +EQT @private
+x 2022-01-25 Amazon bid 
+x 2022-01-25 Talk to Clare about your plan for multi academy trusts on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
+x 2022-01-25 Screenshots should be in the Downloads folder @public
+x 2022-01-25 10 Email Give Yvonne More details about the scotland camp https://github.com/eQualityTime/Public/issues/108 +EQT @private
+x 2022-01-27 10 Remap Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT @private
+x 2022-01-27 10 Remap the contact teachers project on: https://github.com/eQualityTime/Home/issues/108 +EQT @private
+x 2022-01-26 20 Read another chapter of Grant book +EQT @private
+x 2022-01-27 10 Remap Have a balanced system for marketing https://github.com/eQualityTime/Public/issues/107 +EQT @private
+x 2022-01-27 20 Customise the etherpad on AWS https://github.com/eQualityTime/Public/issues/77 +EQT @public
+x 2022-01-27 20 Fix the project real individual lesson pages 
+x 2022-01-28 Put the new dates for Alex Park in calendar 
+x 2022-01-28 Find another person for Alex Park  @private
+x 2022-01-28 10 Talk to Kat about Her trip and if you can go to Preston for the day :) @private
+x 2022-01-28 10 Talk to Kat about trip to Keele. 
+x 2022-01-28 20 Fix the page break issue in new IMPS 
+x 2022-01-28 Fix the lack of pausing. 
+x 2022-01-28 20 Create a 404 for WWW in Jekyll and then link up the Nginx 404 to it 
+x 2022-01-28 60 Test Mobi export on recent two camps submitted. https://github.com/eQualityTime/Public/issues/140 +EQT @public 
+x 2022-01-28 30 add the 'you might also like' chapter to a random book  https://github.com/eQualityTime/Public/issues/130 +EQT @public
+x 2022-01-28 Upload TEC2021 book. 
+x 2022-01-28 20 Read a chapter of Altruism book by Wednesday @private
+x 2022-01-28 40 Create Full A/B testing on the main page of White Water Writers because it's. https://github.com/eQualityTime/Public/issues/131 +EQT @public
+x 2022-01-28 40 Install jekyl OVF AWS  https://github.com/eQualityTime/Public/issues/148 +EQT @public
+x 2022-01-31 Create a issue for the Alex Park camp. 
+x 2022-01-31 Email the UCLAn people 
+x 2022-01-31 Move the OVF site so we can get the ads working on it. +EQT
+x 2022-01-31 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-01-31 Work on: Apply for Amazon Literary Partnership https://github.com/eQualityTime/Public/issues/149 +EQT
+x 2022-01-31 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-01-31 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-01-31 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-01-31 map project:Amazon Funding Bid +EQT
+x 2022-01-31 (A*) Submit the Amazon grant. 
+x 2022-01-31 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-31 Work on: Hire a bid writer  https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-01-31 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-01-31 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-01-31 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-01-31 Work on: You might also like chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
+x 2022-01-31 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-01-31 map project:Bring in external funding by X +EQT
+x 2022-01-31 map project:Continually improve and train on working practices and technology +EQT
+x 2022-01-31 Check the next school time +EQT Time:03 
+x 2022-01-31 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2022-01-31 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-01-31 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2022-01-31 Open and log progress on the bid status document +EQT Time:04
+x 2022-01-31 Open list of projects to be funded +EQT
+x 2022-01-31 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2022-01-31 Send Trustees something nice about outcomes +EQT
+x 2022-01-31 Search for funding for eQuality Time Projects +EQT
+x 2022-01-31 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-01-31 Backup Dreamhost +EQT
+x 2022-01-31 Work on: Release test version of Etherpad-based IMPS  https://github.com/eQualityTime/Public/issues/150 +EQT
+x 2022-01-31 Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-01-31 Work on: Write IMPS 2.0 https://github.com/eQualityTime/Public/issues/77 +EQT
+x 2022-01-31 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-01-31 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-01-31 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-01-31 follow up on the charity ceo panel post. 
+x 2022-01-31 Download the amazon months sales figures +EQT
+x 2022-01-31 (.A) Submit the damn grant! 
+x 2022-01-31 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-01-31 Work on: Remap Have a balanced system for marketing https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2022-01-31 Work on: EQT's Dropbox should be easy for Trustees and public to find their way around https://github.com/eQualityTime/Public/issues/147 +EQT
+x 2022-01-31 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-01-31 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-01-31 Do full accounts algorithm +EQT Time:99
+x 2022-01-31 Find a way of exporting the inbox 'tasks' to vim. 
+x 2022-01-31 50 Fix the mobile export bug: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-01-31 04 Check where we end up with Kat on keele visit on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-01-31 05 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-01-31 10 Contact the funding guy from facebook. 
+x 2022-01-31 Ask Richard for a visit date in Keele. 
+x 2022-01-31 04 Email Yvonne about Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-01-31 10 Start the process for closing down dreamhost. Reducing the filesize and so on.  @private
+x 2022-01-31 03 Write down in delores 'the purpose of the notes file is'  (recovering from interupts, storing information, tracking time @private
+x 2022-01-31 10 Delores - write the 'emotion stopper' (tweet, why don't I want to X')  @private
+x 2022-01-31 10 brainstorm perfect form for tasks in delores (work back from the task rather than in from the day) @paper
+x 2022-01-31 10 Properly brainstorm care packages for MATs - the letter, the book, the packaging,  on: https://github.com/eQualityTime/Home/issues/114 +EQT @paper
+x 2022-01-31 20 Read a chapter of grant book +EQT @paper
+x 2022-01-31 05 File documents in physical inbox.  @paper
+x 2022-01-31 10 Make a list of possible places to put the backup drive.  @paper
+x 2022-01-31 20 Read another chapter on alturism book +EQT @paper
+x 2022-01-31 10 Remap Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT @private
+x 2022-01-31 10 Post to WWW facebook page +EQT @nova @phone  Time:10  @private
+x 2022-01-31 10 Backup the IMPS code off server @public 
+x 2022-01-31 2. Switch to live account and start streaming +EQT @singleton Time:99 @public
+x 2022-01-31 10 Get watcher working and in delores @public
+x 2022-02-02 Put backup drive in waterproofbag 
+x 2022-02-02 Pre-stream - complete reboot
+x 2022-02-02 20 Setup nginx X on the OVF site https://github.com/eQualityTime/Public/issues/148 +EQT @public
+x 2022-02-03 Fix public history
+x 2022-02-03 Fix the link issue on the OVF site. 
+x 2022-02-03 10 Message Yvonne to find out what the list is what you can take of Yvonne's hands.  @private
+x 2022-02-03 Pay for zoom. 
+x 2022-02-03 Find out about persitent storage 
+x 2022-02-03 20 Set up the Orcle directory on AWS https://github.com/eQualityTime/Public/issues/150   @private
+x 2022-02-03 15 Find slash write new equality and diversity policy.  @private
+x 2022-02-03 30 Write code to get the mail merge code to export a consolidated sheet  https://github.com/eQualityTime/Home/issues/115 +EQT @private 
