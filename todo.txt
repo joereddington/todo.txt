@@ -1,31 +1,64 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
 (A) Do the happy memory christmas tree decorations 
+(A) map project:Real Trama processing book +PersonalProjects
+(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (B) Find a therapy course
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+(C) 1. Process Email @singleton +Overhead @phone  Time:90
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Complete the last module of the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) Fix longue window
 (C) Make a note of the gas reading
 (C) ORder new halifax card 
 (C) Process photos on camera
 (C) Read a Chapter of trama book +PersonalProjects
+(C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(C) map project:Watch the directors commentaries for all the marvel moves you have. +PersonalProjects
 (D) Brainstorm SMART positivity goals on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
 (D) Brainstorm eating - doing well until after lunch: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Brainstorm on the shifts required to be reviewing history every day.  Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(D) Buy Kat flowers
+(D) Check starred messages in kat whatsapp 
+(D) Copy and Paste Kat's year's list into the issue https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Make list of saving accounts compared to bank accounts. 
 (D) Migrate some joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (D) Plan a Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Put bolts onto bbq
+(D) Put up map picture in Office: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Review the richard staff handbook in dropbox 
 (D) Rewrite memory book sales issue on: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects
+(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Spray the rest of the mould in garage @garage
+(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) Work on: Improve communication process.  https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
+(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(D) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(D) Work on: Move teapot to garage https://github.com/joereddington/Projects-Public/issues/17 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Put up map picture in Office: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/189 +PersonalProjects
 (D) Write blog post for tiled calendar  https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects 
 (D) count the nodes on the swift family tree so you can Get an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
 (D) map project:Get up to date with all expenses.  +PersonalProjects
+(D) map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects
+(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) print deed of trust (AGAIN)
 (E) Book half marathon slash marathon soon. 
+(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check out magic youtube channels for memory stuff.
 (E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Floss +Health @nova  Time:05
@@ -34,6 +67,7 @@
 (E) Give laptop screen a good clean +Overhead
 (E) Go to garage, get extension, Take plug off extension and thread through your bookcase
 (E) If back on sugar then start sugar project +Health
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
 (E) Pick out a BBQ for summer
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
@@ -46,13 +80,15 @@
 (E) Redo the pralines and blog it. 
 (E) Reset Nova's ipad passwords *again* and put them through it. 
 (E) Review the videos that mum sent 
+(E) Save a nice family memory +Family @phone @nova  Time:03 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+(E) Small carabina on car keys so that It can be part of a 'go to car' box
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) Try the Jack Burgers again  https://cookingonabootstrap.com/2018/02/19/carrot-cumin-kidney-bean-burger-17p-was-9p-vg-v-df/ 
+(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
+(E) Vitamin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) Write out some checeklists (p99 of unicorn book)
 (E) process Garage inbox. 
 Add pictures to this readme: https://github.com/joereddington/Mouse-Sniper/ 
-(D) Buy Kat flowers
-(D) Check starred messages in kat whatsapp 
-(D) Copy and Paste Kat's year's list into the issue https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects

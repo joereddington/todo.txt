@@ -1,0 +1,12 @@
+(A) 20 Read a chapter of altruism book 
+(A) 20 Write short blog about Apply for Amazon Literary Partnership https://github.com/eQualityTime/Public/issues/149 +EQT
+(B) 04 Check in with Team Clare: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(C) 60 Review expenses - some will be EQT (including zoom). +EQT
+(E) File the documents in the inbox. 
+(C) 60 Write the 'process seed' code for IMPS 3.0 https://github.com/eQualityTime/Public/issues/150 +EQT
+(D) 10 brainstorm who would be on a list of 'people interested in what's happened at eQuality Time https://github.com/eQualityTime/Public/issues/107 +EQT
+(D) 15 uploaded and tidy all changed git code +EQT
+(D) 20 Blog the guide to EQT's Dropbox that you wrote https://github.com/eQualityTime/Public/issues/147 +EQT
+(D) 20 Read a chapter of grant book 
+(D) 20 Write short blog about 'you might also like' chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
+(D) 25 Create mail merge letter for MATs on: https://github.com/eQualityTime/Home/issues/114 +EQT

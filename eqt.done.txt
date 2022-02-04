@@ -1566,3 +1566,34 @@ x 2022-02-03 Find out about persitent storage
 x 2022-02-03 20 Set up the Orcle directory on AWS https://github.com/eQualityTime/Public/issues/150   @private
 x 2022-02-03 15 Find slash write new equality and diversity policy.  @private
 x 2022-02-03 30 Write code to get the mail merge code to export a consolidated sheet  https://github.com/eQualityTime/Home/issues/115 +EQT @private 
+x 2022-02-03 map project:Continually improve and train on working practices and technology +EQT
+x 2022-02-03 map project:Read papers for CSRG +EQT
+x 2022-02-03 Open and log progress on the bid status document +EQT Time:04
+x 2022-02-03 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-02-03 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-02-03 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-02-03 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-02-03 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-02-03 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-02-03 Work on: Hire a bid writer  https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-02-03 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-02-03 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-02-03 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-02-03 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-02-03 Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+x 2022-02-03 Do full accounts algorithm +EQT Time:99
+x 2022-02-03 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-02-03 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-02-03 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-02-03 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-02-03 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-02-03 map project:Bring in external funding by X +EQT
+x 2022-02-03 Check the deadline for submitting accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-02-03 Remap Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
+x 2022-02-03 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-02-03 25 Process the delores.todo list +EQT 
