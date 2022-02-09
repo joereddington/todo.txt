@@ -1,12 +1,13 @@
-(A) 20 Read a chapter of altruism book 
-(A) 20 Write short blog about Apply for Amazon Literary Partnership https://github.com/eQualityTime/Public/issues/149 +EQT
-(B) 04 Check in with Team Clare: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(C) 60 Review expenses - some will be EQT (including zoom). +EQT
-(E) File the documents in the inbox. 
-(C) 60 Write the 'process seed' code for IMPS 3.0 https://github.com/eQualityTime/Public/issues/150 +EQT
-(D) 10 brainstorm who would be on a list of 'people interested in what's happened at eQuality Time https://github.com/eQualityTime/Public/issues/107 +EQT
-(D) 15 uploaded and tidy all changed git code +EQT
-(D) 20 Blog the guide to EQT's Dropbox that you wrote https://github.com/eQualityTime/Public/issues/147 +EQT
-(D) 20 Read a chapter of grant book 
-(D) 20 Write short blog about 'you might also like' chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
-(D) 25 Create mail merge letter for MATs on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-02-08 Read to p180 of 'Doing Good Better'
+(C) Pay in cheque
+(B) Ask Clare of a phone call out about how safe AWS data is for OVF https://github.com/eQualityTime/Public/issues/148 +EQT
+(C) Map a private project about the Wren changes
+(C) Calendar event to the link locations on the ovf site
+(D) Find a new eQuality and Diversity Policy. 
+(C) Brainstorm on tinkerbell as a repo of 'theroies of change' and 'JUST these projects and NO others.'
+(C) Create php page to accept seed urls:  https://github.com/eQualityTime/Public/issues/150 +EQT @stream
+(D) Read a chapter of Modern Grantmaking
+(E) Create google add for 'creating a book' 
+(E) Fix the Project real issue with tracking sessions. Check things like title and the like.  
+(E) Igor event to make sure there is always a work book on the list (it's relaxing)
+(E) Map project to review slash reorgnaise dropbox and drive files. 

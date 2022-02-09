@@ -1597,3 +1597,54 @@ x 2022-02-03 Check the deadline for submitting accounts https://github.com/eQual
 x 2022-02-03 Remap Bring invoices up to date and have a regular "these are the invoices" day. https://github.com/eQualityTime/Public/issues/92 +EQT
 x 2022-02-03 2. Switch to live account and start streaming +EQT @singleton Time:99
 x 2022-02-03 25 Process the delores.todo list +EQT 
+x 2022-02-04 20 Read a chapter of altruism book 
+x 2022-02-04 04 Try to fix the CORS error with https://serverfault.com/a/176729 
+x 2022-02-04 20 Check in with Unity about adding extra signatories. 
+x 2022-02-04 (C Trustees) 25 Create mail merge letter for MATs on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-02-04 60 Review expenses - some will be EQT (including zoom). +EQT
+x 2022-02-04 10 brainstorm who would be on a list of 'people interested in what's happened at eQuality Time https://github.com/eQualityTime/Public/issues/107 +EQT
+x 2022-02-04 15 uploaded and tidy all changed git code +EQT
+x 2022-02-04 20 Write short blog about Apply for Amazon Literary Partnership https://github.com/eQualityTime/Public/issues/149 +EQT
+x 2022-02-04 60 Write the 'process seed' code for IMPS 3.0 https://github.com/eQualityTime/Public/issues/150 +EQT
+x 2022-02-04 20 Blog the guide to EQT's Dropbox that you wrote https://github.com/eQualityTime/Public/issues/147 +EQT
+x 2022-02-04 20 Read a chapter of grant book 
+x 2022-02-04 20 Write short blog about 'you might also like' chapter for WWW https://github.com/eQualityTime/Public/issues/130 +EQT
+x 2022-02-04 File the documents in the inbox. 
+x 2022-02-04 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-02-04 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-02-04 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-02-04 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-02-04 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-02-04 https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+x 2022-02-04 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-02-04 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-02-04 Work on: EQT's Dropbox should be easy for Trustees and public to find their way around https://github.com/eQualityTime/Public/issues/147 +EQT
+x 2022-02-04 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-02-04 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-02-04 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-02-04 Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+x 2022-02-04 map project:Read papers for CSRG +EQT
+x 2022-02-04 Review the igor events file. 
+x 2022-02-04 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-02-04 Process the delores.todo list +EQT
+x 2022-02-04 Work on on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-02-04 Book Premier Inn for UCLAN
+x 2022-02-07 Write up and make private https://github.com/eQualityTime/Public/issues/109 +EQT
+x 2022-02-07 Delores - add 'put a bunch of the 'read it later' on twitter and MAYBE  even read them. 
+x 2022-02-07 Review which actions can be done by streaming +EQT @singleton Time:99
+x 2022-02-07 Work out if Trains are worthwhile for UCLAN 
+x 2022-02-07 Fix plotpri cron (and put in python3)
+x 2022-02-07 Fix plotpri cron (and put in python3)
+x 2022-02-07 Map the 'create all the ebooks' project (in practice I think it's 'have a go' because if you can get the codes from all books ever then you are probably to do a fast script.   
+x 2022-02-07 Message CW about the intern tasks, look at the total time  and see if you want to give them to a Virtual Assistant. 
+x 2022-02-07 map project:Continually improve and train on working practices and technology +EQT
+x 2022-02-07 Find out about stopping the WWW AWS instances on a schedule to save money.  @streaming
+x 2022-02-07 Tidy the mailscript git repo - I want it to say 'ok' on check repos
+x 2022-02-07 Read all of this github issue, then rewrite and review https://github.com/eQualityTime/Public/issues/131 +EQT
