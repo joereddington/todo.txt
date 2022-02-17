@@ -1,13 +1,13 @@
-x 2022-02-08 Read to p180 of 'Doing Good Better'
-(C) Pay in cheque
-(B) Ask Clare of a phone call out about how safe AWS data is for OVF https://github.com/eQualityTime/Public/issues/148 +EQT
-(C) Map a private project about the Wren changes
-(C) Calendar event to the link locations on the ovf site
-(D) Find a new eQuality and Diversity Policy. 
-(C) Brainstorm on tinkerbell as a repo of 'theroies of change' and 'JUST these projects and NO others.'
-(C) Create php page to accept seed urls:  https://github.com/eQualityTime/Public/issues/150 +EQT @stream
-(D) Read a chapter of Modern Grantmaking
-(E) Create google add for 'creating a book' 
-(E) Fix the Project real issue with tracking sessions. Check things like title and the like.  
-(E) Igor event to make sure there is always a work book on the list (it's relaxing)
-(E) Map project to review slash reorgnaise dropbox and drive files. 
+(A) Do payments unity
+(A) Answer the accounting questions.
+(A) Write a secret CEO collumn. 
+(B) Write blog post about doE and send to the assessor. 
+(C) Do expenses from Presotn
+(C) Restart the Unity application process - you have an email about it. 
+(D) 15 Find a new eQuality and Diversity Policy. 
+(D) 20 Read a chapter of Modern Grantmaking
+(E) 10 Map project to review slash reorgnaise dropbox and drive files. 
+(E) 20 Fix the Project real issue with tracking sessions. Check things like title and the like.  
+(E) 25 Create google add for 'creating a book' 
+(E) 30 Review 'ten year goals' github project and work out which projects are missing, unnecessary, or negated.
+(E) Blog IMPS3

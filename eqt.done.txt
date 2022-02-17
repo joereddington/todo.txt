@@ -1648,3 +1648,13 @@ x 2022-02-07 map project:Continually improve and train on working practices and 
 x 2022-02-07 Find out about stopping the WWW AWS instances on a schedule to save money.  @streaming
 x 2022-02-07 Tidy the mailscript git repo - I want it to say 'ok' on check repos
 x 2022-02-07 Read all of this github issue, then rewrite and review https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-02-08 Read to p180 of 'Doing Good Better'
+x 2022-02-09 Ask Clare of a phone call out about how safe AWS data is for OVF https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-02-09 Brainstorm on tinkerbell as a repo of 'theroies of change' and 'JUST these projects and NO others.'
+x 2022-02-09 02 Calendar event to the link locations on the ovf site
+x 2022-02-09 Brainstorm on tinkerbell as a repo of 'theroies of change' and 'JUST these projects and NO others.'
+x 2022-02-09 10 Map a private project about the Wren changes
+x 2022-02-16 05 Take Cheque to post box
+x 2022-02-16 40 Create php page to accept seed urls:  https://github.com/eQualityTime/Public/issues/150 +EQT @stream
+x 2022-02-16 Update the www cron so it only generates in school hours and weekdays  (and NOT Monday)  
+x 2022-02-16 02 Igor event to make sure there is always a work book on the list (it's relaxing)
