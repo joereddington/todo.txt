@@ -1,13 +1,22 @@
-(A) Do payments unity
-(A) Answer the accounting questions.
-(A) Write a secret CEO collumn. 
-(B) Write blog post about doE and send to the assessor. 
-(C) Do expenses from Presotn
-(C) Restart the Unity application process - you have an email about it. 
+(C) 06 Arrange Call with Yvonne: spreadsheet, big plans, https://github.com/eQualityTime/Public/issues/108 +EQT
+(C) 10 Do expenses from Preston
+(C) 10 Have a conversation with Kat about how much annual leave before Fridays https://github.com/eQualityTime/Home/issues/110 +EQT
+(C) 10 Update all the morgan info files (link at github): https://github.com/eQualityTime/Home/issues/118 +EQT
+(C) 20 Process the delores.todo list +EQT
+(C) Do simple IMPS3 Video for Richard 
+(C) Send Books to writers
+(C) Map project - redo the eQuality Time website 
+(C) 20 Restart the Unity application process - you have an email about it. 
+(C) 20 Talk to Clare  about bid writer: https://github.com/eQualityTime/Home/issues/117 +EQT
+(C) 20 Update the OVF risk assessment https://github.com/eQualityTime/Public/issues/148 +EQT
+(C) 20 Write up Drawing version of TMC and send it to Richard https://github.com/eQualityTime/Public/issues/106 +EQT
+(C) Fix ebooks. 
+(D) 10 map project: new EQT website. 
 (D) 15 Find a new eQuality and Diversity Policy. 
 (D) 20 Read a chapter of Modern Grantmaking
+(D) 30 Review Google Ads https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) 10 Map project to review slash reorgnaise dropbox and drive files. 
-(E) 20 Fix the Project real issue with tracking sessions. Check things like title and the like.  
+(E) Fix the mouse-sniper (and, as a result, make sure that the github is sorted).  (oooh - print the shortcuts when you start it!) 
+(E) 20 Blog IMPS3
 (E) 25 Create google add for 'creating a book' 
 (E) 30 Review 'ten year goals' github project and work out which projects are missing, unnecessary, or negated.
-(E) Blog IMPS3

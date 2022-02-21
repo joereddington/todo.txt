@@ -1658,3 +1658,42 @@ x 2022-02-16 05 Take Cheque to post box
 x 2022-02-16 40 Create php page to accept seed urls:  https://github.com/eQualityTime/Public/issues/150 +EQT @stream
 x 2022-02-16 Update the www cron so it only generates in school hours and weekdays  (and NOT Monday)  
 x 2022-02-16 02 Igor event to make sure there is always a work book on the list (it's relaxing)
+x 2022-02-17 Answer the accounting questions.
+x 2022-02-17 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-02-17 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-02-17 Work on: UCLAN Feb 14-18 https://github.com/eQualityTime/Public/issues/138 +EQT
+x 2022-02-17 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-02-17 Write a secret CEO collumn. 
+x 2022-02-17 map project:Guru Nanak June  +EQT
+x 2022-02-17 Make sure that all open github issues are in a project (use "no:project")+Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-02-17 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-02-17 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-02-17 Work on: Run test version of Etherpad-based IMPS  https://github.com/eQualityTime/Public/issues/150 +EQT
+x 2022-02-17 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-02-17 Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+x 2022-02-17 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+x 2022-02-17 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-02-17 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-02-17 Work on: EQT's Dropbox should be easy for Trustees and public to find their way around https://github.com/eQualityTime/Public/issues/147 +EQT
+x 2022-02-17 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-02-17 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-02-17 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-02-17 Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+x 2022-02-17 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-02-17 map project:Continually improve and train on working practices and technology +EQT
+x 2022-02-17 map project:Read papers for CSRG +EQT
+x 2022-02-17 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-02-17 Open and log progress on the bid status document +EQT Time:04
+x 2022-02-17 Open list of projects to be funded +EQT
+x 2022-02-17 Search for funding for eQuality Time Projects +EQT
+x 2022-02-17 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-02-17 Do full accounts algorithm +EQT Time:99
+x 2022-02-17 20 Fix the Project real issue with tracking sessions. Check things like title and the like.  
+x 2022-02-18 (B Wednesday ) Read a chapter of 'Doing good better'
+x 2022-02-18 (B Tuesday) Write blog post about doE and send to the assessor. 
