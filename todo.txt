@@ -1,20 +1,18 @@
-(A) 20 Make a list of the happy memory christmas tree decorations 
-(C) Tell Kat you want 'dressed after light on' on Nova's reward chart. 
-(C) Set event for Leogo land openning. 
-(C) Make ice-cream
-(C) Brainstorm slow-eating: let's make some long-term good. 
-(C) event about children
-(C) Project to put up climbing holds
-(C) Write the 'why you should follow me on Twitter' 
-(C) Post dad book 
-(C) 04 Plan mother's day
-(E) Buy some more of those kitchen fridge trays 
-(A) Put child lock on car 
+x 2022-02-22 Put child lock on car 
+x 2022-02-22 04 Plan mother's day on the 27th March 
+(B) Post Dad's birthday present
 (C) 15 Read a Chapter of trama book +PersonalProjects
-(C) 20 Find out about these people https://docs.google.com/spreadsheets/d/1CD0_IlURaI9XJywN0O8KnfGnl11Jr7g7lfeFXn2UEpM/edit?usp=sharing 
 (C) 20 Make vegan keto waffles
 (C) 30 Do the last questions on the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) 30 Fix longue window
+(C) Brainstorm slow-eating: let's make some long-term good. 
+(C) Make ice-cream
+(C) Post dad book 
+(C) Project to put up climbing holds
+(C) Set event for Leogo land openning. 
+(C) Tell Kat you want 'dressed after light on' on Nova's reward chart. 
+(C) Write the 'why you should follow me on Twitter' 
+(C) event about children
 (D) 02 Copy and Paste Kat's year's list into the issue https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 06 Order deed of trust from doxdirect (again) 
 (D) 06 Rewrite so it's about weekend visitors: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
@@ -25,13 +23,15 @@
 (D) 15 Rewrite memory book sales issue on: https://github.com/joereddington/Projects-Private/issues/180 +PersonalProjects
 (D) 20 Read the richard staff handbook in dropbox 
 (D) 20 Write blog post for tiled calendar  https://github.com/joereddington/Projects-Private/issues/127 +PersonalProjects 
+(D) 30 Spray the rest of the mould in garage @garage
 (D) 40 Write up proper finance document for Kat - here are the accounts, here are the nubmers, here is where we want to be. 
+(E) 10 Go to garage, get extension, Take plug off extension and thread through your bookcase
 (E) 12 Put pictures in the holographic chocolate blog 
 (E) 20 Make the Jack Burgers again  https://cookingonabootstrap.com/2018/02/19/carrot-cumin-kidney-bean-burger-17p-was-9p-vg-v-df/ 
+(E) 20 Put a jumper on and go to process the @garage inbox. 
+(E) 20 Put goo into side buggy tyres (and inflate main one). @garage 
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 40 Review the videos that mum sent 
-(D) 30 Spray the rest of the mould in garage @garage
-(E) 10 Go to garage, get extension, Take plug off extension and thread through your bookcase
-(E) 20 Put a jumper on and go to process the @garage inbox. 
-(E) 20 Put goo into side buggy tyres (and inflate main one). @garage 
+(E) Buy some more of those kitchen fridge trays 
+x 2022-02-22 20 Write out the christmas tree decorations .

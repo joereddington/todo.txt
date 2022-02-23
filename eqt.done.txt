@@ -1697,3 +1697,7 @@ x 2022-02-17 Do full accounts algorithm +EQT Time:99
 x 2022-02-17 20 Fix the Project real issue with tracking sessions. Check things like title and the like.  
 x 2022-02-18 (B Wednesday ) Read a chapter of 'Doing good better'
 x 2022-02-18 (B Tuesday) Write blog post about doE and send to the assessor. 
+x 2022-02-21 20 Talk to Clare  about bid writer: https://github.com/eQualityTime/Home/issues/117 +EQT
+x 2022-02-21 Send Books to writers
+x 2022-02-21 10 Have a conversation with Kat about how much annual leave before Fridays https://github.com/eQualityTime/Home/issues/110 +EQT
+x 2022-02-21 Fix slug argument and make simple IMPS3 Video for Richard (have to do the slug as argument first) 
