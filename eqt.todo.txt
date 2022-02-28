@@ -1,24 +1,18 @@
-(B) 20 Restart the Unity application process - you have an email about it. 
-(B) Fix ebooks. 
-(B) Work out what topics you'd like on the adenda for next trustee meeting 
-(C) 06 Arrange Call with Yvonne: spreadsheet, big plans, https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) 10 Do expenses from Preston
-(C) 20 Find out about these people https://docs.google.com/spreadsheets/d/1CD0_IlURaI9XJywN0O8KnfGnl11Jr7g7lfeFXn2UEpM/edit?usp=sharing 
-(C) Map project - redo the eQuality Time website 
-(D) 10 Update all the morgan info files (link at github): https://github.com/eQualityTime/Home/issues/118 +EQT
-(D) 10 map project: new EQT website. 
-(D) 15 Find a new eQuality and Diversity Policy. 
-(D) 20 Read a chapter of Modern Grantmaking
-(D) 30 Review Google Ads https://github.com/eQualityTime/Public/issues/131 +EQT
-(E) 10 Map project to review slash reorgnaise dropbox and drive files. 
-(E) 20 Blog IMPS3
-(E) 20 Process the delores.todo list +EQT
-(E) 20 Update the OVF risk assessment https://github.com/eQualityTime/Public/issues/148 +EQT
-(E) 20 Write up Drawing version of TMC and send it to Richard https://github.com/eQualityTime/Public/issues/106 +EQT
-(E) 25 Create google add for 'creating a book' 
-(E) 30 Review 'ten year goals' github project and work out which projects are missing, unnecessary, or negated.
-(E) Do the OVF transfer as approved by clare and sarah
-(E) Fix the mouse-sniper (and, as a result, make sure that the github is sorted).  (oooh - print the shortcuts when you start it!) 
-(E) Investigate and apply https://beinghumanfestival.org/get-involved?utm_source=Being+Human&utm_campaign=34b843ed57-EMAIL_CAMPAIGN_2018_07_06_11_59_COPY_01&utm_medium=email&utm_term=0_77ac6d3afc-34b843ed57-516289237 
-(E) Run Google Optimise project on the second page of WWW 
-(E) Tinkerbell! Quarterly project - put all the projects in a 'wheel of life' slash ten year goals based project plan on github. See what is missing, what is unecessary, why are you doing all of this.  
+(A) Post form to mum. 
+(A) Read 'Doing Good Better' +EQT
+(B) Find new way to write issues 'NOT in *this* project https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Pick the server move dates for move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(B) Talk to kat about drawing dates https://github.com/eQualityTime/Public/issues/106 +EQT
+(B) Write up proposal for bid writers for Trustees: https://github.com/eQualityTime/Home/issues/117 +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Make spreadsheet for Yvonne (check Richards)  
+(C) Process the delores.todo list +EQT
+(C) Refactor IMPS3 locally https://github.com/eQualityTime/Public/issues/152 +EQT
+(C) Review Google Drive contents https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Talk to Yvonne explicitly about: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+(C) Write out formal annual leave policy for Kat  https://github.com/eQualityTime/Home/issues/110 +EQT
+(D) Copy the text from Kat into here and write up the steps on: https://github.com/eQualityTime/Home/issues/121 +EQT
+(D) Create a forwarding list for EQT newsletters  on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) Full Backup of Dreamhost before closing down: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(D) Work on: EQT's Dropbox should be easy for Trustees and public to find their way around https://github.com/eQualityTime/Public/issues/147 +EQT
+(D) Work through 'modern grant making' and see if there is anything for you. 

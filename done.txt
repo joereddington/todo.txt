@@ -6166,3 +6166,59 @@ x 2022-02-20 10 Map slash remap reorganise food project
 x 2022-02-20 10 map project:Watch the directors commentaries for all the marvel moves you have. +PersonalProjects
 x 2022-02-20 20 Write a letter to the kids about accusations of lying +Family Time:30 
 x 2022-02-20 10 Fix https://joereddington.com/rankingdis/
+x 2022-02-22 04 Plan mother's day on the 27th March 
+x 2022-02-22 20 Write out the christmas tree decorations .
+x 2022-02-22 Put child lock on car 
+x 2022-02-25 Any Chocolate should be in the car (assuming winter)  
+x 2022-02-25 Check Voicemail  +Overhead @nova  @phone  Time:02 
+x 2022-02-25 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
+x 2022-02-25 Confirm plans for next two weekends.+Overhead @phone  Time:06 
+x 2022-02-25 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
+x 2022-02-25 Cut Nova nails +Health @nova  Time:04 
+x 2022-02-25 Cut nails +Health @nova  Time:04 
+x 2022-02-25 Do Menu for the week +Family @nova @phone  Time:01 
+x 2022-02-25 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
+x 2022-02-25 Log weight +Health  Time:02 
+x 2022-02-25 Trim nose hair +Health @nova  Time:05 
+x 2022-02-25 Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
+x 2022-02-25 Update the youtube watch list +Family Time:10 @phone @nova
+x 2022-02-25 Vitamin Tablet +Health @nova  Time:02
+x 2022-02-25 change razor blade Time:03 
+x 2022-02-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2022-02-25 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+x 2022-02-25 1. Process Email @singleton +Overhead @phone  Time:90
+x 2022-02-25 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2022-02-25 Make a note of the gas reading
+x 2022-02-25 Post dad book 
+x 2022-02-25 Review and rescore  Wheel Of life
+x 2022-02-25 Review the feedbacks from Kat and follow up
+x 2022-02-25 Set event for Leogo land openning. 
+x 2022-02-25 Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+x 2022-02-25 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+x 2022-02-25 Write the 'why you should follow me on Twitter' 
+x 2022-02-25 event about children
+x 2022-02-25 map project:Watch the directors commentaries for all the marvel moves you have. +PersonalProjects
+x 2022-02-25 10 Add the ice cream and cake photo to the post about pralines
+x 2022-02-26 20 Put goo into side buggy tyres (and inflate main one). @garage 
+x 2022-02-26 20 Put a jumper on and go to process the @garage inbox. 
+x 2022-02-26 10 Go to garage, get extension, Take plug off extension and thread through your bookcase
+x 2022-02-26 30 Spray the rest of the mould in garage @garage
+x 2022-02-26 Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
+x 2022-02-26 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+x 2022-02-26 Read a chapter of :Real Trama processing book +PersonalProjects
+x 2022-02-26 Go through phone and save all of the numbers +Overhead @nova @phone  Time:08 
+x 2022-02-26 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
+x 2022-02-26 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
+x 2022-02-26 map project:Get up to date with all expenses.  +PersonalProjects
+x 2022-02-26 map project:Have sensibel rules about spending an income. Set up a savings goal with Kat +PersonalProjects
+x 2022-02-26 12 Put pictures in the holographic chocolate blog 
+x 2022-02-26 Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+x 2022-02-26 Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+x 2022-02-26 Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
+x 2022-02-26 Work on: https://github.com/joereddington/Projects-Private/issues/189 +PersonalProjects
+x 2022-02-27 Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+x 2022-02-27 Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2022-02-27 Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+x 2022-02-27 map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+x 2022-02-27 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2022-02-27 Post to Sibling Facebook group about weekends @nova @phone  Time:06 
