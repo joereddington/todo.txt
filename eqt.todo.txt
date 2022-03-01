@@ -1,18 +1,2 @@
-(A) Post form to mum. 
-(A) Read 'Doing Good Better' +EQT
-(B) Find new way to write issues 'NOT in *this* project https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Pick the server move dates for move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Talk to kat about drawing dates https://github.com/eQualityTime/Public/issues/106 +EQT
-(B) Write up proposal for bid writers for Trustees: https://github.com/eQualityTime/Home/issues/117 +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Make spreadsheet for Yvonne (check Richards)  
-(C) Process the delores.todo list +EQT
-(C) Refactor IMPS3 locally https://github.com/eQualityTime/Public/issues/152 +EQT
-(C) Review Google Drive contents https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Talk to Yvonne explicitly about: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Write out formal annual leave policy for Kat  https://github.com/eQualityTime/Home/issues/110 +EQT
-(D) Copy the text from Kat into here and write up the steps on: https://github.com/eQualityTime/Home/issues/121 +EQT
-(D) Create a forwarding list for EQT newsletters  on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) Full Backup of Dreamhost before closing down: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(D) Work on: EQT's Dropbox should be easy for Trustees and public to find their way around https://github.com/eQualityTime/Public/issues/147 +EQT
-(D) Work through 'modern grant making' and see if there is anything for you. 
+(D) 30 Work through 'modern grant making' and see if there is anything for you. 
+(E) 20 Write your review of 'Doing Good Better' +EQT
