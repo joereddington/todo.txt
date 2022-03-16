@@ -1781,3 +1781,6 @@ x 2022-03-01 30 Process the delores.todo list +EQT
 x 2022-03-01 50 Review Google Drive contents https://github.com/eQualityTime/Home/issues/120 +EQT @private
 x 2022-03-01 30 Work through 'modern grant making' and see if there is anything for you. 
 x 2022-03-01 20 Write your review of 'Doing Good Better' +EQT
+x 2022-03-14 map project:Read 'Modern Grantmaking'  +EQT
+x 2022-03-14 Open and log progress on the bid status document +EQT Time:04
+x 2022-03-14 Open list of projects to be funded +EQT
