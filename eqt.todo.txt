@@ -1,12 +1,14 @@
-(A) Contact the grant-writer and give them the go-ahead. 
+x 2022-03-16 Contact the grant-writer and give them the go-ahead. 
+(A) Do the OVF correction in Quickbooks. 
 (A) Create report for 'can we pay for Joe' (do the OVF correction first) 
-(A) Do your actions from meetings 
+(A) 05 get all your actions from meeting minutes
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) map project:Guru Nanak June  +EQT
 (A) map project:Read 'Doing Good Better' +EQT
 (B)  Sort out Sarah's second name
+(C) Set up a VA task to find a bunch of prison education suppliers. 
 (B) Chase merchant tailers and other schools you sent books to.  
 (B) Check that these meeting actions are the right ones
 (B) Jobs post looking for a VA
@@ -58,4 +60,5 @@
 (E) Social media with Make Happen 
 (E) Work out backing track for going live
 (E) Write down the things that Nova is paid for on her money box
-(E) find and mark the correct cable for putting files on kindle. 
+x 2022-03-16 find and mark the correct cable for putting files on kindle. 
+(E) find out how to open multiple buffers in vim .
