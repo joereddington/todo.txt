@@ -1784,3 +1784,61 @@ x 2022-03-01 20 Write your review of 'Doing Good Better' +EQT
 x 2022-03-14 map project:Read 'Modern Grantmaking'  +EQT
 x 2022-03-14 Open and log progress on the bid status document +EQT Time:04
 x 2022-03-14 Open list of projects to be funded +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-03-17 Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-03-17 Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-03-17 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-03-17 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-03-16 Contact the grant-writer and give them the go-ahead. 
+x 2022-03-16 find and mark the correct cable for putting files on kindle. 
+x 2022-03-17 * Email universities about collaborative writing seminars. 
+x 2022-03-17 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-03-17 Chase merchant tailers and other schools you sent books to.  
+x 2022-03-17 Check that everything in the 'in process' box really does have a task+Overhead @nova  +EQT
+x 2022-03-17 Check that these meeting actions are the right ones
+x 2022-03-17 Check the next school time +EQT Time:03 
+x 2022-03-17 Check your spam for service level agreements 
+x 2022-03-17 Create report for 'can we pay for Joe' (do the OVF correction first) 
+x 2022-03-17 Do the OVF correction in Quickbooks. 
+x 2022-03-17 Download the amazon months sales figures +EQT
+x 2022-03-17 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2022-03-17 Jobs post looking for a VA
+x 2022-03-17 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-03-17 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-03-17 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2022-03-17 Search for funding for eQuality Time Projects +EQT
+x 2022-03-17 Send Trustees something nice about outcomes +EQT
+x 2022-03-17 Work out backing track for going live
+x 2022-03-17 find out how to open multiple buffers in vim .
+x 2022-03-17 map project:Continually improve and train on working practices and technology +EQT
+x 2022-03-17 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-03-17 map project:Read papers for CSRG +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+x 2022-03-17 Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+x 2022-03-17 Take  project:Read 'Doing Good Better'out of github 
+x 2022-03-17 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-03-17 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-03-17 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-03-17 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-03-17 map project:Guru Nanak June  +EQT
+x 2022-03-17 map project:Process the delores.todo list +EQT
+x 2022-03-17 Social media with Make Happen 
+x 2022-03-17 02 Badger YS about Bank Signitures  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+x 2022-03-17 02 Badger employee about timesheet
+x 2022-03-17 02 Event to  Sort out Sarah's second name on Bank and companies house and charity commision  
+x 2022-03-17 02 follow up email for: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-03-17 04 Badger about accounts Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-03-17 20 Put swearing detection into IMPS2 
+x 2022-03-17 05 Co-ordinate visit with RS for drawing https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-03-17 05 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-03-17 20 Review Google Ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-03-17 05 get all your actions from meeting minutes
+x 2022-03-17 10  Map project to email universities about collaborative writing seminars. 
+x 2022-03-17 20 Set up a VA Task to enumerate prison education suppliers  from https://www.whatdotheyknow.com/request/603990/response/1446718/attach/7/Appendix%20A%20Contracts%20Awarded%20on%20PEDPS%20090919.pdf?cookie_passthrough=1 
+x 2022-03-17 03 Next newsletter should include prison work 
+x 2022-03-17 20 Backup Dreamhost +EQT

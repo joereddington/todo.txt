@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+(E) Write down the things that Nova is paid for on her money box
 (A) map project:Real Trama processing book +PersonalProjects
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
