@@ -1842,3 +1842,40 @@ x 2022-03-17 10  Map project to email universities about collaborative writing s
 x 2022-03-17 20 Set up a VA Task to enumerate prison education suppliers  from https://www.whatdotheyknow.com/request/603990/response/1446718/attach/7/Appendix%20A%20Contracts%20Awarded%20on%20PEDPS%20090919.pdf?cookie_passthrough=1 
 x 2022-03-17 03 Next newsletter should include prison work 
 x 2022-03-17 20 Backup Dreamhost +EQT
+x 2022-03-17 25 Send Proper 'state of play' email to Prison https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-03-17 10 Write new blog for OVF downtime https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-03-17 15 Process the git folder 
+x 2022-03-24 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-03-24 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-03-24 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-03-24 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2022-03-24 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-03-24 map project:All Employees should have uploaded all changed git code +EQT
+x 2022-03-24 map project:Continually improve and train on working practices and technology +EQT
+x 2022-03-24 map project:Read 'Modern Grantmaking'  +EQT
+x 2022-03-24 map project:Read papers for CSRG +EQT
+x 2022-03-24 Check that everything in the 'in process' box really does have a task+Overhead @nova  +EQT
+x 2022-03-24 Check the next school time +EQT Time:03 
+x 2022-03-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-03-24 Open and log progress on the bid status document +EQT Time:04
+x 2022-03-24 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-03-24 Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-03-24 Do full accounts algorithm +EQT Time:99
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+x 2022-03-24 Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
+x 2022-03-24 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-03-24 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-03-24 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-03-24 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-03-24 Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+x 2022-03-24 Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+x 2022-03-24 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-03-24 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-03-24 See if you got a response from the runneymead trust https://github.com/eQualityTime/Public/issues/57 +EQT
