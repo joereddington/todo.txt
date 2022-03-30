@@ -1879,3 +1879,15 @@ x 2022-03-24 Work on: Mass re-upload of books. https://github.com/eQualityTime/P
 x 2022-03-24 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 x 2022-03-24 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 x 2022-03-24 See if you got a response from the runneymead trust https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-03-28 Confirm alex park times with Eleanor 
+x 2022-03-28 Get in Contact with: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-03-28 Reply to Kate about WWW camps 
+x 2022-03-28 Write a job advert for the June work. 
+x 2022-03-28 map project:Guru Nanak June  +EQT
+x 2022-03-28 Look up what the decision on sick pay actually was 
+x 2022-03-28 Set meeting with Richard Seymour again. 
+x 2022-03-28 map project:Process the delores.todo list +EQT
+x 2022-03-28 Put the domesday dataset in the right place 
+x 2022-03-28 Produce justification for pay rise 
+x 2022-03-28 14 Properly write an issue for VA about updating Morgan books  on: https://github.com/eQualityTime/Home/issues/118 +EQT
+x 2022-03-28 25 Record one book re-upload for VA 
