@@ -1,10 +1,8 @@
-(B) Message Lyle about if they knows anyone
-(B) Review the OVF move issue  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Write the EQT newsletter
-(C) Setup Cahrlottes camp again. 
-(C) 30 Write up 10000 missing children research for trustees
-(C) 40 Spend Some time working thought Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Confirm Scotland camp with Dan   https://github.com/eQualityTime/Public/issues/108 +EQT
-(E) Map the 'workshop on collaborative writing' porject
-(C) Deal with this https://www.civilsociety.co.uk/news/commission-flexibility-that-lets-all-charities-to-hold-remote-meetings-to-end-next-month.html 
-(E) Renew eQuality time insurance. 
+(B) Migrate the designs from dreamhost to AWS. @private
+(B) Review the contact for Proactis  @private
+(C) 20 Write python code for reviewing mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT @private
+(C) 30 Spend 30 minutes working through the Google drive files  https://github.com/eQualityTime/Home/issues/120 +EQT @private
+(D) 20 Get a test printing of the MAT letter on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
+(D) 25 Write Press release for Richard's 100th camp://github.com/eQualityTime/Home/issues/116 +EQT @private
+(E) Find the public github account and sort password @private 
+(E) Work out scheduling on Facebook  @private 

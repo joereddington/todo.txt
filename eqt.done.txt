@@ -1891,3 +1891,60 @@ x 2022-03-28 Put the domesday dataset in the right place
 x 2022-03-28 Produce justification for pay rise 
 x 2022-03-28 14 Properly write an issue for VA about updating Morgan books  on: https://github.com/eQualityTime/Home/issues/118 +EQT
 x 2022-03-28 25 Record one book re-upload for VA 
+x 2022-03-30 Confirm Scotland camp with Dan   https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-03-30 Message Lyle about if they knows anyone
+x 2022-03-30 Write the EQT newsletter
+x 2022-03-31 Deal with this https://www.civilsociety.co.uk/news/commission-flexibility-that-lets-all-charities-to-hold-remote-meetings-to-end-next-month.html 
+x 2022-03-31 Renew eQuality time insurance. 
+x 2022-03-31 30 Write up 10000 missing children research for trustees
+x 2022-03-31 40 Spend Some time working thought Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
+x 2022-03-31 Map the 'workshop on collaborative writing' porject
+x 2022-03-31 Review the OVF move issue  https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-03-31 Setup charlottees camp issue again. 
+x 2022-03-31 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-03-31 map project:Continually improve and train on working practices and technology +EQT
+x 2022-03-31 map project:Read 'Modern Grantmaking'  +EQT
+x 2022-03-31 map project:Read papers for CSRG +EQT
+x 2022-03-31 Check that everything in the 'in process' box really does have a task+Overhead @nova  +EQT
+x 2022-03-31 Check the next school time +EQT Time:03 
+x 2022-03-31 Download the amazon months sales figures +EQT
+x 2022-03-31 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2022-03-31 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-03-31 Open and log progress on the bid status document +EQT Time:04
+x 2022-03-31 Open list of projects to be funded +EQT
+x 2022-03-31 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2022-03-31 Search for funding for eQuality Time Projects +EQT
+x 2022-03-31 Send Trustees something nice about outcomes +EQT
+x 2022-03-31 Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
+x 2022-03-31 Work on: https://github.com/eQualityTime/Home/issues/118 +EQT
+x 2022-03-31 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-03-31 Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+x 2022-03-31 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-03-31 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-03-31 Do full accounts algorithm +EQT Time:99
+x 2022-03-31 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-03-31 Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+x 2022-03-31 Work on: Improve mobi export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-03-31 Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-03-31 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-03-31 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-03-31 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+x 2022-03-31 Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+x 2022-03-31 Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+x 2022-03-31 Check date for filing accounts https://github.com/eQualityTime/Public/issues/141 +EQT 
+x 2022-03-31 Map NW recruitment plan - emailing the Liverpool and Manchester Criminology departments 
+x 2022-03-31 05 Tell linkedin contact we updated our website.
+x 2022-03-31 Backup Dreamhost +EQT
+x 2022-03-31 25 Review Google Ads:  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-03-31 120 Spend a Day coding the 'next issue' features on IMPS 3 https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-04-04 10 Plan for recruitment of  Winter 2021 Prison Camps https://github.com/eQualityTime/Public/issues/134 +EQT 
+x 2022-04-04 Create live account for streaming. 
+x 2022-04-04 05 Email the uni of Manchester person on the chocolate wrapper  @public: draft the email and blog 
+x 2022-04-04 08 Buy the stationary for  test of Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT @public 
+x 2022-04-04 10 Check what Kat said was the next action for Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+x 2022-04-04 20 Migrate novareddington.com to AWS as a test for OVF  https://github.com/eQualityTime/Public/issues/157 +EQT
+x 2022-04-04 move the keele trip at the end of april because it clashes with Kat
+x 2022-04-04 20 Generate all epubs for https://github.com/eQualityTime/Public/issues/151 
+x 2022-04-04 20 Go through all the git repos and tidy 
+x 2022-04-04 10 Process the delores.todo list +EQT
+x 2022-04-04 Write a blog about the Communicate thing 
