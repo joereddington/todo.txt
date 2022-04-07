@@ -1,8 +1,7 @@
-(B) Migrate the designs from dreamhost to AWS. @private
-(B) Review the contact for Proactis  @private
+(A) 30 Make changes to the accounts.  @private
+(A) 20 Work out what was going on with that strange payment 
+(B) 44 upload the designs from dreamhost to AWS. @private
 (C) 20 Write python code for reviewing mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT @private
 (C) 30 Spend 30 minutes working through the Google drive files  https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (D) 20 Get a test printing of the MAT letter on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
 (D) 25 Write Press release for Richard's 100th camp://github.com/eQualityTime/Home/issues/116 +EQT @private
-(E) Find the public github account and sort password @private 
-(E) Work out scheduling on Facebook  @private 

@@ -1948,3 +1948,14 @@ x 2022-04-04 20 Generate all epubs for https://github.com/eQualityTime/Public/is
 x 2022-04-04 20 Go through all the git repos and tidy 
 x 2022-04-04 10 Process the delores.todo list +EQT
 x 2022-04-04 Write a blog about the Communicate thing 
+x 2022-04-04 Find the public github account and sort password @private 
+x 2022-04-04 Work out scheduling on Facebook  @private 
+x 2022-04-05 Brainstorm a better way of matching up books/titles/and covers with IMPS3 
+x 2022-04-05 Send the TEDx emails 
+x 2022-04-06 Fix the IMPS3 errors https://github.com/eQualityTime/Public/issues/152  @public 
+x 2022-04-06 Review the Prison sheets 
+x 2022-04-06 Review the contact for Proactis  @private
+x 2022-04-06 Create VA issue to update the book covers (and find a better way of doing it) 
+x 2022-04-06 Email the artists that they now need to upload their files to dropbox.  @private.
+x 2022-04-06 Put a code in the mail merge python for reviewing emails  @private
+x 2022-04-06 Badger Lyle 
