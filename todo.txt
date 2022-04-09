@@ -2,7 +2,6 @@
 (E) Rewrite public internet thing 
 (E) 05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) 10 Post some of Nova's art to Mum 
-(D) 05 Measure current Office Sofa on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (C) 05 tell kat about marathons and start Sunday long runs 
 (D) 06 Order deed of trust from doxdirect (again) 
 (C) 10 Birthday things for Pete and Esther and Jenna 

@@ -6425,3 +6425,4 @@ x 2022-04-03 15 Rewrite memory book sales issue on: https://github.com/joereddin
 x 2022-04-03 30 Do the last questions on the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 x 2022-04-03 20 Write Moonpig cards for this month +Overhead
 x 2022-04-03 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2022-04-07 05 Measure current Office Sofa on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
