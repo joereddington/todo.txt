@@ -1,25 +1,24 @@
-(D) 03 Buy Kat flowers
-(E) Rewrite public internet thing 
-(E) 05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) 10 Post some of Nova's art to Mum 
+(A) All the plan shopping for easter weekend 
 (C) 05 tell kat about marathons and start Sunday long runs 
+(C) Vegan easter eggs for God kids
+(C) 30 Fix longue window
+(D) 03 Buy Kat flowers
 (D) 06 Order deed of trust from doxdirect (again) 
-(C) 10 Birthday things for Pete and Esther and Jenna 
 (D) 10 Brainstorm Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) 10 Brainstorm SMART positivity goals on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects @paper
 (D) 10 Brainstorm on properly evaluating and reviewing history: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) 10 Find out why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
 (D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
+(D) 20 Read the Richard staff handbook in Dropbox 
+(E) 05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) 10 Post some of Nova's art to Mum 
 (E) 10 brainstorm on comics. 
 (E) 10 masking tape the shape of the washing machines on the landing. 
 (E) 10 process Garage inbox. 
-(A) 15 Read a chapter of Trauma book 
 (E) 20 Create ranking script subdomain on Dreamhost 
-(D) 20 Read the Richard staff handbook in Dropbox 
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 process Garage inbox. 
-(C) 30 Fix longue window
 (E) 40 Return the bike stand to bike shop. 
-(C) 60 Have an hour with Iron Man 3: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (E) 60 Listen to Randy Pausch Talk +Overhead @phone 
+(E) Rewrite public internet thing 
