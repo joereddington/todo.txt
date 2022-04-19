@@ -1,17 +1,74 @@
+x 2022-04-19 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) 20 Work out what was going on with that strange payment 
 (A) 30 Make changes to the accounts.  @private
+(A) Do YVonnes funding bid for 6th May 
+(A) Prep for Interview 
+(A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (B) 44 upload the designs from dreamhost to AWS. @private
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
+(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/118 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 20 Write python code for reviewing mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT @private
 (C) 30 Spend 30 minutes working through the Google drive files  https://github.com/eQualityTime/Home/issues/120 +EQT @private
+(C) Backup the AWS serevers. 
+(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+(C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+(C) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+(C) map project:Process the delores.todo list +EQT
 (D) 20 Get a test printing of the MAT letter on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
 (D) 25 Write Press release for Richard's 100th camp://github.com/eQualityTime/Home/issues/116 +EQT @private
+(D) Do full accounts algorithm +EQT Time:99
+(D) Do the tedx emails. 
+(D) Draft Facebook Gratitude Post 
+(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+(D) Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
+(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) map project:All Employees should have uploaded all changed git code +EQT
+(D) map project:Continually improve and train on working practices and technology +EQT
+(D) map project:Read papers for CSRG +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead @nova  +EQT
+(E) Check the next school time +EQT Time:03 
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+(E) Open and log progress on the bid status document +EQT Time:04
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT @nova @phone  Time:10 
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Write and publish SEVEN (seven) [7] social media posts as... 
+(E) Write todo.txt blog post. 
 * Talk to Bex about prison. 
 Add to delores 
 Ask Kat for any pooky feedback. 
 Buy vegan easter eggs to Connor and Ammy and Evan and nina 
+Do the tedx emails 
 Follow up on Ofstead Prison Comments 
 List of things that should be in desk drawwers 
 Pay in 610 cheque (put in envelope and freepost)
+Print and send the rent increse letter
+Process voicemail from funder 
+Read https://catapult.co/dont-write-alone/stories/kiley-bense-class-participation-speak-up-mfa-student-teacher-unconscious-bias 
 Reply to the linkedin guy 
 Root around in kitchen and work out weekly meal plan for ... 
 Send terms of reference and invoice to Alex Park 
