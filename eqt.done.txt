@@ -1959,3 +1959,55 @@ x 2022-04-06 Create VA issue to update the book covers (and find a better way of
 x 2022-04-06 Email the artists that they now need to upload their files to dropbox.  @private.
 x 2022-04-06 Put a code in the mail merge python for reviewing emails  @private
 x 2022-04-06 Badger Lyle 
+x 2022-04-19 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-04-19 20 Work out what was going on with that strange payment 
+x 2022-04-19 (A Sarah, external examinater, tax office.) 30 Make changes to the accounts.  @private
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+x 2022-04-20 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-04-20 Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-04-20 Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+x 2022-04-20 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-04-20 Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-04-20 Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+x 2022-04-20 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-04-20 Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/118 +EQT
+x 2022-04-20 Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+x 2022-04-20 Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-04-20 Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+x 2022-04-20 Prep for Interview 
+x 2022-04-20 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-04-20 Buy vegan easter eggs to Connor and Ammy and Evan and nina 
+x 2022-04-20 Open and log progress on the bid status document +EQT Time:04
+x 2022-04-20 Unpack, test, and pack drawing stuff. 
+x 2022-04-20 map project:Continually improve and train on working practices and technology +EQT
+x 2022-04-20 map project:Read papers for CSRG +EQT
+x 2022-04-20 Check the next school time +EQT Time:03 
+x 2022-04-20 Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
+x 2022-04-20 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2022-04-20 Change Sarah's Name on Companies hosue and chairties commision 
+x 2022-04-20 Post to WWW facebook page +EQT @nova @phone  Time:10 
+x 2022-04-20 Read https://catapult.co/dont-write-alone/stories/kiley-bense-class-participation-speak-up-mfa-student-teacher-unconscious-bias 
+x 2022-04-20 Do full accounts algorithm +EQT Time:99
+x 2022-04-20 map project:Have a set date all employees need to bring expenses up to date by. +EQT
+x 2022-04-20 * Talk to Bex about prison. 
+x 2022-04-20 Check the camps calednar 
+x 2022-04-20 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-04-20 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+x 2022-04-20 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+x 2022-04-20 Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
+x 2022-04-20 10 that everything in the 'in process' box really does have a task+Overhead @nova  +EQT
+x 2022-04-20 Open list of projects to be funded +EQT
+x 2022-04-20 Pay in 610 cheque (put in envelope and freepost)
+x 2022-04-20 Search for funding for eQuality Time Projects +EQT
+x 2022-04-20 Root around in kitchen and work out weekly meal plan 
+x 2022-04-20 10 Process the delores.todo list +EQT
+x 2022-04-20 20 Write python code for reviewing mail merge  on: https://github.com/eQualityTime/Home/issues/115 +EQT @private
+x 2022-04-20 20 Review and improve Google Ads. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2022-04-20 10 Email Prison Sarah about call. 
+x 2022-04-20 10 Write and  Send Iyun notes 
+x 2022-04-20 10 Backup the AWS serevers. 
+x 2022-04-20 03 Reply to the linkedin funder 

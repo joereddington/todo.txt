@@ -1,56 +1,16 @@
 (A) 14 Review Char email and work out terms of reference. on: https://github.com/eQualityTime/Home/issues/112 +EQT
 (A) 20 Do last changes to accounts and prep for signature. Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-* Search email for old report and copy paste 
-
 (A) 40 Do Yvonnes funding bid for 6th May 
-* Open the thing in Word. 
-
 (B) 10 Write super big thank you card for Andy from Goose 
-* Get the card out of the drawer. 
 (B) 30 upload the designs from dreamhost to AWS. @private
-* Compress the file, 
-* Upload the file. 
-* Wow - it's 16gb 
-* Probably going to need to expand the OVF server 
-
 (C) 20 Generate all the mobi files for past books https://github.com/eQualityTime/Public/issues/151 +EQT
-* Ssh in and run the code. 
-  * I've used screen so that I can log back in. 
-  * Keeps finding old info files. 
 (C) 25 Write and publish SEVEN (seven) [7] social media posts as...  * Lots of these can be blogs. 
-* What's happened? 
-  * Work through my blog. 
-  * The todo list one  will be one of them 
-  * Interviewing and setting up all the spredsheets.  
-  * Starting to feel like I need a spreadsheet. 
-
 (C) 30 Spend 30 minutes working through the Google drive files  https://github.com/eQualityTime/Home/issues/120 +EQT @private
-* Just got to open it and do it man 
-
-
 (D) 20 Draft Facebook Gratitude Post 
-* Brainstorm - what's the vunerabilty you are trying to get accross. What is the purpose? What is the truth.  
-
 (D) 20 Get a test printing of the MAT letter on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
-* Check if this is latex
-* Get the pdf if so. 
-* Add in the other printing you have to do. 
-
-
 (D) 25 Write Press release for Richard's 100th camp://github.com/eQualityTime/Home/issues/116 +EQT @private
-* Messaging to find out when it is. 
-* Get a trophy 
-* Create Google doc. 
-
+(D) 30 Tidy up watson code
 (D) 30 Write pitch email for TEDx 
-(D) 30 Tidy up git directory 
-* Feels like an 'end of the day' thing. 
 (E) 03 Process voicemail from funding person. 
-(E) 03 Reply to the linkedin funder 
-* We are looking for a new person 
 (E) 05 Post cheque
-* Nice walk. 
-(E) 10 Make a list of things that should be in desk drawers
-* 
 (E) 30 Rewrite this post: https://joereddington.github.io/2016/08/26/my-to-do-list-is-now-public-and-its-the-most-useful-thing-ive-done-in-years/html 
-
