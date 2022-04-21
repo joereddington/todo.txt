@@ -1,16 +1,1 @@
-(A) 14 Review Char email and work out terms of reference. on: https://github.com/eQualityTime/Home/issues/112 +EQT
-(A) 20 Do last changes to accounts and prep for signature. Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-(A) 40 Do Yvonnes funding bid for 6th May 
-(B) 10 Write super big thank you card for Andy from Goose 
-(B) 30 upload the designs from dreamhost to AWS. @private
-(C) 20 Generate all the mobi files for past books https://github.com/eQualityTime/Public/issues/151 +EQT
-(C) 25 Write and publish SEVEN (seven) [7] social media posts as...  * Lots of these can be blogs. 
-(C) 30 Spend 30 minutes working through the Google drive files  https://github.com/eQualityTime/Home/issues/120 +EQT @private
-(D) 20 Draft Facebook Gratitude Post 
-(D) 20 Get a test printing of the MAT letter on: https://github.com/eQualityTime/Home/issues/114 +EQT @private
-(D) 25 Write Press release for Richard's 100th camp://github.com/eQualityTime/Home/issues/116 +EQT @private
-(D) 30 Tidy up watson code
-(D) 30 Write pitch email for TEDx 
-(E) 03 Process voicemail from funding person. 
-(E) 05 Post cheque
-(E) 30 Rewrite this post: https://joereddington.github.io/2016/08/26/my-to-do-list-is-now-public-and-its-the-most-useful-thing-ive-done-in-years/html 
+x 2022-04-21 30 Spend 30 minutes tidying up your Google Drive https://github.com/eQualityTime/Home/issues/120 +EQT @private
