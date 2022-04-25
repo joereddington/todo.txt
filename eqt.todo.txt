@@ -1,8 +1,7 @@
-(B) Ask Kat what the next step on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+(B) Draft an email for  for Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Get slash pack food for tomorrow. 
-(C) Send the TEDx emails 
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Follow up with Sarah based on new accounts
 (D) Find a different T-shirt place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Sort out the watson code: We need one branch that does everything. 
+(D) Tidy up the watson code: We need one branch that does everything. 
