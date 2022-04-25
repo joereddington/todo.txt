@@ -1,10 +1,6 @@
-x 2022-04-25 Use Duct tape to fix the issue with the car 
-x 2022-04-25 Find your old notes on submitting accounts 
-x 2022-04-25 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
-(B) 30 Find out why novareddington.com is offline. 
 (B) Ask Kat what the next step on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Get slash pack food for tomorrow. 
-(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
+(C) Send the TEDx emails 
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
@@ -15,5 +11,4 @@ x 2022-04-25 Work on: Char camps https://github.com/eQualityTime/Public/issues/1
 (D) Sort out the watson code: We need one branch that does everything. 
 (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
 (E) Setup canned responses in gmail 
-(E) Setup deplpy todo.sh with a cron. 
 (E) Share camp list with Kat
