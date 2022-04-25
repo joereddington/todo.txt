@@ -3,12 +3,9 @@
 (C) Send the TEDx emails 
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(D) Do full accounts algorithm +EQT Time:99
+(C) Follow up with Sarah based on new accounts
 (D) Find a different T-shirt place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Sort out the watson code: We need one branch that does everything. 
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+x 2022-04-25 Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
 (E) Setup canned responses in gmail 
 (E) Share camp list with Kat
