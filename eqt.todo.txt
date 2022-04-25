@@ -6,6 +6,3 @@
 (C) Follow up with Sarah based on new accounts
 (D) Find a different T-shirt place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Sort out the watson code: We need one branch that does everything. 
-x 2022-04-25 Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(E) Setup canned responses in gmail 
-(E) Share camp list with Kat
