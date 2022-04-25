@@ -1,7 +1,6 @@
-(A) Arrange with one or more trustees to sign accounts
-(A) Duct tape for the car 
-(A) Find your old notes on submitting accounts 
-(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+x 2022-04-25 Use Duct tape to fix the issue with the car 
+x 2022-04-25 Find your old notes on submitting accounts 
+x 2022-04-25 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (B) 30 scp the OVF generated aids to the Amazon account 
 (B) Ask Kat what the next step on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Get slash pack food for tomorrow. 
