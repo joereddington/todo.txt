@@ -1,1 +1,20 @@
-x 2022-04-21 30 Spend 30 minutes tidying up your Google Drive https://github.com/eQualityTime/Home/issues/120 +EQT @private
+(A) Arrange with one or more trustees to sign accounts
+(A) Duct tape for the car 
+(A) Find your old notes on submitting accounts 
+(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+(B) 30 scp the OVF generated aids to the Amazon account 
+(B) Ask Kat what the next step on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+(B) Get slash pack food for tomorrow. 
+(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
+(C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
+(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+(C) map project:Process the delores.todo list +EQT
+(D) Do full accounts algorithm +EQT Time:99
+(D) Find a different T-shirt place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Sort out the watson code: We need one branch that does everything. 
+(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+(E) Setup canned responses in gmail 
+(E) Setup deplpy todo.sh with a cron. 
+(E) Share camp list with Kat
