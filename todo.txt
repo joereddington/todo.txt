@@ -2,8 +2,10 @@
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) Get Trophy from Kat's Wicker box for claire
 (B) Fix router for doorbell 
+(B) Check Buzz lightyear report for Leo birthday 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Tell KAt marthon date and book your place. 
+(C) Pick date for Leo birhtday 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 10 Get screwdrivers, drill, and window parts and put in a box for changing lounge window
