@@ -4,3 +4,5 @@
 (C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Follow up with Sarah based on new accounts
 (D) Find a different T-shirt slash mug other  place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) File expenses from Keele trip  (including milage) 
+(E) Fix word count bug on IMPS3
