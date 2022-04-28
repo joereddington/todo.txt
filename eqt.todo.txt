@@ -6,3 +6,4 @@
 (D) Find a different T-shirt slash mug other  place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) File expenses from Keele trip  (including milage) 
 (E) Fix word count bug on IMPS3
+(E) Add tracking code to imps - NOT GA, write something that prints the url that is being used. 
