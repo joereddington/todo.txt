@@ -1,11 +1,10 @@
 (B) Draft an email for  for Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-x 2022-04-28 Get slash pack food for tomorrow. 
+(C) Follow up with Sarah based on new accounts
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Follow up with Sarah based on new accounts
-(D) Find a different T-shirt slash mug other  place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) File expenses from Keele trip  (including milage) 
-(E) Fix word count bug on IMPS3
+(D) Find a different T-shirt slash mug other  place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (E) Add tracking code to imps - NOT GA, write something that prints the url that is being used. 
+(E) Fix word count bug on IMPS3
 (E) IMPS - students choose their names or 'timelord' - the names aren't shortcuts at the top. 
 (E) Rewrite the drawing google-drive document 
