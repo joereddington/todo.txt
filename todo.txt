@@ -1,23 +1,20 @@
-(A) map project:Read Trauma processing book +PersonalProjects
-(A) Work out were you are staying for Nellies birthday 
+(A) Put Nellies birthday party in calendar and work out where you are staying 
+(A) Read another chapter of trama book. 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
-(C) fix the bedroom curtain 
-(C) Buy a new bedroom blind 
-(A) Get Trophy from Kat's Wicker box for claire
-(B) Fix router for doorbell 
 (B) Check Buzz lightyear report for Leo birthday 
-(A) School run projects 
+(B) Fix router for doorbell 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Tell KAt marthon date and book your place. 
-(C) Pick date for Leo birhtday 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 10 Get screwdrivers, drill, and window parts and put in a box for changing lounge window
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(C) Buy a new bedroom blind 
 (C) Check you have incredients for three levels of keto - salad - scrabmled tofu
-(C) Make a note of the gas reading
+x 2022-04-29 Make a note of the gas reading
 (C) Organise the fridge completely. 
+(C) Pick date for Leo birhtday 
 (C) Quit some projects (and blog it)  
 (C) Review and rescore  Wheel Of life
 (C) Review the feedbacks from Kat and follow up
@@ -26,7 +23,8 @@
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(D Kat) Check doorbell batteries
+(C) fix the bedroom curtain 
+x 2022-04-29 (D Kat) Check doorbell batteries
 (D) 10 Brainstorm on comics  Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) 10 Find out why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
 (D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
@@ -34,7 +32,7 @@
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Buy Kat flowers
 (D) Check starred messages in kat whatsapp 
-(D) Get Kat's break and fluffy pancake recipies.
+x 2022-04-29 Get Kat's break and fluffy pancake recipies.
 (D) Put up Magnetic organiser in kitchen slash hall.  
 (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
@@ -68,12 +66,9 @@
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut Nova nails +Health @nova  Time:04 
-(E) Cut nails +Health @nova  Time:04 
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
-(E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Find combination to lock so you can Wash Go bag 
 (E) Floss +Health @nova  Time:05
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
@@ -96,10 +91,7 @@
 (E) Talk about fabric sensitivity in gift policy 
 (E) Talk to P& E about holiday 
 (E) Trim nose hair +Health @nova  Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead @nova @phone  Time:05 
 (E) Update the youtube watch list +Family Time:10 @phone @nova
-(E) Vitamin Tablet +Health @nova  Time:02
 (E) Write a letter to Nova +Family Time:30 
 (E) Write car packing list. 
 (E) Write out the damn memory palace for Kat
-(E) share your gift policy on the social networks.  Time:05  @phone 
