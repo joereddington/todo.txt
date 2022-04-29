@@ -1,13 +1,15 @@
-(A) Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(A) Read another chapter of trama book. 
-(A) Phone  mum about Nellies birhtday 
-(B) Read GTD book https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(B) Book Marathon Place 
+(A) 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(A) 10 Phone  mum about Nellies birhtday 
+(A) 20 Read another chapter of trama book. 
+(A) 30 Setup Leo ipad 
+(B) 15 Book Marathon Place 
+(B) 20 Read a chapter of GTD book https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Organise the fridge completely. 
-(C) Pick date for Leo birthday 
-(C) Sprint on migrating old blog posts to joereddington.github.io https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) 04 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+(C) 10 Organise the fridge completely. 
+(C) 05 Pick date for Leo birthday 
+(C) 30 Take Even present to post office. 
+(C) 60 Sprint on migrating old blog posts to joereddington.github.io https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (D) 10 Brainstorm on comics Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) 10 Find out why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
@@ -20,14 +22,13 @@
 (D) Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 05 Send Nava chocoalte 
+(E) 05 Write car packing list for journeys of 1<hour 2<hour 3<hour and with both kids. 
 (E) 10 Map carbootsalemum project properly  
-(E) Sell Kat's earphones on amazon. 
 (E) 10 Post some of Nova's art to Mum 
 (E) 20 Create ranking script subdomain on Dreamhost 
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 process Garage inbox. 
-(C) Post Evan present
 (E) Do Menu for the week +Family @nova @phone  Time:01 
 (E) Empty Joe inbox completely +Overhead @nova  Time:15 
 (E) Find combination to lock so you can Wash Go bag 
@@ -37,6 +38,7 @@
 (E) New kindle should be a reward for something
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Rewrite public internet blog post 
+(E) Sell Kat's earphones on amazon. 
 (E) Send Save the dates for Leo's party 
+(E) Set up keyfinder with other remotes 
 (E) Talk to P& E about holiday 
-(E) 05 Write car packing list for journeys of 1<hour 2<hour 3<hour and with both kids. 
