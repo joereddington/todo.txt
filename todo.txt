@@ -1,13 +1,12 @@
-x 2022-04-29 Send Save the dates for Leo's party 
-(C) 05 Pick date for Leo birthday 
-(A) 30 Setup Leo ipad 
 (A) 10 Phone  mum about Nellies birhtday 
 (A) 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (A) 20 Read another chapter of trama book. 
+(A) 30 Setup Leo ipad 
 (A) map Project for  wrap around care for new schools
 (B) 15 Book Marathon Place 
 (B) 20 Read a chapter of GTD book https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 04 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+(C) 05 Pick date for Leo birthday 
 (C) 10 Organise the fridge completely. 
 (C) 30 Take Even present to post office. 
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
@@ -41,3 +40,4 @@ x 2022-04-29 Send Save the dates for Leo's party
 (E) Sell Kat's earphones on amazon. 
 (E) Set up keyfinder with other remotes 
 (E) Talk to P& E about holiday - Recommend weekend. 
+(E)  Fix time bug in smartsocial. 
