@@ -9,7 +9,9 @@
 (C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
 (E) Go back to accounts examiner for actions 
 (E) Talk to Andy about formatting. 
+(E) Fix Google Password
 (D) File expenses from Keele trip  (including milage) 
+(E) Remove comments from EQT website. 
 (D) Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (E) Brainstorm on making the eight hours a day work. 
 (E) Fix the lnu shortcut (again)
