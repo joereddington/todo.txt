@@ -11,6 +11,7 @@ Make Kat ball pit gif.
 (A) 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (E) Put Kat on natwest accounts again. 
 (A) Sort out natwest number 
+Buy some good water bottles. 
 (A) 20 Read another chapter of trama book. 
 (A) 30 Setup Leo ipad 
 (A) Leo tablet! 
@@ -32,7 +33,6 @@ Make Kat ball pit gif.
 (D) 30 Get Kat's phone and work out what happened with the adding to accounts.  on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) Read your old comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (E)  Fix time bug in smartsocial. 
 (E) 05 Floss +Health @nova  Time:05
 (E) 05 Send Nava chocoalte 
