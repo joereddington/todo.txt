@@ -1,10 +1,14 @@
 (A) Check all your actions for EQT meeting. 
+(E) Add in the COI for YVonne
 (A) Do the jobs for the fund rasing person.  
 (B) Draft an email for Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (C) Migrate calendar.html to joereddington.github.io. 
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Rewrite the email to Sarah based on new accounts
+(E) Brainstorm on moving OVF forward 
+(E) Doodle poll for AGM 
 (C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
+(E) Go back to accounts examiner for actions 
+(E) Talk to Andy about formatting. 
 (D) File expenses from Keele trip  (including milage) 
 (D) Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (E) Brainstorm on making the eight hours a day work. 
