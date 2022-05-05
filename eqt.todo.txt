@@ -1,5 +1,3 @@
 (A) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
-(C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
-(D) Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) 4pm Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (E) Brainstorm on moving OVF forward 
