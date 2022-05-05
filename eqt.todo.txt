@@ -1,8 +1,5 @@
 (A) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
-(B) Draft an email for Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (C) Properly clear out the Google Drive EQT folder on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Search for diversity policy https://github.com/eQualityTime/Public/issues/57 +EQT
-(D) File expenses from Keele trip  (including millage) 
 (D) Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (E) Brainstorm on moving OVF forward 
-(E) Fix Google Password
