@@ -1,5 +1,7 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (.) Work on: Next IMPS3 Sprint https://github.com/eQualityTime/Public/issues/159 +EQT
+(A) Fix up IMPS3 for Richard's work  
+(A) Let Richard know that you will do small changes this week but then won't do anything major until the next serious week. 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
@@ -31,26 +33,15 @@
 (D) Do full accounts algorithm +EQT Time:99
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
-(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
+x 2022-05-09 Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
+x 2022-05-09 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Read Quickbooks book +EQT
-(D) map project:Read VIm book  +EQT
-(D) map project:Read papers for CSRG +EQT
-(E) Backup Dreamhost +EQT
+(D) Process Git directory 
+(D) Read a chapter of Quickbooks book
+(D) read a chapter of VIm book  +EQT
+(D) Read papers for CSRG +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT Time:03 
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send Trustees something nice about outcomes +EQT
