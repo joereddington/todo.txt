@@ -1,47 +1,35 @@
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
+(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+(C) Update nameservers again. 
+(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+(A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (.) Work on: Next IMPS3 Sprint https://github.com/eQualityTime/Public/issues/159 +EQT
+(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Fix up IMPS3 for Richard's work  
 (A) Let Richard know that you will do small changes this week but then won't do anything major until the next serious week. 
-(A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
-(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
-(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (A) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
+(B) Collect up all the Unity signitures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
-(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) Send documents to Grant-writer on: https://github.com/eQualityTime/Home/issues/117 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) 30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Read chapter of GTD book 
+(C) Review the school contacts for WWW on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Read GTD book. +EQT
 (D) 4pm Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Do full accounts algorithm +EQT Time:99
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-x 2022-05-09 Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
-x 2022-05-09 Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) Process Git directory 
 (D) Read a chapter of Quickbooks book
-(D) read a chapter of VIm book  +EQT
 (D) Read papers for CSRG +EQT
+(D) read a chapter of VIm book  +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Search for funding for eQuality Time Projects +EQT
