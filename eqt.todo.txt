@@ -1,4 +1,5 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(A) Update the accounts and send to Martin. 
 (.) Work on: Next IMPS3 Sprint https://github.com/eQualityTime/Public/issues/159 +EQT
 (A) Fix up IMPS3 for Richard's work  
 x 2022-05-09 Let Richard know that you will do small changes this week but then won't do anything major until the next serious week. 
