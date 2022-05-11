@@ -13,12 +13,13 @@
 (D)                  OVF - Upload button should only allow pptx files
 (D)                  OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (D)                  Read a chapter of Quickbooks book
-(D)                  Set up/check automatic renewal of certbot on OVF aws server 
-(D)                  Work out new project from  on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D)                  read a chapter of VIm book  +EQT
+(D)                  Setup press release about Award we won. 
+(E)                  read a chapter of VIm book  +EQT
 (E)                  30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
 (E)                  Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E)                  Fix the www.theopenvoicefactory.org 
+(C Insurance)        Pay insurance 
 (E)                  Process Git directory 
+(E) pay in amaozn cheque 
 (E)                  Read chapter of GTD book 
