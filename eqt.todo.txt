@@ -17,8 +17,7 @@
 (D)                  Setup press release about Award we won. 
 (E)                  30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
-(E)                  Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E)                  Fix the www.theopenvoicefactory.org 
+(E)                  Fix the www.theopenvoicefactory.org domain 
 (E)                  Process Git directory 
 (E)                  Read chapter of GTD book 
 (E)                  Read a chapter of VIm book  +EQT
