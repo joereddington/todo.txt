@@ -1,18 +1,28 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(A) Update the accounts and send to Martin. 
 (.) Work on: Next IMPS3 Sprint https://github.com/eQualityTime/Public/issues/159 +EQT
+(A) Email the narratologist from the paper group yesterday., 
 (A) Fix up IMPS3 for Richard's work  
-x 2022-05-09 Let Richard know that you will do small changes this week but then won't do anything major until the next serious week. 
 (A) Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(A) Update the accounts and send to Martin. 
+(A) Upgrade IMPS3 to cover all the sprints 
 (A) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
+(A) Write and send personal statement for governers. 
 (B) Collect up all the Unity signitures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) Enable Google Ads adverts for OVF 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Send documents to Grant-writer on: https://github.com/eQualityTime/Home/issues/117 +EQT
 (B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Back up the designs zip to external drive and then start cutting down dreamhost. 
+(C) Blog Annouce a policy of 'if it's NOT been used for a year we're going to delete it. 
+(C) Fix the www.theopenvoicefactory.org 
+(C) OVF - Upload button should only allow pptx files
+(C) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (C) Read chapter of GTD book 
+(C) Review the email to trustees and then send the signed document to the uniconnect people 
 (C) Review the school contacts for WWW on: https://github.com/eQualityTime/Home/issues/115 +EQT
+(C) Set up/check automatic renewal of certbot on OVF aws server 
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (D) 4pm Find a different T-shirt slash mug other place to sell on: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Do full accounts algorithm +EQT Time:99
@@ -26,3 +36,9 @@ x 2022-05-09 Let Richard know that you will do small changes this week but then 
 (D) read a chapter of VIm book  +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Search for funding for eQuality Time Projects +EQT
+(E) Update watson so that it is better about lines that start with a particular line
+* Go and get salad stuff from shop.  Other carbs to. 
+* Plan for funraising person * Read the amazon proposal * Write a budget that covers with and without 10k 
+x * Plan food - tonight pasta and then something for me and Kat (chilli), tomorrow chips, then beans on toast
+x 2022-05-09 Let Richard know that you will do small changes this week but then won't do anything major until the next serious week. 
+x Remove the ability to download uploads (you know what I mean) 
