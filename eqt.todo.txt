@@ -1,5 +1,5 @@
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(.) Work on: Next IMPS3 Sprint https://github.com/eQualityTime/Public/issues/159 +EQT
+x 2022-05-11 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(B Richard) Code the second sprint for IMPS3 https://github.com/eQualityTime/Public/issues/159 +EQT
 (A) Email the narratologist from the paper group yesterday., 
 (A) Fix up IMPS3 for Richard's work  
 (A) Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
