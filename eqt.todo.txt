@@ -1,19 +1,19 @@
 x 2022-05-11 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (B Richard) Code the second sprint for IMPS3 https://github.com/eQualityTime/Public/issues/159 +EQT
-(A) Email the narratologist from the paper group yesterday., 
-(A) Fix up IMPS3 for Richard's work  
-(A) Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(A) Update the accounts and send to Martin. 
-(A) Upgrade IMPS3 to cover all the sprints 
-(A) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
-(A) Write and send personal statement for governers. 
-(B) Collect up all the Unity signitures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(B) Enable Google Ads adverts for OVF 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Send documents to Grant-writer on: https://github.com/eQualityTime/Home/issues/117 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+x 2022-05-11 Email the narratologist from the paper group yesterday., 
+x 2022-05-11 Fix up IMPS3 for Richard's work  
+x 2022-05-11 Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+(A Martin 20th May) Update the accounts and send to Martin. 
+x 2022-05-11 Upgrade IMPS3 to cover all the sprints 
+(B Rachel ) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117
+(B Govener) Write and send personal statement for governers. 
+(B Trustees) Collect up all the Unity signitures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(D Trustees) Enable Google Ads adverts for OVF 
+x 2022-05-11 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-05-11 Send documents to Grant-writer on: https://github.com/eQualityTime/Home/issues/117 +EQT
+(D Kat, Trustees) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) 30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(E) 30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Back up the designs zip to external drive and then start cutting down dreamhost. 
 (C) Blog Annouce a policy of 'if it's NOT been used for a year we're going to delete it. 
 (C) Fix the www.theopenvoicefactory.org 
