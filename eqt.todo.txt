@@ -2,7 +2,6 @@
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
 (C Insurance)        Pay insurance 
-(C)                  2. Switch to live account and start streaming +EQT @singleton Time:99
 (D Kat, Trustees)    Work on: Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (D Trustees)         start cutting down dreamhost. 
 (D Trustees)         Review Google ads  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
