@@ -1,4 +1,4 @@
-(A Uniconnect)       Review the email to trustees and then send the signed document to the uniconnect people  date:2022-05-11
+(A Uniconnect)       send the signed document to the uniconnect people  date:2022-05-11
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
 (C Insurance)        Pay insurance 
@@ -8,7 +8,6 @@
 (D Trustees)         Review Google ads  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D)                  Get printing done again.  Kat about the printing you had done.  on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D)                  Find the printing you ordered : https://github.com/eQualityTime/Home/issues/106 +EQT
-x 2022-05-16 OVF - Upload button should only allow pptx files via https://stackoverflow.com/a/23706177/170243 
 (D)                  OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (D)                  Read a chapter of Quickbooks book
 (D)                  Setup press release about Award we won. 
@@ -16,7 +15,6 @@ x 2022-05-16 OVF - Upload button should only allow pptx files via https://stacko
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
 (E)                  Process Git directory 
 (E)                  Read chapter of GTD book 
-(E)                  Read a chapter of VIm book  +EQT
 (E)                  Map ovf documentation project . date:2022-05-11
 (E)                  Map project for contacting small charities about The open voice factory 
 (E)                  OVF - switch to creating only obz files 
