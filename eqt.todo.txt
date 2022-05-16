@@ -1,8 +1,5 @@
-x 2022-05-16 (A Martin 20th May)  Update the accounts and send to Martin. 
 (A Uniconnect)       Review the email to trustees and then send the signed document to the uniconnect people  date:2022-05-11
-x 2022-05-11 (B Govener)          Write and send personal statement for governors.  date:2022-05-11
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
-x (B Richard)          Code the second sprint for IMPS3 https://github.com/eQualityTime/Public/issues/159 +EQT date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
 (C Insurance)        Pay insurance 
 (C)                  2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -17,7 +14,6 @@ x (B Richard)          Code the second sprint for IMPS3 https://github.com/eQual
 (D)                  Setup press release about Award we won. 
 (E)                  30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
-(E)                  Fix the www.theopenvoicefactory.org domain 
 (E)                  Process Git directory 
 (E)                  Read chapter of GTD book 
 (E)                  Read a chapter of VIm book  +EQT
