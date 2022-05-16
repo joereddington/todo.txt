@@ -1,20 +1,17 @@
-(A Uniconnect)       send the signed document to the uniconnect people  date:2022-05-11
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
 (C Insurance)        Pay insurance 
 (D Kat, Trustees)    Work on: Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(D Trustees)         start cutting down dreamhost. 
 (D Trustees)         Review Google ads  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D Trustees)         start cutting down dreamhost. 
 (D)                  Get printing done again.  Kat about the printing you had done.  on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(E)                  Submit the damn accounts. 
 (D)                  Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D)                  OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
-x 2022-05-16 Read a chapter of Quickbooks book
 (D)                  Setup press release about Award we won. 
-(E)                  30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
-(E)                  Process Git directory 
-(E)                  Read chapter of GTD book 
 (E)                  Map ovf documentation project . date:2022-05-11
 (E)                  Map project for contacting small charities about The open voice factory 
 (E)                  OVF - switch to creating only obz files 
 (E)                  Post Amazon cheque
+(E)                  Read chapter of GTD book 
