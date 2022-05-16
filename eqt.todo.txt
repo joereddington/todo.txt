@@ -6,9 +6,9 @@
 (D Trustees)         start cutting down dreamhost. 
 (D Trustees)         Review Google ads  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D)                  Get printing done again.  Kat about the printing you had done.  on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D)                  Find the printing you ordered : https://github.com/eQualityTime/Home/issues/106 +EQT
+(D)                  Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D)                  OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
-(D)                  Read a chapter of Quickbooks book
+x 2022-05-16 Read a chapter of Quickbooks book
 (D)                  Setup press release about Award we won. 
 (E)                  30 minutes sorting files in Dropbox or Google Drive on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
