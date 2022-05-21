@@ -20,11 +20,11 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
+x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
+x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
+x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) File expenses for charity times conference. 
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
@@ -36,12 +36,10 @@
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 process Garage inbox. 
-x 2022-05-21 Any Chocolate should be in the car (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Brainstorm on 'silence' as a ten year goal and work out what you meant. 
 (E) Buy some good water bottles. 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-x 2022-05-21 Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Do Menu for the week +Family  @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
