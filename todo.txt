@@ -1,7 +1,7 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
-(A) 10 Phone  mum about Nellies birhtday 
-(A) 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(A) 20 Read another chapter of trama book. 
+x 2022-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20
+x 2022-05-21 10 Phone  mum about Nellies birhtday 
+x 2022-05-21 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+x 2022-05-21 20 Read another chapter of trama book. 
 (A) Sort out natwest number 
 (A) map Project for  wrap around care for new schools
 (A) map project:Read Trauma processing book +PersonalProjects
