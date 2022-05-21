@@ -2,9 +2,9 @@ x 2022-05-21 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2022-05-21 10 Phone  mum about Nellies birhtday 
 x 2022-05-21 20 Make some lists on mindful eating: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 x 2022-05-21 20 Read another chapter of trama book. 
-(A) Sort out natwest number 
+x 2022-05-21 Sort out natwest number 
 (A) map Project for  wrap around care for new schools
-(A) map project:Read Trauma processing book +PersonalProjects
+x 2022-05-21 map project:Read Trauma processing book +PersonalProjects
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. 
 (B) 15 Book Marathon Place 
