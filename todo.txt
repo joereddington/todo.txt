@@ -4,9 +4,6 @@
 (C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Quit some projects (and blog it)  
 (C) Review and rescore  Wheel Of life
-(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(D Kat) Check doorbell batteries
 (D) 10 Brainstorm on why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
 (D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) 20 Buy Kat flowers
@@ -15,12 +12,8 @@
 (D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) File expenses for charity times conference. 
-(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
+(D) Read chapter of the creative instanity book. 
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) 05 Write car packing list for journeys of 1<hour 2<hour 3<hour and with both kids. 
 (E) 10 Do Menu for the week +Family @nova @phone  Time:01 
 (E) 10 Map carbootsalemum project properly  
 (E) 10 Post some of Nova's art to Mum 
@@ -28,7 +21,6 @@
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 process Garage inbox. 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Brainstorm on 'silence' as a ten year goal and work out what you meant. 
 (E) Buy some good water bottles. 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
@@ -38,11 +30,9 @@
 (E) Floss +Health   Time:05
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
-(E) Go through phone and save all of the numbers +Overhead  @phone  Time:08 
 (E) Make a list of social media anniversaries 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Map 'group holiday' project. 
-(E) New kindle should be a reward for something
 (E) Offer a sleepover to Ellie. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
@@ -52,7 +42,6 @@
 (E) Set up keyfinder with other remotes 
 (E) Sort out Nova calendar 
 (E) Talk to P& E about holiday - Recommend weekend. 
-(E) Update the youtube watch list +Family Time:10 @phone 
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) brainstorm on what team Kat-Joe looks like.  
