@@ -17,14 +17,10 @@
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
-x 2022-05-21 Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) File expenses for charity times conference. 
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
