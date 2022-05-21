@@ -1,54 +1,43 @@
-(C) 05 Pick date for Leo birthday 
-(C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C) 60 Sprint on migrating old blog posts to joereddington.github.io https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-(C) Quit some projects (and blog it)  
-(C) Review and rescore  Wheel Of life
-(D) 10 Brainstorm on why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
-(D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
-(D) 20 Buy Kat flowers
-(D) 20 Read the Richard staff handbook in Dropbox 
-(D) 20 Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) File expenses for charity times conference. 
-(D) Read chapter of the creative instanity book. 
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) 10 Do Menu for the week +Family @nova @phone  Time:01 
-(E) 10 Map carbootsalemum project properly  
-(E) 10 Post some of Nova's art to Mum 
+(E) 10 Brainstorm on 'silence' as a ten year goal and work out what you meant. 
+(D) 10 Brainstorm on why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
+(D) 20 Buy Kat flowers
 (E) 20 Create ranking script subdomain on Dreamhost 
+(E) 10 Do Menu for the week +Family @nova @phone  Time:01 
+(C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(E) 10 Map carbootsalemum project properly  
+(C) 05 Pick date for Leo birthday 
+(E) 10 Post some of Nova's art to Mum 
+(D) 20 Read chapter of the creative instanity book. 
+(D) 20 Read the Richard staff handbook in Dropbox 
 (E) 20 Search out magic youtube channels for memory stuff.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(C) 60 Sprint on migrating old blog posts to joereddington.github.io https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
+(C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
+(D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
+(D) 20 Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 20 process Garage inbox. 
-(E) Brainstorm on 'silence' as a ten year goal and work out what you meant. 
-(E) Buy some good water bottles. 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(D) File expenses for charity times conference. 
 (E) Find combination to lock so you can Wash Go bag 
 (E) Floss +Health   Time:05
-(E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Make a list of social media anniversaries 
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Map 'group holiday' project. 
+(E) 10 Map 'group holiday' project. 
+(E) 10 Map climbing wall project Get 108cm, wide plwood sheet for climbing wall. 
 (E) Offer a sleepover to Ellie. 
+(E) Process memeories from childhood in boxes before next thrusday session. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Publicly thank someone +Overhead Time:15 
+(C) Review and rescore  Wheel Of life
 (E) Rewrite public internet blog post 
 (E) Save a nice family memory +Family @phone   Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
+(E) Screw keylock box to the wall. 
 (E) Set up keyfinder with other remotes 
+(E) Show Kat your ten year plan - they can't support you if you don't know where you are going. 
 (E) Sort out Nova calendar 
 (E) Talk to P& E about holiday - Recommend weekend. 
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) process Garage inbox. 
-* Organise fridge. 
-* Show Kat your ten year plan - they can't support you if you don't know where you are going. 
-Buy some good water bottles. 
-Get 108cm, wide plwood sheet for climbing wall. 
-Process memeories from childhood in boxes. 
-Screw keylock box to the wall. 
