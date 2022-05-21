@@ -12,7 +12,6 @@
 (D) 20 Buy Kat flowers
 (D) 20 Read the Richard staff handbook in Dropbox 
 (D) 20 Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) 30 Get Kat's phone and work out what happened with the adding to accounts.  on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
@@ -29,7 +28,6 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) File expenses for charity times conference. 
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) 05 Floss +Health @nova  Time:05
 (E) 05 Write car packing list for journeys of 1<hour 2<hour 3<hour and with both kids. 
 (E) 10 Do Menu for the week +Family @nova @phone  Time:01 
 (E) 10 Map carbootsalemum project properly  
@@ -47,8 +45,6 @@
 (E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-x 2022-05-21 Cut Nova and Leo nails +Health   Time:04 
-x 2022-05-21 Cut nails +Health   Time:04 
 (E) Do Menu for the week +Family  @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead   Time:15 
@@ -64,12 +60,9 @@ x 2022-05-21 Cut nails +Health   Time:04
 (E) Map 'group holiday' project. 
 (E) New kindle should be a reward for something
 (E) Offer a sleepover to Ellie. 
-(E) Post to Sibling Facebook group  @phone  Time:06 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Put Kat on natwest accounts again. 
-(E) Review starred items in feeds +Overhead
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Rewrite public internet blog post 
 (E) Save a nice family memory +Family @phone   Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
