@@ -1,4 +1,5 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(E) Fix 404 on WWW page 
 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (A) Work out which camps are happening soon and who is where. 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
