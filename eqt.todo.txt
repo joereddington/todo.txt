@@ -1,12 +1,12 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(E) Fix 404 on WWW page 
 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(A) Work out which camps are happening soon and who is where. 
+(A) Submit the accounts using your google drive document 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+(A) Work out which camps are happening soon and who is where. 
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
@@ -61,6 +61,7 @@
 (E)                  Submit the damn accounts. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT Time:03 
+(E) Fix 404 on WWW page 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 (E) Open and log progress on the bid status document +EQT Time:04
 (E) Open list of projects to be funded +EQT
