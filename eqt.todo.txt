@@ -1,3 +1,4 @@
+
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (A) Submit the accounts using your google drive document 
@@ -68,3 +69,7 @@
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
+* Got NO reply from 25 out of 31 luton schools. Find out how many were with the WWW email address 
+* Gratitude. post 
+* Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
+* Sort the todos 
