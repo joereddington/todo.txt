@@ -1,22 +1,19 @@
 (B Rachel ) 25 Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees) 04 Ask Kat about the unity signatures 
-x 2022-05-25 30 minutes tidying up Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Map a project to close down Dreamhost
-(C) 04 Tell Clare about the clash for meetings 
 (C) 15 Read a chapter of GTD book 
 (C) Brainstorm on how MAYBE  delores isn't right 
-(C) 05 message kate about CKV3 Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+x 2022-05-25 05 message kate about CKV3 Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (D Trustees) Review Google ads We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (D) Read a chapter of Quickbooks book +EQT
 (D) Read a chapter of VIm book +EQT
 (D) 05 Review the printout for MATS on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) All Employees should have uploaded all changed git code +EQT
 (E) Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead +EQT
 (E) Map ovf documentation project . date:2022-05-11
 (E) Map project for contacting small charities about The open voice factory 
 (E) OVF - switch to creating only obz files 
 (E) Post to WWW facebook page +EQT @phone Time:10 
+(E) Delete files from dreamhost 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
