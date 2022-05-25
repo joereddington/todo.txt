@@ -1,8 +1,6 @@
-
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(A) Submit the accounts using your google drive document 
-(A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
+(A) Send Mum details on what to sign 
+(A) The big writing thing needs a name 
 (A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
 (A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
@@ -20,7 +18,9 @@
 (B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
 (C Insurance)        Pay insurance 
+(C)  Map a project to close down Dreamhost
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Double check you've saved the aids somewhere and cut down dreamshost
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -73,3 +73,5 @@
 * Gratitude. post 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
 * Sort the todos 
+x 2022-05-25 Submit the accounts using your google drive document 
+x 2022-05-25 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
