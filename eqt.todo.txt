@@ -2,8 +2,6 @@
 (B Trustees) 04 Ask Kat about the unity signatures 
 (C) 15 Read a chapter of GTD book 
 (C) Brainstorm on how MAYBE  delores isn't right 
-x 2022-05-25 05 message kate about CKV3 Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(D Trustees) Review Google ads We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (D) Read a chapter of Quickbooks book +EQT
