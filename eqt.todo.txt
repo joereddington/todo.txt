@@ -1,58 +1,31 @@
 (A) Email Universities about: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(A) Message Eleanor abou Guru  on: https://github.com/eQualityTime/Home/issues/123 +EQT
-(B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
-(B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
-(C)  Map a project to close down Dreamhost
+(A) Message Eleanor abou Guru on: https://github.com/eQualityTime/Home/issues/123 +EQT
+(B Rachel ) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
+(B Trustees) Collect up all the Unity signatures and submit them. on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
+(C) Map a project to close down Dreamhost
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Double check you've saved the aids somewhere and cut down dreamshost
-(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Read GTD book. +EQT
-(D Kat, Trustees)    Work on: Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(D Trustees)         Review Google ads  We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D Trustees)         start cutting down dreamhost. 
-(D)                  Get printing done again.  Kat about the printing you had done.  on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D)                  Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
-(D)                  OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
-(D)                  Setup press release about Award we won. 
-(D) Do full accounts algorithm +EQT Time:99
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
-(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(C) Work on: Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+(C) 30 minutes tidying up Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Really think about the best place for delores. 
+(C) Read a chapter of GTD book 
+(D Trustees) Review Google ads We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D Trustees) start cutting down dreamhost. 
+(D) Get printing done again. Kat about the printing you had done. on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
+(D) Investigate all the Facebook T-Shirt providers on: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Review the printout for MATS on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Read Quickbooks book +EQT
-(D) map project:Read VIm book  +EQT
-(D) map project:Read papers for CSRG +EQT
-(E)                  Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
-(E)                  Map ovf documentation project . date:2022-05-11
-(E)                  Map project for contacting small charities about The open voice factory 
-(E)                  OVF - switch to creating only obz files 
-(E)                  Post Amazon cheque
-(E)                  Read chapter of GTD book 
-(E)                  Submit the damn accounts. 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT Time:03 
+(D) Read a chapter of Quickbooks book +EQT
+(D) Read a chapter of VIm book +EQT
+(E) Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
+(E) Map ovf documentation project . date:2022-05-11
+(E) Map project for contacting small charities about The open voice factory 
+(E) OVF - switch to creating only obz files 
+(E) Post Amazon cheque
+(E) Check that everything in the 'in process' box really does have a task+Overhead +EQT
 (E) Fix 404 on WWW page 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open and log progress on the bid status document +EQT Time:04
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Search for funding for eQuality Time Projects +EQT
-* Got NO reply from 25 out of 31 luton schools. Find out how many were with the WWW email address 
+(E) Post to WWW facebook page +EQT @phone Time:10 
 * Gratitude. post 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
-* Sort the todos 
