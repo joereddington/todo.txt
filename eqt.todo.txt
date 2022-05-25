@@ -1,23 +1,13 @@
-x 2022-05-25 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-x 2022-05-25 Send Mum details on what to sign 
 (A) Message Richard - The big writing thing needs a name - confirm that we are in. 
-x 2022-05-25 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (A) Email Universities about: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-x 2022-05-25 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-x 2022-05-25 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (A) Fix your camp clash... That needs a big fix.  
 (A) Work out which camps are happening soon and who is where. 
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
-(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) Message Char about camps on: https://github.com/eQualityTime/Home/issues/112 +EQT
+(B) Sort out the bank signitroies.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
 (C Insurance)        Pay insurance 
 (C)  Map a project to close down Dreamhost
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
@@ -74,5 +64,3 @@ x 2022-05-25 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/
 * Gratitude. post 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
 * Sort the todos 
-x 2022-05-25 Submit the accounts using your google drive document 
-x 2022-05-25 Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
