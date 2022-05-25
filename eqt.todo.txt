@@ -1,11 +1,12 @@
-(.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(A) Send Mum details on what to sign 
-(A) The big writing thing needs a name 
-(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
-(A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-05-25 (.) Work on: Three IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
+x 2022-05-25 Send Mum details on what to sign 
+(A) Message Richard - The big writing thing needs a name - confirm that we are in. 
+x 2022-05-25 Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
+(A) Email Universities about: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
+x 2022-05-25 Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
+x 2022-05-25 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+(A) Fix your camp clash... That needs a big fix.  
 (A) Work out which camps are happening soon and who is where. 
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
