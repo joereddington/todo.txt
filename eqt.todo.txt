@@ -7,9 +7,8 @@
 (C) 04 Tell Clare about the clash for meetings 
 (C) 15 Read a chapter of GTD book 
 (C) Brainstorm on how MAYBE  delores isn't right 
-(C) Work on: Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
+(C) 05 message kate about CKV3 Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (D Trustees) Review Google ads We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D Trustees) start cutting down dreamhost. 
 (D) Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
 (D) Read a chapter of Quickbooks book +EQT
