@@ -2,30 +2,27 @@
 (A) Message Eleanor abou Guru on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (B Rachel ) Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees) Collect up all the Unity signatures and submit them. on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
-(C) Map a project to close down Dreamhost
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Double check you've saved the aids somewhere and cut down dreamshost
-(C) Work on: Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) 30 minutes tidying up Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Really think about the best place for delores. 
+(C) Double check you've saved the aids somewhere and cut down dreamshost
+(C) Map a project to close down Dreamhost
 (C) Read a chapter of GTD book 
+(C) Really think about the best place for delores. 
+(C) Work on: Communicate V3 Release https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (D Trustees) Review Google ads We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D Trustees) start cutting down dreamhost. 
 (D) Get printing done again. Kat about the printing you had done. on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Investigate the Facebook t-shirt companies : https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) OVF Fix the debug information (as in, only create the debug option when there *is* debugging information) 
-(D) Investigate all the Facebook T-Shirt providers on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Review the printout for MATS on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
 (D) Read a chapter of Quickbooks book +EQT
 (D) Read a chapter of VIm book +EQT
+(D) Review the printout for MATS on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) All Employees should have uploaded all changed git code +EQT
 (E) Blog Announce a policy of 'if it's NOT been used for a year we're going to delete it. 
+(E) Check that everything in the 'in process' box really does have a task+Overhead +EQT
 (E) Map ovf documentation project . date:2022-05-11
 (E) Map project for contacting small charities about The open voice factory 
 (E) OVF - switch to creating only obz files 
 (E) Post Amazon cheque
-(E) Check that everything in the 'in process' box really does have a task+Overhead +EQT
-(E) Fix 404 on WWW page 
 (E) Post to WWW facebook page +EQT @phone Time:10 
-* Gratitude. post 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
