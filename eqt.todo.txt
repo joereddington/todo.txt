@@ -1,19 +1,11 @@
-(A) Message Richard - The big writing thing needs a name - confirm that we are in. 
 (A) Email Universities about: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
-(A) Fix your camp clash... That needs a big fix.  
-(A) Work out which camps are happening soon and who is where. 
+(A) Message Eleanor abou Guru  on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (B Rachel )          Write 10k budget for grant writer (and package in other things from the issue) https://github.com/eQualityTime/Home/issues/117 date:2022-05-11
 (B Trustees)         Collect up all the Unity signatures and submit them.  on: https://github.com/eQualityTime/Home/issues/119 +EQT date:2022-05-11
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Message Char about camps on: https://github.com/eQualityTime/Home/issues/112 +EQT
-(B) Sort out the bank signitroies.  on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(C Insurance)        Pay insurance 
 (C)  Map a project to close down Dreamhost
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Double check you've saved the aids somewhere and cut down dreamshost
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
 (C) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
