@@ -4,6 +4,7 @@
 (C) Brainstorm on how MAYBE  delores isn't right 
 (D) Read a chapter of Quickbooks book +EQT
 (D) Read a chapter of VIm book +EQT
+(D) Email all your journalists 
 (D) 05 Review the printout for MATS on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead +EQT
 (E) Map ovf documentation project. date:2022-05-11
