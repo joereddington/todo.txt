@@ -7,7 +7,6 @@
 (D) Email all your journalists  about Too Many Cooks. 
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (E) Post the amazon thing 
-x 2022-05-26 Check that everything in the 'in process' box really does have a task+Overhead +EQT
 (E) Map ovf documentation project. date:2022-05-11
 (E) Map project for contacting small charities about The open voice factory 
 (E) OVF - switch to creating only obz files 
