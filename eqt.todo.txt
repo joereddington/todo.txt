@@ -8,6 +8,8 @@
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (E) Post the amazon thing 
 (E) Map ovf documentation project. date:2022-05-11
+(E) RichardS wants a regular compilation run on IMPS3 - it's quite possible to set up the errors that way. 
+(E) Send information to Laura. 
 (E) Map project for contacting small charities about The open voice factory 
 (E) OVF - switch to creating only obz files 
 (E) Post to WWW facebook page +EQT @phone Time:10 

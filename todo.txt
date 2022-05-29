@@ -18,7 +18,7 @@
 (D) Buy Kat flowers
 (D) Check starred messages in kat whatsapp 
 (D) File expenses for charity times conference. 
-(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+x 2022-05-29 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
