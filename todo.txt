@@ -1,16 +1,16 @@
 (A) Fix Kitchen window 
+(C) Every Igor task should have a github link. 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(C) Sort the emotional list into 'I have an emotional response to this' and 'this is a score I wish to settle' 
 (C) 05 Pick date for Leo birthday 
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) 60 Publish your public todo list again  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Check you have ingredients for three standard meals. 
+(C) Sort the emotional list into 'I have an emotional response to this' and 'this is a score I wish to settle' 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (D) 10 Brainstorm on why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
 (D) 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) 20 Buy Kat flowers
-(D) 20 Read chapter of the creative instanity book. 
 (D) 20 Read the Richard staff handbook in Dropbox 
 (D) 20 Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
@@ -18,21 +18,14 @@
 (D) Buy Kat flowers
 (D) Check starred messages in kat whatsapp 
 (D) File expenses for charity times conference. 
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) map project:Get up to date with all expenses.  +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
@@ -47,13 +40,7 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 process Garage inbox. 
 (E) Any Chocolate should be in the car (assuming winter)  
-(E) Check Voicemail  +Overhead   @phone  Time:02 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Cut Nova and Leo nails +Health   Time:04 
-(E) Cut nails +Health   Time:04 
-(E) Do Menu for the week +Family  @phone  Time:01 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead   Time:15 
 (E) Find combination to lock so you can Wash Go bag 
@@ -72,15 +59,10 @@
 (E) Save a nice family memory +Family @phone   Time:03 
 (E) Say something nice to §e:U2FsdGVkX19Ip+vDNLNXjc5ug09rco/U9QXHDqaAZqo=§ Time:05 
 (E) Screw keylock box to the wall. 
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 
-(E) Set up keyfinder with other remotes 
 (E) Show Kat your ten year plan - they can't support you if you don't know where you are going. 
 (E) Sort out Nova calendar 
 (E) Talk to P& E about holiday - Recommend weekend. 
 (E) Trim nose hair +Health   Time:05 
-(E) Update Goodreads with the current book and your progress +Overhead  @phone  Time:05 
-(E) Vitamin Tablet +Health   Time:02
-(E) Watch flashdance videos with Nova 
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) brainstorm on what team Kat-Joe looks like.  
