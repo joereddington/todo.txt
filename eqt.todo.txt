@@ -4,9 +4,9 @@
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Email all your journalists  about Too Many Cooks. 
 (D) Read a chapter of Quickbooks book +EQT
+(E) Fix the disabilty blog ranking on equalitytime.co.uk
 (D) Read a chapter of VIm book +EQT
 (E) Map ovf documentation project. date:2022-05-11
-(E) Map project for contacting small charities about The open voice factory 
 (E) OVF - switch to creating only obz files 
 (E) Post the amazon thing 
 (E) Post to WWW facebook page +EQT @phone Time:10 
