@@ -1,11 +1,13 @@
+(A) Help kat to be added to the natwest account 
 (A) Fix Kitchen window 
-(C) Every Igor task should have a github link. 
+(B) Buy the radiator 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 05 Pick date for Leo birthday 
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) 60 Publish your public todo list again  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Check you have ingredients for three standard meals. 
+(C) Every Igor task should have a github link. 
 (C) Sort the emotional list into 'I have an emotional response to this' and 'this is a score I wish to settle' 
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (D) 10 Brainstorm on why you are awkward about getting an artist to do the swift family tree poster on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects S
@@ -18,7 +20,6 @@
 (D) Buy Kat flowers
 (D) Check starred messages in kat whatsapp 
 (D) File expenses for charity times conference. 
-x 2022-05-29 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
@@ -68,3 +69,4 @@ x 2022-05-29 Work on: Garage redevelopment is moved forward. https://github.com/
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) change razor blade Time:03 
 (E) process Garage inbox. 
+x 2022-05-29 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
