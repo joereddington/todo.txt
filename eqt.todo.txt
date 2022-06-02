@@ -5,7 +5,7 @@
 (D) Email all your journalists  about Too Many Cooks. 
 (D) Read a chapter of Quickbooks book +EQT
 (E) Fix the disabilty blog ranking on equalitytime.co.uk
-(D) Read a chapter of VIm book +EQT
+x 2022-06-02 Read a chapter of VIm book +EQT
 (E) Map ovf documentation project. date:2022-05-11
 (E) OVF - switch to creating only obz files 
 (E) Post the amazon thing 

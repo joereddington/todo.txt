@@ -3,9 +3,8 @@
 (C) 40 Do Week 1 of the Physics food course courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) 60 Publish your public todo list again  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 60 Watch the audio commentary to the dark world https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-x 2022-06-02 10 Write Pitch email for local estate agents about houses on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) Do mail merge for estate agents. 
-(D) 20 Read the Richard staff handbook in Dropbox 
+(D) 20 Read the 'protocals' folder in Richard's 'staff handbook' dropbox directory 
 (D) 20 Write out the memory palace for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 30 Tidy tools in the Garage. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 60 Add features to the export of history script https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
@@ -20,13 +19,8 @@ x 2022-06-02 10 Write Pitch email for local estate agents about houses on: https
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 10 Brainstorm on 'silence' as a ten year goal and work out what you meant. 
-(E) 10 Do Menu for the week +Family @nova @phone  Time:01 
 (E) 10 Map 'group holiday' project. 
-(E) 10 Map carbootsalemum project properly  
 (E) 10 Map climbing wall project Get 108cm, wide plwood sheet for climbing wall. 
-x 2022-06-02 10 Post some of Nova's art to Mum 
-(E) 20 Create ranking script subdomain on Dreamhost 
-x 2022-06-02 20 process Garage inbox. 
 (E) Any Chocolate should be in the car (assuming winter)  
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -39,7 +33,6 @@ x 2022-06-02 20 process Garage inbox.
 (E) Make a list of social media anniversaries 
 (E) Offer a sleepover to Ellie. 
 (E) Process memeories from childhood in boxes before next Thrusday session. 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Measure Nova's room for blinds and order. 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Rewrite public internet blog post 
@@ -53,4 +46,3 @@ x 2022-06-02 20 process Garage inbox.
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) brainstorm on what team Kat-Joe looks like.  
-x 2022-06-02 process Garage inbox. 
