@@ -25,9 +25,7 @@
 (E) 10 Map climbing wall project Get 108cm, wide plwood sheet for climbing wall. 
 (E) 10 Post some of Nova's art to Mum 
 (E) 20 Create ranking script subdomain on Dreamhost 
-(E) 20 Search out magic youtube channels for memory stuff.
-x 2022-06-02 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) 20 process Garage inbox. 
+x 2022-06-02 20 process Garage inbox. 
 (E) Any Chocolate should be in the car (assuming winter)  
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -41,6 +39,7 @@ x 2022-06-02 20 Spend 20 minutes or so considering the fruits of long term goals
 (E) Offer a sleepover to Ellie. 
 (E) Process memeories from childhood in boxes before next Thrusday session. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+(E) Measure Nova's room for blinds and order. 
 (E) Publicly thank someone +Overhead Time:15 
 (E) Rewrite public internet blog post 
 (E) Save a nice family memory +Family @phone   Time:03 
@@ -53,4 +52,4 @@ x 2022-06-02 20 Spend 20 minutes or so considering the fruits of long term goals
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a letter to Nova +Family Time:30 
 (E) brainstorm on what team Kat-Joe looks like.  
-(E) process Garage inbox. 
+x 2022-06-02 process Garage inbox. 
