@@ -1,4 +1,5 @@
 (B Trustees) 04 Ask Kat about the unity signatures 
+(B) www.theopenvoicefactory needs it's own renewal with cerbot 
 (C) 15 Read a chapter of GTD book 
 (C) Brainstorm on how MAYBE  delores isn't right 
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
