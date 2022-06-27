@@ -1,10 +1,10 @@
-(. AAA) Confirm with Charlootte
-(. AAA) Messahe Strodes about letter of support 
-(. AAA) Rewrite the T4C document  
+(. A) Rewrite the T4C document  
 (. AAA) Send Accounts to Charity commission and write them up 
+(. AAAA) Messahe Strodes about letter of support 
 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Accounting post for Turing 
+(A) Confirm with Charlootte
 (A) Send out invoices for depossits for upcoming camps. 
 (A) Update Terms of reference about deposists 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
