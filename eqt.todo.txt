@@ -1,5 +1,5 @@
-(C) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Accounting post for Turing 
+(B) Write up all EQT time over the last few week.s  +EQT
 (A) Confirm with Charlootte
 (A) Send out invoices for depossits for upcoming camps. 
 (A) Update Terms of reference about deposists 
@@ -24,6 +24,7 @@
 (B) www.theopenvoicefactory needs it's own renewal with cerbot 
 (C) 15 Read a chapter of GTD book 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
+(C) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (C) Brainstorm on how MAYBE  delores isn't right 
 (C) Do mail merge for journalists 
 (C) Fix IMPS3 bug about individual character pdfs 
