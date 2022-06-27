@@ -1,17 +1,13 @@
+(. AAA) Confirm with Charlootte
+(. AAA) Messahe Strodes about letter of support 
+(. AAA) Rewrite the T4C document  
+(. AAA) Send Accounts to Charity commission and write them up 
 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(AAA) Rewrite the T4C document  
-(AAA) Messahe Strodes about letter of support 
-(E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
-(B)  Merge the OVF branch 
-(E) Watch video on cartwheel progression. 
-(AAA) Send Accounts to Charity commission and write them up 
-(E) Check if Artists are uploading their books 
-(E) Learn R - produce the scatter diagram in IMPS3
-(B) Work out training for IYun 
-(A) Update Terms of reference about deposists 
-(A) Send out invoices for depossits for upcoming camps. 
-(B) Send Richard's training video to people who might want to know. 
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(A) Accounting post for Turing 
+(E) A White Water Writers price calculator 
+(A) Send out invoices for depossits for upcoming camps. 
+(A) Update Terms of reference about deposists 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
 (A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
@@ -19,7 +15,9 @@
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (B Trustees) 04 Ask Kat about the unity signatures 
+(B)  Merge the OVF branch 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Send Richard's training video to people who might want to know. 
 (B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
 (B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
@@ -27,11 +25,13 @@
 (B) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) Work out training for IYun 
 (B) www.theopenvoicefactory needs it's own renewal with cerbot 
 (C) 15 Read a chapter of GTD book 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Brainstorm on how MAYBE  delores isn't right 
 (C) Do mail merge for journalists 
+(C) Follow up with the prison contacts. 
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -63,12 +63,15 @@
 (D) map project:Read VIm book  +EQT
 (D) map project:Read papers for CSRG +EQT
 (E) Backup AWS +EQT
+(E) Check if Artists are uploading their books 
 (E) Check in with Artists again. Make sure they are using the dropbox, that they know the rules, that they have the list of upcoming things 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT Time:03 
 (E) Download the amazon months sales figures +EQT
 (E) Fix the disabilty blog ranking on equalitytime.co.uk
+(E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+(E) Learn R - produce the scatter diagram in IMPS3
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
 (E) Map ovf documentation project. date:2022-05-11
 (E) OVF - switch to creating only obz files 
@@ -79,5 +82,7 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send information to Laura. 
+(E) Watch video on cartwheel progression. 
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
+a 
 x 2022-06-02 Read a chapter of VIm book +EQT
