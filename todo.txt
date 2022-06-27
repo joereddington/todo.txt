@@ -9,9 +9,7 @@
 (D) Create spreadsheet for local estate agents 
 (D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Tell kat the July date for Leo party: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-x 2022-06-27 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-x 2022-06-27 Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
@@ -27,7 +25,6 @@ x 2022-06-27 Work on: Regular clearing out of social inboxes. https://github.com
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Brainstorm on: food as a character sketch 
 (E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead   Time:15 
