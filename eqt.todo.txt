@@ -1,4 +1,16 @@
 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
+(AAA) Rewrite the T4C document  
+(AAA) Messahe Strodes about letter of support 
+(E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
+(B)  Merge the OVF branch 
+(E) Watch video on cartwheel progression. 
+(AAA) Send Accounts to Charity commission and write them up 
+(E) Check if Artists are uploading their books 
+(E) Learn R - produce the scatter diagram in IMPS3
+(B) Work out training for IYun 
+(A) Update Terms of reference about deposists 
+(A) Send out invoices for depossits for upcoming camps. 
+(B) Send Richard's training video to people who might want to know. 
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
 (A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
