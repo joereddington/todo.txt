@@ -1,15 +1,14 @@
+x 2022-06-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
 (A) Therapist for friedn
-(C) Write the delores parser:  
-(E) Brainstorm on: food as a character sketch 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+x 2022-06-27 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Write up all EQT time over the last few week.s 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+(B) Write up all EQT time over the last few week.s 
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
+(C) PRactice handstands and cartwheels with Nova. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
@@ -17,6 +16,7 @@
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(C) Write the delores parser:  
 (D) 20 Send the memory palace thing to kat and test it. 
 (D) Check starred messages in kat whatsapp 
 (D) Create spreadsheet for local estate agents 
@@ -24,13 +24,6 @@
 (D) Tell kat the July date for Leo party: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-Build the outdoor table 
-Remove the ate subscription 
-Edit holiday photos. 
-Find a place in the memory palace for phonetics. 
-Watch youtube video on fixing hose for drier 
-Post craigs card back
-Remove roofbox 
 (D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
@@ -43,19 +36,18 @@ Remove roofbox
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
-* Google for Vegan bbq ideas. 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) map project:Get up to date with all expenses.  +PersonalProjects
-(C) PRactice handstands and cartwheels with Nova. 
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Brainstorm on: food as a character sketch 
 (E) Ca
 (E) Call https://www.swiftdirectblinds.co.uk/contact-us/ about the dimentions of the order 
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut Nova and Leo nails +Health   Time:04 
@@ -96,4 +88,12 @@ Remove roofbox
 (E) Write Moonpig cards for this month +Overhead
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) process Garage inbox. 
+* Google for Vegan bbq ideas. 
+Build the outdoor table 
+Edit holiday photos. 
+Find a place in the memory palace for phonetics. 
+Post craigs card back
+Remove roofbox 
+Remove the ate subscription 
+Watch youtube video on fixing hose for drier 
 x 2022-06-19 10 Write social media post about publishing  your public todo list https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
