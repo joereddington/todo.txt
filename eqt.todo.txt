@@ -5,7 +5,6 @@
 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Accounting post for Turing 
-(E) A White Water Writers price calculator 
 (A) Send out invoices for depossits for upcoming camps. 
 (A) Update Terms of reference about deposists 
 (A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
@@ -31,6 +30,7 @@
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) Brainstorm on how MAYBE  delores isn't right 
 (C) Do mail merge for journalists 
+(C) Fix IMPS3 bug about individual character pdfs 
 (C) Follow up with the prison contacts. 
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
@@ -62,6 +62,7 @@
 (D) map project:Read Quickbooks book +EQT
 (D) map project:Read VIm book  +EQT
 (D) map project:Read papers for CSRG +EQT
+(E) A White Water Writers price calculator 
 (E) Backup AWS +EQT
 (E) Check if Artists are uploading their books 
 (E) Check in with Artists again. Make sure they are using the dropbox, that they know the rules, that they have the list of upcoming things 
@@ -70,6 +71,7 @@
 (E) Download the amazon months sales figures +EQT
 (E) Fix the disabilty blog ranking on equalitytime.co.uk
 (E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
+(E) Go through annotations in git book 
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn R - produce the scatter diagram in IMPS3
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 

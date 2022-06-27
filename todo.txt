@@ -1,8 +1,10 @@
-
+(A) Therapist for friedn
+(C) Write the delores parser:  
 (E) Brainstorm on: food as a character sketch 
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(B) Write up all EQT time over the last few week.s 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
@@ -28,6 +30,7 @@ Edit holiday photos.
 Find a place in the memory palace for phonetics. 
 Watch youtube video on fixing hose for drier 
 Post craigs card back
+Remove roofbox 
 (D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
