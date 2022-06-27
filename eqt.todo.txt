@@ -1,4 +1,4 @@
-(. A) Rewrite the T4C document  
+x 2022-06-27 (. A) Rewrite the T4C document  
 (. AAA) Send Accounts to Charity commission and write them up 
 (. AAAA) Messahe Strodes about letter of support 
 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
