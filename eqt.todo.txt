@@ -1,8 +1,4 @@
-x 2022-06-27 (. A) Rewrite the T4C document  
-x 2022-06-27 (. AAA) Send Accounts to Charity commission and write them up 
-x 2022-06-27 (. AAAA) Messahe Strodes about letter of support 
-(.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(C) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (A) Accounting post for Turing 
 (A) Confirm with Charlootte
 (A) Send out invoices for depossits for upcoming camps. 
@@ -31,6 +27,7 @@ x 2022-06-27 (. AAAA) Messahe Strodes about letter of support
 (C) Brainstorm on how MAYBE  delores isn't right 
 (C) Do mail merge for journalists 
 (C) Fix IMPS3 bug about individual character pdfs 
+(C) Fix eqt blog posts 
 (C) Follow up with the prison contacts. 
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
@@ -88,3 +85,7 @@ x 2022-06-27 (. AAAA) Messahe Strodes about letter of support
 * Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
 a 
 x 2022-06-02 Read a chapter of VIm book +EQT
+x 2022-06-27 (. A) Rewrite the T4C document  
+x 2022-06-27 (. AAA) Send Accounts to Charity commission and write them up 
+x 2022-06-27 (. AAAA) Messahe Strodes about letter of support 
+x 2022-06-27 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
