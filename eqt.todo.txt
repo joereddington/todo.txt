@@ -1,54 +1,30 @@
+x 2022-06-30 (B Trustees) 04 Ask Kat about the unity signatures 
+x 2022-06-30 04 Follow up with the prison contacts. 
+x 2022-06-30 04 Post to WWW facebook page +EQT  @phone  Time:10 
+(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (A) 05 Read Sarah message about Camp deposits and work out next action 
 (A) 05 Update the automatically generated Terms of reference about deposits 
-(A) 20 Send donor email for Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(B Trustees) 04 Ask Kat about the unity signatures 
-(B) 30 Merge the OVF branch 
+(E) 10 Backup AWS +EQT
+(E) 10 Go through annotations in git book 
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) 20 Send Richard's training video to people who might want to know. 
+(E) 10 Map ovf documentation project. date:2022-05-11
+(D) 10 Review Google ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
+(D) 13 File expenses for charity times conference.  +EQT
 (B) 14 Write up all EQT time over the last few week.s  +EQT
 (B) 14 www.theopenvoicefactory needs it's own renewal with cerbot 
+(E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
 (C) 15 Read a chapter of GTD book 
-(.) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(D) 20 Read a chapter of Quickbooks book +EQT
+(B) 20 Send Richard's training video to people who might want to know. 
+(A) 20 Send donor email for Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
+(D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) 20 map project:All Employees should have uploaded all changed git code +EQT
+(E) 30 Learn R - produce the scatter diagram in IMPS3
+(B) 30 Merge the OVF branch 
+(E) 30 Write a White Water Writers price calculator in Javascript 
 (C) 40 Fix IMPS3 bug about individual character pdfs 
-(C) 04 Follow up with the prison contacts. 
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Read GTD book. +EQT
-(D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Do full accounts algorithm +EQT Time:99
-(D) Email all your journalists  about Too Many Cooks. 
-(D) File expenses for charity times conference.  +EQT
-(D) Read a chapter of Quickbooks book +EQT
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
-(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(E) Write a White Water Writers price calculator in Javascript 
-(E) Backup AWS +EQT
-(E) Check if Artists are uploading their books 
-(E) Check in with Artists again. Make sure they are using the dropbox, that they know the rules, that they have the list of upcoming things 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Download the amazon months sales figures +EQT
-(E) Fix the disabilty blog ranking on equalitytime.co.uk
-(E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
-(E) Go through annotations in git book 
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn R - produce the scatter diagram in IMPS3
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Map ovf documentation project. date:2022-05-11
-(E) OVF - switch to creating only obz files 
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Watch video on cartwheel progression. 
+
+
+389
