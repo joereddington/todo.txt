@@ -1,40 +1,17 @@
-(A) Accounting post for Turing 
-(B) Write up all EQT time over the last few week.s  +EQT
-(A) Confirm with Charlootte
-(A) Send out invoices for depossits for upcoming camps. 
-(A) Update Terms of reference about deposists 
-(A) Work on: Alex Park https://github.com/eQualityTime/Public/issues/145 +EQT
-(A) Work on: Char camps https://github.com/eQualityTime/Public/issues/158 +EQT
-(A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(A) Work on: Produce Accounts https://github.com/eQualityTime/Public/issues/141 +EQT
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+(A) 05 Read Sarah message about Camp deposits and work out next action 
+(A) 05 Update the automatically generated Terms of reference about deposits 
+(A) 20 Send donor email for Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
 (B Trustees) 04 Ask Kat about the unity signatures 
-(B)  Merge the OVF branch 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Send Richard's training video to people who might want to know. 
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Migrate the OVF server  https://github.com/eQualityTime/Public/issues/157 +EQT
-(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/112 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(B) Work out training for IYun 
-(B) www.theopenvoicefactory needs it's own renewal with cerbot 
+(B) 30 Merge the OVF branch 
+(B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) 20 Send Richard's training video to people who might want to know. 
+(B) 14 Write up all EQT time over the last few week.s  +EQT
+(B) 14 www.theopenvoicefactory needs it's own renewal with cerbot 
 (C) 15 Read a chapter of GTD book 
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(C) Brainstorm on how MAYBE  delores isn't right 
-(C) Do mail merge for journalists 
-(C) Fix IMPS3 bug about individual character pdfs 
-(C) Fix eqt blog posts 
-(C) Follow up with the prison contacts. 
-(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(C) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
+(.) Blog on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+(C) 40 Fix IMPS3 bug about individual character pdfs 
+(C) 04 Follow up with the prison contacts. 
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
@@ -56,16 +33,11 @@
 (D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Read Quickbooks book +EQT
-(D) map project:Read VIm book  +EQT
-(D) map project:Read papers for CSRG +EQT
-(E) A White Water Writers price calculator 
+(E) Write a White Water Writers price calculator in Javascript 
 (E) Backup AWS +EQT
 (E) Check if Artists are uploading their books 
 (E) Check in with Artists again. Make sure they are using the dropbox, that they know the rules, that they have the list of upcoming things 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT Time:03 
 (E) Download the amazon months sales figures +EQT
 (E) Fix the disabilty blog ranking on equalitytime.co.uk
 (E) For delores - get excited about stuff. Really think about how cool it would be to get it done...   +EQT
@@ -76,17 +48,7 @@
 (E) Map ovf documentation project. date:2022-05-11
 (E) OVF - switch to creating only obz files 
 (E) Open list of projects to be funded +EQT
-(E) Post the amazon thing 
 (E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Post to WWW facebook page +EQT @phone Time:10 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Send information to Laura. 
 (E) Watch video on cartwheel progression. 
-* Risks are standing agenda item and are reviewed and addressed at Trustee Board Meetings. 
-a 
-x 2022-06-02 Read a chapter of VIm book +EQT
-x 2022-06-27 (. A) Rewrite the T4C document  
-x 2022-06-27 (. AAA) Send Accounts to Charity commission and write them up 
-x 2022-06-27 (. AAAA) Messahe Strodes about letter of support 
-x 2022-06-27 (.) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
