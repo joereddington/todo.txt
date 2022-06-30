@@ -1,30 +1,25 @@
-x 2022-06-30 (B Trustees) 04 Ask Kat about the unity signatures 
-x 2022-06-30 04 Follow up with the prison contacts. 
-x 2022-06-30 04 Post to WWW facebook page +EQT  @phone  Time:10 
-(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (A) 05 Read Sarah message about Camp deposits and work out next action 
 (A) 05 Update the automatically generated Terms of reference about deposits 
-(E) 10 Backup AWS +EQT
-(E) 10 Go through annotations in git book 
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(E) 10 Map ovf documentation project. date:2022-05-11
-(D) 10 Review Google ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
-(D) 13 File expenses for charity times conference.  +EQT
 (B) 14 Write up all EQT time over the last few week.s  +EQT
 (B) 14 www.theopenvoicefactory needs it's own renewal with cerbot 
-(E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
+(B) 02 Send Richard's training video to people who might want to know. 
+(B) 30 Merge the OVF branch 
+(C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 15 Read a chapter of GTD book 
+(C) 40 Fix IMPS3 bug about individual character pdfs 
+(D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) 10 Review Google ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D) 13 File expenses for charity times conference.  +EQT
 (D) 20 Read a chapter of Quickbooks book +EQT
-(B) 20 Send Richard's training video to people who might want to know. 
-(A) 20 Send donor email for Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
 (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) 20 map project:All Employees should have uploaded all changed git code +EQT
+(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 10 Backup AWS +EQT
+(E) 10 Go through annotations in git book 
+(E) 10 Map ovf documentation project. date:2022-05-11
+(E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
 (E) 30 Learn R - produce the scatter diagram in IMPS3
-(B) 30 Merge the OVF branch 
 (E) 30 Write a White Water Writers price calculator in Javascript 
-(C) 40 Fix IMPS3 bug about individual character pdfs 
-
-
 389
+343
