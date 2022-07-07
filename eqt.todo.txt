@@ -16,6 +16,16 @@
 (D) 20 map project:All Employees should have uploaded all changed git code +EQT
 (E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 10 Backup AWS +EQT
+(B) Fix bug that Kirsty found. 
+(E) Bring the annual leave thing up to date. 
+(B) Send someting nice to L 
+(C) Block out calendar for holidays in august. 
+
+(A) Send invoices to Charlotte's school and Guru Nanak 
+(C) Fill out expenses for Preston - including checking the joint card 
+(B) Forward payslip to staff
+
+(E) Clear our email. 
 (E) 10 Go through annotations in git book 
 (E) 10 Map ovf documentation project. date:2022-05-11
 (E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
