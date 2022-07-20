@@ -1,17 +1,19 @@
 (B) Have a brainstorm on the emotional processing https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Setup the standing orders for the other accounts 
+(C) Buy wallet 
 (C) Practice handstands and cartwheels with Nova. 
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Write the delores parser:  
+* Put CopyQ onto mac 
+* Send the Amazon water bottle back 
 (D) 20 Send the memory palace thing to kat and test it. 
 (D) Create spreadsheet for local estate agents 
-(D) Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Tell kat the July date for Leo party: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2022-07-19 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2022-07-19 Tell kat the July date for Leo party: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
@@ -20,19 +22,16 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/185 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
+(D) Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) map project:Get up to date with all expenses.  +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(E)  Write packing list: headphones, cable for putting laptop on the tv. Plug for usbs. 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Brainstorm on: food as a character sketch 
 (E) Check ranking scripts +Overhead
 (E) Check wishlist
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead   Time:15 
-(E) Watch video on cartwheel progression. 
-(E)  Write packing list: headphones, cable for putting laptop on the tv. Plug for usbs. 
-(E) Work out a long term solution to the doorbell. 
-(E) Talk to sibs about trust for Richard. 
-(C) Buy wallet 
 (E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Find Nova Calendar and put up on her wall properly. 
 (E) Give laptop screen a good clean +Overhead
@@ -52,9 +51,12 @@
 (E) Set up standing orders for savings goals 
 (E) Show Kat your ten year plan - they can't support you if you don't know where you are going. 
 (E) TSE +Health Time:04 
+(E) Talk to sibs about trust for Richard. 
 (E) Trim nose hair +Health   Time:05 
 (E) Update Goodreads with the current book and your progress +Overhead  @phone  Time:05 
 (E) Vitamin Tablet +Health   Time:02
+(E) Watch video on cartwheel progression. 
+(E) Work out a long term solution to the doorbell. 
 (E) Write Moonpig cards for this month +Overhead
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) process Garage inbox. 
