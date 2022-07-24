@@ -1,18 +1,12 @@
-(B) Have a brainstorm on the emotional processing https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(B) Setup the standing orders for the other accounts 
-(C) Buy wallet 
 (C) Practice handstands and cartwheels with Nova. 
-(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(C) Write the delores parser:  
-* Put CopyQ onto mac 
-* Send the Amazon water bottle back 
+(C) Work out which of the old joereddington.com posts you want to save  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+x 2022-07-24 Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+x 2022-07-24 Write the delores parser:  
+(E) Put CopyQ onto mac 
+(E) In double buggy - amazon box and lock Take the amazon water bottle to the post office.
 (D) 20 Send the memory palace thing to kat and test it. 
 (D) Create spreadsheet for local estate agents 
 (D) Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-x 2022-07-19 Send something to the grandparent facebook group  https://github.com/users/joereddington/projects/5#column-6773919
-x 2022-07-19 Tell kat the July date for Leo party: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
