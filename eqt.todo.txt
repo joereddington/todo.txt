@@ -1,4 +1,4 @@
-(A) 05 Update the automatically generated Terms of reference about deposits 
+(A) Work on https://github.com/eQualityTime/Home/issues/125 
 (B) 02 Send Richard's training video to people who might want to know. 
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) 14 Write up all EQT time over the last few week.s  +EQT
@@ -6,6 +6,7 @@
 (B) 30 Merge the OVF branch 
 (B) Fix bug that Kirsty found. 
 (B) Forward payslip to staff
+(C) Make Richard's Q&A into a proper page on the system 
 (C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 15 Read a chapter of GTD book 
 (C) 40 Fix IMPS3 bug about individual character pdfs 
