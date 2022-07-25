@@ -1,7 +1,4 @@
-x 2022-07-07 05 Read Sarah message about Camp deposits and work out next action 
-(A) Improve the Automatic Camp calendar so you can answer Sarah's questions 
 (A) 05 Update the automatically generated Terms of reference about deposits 
-(A) Send invoices to Charlotte's school and Guru Nanak 
 (B) 02 Send Richard's training video to people who might want to know. 
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) 14 Write up all EQT time over the last few week.s  +EQT
@@ -9,7 +6,6 @@ x 2022-07-07 05 Read Sarah message about Camp deposits and work out next action
 (B) 30 Merge the OVF branch 
 (B) Fix bug that Kirsty found. 
 (B) Forward payslip to staff
-(B) Send someting nice to L 
 (C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 15 Read a chapter of GTD book 
 (C) 40 Fix IMPS3 bug about individual character pdfs 
@@ -28,7 +24,3 @@ x 2022-07-07 05 Read Sarah message about Camp deposits and work out next action
 (E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
 (E) 30 Learn R - produce the scatter diagram in IMPS3
 (E) 30 Write a White Water Writers price calculator in Javascript 
-(E) Bring the annual leave thing up to date. 
-(E) Clear our email. 
-343
-389
