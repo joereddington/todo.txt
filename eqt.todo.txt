@@ -1,7 +1,4 @@
 (A) Work on https://github.com/eQualityTime/Home/issues/125 
-(B) 02 Send Richard's training video to people who might want to know. 
-(B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) 14 Write up all EQT time over the last few week.s  +EQT
 (B) 14 www.theopenvoicefactory needs it's own renewal with cerbot 
 (B) 30 Merge the OVF branch 
 (B) Fix bug that Kirsty found. 
@@ -10,8 +7,7 @@
 (C) 10 download dropbox to the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 15 Read a chapter of GTD book 
 (C) 40 Fix IMPS3 bug about individual character pdfs 
-(C) Block out calendar for holidays in august. 
-(C) Fill out expenses for Preston - including checking the joint card 
+(C) Fill out expenses for Preston 
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) 10 Review Google ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) 13 File expenses for charity times conference.  +EQT
