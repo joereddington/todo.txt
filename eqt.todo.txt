@@ -5,6 +5,7 @@
 (E) Check the WWW email accounts are working. 
 (A) Brainstorm on the ten year and one year goals. 
 (C) Write up the packing list for HMP Styal (p7 of pink book)  
+(C) Fix lnc  
 (C) Badger about names in books at guru nanak 
 (A) Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
 (B) Find and fix bug in the pageset that Kirsty found. 
