@@ -2,11 +2,9 @@
 (A) Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
 (B) Find and fix bug in the pageset that Kirsty found. 
 (B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(C) Gather up all the IMPS todo's into a project board. 
 (C) 10 Activate dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 40 Fix IMPS3 bug about individual character pdfs 
+(C) 40 Work on the IMPS3 project board 
 (C) Fill out expenses for Preston 
-(C) IMPS Make Richard's Q&A into a proper page on the system 
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
 (C) Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
@@ -17,25 +15,19 @@
 (D) 20 Read a chapter of Quickbooks book +EQT
 (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) 20 map project:All Employees should have uploaded all changed git code +EQT
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
 (D) Work on: Improve kindle (epub) export. https://github.com/eQualityTime/Public/issues/140 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) Process Git Directory +EQT
 (E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) 10 Backup AWS +EQT
+(E) 10 Find out about saving AWS impage +EQT
 (E) 10 Go through annotations in git book 
 (E) 10 Map ovf documentation project. date:2022-05-11
 (E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
 (E) 30 Learn R - produce the scatter diagram in IMPS3
-(E) 30 Write a White Water Writers price calculator in Javascript 
-(E) Backup AWS +EQT
+(E) 30 Write your own ttd page for the price calculator. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Download the amazon months sales figures +EQT
-x 2022-07-27 Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
-(E) Think about access control for imps3 - scrambled links, tracking 
