@@ -2,7 +2,7 @@
 (A) Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
 (B) Find and fix bug in the pageset that Kirsty found. 
 (B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(C) 10 Activate dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) 10 Activate Dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 40 Work on the IMPS3 project board 
 (C) Fill out expenses for Preston 
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -10,14 +10,10 @@
 (C) Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (D) 05 Put in the changes for the MATS letter: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) 10 Review Google ads: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) 20 Read a chapter of Quickbooks book +EQT
 (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Process Git Directory +EQT
 (E) 10 Find out about saving AWS impage +EQT
 (E) 10 Go through annotations in git book 
 (E) 15 Fix the disabilty blog ranking on equalitytime.co.uk
-(E) 30 Learn R - produce the scatter diagram in IMPS3
+(E) 60 Learn R - produce the scatter diagram in IMPS3
 (E) 30 Write your own ttd page for the price calculator. 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-x 2022-07-27 Post to WWW facebook page +EQT  @phone  Time:10 
