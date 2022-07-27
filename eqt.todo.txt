@@ -1,17 +1,17 @@
 (.) Write up blog for move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 x 2022-07-27 Work on https://github.com/eQualityTime/Home/issues/125 
-(A) Fix the open voice factory site certificate
-(A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
-(B) 14 www.theopenvoicefactory needs it's own renewal with cerbot 
-(B) 30 Merge the OVF branch 
-(B) Fix bug that Kirsty found. 
-(B) Forward payslip to staff
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
+x 2022-07-27 Fix the open voice factory site certificate
+x 2022-07-27 Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
+x 2022-07-27 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+(A) Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
+x 2022-07-27 Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
+x 2022-07-27 14 www.theopenvoicefactory needs it's own renewal with cerbot 
+x 2022-07-27 30 Merge the OVF branch 
+(B) Find and fix bug that Kirsty found. 
+x 2022-07-27 Forward payslip to staff
+x 2022-07-27 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2022-07-27 Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+x 2022-07-27 Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
 (B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/117 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
