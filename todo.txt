@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
+(C) Book foot apointment 
 (A) Arrange Sarah visit 
 (A) Nova wants playdates
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
