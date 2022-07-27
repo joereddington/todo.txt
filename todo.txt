@@ -1,18 +1,15 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
-(C) Book foot apointment 
-(B) Put bracelet into car for fixing 
-(C) Brainstorm on gratitude posts 
-(C) map Clothes audit project 
-(C) Send some holiday photos to the family whatsapp group. 
 (A) Arrange Sarah visit 
 (A) Nova wants playdates
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Put bracelet into car for fixing 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Write richard a new letter of increse
 (C) 1. Process Email @singleton +Overhead @phone  Time:90
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Book foot apointment 
+(C) Brainstorm on gratitude posts 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) Get Nova Mirror 
 (C) Get some Nova sized-pens
@@ -20,12 +17,14 @@
 (C) Practice handstands and cartwheels with Nova. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Send some holiday photos to the family whatsapp group. 
 (C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Work out which of the old joereddington.com posts you want to save  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) map Clothes audit project 
 (D) Add clustering to history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Check starred messages in kat whatsapp 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -53,10 +52,10 @@
 (E) Ask for testimonial from completed fundings
 (E) Brainstorm on: food as a character sketch 
 (E) Build the outdoor table 
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 (E) Cut Nova and Leo nails +Health   Time:04 
@@ -107,3 +106,4 @@
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) process Garage inbox. 
 Find a place in the memory palace for phonetics. 
+x 2022-07-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
