@@ -1,5 +1,6 @@
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(A) Work on https://github.com/eQualityTime/Home/issues/125 
+(.) Write up blog for move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-07-27 Work on https://github.com/eQualityTime/Home/issues/125 
+(A) Fix the open voice factory site certificate
 (A) Work on: Flowers For Turing 2022 https://github.com/eQualityTime/Public/issues/160 +EQT
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
