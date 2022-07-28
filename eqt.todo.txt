@@ -1,8 +1,6 @@
 (C) Get stamps from Kat for Thank you cards
 (C) Find out about Unity form from TJR 
 (C) Fill out expenses for Preston  @quickbooks
-x 2022-07-28 10 Create google ads campaign for OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) 40 Work on the IMPS3 project board 
 (D) Brainstorm on the ten year and one year goals. 
 (D) Find and fix bug in the pageset that Kirsty found. 
