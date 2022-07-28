@@ -1,12 +1,7 @@
-x 2022-07-28 Set up payments in unity and message Sarah  @quickbooks
-(B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
-x 2022-07-28 Publish book
 (C) Fill out expenses for Preston  @quickbooks
-x 2022-07-28 Tell Iyun about the vulnerable adults policy 
-x 2022-07-28 Arrange counselor for staff! 
+(C) Email Clare with the first page of the unity paper 
 (C) Thank you cards for Styal
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Ring up to check invoices for Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
 (C) Write up the packing list for HMP Styal (p7 of pink book)  
 (D) 10 Activate Dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (D) 10 Create google ads campaign for OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
@@ -22,6 +17,3 @@ x 2022-07-28 Arrange counselor for staff!
 (E) Check the WWW email accounts are working. 
 (E) Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (E) Fix lnc  
-x 2022-07-28 (.) Write up blog for move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-x 2022-07-28 Badger about names in books at guru nanak 
-x 2022-07-28 Send Invoice to GNSA https://github.com/eQualityTime/Home/issues/123 +EQT
