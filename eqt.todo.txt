@@ -1,7 +1,9 @@
 (A) Set up payments in unity and message Sarah  @quickbooks
 (B) Ring Unity Bank about signatories again on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) Publish book
 (C) Fill out expenses for Preston  @quickbooks
-(C) Tell Iyun about the vulnerable adults policy 
+x 2022-07-28 Tell Iyun about the vulnerable adults policy 
+x 2022-07-28 Arrange counselor for staff! 
 (C) Thank you cards for Styal
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Ring up to check invoices for Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
