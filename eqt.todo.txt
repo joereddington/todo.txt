@@ -1,8 +1,7 @@
-(C) Fill out expenses for Preston  @quickbooks
-(C) Email Clare with the first page of the unity paper 
-(C) Thank you cards for Styal
+(C) Write thank you cards for Styal
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Write up the packing list for HMP Styal (p7 of pink book)  
+(C) Find out about Unity form from TJR 
+(C) Fill out expenses for Preston  @quickbooks
 (D) 10 Activate Dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (D) 10 Create google ads campaign for OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
@@ -11,9 +10,10 @@
 (D) Find and fix bug in the pageset that Kirsty found. 
 (D) Put the extra charge for lack of staff in the school TOR template
 (D) Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) Write up the packing list for HMP Styal (p7 of pink book)  
 (E) 10 Find kindle and Go through annotations in git book 
 (E) 10 Find out about saving AWS impage +EQT
 (E) 30 Write your own ttd page for the price calculator. 
 (E) Check the WWW email accounts are working. 
 (E) Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
-(E) Fix lnc  
+(E) Fix lnc on vim. 
