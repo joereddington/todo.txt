@@ -1,8 +1,6 @@
-(C) Write thank you cards for Styal
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Get stamps from Kat for Thank you cards
 (C) Find out about Unity form from TJR 
 (C) Fill out expenses for Preston  @quickbooks
-(D) 10 Activate Dropbox on the desktop : https://github.com/eQualityTime/Home/issues/120 +EQT
 (D) 10 Create google ads campaign for OVF . https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) 20 Write an email newsletter for trustees on: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) 40 Work on the IMPS3 project board 
