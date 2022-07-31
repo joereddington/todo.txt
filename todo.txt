@@ -1,30 +1,11 @@
-x 2022-07-31 Arrange Sarah visit 
-x 2022-07-31 Nova wants playdates
-x 2022-07-31 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Put bracelet into car for fixing 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(B) Write richard a new letter of increse
-(C) 1. Process Email @singleton +Overhead @phone  Time:90
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Book foot apointment 
-(C) Brainstorm on gratitude posts 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Get Nova Mirror 
-(C) Get some Nova sized-pens
-(C) Post craigs card back
 (C) Practice handstands and cartwheels with Nova. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Send some holiday photos to the family whatsapp group. 
 (C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(C) Work out which of the old joereddington.com posts you want to save  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) map Clothes audit project 
 (D) Add clustering to history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Check starred messages in kat whatsapp 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -47,8 +28,6 @@ x 2022-07-31 map project:https://github.com/users/joereddington/projects/7 +Pers
 (D) Write draft email for estate agents 
 (D) map project:Get up to date with all expenses.  +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonial from completed fundings
 (E) Brainstorm on: food as a character sketch 
 (E) Build the outdoor table 
@@ -64,17 +43,12 @@ x 2022-07-31 map project:https://github.com/users/joereddington/projects/7 +Pers
 (E) Do light game with Leo 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead   Time:15 
-(E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Floss +Health   Time:05
-(E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in Dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead Time:03 
 (E) Go through phone and save all of the numbers +Overhead  @phone  Time:08 
 (E) Google things to do with the food injector 
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health  Time:02 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone  Time:35 
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Pick four weekend dates outside of term time for group holidays 
 (E) Post to Sibling Facebook group  @phone  Time:06 
 (E) Post to Vegan Facebook group  @phone  Time:06 
@@ -106,4 +80,3 @@ x 2022-07-31 map project:https://github.com/users/joereddington/projects/7 +Pers
 (E) brainstorm on what team Kat-Joe looks like.  
 (E) process Garage inbox. 
 Find a place in the memory palace for phonetics. 
-x 2022-07-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking Time:20 
