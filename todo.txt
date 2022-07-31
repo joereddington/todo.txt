@@ -1,6 +1,6 @@
-(A) Arrange Sarah visit 
-(A) Nova wants playdates
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+x 2022-07-31 Arrange Sarah visit 
+x 2022-07-31 Nova wants playdates
+x 2022-07-31 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Put bracelet into car for fixing 
