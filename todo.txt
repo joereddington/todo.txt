@@ -1,4 +1,15 @@
 (A) Go and get the two bits for the toilet and 
+(C) 02 Get the necklace for kat 
+(C) 05 Pick a date for Leo party and tell Kat 
+(C) 10  Buy Kat nice present for being lovely on holiday
+(C) 10 Brainstorm on Delores on weedend days. 
+(C) Decide long term solution to the doorbell 
+(C) Make ice-cream! 
+(D) 03 Make Kat IOU's for the bottom of boxes 
+(E)  Map Football project with Leo 
+(E) 10 Take photos of running buggy
+(E) Take passport photo for Leo
+(E) Work out syncing podcasts to watch 
 (C) Practice handstands and cartwheels with Nova. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 

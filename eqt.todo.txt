@@ -1,14 +1,20 @@
+(A) 10 Map out the tiktok for cybok project. 
+(A) Post books to Kirkcady 
+(A) 20 Merge the OVF branch  
+(B) 20  Create new ads for the Open Voice Factory 
 (C) 02 Get stamps from Kat for Thank you cards
 (C) 05 Find out about Unity form from TJR 
 (C) 20 Fill out expenses for Preston  @quickbooks
-(D) 40 Work on the IMPS3 project board 
-(D) 10 Brainstorm on the ten year and one year goals. 
-(D) 20 Find and fix bug in the pageset that Kirsty found. 
 (D) 05 Put the extra charge for lack of staff in the school TOR template
-(D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book)  
-(E) 10 Find out about saving AWS impage +EQT
-(E) 30 Write your own ttd page for the price calculator. 
+(D) 10 Brainstorm on the ten year and one year goals. 
+(D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
+(D) 20 Find and fix bug in the pageset that Kirsty found. 
+(D) 40 Work on the IMPS3 project board 
 (E) 05 Check the WWW email accounts are working. 
-(E) 20 Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+(E) 10 Find out about saving AWS impage +EQT
 (E) 10 Fix lnc on vim. 
+(E) 10 Post Amazon chque with paying in slip 
+(E) 20 Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+(E) 30 Write your own ttd page for the price calculator. 
+(E) Fix the robots txt on white water writers - shouldn't be finding the technical bits.
