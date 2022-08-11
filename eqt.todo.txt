@@ -1,8 +1,9 @@
+(*) 10 Post Amazon chque with paying in slip 
 (A) 20 Merge the OVF branch  
+(A) Buy 35 copies of https://www.amazon.co.uk/Brightons-Botched-up-Finale-T-M-Cooks/dp/B0B7QTF247/ref=sr_1_43?qid=1660038982&refinements=p_27%3AT.M.+Cooks&s=books&sr=1-43#detailBullets_feature_div 
 (A) Post books to Kirkcady 
 (B) 20  Create new ads for the Open Voice Factory 
 (C) 20 Fill out expenses for Preston  @quickbooks
-(D) 05 Put the extra charge for lack of staff in the school TOR template
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book)  
 (D) 10 Brainstorm on the ten year and one year goals. 
 (D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
@@ -11,7 +12,6 @@
 (E) 05 Check the WWW email accounts are working. 
 (E) 10 Find out about saving AWS impage +EQT
 (E) 10 Fix lnc on vim. 
-(E) 10 Post Amazon chque with paying in slip 
 (E) 20 Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (E) 30 Write your own ttd page for the price calculator. 
 (E) Fix the robots txt on white water writers - shouldn't be finding the technical bits.
