@@ -1,15 +1,12 @@
 (A) Go and get the two bits for the toilet and 
+(B) Redirector should go to a delores page about social media. 
+(B) Take Leo passport photo 
 (C) 02 Get the necklace for kat 
 (C) 05 Pick a date for Leo party and tell Kat 
 (C) 10  Buy Kat nice present for being lovely on holiday
 (C) 10 Brainstorm on Delores on weedend days. 
 (C) Decide long term solution to the doorbell 
 (C) Make ice-cream! 
-(D) 03 Make Kat IOU's for the bottom of boxes 
-(E)  Map Football project with Leo 
-(E) 10 Take photos of running buggy
-(E) Take passport photo for Leo
-(E) Work out syncing podcasts to watch 
 (C) Practice handstands and cartwheels with Nova. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
@@ -17,15 +14,17 @@
 (C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Watch the director's commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-(D) Take down downstiars toilet blind 
-(B) Take Leo passport photo 
+(D) 03 Make Kat IOU's for the bottom of boxes 
 (D) Add clustering to history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
+(D) Brainstorm on positiveity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
 (D) Plan Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
-(D) Brainstorm on positiveity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
+(D) Take down downstiars toilet blind 
+(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Write draft email for estate agents 
+(E)  Map Football project with Leo 
+(E) 10 Take photos of running buggy
 (E) Brainstorm on: food as a character sketch 
 (E) Build the outdoor table 
 (E) Do Menu for the week +Family  @phone  Time:01 
@@ -50,6 +49,7 @@
 (E) Show Kat your ten year plan - they can't support you if you don't know where you are going. 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health Time:04 
+(E) Take passport photo for Leo
 (E) Take several pairs of shorts to the menders 
 (E) Talk to Nova - you wanted X to visit, but then you didn't play with them. 
 (E) Talk to sibs about trust for Richard. 
@@ -58,6 +58,7 @@
 (E) Watch video on cartwheel progression. 
 (E) Watch youtube video on fixing hose for drier 
 (E) Work out a long term solution to the doorbell. 
+(E) Work out syncing podcasts to watch 
 (E) Write Moonpig cards for this month +Overhead
 (E) Write out 'best ordinary days' 
 (E) brainstorm on what team Kat-Joe looks like.  
