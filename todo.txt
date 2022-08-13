@@ -1,6 +1,5 @@
 (B) Take another Leo passport photo 
 (C) 05 Pick a date for Leo party and tell Kat 
-(C) I really want to be able to do twitter from the command line. 
 (C) 10 Brainstorm on Delores on weedend days. 
 (C) Decide long term solution to the doorbell 
 (C) Make ice-cream! 
@@ -45,4 +44,3 @@
 (E) Write Moonpig cards for this month +Overhead
 (E) Write out 'best ordinary days' essay. 
 (E) brainstorm on what team Kat-Joe looks like.  
-Find a place in the memory palace for phonetics. 
