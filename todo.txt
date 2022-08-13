@@ -1,9 +1,9 @@
-(A) Go and get the two bits for the toilet and 
-(B) Redirector should go to a delores page about social media. 
-(B) Take Leo passport photo 
+x 2022-08-13 Go and get the two bits for the toilet and 
+(B) Create A delores page about social media. 
+(B) Take another Leo passport photo 
 (C) 02 Get the necklace for kat 
 (C) 05 Pick a date for Leo party and tell Kat 
-(C) 10  Buy Kat nice present for being lovely on holiday
+x 2022-08-13 10  Buy Kat nice present for being lovely on holiday
 (C) 10 Brainstorm on Delores on weedend days. 
 (C) Decide long term solution to the doorbell 
 (C) Make ice-cream! 
