@@ -1,35 +1,30 @@
-(B) Take another Leo passport photo 
+(E) 02 Put bag of mending stuff in the car. 
+(E) 03 TSE +Health Time:04 
 (C) 05 Pick a date for Leo party and tell Kat 
+(C) 05 Put together ingreidents for ice-cream
+(E) 05 Floss +Health   Time:05
+(E) 05 Talk to sibs about trust for Richard. 
 (C) 10 Brainstorm on Delores on weedend days. 
-(C) Make ice-cream! 
-(C) Practice handstands and cartwheels with Nova. 
-(C) Do another lesson of the fementation course   Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Watch Dark World commentary  on: Watch the director's commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-(D) Write a test for clustering the history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
-(D) Plan Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(D) Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
-(D) Spend 1 hour reorganisting garage  on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
-(D) Write draft email for estate agents 
-(E) Map Football project with Leo 
-(E) Build the outdoor table 
-(E) Empty Joe inbox completely +Overhead   Time:15 
-(E) Floss +Health   Time:05
-(E) Google things to do with the food injector 
-(E) Pick four weekend dates outside of term time for group holidays 
-(E) Process memories from childhood in boxes 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
-(E) Re-memorise the phonics 
-(E) Rewrite 'Silence' goal to be about emotional skill   
-(E) Screw keylock box to the wall. 
-(E) Show Kat your ten year plan - they can't support you if you don't know where you are going. 
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) TSE +Health Time:04 
-(E) Put bag of mending stuff in the car. 
-(E) Talk to sibs about trust for Richard. 
-(E) Watch video on cartwheel progression. 
-(E) Test podcasts on apple watch 
-(E) Write out 'best ordinary days' essay. 
-(E) brainstorm on what team Kat-Joe looks like.  
+(D) 10 Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
+(D) 10 Plan Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(D) 10 Write draft email for estate agents 
+(E) 10 Map Football project with Leo 
+(E) 10 Pick four weekend dates outside of term time for group holidays 
+(E) 10 Rewrite 'Silence' goal to be about emotional skill   
+(E) 10 Show Kat your ten year plan - they can't support you if you don't know where you are going. 
+(E) 10 Start to build the outdoor table and work out what the blocking action is. 
+(E) 10 brainstorm on what team Kat-Joe looks like.  
+(B) 15 Take another Leo passport photo 
+(C) 15 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(E) 15 Screw keylock box to the wall. 
+(C) 20 Practice handstands and cartwheels with Nova. 
+(D) 20 Write a test for clustering the history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) 20 Write out 'best ordinary days' essay. 
+(C) 25 Process memories from childhood in boxes 
+(D) 30 Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(C) 40 Watch Dark World commentary  on: Watch the director's commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
+(E) 40 Make frosting and see if you can use the food injector. 
+(C) 60 Do another lesson of the fermentation course   Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
+(D) 60 Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) 60 Spend 1 hour reorganisting garage  on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
