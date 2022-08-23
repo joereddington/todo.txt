@@ -3,13 +3,10 @@
 (.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
 (A) 20 Merge the OVF branch  
-(A) Buy 35 copies of https://www.amazon.co.uk/Brightons-Botched-up-Finale-T-M-Cooks/dp/B0B7QTF247/ref=sr_1_43?qid=1660038982&refinements=p_27%3AT.M.+Cooks&s=books&sr=1-43#detailBullets_feature_div 
-(A) Post books to Kirkcady 
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) 20  Create new ads for the Open Voice Factory 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
 (B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
