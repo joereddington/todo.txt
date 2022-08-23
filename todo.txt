@@ -1,10 +1,10 @@
 (E) 02 Put bag of mending stuff in the car. 
 (E) 03 TSE +Health Time:04 
 (C) 05 Pick a date for Leo party and tell Kat 
-(C) 05 Put together ingreidents for ice-cream
+(C) 05 Put together ingredients for ice-cream
 (E) 05 Floss +Health   Time:05
 (E) 05 Talk to sibs about trust for Richard. 
-(C) 10 Brainstorm on Delores on weedend days. 
+(C) 10 Brainstorm on Delores on weekend days. 
 (D) 10 Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects
 (D) 10 Plan Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) 10 Write draft email for estate agents 
