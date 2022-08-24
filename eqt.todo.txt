@@ -2,6 +2,7 @@
 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
 (.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
+(A) Submit funding. 
 (A) 20 Merge the OVF branch  
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
