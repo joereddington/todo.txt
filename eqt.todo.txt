@@ -1,8 +1,9 @@
-(*) 10 Post Amazon chque with paying in slip 
-(.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-(.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
-(.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
+(C) 10 Post Amazon cheque with paying in slip 
+x 2022-08-24 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-08-24 (.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-08-24 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
 (A) Submit funding. 
+(A) Reply 
 (A) 20 Merge the OVF branch  
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
