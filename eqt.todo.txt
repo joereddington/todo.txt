@@ -1,7 +1,7 @@
 x 2022-08-24 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 x 2022-08-24 Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(B) 20  Create new ads for the Open Voice Factory 
+x 2022-08-24 Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
+x 2022-08-24 20  Create new ads for the Open Voice Factory 
 (B) Draft short reasonable version of the TIKTOK project. 
 (B) Mark the time spent on Open Voice Factory recently
 (B) Message the recommended people for TikTok4Cybok  +EQT
