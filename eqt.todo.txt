@@ -1,29 +1,22 @@
-(C) 10 Post Amazon cheque with paying in slip 
-x 2022-08-24 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
-x 2022-08-24 (.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
-x 2022-08-24 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
-(A) Submit funding. 
-(A) Reply 
-(A) 20 Merge the OVF branch  
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
+x 2022-08-24 Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
+x 2022-08-24 Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) 20  Create new ads for the Open Voice Factory 
 (B) Draft short reasonable version of the TIKTOK project. 
-(B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(C) Brainstorm ways of getting work in Manchester area  +EQT
 (B) Mark the time spent on Open Voice Factory recently
 (B) Message the recommended people for TikTok4Cybok  +EQT
-(E) Sort stationary drawer +EQT
+(B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
+(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
 (B) Work on: Small Issue Round-up https://github.com/eQualityTime/TheOpenVoiceFactory/issues/143 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
+(C) 10 Post Amazon cheque with paying in slip 
 (C) 2. Switch to live account and start streaming +EQT @singleton Time:99
 (C) 20 Fill out expenses for Preston  @quickbooks
+(C) Brainstorm ways of getting work in Manchester area  +EQT
 (C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
 (C) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -65,3 +58,9 @@ x 2022-08-24 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone  Time:10 
 (E) Search for funding for eQuality Time Projects +EQT
+(E) Sort stationary drawer +EQT
+x 2022-08-24 (.) Work on: Move the WWW stack to AWS https://github.com/eQualityTime/Public/issues/139 +EQT
+x 2022-08-24 (.) Work on: Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+x 2022-08-24 (.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
+x 2022-08-24 20 Merge the OVF branch  
+x 2022-08-24 Submit funding. 
