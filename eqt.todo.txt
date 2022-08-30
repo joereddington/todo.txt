@@ -14,7 +14,7 @@
 (C) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+x 2022-08-30 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
