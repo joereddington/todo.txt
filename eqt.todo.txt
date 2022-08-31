@@ -13,16 +13,14 @@
 (D) 20 Find and fix bug in the pageset that Kirsty found. 
 (D) 20 Read a chapter of Quickbooks book 
 (D) 20 Read a chapter of vim book. 
+(D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) 60 Do full accounts algorithm +EQT Time:99
-(D) 02 Email a different university about giving some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
+(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 10 Find out about saving AWS impage +EQT
 (E) 10 Fix lnc on vim. 
 (E) 10 Rewrite the list of projects with 'who does it help' 'how much does it help them' and 'how much does it cost' 
+(E) 10 Sort stationary drawer +EQT
+(E) 10 blog and then Post to WWW facebook page +EQT  @phone  Time:10 
 (E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 30 Write your own ttd page for the price calculator. 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Sort stationary drawer +EQT
