@@ -1,47 +1,28 @@
-x 2022-08-31 Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) 40 Work on the IMPS3 project board 
-(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Contact development organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
-(B) Mark the time spent on Open Voice Factory recently
-(B) OVF Code on: Small Issue Round-up https://github.com/eQualityTime/TheOpenVoiceFactory/issues/143 +EQT
-(B) Print the first page of the bank form again  on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton Time:99
-(C) Brainstorm ways of getting work in Manchester area  +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Read GTD book. +EQT
+(B) 02 email event the manual you had written about OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(B) 10 Mark the time spent on Open Voice Factory recently
+(B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
+(B) order a printing of the first page of the bank form again  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(C) 10 Brainstorm ways of getting work in Manchester area  +EQT
+(C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
+(C) 20 Read a chapter of GTD book 
+(C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) 30 Process the delores.todo list +EQT
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book)  
 (D) 10 Brainstorm on the ten year and one year goals. 
 (D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
 (D) 20 Find and fix bug in the pageset that Kirsty found. 
-(D) Do full accounts algorithm +EQT Time:99
+(D) 20 Read a chapter of Quickbooks book 
+(D) 20 Read a chapter of vim book. 
+(D) 60 Do full accounts algorithm +EQT Time:99
+(D) 02 Email a different university about giving some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+(D) Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) Read a chapter of Quickbooks book 
-(D) Read a chapter of vim book. 
-(D) map project:Read papers for CSRG +EQT
 (E) 10 Find out about saving AWS impage +EQT
 (E) 10 Fix lnc on vim. 
-(E) 20 Draft blog about Update IMPS 3 for field-testing by other leaders.  https://github.com/eQualityTime/Public/issues/152 +EQT
+(E) 10 Rewrite the list of projects with 'who does it help' 'how much does it help them' and 'how much does it cost' 
+(E) 20 Add nginx restart to AWS cron 
+(E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 30 Write your own ttd page for the price calculator. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT Time:03 
-(E) Fix the robots txt on white water writers - shouldn't be finding the technical bits.
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
-(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone  Time:10 
-(E) Search for funding for eQuality Time Projects +EQT
 (E) Sort stationary drawer +EQT
