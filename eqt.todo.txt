@@ -21,4 +21,3 @@
 (E) 10 blog and then Post to WWW facebook page +EQT  @phone  Time:10 
 (E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(E) 30 Write your own ttd page for the price calculator. 
