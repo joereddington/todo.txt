@@ -84,3 +84,8 @@
 (E) Update Goodreads with the current book and your progress +Overhead  @phone  Time:05 
 (E) Vitamin Tablet +Health   Time:02
 (E) process Garage inbox. 
+(E) Setup email for nova. 
+(C) book flu jab
+(E) Measure Nova's room for carpet 
+(A) Cancel Marvel Subscription
+(C) Do the facebook gratitude post 
