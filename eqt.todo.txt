@@ -1,21 +1,21 @@
-(B) 10 Mark the time spent on Open Voice Factory recently
-(A) Jesuse christ! Fix the white water writers emails! 
-(B) More dreamhost migration. 
-(E) Put the price calcualtor on the website
+(A) Proper plan for Cyber Security and send to Liz 
+(B) AGM dates doodle poll 
 (A) File EQT confirmation statement
-(C) Start Accounts project for the year. 
-(C) Fix the cerbot certificates  
-(A) AGM dates doodle poll 
-(B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity) 
-(C) Email Treasurer about pay bonus for staff  
-(C) Message Phoebe for advice.  
+(A) Jesuse christ! Fix the white water writers emails! 
+(B) 10 Mark the time spent on Open Voice Factory recently
 (B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
+(B) More dreamhost migration. 
 (B) order a printing of the first page of the bank form again  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+(B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity) 
 (C) 10 Brainstorm ways of getting work in Manchester area  +EQT
 (C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (C) 20 Read a chapter of GTD book 
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 30 Process the delores.todo list +EQT
+(C) Email Treasurer about pay bonus for staff  
+(C) Fix the cerbot certificates  
+(C) Message Phoebe for advice.  
+(C) Start Accounts project for the year. 
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book)  
 (D) 10 Brainstorm on the ten year and one year goals. 
 (D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
@@ -31,3 +31,4 @@
 (E) 10 blog and then Post to WWW facebook page +EQT  @phone  Time:10 
 (E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
+(E) Put the price calcualtor on the website
