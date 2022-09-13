@@ -1,5 +1,4 @@
 (E) 02 Put bag of mending stuff in the car.  +offline 
-x 2022-09-12 03 TSE +Health Time:04  +offline 
 x 2022-09-12 05 Floss +Health    +offline 
 (C) 05 Put together ingredients for ice-cream +offline 
 (E) 06 Do Menu for the week +Family  @phone  Time:01  +offline 
