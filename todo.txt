@@ -1,52 +1,52 @@
-(E) 02 Put bag of mending stuff in the car.  +offline 
-x 2022-09-12 05 Floss +Health    +offline 
+(A) 02 Cancel Marvel Subscription +phone
+(B) 10 Email Kat with budgeting  map and research disneyland project on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
 (C) 05 Put together ingredients for ice-cream +offline 
+(C) 05 book flu jab +internet 
+(C) 10 Brainstorm and rewrite wheel of life  +offline 
+(C) 10 Brainstorm on Delores on weekend days. +offline
+(C) 10 Brainstorm on social media again  +offline 
+(C) 15 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171  +internet
+(C) 15 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) 20 Blog bread  +internet 
+(C) 20 Practice handstands and cartwheels with Nova.  +offline 
+(C) 25 Book theratre tickets for kat - Hamilton or Potter  +internet
+(C) 25 Process memories from childhood in boxes  +offline 
+(C) 50 Watch Thor bluRay . https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects+offline
+(C) 60 Do another lesson of the fermentation course   Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects +Download 
+(D) 02 Send something to the reddington  whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919 +internet
+(D) 04 Send a message to Redddington whatsapp group abotu excitement  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(D) 10 Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects +offline
+(D) 10 Check starred messages in kat whatsapp  +internet
+(D) 10 Draft email to one of the artists  on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects +offline
+(D) 10 Message people about  Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects  +Internet 
+(D) 10 Write draft email for estate agents +offline
+(D) 15 Review the memory palace you built for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects +download
+(D) 20 Write a test for clustering the history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects+offline
+(D) 60 Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects+offline
+(D) 60 Spend 1 hour reorganisting garage  on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects+offline
+(D) 60 Write a comic about the day https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(E) 02 Message Mum - Richard hasn't called in a while +Internet
+(E) 02 Put bag of mending stuff in the car.  +offline 
+(E) 02 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 +Internet
+(E) 03 Go through phone and save all of the numbers +Overhead  @phone  Time:08 +Internet
+(E) 05 Post to Sibling Facebook group  @phone  Time:06 +Internet
+(E) 05 Post to Vegan Facebook group  @phone  Time:06 +Internet
+(E) 05 Talk to sibs about trust for Richard. +Internet
 (E) 06 Do Menu for the week +Family  @phone  Time:01  +offline 
 (E) 08 Measure Nova's room for carpet +offline
 (E) 10 Brainstorm  plans for next two weekends.+Overhead @phone  Time:06 +offline
-(C) 10 Brainstorm and rewrite wheel of life  +offline 
-(C) 10 Brainstorm on Delores on weekend days. +offline
-(D) 10 Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects +offline
-(C) 10 Brainstorm on social media again  +offline 
-(D) 10 Draft email to one of the artists  on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects +offline
+(E) 10 Find youtube video about food injector ideas +download
 (E) 10 Map Football project with Leo  +offline 
+(E) 10 Pick four weekend dates outside of term time for group holidays +Internet
 (E) 10 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 +offline
 (E) 10 Rewrite 'Silence' goal to be about emotional skill    +offline 
 (E) 10 Start to build the outdoor table and work out what the blocking action is.  +offline 
 (E) 10 Think of  something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family +offline
-(D) 10 Write draft email for estate agents +offline
 (E) 10 brainstorm on what team Kat-Joe looks like.   +offline 
-(E) 15 Screw keylock box to the wall.  +offline 
-(C) 20 Practice handstands and cartwheels with Nova.  +offline 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +offline 
-(D) 20 Write a test for clustering the history output https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects+offline
-(E) 20 Write out 'best ordinary days' essay.  +offline 
-(C) 25 Process memories from childhood in boxes  +offline 
-(C) 50 Watch Thor bluRay . https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects+offline
-(D) 60 Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects+offline
-(D) 60 Spend 1 hour reorganisting garage  on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects+offline
-(E) 10 Find youtube video about food injector ideas +download
-(D) 15 Review the memory palace you built for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects +download
-(C) 60 Do another lesson of the fermentation course   Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects +Download 
-(E) 20 Setup email for nova.  +Internet
 (E) 15 Empty whatsapp and facebook inboxes. +Overhead Time:20 +Internet
-(E) 10 Pick four weekend dates outside of term time for group holidays +Internet
-(E) 05 Talk to sibs about trust for Richard. +Internet
-(E) 05 Post to Vegan Facebook group  @phone  Time:06 +Internet
-(E) 05 Post to Sibling Facebook group  @phone  Time:06 +Internet
-(E) 03 Go through phone and save all of the numbers +Overhead  @phone  Time:08 +Internet
-(E) 02 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked Time:03 +Internet
-(E) 02 Message Mum - Richard hasn't called in a while +Internet
-(C) 05 book flu jab +internet 
-(C) 15 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171  +internet
-(C) 20 Blog bread  +internet 
-(C) 25 Book theratre tickets for kat - Hamilton or Potter  +internet
-(D) 02 Send something to the reddington  whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919 +internet
-(D) 10 Check starred messages in kat whatsapp  +internet
-(A) 02 Cancel Marvel Subscription +phone
-(B) 10 Email Kat with budgeting  map and research disneyland project on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
-(C) 15 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(D) 04 Send a message to Redddington whatsapp group abotu excitement  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
-(D) 10 Message people about  Leo party on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects  +Internet 
-(D) 60 Write a comic about the day https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(E) 15 Screw keylock box to the wall.  +offline 
+(E) 20 Setup email for nova.  +Internet
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +offline 
+(E) 20 Write out 'best ordinary days' essay.  +offline 
+x 2022-09-12 05 Floss +Health    +offline 
 x 2022-09-12 10 Show Kat your ten year plan - they can't support you if you don't know where you are going. 
