@@ -1,12 +1,12 @@
-(*) File EQT confirmation statement
-(*) Proper plan for Cyber Security and send to Liz 
-(*) Typesett books 
+x 2022-09-19 (*) File EQT confirmation statement
+x 2022-09-19 (*) Proper plan for Cyber Security and send to Liz 
+x 2022-09-19 (*) Typesett books 
 (A) Jesuse christ! Fix the white water writers emails! 
 (B) 10 Mark the time spent on Open Voice Factory recently
 (B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
 (B) AGM dates doodle poll 
 (B) More dreamhost migration. 
-(B) order a printing of the first page of the bank form again  on: https://github.com/eQualityTime/Home/issues/119 +EQT
+x 2022-09-19 order a printing of the first page of the bank form again  on: https://github.com/eQualityTime/Home/issues/119 +EQT
 (B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity) 
 (C) 10 Brainstorm ways of getting work in Manchester area  +EQT
 (C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
