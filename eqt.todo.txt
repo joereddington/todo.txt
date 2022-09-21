@@ -2,21 +2,15 @@
 (B) More dreamhost migration.  +Internet
 (B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
 (C) 05 Ask Iyun about getting work in Manchester area and set up emails +EQT +Internet
-x 2022-09-21 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 30 Process the delores.todo list +EQT
 (C) Do an organisation risk list and use the template that Rachel sent +EQT +online
-(C) Email Treasurer about pay bonus for staff   +online
-(C) Fix the cerbot certificates   +online
-(C) 10 Message Phoebe for advice.   +online
 (C) Read minutes and do actions  +online
-(C) Write the seven social media posts (a-fcuking-gain) 
+(C) Write the seven social media posts (a-fcuking-gain) Including the book you got
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book) Into Google Drive   +Internet
 (D) 20 Find and fix bug in the pageset that Kirsty found.  +online
 (D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
 (D) 60 Do full accounts algorithm +EQT Time:99 +online
 (E) 10 Fix lnc on vim.  +offline 
 (E) 10 Sort stationary drawer +EQT +offline 
-(E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(E) 10 Social post about that book you got.  +online 
