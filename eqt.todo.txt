@@ -1,4 +1,3 @@
-(B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT +Internet
 (B) AGM dates doodle poll  +Internet
 (B) More dreamhost migration.  +Internet
 (B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
@@ -10,22 +9,14 @@
 (C) Email Treasurer about pay bonus for staff   +online
 (C) Fix the cerbot certificates   +online
 (C) Message Phoebe for advice.   +online
-(C) Read minuts and do actions  +online
-(C) Start Accounts project for the year.  +online  
+(C) Read minutes and do actions  +online
 (C) Write the seven social media posts (a-fcuking-gain) 
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book) Into Google Drive   +Internet
 (D) 20 Find and fix bug in the pageset that Kirsty found.  +online
 (D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
 (D) 60 Do full accounts algorithm +EQT Time:99 +online
-(E) 10 Find out about saving AWS impage +EQT
 (E) 10 Fix lnc on vim.  +offline 
 (E) 10 Sort stationary drawer +EQT +offline 
 (E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(E) Fix the internet-off cron (is crontab only for joereddingtonfileless)?  +offline 
 (E) Social post about that book you got.  +online 
-x 2022-09-21 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT +offline 
-x 2022-09-21 10 Map new ten year and one year goals.  +offline 
-x 2022-09-21 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT +offline 
-x 2022-09-21 20 Read a chapter of Quickbooks book  +offline 
-x 2022-09-21 Put the price calculator on the website +offline (because code)  
