@@ -2,7 +2,7 @@
 (E) 10 Fix lnc on vim.  +offline 
 (D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
 (B) 10 AGM dates doodle poll  +Internet
-(B) 20 Upload the duplicator achive to the AWS site
+(B) 20 scp the duplicator achive to the AWS site
 (B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
 (C) 05 Ask Iyun about getting work in Manchester area and set up emails +EQT +Internet
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
