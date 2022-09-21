@@ -1,34 +1,31 @@
-(B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
-(B) AGM dates doodle poll 
-(B) More dreamhost migration. 
-(B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity) 
-(C) 10 Brainstorm ways of getting work in Manchester area  +EQT
+(B) 20 Find a list of small disability charitytiues Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT +Internet
+(B) AGM dates doodle poll  +Internet
+(B) More dreamhost migration.  +Internet
+(B) review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
+(C) 05 Ask Iyun about getting work in Manchester area and set up emails +EQT +Internet
 (C) 10 Move these to the IMPS3 project board  Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(C) 20 Read a chapter of GTD book 
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 30 Process the delores.todo list +EQT
-(C) Do an organisation risk list and use the template that Rachel sent +EQT
-(C) Email Treasurer about pay bonus for staff  
-(C) Fix the cerbot certificates  
-(C) Message Phoebe for advice.  
-(C) Read minuts and do actions 
-(C) Start Accounts project for the year. 
+(C) Do an organisation risk list and use the template that Rachel sent +EQT +online
+(C) Email Treasurer about pay bonus for staff   +online
+(C) Fix the cerbot certificates   +online
+(C) Message Phoebe for advice.   +online
+(C) Read minuts and do actions  +online
+(C) Start Accounts project for the year.  +online  
 (C) Write the seven social media posts (a-fcuking-gain) 
-(D) 05 Write up the packing list for HMP Styal (p7 of pink book)  
-(D) 10 Brainstorm on the ten year and one year goals. 
-(D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) 20 Find and fix bug in the pageset that Kirsty found. 
-(D) 20 Read a chapter of Quickbooks book 
-(D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) 60 Do full accounts algorithm +EQT Time:99
-(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(D) 05 Write up the packing list for HMP Styal (p7 of pink book) Into Google Drive   +Internet
+(D) 10 Brainstorm on the ten year and one year goals.  +offline 
+(D) 10 Re-brainstorm the driving seat project: https://github.com/eQualityTime/Home/issues/106 +EQT +offline 
+(D) 20 Find and fix bug in the pageset that Kirsty found.  +online
+(D) 20 Read a chapter of Quickbooks book  +offline 
+(D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
+(D) 60 Do full accounts algorithm +EQT Time:99 +online
+(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT +offline 
 (E) 10 Find out about saving AWS impage +EQT
-(E) 10 Fix lnc on vim. 
-(E) 10 Rewrite the list of projects with 'who does it help' 'how much does it help them' and 'how much does it cost' 
-(E) 10 Sort stationary drawer +EQT
-(E) 10 blog and then Post to WWW facebook page +EQT  @phone  Time:10 
+(E) 10 Fix lnc on vim.  +offline 
+(E) 10 Sort stationary drawer +EQT +offline 
 (E) 20 Add nginx restart to AWS cron 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(E) Fix the internet-off cron (is crontab only for joereddingtonfileless)? 
-(E) OScial post about that book you got. 
-(E) Put the price calculator on the website
+(E) Fix the internet-off cron (is crontab only for joereddingtonfileless)?  +offline 
+(E) Put the price calculator on the website +offline (because code)  
+(E) Social post about that book you got.  +online 
