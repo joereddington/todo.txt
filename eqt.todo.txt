@@ -8,7 +8,7 @@
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
 (C) 10 Read minutes and do actions  +online
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 30 Process the delores.todo list +EQT +offline
+x 2022-09-21 30 Process the delores.todo list +EQT +offline
 (C) 30 Write the seven social media posts (a-fcuking-gain) Including the book you got
 (D) 05 Write up the packing list for HMP Styal (p7 of pink book) Into Google Drive   +Internet
 (D) 20 Find and fix bug in the pageset that Kirsty found.  +online
