@@ -13,7 +13,6 @@
 (C) Buy a couple of scott pilgrim books 
 (C) Fix comic site +online(C) Fix comic site +online 
 (C) Get deed of trust signed 
-(C) Map cradle project 
 (C) Put drain on dryer (it's in the drawer)  
 (C) Replace boards for Garage pit 
 (C) Start halloween project. 
@@ -49,7 +48,4 @@
 (E) Move ladder into garage. 
 (E) Put Running clothes kept downstairs? 
 (E) Review these speech bubble approaches
-(E) See if you can put Google calendar on watch to improve internet stuff. 
-x 2022-09-25 20 Practice handstands and cartwheels with Nova.  +offline 
-x 2022-09-25 Buy self guardian of galaxy dvd 
-x 2022-09-25 Put vasiline on training rubiks cube 
+x 2022-09-25 See if you can put Google calendar on watch to improve internet stuff. 
