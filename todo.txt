@@ -1,11 +1,4 @@
 (B) 10 Email Kat with budgeting map and research disneyland project on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
-(E) Review these speech bubble approaches
-(C) Fix comic site +online(C) Fix comic site +online 
-(E) Put Running clothes kept downstairs? 
-(C) Buy a couple of scott pilgrim books 
-(C) Get deed of trust signed 
-(C) Put drain on dryer (it's in the drawer)  
-(C) Update blog post on laptop 
 (B) Buy Nova some lights and reflective gear. 
 (C) 05 Put together ingredients for ice-cream +offline 
 (C) 10 Brainstorm and rewrite wheel of life  +offline 
@@ -14,13 +7,17 @@
 (C) 15 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171  +internet
 (C) 15 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) 20 Blog bread  +internet 
-(C) 20 Practice handstands and cartwheels with Nova.  +offline 
 (C) 25 Book theratre tickets for kat - Hamilton or Potter  +internet
 (C) 25 Process memories from childhood in boxes  +offline 
 (C) 60 Do another lesson of the fermentation course   Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects +Download 
+(C) Buy a couple of scott pilgrim books 
+(C) Fix comic site +online(C) Fix comic site +online 
+(C) Get deed of trust signed 
 (C) Map cradle project 
+(C) Put drain on dryer (it's in the drawer)  
 (C) Replace boards for Garage pit 
 (C) Start halloween project. 
+(C) Update blog post on laptop 
 (C) Write gratitude blog 
 (D) 04 Send a message to Redddington whatsapp group abotu excitement  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (D) 10 Brainstorm on positivity again: https://github.com/joereddington/Projects-Private/issues/182 +PersonalProjects +offline
@@ -33,7 +30,7 @@
 (D) 60 Put Radiator on the wall: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects+offline
 (D) 60 Spend 1 hour reorganisting garage  on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects+offline
 (D) Download app for NHS percriptions .
-(E) 02 Put bag of mending stuff in the car.  +offline 
+(E) 02 Put bag of mending stuff in the car (include faviourte jumper .  +offline 
 (E) 10 Brainstorm  plans for next two weekends.+Overhead @phone  Time:06 +offline
 (E) 10 Find youtube video about food injector ideas +download
 (E) 10 Map Football project with Leo  +offline 
@@ -47,9 +44,12 @@
 (E) 20 Setup email for nova.  +Internet
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +offline 
 (E) 20 Write out 'best ordinary days' essay.  +offline 
-(E) Buy self guardian of galaxy dvd 
 (E) For Nova's christmas list - lego technique 
 (E) Get a code review done on a comic. 
 (E) Move ladder into garage. 
-(E) Put vasiline on training rubiks cube 
+(E) Put Running clothes kept downstairs? 
+(E) Review these speech bubble approaches
 (E) See if you can put Google calendar on watch to improve internet stuff. 
+x 2022-09-25 20 Practice handstands and cartwheels with Nova.  +offline 
+x 2022-09-25 Buy self guardian of galaxy dvd 
+x 2022-09-25 Put vasiline on training rubiks cube 
