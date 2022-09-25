@@ -1,5 +1,5 @@
-(A) Plan birthday 
-(B) Put Lights on Nova bike. 
+(A) Plan birthday  +offline 
+(B) Put Lights on Nova bike.  +offline 
 (C) 05 Put together ingredients for ice-cream +offline 
 (C) 10 Brainstorm and rewrite wheel of life  +offline 
 (C) 10 Brainstorm on Delores on weekend days. +offline
