@@ -1,23 +1,23 @@
-(A) Look up pph of camp leaders
-(A) Brainstorm on when to run Igor
-(B) 10 AGM dates doodle poll  +Internet
+x 2022-09-26 Look up pph of camp leaders
 (A) Review and rewrite the Tightrope document
-(C) Invoice for Tightrope
+(B) 10 AGM dates doodle poll  +Internet
 (B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
-(E) Brainstorm rolling Google Ads projects
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 30 Write the seven social media posts (a-fcuking-gain) Including the book you got
+(C) Backup the CK downloads folder on dreamhost
+(C) Invoice for Tightrope
+(C) add Project Hunter and Driving Seat to the project selection document. 
+(C) create doodle poll for AGM dates.
+(C) review the project breakdown document and send to all trustees in advance of the next meeting.
+(C) write up research on 10,000 missing kids. 
 (D) 20 Find and fix bug in the pageset that Kirsty found.  +online
 (D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
 (D) 60 Do full accounts algorithm +EQT Time:99 +online
+(D) Brainstorm on when to run Igor
 (E) 10 Fix lnc on vim.  +offline 
 (E) 10 Sort stationary drawer +EQT +offline 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(C) add Project Hunter and Driving Seat to the project selection document. 
-(C) review the project breakdown document and send to all trustees in advance of the next meeting.
-(C) create doodle poll for AGM dates.
-(C) write up research on 10,000 missing kids. 
-(C) Backup the CK downloads folder on dreamhost
-(c) map a rolling google ads project - four tasks, look at them week by week. long term goals, short term changes. (there are three projects right?)   
+(E) Brainstorm rolling Google Ads projects
 (c) experiment with using a remote aws machine for work.  
+(c) map a rolling google ads project - four tasks, look at them week by week. long term goals, short term changes. (there are three projects right?)   
