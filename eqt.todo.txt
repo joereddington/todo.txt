@@ -1,5 +1,5 @@
 x 2022-09-26 Review and rewrite the Tightrope document
-(-) 10 AGM dates doodle poll  +Internet
+(A) 10 AGM dates doodle poll  +Internet
 (B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
