@@ -1,6 +1,10 @@
 (A) Look up pph of camp leaders
+(A) Brainstorm on when to run Igor
 (B) 10 AGM dates doodle poll  +Internet
+(A) Review and rewrite the Tightrope document
+(C) Invoice for Tightrope
 (B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
+(E) Brainstorm rolling Google Ads projects
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 30 Write the seven social media posts (a-fcuking-gain) Including the book you got
@@ -15,3 +19,5 @@
 (C) create doodle poll for AGM dates.
 (C) write up research on 10,000 missing kids. 
 (C) Backup the CK downloads folder on dreamhost
+(c) map a rolling google ads project - four tasks, look at them week by week. long term goals, short term changes. (there are three projects right?)   
+(c) experiment with using a remote aws machine for work.  
