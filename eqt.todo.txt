@@ -16,6 +16,7 @@
 (C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
 (C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(D) Fix the reconciliation balance in Quickbooks 
 (C) 30 Write the seven social media posts (a-fcuking-gain) Including the book you got
 (C) Backup the CK downloads folder on dreamhost
 (C) Invoice for Tightrope
