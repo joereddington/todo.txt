@@ -4,6 +4,7 @@
 (A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
+(A) Arrange tasks so that the manchester emails and the Google Ads are higher up. 
 (B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
