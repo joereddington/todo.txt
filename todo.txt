@@ -1,5 +1,6 @@
 (A Kat, mum and dad) Get kat to check mum and dad's visit dates
 (A Richard) map MCM comic Con project
+(E) Lookup tools for repairing zips on amazon.
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Event - proper check in with Novus 
 (A) Plan birthday  +offline 
