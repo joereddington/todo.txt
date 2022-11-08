@@ -1,78 +1,20 @@
-(.) Work on: https://github.com/eQualityTime/Home/issues/124 +EQT
-(A) Prepare slides for the first Tightrope session 
-(A) Proper full check in with Prison person. 
-(A) 10 AGM dates doodle poll  +Internet
-(A) Arrange tasks so that the manchester emails and the Google Ads are higher up. 
-(A) Email  +online 
-(A) Invesigate the Luton Grant that had the easy read +Internet 
-(A) Work on: Winter 2021 Prison Camps  https://github.com/eQualityTime/Public/issues/134 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/123 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(B) 30 review project document and send to trustees seven days before meeintg (include some aspects of funding diversity)  +Internet
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Work on: Contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Move the OVF stack to AWS  https://github.com/eQualityTime/Public/issues/148 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Properly develop Drawing version of TMC https://github.com/eQualityTime/Public/issues/106 +EQT
-(B) Work on: Small Issue Round-up https://github.com/eQualityTime/TheOpenVoiceFactory/issues/143 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/119 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) 10 Do an organisation risk list and use the template that Rachel sent +EQT +online
-(C) 2. Switch to live account and start streaming +EQT @singleton 
-(C) 20 minutes tidying up dropbox  on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 30 Write the seven social media posts (a-fcuking-gain) Including the book you got
-(C) Backup the CK downloads folder on dreamhost
-(C) Invoice for Tightrope
-(C) Work on: Communicate V3 Release  https://github.com/eQualityTime/CommuniKate/issues/5 +EQT
-(C) Work on: Four IMPS3 Sprints  https://github.com/eQualityTime/Public/issues/159 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Scotland camp  https://github.com/eQualityTime/Public/issues/108 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) add Project Hunter and Driving Seat to the project selection document. 
-(C) create doodle poll for AGM dates.
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Read GTD book. +EQT
-(C) review the project breakdown document and send to all trustees in advance of the next meeting.
-(C) write up research on 10,000 missing kids. 
-(D) 20 Find and fix bug in the pageset that Kirsty found.  +online
-(D) 40 Write the code for the MAT Letter on: https://github.com/eQualityTime/Home/issues/114 +EQT +offline 
-(D) 60 Do full accounts algorithm +EQT Time:99 +online
-(D) Brainstorm on when to run Igor
-(D) Do full accounts algorithm +EQT 
-(D) Fix the reconciliation balance in Quickbooks 
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(D) Work on: Mass re-upload of books. https://github.com/eQualityTime/Public/issues/151 +EQT
-(D) Work on: Prove Google Ads works for Driving Seat Project https://github.com/eQualityTime/Public/issues/129 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/106 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Read Quickbooks book +EQT
-(D) map project:Read VIm book  +EQT
-(D) map project:Read papers for CSRG +EQT
-(E) 10 Fix lnc on vim.  +offline 
-(E) 10 Sort stationary drawer +EQT +offline 
-(E) 20 Search for funding for eQuality Time Projects +EQT
-(E) Backup AWS +EQT
-(E) Brainstorm rolling Google Ads projects
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-(c) experiment with using a remote aws machine for work.  
-(c) map a rolling google ads project - four tasks, look at them week by week. long term goals, short term changes. (there are three projects right?)   
-x 2022-09-26 Look up pph of camp leaders
-x 2022-09-26 Review and rewrite the Tightrope document
+(A) 30 Email some more 6th forms for tightrope.  +online
+(A) 40 Make corrections to accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT +online
+(A) 50 Update slidedeck  https://github.com/eQualityTime/Home/issues/126 +EQT +online
+(B) 10 Make list of exercises for ten year goals: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects +EQT
+(B) 20 work on the chainmail code for contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
+(B) 60 Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +online
+(B) Get Supertitle code out and see if it runs (put in proper repos, that sort of thing...) 
+(C) 10 Write a good issue for apply to Wikimedia for funding for Digital Local Heros https://github.com/eQualityTime/Public/issues/165 +EQU +online
+(C) 15 Test the new OVF commits on sever (and write social media about)  +online
+(D) 10 Remap marketing plan https://github.com/eQualityTime/Home/issues/116 +EQT
+(D) 15 uploaded all changed git code +EQT +online
+(D) 20 Make another Google ads change. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D) 40 Work on Mat code in chainmail  on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(E) 04 Ask Yvonne for the paperwork for Library fund +online
+(E) 10 Follow up with Brunel Karen about camps +online
+(E) 10 Review starred items in feeds @overhead @online 
+(E) 20 Search for funding for eQuality Time Projects +EQT +online 
+(E) 40 Update book covers and post to WWW facebook page +EQT  @phone   +online 
+(E) Fix the '04' on the CK20 demo 
+(E) Put the domesday dataset back up. 
