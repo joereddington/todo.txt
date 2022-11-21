@@ -1,20 +1,5 @@
-(A) 30 Email some more 6th forms for tightrope.  +online
-(A) 40 Make corrections to accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT +online
-(A) 50 Update slidedeck  https://github.com/eQualityTime/Home/issues/126 +EQT +online
-(B) 10 Make list of exercises for ten year goals: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects +EQT
-(B) 20 work on the chainmail code for contact UK charities about OVF  https://github.com/eQualityTime/Public/issues/161 +EQT
-(B) 60 Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +online
-(B) Get Supertitle code out and see if it runs (put in proper repos, that sort of thing...) 
-(C) 10 Write a good issue for apply to Wikimedia for funding for Digital Local Heros https://github.com/eQualityTime/Public/issues/165 +EQU +online
-(C) 15 Test the new OVF commits on sever (and write social media about)  +online
-(D) 10 Remap marketing plan https://github.com/eQualityTime/Home/issues/116 +EQT
-(D) 15 uploaded all changed git code +EQT +online
-(D) 20 Make another Google ads change. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) 40 Work on Mat code in chainmail  on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(E) 04 Ask Yvonne for the paperwork for Library fund +online
-(E) 10 Follow up with Brunel Karen about camps +online
-(E) 10 Review starred items in feeds @overhead @online 
-(E) 20 Search for funding for eQuality Time Projects +EQT +online 
-(E) 40 Update book covers and post to WWW facebook page +EQT  @phone   +online 
-(E) Fix the '04' on the CK20 demo 
-(E) Put the domesday dataset back up. 
+(C) 20 Review some policies https://github.com/eQualityTime/Public/issues/57 +EQT
+x 2022-11-17 05 Book time for ten year plan checking. 
+(E) 40 Dig out supertitle again. 
+  * Review the old Backup drive. 
+  * Test the code you have already. 
