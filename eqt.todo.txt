@@ -1,5 +1,7 @@
+(A) Map project for getting Super title up and running
+(A) Rewrite the next session for strodes
+(B) Review all the damn email reviews 
 (C) 20 Review some policies https://github.com/eQualityTime/Public/issues/57 +EQT
-x 2022-11-17 05 Book time for ten year plan checking. 
+(C) Build the followup sheet for manchester schools and sort it. 
 (E) 40 Dig out supertitle again. 
-  * Review the old Backup drive. 
-  * Test the code you have already. 
+(E) Fix analytiuscs. 

@@ -11,17 +11,14 @@
 (C) Lookup pension rules on MoneySavingexpert +online
 (C) Make a list of people to message about your book. 
 (C) Put up lock box @garage  @offine
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Watch another marvel commentary https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects @offline
 (C) Work on: Complete the food online courses https://github.com/joereddington/Projects-Public/issues/43 +PersonalProjects
-x 2022-11-18 Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) 10 Completely remap party planning issue: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) 10 Find out how to print a family tree : https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects @offline
-(D) 15 Review the memory palace you built for Kat: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects +download @online
 (D) Check starred messages in kat whatsapp 
 (D) Work on: Add these features in public internet history.  https://github.com/joereddington/export-history/issues/2 +PersonalProjects
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
@@ -43,14 +40,11 @@ x 2022-11-18 Work on: Game of House of Books https://github.com/joereddington/Pr
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 02 Get duct tape for chairs from garage  
 (E) 10 Do Menu for the week +Family  @phone   @offline
-(E) 10 Map Football project with Leo  @offline @offline
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(E) 10 process Garage inbox. @offline 
 (E) 20 Brainstorm and then write Write out 'best ordinary days' essay.  @offline 
 (E) 20 Check the hoses will work with the radiator
 (E) 20 Setup email for nova in aws.  @online@online
 (E) 30 Create an MCVE comic asking for a code review. 
-(E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Empty Joe inbox completely +Overhead    
 (E) Send the memory book to brazil 
@@ -62,9 +56,12 @@ x 2022-11-18 Work on: Game of House of Books https://github.com/joereddington/Pr
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
+(E) Get suit trousers altered. 
+(E) Find out about becoming a counceler 
 (E) Publicly thank someone professional +Overhead  
 (E) Save a nice family memory +Family @phone    
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
 (E) Take thermal camera photo from outside house. 
 (E) Transfer the dyslexia post to blog 
 (E) process Garage inbox. 
+(E) Put hairband on Nova climbing packing notes (also helmet) 
