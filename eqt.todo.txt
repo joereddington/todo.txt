@@ -1,6 +1,3 @@
-(A) Email 30 schools about tightrope 
-(B) 30 minutes processing dropbox. https://github.com/eQualityTime/Home/issues/120 +EQT
-(E) Mark the AGM meetings properly in the dropbox.  
 (B) Review the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (B) Review the other OVF manual https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Show Kat what you did for the charity contacts list.  https://github.com/eQualityTime/Public/issues/155 +EQT
@@ -15,6 +12,7 @@
 (D) Make sure that every Novus invoice has a seperate invoice number and that the spreadsheet matches. 
 (D) Run the chainmail code for MAT and make a list of steps needed on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+(E) Mark the AGM meetings properly in the dropbox.  
 (E) Post funding to WWW facebook page +EQT  @phone   
 (E) Process the 'in process' drawer 
 (E) Rearrange the wires for the main machine. 
