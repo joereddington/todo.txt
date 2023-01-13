@@ -1,7 +1,4 @@
 (A) Contact LCK about last tightrope school. 
-(B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
-(B) Work on: Supertitle resurrection https://github.com/eQualityTime/Public/issues/169 +EQT
-(B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Update accounts. 
