@@ -1,1 +1,22 @@
-(B) Post books to Katy Adams Eastwood Academy, Southend, SS9 5UU.  +EQT
+(A) Book hotels and things for Hewell camp 
+(A) Contact LCK about last tightrope school. 
+(B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
+(B) Work on: Supertitle resurrection https://github.com/eQualityTime/Public/issues/169 +EQT
+(B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
+(B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
+(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(C) Update accounts. 
+(C) Read https://www.gloucestershire.gov.uk/media/4361/cme_guide_september_20166e9e.pdf
+(D) Setup Child protection training for Iyun 
+(C) Fix 'or try the older viewer here' +EQT 
+(C) Do all expenses from Hosting 
+(C) Next sprint on developing IMPS3  +EQT
+(C) Next sprint on developing OVF  +EQT
+(C) Review all emails to schools in Manchester https://github.com/eQualityTime/Home/issues/128 +EQT
+(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(D) All Employees should have uploaded all changed git code +EQT
+(D) Check the 'IMPS to allbooksever' code
+(D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
+(B) Take books to post office. 

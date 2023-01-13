@@ -1,31 +1,49 @@
-(A) Put the radiator attachments on the radiator 
+(E) Take mirror off wall and decide plans
 (A) 10 Map Nova's birthday party 
-(C) Print out any documents we need/want for Disneyland. 
-(E) Attach masking tape and pens to something in the loft
-(C) Thank you for Mr hussian. 
-(C) Review and print the personal todo list for fridge. 
-(C) Buy another pair of jeans - you can't go on holiday with JUST  one. 
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
+(B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though...
 (C) 05 work out who the next unrelated person at your house will be to  Get deed of trust signed  @offline
-(C) 15 Put drain on dryer (it's in the drawer)   @offline
+x 2023-01-07 15 Put drain on dryer (it's in the drawer)   @offline
+(C) Buy another pair of jeans - you can't go on holiday with JUST  one. 
 (C) Make a list of people to message about your book. 
+(C) Print out any documents we need/want for Disneyland. 
 (C) Put Labels on boxes
 (C) Put up lock box @garage  @offine
+(C) Review and print the personal todo list for fridge. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Test Yorkshire puddings. 
+(C) Thank you for Mr hussian. 
 (C) Watch another marvel commentary https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects @offline
+(C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
+(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) 10 Completely remap party planning issue: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) 10 Find out how to print a family tree : https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects @offline
 (D) Check starred messages in kat whatsapp 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) Work on: Add these features in public internet history.  https://github.com/joereddington/export-history/issues/2 +PersonalProjects
+(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/198 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (D) map project:Get up to date with all expenses.  +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 10 Do Menu for the week +Family  @phone   @offline
@@ -34,6 +52,7 @@
 (E) 30 Create an MCVE comic asking for a code review. 
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonial from completed fundings
+(E) Attach masking tape and pens to something in the loft
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
@@ -62,8 +81,8 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Send the memory book to brazil 
 (E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
+(E) Send the memory book to brazil 
 (E) Set Kat's ear buds up with your phone. 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health  
