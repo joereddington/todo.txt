@@ -1,4 +1,3 @@
-x 2023-01-13 Book hotels and things for Hewell camp 
 (A) Contact LCK about last tightrope school. 
 (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 (B) Work on: Supertitle resurrection https://github.com/eQualityTime/Public/issues/169 +EQT
@@ -12,11 +11,9 @@ x 2023-01-13 Book hotels and things for Hewell camp
 (C) Do all expenses from Hosting 
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
-(C) Review all emails to schools in Manchester https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) All Employees should have uploaded all changed git code +EQT
 (D) Check the 'IMPS to allbooksever' code
 (D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-x 2023-01-13 Take books to post office. 
