@@ -1,4 +1,4 @@
-(A) Book hotels and things for Hewell camp 
+x 2023-01-13 Book hotels and things for Hewell camp 
 (A) Contact LCK about last tightrope school. 
 (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
 (B) Work on: Supertitle resurrection https://github.com/eQualityTime/Public/issues/169 +EQT
@@ -19,4 +19,4 @@
 (D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: Give some talks on Collaborative writing. https://github.com/eQualityTime/Public/issues/156 +EQT
-(B) Take books to post office. 
+x 2023-01-13 Take books to post office. 

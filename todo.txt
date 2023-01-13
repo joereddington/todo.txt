@@ -1,6 +1,7 @@
 (E) Take mirror off wall and decide plans
 (A) Fix radiator leak 
 (A) 10 Map Nova's birthday party 
+(C) Fix sealent in compost bin 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
