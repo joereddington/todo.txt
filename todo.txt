@@ -1,14 +1,11 @@
-(E) Take mirror off wall and decide plans
 (A) Fix radiator leak 
-(A) 10 Map Nova's birthday party 
-(C) Fix sealent in compost bin 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+x 2023-01-15 Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though...
 (C) 05 work out who the next unrelated person at your house will be to  Get deed of trust signed  @offline
-x 2023-01-07 15 Put drain on dryer (it's in the drawer)   @offline
 (C) Buy another pair of jeans - you can't go on holiday with JUST  one. 
+(C) Fix sealent in compost bin 
 (C) Make a list of people to message about your book. 
 (C) Print out any documents we need/want for Disneyland. 
 (C) Put Labels on boxes
@@ -55,6 +52,7 @@ x 2023-01-07 15 Put drain on dryer (it's in the drawer)   @offline
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonial from completed fundings
 (E) Attach masking tape and pens to something in the loft
+(E) Buy glitterball
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
@@ -83,14 +81,18 @@ x 2023-01-07 15 Put drain on dryer (it's in the drawer)   @offline
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
 (E) Send the memory book to brazil 
+(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
 (E) Set Kat's ear buds up with your phone. 
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health  
+(E) Take mirror off wall and decide plans
 (E) Take thermal camera photo from outside house. 
+(E) Transfer money for car mot and new washing machine. 
 (E) Transfer the dyslexia post to blog 
 (E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
+x 2023-01-07 15 Put drain on dryer (it's in the drawer)   @offline
+x 2023-01-15 10 Map Nova's birthday party 
