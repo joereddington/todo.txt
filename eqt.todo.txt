@@ -9,5 +9,6 @@
 (C) Next sprint on developing OVF  +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) All Employees should have uploaded all changed git code +EQT
+(B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
 (D) Check the 'IMPS to allbooksever' code
 (D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
