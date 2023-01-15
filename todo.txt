@@ -13,17 +13,17 @@
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 x 2023-01-15 Check starred messages in kat whatsapp 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Work on: Add these features in public internet history.  https://github.com/joereddington/export-history/issues/2 +PersonalProjects
-(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+x 2023-01-15 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2023-01-15 Work on: Add these features in public internet history.  https://github.com/joereddington/export-history/issues/2 +PersonalProjects
+x 2023-01-15 Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+x 2023-01-15 Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+x 2023-01-15 Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+x 2023-01-15 Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
+x 2023-01-15 Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+x 2023-01-15 Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/175 +PersonalProjects
