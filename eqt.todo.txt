@@ -5,7 +5,7 @@
 (E) Write screenshot code
 (A) Print out "Cause' cards for Tightrope 
 (B) Another invoice for Tightrope
-
+(E) Delores - make process inbox.md a separate page
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Update accounts. 
