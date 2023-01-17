@@ -10,6 +10,7 @@
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Update accounts. 
 (D) Setup Child protection training for Iyun 
+(B) Process hindley book 
 (C) Fix 'or try the older viewer here' +EQT 
 (C) Do all expenses from Hosting 
 (C) Next sprint on developing IMPS3  +EQT
