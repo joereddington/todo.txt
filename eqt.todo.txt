@@ -1,6 +1,11 @@
 (A) Rewrite the first three sessions for tightrope. 
 (A) Contact LCK about last tightrope school. 
 (A) Send staff prison 'you've got it from here' message. 
+(E) WOrk out how many camps you need for 100% of your role. 
+(E) Write screenshot code
+(A) Print out "Cause' cards for Tightrope 
+(B) Another invoice for Tightrope
+
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Update accounts. 
