@@ -1,6 +1,6 @@
 (A) Print out "Cause' cards for Tightrope 
 (A) Rewrite the first three sessions for tightrope. 
-(A) Send staff prison 'you've got it from here' message. 
+x 2023-01-18 Send staff prison 'you've got it from here' message. 
 (B) Another invoice for Tightrope
 (B) Process hindley book 
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
@@ -10,7 +10,8 @@
 (C) Fix 'or try the older viewer here' +EQT 
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
-(C) Update accounts. 
+(C) Complete task in sessions/ovfbug.vim 
+(A) Update accounts. 
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) All Employees should have uploaded all changed git code +EQT
 (D) Check the 'IMPS to allbooksever' code
