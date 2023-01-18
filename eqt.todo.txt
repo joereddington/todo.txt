@@ -2,12 +2,11 @@
 (B) Process hindley book 
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
+(C) Complete task in sessions/ovfbug.vim 
 (C) Do all expenses from Hosting 
 (C) Fix 'or try the older viewer here' +EQT 
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
-(C) Complete task in sessions/ovfbug.vim 
-(A) Update accounts. 
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) All Employees should have uploaded all changed git code +EQT
 (D) Check the 'IMPS to allbooksever' code
@@ -16,3 +15,4 @@
 (E) Delores - make process inbox.md a separate page
 (E) WOrk out how many camps you need for 100% of your role. 
 (E) Write screenshot code
+(E) Make sure doxdirect (7.48) and my travel expenses get charged to Tighrope 
