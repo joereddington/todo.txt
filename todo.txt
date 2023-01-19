@@ -15,7 +15,6 @@
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(E) 10 Do Menu for the week +Family  @phone   @offline
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 20 Setup email for nova in aws.  @online@online
 (E) 30 Create an MCVE comic asking for a code review. 
@@ -36,5 +35,3 @@
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Take thermal camera photo from outside house. 
 (E) Transfer the dyslexia post to blog 
-x 2023-01-19 Update Goodreads with the current book and your progress +Overhead  @phone   
-x 2023-01-19 Write Moonpig cards for this month +Overhead
