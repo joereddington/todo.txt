@@ -1,22 +1,20 @@
 (B) See Avatar 
-(C) Take identity documents to school 
-(D) Put up desk in garage 
-(E) Find clock face randomiser for NOva. (also youtube videos)  
-(E) Put a bunch of youtube videos on Nova's watchlist. 
 (C) Fix sealant in compost bin 
 (C) Make a list of people to message about your book. 
 (C) Print out any documents we need/want for Disneyland. 
 (C) Put Labels on boxes
 (C) Put up lock box @garage  @offine
 (C) Review and print the personal todo list for fridge. 
+(C) Take identity documents to school 
 (C) Watch another marvel commentary https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects @offline
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(D) Put up desk in garage 
+(D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 10 Do Menu for the week +Family  @phone   @offline
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 20 Setup email for nova in aws.  @online@online
@@ -24,17 +22,19 @@
 (E) Attach masking tape and pens to something in the loft
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Find clock face randomiser for NOva. (also youtube videos)  
 (E) Find out about becoming a counselor 
+(E) Get different nut butters for the kdis
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone professional +Overhead  
+(E) Put a bunch of youtube videos on Nova's watchlist. 
 (E) Put hairband on Nova climbing packing notes (also helmet) 
+(E) Put quotes on the Amazon description of the memory palace. 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Take thermal camera photo from outside house. 
 (E) Transfer the dyslexia post to blog 
-(E) Get different nut butters for the kdis
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Write Moonpig cards for this month +Overhead
-(E) Put quotes on the Amazon description of the memory palace. 
+x 2023-01-19 Update Goodreads with the current book and your progress +Overhead  @phone   
+x 2023-01-19 Write Moonpig cards for this month +Overhead
