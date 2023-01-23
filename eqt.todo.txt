@@ -4,10 +4,7 @@
 (C) Complete task in sessions/ovfbug.vim 
 (C) Do all expenses from Hosting 
 (C) Fix 'or try the older viewer here' +EQT 
-(C) Next sprint on developing IMPS3  +EQT
-(C) Next sprint on developing OVF  +EQT
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(D) All Employees should have uploaded all changed git code +EQT
-(D) Check the 'IMPS to allbooksever' code
-(D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(E) Delores - make process inbox.md a separate page
+(C) 20 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(D) 20 All Employees should have uploaded all changed git code +EQT
+(D) 20 Check the 'IMPS to allbooksever' code
+(D) 20 Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
