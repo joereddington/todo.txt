@@ -1,4 +1,3 @@
-(B) Another invoice for Tightrope
 (B) Process hindley book 
 (B) Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
@@ -11,8 +10,4 @@
 (D) All Employees should have uploaded all changed git code +EQT
 (D) Check the 'IMPS to allbooksever' code
 (D) Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Setup Child protection training for Iyun 
 (E) Delores - make process inbox.md a separate page
-(E) WOrk out how many camps you need for 100% of your role. 
-(E) Write screenshot code
-(E) Make sure doxdirect (7.48) and my travel expenses get charged to Tighrope 
