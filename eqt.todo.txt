@@ -1,9 +1,10 @@
-(B) Process hindley book 
 (A) Write slides for next sessions. 
-(B) 50 Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
+(D) Claim back NSCPP money 
 (B) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
-(C) 20 Complete task in sessions/ovfbug.vim 
+(B) 50 Write first report on Tightrope: https://github.com/eQualityTime/Home/issues/126 +EQT
+(B) Process hindley book 
 (C) 14 Do all expenses from Hosting 
+(C) 20 Complete task in sessions/ovfbug.vim 
 (C) 20 Fix 'or try the older viewer here' +EQT  +OpenVoiceFactory
 (C) 20 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) 20 All Employees should have uploaded all changed git code +EQT
