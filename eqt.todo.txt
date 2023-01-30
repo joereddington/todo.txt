@@ -7,7 +7,6 @@
 (C) 14 Do all expenses from Hosting 
 (C) 20 Complete task in sessions/ovfbug.vim 
 (C) 20 Fix 'or try the older viewer here' +EQT  +OpenVoiceFactory
-(C) 20 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) 20 All Employees should have uploaded all changed git code +EQT
 (D) 20 Check the 'IMPS to allbooksever' code
 (D) 20 Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
