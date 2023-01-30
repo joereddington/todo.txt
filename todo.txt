@@ -14,7 +14,8 @@
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(E) Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches
+(E) Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches - cut nails for everybody beforehand
+(C) Get replacement glasses 
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 20 Setup email for nova in aws.  @online@online
 (E) 30 Create an MCVE comic asking for a code review. 
