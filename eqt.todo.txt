@@ -2,6 +2,7 @@
 (A) Draft and publish gratitude post. 
 (B) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
 (B) Process hindley book 
+(B) Clear email. 
 (C) 14 Do all expenses from Hosting 
 (C) 20 Complete task in sessions/ovfbug.vim 
 (C) 20 Fix 'or try the older viewer here' +EQT  +OpenVoiceFactory
