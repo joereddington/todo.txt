@@ -13,6 +13,7 @@
 (B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
 (B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(B) Write some MIX sumibssions 
 (B) map project:Fix the OVF issue with spaces +EQT
 (B) map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
