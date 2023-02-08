@@ -1,4 +1,3 @@
- +EQT
 (A) Work on Tightrope.https://github.com/eQualityTime/Home/issues/126 
 (A) Find Teachers to reivew tightrope content 
 (A) Work on: Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
