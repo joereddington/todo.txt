@@ -1,36 +1,21 @@
 (A) Work on Tightrope.https://github.com/eQualityTime/Home/issues/126 
-(A) Find Teachers to reivew tightrope content 
-(A) Work on: Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
+(A) Send Terms of reference and invoice to UCLan 
+(A) Work on Garfield: https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) map project:Scotish Library Project  +EQT
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Process hindley book 
 (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
 (B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
 (B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) Write some MIX sumibssions 
 (B) map project:Fix the OVF issue with spaces +EQT
 (B) map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C due valentines day) Write three Pitches to MIX conference 
-(C due: End of play) Draft and publish gratitude post. 
 (C) 14 Do all expenses from Hosting 
-(C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) 20 Complete task in sessions/ovfbug.vim 
 (C) 20 Fix 'or try the older viewer here' +EQT  +OpenVoiceFactory
 (C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (C) map project:Next sprint on developing OVF  +EQT
@@ -40,29 +25,20 @@
 (D) 20 Check the 'IMPS to allbooksever' code
 (D) 20 Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Claim back NSCPP money 
-(D) Do full accounts algorithm +EQT 
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/116 +EQT
+x 2023-02-08 Do full accounts algorithm +EQT 
+x 2023-02-08 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+x 2023-02-08 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+x 2023-02-08 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
+(D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
 (D) map project:Continually improve and train on working practices and technology +EQT
 (D) map project:Read papers for CSRG +EQT
 (D) map project:Write code for IMPS3 to work with all books ever - worked on a bit around the 8th december +EQT
 (E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Make a list of workshops I could take Tightrope to
-(E) Open list of projects to be funded +EQT
 (E) Pay in Amazon cheque 
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Review starred items in feeds +Overhead +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-Run the OBZ archive command and save to an external drive.  +EQT
+10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+20 Run the OBZ archive command and save to an external drive.  +EQT
