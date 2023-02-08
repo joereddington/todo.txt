@@ -1,39 +1,34 @@
+(C) map project:Next sprint on developing OVF  +EQT
+(C) 20 Complete task in sessions/ovfbug.vim 
+(B) map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
+(B) map project:Fix the OVF issue with spaces +EQT
+(B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +OVF
+(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+
 (A) Work on Tightrope.https://github.com/eQualityTime/Home/issues/126 
 (A) Send Terms of reference and invoice to UCLan 
 (A) Work on Garfield: https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) map project:Scotish Library Project  +EQT
 (B) Process hindley book 
-(B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) map project:Fix the OVF issue with spaces +EQT
-(B) map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT OVF
+(B) 30 minuites tidying Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C due valentines day) Write three Pitches to MIX conference 
 (C) 14 Do all expenses from Hosting 
-(C) 20 Complete task in sessions/ovfbug.vim 
 (C) 20 Fix 'or try the older viewer here' +EQT  +OpenVoiceFactory
 (C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
 (C) map project:Process the delores.todo list +EQT
 (D) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
 (D) 20 All Employees should have uploaded all changed git code +EQT
 (D) 20 Check the 'IMPS to allbooksever' code
 (D) 20 Review and improve the MAT letter code  on: https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Claim back NSCPP money 
-x 2023-02-08 Do full accounts algorithm +EQT 
-x 2023-02-08 Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-x 2023-02-08 Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-x 2023-02-08 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
 (D) map project:Continually improve and train on working practices and technology +EQT
 (D) map project:Read papers for CSRG +EQT
-(D) map project:Write code for IMPS3 to work with all books ever - worked on a bit around the 8th december +EQT
 (E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Make a list of workshops I could take Tightrope to
@@ -41,4 +36,4 @@ x 2023-02-08 Work on: https://github.com/eQualityTime/Home/issues/107 +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Review starred items in feeds +Overhead +EQT
 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-20 Run the OBZ archive command and save to an external drive.  +EQT
+20 Run the OBZ archive command and save to an external drive.  +EQT OVF
