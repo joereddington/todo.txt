@@ -4,7 +4,6 @@
 (A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) map project:Scotish Library Project  +EQT
-(B) Clear email. 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Process hindley book 
 (B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT
