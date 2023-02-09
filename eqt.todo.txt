@@ -1,6 +1,7 @@
 (A) Work on Garfield: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Mailshot for Tighrope politics 
-(A) Mailshot for former Colleges  
+(C) Mailshot for Tighrope politics 
+(C) Mailshot for former Colleges  
+(C) Send the MAT packs. 
 (A) Work on Tightrope.https://github.com/eQualityTime/Home/issues/126 
 (A) map project:Scotish Library Project  +EQT
 (B) 30 minuites tidying Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
