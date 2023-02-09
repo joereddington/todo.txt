@@ -1,6 +1,6 @@
 (.) map project:Lair Project  +PersonalProjects
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Buy helium 
+(A) Really big tidy up on the emotional processing list, turn it into a blog 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
@@ -9,7 +9,6 @@
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though...
 (C) 1. Process Email @singleton +Overhead @phone  
-(D) Measure Nova's room for carpet 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) Fix sealant in compost bin 
@@ -32,6 +31,7 @@
 (C) deploy any commits from OVF that are hanging around. 
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) Check starred messages in kat whatsapp 
+(D) Measure Nova's room for carpet 
 (D) Put up desk in garage 
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -57,10 +57,10 @@
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Attach masking tape and pens to something in the loft
 (E) Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches - cut nails for everybody beforehand
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    

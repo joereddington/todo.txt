@@ -1,16 +1,19 @@
-(C) map project:Next sprint on developing OVF  +EQT
-(C) 20 Complete task in sessions/ovfbug.vim 
-(B) map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
-(B) map project:Fix the OVF issue with spaces +EQT
-(B) Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +OVF
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+20 Run the OBZ archive command and save to an external drive.  +EQT OVF
 
+x 2023-02-09 Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT OVF
+x 2023-02-09 Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+x 2023-02-09 Work on: Unit testing for php  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/144 +EQT +OVF
+x 2023-02-09 map project:Fix the OVF issue with spaces +EQT
+x 2023-02-09 map project:Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally.  +EQT
+x 2023-02-09 20 Complete task in sessions/ovfbug.vim 
+x 2023-02-09 map project:Next sprint on developing OVF  +EQT
+
+(E) Message C&S about https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145  
 (A) Work on Tightrope.https://github.com/eQualityTime/Home/issues/126 
-(A) Send Terms of reference and invoice to UCLan 
+x 2023-02-09 Send Terms of reference and invoice to UCLan 
 (A) Work on Garfield: https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) map project:Scotish Library Project  +EQT
 (B) Process hindley book 
-(B) Work on: Column row id being shown when there is no overlaying label.  https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145 +EQT OVF
 (B) 30 minuites tidying Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C due valentines day) Write three Pitches to MIX conference 
 (C) 14 Do all expenses from Hosting 
@@ -36,4 +39,3 @@
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Review starred items in feeds +Overhead +EQT
 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-20 Run the OBZ archive command and save to an external drive.  +EQT OVF
