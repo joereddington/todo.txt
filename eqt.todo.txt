@@ -7,7 +7,6 @@
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 14 Do all expenses from Hosting 
 (C) 20 Run the OBZ archive command and save to an external drive.  +EQT OVF
-(A) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
