@@ -1,59 +1,44 @@
 (.) 10 map project:Lair Project  +PersonalProjects
 (A) 30 Really big tidy up on the emotional processing list, turn it into a blog 
 (C) 05 Fix sealant in compost bin 
-(C) 10 Get more pairs of  glasses (including photochromic) 
-(C) Make a list of people to message about your book. 
-(C) Print out any documents we need/want for Disneyland. 
-(C) Put Labels on boxes
-(C) Put up lock box @garage  @offine
-(C) Review and print the personal todo list for fridge. 
-(C) Review and re-score  Wheel Of life
-(C) Take identity documents to school 
-(C) deploy any commits from OVF that are hanging around. 
+(C) 05 Put Labels on boxes
+(C) 10 Put up lock box @garage  @offine
+(C) * Review and print the personal todo list for fridge. 
 (D) Check starred messages in kat whatsapp 
-(D) Measure Nova's room for carpet 
-(D) Put up desk in garage 
-(D) map project:Get up to date with all expenses.  +PersonalProjects
-(E) 20 Setup email for nova in aws.  @online@online
+(D) 05 Measure Nova's room for carpet 
 (E) 30 Create an MCVE comic asking for a code review. 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Attach masking tape and pens to something in the loft
-(E) Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches - cut nails for everybody beforehand
-(E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Do Menu for the week +Family  @phone   
+(E) 04 Attach masking tape and pens to something in the loft
+(E) 15 Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches - cut nails for everybody beforehand
+(E) 05 Check ranking scripts +Overhead
+(E) 03 text Mention to mum about Richard calling me.
+(E) 10 Confirm plans for next two weekends.+Overhead @phone   
+(E) 05 Do Menu for the week +Family  @phone   
 (E) Do full review of the memory palace. 
-(E) Do meal plan for kids 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find clock face randomiser for NOva. (also youtube videos)  
+(E) 10 Do meal plan for kids 
+(E) 04 Find clock face randomiser for NOva. (also youtube videos)  
 (E) Find out about becoming a counselor 
-(E) Floss +Health   
+(E) 05 Floss +Health   
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
-(E) Lookup passport rules for Nova and then take photo 
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead  
+x 2023-02-10 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
+(E) 05 Lookup passport rules for Nova and then take photo 
+(E) 03 Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
+x 2023-02-10 Post to Vegan Facebook group  @phone   
+x 2023-02-10 Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Put a bunch of youtube videos on Nova's watchlist. 
-(E) Put hairband on Nova climbing packing notes (also helmet) 
-(E) Put quotes on the Amazon description of the memory palace. 
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) Take thermal camera photo from outside house. 
-(E) Transfer the dyslexia post to blog 
-(E) Write Moonpig cards for this month +Overhead
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(B) Set up playdate for Leo 
-(B) Contact people for visits
+(E) 04 Put hairband on Nova climbing packing notes (also helmet) 
+(E) 10 Put quotes on the Amazon description of the memory palace. 
+(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2023-02-10 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) 12 Take thermal camera photo from outside house. 
+(E) 10 Transfer the dyslexia post to blog 
+(E) 04 Write Moonpig cards for this month +Overhead
+(B) 03 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(C) 25 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+x 2023-02-10 Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(B) 03 Set up playdate for Leo 
+(B) 10 Contact people for visits
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
