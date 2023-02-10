@@ -1,10 +1,7 @@
-(.) map project:Lair Project  +PersonalProjects
-(A) Really big tidy up on the emotional processing list, turn it into a blog 
-(B) map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though...
-(C) 1. Process Email @singleton +Overhead @phone  
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Fix sealant in compost bin 
-(C) Get more pairs of  glasses (including photochromic) 
+(.) 10 map project:Lair Project  +PersonalProjects
+(A) 30 Really big tidy up on the emotional processing list, turn it into a blog 
+(C) 05 Fix sealant in compost bin 
+(C) 10 Get more pairs of  glasses (including photochromic) 
 (C) Make a list of people to message about your book. 
 (C) Print out any documents we need/want for Disneyland. 
 (C) Put Labels on boxes
@@ -57,24 +54,12 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (B) Set up playdate for Leo 
 (B) Contact people for visits
-x 2023-02-10 Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/203 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Take Paper in to the garage and lay out tools  https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Work on: Add these features in public internet history.  https://github.com/joereddington/export-history/issues/2 +PersonalProjects
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
