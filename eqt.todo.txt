@@ -8,7 +8,7 @@
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (D) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
-(D) 20 All Employees should have uploaded all changed git code +EQT
+x 2023-02-13 20 All Employees should have uploaded all changed git code +EQT
 (D) 20 Check the 'IMPS to allbooksever' code
 (D) 20 Send the MAT packs https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Claim back NSCPP money 
