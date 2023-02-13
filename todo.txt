@@ -19,24 +19,19 @@
 (E) Find out about becoming a counselor 
 (E) 05 Floss +Health   
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
-x 2023-02-10 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
 (E) 05 Lookup passport rules for Nova and then take photo 
 (E) 03 Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-x 2023-02-10 Post to Vegan Facebook group  @phone   
-x 2023-02-10 Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Put a bunch of youtube videos on Nova's watchlist. 
 (E) 04 Put hairband on Nova climbing packing notes (also helmet) 
 (E) 10 Put quotes on the Amazon description of the memory palace. 
 (E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-x 2023-02-10 Send §e:U2FsdGVkX1/72lGetKtb+aA4f5GuVhmjwuldWf83EF4=§ the giff of he liked  
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 12 Take thermal camera photo from outside house. 
 (E) 10 Transfer the dyslexia post to blog 
 (E) 04 Write Moonpig cards for this month +Overhead
 (B) 03 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (C) 25 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-x 2023-02-10 Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (B) 03 Set up playdate for Leo 
 (B) 10 Contact people for visits
 (D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
