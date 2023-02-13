@@ -18,4 +18,4 @@
 (E) Make a list of workshops I could take Tightrope to
 (E) Message C&S about https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145  
 (E) Pay in Amazon cheque 
-(E) Review starred items in feeds +Overhead +EQT
+x 2023-02-13 Review starred items in feeds +Overhead +EQT
