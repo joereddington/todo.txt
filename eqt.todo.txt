@@ -7,7 +7,7 @@
 (D) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
 (D) 20 Write php code so that when a camp is 'achieved' it asks for it's Amazon link and blurb 
 (D) 20 Send the MAT packs https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Claim back NSCPP money 
+x 2023-02-15 Claim back NSCPP money 
 (D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
 (E) Make a list of workshops I could take Tightrope to
 (E) Message C&S about https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145  
