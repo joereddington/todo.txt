@@ -9,4 +9,3 @@
 (D) 20 Send the MAT packs https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
 (E) Make a list of workshops I could take Tightrope to
-(E) Message C&S about https://github.com/eQualityTime/TheOpenVoiceFactory/issues/145  
