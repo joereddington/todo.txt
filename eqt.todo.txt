@@ -1,7 +1,5 @@
-(B) Process hindley book 
-(C) Mailshot for Tighrope politics 
-(C) Mailshot for former Colleges  
-(D) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, QBs, and NEST... there may be others though... +EQT
+(C) Mailshot for former schools that wanted books.   
+(D) 10 map project:would it be possible to change my name on everything please? Things that come to mind are the bank, and NEST... there may be others though... +EQT
 (D) 20 Write php code so that when a camp is 'achieved' it asks for it's Amazon link and blurb 
 (D) 20 Send the MAT packs https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
