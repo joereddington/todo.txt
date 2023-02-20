@@ -1,5 +1,5 @@
 (C) Mailshot for former schools that wanted books.   
-(D) 20 Write php code so that when a camp is 'achieved' it asks for it's Amazon link and blurb 
+(D) 20 Write php code so that when a camp is 'archieved' it asks for it's Amazon link and blurb 
 (D) 20 Send the MAT packs https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Remap: https://github.com/eQualityTime/Home/issues/116 +EQT
 (E) Make a list of workshops I could take Tightrope to
