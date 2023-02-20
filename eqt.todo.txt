@@ -1,5 +1,4 @@
 (C) Mailshot for former schools that wanted books.   
 (D) 20 Write php code so that when a camp is 'archived' it asks for it's Amazon link and blurb 
-(E) 10 Make a list of workshops I could take Tightrope to
 (E) Create a WWW social media issue - include the personas we developed 
-(E) Use ChatGPT to come up with better text for WWW and use that in an A/B test. 
+(E) 30 Use ChatGPT to come up with better text for WWW and use that in an A/B test. 
