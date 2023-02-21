@@ -1,4 +1,3 @@
-(E) 10 Create a WWW social media issue - include the personas we developed 
+x 2023-02-21 10 Create a WWW social media issue - include the personas we developed 
 (E) 30 Use ChatGPT to come up with better text for WWW and use that in an A/B test. 
-(E) Review the uploaded covers in Dropbox for website generation 
 (E) Map issue for father improvements to database 
