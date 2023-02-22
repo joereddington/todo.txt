@@ -1,4 +1,5 @@
 (.) 10 map project:Lair Project  +PersonalProjects
+(A) Get cards for Dad, Francesca and Rachael 
 (A) 30 Really big tidy up on the emotional processing list, turn it into a blog 
 (C) 05 Fix sealant in compost bin 
 (C) 05 Put Labels on boxes
