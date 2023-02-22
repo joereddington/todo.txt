@@ -1,3 +1,4 @@
+(A) Clear Email inbox 
 (E) 30 Use ChatGPT to come up with better text for WWW and use that in an A/B test. 
 (E) Map issue for father improvements to database 
 (E) Bank form to change Sarah's name. 
