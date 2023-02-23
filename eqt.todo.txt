@@ -1,12 +1,9 @@
-x 2023-02-23 (A Nava) Due:today  Book Nava Tickets. 
-x 2023-02-23 (A Uclan students) Due:today Publish Uclan book and set reminder to order books. 
 (A) Order Uclan books 
-x 2023-02-23 (A Yvonne) Due:today Send Yvonne an advert https://github.com/eQualityTime/Home/issues/131 +EQT
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(B) Rewrite (for blog) and work on Scotish library project https://github.com/eQualityTime/Home/issues/131 +EQT
+(B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
+x 2023-02-23 Work on: Supertitle resurrection https://github.com/eQualityTime/Public/issues/169 +EQT
 (B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
