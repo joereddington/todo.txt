@@ -20,16 +20,12 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 30 Create an MCVE comic asking for a code review. 
 (E) Check ranking scripts +Overhead
-(E) Check wishlist
 (E) Do full review of the memory palace. 
-x 2023-02-24 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2023-02-24 Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Post to Vegan Facebook group  @phone   
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) 10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 03 Trim nose hair +Health    
 (E) 10 process Garage inbox. 
 (C) 25 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
@@ -43,10 +39,8 @@ x 2023-02-24 Empty Joe inbox completely +Overhead
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
-(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
+(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
 (E) Get Kat a gift for 3000 days 
-(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
