@@ -15,7 +15,6 @@
 (E) 05 Floss +Health   
 (E) 05 Take Nova passport photo 
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(E) 10 Put quotes on the Amazon description of the memory palace. 
 (E) 10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 10 Transfer the dyslexia post to blog 
 (E) 10 process Garage inbox. 
