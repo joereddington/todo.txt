@@ -1,4 +1,4 @@
-(A) 30 Really big tidy up on the emotional processing list, turn it into a blog 
+(A) 30 Really big tidy up on the emotional processing list, turn it into a blog https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (A) Get cards for Dad, Francesca and Rachael 
 (B) 03 Set up playdate for Leo 
 (B) 10 Contact people for visits
@@ -22,7 +22,6 @@
 (E) Check ranking scripts +Overhead
 (E) Do full review of the memory palace. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) 10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
@@ -31,14 +30,10 @@
 (C) 25 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+x 2023-02-24 Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
+x 2023-02-24 Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
 (D) Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
 (E) Get Kat a gift for 3000 days 
