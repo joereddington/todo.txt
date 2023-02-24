@@ -1,10 +1,7 @@
 (A) 30 Really big tidy up on the emotional processing list, turn it into a blog https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (A) Get cards for Dad, Francesca and Rachael 
 (A) Make proper sticker Chat for Nova. 
-(B) 03 Set up playdate for Leo 
-(B) 10 Contact people for visits
 (C) * Review and print the personal todo list for fridge. 
-(C) 05 Put Labels on boxes
 (C) 25 Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Put the sealent on the downstairs toilet 
 (C) Review and re-score  Wheel Of life
@@ -14,8 +11,7 @@
 (D) Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (E) 03 Trim nose hair +Health    
 (E) 04 Attach masking tape and pens to something in the loft
-(E) 04 Write Moonpig cards for this month +Overhead
-(E) 05 Check ranking scripts +Overhead
+(E) Migrate MP ranking to new site. 
 (E) 05 Floss +Health   
 (E) 05 Take Nova passport photo 
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
