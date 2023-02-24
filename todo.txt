@@ -10,7 +10,6 @@
 (D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (E) 03 Trim nose hair +Health    
-(E) 04 Attach masking tape and pens to something in the loft
 (E) 40 Migrate MP ranking to new site. 
 (E) 05 Floss +Health   
 (E) 05 Take Nova passport photo 
