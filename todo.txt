@@ -1,41 +1,34 @@
 (A) 30 Really big tidy up on the emotional processing list, turn it into a blog https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (A) Get cards for Dad, Francesca and Rachael 
+(A) Make proper sticker Chat for Nova. 
 (B) 03 Set up playdate for Leo 
 (B) 10 Contact people for visits
 (C) * Review and print the personal todo list for fridge. 
-(C) Put the sealent on the downstairs toilet 
 (C) 05 Put Labels on boxes
+(C) 25 Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) Put the sealent on the downstairs toilet 
 (C) Review and re-score  Wheel Of life
+(D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
+(E) 03 Trim nose hair +Health    
 (E) 04 Attach masking tape and pens to something in the loft
-(E) 04 Find clock face randomiser for NOva. (also youtube videos)  
 (E) 04 Write Moonpig cards for this month +Overhead
 (E) 05 Check ranking scripts +Overhead
 (E) 05 Floss +Health   
 (E) 05 Take Nova passport photo 
+(E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 10 Put quotes on the Amazon description of the memory palace. 
+(E) 10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 10 Transfer the dyslexia post to blog 
+(E) 10 process Garage inbox. 
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
-(E) 15 Brainstorm list of 20 things to do differently for next disneyland (prep for wet weather for a start - luggage locks, combats, Kat keeping their own card, one of those old man waistcoats, or even the bum bag. Having a 'morning of' checklist so you remember to take the sandwitches - cut nails for everybody beforehand
 (E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 30 Create an MCVE comic asking for a code review. 
-(E) Check ranking scripts +Overhead
 (E) Do full review of the memory palace. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Get Kat a gift for 3000 days 
 (E) Listen to  Randy Pausch Talk +Overhead @phone 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) 10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) 03 Trim nose hair +Health    
-(E) 10 process Garage inbox. 
-(C) 25 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-x 2023-02-24 Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-x 2023-02-24 Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
-(E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(D) Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
-(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(E) Get Kat a gift for 3000 days 
-(D) * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
