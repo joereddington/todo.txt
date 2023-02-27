@@ -11,7 +11,6 @@
 (D) 20 Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (E) 03 Trim nose hair +Health    
 (E) 40 Migrate MP ranking to new site. 
-(E) 05 Floss +Health   
 (E) 05 Take Nova passport photo 
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 10 Transfer the dyslexia post to blog 
