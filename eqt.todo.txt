@@ -1,4 +1,3 @@
-x 2023-02-27 Order Uclan books 
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
@@ -8,7 +7,6 @@ x 2023-02-27 Order Uclan books
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-x 2023-02-23 Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
