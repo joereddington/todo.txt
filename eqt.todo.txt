@@ -8,21 +8,17 @@
 (B) Call unity on 0345 140 1000
 (B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
+(B) Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 04 Update policy links on website. 
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
 (C) For each 'prison' book in kdp, find a matching invoice.  https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) See if you reviewed the machester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+(C) See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
 (D) Count the number of MATs we are posting things to. https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Delete the unecesarily Watchtower folders and rerun script https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Delete the unnecessarily Watchtower folders and rerun script https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Do full accounts algorithm +EQT 
 (D) Get a cable to entend the webcam 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Download the amazon months sales figures +EQT
 (E) Fix mouse sniper. 
 (E) Search for funding for eQuality Time Projects +EQT
-Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
