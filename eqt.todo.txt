@@ -1,4 +1,9 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
+(C) Update policy links on website. 
+(A) Write scripts for individual tightrope slides and message teachers
+(B) Call unity on 0345 140 1000
+(A) Invoice RHUL for more Tightrope 
+(A) Process quickbooks bills 
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
