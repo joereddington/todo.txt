@@ -1,25 +1,25 @@
 (A) 30 Really big tidy up on the emotional processing list, turn it into a blog https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(A) Get cards for Dad, Francesca and Rachael 
-(A) Make proper sticker Chat for Nova. 
-(C) * Review and print the personal todo list for fridge. 
+(A) Get cards for Dad, Francesca and Rachael  +Fridge
 (C) 25 Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Put the sealent on the downstairs toilet 
+(C) Clear out the mould in the pit again.  +Fridge
+(C) Process the filing cabinet in gararge  +Fridge
+(C) Put the sealent on the downstairs toilet  +Fridge
 (C) Review and re-score  Wheel Of life
-(D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
+(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects +fridge
 (D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
 (D) 20 Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
-(E) 03 Trim nose hair +Health    
-(E) 40 Migrate MP ranking to new site. 
-(E) 05 Take Nova passport photo 
+(E) 03 Trim nose hair +Health     +Fridge
+(E) 05 Take Nova passport photo  +Fridge
 (E) 10 Pick four weekend dates outside of term time for group holidays @online@online: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
 (E) 10 Transfer the dyslexia post to blog 
-(E) 10 process Garage inbox. 
+(E) 10 process Garage inbox.  +Fridge
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
-(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) 15 Get Kat a gift for 3000 days 
+(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 30 Create an MCVE comic asking for a code review. 
-(E) Do full review of the memory palace. 
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) 15 Get Kat a gift for 3000 days 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
+(E) 40 Migrate MP ranking to new site. 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +Fridge
+(E) Do full review of the memory palace.  +Fridge
+x 2023-02-28 * Review and print the personal todo list for fridge. 
