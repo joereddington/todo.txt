@@ -1,6 +1,7 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Process expenses for IY
+(A) Put the scotish library camps into the all camps ever directory and send to Ian 
 (A) Write scripts for individual tightrope slides and message teachers
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
@@ -12,19 +13,16 @@
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-x 2023-02-28 map project:Process the delores.todo list +EQT
-(D) Do full accounts algorithm +EQT 
-(D) Get a cable to entend the webcam 
+(C) For each 'prison' book in kdp, find a matching invoice.  https://github.com/eQualityTime/Home/issues/125 +EQT
+(C) See if you reviewed the machester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+(C) Next sprint on developing IMPS3  +EQT
+(C) Next sprint on developing OVF  +EQT
 (D) Count the number of MATs we are posting things to. https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) Delete the unecesarily Watchtower folders and rerun script https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Do full accounts algorithm +EQT 
+(D) Get a cable to entend the webcam 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Download the amazon months sales figures +EQT
-(A) Put the scotish library camps into the all camps ever directory and send to Ian 
 (E) Fix mouse sniper. 
 (E) Search for funding for eQuality Time Projects +EQT
 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
