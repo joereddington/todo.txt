@@ -1,10 +1,10 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Process inbox - it's ridiculous now. 
-(A) Process expenses for IY
-(A) Put the scotish library camps into the all camps ever directory and send to Ian 
-(A) Book flights for Scotland 
 (A) Book car for Leeds 
+(A) Book flights for Scotland 
+(A) Process expenses for IY
+(A) Process inbox - it's ridiculous now. 
+(A) Put the scotish library camps into the all camps ever directory and send to Ian 
 (A) Write scripts for individual tightrope slides and message teachers
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
@@ -13,15 +13,12 @@
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 04 Update policy links on website. 
-(C) For each 'prison' book in kdp, find a matching invoice.  https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
+(C) See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (D) Count the number of MATs we are posting things to. https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Delete the unnecessarily Watchtower folders and rerun script https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Do full accounts algorithm +EQT 
 (D) Get a cable to entend the webcam 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Download the amazon months sales figures +EQT
 (E) Fix mouse sniper. 
 (E) Search for funding for eQuality Time Projects +EQT
