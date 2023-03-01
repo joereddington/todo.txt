@@ -1,5 +1,6 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+(A) Process inbox - it's ridiculous now. 
 (A) Process expenses for IY
 (A) Put the scotish library camps into the all camps ever directory and send to Ian 
 (A) Book flights for Scotland 
