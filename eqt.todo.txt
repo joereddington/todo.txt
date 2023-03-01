@@ -2,6 +2,8 @@
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Process expenses for IY
 (A) Put the scotish library camps into the all camps ever directory and send to Ian 
+(A) Book flights for Scotland 
+(A) Book car for Leeds 
 (A) Write scripts for individual tightrope slides and message teachers
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
