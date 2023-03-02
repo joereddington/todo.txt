@@ -1,5 +1,6 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+(B Meeting) draft a policy for proxy attendance at meetings. 
 (A) Book car for Leeds 
 (A) Book flights for Scotland 
 (A) Process expenses for IY
