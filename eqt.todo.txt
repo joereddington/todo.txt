@@ -1,4 +1,5 @@
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
+(A) Sort the emotional processing list out. 
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (B Meeting) draft a policy for proxy attendance at meetings. 
 (A) Book car for Leeds 
