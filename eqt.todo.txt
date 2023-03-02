@@ -22,4 +22,3 @@
 (D) Get a cable to entend the webcam 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Fix mouse sniper. 
-(E) Search for funding for eQuality Time Projects +EQT
