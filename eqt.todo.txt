@@ -1,3 +1,4 @@
+(A) Regenerate accounts
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A) Sort the emotional processing list out. 
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
