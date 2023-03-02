@@ -4,7 +4,6 @@
 (A) Book flights for Scotland 
 (A) Process expenses for IY
 (A) Regenerate accounts
-(A) Sort the emotional processing list out. 
 (B Meeting) draft a policy for proxy attendance at meetings. 
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT

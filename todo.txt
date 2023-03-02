@@ -15,6 +15,7 @@
 (E) 10 process Garage inbox.  +Fridge
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
 (E) 15 Get Kat a gift for 3000 days 
+(E) Keep an eye out for a running buggy for Leo nusery. 
 (E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 40 Migrate MP ranking to new site. 
