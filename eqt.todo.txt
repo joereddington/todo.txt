@@ -1,17 +1,15 @@
-(A) Regenerate accounts
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Sort the emotional processing list out. 
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(B Meeting) draft a policy for proxy attendance at meetings. 
-(A) Book car for Leeds 
+(A 14th ) Book car for Leeds 
 (A) Book flights for Scotland 
 (A) Process expenses for IY
-(A) Process inbox - it's ridiculous now. 
-(A) Put the scotish library camps into the all camps ever directory and send to Ian 
-(A) Write scripts for individual tightrope slides and message teachers
+(A) Regenerate accounts
+(A) Sort the emotional processing list out. 
+(B Meeting) draft a policy for proxy attendance at meetings. 
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) Call unity on 0345 140 1000
+(B) Put the scotish library camps into the all camps ever directory and send to Ian 
 (B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
