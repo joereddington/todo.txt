@@ -1,9 +1,8 @@
+(A 14th ) Book car for Leeds 
 (A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(A 14th ) Book car for Leeds 
-(C) Expense flights for Scotland 
 (A) Process expenses for IY
-(A) Regenerate accounts
+x 2023-03-06 Regenerate accounts
 (B Meeting) draft a policy for proxy attendance at meetings. 
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
@@ -12,6 +11,7 @@
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 04 Update policy links on website. 
+(C) Expense flights for Scotland 
 (C) Next sprint on developing IMPS3  +EQT
 (C) Next sprint on developing OVF  +EQT
 (C) See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
