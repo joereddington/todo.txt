@@ -1,7 +1,6 @@
 (A 14th ) 10 Book car for Leeds (but also wait for confirmation of strike action) 
 (A EQ) 120 due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(B Meeting) 10 draft a policy for proxy attendance at meetings. 
 (B) * Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) * Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
