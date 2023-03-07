@@ -1,17 +1,17 @@
-(A 14th ) Book car for Leeds 
-(A EQ) due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
-(A Funder)  Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(B Meeting) draft a policy for proxy attendance at meetings. 
-(B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
+(A 14th ) 10 Book car for Leeds (but also wait for confirmation of strike action) 
+(A EQ) 120 due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
+(A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+(B Meeting) 10 draft a policy for proxy attendance at meetings. 
+(B) * Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(B) * Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 10 Call unity on 0345 140 1000
-(B) Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
+(B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
+(B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 04 Update policy links on website. 
+(C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) 08 Expense flights for Scotland 
-(C) Next sprint on developing IMPS3  +EQT
-(C) Next sprint on developing OVF  +EQT
-(C) See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+(C) 120 Next sprint on developing IMPS3  +EQT
+(C) 120 Next sprint on developing OVF  +EQT
 (D) 10 Count the number of MATs we are posting things to. https://github.com/eQualityTime/Home/issues/114 +EQT
 (D) 60 Do full accounts algorithm +EQT 
