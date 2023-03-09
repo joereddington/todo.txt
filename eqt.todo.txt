@@ -3,6 +3,7 @@
 (A EQ) 120 due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (B) Pack for Leeds
+(C) Thank you card for the RHUL ACademic. 
 (B) Write slides for Leeds
 (B) * Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) * Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
@@ -10,7 +11,7 @@
 (B) 10 Call unity on 0345 140 1000
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Find out about tightrope website
+(C) Set up Tightrope Website. 
 (C) 04 Update policy links on website. 
 (C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) 08 Expense flights for Scotland 
