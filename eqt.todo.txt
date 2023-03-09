@@ -1,21 +1,20 @@
 (A 14th ) 10 Book car for Leeds (but also wait for confirmation of strike action) 
-(A EQ) 60 due:today last sessions for tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
-(A EQ) 120 due: Friday  Work on Tightrope https://github.com/eQualityTime/Home/issues/126 +EQT
+(A EQ) Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(B) Pack for Leeds
-(C) Thank you card for the RHUL ACademic. 
-(B) Write slides for Leeds
+(A) Fix the accounts 
 (B) * Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) * Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 10 Call unity on 0345 140 1000
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) Set up Tightrope Website. 
+(B) 25 Pack for Leeds
+(B) 60 Write slides for Leeds
 (C) 04 Update policy links on website. 
 (C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) 08 Expense flights for Scotland 
 (C) 120 Next sprint on developing IMPS3  +EQT
 (C) 120 Next sprint on developing OVF  +EQT
-(D) 10 Count the number of MATs we are posting things to. https://github.com/eQualityTime/Home/issues/114 +EQT
+(C) 50 Set up Tightrope Website. 
+(C) 10 Thank you card for the RHUL ACademic. 
 (D) 60 Do full accounts algorithm +EQT 
