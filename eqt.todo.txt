@@ -1,4 +1,6 @@
 (A 14th ) 10 Book car for Leeds (but also wait for confirmation of strike action) 
+(D) Map 'give unitisty course' project
+(D) Badger Grant writing lady 
 (A EQ) Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Fix the accounts 
