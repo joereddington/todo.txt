@@ -1,23 +1,13 @@
-(A) 30 Really big tidy up on the emotional processing list, turn it into a blog https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(A) Get cards for Dad, Francesca and Rachael  +Fridge
-(C) 25 Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Clear out the mould in the pit again.  +Fridge
-(C) Process the filing cabinet in gararge  +Fridge
-(C) Put the sealent on the downstairs toilet  +Fridge
 (C) Review and re-score  Wheel Of life
-(D) 03 Put external hard drive in car. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects +fridge
-(D) 10 Read this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
+(D) 10 Check you remember the 10 loci  in the couple memory palace  this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
-(E) 03 Trim nose hair +Health     +Fridge
-(E) 05 Take Nova passport photo  +Fridge
-(E) 10 Transfer the dyslexia post to blog 
-(E) 10 process Garage inbox.  +Fridge
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
-(E) 15 Get Kat a gift for 3000 days 
-(E) Keep an eye out for a running buggy for Leo nusery. 
-(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 40 Migrate MP ranking to new site. 
+(C) 20 Process the filing cabinet in gararge  +Fridge
+(C) 15 Put the sealent on the downstairs toilet  +Fridge
+(D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
+(E) 05 Take Nova passport photo  +Fridge
+(E) 10 process Garage inbox.  +Fridge
+(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +Fridge
-(E) Do full review of the memory palace.  +Fridge
+(E) 70 Do full review of the memory palace.  +Fridge
