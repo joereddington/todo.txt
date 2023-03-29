@@ -1,28 +1,18 @@
 (A) Call Apple. 
 (B) Measure for linds in Leo's room, spare room, and offic.e 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(C) 1. Process Email @singleton +Overhead @phone  
 (C) 15 Put the sealent on the downstairs toilet  +Fridge
 (C) 20 Process the filing cabinet in gararge  +Fridge
-(E) Check Garage window size nd compare to spare blinds
 (C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
-(C) deploy any commits from OVF that are hanging around. 
+(C) deploy any commits from OVF that are hanging around.  +EQT
 (C) map project:Read a chapter of the seven habits book +PersonalProjects
 (D) 10 Check you remember the 10 loci  in the couple memory palace  this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
-(D) 20 Export the Natwest transactions to 'New Littlefinger' https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (D) Cut plywood for Nova window. (possibly order it first)  
-(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
 (D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
@@ -38,26 +28,18 @@
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
 (E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
 (E) 40 Migrate MP ranking to new site. 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +Fridge
+(E) 60 Listen to Randy Pausch Talk +Overhead @phone  +Fridge
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonial from completed fundings
-(E) Check Passports are in the safe
+(E) Check Garage window size nd compare to spare blinds
+(E) Check Passport is in the safe
 (E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
 (E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
-(E) Get Flu vaccine +Health
 (E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in Dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -68,7 +50,5 @@
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
