@@ -1,17 +1,30 @@
-(A) Call Apple. 
+(A) Call Apple about credit card 
+(A) Put all the quickbook payments into unity. 
+(A) Retarget the project real ads. 
+(A) Sort out the logistics for the next camps 
+(B) Ask Kat where the multiplication cards have gone. 
+(B) Do a code sprint on improving the analysis for the next camp. 
 (B) Measure for linds in Leo's room, spare room, and offic.e 
+(B) Sort out Criminal Records check for leaders 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
+(C)  Investigate Trustee diversity 
 (C) 15 Put the sealent on the downstairs toilet  +Fridge
 (C) 20 Process the filing cabinet in gararge  +Fridge
-(C) Review and re-score  Wheel Of life
+(C) Buy Blinds: office, leo's room and spare room. 
 (C) Fix command history on xterm 
+(C) Review and re-score  Wheel Of life
+(C) Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
 (C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) Work out the outside plug problem 
 (C) deploy any commits from OVF that are hanging around.  +EQT
 (C) map project:Read a chapter of the seven habits book +PersonalProjects
+(D)  Do seven social media posts for WWW 
 (D) 10 Check you remember the 10 loci  in the couple memory palace  this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
+(D) Change the Project Real DNS do that it doesn't use Dreamhost. 
+(D) Contact Simon about a meetup 
 (D) Cut plywood for Nova window. (possibly order it first)  
 (D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
@@ -35,6 +48,7 @@
 (E) Check ranking scripts +Overhead
 (E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Delores - have the javascript give the 'things that can be done today' 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Floss +Health   
