@@ -4,6 +4,7 @@
 (C) 15 Put the sealent on the downstairs toilet  +Fridge
 (C) 20 Process the filing cabinet in gararge  +Fridge
 (C) Review and re-score  Wheel Of life
+(C) Fix command history on xterm 
 (C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
 (C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
