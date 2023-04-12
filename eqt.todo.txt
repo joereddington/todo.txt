@@ -1,68 +1,41 @@
-(A EQ) Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
-(A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Renew EQT insurance 
-(A) Work on: Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
 (A) submit the accounts 
-(B) * Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) * Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) 10 Call unity on 0345 140 1000
-(B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
-(B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(D) Fix disability blog ranking (and work out what's really going wrong) 
-(B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
-(B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 04 Update policy links on website. 
-(C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) 08 Expense flights for Scotland 
-(C) 10 Thank you card for the RHUL ACademic. 
 (C) 120 Next sprint on developing IMPS3  +EQT
 (C) 120 Next sprint on developing OVF  +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) 50 Set up Tightrope Website. 
-(C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (C) map project:Next sprint on developing OVF  +EQT
 (C) map project:Process the delores.todo list +EQT
 (D) 60 Do full accounts algorithm +EQT 
-(D) Badger Grant writing lady 
-(D) Do full accounts algorithm +EQT 
+(D) Fix disability blog ranking (and work out what's really going wrong) 
 (D) Map 'give unitisty course' project (include FOI for how many courses are taught extenratlly
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
 (D) map project:Continually improve and train on working practices and technology +EQT
-(E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Open list of projects to be funded +EQT
+x 2023-04-12 Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-Run the OBZ archive command and save to an external drive.  +EQT
+(E) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/114 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
+(B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/122 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/125 +EQT
+(A EQ) Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
+(C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+(A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
+(B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(A) Work on: Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
+(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
+(D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT
+(B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
