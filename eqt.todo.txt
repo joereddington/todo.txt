@@ -1,24 +1,24 @@
 (A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) 120 Submit accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(B) 10 Map writing report for Tightrope 
-(B) 10 Draft status email about Tightrope 
+(A) Write the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
 (B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) 10 Draft status email about Tightrope 
+(B) 10 Map writing report for Tightrope 
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) 60 Improve the Analysis for IMPS3 
 (B) 35 Produce the HMP Hemel book
+(B) Send mum the refreshed report and date
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
+(C) 10 map project:Process the delores.todo list +EQT
+(C) 15 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) 15 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) 10 map project:Process the delores.todo list +EQT
 (D) 10 Map 'give university course' project (include FOI for how many courses are taught extenratlly
-(D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) 20 Fix disability blog ranking (and work out what's really going wrong) 
 (D) 15 Update the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) 20 Fix disability blog ranking (and work out what's really going wrong) 
+(D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
