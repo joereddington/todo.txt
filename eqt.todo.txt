@@ -21,4 +21,4 @@
 (D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2023-04-14 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
