@@ -1,7 +1,7 @@
 (A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(B) 04 Book out time for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 10 Draft status email about Tightrope 
 (B) 10 Map writing report for Tightrope 
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
