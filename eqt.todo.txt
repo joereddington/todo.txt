@@ -1,6 +1,6 @@
 x 2023-04-18 (A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 x 2023-04-18 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
+x 2023-04-18 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
 (B) 10 Draft status email about Tightrope 
 (B) 10 Map writing report for Tightrope 
 (C) Draft an email to 6th forms about tightrope. 
