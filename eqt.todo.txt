@@ -1,19 +1,21 @@
-(*) 40 Update the report for the Charity Commission for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
+x 2023-04-18 (A EQ) 15 Update the Tightrope issue https://github.com/eQualityTime/Home/issues/126 +EQT
 (A Funder)  30 Work on Garfield weston  https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) 20 Write annoucement blog post for Tightrope. and then the faecbook post as well. 
 (B) 10 Draft status email about Tightrope 
 (B) 10 Map writing report for Tightrope 
+(C) Draft an email to 6th forms about tightrope. 
 (B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) 20 Send mum the refreshed report and date
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 35 Produce the HMP Hemel book
-(B) 20 Send mum the refreshed report and date
+(B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
 (B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) 10 map project:Process the delores.todo list +EQT
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
+(C) chainmail for Glasgow Schools as part of Garfield Weston  
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
 (D) 10 Map 'give university course' project (include FOI for how many courses are taught extenratlly
 (D) 20 Fix disability blog ranking (and work out what's really going wrong) 
