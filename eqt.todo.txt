@@ -1,7 +1,8 @@
 x 2023-04-18 10 Map writing report for Tightrope 
-(B) 35 Produce the HMP Hemel book
+(A) Clear out email inbox
+(B) 15 fix the HMP Hemel book +online 
 (B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) 20 Send mum the refreshed report and date
+(B) 20 Send mum the refreshed report and date +online 
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
