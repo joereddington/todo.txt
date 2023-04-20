@@ -1,20 +1,18 @@
-(A) Clear out email inbox
-(B) 15 fix the HMP Hemel book +online 
 (B) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 20 Send mum the refreshed report and date +online 
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 30 minutes sorting Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(C) 30 Open the tightrope report and work through the list of todos
+(B) 10 Order 30 HMP Hemel Books 
+(B) 30 Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(B) 30 Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) 10 map project:Process the delores.todo list +EQT
+(C) 15 Draft an email to 6th forms about tightrope. 
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) 30 Open the tightrope report and work through the list of todos
 (C) 30 chainmail for Glasgow Schools as part of Garfield Weston  
-(C) Draft an email to 6th forms about tightrope. 
 (D) 10 Map 'give university course' project (include FOI for how many courses are taught extenratlly
+(D) 10 Process the delores.todo list +EQT
 (D) 20 Fix disability blog ranking (and work out what's really going wrong) 
 (D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
