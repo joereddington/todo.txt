@@ -1,9 +1,7 @@
-x 2023-04-25 05 Google  out what I'm meant to be doing with these carrots. 
 (A) 15 Call Apple about credit card 
-x 2023-04-25 20 Review the prioritised house improvements list and properly estimate costs 
 (C) 02 Put age of Ulton into the Garage gym https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
-x 2023-04-25 02 Weekly calendar event to check weather for fire put nights. 
-(C) 10 Map 'AI generated pitch letters about memory book to magic publishers'
+(C) 05 Arrange podcast interview with the guy 
+x 2023-04-25 10 Map 'AI generated pitch letters about memory book to magic publishers'
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
 (C) 15 Put up the big outside  shade for kat
 (C) 20 Clear out garage
@@ -13,6 +11,7 @@ x 2023-04-25 02 Weekly calendar event to check weather for fire put nights.
 (D) 10 Check you remember the 10 loci  in the couple memory palace  this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
 (E) 05 Floss +Health   
+(E) 10 Write Moonpig cards for this month +Overhead
 (E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
 (E) 15 Brainstorm a list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
@@ -20,4 +19,3 @@ x 2023-04-25 02 Weekly calendar event to check weather for fire put nights.
 (E) 40 Migrate MP ranking to new site. 
 (E) 60 Listen to Randy Pausch Talk +Overhead @phone  +Fridge
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) 10 Write Moonpig cards for this month +Overhead
