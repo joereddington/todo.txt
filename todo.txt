@@ -1,76 +1,36 @@
-(A) Call Apple about credit card 
-(C) Map 'AI generated pitch letters about memory book to magic publishers'
-(A) Work out what I'm meant to be doing with these carrots. 
-(A) Put all the quickbook payments into unity. 
-(A) Retarget the project real ads. 
-(E) Write down the numbers on my card so you can put the other one outside of the office. 
-(A) Sort out the logistics for the next camps 
-(B) Ask Kat where the multiplication cards have gone. 
-(B) Do a code sprint on improving the analysis for the next camp. 
-(B) Measure for linds in Leo's room, spare room, and offic.e 
-(B) Sort out Criminal Records check for leaders 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(C)  Investigate Trustee diversity 
-(C) 15 Put the sealent on the downstairs toilet  +Fridge
-(C) 20 Process the filing cabinet in gararge  +Fridge
-(C) Buy Blinds: office, leo's room and spare room. 
-(C) Fix command history on xterm 
-(C) Review and re-score  Wheel Of life
-(C) Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
-(C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
-(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Work out the outside plug problem 
-(C) deploy any commits from OVF that are hanging around.  +EQT
-(C) map project:Read a chapter of the seven habits book +PersonalProjects
-(D)  Do seven social media posts for WWW 
+(C) 02 Put age of Ulton into the Garage gym https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
+(C) 02 Weekly calendar event to check weather for fire put nights. 
+(D) 04 Contact Simon about a meetup 
+(E) 05 Floss +Health   
+(A) 05 Google  out what I'm meant to be doing with these carrots. 
 (D) 10 Check you remember the 10 loci  in the couple memory palace  this description again: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(C) 10 Map 'AI generated pitch letters about memory book to magic publishers'
+(C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
+(E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
+(E) 15 Brainstorm a list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(A) 15 Call Apple about credit card 
+(C) 15 Put the sealent on the downstairs toilet  +Fridge
+(E) 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
-(D) Change the Project Real DNS do that it doesn't use Dreamhost. 
-(D) Contact Simon about a meetup 
-(D) Cut plywood for Nova window. (possibly order it first)  
+(C) 20 Clear out garage
+(C) 20 Process the filing cabinet in gararge  +Fridge
+(B) 20 Review the prioritised house improvements list and properly estimate costs 
+(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(C) 25 Put up blinds in house
+(E) 40 Migrate MP ranking to new site. 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
+(E) 60 Listen to Randy Pausch Talk +Overhead @phone  +Fridge
+(E) 70 Do full review of the memory palace.  +Fridge
+(C) 15 Put up the big outside  shade for kat
 (D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
+(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(E) 02 Order replacement sim-card tray for iphone 7plus
-(E) Lookup 'why we sleep' by mathew walkies' 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(B) Review the prioritised house improvements list and properly estimate costs 
-(C) Put up the big shade for kat
-(C) Put up blinds in house
-(C) Clear out garage
-(C) 02 Weekly calendar event to check weather for fire put nights. 
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
-(E) 05 Take Nova passport photo  +Fridge
-(E) 10 process Garage inbox.  +Fridge
-(E) 14 Lookup new bedsize tables. (max width 75cm - max height 75 but realistically slightly less) 
-(E) 20 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +Fridge
-(E) 40 Migrate MP ranking to new site. 
-(E) 60 Listen to Randy Pausch Talk +Overhead @phone  +Fridge
-(E) 70 Do full review of the memory palace.  +Fridge
-(E) Ask for testimonial from completed fundings
-(E) Check Garage window size nd compare to spare blinds
-(E) Check Passport is in the safe
-(E) Check ranking scripts +Overhead
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Delores - have the javascript give the 'things that can be done today' 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Floss +Health   
-(E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in Dropbox.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead  
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (E) Write Moonpig cards for this month +Overhead
-(E) process Garage inbox. 
