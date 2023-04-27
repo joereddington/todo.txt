@@ -1,4 +1,5 @@
 (A) 15 Call Apple about credit card 
+(C) Get missing bits for lego monitor
 (C) 02 Put age of Ulton into the Garage gym https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) 05 Arrange podcast interview with the guy 
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
