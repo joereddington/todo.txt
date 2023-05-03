@@ -1,4 +1,5 @@
 (B) Tightrope report
+(A) Fix conversion tracking on tightrope website
 (B) Download tightrope contact details
 (B) 15 Call Apple about credit card 
 (B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
