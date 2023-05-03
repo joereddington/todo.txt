@@ -1,5 +1,5 @@
 (B) 15 Call Apple about credit card 
-(B) 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
+x 2023-05-03 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
 (B) Download tightrope contact details
 (B) Fix old book generation for Yvonne
