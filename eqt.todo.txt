@@ -1,6 +1,3 @@
-(B) 15 Call Apple about credit card 
-x 2023-05-03 25 Rewrite and work on Scottish library project https://github.com/eQualityTime/Home/issues/131 +EQT
-(B) 40 Submit the report for the Charity Commission again for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
 (B) Download tightrope contact details
 (B) Fix old book generation for Yvonne
 (B) Sort out Criminal Records check for leaders +EQT
@@ -29,4 +26,3 @@ x 2023-05-03 25 Rewrite and work on Scottish library project https://github.com/
 (E) Organise the top shelf again - got a bit carried away. 
 (E) Upgrade the rest of the Google Analytics that you need to
 (E) put public internet review into delores
-x 2023-05-03 Fix conversion tracking on tightrope website
