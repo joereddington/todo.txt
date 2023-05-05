@@ -2,22 +2,18 @@
 (B) Fix old book generation for Yvonne
 (B) Sort out Criminal Records check for leaders +EQT
 (B) Tightrope report
-(C) 05 See if you reviewed the Manchester schools: https://github.com/eQualityTime/Home/issues/128 +EQT
 (C) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 15 Draft an email to 6th forms about tightrope. 
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) 30 Open the tightrope report and work through the list of todos
-(C) 30 Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(C) Set up GA4 on Communikate page
 (C) 30 Work on: Updated OVF success page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 30 chainmail for Glasgow Schools as part of Garfield Weston  
 (C) Fix command history on xterm  +EQT
 (C) Investigate Trustee diversity  +EQT
 (C) See what tightrope art we can take out of the slides and put on the site. 
-(C) deploy any commits from OVF that are hanging around.  +EQT
 (C) map project:Read a chapter of the seven habits book +PersonalProjects +EQT
-(D) 'Friday is publication day' post 
-(D) 10 Map 'give university course' project (include FOI for how many courses are taught extenratlly
 (D) 10 Process the delores.todo list +EQT
 (D) 20 Run script for Fix disability blog ranking again (and work out what's really going wrong) 
 (D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
