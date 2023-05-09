@@ -1,5 +1,4 @@
 (B) Download tightrope contact details
-(B) Fix old book generation for Yvonne
 (B) Sort out Criminal Records check for leaders +EQT
 (B) Tightrope report
 (C) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
@@ -10,7 +9,6 @@
 (C) Set up GA4 on Communikate page
 (C) 30 Work on: Success page and FAQ- button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) Upgrade the conversion for the tightrope site
-(C) Fix command history on xterm  +EQT
 (C) Investigate Trustee diversity  +EQT
 (C) See what tightrope art we can take out of the slides and put on the site. 
 (C) map project:Read a chapter of the seven habits book +PersonalProjects +EQT
