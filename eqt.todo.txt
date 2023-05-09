@@ -6,17 +6,15 @@
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) 30 Open the tightrope report and work through the list of todos
-(C) Set up GA4 on Communikate page
 (C) 30 Work on: Success page and FAQ- button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(C) Upgrade the conversion for the tightrope site
+(C) Do the transfers for teh Garfield Weston Spending. 
 (C) Investigate Trustee diversity  +EQT
-(C) See what tightrope art we can take out of the slides and put on the site. 
+(C) Set up GA4 on Communikate page
+(C) Upgrade the conversion for the tightrope site
 (C) map project:Read a chapter of the seven habits book +PersonalProjects +EQT
 (D) 10 Process the delores.todo list +EQT
 (D) 20 Run script for Fix disability blog ranking again (and work out what's really going wrong) 
 (D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Change the Project Real DNS do that it doesn't use Dreamhost.  +EQT
-(E) Organise the top shelf again - got a bit carried away. 
-(E) Check the WWW data and Upgrade the rest of the Google Analytics that you need to
-(C) Do the transfers for teh Garfield Weston Spending. 
 (E) Chainmail for Flowers For Turing Donors. 
+(E) Check the WWW data and Upgrade the rest of the Google Analytics that you need to
