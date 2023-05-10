@@ -12,3 +12,4 @@
 (D) 20 Properly write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Change the Project Real website DNS do that it doesn't use Dreamhost.  +EQT
 (E) Upgrade the rest of our websites to use GA4 
+(E) plug in the new router. 
