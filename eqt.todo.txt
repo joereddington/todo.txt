@@ -2,6 +2,8 @@
 (B) Sort out Criminal Records check for leaders +EQT
 (B) Tightrope report
 (C) 10 Start Drafting document for long term goals https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(C) Wake up Flowers for Turing and send emails 
+(C) Fix the website for Flowers For Turing (including the total amount) 
 (C) 15 Draft an email to 6th forms about tightrope. 
 (C) 20 Rewrite (with gpt) email for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 20 Rewrite (with gpt) email for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
