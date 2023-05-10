@@ -7,14 +7,10 @@
 (C) 30 Improve the user experience for the Open Voice Factory by creating an FAQ https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) Review spending on White Water Writers in Quickbooks and make sure that the correct amounts have been taken out of the Garfirled Weston Funding
 (C) Update the Flowers For Turing Website for 2013 and ask people on Facebook for their opinions.  
-(C) Investigate Trustee diversity  +EQT
-(C) Set up GA4 on Communikate page
-(C) Upgrade the conversion for the tightrope site
-(C) Wake up Flowers for Turing and send emails 
-(C) map project:Read a chapter of the seven habits book +PersonalProjects +EQT
-(D) 10 Process the delores.todo list +EQT
-(D) 20 Run script for Fix disability blog ranking again (and work out what's really going wrong) 
-(D) 20 Write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Change the Project Real DNS do that it doesn't use Dreamhost.  +EQT
-(E) Chainmail for Flowers For Turing Donors. 
-(E) Check the WWW data and Upgrade the rest of the Google Analytics that you need to
+(C) Set up GA4 on Communikate website
+(C) Review Tightrope.co.uk and see what we can do to improve conversion
+(C) Read a chapter of the seven habits book +PersonalProjects +EQT
+(D) 20 Fix the disability blog ranking again.
+(D) 20 Properly write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Change the Project Real website DNS do that it doesn't use Dreamhost.  +EQT
+(E) Upgrade the rest of our websites to use GA4 
