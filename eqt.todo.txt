@@ -1,4 +1,3 @@
-(B) Open the Tightrope Report in Google Drive and work through some of the actions 
 (C) 15 Draft an email to sent to 6th forms about tightrope. 
 (C) 20 Update contacts sheet for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 10 Check the contact sheet for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
@@ -10,5 +9,5 @@
 (D) 20 Fix the disability blog ranking again.
 (D) 20 Properly write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Change the Project Real website DNS do that it doesn't use Dreamhost.  +EQT
-(E) Upgrade the rest of our websites to use GA4 
 (E) plug in the new router. 
+(E) Pick a new computer and email trustees about it. 
