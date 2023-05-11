@@ -1,6 +1,6 @@
 (C) 20 Update contacts sheet for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 10 Check the contact sheet for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) 30 Improve the user experience for the Open Voice Factory by creating an FAQ https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) Run a Googel Optimise experiment on Tightrope
+(C) 10 Check and fix the FAQ for OPen Voice Factory 
 (D) 20 Fix the disability blog ranking again.
 (E) plug in the new router. 
