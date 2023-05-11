@@ -7,7 +7,5 @@
 (C) Review Tightrope.co.uk and see what we can do to improve conversion
 (C) Read a chapter of the seven habits book +PersonalProjects +EQT
 (D) 20 Fix the disability blog ranking again.
-(D) 20 Properly write up a github issue and put on facebook : https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Change the Project Real website DNS do that it doesn't use Dreamhost.  +EQT
 (E) plug in the new router. 
 (E) Pick a new computer and email trustees about it. 
