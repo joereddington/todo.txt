@@ -1,7 +1,6 @@
 (C) 20 Update contacts sheet for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 10 Check the contact sheet for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) 30 Improve the user experience for the Open Voice Factory by creating an FAQ https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-x 2023-05-11 Set up GA4 on Communikate website
-(C) Review Tightrope.co.uk and see what we can do to improve conversion
+(C) Run a Googel Optimise experiment on Tightrope
 (D) 20 Fix the disability blog ranking again.
 (E) plug in the new router. 
