@@ -1,8 +1,7 @@
-(C) 15 Draft an email to sent to 6th forms about tightrope. 
 (C) 20 Update contacts sheet for former schools  https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) 10 Check the contact sheet for luton schools : https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) 30 Improve the user experience for the Open Voice Factory by creating an FAQ https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(C) Review the garfield westron funding and put a laptop on it. 
+x 2023-05-11 Review the garfield westron funding 
 (C) Set up GA4 on Communikate website
 (C) Review Tightrope.co.uk and see what we can do to improve conversion
 (C) Read a chapter of the seven habits book +PersonalProjects +EQT
