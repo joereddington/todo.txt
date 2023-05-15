@@ -4,3 +4,4 @@
 (C) 10 Check and fix the FAQ for OPen Voice Factory 
 (D) 20 Fix the disability blog ranking again.
 (E) plug in the new router. 
+(E) Download new Flowers for turing contacts
