@@ -1,5 +1,7 @@
 (.) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
+(B) Check if Iphone is in warranty
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(C) Get car camera installed
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/209 +PersonalProjects
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
