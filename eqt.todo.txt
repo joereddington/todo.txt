@@ -1,13 +1,8 @@
-(A) Work on: Produce accounts for 2021-2022 https://github.com/eQualityTime/Public/issues/163 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Work on: Supertitle resurection https://github.com/eQualityTime/Public/issues/169 +EQT
-(B) Work on: Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT
+(A) Make some Quickbooks Transfers for Garfield Weston https://github.com/eQualityTime/Home/issues/130 +EQT
+(B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
+(B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
+(B) 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) Spec out a PC and send spec to Clare
@@ -32,8 +27,6 @@
 (D) map project:Continually improve and train on working practices and technology +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
