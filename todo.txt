@@ -1,6 +1,4 @@
 (.) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
-(B) Put Simcard back in old phone
-x 2023-05-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Work on: https://github.com/joereddington/Projects-Private/issues/209 +PersonalProjects
 (C) Pick card Get car camera installed
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
@@ -9,7 +7,7 @@ x 2023-05-19 1. Looking for urgent: Check Calendar and reminders and notebooks  
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (E) Put toastmastrs nights into the calendar
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(C) 1. Process Email @singleton +Overhead @phone  
+x 2023-05-21 1. Process Email @singleton +Overhead @phone  
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
 (D) block light in Nova's room. 
 (C) 20 Clear out garage
