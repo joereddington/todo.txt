@@ -5,7 +5,6 @@
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) Send new Bills to Scotland 
-(C) Spec out a PC and send spec to Clare
 (C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
@@ -30,4 +29,3 @@
 (E) Properly fix the issue with random unicode in IMPS and buld the tests
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-x 2023-05-23 Make some Quickbooks Transfers for Garfield Weston https://github.com/eQualityTime/Home/issues/130 +EQT
