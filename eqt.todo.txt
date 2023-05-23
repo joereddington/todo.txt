@@ -1,4 +1,5 @@
 (A) Make some Quickbooks Transfers for Garfield Weston https://github.com/eQualityTime/Home/issues/130 +EQT
+(C) Send new Bills to Scotland 
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
