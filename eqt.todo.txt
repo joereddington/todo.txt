@@ -1,18 +1,24 @@
+(A) Book tickets to the tech tribe thing 
+(A) Confirm next Quantum leopard with Simon 
+(A) Order books for scotish school 
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-(B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) Do the changes that Greg suggested. 
+(B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 10 Brainstorm on live account +EQT
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(E) Make corrections to the public internet history
-(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Check the Google optimise 
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Refactoring sprint on IMPS3  +EQT
-(C) Refactoring spring on OVF 
 (C) Process the delores.todo list +EQT
+(C) Refactoring spring on OVF 
+(C) Refactoring sprint on IMPS3  +EQT
+(C) Ring up nest about logging in. 
+(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (D) Import all spending into new littlefinger 
 (D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT
+(E) Make corrections to the public internet history
 (E) Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
