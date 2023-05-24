@@ -4,6 +4,7 @@
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Brainstorm on live account +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(E) Make corrections to the public internet history
 (C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) Refactoring sprint on IMPS3  +EQT
