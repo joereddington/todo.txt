@@ -3,8 +3,7 @@
 (B) 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton 
-(C) Send new Bills to Scotland 
+(C) 10 Brainstorm on live account +EQT
 (C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
