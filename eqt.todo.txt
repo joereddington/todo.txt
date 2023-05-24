@@ -2,22 +2,18 @@
 (B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
 (B) 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Brainstorm on live account +EQT
-(C) Work on: Apply to Wikimedia for funding for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+
+
+(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (C) map project:Next sprint on developing OVF  +EQT
 (C) map project:Process the delores.todo list +EQT
-(D) Do full accounts algorithm +EQT 
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Import all spending into new littlefinger 
+(D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
