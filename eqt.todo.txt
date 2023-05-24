@@ -1,6 +1,5 @@
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT
 (B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT
-x 2023-05-24 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Brainstorm on live account +EQT
@@ -18,5 +17,4 @@ x 2023-05-24 20 minutes reviewing Dropbox: https://github.com/eQualityTime/Home/
 (D) Review statuss in the Git directory +EQT
 (E) Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests
-(E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
