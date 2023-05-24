@@ -9,18 +9,14 @@
 
 (C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-(C) map project:Process the delores.todo list +EQT
+(C) Refactoring sprint on IMPS3  +EQT
+(C) Refactoring spring on OVF 
+(C) Process the delores.todo list +EQT
 (D) Import all spending into new littlefinger 
 (D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(E) Check that IMPS will run locally and that it can sync up.  +EQT
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(D) Review statuss in the Git directory +EQT
 (E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
 (E) Properly fix the issue with random unicode in IMPS and buld the tests
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
