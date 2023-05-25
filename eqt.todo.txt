@@ -1,6 +1,6 @@
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
-(C) 10 Brainstorm on live account +EQT
+x 2023-05-25 10 Brainstorm on live account +EQT
 (C) Produce some Anthology materials  
 (C) Refactoring sprint on IMPS3  +EQT
 (C) Refactoring sprint on OVF 
