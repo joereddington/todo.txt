@@ -1,23 +1,23 @@
-(A) Book tickets to the tech tribe thing  +Internet
-(A) Confirm next Quantum leopard with Simon  +Internet
-(A) Order books for scotish school  +Internet
-(A) Publish the Prison book +Internet
-(A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
-(B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) Do the changes that Greg suggested.  +Internet
 (B) Use the FAQ content to write the Updated OVF sucess page - button to copy link, information on how to get to settings, more information generally. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (C) 10 Brainstorm on live account +EQT
-(C) Check the Google optimise  +Internet
-(C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
 (C) Produce some Anthology materials  
 (C) Refactoring sprint on IMPS3  +EQT
 (C) Refactoring sprint on OVF 
-(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(D) Import all spending into new littlefinger  +Internet 
-(D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT +Internet
+(C) Work on: Read chapter of next book on this list. https://github.com:/eQualityTime/Public/issues/166 +EQT
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
 (E) Make corrections to the public internet history 
 (E) Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests +Internet
+(D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT +Internet
+(D) Import all spending into new littlefinger  +Internet 
+(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+(C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
+(C) Check the Google optimise  +Internet
+(B) Do the changes that Greg suggested.  +Internet
+(B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
+(A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
+(A) Publish the Prison book +Internet
+(A) Order books for scotish school  +Internet
+(A) Confirm next Quantum leopard with Simon  +Internet
+(A) Book tickets to the tech tribe thing  +Internet
