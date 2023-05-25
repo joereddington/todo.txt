@@ -11,6 +11,8 @@
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT
 (C) Process the delores.todo list +EQT
 (C) Refactoring spring on OVF 
+(C) Produce some Anthology materials 
+(C) 
 (C) Refactoring sprint on IMPS3  +EQT
 (C) Ring up nest about logging in. 
 (C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT
