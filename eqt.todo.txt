@@ -15,7 +15,7 @@
       * In fact, can you do it for all books? 
       * Like, we have the *.tex files, so we loop over them, download the data and regenerate? 
       * That's a big regression but worthwhile. 
-(C) IMPS3 - AI should save with dates
+(C) IMPS3 - AI should save images with dates
 (C) Refactoring sprint on OVF 
 (E) 60 Make code changes to the public internet history and wipe the history 
   ✅ Wipe out history 
