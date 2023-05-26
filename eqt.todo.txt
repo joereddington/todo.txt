@@ -1,12 +1,22 @@
-(B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
+x 2023-05-26 Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Produce some Anthology materials  
+  * Create a Google Doc 
+  * ChatGPT a lot of stuff 
+    * First and third person 
+    * Start from the back 
+    * 
 (C) Regression test sprint on IMPS3  +EQT
 (C) Refactoring sprint on OVF 
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
-(E) Make corrections to the public internet history 
-(E) Properly fix the issue with random unicode in IMPS and buld the tests +Internet
-  * Recreate the error in Wordpress 
-  * Create an actual regression test so that we can compare the .tex files.   
+  * Read the damn code 
+(E) Make code changes to the public internet history and wipe the history 
+  ✅ Wipe out history 
+  *  Work out why there are so many files 
+  *  Create a test for the local files problem 
+  * Consider a script that allowed comments  
+  * Re-create the git repo 
+  * Force push it up 
+  * Make public again 
 (D) Import all spending into new littlefinger for expenses  +Internet 
   * Open little finger and check last date 
 (C) Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
