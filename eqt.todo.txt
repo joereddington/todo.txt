@@ -1,12 +1,10 @@
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(E) fix the 404 page on the OVF website
 (C) Produce some Anthology materials  
 (C) Refactoring sprint on IMPS3  +EQT
 (C) Refactoring sprint on OVF 
-(C) Work on: Read chapter of next book on this list. https://github.com:/eQualityTime/Public/issues/166 +EQT
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
 (E) Make corrections to the public internet history 
-(E) Open list of projects to be funded +EQT
+x 2023-05-26 Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests +Internet
 (D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT +Internet
 (D) Import all spending into new littlefinger for expenses  +Internet 
