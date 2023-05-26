@@ -1,5 +1,4 @@
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
-x 2023-05-26 Update OVF to use the new results page. https://github.com/eQualityTime/TheOpenVoiceFactory/issues/146 +EQT
 (E) fix the 404 page on the OVF website
 (C) Produce some Anthology materials  
 (C) Refactoring sprint on IMPS3  +EQT
@@ -17,7 +16,5 @@ x 2023-05-26 Update OVF to use the new results page. https://github.com/eQuality
 (B) Do the changes that Greg suggested.  +Internet
 (B) 10 Work out next tasks for OVF documentation project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
-(A) Publish the Prison book +Internet
-(A) Order books for scotish school  +Internet
-(A) Confirm next Quantum leopard with Simon  +Internet
-x 2023-05-26 Book tickets to the tech tribe thing  +Internet
+(A) Typeset the Prison book 
+(A) Order books for scotish schools  +Internet
