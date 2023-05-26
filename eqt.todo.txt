@@ -1,4 +1,3 @@
-x 2023-05-26 Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Produce some Anthology materials  
   * Create a Google Doc 
   * ChatGPT a lot of stuff 
@@ -8,7 +7,7 @@ x 2023-05-26 Book out three hours for long term plans :https://github.com/joered
     * Do a practice one. (or, don't put any weight on it)  
     * Characters are lazy 
     * Don't kill off your main character
-(C) Regression test sprint on IMPS3  +EQT
+(C) 60 Regression test sprint on IMPS3  +EQT
     * Branch and sync. 
     * Pick a camp to be the regression.
       * Online I think we need, but we can also do one from the database. 
@@ -18,7 +17,6 @@ x 2023-05-26 Book out three hours for long term plans :https://github.com/joered
       * That's a big regression but worthwhile. 
 (C) IMPS3 - AI should save with dates
 (C) Refactoring sprint on OVF 
-x 2023-05-26 Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
 (E) 60 Make code changes to the public internet history and wipe the history 
   ✅ Wipe out history 
   *  Work out why there are so many files 
