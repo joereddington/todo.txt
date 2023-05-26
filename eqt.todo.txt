@@ -3,13 +3,23 @@ x 2023-05-26 Book out three hours for long term plans :https://github.com/joered
   * Create a Google Doc 
   * ChatGPT a lot of stuff 
     * First and third person 
+    * This isn't about winning the booker prize - it's about doing a solid piece of work. 
     * Start from the back 
-    * 
+    * Do a practice one. (or, don't put any weight on it)  
+    * Characters are lazy 
+    * Don't kill off your main character
 (C) Regression test sprint on IMPS3  +EQT
+    * Branch and sync. 
+    * Pick a camp to be the regression.
+      * Online I think we need, but we can also do one from the database. 
+      * Compare generated tex files. 
+      * In fact, can you do it for all books? 
+      * Like, we have the *.tex files, so we loop over them, download the data and regenerate? 
+      * That's a big regression but worthwhile. 
+(C) IMPS3 - AI should save with dates
 (C) Refactoring sprint on OVF 
-(D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
-  * Read the damn code 
-(E) Make code changes to the public internet history and wipe the history 
+x 2023-05-26 Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
+(E) 60 Make code changes to the public internet history and wipe the history 
   ✅ Wipe out history 
   *  Work out why there are so many files 
   *  Create a test for the local files problem 
@@ -17,27 +27,27 @@ x 2023-05-26 Book out three hours for long term plans :https://github.com/joered
   * Re-create the git repo 
   * Force push it up 
   * Make public again 
-(D) Import all spending into new littlefinger for expenses  +Internet 
+(D) 15 Import all spending into new littlefinger for expenses  +Internet 
   * Open little finger and check last date 
-(C) Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+(C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
   * See if the database is in the github link 
   * Create a search link for the school 
   * Click through 
-(C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
+(C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
   * Open Database 
   * Put in teachers from the extracted watchtower column 
   * Sort 
   * Search email for other teachers.
 (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
   * Literall open the file and look at it. 
-(A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
+(A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
-(A) Typeset the Prison book 
+(A) 20 Typeset the Prison book 
   * Open Files to see if there is formatting 
   * Create new file 
   * Copy and paste in 
-(A) Order books for scotish schools  +Internet
+(A) 15 Order books for Scottish schools  +Internet
   * Open the contacts list in email 
   * Google Addresses 
   * Go to Kdp 
