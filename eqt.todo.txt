@@ -9,11 +9,9 @@
 (E) Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests +Internet
 (D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT +Internet
-(D) Import all spending into new littlefinger  +Internet 
-(C) Set up a chainmail for luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+(D) Import all spending into new littlefinger for expenses  +Internet 
+(C) Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
-x 2023-05-26 Check the Google optimise  +Internet
-x 2023-05-26 Do the changes that Greg suggested.  +Internet
 (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
 (A) Typeset the Prison book 
