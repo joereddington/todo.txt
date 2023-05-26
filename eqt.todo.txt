@@ -1,16 +1,35 @@
 (B) Book out three hours for long term plans :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) Produce some Anthology materials  
-(C) Refactoring sprint on IMPS3  +EQT
+(C) Regression test sprint on IMPS3  +EQT
 (C) Refactoring sprint on OVF 
 (D) Work on: ovf player should allow blank labels  https://github.com/eQualityTime/ovfplayer/issues/210 +EQT 
 (E) Make corrections to the public internet history 
-x 2023-05-26 Open list of projects to be funded +EQT
 (E) Properly fix the issue with random unicode in IMPS and buld the tests +Internet
-(D) Post asking for Manchester Volunteers : https://github.com/eQualityTime/Home/issues/132 +EQT +Internet
+  * Recreate the error in Wordpress 
+  * Create an actual regression test so that we can compare the .tex files.   
 (D) Import all spending into new littlefinger for expenses  +Internet 
+  * Open little finger and check last date 
 (C) Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+  * See if the database is in the github link 
+  * Create a search link for the school 
+  * Click through 
 (C) Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
+  * Open Database 
+  * Put in teachers from the extracted watchtower column 
+  * Sort 
+  * Search email for other teachers.
 (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
+  * Literall open the file and look at it. 
 (A) Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
+  * Open the link 
+  * Open chatGpt 
 (A) Typeset the Prison book 
+  * Open Files to see if there is formatting 
+  * Create new file 
+  * Copy and paste in 
 (A) Order books for scotish schools  +Internet
+  * Open the contacts list in email 
+  * Google Addresses 
+  * Go to Kdp 
+  * Check first pages  
+  * Order and send
