@@ -11,7 +11,7 @@
 (E) Trim nose hair +Health     +Fridge 
 (E) Check Passports are in the safe +Fridge
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) Brainstorm Kat birthday +Fridge
+(E) 10 Brainstorm Kat birthday +Fridge
 (E) 05 Floss +Health  +Fridge
 (C) 05 Measure the voltage on the battery for the electric car @Fridge
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
