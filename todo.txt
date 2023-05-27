@@ -20,10 +20,7 @@
 (E) 40 Migrate MP ranking to new site. 
 (E) 70 Do full review of the memory palace.  +Fridge
 (E) Check Passports are in the safe
-x 2023-05-27 Check wishlist
 (E) Set up 'at home for next weekends.+Overhead @phone   
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead
@@ -32,7 +29,7 @@ x 2023-05-27 Check wishlist
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
-(E) Publicly thank someone +Overhead  
+x 2023-05-27 Publicly thank someone +Overhead  
 (E) Put toastmastrs nights into the calendar
 (E) TSE +Health  
 (E) Trim nose hair +Health    
