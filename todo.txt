@@ -4,39 +4,24 @@
 (D) Send out message for 'at home' at next week: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) 04 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (C) Upload new version of memory book : https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/209 +PersonalProjects
-(.) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
+(C) Look through the old blog articules and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(B) 05 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(A) 10 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(A) Brainstorm on being a good dad project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+(C) Check we have the old pole to use as a prop https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
-(C) 20 Clear out garage
-(C) Check if the toy battery you bought can recharge. 
-(C) Pick card Get car camera installed
+(C) Google to see  if the toy battery you bought can recharge. 
+(C) Pick car camera from Halfords website
 (C) Review and re-score  Wheel Of life
 (C) Update the memory palace book and post to the website about it.  
-(C) deploy any commits from OVF that are hanging around. 
-(C) map project:Read a chapter of the seven habits book +PersonalProjects
-(D) Check starred messages in kat whatsapp 
-(D) block light in Nova's room. 
-(D) map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
+(D) Do a lecture on one of the courses Do electronics course (and include https://autocircuits.org)  +PersonalProjects
 (E) 05 Floss +Health   
 (E) 10 Write Moonpig cards for this month +Overhead
 (E) 40 Migrate MP ranking to new site. 
-(E) 60 Listen to Randy Pausch Talk +Overhead @phone  +Fridge
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
+x 2023-05-27 Check wishlist
+(E) Set up 'at home for next weekends.+Overhead @phone   
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty whatsapp and facebook inboxes. +Overhead  
