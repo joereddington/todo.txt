@@ -1,45 +1,31 @@
-(.) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
-(E) Update the alexa alarms for picking up kids +Phone 
-(C) Update the memory palace book and post to the website about it.  
-(A) Work on: https://github.com/joereddington/Projects-Private/issues/209 +PersonalProjects
-(C) Pick card Get car camera installed
-(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(E) Put toastmastrs nights into the calendar
+(D) Edit your photographs:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(D) Message mum and dad about exicted and happy https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(D) Review the nine memory points in the bathroom n: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Send out message for 'at home' at next week: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(D) 04 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) Upload new version of memory book : https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
+(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+(A) Work on: https://github.com/joereddington/Projects-Private/issues/209 +PersonalProjects
+(.) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process. 
-(D) block light in Nova's room. 
 (C) 20 Clear out garage
 (C) Check if the toy battery you bought can recharge. 
+(C) Pick card Get car camera installed
 (C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) Work on: Watch the directors commentaries for all the marvel moves you have. https://github.com/joereddington/Projects-Public/issues/58 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
-(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
+(C) Update the memory palace book and post to the website about it.  
 (C) deploy any commits from OVF that are hanging around. 
 (C) map project:Read a chapter of the seven habits book +PersonalProjects
-(D) 20 * Take some damn photographs project:https://github.com/users/joereddington/projects/2 +PersonalProjects +fridge
 (D) Check starred messages in kat whatsapp 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(D) Work on: Have an off-site backup of files and photos. https://github.com/joereddington/Projects-Public/issues/47 +PersonalProjects
-(D) Work on: Improve export of history https://github.com/joereddington/Projects-Public/issues/9 +PersonalProjects
-(D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Work on: Write 10 html comics https://github.com/joereddington/Projects-Public/issues/45 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/167 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/174 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
+(D) block light in Nova's room. 
 (D) map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 05 Floss +Health   
 (E) 10 Write Moonpig cards for this month +Overhead
 (E) 40 Migrate MP ranking to new site. 
@@ -62,7 +48,9 @@
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
+(E) Put toastmastrs nights into the calendar
 (E) TSE +Health  
 (E) Trim nose hair +Health    
+(E) Update the alexa alarms for picking up kids +Phone 
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
