@@ -25,8 +25,7 @@
   * Re-create the git repo 
   * Force push it up 
   * Make public again 
-(D) 15 Import all spending into new littlefinger for expenses  +Internet 
-  * Open little finger and check last date 
+(D) 15 Process Littlefinger sheet +EQT
 (C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
   * See if the database is in the github link 
   * Create a search link for the school 
