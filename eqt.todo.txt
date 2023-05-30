@@ -8,11 +8,14 @@
     * Characters are lazy 
     * Don't kill off your main character
 (C) 60 Regression test sprint on IMPS3  +EQT
-    * Branch and sync. 
-    * Pick a camp to be the regression.
+    ✅ Branch and sync. 
+    ✅ Compare existing 'regressions' 
+    ✅ Create a test file 
+    ✅  Pick a camp to be the regression. (Horro202
       * Online I think we need, but we can also do one from the database. 
       * Compare generated tex files. 
       * In fact, can you do it for all books? 
+      * First let's make it work for one of them
       * Like, we have the *.tex files, so we loop over them, download the data and regenerate? 
       * That's a big regression but worthwhile. 
 (C) IMPS3 - AI should save images with dates
