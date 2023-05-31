@@ -1,5 +1,4 @@
-(C) Rewrite the anthonlogy materials 
-(C) IMPS3 - AI should save images with dates
+(C) Rewrite the anthology materials 
 (C) Refactoring sprint on OVF 
 (D) 15 Process Littlefinger sheet +EQT
 (C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
