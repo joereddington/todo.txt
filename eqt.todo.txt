@@ -15,7 +15,4 @@
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
-(A) 20 Typeset the Prison book 
-  * Open Files to see if there is formatting 
-  * Create new file 
-  * Copy and paste in 
+(A) 20 Publish The prison book 
