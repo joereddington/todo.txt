@@ -12,7 +12,7 @@
   * Sort 
   * Search email for other teachers.
 (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
-  * Literall open the file and look at it. 
+  * literally open the file and look at it. 
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
