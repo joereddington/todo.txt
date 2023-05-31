@@ -1,15 +1,6 @@
-(C) Produce some Anthology materials  
-  ✅  Create a Google Doc 
-  * ChatGPT a lot of stuff 
-    * First and third person 
-    * This isn't about winning the booker prize - it's about doing a solid piece of work. 
-    * Start from the back 
-    * Do a practice one. (or, don't put any weight on it)  
-    * Characters are lazy 
-    * Don't kill off your main character
+(C) Rewrite the anthonlogy materials 
 (C) IMPS3 - AI should save images with dates
 (C) Refactoring sprint on OVF 
-(E) 10 Create seperate repo for the history code.
 (D) 15 Process Littlefinger sheet +EQT
 (C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
   * See if the database is in the github link 
