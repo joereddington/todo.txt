@@ -7,7 +7,6 @@
     * Do a practice one. (or, don't put any weight on it)  
     * Characters are lazy 
     * Don't kill off your main character
-x 2023-05-30 60 Regression test sprint on IMPS3  +EQT
 (C) IMPS3 - AI should save images with dates
 (C) Refactoring sprint on OVF 
 (E) 10 Create seperate repo for the history code.
