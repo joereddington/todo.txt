@@ -1,8 +1,9 @@
-(C) Rewrite the anthology materials 
-(C) Refactoring sprint on OVF 
+(C) Rewrite the 'How to write a short story' guide
+(C) Refactoring sprint on OVF (Todo's or test coverage)  
 (D) 15 Process Littlefinger sheet +EQT
 (C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
-  * See if the database is in the github link 
+  ✅  See if the database is in the github link 
+  * Search Google drive 
   * Create a search link for the school 
   * Click through 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
@@ -15,4 +16,3 @@
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
-x 2023-05-31 20 Publish The prison book 
