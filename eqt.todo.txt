@@ -15,4 +15,4 @@
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
-(A) 20 Publish The prison book 
+x 2023-05-31 20 Publish The prison book 
