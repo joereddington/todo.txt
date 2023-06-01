@@ -1,23 +1,22 @@
 (E) Post to Sibling Facebook group  @phone   
+(A) Do Clare's wikipedia change
 (E) Empty whatsapp and facebook inboxes. +Overhead   @phone
 (E) Set up 'at home for next weekends.+Overhead @phone   
 (A) Brainstorm on being a good dad project:https://github.com/users/joereddington/projects/7 +PersonalProjects +Phone
-(D) 04 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919 +phone
 (D) Send out message for 'at home' at next week: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects +Phone
 (D) 05 Message mum and dad about exicted and happy https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects +Phone
 (E) Trim nose hair +Health     +Fridge 
 (E) 70 Do full review of the memory palace.  +Fridge
 (E) 10 Brainstorm Kat birthday +Fridge
 (E) 05 Floss +Health  +Fridge
-(C) 05 Measure the voltage on the battery for the electric car @Fridge
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
-(C) Check we have the old pole to use as a prop https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects +Fridge
 (D) 90 Edit your photographs:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) Review the nine memory points in the bathroom n: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(C) 10 Upload new version of memory book : https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
+(C) 10 Upload old version of memory book and see if that helps : https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
 (C) Look through the old blog articules and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (B) 05 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (A) 10 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (C) 20 Review and re-score  Wheel Of life
 (D) 60 Watch  a lecture on one of the courses  PersonalProjects
 (E) 40 Migrate MP ranking to new site. 
+(E) Get electric car out - it must have been charging for ages
