@@ -16,3 +16,4 @@
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
+(A) Resubmit the prison book 
