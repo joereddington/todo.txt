@@ -4,12 +4,7 @@
     * Check which one is on the github 
       * Compare it to the ones on both local and production. 
 (D) 15 Process Littlefinger sheet +EQT
-(C) 20 Check headteachers on luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
-  ✅  See if the database is in the github link 
-  ✅  Search Google drive 
-  * Check that the headteachers haven't changed 
-    * Create a Google search Column 
-  * Download the file and run the code. 
+(C) Email headteachers in Luton schools: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
   * Open Database 
   * Put in teachers from the extracted watchtower column 
