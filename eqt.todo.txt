@@ -19,4 +19,5 @@
 (A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
   * Open the link 
   * Open chatGpt 
-(A) Order books from the prison book 
+x 2023-06-05 Order books from the prison book 
+(E) Read this manual properly and see if there is an address spliter https://copyq.readthedocs.io/en/latest/ 
