@@ -5,6 +5,7 @@
       * Compare it to the ones on both local and production. 
 (D) 15 Process Littlefinger sheet +EQT
 (C) Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
+(C) Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours) 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
 (E) Sort open issues into 10 year project board
 (E) Sort out top drawer 
