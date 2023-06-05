@@ -1,22 +1,13 @@
-(C) Rewrite the 'How to write a short story' guide
-(C) Refactoring sprint on OVF (Todo's or test coverage)  
-    * Fix the divergent branches 
-      * Find out the git commands for looking at the other histoy 
-    * Check which one is on the github 
-      * Compare it to the ones on both local and production. 
-(D) 15 Process Littlefinger sheet +EQT
+(B) Rewrite the 'How to write a short story' guide
+(B) Write press contact email about Flowers For Turing. 
 (C) Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
-(C) Write press contact email about Flowers For Turing. 
 (C) Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours) 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
-(E) Sort open issues into 10 year project board
-(E) Sort out top drawer 
   * Open Database 
   * Put in teachers from the extracted watchtower column 
   * Sort 
   * Search email for other teachers.
-(B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
-  * literally open the file and look at it. 
-x 2023-06-05 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
-x 2023-06-05 Order books from the prison book 
+(D) 15 Process Littlefinger sheet +EQT
+(E) Sort open issues into 10 year project board
+(E) Sort out top drawer 
 (E) Read this manual properly and see if there is an address spliter https://copyq.readthedocs.io/en/latest/ 
