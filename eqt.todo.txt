@@ -16,8 +16,6 @@
   * Search email for other teachers.
 (B) 30 Review the downloaded OVF manual project https://github.com/eQualityTime/Public/issues/162 +EQT +Internet
   * literally open the file and look at it. 
-(A) 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
-  * Open the link 
-  * Open chatGpt 
+x 2023-06-05 60 Work on Tightrope Report todo list https://github.com/eQualityTime/Home/issues/126 +EQT +Internet
 x 2023-06-05 Order books from the prison book 
 (E) Read this manual properly and see if there is an address spliter https://copyq.readthedocs.io/en/latest/ 
