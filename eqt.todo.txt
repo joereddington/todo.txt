@@ -1,5 +1,5 @@
 (B) Rewrite the 'How to write a short story' guide
-(B) Write press contact email about Flowers For Turing. 
+(C) Write press contact email about Flowers For Turing. 
 (C) Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
 (C) Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours) 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
