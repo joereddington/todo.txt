@@ -1,6 +1,7 @@
 (C) Rewrite the 'How to write a short story' guide
 (C) Refactoring sprint on OVF (Todo's or test coverage)  
     * Fix the divergent branches 
+      * Find out the git commands for looking at the other histoy 
     * Check which one is on the github 
       * Compare it to the ones on both local and production. 
 (D) 15 Process Littlefinger sheet +EQT
