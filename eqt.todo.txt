@@ -6,6 +6,7 @@
 (D) 15 Process Littlefinger sheet +EQT
 (C) Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
+(E) Sort open issues into 10 year project board
 (E) Sort out top drawer 
   * Open Database 
   * Put in teachers from the extracted watchtower column 
