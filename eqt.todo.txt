@@ -1,5 +1,4 @@
 (C) 20 Write press contact email about Flowers For Turing. 
-(C) 10 Have chatGPT rewrite the luton schools email: https://github.com/eQualityTime/Home/issues/113 +EQT +Internet a bit 
 (C) 10 Confirm that Annual leave sheet has a break calcualtion (extra 20 minutes after six hours) 
 (C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
   * Open Database 
@@ -8,5 +7,4 @@
   * Search email for other teachers.
 (D) 15 Process Littlefinger sheet +EQT
 (E) 20 Sort open issues into 10 year project board
-(E) 10 Sort out top drawer 
-(E) 20 Read this manual properly and see if there is an address spliter https://copyq.readthedocs.io/en/latest/ 
+x 2023-06-05 10 Sort out top drawer 
