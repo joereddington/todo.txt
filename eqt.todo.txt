@@ -1,4 +1,3 @@
-(C) 20 Write press contact email about Flowers For Turing. 
-(C) 60 Improve the contacts for the school database on: https://github.com/eQualityTime/Home/issues/115 +EQT+Internet
+x 2023-06-06 20 Write press contact email about Flowers For Turing. 
 (D) 15 Process Littlefinger sheet +EQT
 (E) 20 Sort open issues into 10 year project board
