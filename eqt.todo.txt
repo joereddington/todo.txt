@@ -3,18 +3,12 @@
 (A) Pack bag for event/town work. 
 (A) Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT
 (B) 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
-x 2023-06-08 Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/128 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-(C) map project:Process the delores.todo list +EQT
-(C) map project:Promote eQuality Time +EQT
+(C) Regenerate and send emails for Luton schools https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
+(C) Refactoring and tests for IMPS3  +EQT
+(C) Refactoring and tests for OVF  +EQT
 (D) Review the git projects and see what we can push 
-(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
+(D) Work on: Contact US universities about FFT https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
