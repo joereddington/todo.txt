@@ -1,5 +1,4 @@
 (A) 20 Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) 30 ToDo-prettification today (igor, rewrite everthing, put on linkedin) 
 (B) 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 30 Generate FFT press emails  +ET
 (C) 15 Regenerate and send emails for Luton schools https://github.com/eQualityTime/Home/issues/113 +EQT
