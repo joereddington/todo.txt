@@ -1,6 +1,5 @@
-x 2023-06-08 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 30 Generate FFT press emails  +ET
-(C) 15 Regenerate and send emails for Luton schools https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) 15 Send the emails for Luton schools 
 (C) 20 Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
 (C) 60 Refactor and write tests in IMPS3  +EQT
 (C) 60 Refactor and write tests in OVF  +EQT
