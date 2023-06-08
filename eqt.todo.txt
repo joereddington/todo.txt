@@ -6,12 +6,13 @@
 (C) Regenerate and send emails for Luton schools https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
 (C) Refactoring and tests for IMPS3  +EQT
+(B) Generate FFT press emails  +ET
 (C) Refactoring and tests for OVF  +EQT
 (D) Review the git projects and see what we can push 
-(D) Work on: Contact US universities about FFT https://github.com/eQualityTime/Public/issues/168 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Download US universities contact details for FFT https://github.com/eQualityTime/Public/issues/168 +EQT
+(D) Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT
+x 2023-06-08 Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Import the most recent set of camps to the WWW library  https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
 (E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
