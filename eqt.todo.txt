@@ -1,5 +1,4 @@
-x 2023-06-08 20 Review Garfield Weston and establish what else we can do with it: https://github.com/eQualityTime/Home/issues/130 +EQT
-(B) 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
+x 2023-06-08 20 minutes sorting dropbox  https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 30 Generate FFT press emails  +ET
 (C) 15 Regenerate and send emails for Luton schools https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) 20 Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
@@ -11,6 +10,5 @@ x 2023-06-08 20 Review Garfield Weston and establish what else we can do with it
 (D) 20 Review the git projects and see what we can push 
 (D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 10 Backup AWS +EQT
-(E) 12 Run multi-git-status on OVF
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Transfer the EQT website (and map as issue) 
