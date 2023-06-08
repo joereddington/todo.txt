@@ -1,6 +1,6 @@
 (B) 30 Generate FFT press emails  +ET
 (C) 15 Send the emails for Luton schools 
-(C) 20 Run the chainmail code on previous teachers and review outputs  https://github.com/eQualityTime/Home/issues/133 +EQT
+(C) 20 Send the emails for previous school https://github.com/eQualityTime/Home/issues/133 +EQT
 (C) 60 Refactor and write tests in IMPS3  +EQT
 (C) 60 Refactor and write tests in OVF  +EQT
 (D) 10 Download US universities contact details for FFT https://github.com/eQualityTime/Public/issues/168 +EQT
