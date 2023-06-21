@@ -1,13 +1,21 @@
-(B) 30 Generate FFT press emails  +ET
-(C) 15 Send the emails for Luton schools 
-(C) 20 Send the emails for previous school https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) 60 Refactor and write tests in IMPS3  +EQT
-(C) 60 Refactor and write tests in OVF  +EQT
-(D) 10 Download US universities contact details for FFT https://github.com/eQualityTime/Public/issues/168 +EQT
-(D) 15 Import the most recent set of camps to the WWW library  https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) 20 Look at the CS HoD sheet and see who else you can email about your collaborative writing https://github.com/eQualityTime/Home/issues/135 +EQT
-(D) 20 Review the git projects and see what we can push 
-(D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT
-(E) 10 Backup AWS +EQT
-(E) 20 Search for funding for eQuality Time Projects +EQT
-(E) 20 Transfer the EQT website (and map as issue) 
+(A) 05 Download the files for the next prison book  @private
+  * Rewrite the openningj
+  * Add thank yous 
+  * Fix title 
+  * Add the chapters 
+(A) 20 Find and download a csv to use for the tightrope email out  @private
+(A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
+(A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
+(B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
+(B) 25 Get the notebook and add the people you met at events this week  @private
+(C) 05 Mark the tasks we can do on streaming and record a test video 
+(C) 10 Map Project to find new auditor for accounts @public 
+(C) 60 Code sprint on IMPS3 todos +EQT @public  
+(C) 60 Code sprint on OVF todos +EQT @public 
+(D) 12 Rewrite issue  https://github.com/eQualityTime/Home/issues/135 +EQT @private
+(D) 20 Do full accounts algorithm +EQT @private 
+(D) 20 Process git directory (and add soft links so that the vim and i3 repos are included) @public 
+(D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT @private
+(E) 10 Lookup location for next school and message Eleanor.  @private
+(E) 15 Open projects file and look for a community tech solution  https://www.myfundingcentral.co.uk/News/View/Power-to-Changes-New-Discovery-Fund-Opens-for-Applications-GRUKBP3!N76989?bcr=MTI1Mw  @private
+(E) 20 Transfer the EQT website (and map as issue)  @private
