@@ -1,8 +1,3 @@
-(A) 05 Download the files for the next prison book  @private
-  * Rewrite the openningj
-  * Add thank yous 
-  * Fix title 
-  * Add the chapters 
 (A) 20 Find and download a csv to use for the tightrope email out  @private
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
