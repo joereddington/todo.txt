@@ -1,4 +1,5 @@
 (A) 20 Find and download a csv to use for the tightrope email out  @private
+(B) Order prison books (and check in on current project)
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
