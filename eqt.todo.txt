@@ -1,19 +1,10 @@
-(A) Write the turing accounting post. 
-(A) 20 Find and download a csv to use for the tightrope email out  @private
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
-(B) 25 Get the notebook and add the people you met at events this week  @private
-(B) Order prison books (and check in on current project)
-(C) 05 Mark the tasks we can do on streaming and record a test video 
-(C) 10 Map Project to find new auditor for accounts @public 
+(C) 15 Publish a video of doing some public tasks 
 (C) 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Code sprint on OVF todos +EQT @public 
-(D) 12 Rewrite issue  https://github.com/eQualityTime/Home/issues/135 +EQT @private
 (D) 20 Do full accounts algorithm +EQT @private 
-(D) 20 Process git directory (and add soft links so that the vim and i3 repos are included) @public 
-(D) 20 Write a little python module that returns a Google Sheets file as a list of dictionaries: https://github.com/eQualityTime/Home/issues/127 +EQT @private
-(E) 10 Lookup location for next school and message Eleanor.  @private
-(E) 15 Open projects file and look for a community tech solution  https://www.myfundingcentral.co.uk/News/View/Power-to-Changes-New-Discovery-Fund-Opens-for-Applications-GRUKBP3!N76989?bcr=MTI1Mw  @private
 (E) 20 Transfer the EQT website (and map as issue)  @private
-(E) Fix cron for publishing history 
+(B) Write presentation for MIX 
+(E) Review the file you sent to LCK in the context of sibs 
