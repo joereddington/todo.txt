@@ -1,7 +1,9 @@
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
+(A) Write accounting post for Flowers For Turing 
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (C) 15 Publish a video of doing some public tasks 
+(A) Prepare for management call 
 (C) 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Code sprint on OVF todos +EQT @public 
 (D) 20 Do full accounts algorithm +EQT @private 
