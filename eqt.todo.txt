@@ -1,6 +1,7 @@
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
-(A) Write accounting post for Flowers For Turing 
+(A) Send the first set of tightrope emails 
+(A) Process mum's expenses so you can write accounting post for Flowers For Turing 
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (B) Write presentation for MIX 
 (C) 15 Publish a video of doing some public tasks 
@@ -9,3 +10,4 @@
 (D) 20 Do full accounts algorithm +EQT @private 
 (E) 20 Transfer the EQT website (and map as issue)  @private
 (E) Review the file you sent to LCK in the context of sibs 
+(E) Contact the mall about spaces 
