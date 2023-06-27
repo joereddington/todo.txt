@@ -4,10 +4,8 @@
 (A) Process mum's expenses so you can write accounting post for Flowers For Turing 
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (B) Write presentation for MIX 
-(C) 15 Publish a video of doing some public tasks 
-(C) 60 Code sprint on IMPS3 todos +EQT @public  
+x 2023-06-27 15 Publish a video of doing some public tasks 
+(C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Code sprint on OVF todos +EQT @public 
 (D) 20 Do full accounts algorithm +EQT @private 
 (E) 20 Transfer the EQT website (and map as issue)  @private
-(E) Review the file you sent to LCK in the context of sibs 
-(E) Contact the mall about spaces 
