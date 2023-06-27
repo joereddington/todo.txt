@@ -1,6 +1,5 @@
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (A) 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
-x 2023-06-27 Prepare for management call 
 (A) Write accounting post for Flowers For Turing 
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (B) Write presentation for MIX 
