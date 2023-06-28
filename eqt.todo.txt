@@ -3,7 +3,7 @@
 (A) Send the first set of tightrope emails 
 (A) Process mum's expenses so you can write accounting post for Flowers For Turing 
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
-(B) Write presentation for MIX 
+(B) Write presentation for MIX and send to the team 
 (C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Code sprint on OVF todos +EQT @public 
 (D) 20 Do full accounts algorithm +EQT @private 
