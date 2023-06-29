@@ -1,6 +1,3 @@
-x 2023-06-29 30 Copy the feedback for tightrope report and make changes https://github.com/eQualityTime/Home/issues/126 +EQT @private
-x 2023-06-29 Process mum's expenses so you can write accounting post for Flowers For Turing 
-(A) Send the emails about turing   
 (A) 25 Draft report for garfield westron   on: https://github.com/eQualityTime/Home/issues/130 +EQT @private
 (B) 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
 (B) Write presentation for MIX and send to the team 
