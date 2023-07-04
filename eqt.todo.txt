@@ -7,3 +7,5 @@
 (C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (D) 20 Process littlefinger files 
 (E) 20 Transfer the EQT website (and map as issue)  @private
+(B) Send newsletter to trustees 
+(A) Send prison leaders and update on future work  +EQT 
