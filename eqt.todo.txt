@@ -1,4 +1,3 @@
 (C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
-(C) Send book to AW school 
-(D) 20 Process littlefinger files 
+(D) 20 Create expenses claim from Littlefinger  +EQT 
 (E) 20 Transfer the EQT website (and map as issue)  @private
