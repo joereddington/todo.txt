@@ -1,8 +1,4 @@
-x 2023-07-04 20 minutes tidying Google drive: https://github.com/eQualityTime/Home/issues/120 +EQT @private
-(C) 60 Code sprint on OVF todos +EQT @public 
 (C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) Send book to AW school 
-(C) Send prison leaders and update on future work  +EQT 
-(C) Tidy up the Flowers for Turing in Quickbooks - I think there is a Quickbooks payment for 39.92 that needs moving
 (D) 20 Process littlefinger files 
 (E) 20 Transfer the EQT website (and map as issue)  @private
