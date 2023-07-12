@@ -6,12 +6,12 @@
 (C) Process the delores.todo list +EQT
 (C) Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) Public video of 60 Code sprint on OVF todos +EQT @public  
-(C) Read chapter of vim book. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Rewrite this issue https://github.com/eQualityTime/Public/issues/165 +EQT
 (D) Ask for help with a project: https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) Do full accounts algorithm +EQT 
 (D) Process git directory +EQT
+(C) Contact everybody you met at MIX 
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
