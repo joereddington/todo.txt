@@ -1,23 +1,23 @@
-(E) 10 Post to WWW facebook page +EQT  @phone   
-(A) Book tickets for prompt jam 
+x 2023-07-13 Book tickets for prompt jam 
 (A) Do midjourney prompts 
-(C) Send book to californa 
-(E) 10 Review starred items in feeds +Overhead +EQT
-(C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(D) 20 Process git directory +EQT
-(E) 20 Search for funding for eQuality Time Projects +EQT
 (B) 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(D) 30 Do full accounts algorithm +EQT 
+(C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 60 Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
-(D) 15 Pick a project you are stuck on and ask social media for ideas: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) 10 Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Contact everybody you met at MIX 
 (C) Get back into the EQT website
 (C) Map project to close down dreamhost. Backup, transfer joereddington.com  https://github.com/eQualityTime/Home/issues/137 +EQT
 (C) Process the delores.todo list +EQT
 (C) Rewrite this issue https://github.com/eQualityTime/Public/issues/165 +EQT
+(C) Send book to californa 
+(D) 10 Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) 15 Pick a project you are stuck on and ask social media for ideas: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) 20 Process git directory +EQT
+(D) 30 Do full accounts algorithm +EQT 
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(E) 10 Post to WWW facebook page +EQT  @phone   
+(E) 10 Review starred items in feeds +Overhead +EQT
+(E) 20 Search for funding for eQuality Time Projects +EQT
