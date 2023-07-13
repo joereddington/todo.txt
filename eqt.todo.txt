@@ -7,8 +7,8 @@
 (D) 30 Do full accounts algorithm +EQT 
 (C) 60 Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
-(D) Ask for help with a project: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) 15 Pick a project you are stuck on and ask social media for ideas: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) 10 Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Contact everybody you met at MIX 
 (C) Get back into the EQT website
