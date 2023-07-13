@@ -1,6 +1,4 @@
-x 2023-07-13 Book tickets for prompt jam 
-(A) Do midjourney prompts 
-(B) 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(A) Book tickets for prompt jam 
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 60 Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
@@ -21,3 +19,4 @@ x 2023-07-13 Book tickets for prompt jam
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) 10 Review starred items in feeds +Overhead +EQT
 (E) 20 Search for funding for eQuality Time Projects +EQT
+(E) 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
