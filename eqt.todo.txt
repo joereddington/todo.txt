@@ -1,7 +1,7 @@
 (A) Book tickets for prompt jam 
 (C) 60 Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
-(C) Contact everybody you met at MIX 
+x 2023-07-13 Contact everybody you met at MIX 
 (C) Process the delores.todo list +EQT
 (C) Rewrite this issue https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Send book to californa 
