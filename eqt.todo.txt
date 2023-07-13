@@ -1,4 +1,7 @@
 (E) 10 Post to WWW facebook page +EQT  @phone   
+(A) Book tickets for prompt jam 
+(A) Do midjourney prompts 
+(C) Send book to californa 
 (E) 10 Review starred items in feeds +Overhead +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (D) 20 Process git directory +EQT
