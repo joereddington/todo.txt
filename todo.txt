@@ -30,8 +30,8 @@
 (D) 90 Edit your photographs:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) Move shed forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
-(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(D) Rewrite the list of parties: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+x 2023-07-14 Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/193 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
