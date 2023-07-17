@@ -1,5 +1,5 @@
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
 (D) 30 Do full accounts algorithm +EQT 
-(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
-(E) 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+x 2023-07-17 Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
+x 2023-07-17 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (E) Email the guy you met at betchley about this: https://covenantfund.org.uk/wp-content/uploads/2023/07/AF3-Research-Grants-programme-guidance-FINAL-with-cover.pdf
