@@ -1,9 +1,8 @@
 (C) 60 Public video of 60 Code sprint on IMPS3 todos +EQT @public  
 (C) 60 Public video of 60 Code sprint on OVF todos +EQT @public  
-(C) 05 Send book to californa 
 (D) 10 Brainstorm on things I could use the chainmail project for https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) 30 Do full accounts algorithm +EQT 
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
-(E) 10 Post to WWW facebook page +EQT  @phone   
+x 2023-07-17 10 Post to WWW facebook page +EQT  @phone   
 (E) 10 Review starred items in feeds +Overhead +EQT
 (E) 20 minutes sorting Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
