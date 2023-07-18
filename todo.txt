@@ -1,20 +1,16 @@
-(E) 04 -Write a message to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§ this summer 
 (E) 05 Floss +Health   
 (B) 05 Get moonpig card for mum on app @phone
 (D) 05 Message mum and dad about being excited and happy https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (B) 06 Send out message for 'at home' at next week: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects +Phone
-(E) 10 Arrange a weekend to see mum and dad 
 (B) 10 Brainstorm on emotional processing: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
-(E) 10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) 10 Empty Joe inbox completely +Overhead    
 (A) 10 Get out the manual for shed and work out what bits of wood go here https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
 (C) 10 Get up on Ladder to look at the guttering. 
-(B) 10 Lookup cost of new roof box 
-(D) 10 Rewrite the list of parties: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(B) 10 Fix the roof box 
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
 (C) 10 Year plan: check you have 5 projects in each part
-(D) 10 map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
+(C) Find a counselling course 
 (D) 10 map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
 (D) 15 Gather cables for reflection project: power strip, power leads, hdmi, keyboard, mouse 
 (C) 15 Make the pm corrections to memory book 
