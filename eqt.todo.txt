@@ -3,6 +3,7 @@
 (C) Buy new hard drive for desktop 
 (C) Move some files off the desktop to free up space 
 (E) Review the Google Webmaster tools and Analytics for the main EQT site
+(B) Backup AWS services 
 (C) post videos
 (E) Check the AWS credit balance 
 (E) Edit Visit to download all the issue files
