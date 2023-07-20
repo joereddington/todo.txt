@@ -1,15 +1,13 @@
-(A) Check that you really have properly backed up Dreamhost and then press a button to remove. 
+(A) Upload the video to youtube 
 (B) Backup AWS services 
-(C) Did I NOT set up some sort of email to check all my email addresses recently? I feel like I did... 
-(A) Process the work videos (it's A because otherwise we won't know what's going to happen)
+(C) Buy new hard drive and RAM for desktop 
 (C) Connect with the prompt Jam people on linkedin and stuff. 
-(C) Brainstorm publicity in the one-person-media-agency sense. 
-(C) Buy new hard drive for desktop 
+(C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
 (C) Move some files off the desktop to free up space 
 (C) post videos
-(E) Process the publishable file 
 (E) Check the AWS credit balance 
 (E) Edit Visit to download all the issue files
+(E) Process the publishable file 
 (E) Review the Google Webmaster tools and Analytics for the main EQT site
 (E) Reword the gratitude calendar event to be about bloging rather than facebook
 (E) Scp the download folder to the new EQT site 
