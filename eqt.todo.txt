@@ -1,5 +1,6 @@
 (A) Check that you really have properly backed up Dreamhost and then press a button to remove. 
 (B) Backup AWS services 
+(C) Did I NOT set up some sort of email to check all my email addresses recently? I feel like I did... 
 (A) Process the work videos (it's A because otherwise we won't know what's going to happen)
 (C) Connect with the prompt Jam people on linkedin and stuff. 
 (C) Brainstorm publicity in the one-person-media-agency sense. 
