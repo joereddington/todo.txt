@@ -1,6 +1,4 @@
-x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
+(A) Draft the report for Garfield Weston: https://github.com/eQualityTime/Home/issues/130 +EQT
 (B) Backup AWS services 
 (B) Delete the toomanycooks file on dreamhost
 (B) Set goals for the summer.
@@ -13,10 +11,6 @@ x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
 (C) Work on: Find a funder for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/137 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (C) map project:Next sprint on developing OVF  +EQT
@@ -25,10 +19,7 @@ x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
+(D) Ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
 (D) map project:Continually improve and train on working practices and technology +EQT
 (E) Edit vision to download all the issue files
