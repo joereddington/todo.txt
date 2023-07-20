@@ -1,5 +1,23 @@
 (B) Backup AWS services 
+(B) Delete the toomanycooks file on dreamhost
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Set goals for the summer.
+(C) 2. Switch to live account and start streaming +EQT @singleton 
 (C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(D) Do full accounts algorithm +EQT 
+(E) Backup AWS +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
 (E) Edit vision to download all the issue files
-(E) Scp the download folder to the new EQT site 
 (E) Fix EQT's ssl 
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Review starred items in feeds +Overhead +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Scp the download folder to the new EQT site 
+(E) Search for funding for eQuality Time Projects +EQT
