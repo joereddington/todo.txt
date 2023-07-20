@@ -1,26 +1,22 @@
-(E) 05 Floss +Health   
 (B) 05 Get moonpig card for mum on app @phone
-(D) 05 Message mum and dad about being excited and happy https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
-(B) 06 Send out message for 'at home' at next week: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects +Phone
+(C) Create a i3 layout for darktable 
 (B) 10 Brainstorm on emotional processing: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
-(E) 10 Empty Joe inbox completely +Overhead    
-(A) 10 Get out the manual for shed and work out what bits of wood go here https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
-(C) 10 Get up on Ladder to look at the guttering. 
 (B) 10 Fix the roof box 
+(C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
+(C) 10 Get up on Ladder to look at the guttering. 
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
-(C) Find a counselling course 
-(D) 10 map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
-(D) 15 Gather cables for reflection project: power strip, power leads, hdmi, keyboard, mouse 
 (C) 15 Put battery stuff in the back of the car 
 (C) 15 Write out a summer holidays delores with the kids 
 (C) 20 Look through the old blog articules and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 20 Read https://rpg.stackexchange.com/questions/207239/is-there-a-body-of-academic-theory-particularly-conferences-and-journals-on-ro/207240#207240 
-(E) 20 Watch all the home videos in the git folder 
+(C) Find a counselling course 
+(D) 10 map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
+(D) 15 Gather cables for reflection project: power strip, power leads, hdmi, keyboard, mouse 
 (D) 30 minutes organising garage . https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
-(E) 40 Migrate MP ranking to new site. 
 (D) 40 spend time with brainstorms on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (D) 60 Watch a lecture on one of the courses  PersonalProjects
+(E) 05 Floss +Health   
+(E) 20 Watch all the home videos in the git folder 
+(E) 40 Migrate MP ranking to new site. 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (E) 70 Do full review of the memory palace.  +Fridge
-(D) 90 Edit your photographs:https://github.com/users/joereddington/projects/2 +PersonalProjects
