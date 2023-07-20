@@ -5,9 +5,7 @@
 (C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
 (C) Move some files off the desktop to free up space 
 (C) post videos
-(E) Check the AWS credit balance 
-(E) Edit Visit to download all the issue files
-(E) Process the publishable file 
+(E) Edit vision to download all the issue files
 (E) Review the Google Webmaster tools and Analytics for the main EQT site
 (E) Reword the gratitude calendar event to be about bloging rather than facebook
 (E) Scp the download folder to the new EQT site 
