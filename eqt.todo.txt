@@ -6,7 +6,7 @@
 (C) Move some files off the desktop to free up space 
 (C) post videos
 (E) Edit vision to download all the issue files
-(E) Review the Google Webmaster tools and Analytics for the main EQT site
 (E) Reword the gratitude calendar event to be about bloging rather than facebook
 (E) Scp the download folder to the new EQT site 
 (E) Write work gratitude post on linkedin 
+(E) Fix EQT's ssl 
