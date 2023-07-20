@@ -1,9 +1,12 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Get moonpig card for mum on app @phone
 (B) 10 Brainstorm on emotional processing: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) 10 Fix the roof box 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
+(B) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
 (C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) 10 Get up on Ladder to look at the guttering. 
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
@@ -17,15 +20,38 @@
 (C) Create a i3 layout for darktable 
 (C) deploy any commits from OVF that are hanging around. 
 (C) Find a counselling course 
+(C) map project:Read a chapter of the seven habits book +PersonalProjects
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
+(C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
+(C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
+(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (D) 10 map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
 (D) 15 Gather cables for reflection project: power strip, power leads, hdmi, keyboard, mouse 
 (D) 30 minutes organising garage . https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) 40 spend time with brainstorms on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) 60 Watch a lecture on one of the courses  PersonalProjects
 (D) Check starred messages in kat whatsapp 
+(D) map project:
+(D) map project:Blog the delores compiler  +PersonalProjects
+(D) map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
+(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/193 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/202 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
+(D) Work on: https://github.com/joereddington/Projects-Private/issues/212 +PersonalProjects
+(D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
+(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (E) 05 Floss +Health   
 (E) 20 Watch all the home videos in the git folder 
 (E) 40 Migrate MP ranking to new site. 
