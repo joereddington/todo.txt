@@ -1,6 +1,6 @@
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
+x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
+x 2023-07-20 Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Backup AWS services 
 (B) Delete the toomanycooks file on dreamhost
 (B) Set goals for the summer.
