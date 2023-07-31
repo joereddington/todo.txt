@@ -1,10 +1,8 @@
-(B) Backup AWS services 
-(B) Delete the toomanycooks file on dreamhost
 (B) Set goals for the summer.
 (B) Sort Google Drive from ubuntu on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
+(C) Move the speechful site
 (C) Work on: Find a funder for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
-(D) Check what our anual turnover is https://www.myfundingcentral.co.uk/News/View/HMRC-Offering-5.5-Million-in-Grants-to-the-Voluntary-Sector-GRUKBP3!N77217?bcr=MTIzNQ
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
@@ -12,10 +10,9 @@
 (C) map project:Process the delores.todo list +EQT
 (C) map project:Promote eQuality Time +EQT
 (D) Ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Check what our anual turnover is https://www.myfundingcentral.co.uk/News/View/HMRC-Offering-5.5-Million-in-Grants-to-the-Voluntary-Sector-GRUKBP3!N77217?bcr=MTIzNQ
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(E) Edit vision to download all the issue files
+(E) Setup a speech delay set of keywords on Google ads
 Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
