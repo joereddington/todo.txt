@@ -1,13 +1,10 @@
-(B) Set goals for the summer.
-(B) Sort Google Drive from ubuntu on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Install Dropbox locally temporarily Google Drive from ubuntu on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
 (C) Move the speechful site
-(C) Work on: Find a funder for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+* Fix meeting minutes for EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-(C) map project:Process the delores.todo list +EQT
+(C) Record a video working on IMPS3
+(C) Record a video working on OVF 
 (C) map project:Promote eQuality Time +EQT
 (D) Ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Check what our anual turnover is https://www.myfundingcentral.co.uk/News/View/HMRC-Offering-5.5-Million-in-Grants-to-the-Voluntary-Sector-GRUKBP3!N77217?bcr=MTIzNQ
