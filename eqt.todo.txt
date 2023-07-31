@@ -1,6 +1,5 @@
 (C) Install Dropbox locally temporarily Google Drive from ubuntu on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) Check mailing lists to find one for all emails - otherwise set up a calendar event - weekly to start with 
-(C) Move the speechful site
 * Fix meeting minutes for EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) Record a video working on IMPS3
