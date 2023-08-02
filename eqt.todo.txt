@@ -10,3 +10,4 @@
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) proces the git directory 
 (E) Setup a speech delay set of keywords on Google ads
+(E) Fix joereddington.com 
