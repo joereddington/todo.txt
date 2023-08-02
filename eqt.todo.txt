@@ -3,6 +3,6 @@
 (C) 60 Record a video working on IMPS3
 (C) 60 Record a video working on OVF 
 (D) Ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) 20 proces the git directory 
+x 2023-08-02 20 proces the git directory 
 (E) 15 Setup a speech delay set of keywords on Google ads
 (E) 10 Fix joereddington.com 
