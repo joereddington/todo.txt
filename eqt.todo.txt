@@ -1,7 +1,4 @@
-(C) 20 Minutes moving over meeting minutes for EQT
-(C) 30 Process all recent spending 
+x 2023-08-03 30 Process all recent spending 
 (C) 60 Record a video working on IMPS3
 (C) 60 Record a video working on OVF 
-x 2023-08-03 Ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
-(E) 10 Fix joereddington.com 
 (E) 15 Setup a speech delay set of keywords on Google ads
