@@ -1,6 +1,6 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Cut leo nails
-(A) 10 Finnish Mum's Card @phone
+x 2023-08-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2023-08-05 Cut leo nails
+x 2023-08-05 10 Finnish Mum's Card @phone
 (A) Put #3.50 in car for gymnastics  
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
