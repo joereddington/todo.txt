@@ -1,14 +1,9 @@
 (A) Send the Garfield Weston Report https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Review the Scottish Library project with you contact: https://github.com/eQualityTime/Home/issues/131 +EQT
 (B) Brainstorm on Charity Ambitions:https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) Code - setup a password for IMPS @private
 (B) 20 Minutes processing Dropbox and Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 60 Record a video working on OVF 
 (C) map project:Promote eQuality Time +EQT
-(C) Work on: Find a funder for Digital Local Heros https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/137 +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
@@ -16,7 +11,7 @@
 (D) Review the git folder and sort out one long term problem 
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) Work out a use for the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
