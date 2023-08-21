@@ -3,10 +3,9 @@
 (B) Brainstorm on Charity Ambitions:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (B) 20 Minutes processing Dropbox and Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 60 Record a video working on OVF 
-(C) map project:Promote eQuality Time +EQT
+(C) 10 list 20 ways to promote eQuality Time +EQT
 (C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (D) Do full accounts algorithm +EQT 
 (D) Review the git folder and sort out one long term problem 
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
