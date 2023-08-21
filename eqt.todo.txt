@@ -13,8 +13,8 @@
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
 (C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (D) Do full accounts algorithm +EQT 
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
+(D) Review the git folder and sort out one long term problem 
+x 2023-08-21 map project:Continually improve and train on working practices and technology +EQT
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
@@ -24,13 +24,6 @@
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) 15 Setup a speech delay set of keywords on Google ads
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
 (E) Review starred items in feeds +Overhead +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
