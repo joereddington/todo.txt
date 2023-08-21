@@ -12,12 +12,8 @@
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work out a use for the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(E) 15 Setup a speech delay set of keywords on Google ads
+(D) Ask for Help on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
+(E) 15 Setup a speech delay set of keywords on Google ads https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Review starred items in feeds +Overhead +EQT
-(E) Search for funding for eQuality Time Projects +EQT
