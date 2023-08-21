@@ -1,24 +1,11 @@
-(A) Work on: https://github.com/eQualityTime/Home/issues/126 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) map project:Find out about service kids https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/575582/20161208-Adhoc_Statistical_Bulletin-Service_children_educational_attainment_in_England.pdf +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) Setup a couple of calendar events to chase invoices for the end of the finantial year. 
-(B) Setup a password for IMPS
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: Find a new external examiner for the accounts https://github.com/eQualityTime/Public/issues/170 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 2. Switch to live account and start streaming +EQT @singleton 
+(A) Send the Garfield Weston Report https://github.com/eQualityTime/Home/issues/130 +EQT
+(A) Review the Scottish Library project with you contact: https://github.com/eQualityTime/Home/issues/131 +EQT
+(B) Brainstorm on Charity Ambitions:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) Code - setup a password for IMPS @private
+(B) 20 Minutes processing Dropbox and Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 60 Record a video working on OVF 
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-(C) map project:Process the delores.todo list +EQT
 (C) map project:Promote eQuality Time +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Run the OBZ archive command and save to an external drive.  +EQT
-(C) Work on: Find a funder for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
+(C) Work on: Find a funder for Digital Local Heros https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
 (C) Work on: https://github.com/eQualityTime/Home/issues/137 +EQT
@@ -47,4 +34,3 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
-x 2023-08-03 60 Record a video working on IMPS3
