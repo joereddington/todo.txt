@@ -1,14 +1,12 @@
 (B) Brainstorm on Charity Ambitions:https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B) 20 Minutes processing Dropbox and Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(B) 20 Moving stuff from Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 60 Record a video working on OVF 
-(C) 10 list 20 ways to promote eQuality Time +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(D) Do full accounts algorithm +EQT 
+(C) 10 Make a list of 20 ways to promote eQuality Time +EQT
+(D) Do full accounts algorithm _EOY soon!  +EQT 
 (D) Review the git folder and sort out one long term problem 
-(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work out a use for the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Ask for Help on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
+(D) List ten uses of the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) Look through your stalled projects and ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
 (E) 15 Setup a speech delay set of keywords on Google ads https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
