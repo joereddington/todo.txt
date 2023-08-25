@@ -2,21 +2,22 @@
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 10 Brainstorm on emotional processing: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
-(B) 10 Fix the roof box 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Order the wood for the garage
+x 2023-08-25 10 Fix the roof box 
+x 2023-08-25 B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
-(C) 1. Process Email @singleton +Overhead @phone  
+x 2023-08-25 1. Process Email @singleton +Overhead @phone  
 (C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
-(C) 15 Put battery stuff in the back of the car 
-(C) 15 Write out a summer holidays delores with the kids 
+x 2023-08-25 15 Put battery stuff in the back of the car 
+x 2023-08-25 15 Write out a summer holidays delores with the kids 
 (C) 20 Look through the old blog articules and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 20 Read https://rpg.stackexchange.com/questions/207239/is-there-a-body-of-academic-theory-particularly-conferences-and-journals-on-ro/207240#207240 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Book a medical - you are over 40 now. 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Create a i3 layout for darktable 
+x 2023-08-25 Create a i3 layout for darktable 
 (C) Find a counselling course 
 (C) Get Leo's tablet screen fixed, bite bullet
 (C) Joereddington.com should directly link. 
@@ -70,11 +71,7 @@
 (E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do full review of the memory palace. 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
@@ -85,19 +82,16 @@
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
+x 2023-08-25 Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) process Garage inbox. 
-(E) share your gift policy on the social networks.    @phone 
+(E) 20 process Garage inbox. 
+(E) 03 share your gift policy on the social networks.    @phone 
