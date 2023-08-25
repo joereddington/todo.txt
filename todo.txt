@@ -3,25 +3,18 @@
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 10 Brainstorm on emotional processing: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Order the wood for the garage
-x 2023-08-25 10 Fix the roof box 
-x 2023-08-25 B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
-x 2023-08-25 1. Process Email @singleton +Overhead @phone  
 (C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) 10 Setup Bedtime Delores for Leo and Nova (write it with Nova). Including Calendar process.  +Fridge
-x 2023-08-25 15 Put battery stuff in the back of the car 
-x 2023-08-25 15 Write out a summer holidays delores with the kids 
 (C) 20 Look through the old blog articules and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 20 Read https://rpg.stackexchange.com/questions/207239/is-there-a-body-of-academic-theory-particularly-conferences-and-journals-on-ro/207240#207240 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Book a medical - you are over 40 now. 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-x 2023-08-25 Create a i3 layout for darktable 
 (C) Find a counselling course 
 (C) Get Leo's tablet screen fixed, bite bullet
 (C) Joereddington.com should directly link. 
-(C) Measure old table for getting a new top. 
 (C) Put comic-con in the calendar 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
@@ -61,14 +54,9 @@ x 2023-08-25 Create a i3 layout for darktable
 (E) 40 Migrate MP ranking to new site. 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonial from completed fundings
-(E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Do full review of the memory palace. 
@@ -90,7 +78,6 @@ x 2023-08-25 Create a i3 layout for darktable
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
-x 2023-08-25 Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) Write a list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 process Garage inbox. 
