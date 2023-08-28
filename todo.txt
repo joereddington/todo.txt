@@ -9,9 +9,8 @@
 (C) 25 Joereddington.com should directly link to github.io 
 (D) 10 Tell mum and dad I'm happy  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(D) 15 Gather cables for reflection project: power strip, power leads, hdmi, keyboard, mouse 
 (D) 30 Work on the delores code on: https://github.com/joereddington/Projects-Private/issues/212 +PersonalProjects
-(D) 40 spend time with brainstorms on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
+x 2023-08-28 40 spend time with brainstorms on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) 60 Watch a lecture on one of the courses  PersonalProjects
 (E) 03 Trim nose hair +Health    
 (E) 05 Floss +Health   
@@ -22,5 +21,4 @@
 (E) 20 process Garage inbox. 
 (E) 30 Do full review of the memory palace. 
 (E) 40 Migrate MP ranking to new site. 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone 
 (E) 70 Do full review of the memory palace.  +Fridge
