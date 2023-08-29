@@ -1,4 +1,5 @@
 (C) Search Tech4good in funding
+(E) Map the energy efficiecny ranking code. (possibly email APS) 
 (D Trustees) 10 Make a list of 20 ways to promote eQuality Time +EQT
 (D) Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
 (E) 20 Moving stuff from Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
