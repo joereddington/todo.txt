@@ -13,7 +13,6 @@
 (D) 10 Tell mum and dad I'm happy  on: https://github.com/joereddington/Projects-Private/issues/199 +PersonalProjects
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (D) 30 Work on the delores code on: https://github.com/joereddington/Projects-Private/issues/212 +PersonalProjects
-x 2023-08-28 40 spend time with brainstorms on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) 60 Watch a lecture on one of the courses  PersonalProjects
 (E) 03 Trim nose hair +Health    
 (E) 05 Floss +Health   

@@ -3,6 +3,7 @@
 (C) 60 Record a video working on OVF 
 (C) 10 Make a list of 20 ways to promote eQuality Time +EQT
 (D) Do full accounts algorithm _EOY soon!  +EQT 
+(D) Search Tech4good in funding
 (D) Review the git folder and sort out one long term problem 
 (D) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) List ten uses of the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
