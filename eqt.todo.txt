@@ -1,5 +1,3 @@
-x 2023-08-29 Search Tech4good in funding
-(D Trustees) 10 Make a list of 20 ways to promote eQuality Time +EQT
 (D) Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
 (E) 15 Setup a speech delay set of keywords on Google ads https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) 20 Moving stuff from Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
@@ -10,5 +8,5 @@ x 2023-08-29 Search Tech4good in funding
 (E) Look through your stalled projects and ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
 (E) Map the energy efficiecny ranking code. (possibly email APS) 
 (E) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
-(E) Review starred items in feeds +Overhead +EQT
+(E) Review starred items in feeds +Overhead +eqt
 (E) Review the git folder and sort out one long term problem 
