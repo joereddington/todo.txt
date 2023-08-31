@@ -20,6 +20,7 @@
 (D) 60 Watch a lecture on one of the courses  PersonalProjects
 (E) 03 Trim nose hair +Health    
 (E) 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(D) Map out plan for October Half term - including comic con and handy con and so on
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) 20 Watch all the home videos in the git folder 
