@@ -9,4 +9,6 @@
 (E) Map the energy efficiecny ranking code. (possibly email APS) 
 (E) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (E) Review starred items in feeds +Overhead +eqt
+(C) Map project for https://theprospectory.com/idea-fund/
+(C) Map project for Digital Local Heros and https://theaccessgroupfoundation.com/ 
 (E) Review the git folder and sort out one long term problem 
