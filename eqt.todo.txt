@@ -1,11 +1,25 @@
-(D) Trustees know I'm looking for funding) Map project for Digital Local Heros and https://theaccessgroupfoundation.com/ 
-(D) Trustees know I'm looking for funding ) Map project for https://theprospectory.com/idea-fund/
-(D) Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Trustees know I'm looking for funding) 10 Map project for Digital Local Heros and https://theaccessgroupfoundation.com/ 
+(D) Trustees know I'm looking for funding ) 10 Map project for https://theprospectory.com/idea-fund/
+(D) 20 Review the WWW library spreadsheet: https://github.com/eQualityTime/Home/issues/134 +EQT
+* Find out which ones are missing
+* Pull from KDP 
+* Pull from oracle 
 (E) 15 Setup a speech delay set of keywords on Google ads https://github.com/eQualityTime/Public/issues/131 +EQT
+* Open Chrome 
+* Log into Google adds 
 (E) 20 Moving stuff from Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+* Check dropbox has been syncing. 
+  * Very strangly it hadn't been installed
+* Setup new desktop for it
 (E) 60 Record a video working on OVF 
+* Create worktop 
+* Review issues 
+* Start recording and go... 
 (E) 10 Brainstorm on Charity Ambitions:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+* Get bit of paper 
 (E) 10 List ten uses of the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
+* Just start typing
 (E) 15 Look through your stalled projects and ask for help: https://github.com/eQualityTime/Home/issues/132 +EQT
+* Open Both project files 
 (E) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (E) 10 Review the git folder and sort out one long term problem 
