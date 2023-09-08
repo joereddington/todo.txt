@@ -4,4 +4,3 @@
 (C) Follow up with the facebook people. 
 (E) 10 List ten uses of the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 60 Record a video working on OVF 
-(E) Map: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
