@@ -1,4 +1,3 @@
-(E) 60 Record a video working on OVF  +offline
 (A) Publish the book  +online 
 (A) Chase that FOI request +EQT +online 
 (C) Go throught all the ads with Chrome  +online 
@@ -6,3 +5,4 @@
 (C) Find the accounts todo document and map a project +online 
 (C) Write the chainmail for the Glasgow Schools. +online 
 (C) Follow up with the facebook people about DLH  +online 
+(E) Publish the OVF video 
