@@ -1,8 +1,6 @@
-(A) Publish the book  +online 
-(A) Chase that FOI request +EQT +online 
 (C) Go throught all the ads with Chrome  +online 
-(C) Update the annual leave sheet for a new year +online 
-(C) Find the accounts todo document and map a project +online 
+x 2023-09-11 Update the annual leave sheet for a new year +online 
+x 2023-09-11 Find the accounts todo document and map a project +online 
 (C) Write the chainmail for the Glasgow Schools. +online 
 (C) Follow up with the facebook people about DLH  +online 
 (E) Publish the OVF video 
