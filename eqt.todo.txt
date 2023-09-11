@@ -1,10 +1,8 @@
-(A) Publish the book 
-(C) Trustees know I'm looking for funding) 10 Map project for Digital Local Heros and https://theaccessgroupfoundation.com/ 
-(C) Go throught all the ads with Chrome 
-(C) Check on the Dropbox transfers
-(C) Update the annual leave sheet for a new year
-(C) Map the annual accounts project
-(C) Write the chainmail for the Glasgow Schools. 
-(C) Follow up with the facebook people. 
-(E) 10 List ten uses of the chainmail project on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(E) 60 Record a video working on OVF 
+(C) Write the chainmail for the Glasgow Schools. +offline (you are altering one of the previous emails)  
+(E) 60 Record a video working on OVF  +offline
+(A) Publish the book  +online 
+(A) Chase that FOI request +EQT +online 
+(C) Go throught all the ads with Chrome  +online 
+(C) Update the annual leave sheet for a new year +online 
+(C) Find the accounts todo document and map a project +online 
+(C) Follow up with the facebook people about DLH  +online 
