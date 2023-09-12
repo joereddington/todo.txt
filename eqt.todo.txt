@@ -1,11 +1,11 @@
-(A) 10 message leader about camp 
-(E) Fix watson
-(B) 20 Contact the older people organisations 
 (B) 15 Order the books 
+(B) 20 Contact the older people organisations 
 (C) Another hour on OVF pushing to deploy 
 (C) Go throught all the ads with Chrome  +online 
 (C) More work on the accounts 
+(C) Restart and check Dropbox transfered 
 (C) Write the chainmail for the Glasgow Schools. +online 
+(E) Fix watson
 (E) Publish the OVF video  +online
 (E) Put up blog posts
-(C) Restart and check Dropbox transfered 
+x 2023-09-12 10 message leader about camp 
