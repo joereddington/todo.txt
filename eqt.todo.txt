@@ -1,11 +1,8 @@
-(B) 15 Order the books 
-(B) 20 Contact the older people organisations 
-(C) Another hour on OVF pushing to deploy 
-(C) Go throught all the ads with Chrome  +online 
-(C) More work on the accounts 
-(C) Restart and check Dropbox transfered 
-(C) Write the chainmail for the Glasgow Schools. +online 
+(D) Another hour on OVF pushing to deploy 
+(D) Go throught all the ads with Chrome  +online 
+(D) More work on the accounts 
+(D) Restart and check Dropbox transfered 
+(D) Write the chainmail for the Glasgow Schools. +online 
 (E) Fix watson
-(E) Publish the OVF video  +online
-(E) Put up blog posts
-x 2023-09-12 10 message leader about camp 
+(E) 10 Publish the OVF video  +online and write up the proper way of doing it. 
+(E) 20 Put up blog posts
