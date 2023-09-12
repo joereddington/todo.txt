@@ -1,4 +1,5 @@
 (A) 10 message leader about camp 
+(E) Fix watson
 (B) 20 Contact the older people organisations 
 (B) 15 Order the books 
 (C) Another hour on OVF pushing to deploy 
@@ -6,3 +7,5 @@
 (C) More work on the accounts 
 (C) Write the chainmail for the Glasgow Schools. +online 
 (E) Publish the OVF video  +online
+(E) Put up blog posts
+(C) Restart and check Dropbox transfered 
