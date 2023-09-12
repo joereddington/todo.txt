@@ -1,8 +1,6 @@
-(D) Another hour on OVF pushing to deploy 
-(D) Go throught all the ads with Chrome  +online 
-(D) More work on the accounts 
-(D) Restart and check Dropbox transfered 
-(D) Write the chainmail for the Glasgow Schools. +online 
-(E) Fix watson
-(E) 10 Publish the OVF video  +online and write up the proper way of doing it. 
+(D) 60 Another hour on OVF pushing to deploy 
+(D) 60 Go throught all the ads with Chrome  +online 
+(D) 30 Move the accounts forward
+(D) 20 Write the chainmail for the Glasgow Schools. +online 
+x 2023-09-12 10 Publish the OVF video  +online and write up the proper way of doing it. 
 (E) 20 Put up blog posts
