@@ -1,3 +1,6 @@
 (D) 60 Get the OVF code to be 3.7 compliant 
 (D) 20 Write the chainmail for the Glasgow Schools. +online 
 (E) Check employment contract 
+(D) Push the next version of WWW  
+(E) Cover for Camp 
+(A) Rewrite and send the Garfield weston report
