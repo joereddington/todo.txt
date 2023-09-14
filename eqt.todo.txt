@@ -1,6 +1,32 @@
-(D) 60 Get the OVF code to be 3.7 compliant 
-(D) 20 Write the chainmail for the Glasgow Schools. +online 
-(E) Check employment contract 
+(A) map project:Send Accounts to External Examiner  +EQT
+(A) Rewrite and send the Garfield weston report https://github.com/eQualityTime/Home/issues/130 +EQT
+(A) Ask Library contact what's left in the budget: https://github.com/eQualityTime/Home/issues/131 +EQT
+(B) map project - check the dates for the armed forced fund
+(B) 20 minutes more transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Block out full day on IMPS3  +EQT
+(C) Block out full day on OVF +EQT
+(C) Block out full day on Delores Release +EQT
+(C) Contact other organstions for Older Peoplehttps://github.com/eQualityTime/Public/issues/165 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
+(D) 20 Write the chainmail for the Glasgow Schools. +online  +block 
+(D) map project:All Employees should have uploaded all changed git code +EQT +Block to perfect files 
+x 2023-09-14 map project:Continually improve and train on working practices and technology +EQT
+(D) map project:Try the Git gud game to see how you do.  +EQT
 (D) Push the next version of WWW  
+(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
+(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
+(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(E) Check employment contract 
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
 (E) Cover for Camp 
-(A) Rewrite and send the Garfield weston report
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Work out why the OVF is giving a 414 error (try the staging serever) 
+Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
