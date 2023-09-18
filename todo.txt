@@ -1,7 +1,8 @@
 (A) 10 Make list of people who you want to make sure you invite to birthdays
+(E) Map fancy dress project
 (A) 10 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Follow up on that FOI request you made 
+x 2023-09-18 Follow up on that FOI request you made 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (A) Take the hampster book back to the libary 
