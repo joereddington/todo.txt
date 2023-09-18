@@ -1,5 +1,5 @@
-(*) Publish last weeks books
-(A) Ask Library contact what's left in the budget: https://github.com/eQualityTime/Home/issues/131 +EQT
+x 2023-09-18 (*) Publish last weeks books
+x 2023-09-18 Ask Library contact what's left in the budget: https://github.com/eQualityTime/Home/issues/131 +EQT
 (A) Rewrite and send the Garfield weston report https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) map project:Send Accounts to External Examiner  +EQT
 (B) 20 minutes more transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
