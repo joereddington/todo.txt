@@ -3,7 +3,7 @@
 (C) Block out full day on IMPS3  +EQT
 (C) Block out full day on OVF +EQT
 (C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Do the four followups from cranfield thing  +BLOCK 
+x 2023-09-19 Do the four followups from cranfield thing  +BLOCK 
 (C) Remind yourself where you put the Equality Time website
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (D) 10 Map an issue with OVF about uploading empty files +block 
