@@ -2,6 +2,10 @@
 (E) Map fancy dress project
 (A) 10 map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(E) Find Nova calendar and put it on the wall 
+(C) Itterate standing desk 
+(E) Put the finder back on the remote control
+(A) Go to B&Q and get the wood 
 x 2023-09-18 Follow up on that FOI request you made 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
