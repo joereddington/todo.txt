@@ -2,6 +2,7 @@
 (C) Block out full day on Delores Release +EQT
 (C) Block out full day on IMPS3  +EQT
 (C) Block out full day on OVF +EQT
+(C) Review https://www.icaew.com/technical/charity-community/trustee-training-modules and send on to trustees. 
 (C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
 x 2023-09-19 Do the four followups from cranfield thing  +BLOCK 
 (C) Remind yourself where you put the Equality Time website
