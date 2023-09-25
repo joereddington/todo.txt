@@ -1,4 +1,9 @@
 (A) map project:Send Accounts to External Examiner  +EQT
+(C) Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
+(E) Watson should tell you how much of your time was proper project time (or at least had a link) 
+(E) Work out why public interent has stopped 
+(E) Work out the new deploy script. 
+(E) Process the 1899 blog file with the new text
 (B) Draft the two bids 
 (C) Block out full day on IMPS3  +EQT
 (C) Block out full day on OVF +EQT
