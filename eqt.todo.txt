@@ -1,9 +1,8 @@
 (A) map project:Send Accounts to External Examiner  +EQT
-(C) Block out full day on Delores Release +EQT
+(B) Draft the two bids 
 (C) Block out full day on IMPS3  +EQT
 (C) Block out full day on OVF +EQT
 (C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Remind yourself where you put the Equality Time website
 (C) Review https://www.icaew.com/technical/charity-community/trustee-training-modules and send on to trustees. 
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (D) 10 Map an issue with OVF about uploading empty files +block 
@@ -11,4 +10,3 @@
 (E) 10 Write a blog/note about how OVF is written for python3.7 because of the sever  +block
 (E) 60 Work out why the OVF is giving a 414 error (try the staging serever)  +block 
 (E) Search for funding for eQuality Time Projects +EQT
-(B) Draft the two bids 
