@@ -1,17 +1,16 @@
 (A) map project:Send Accounts to External Examiner  +EQT
-(C) Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
-(E) Watson should tell you how much of your time was proper project time (or at least had a link) 
-(E) Work out why public interent has stopped 
-(E) Work out the new deploy script. 
-(E) Process the 1899 blog file with the new text
 (B) Draft the two bids 
 (C) Block out full day on IMPS3  +EQT
 (C) Block out full day on OVF +EQT
 (C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
+(C) Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
 (C) Review https://www.icaew.com/technical/charity-community/trustee-training-modules and send on to trustees. 
 (C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (D) 10 Map an issue with OVF about uploading empty files +block 
 (D) Push the next version of WWW  +block 
 (E) 10 Write a blog/note about how OVF is written for python3.7 because of the sever  +block
 (E) 60 Work out why the OVF is giving a 414 error (try the staging serever)  +block 
-x 2023-09-25 Search for funding for eQuality Time Projects +EQT
+(E) Process the 1899 blog file with the new text
+(E) Watson should tell you how much of your time was proper project time (or at least had a link) 
+(E) Work out the new deploy script. 
+(E) Work out why public interent has stopped 
