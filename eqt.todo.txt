@@ -1,5 +1,5 @@
 x 2023-10-02 Make the journal entry for accounts 
-(B) Draft the two bids 
+x 2023-10-02 Draft the two bids 
 (C) Block out full day on OVF +EQT
 (C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) Fix the silly wifi problem 
