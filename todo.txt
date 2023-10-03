@@ -1,11 +1,11 @@
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(A) Book the circus camp 
 (A) Complain about glasses. 
-(B) Get flu jab 
-(C) Ring Cornells 
+(A) Print Halloween cards
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 10 Count the number of kids coming to the party and decided if you want a bouncy castle Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
+(B) Get flu jab 
 (C) 08 Replace the airtag battery on the wallet
 (C) 10 Brainstorm quotes for fiction licences: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
+(C) 10 Measure for sliding drawers on the panty 
 (C) 20 Look through the old blog articles and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 20 Read https://rpg.stackexchange.com/questions/207239/is-there-a-body-of-academic-theory-particularly-conferences-and-journals-on-ro/207240#207240 
 (C) 25 Joereddington.com should directly link to github.io 
@@ -14,7 +14,7 @@
 (C) 40 Itterate standing desk 
 (C) 40 Read a chapter of the seven habits book +PersonalProjects
 (C) 40 Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
-(C) 10 Measure for sliding drawers on the panty 
+(C) Ring Cornells 
 (D) 05 Lookup missing wikipedia photos next time you are in a new place. https://github.com/users/joereddington/projects/2 +PersonalProjects
 (D) 10 Map out plan for October Half term - including and handy con and so on
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
