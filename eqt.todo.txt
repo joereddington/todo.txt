@@ -1,11 +1,9 @@
-(C) Block out full day on OVF +EQT
-(C) Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
-(C) Put the EQT meetings into the calendar 
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
+(A) 25 Rewrite grant based on Kat feedback 
+(C) 99 Block out full day on OVF +EQT
+(C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
+(C) 10 Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
+(C) 05 Put the EQT meetings into the calendar 
+(C) 60 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (D) 10 Map an issue with OVF about uploading empty files +block 
 (E) 10 Write a blog/note about how OVF is written for python3.7 because of the sever  +block
 (E) 60 Work out why the OVF is giving a 414 error (try the staging serever)  +block 
-(E) Get the tiled calendar working again 
-(E) Work out the new deploy script. 
-(E) Work out why public interent has stopped 
