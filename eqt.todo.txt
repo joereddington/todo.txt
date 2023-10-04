@@ -1,9 +1,57 @@
 (A) 25 Rewrite grant based on Kat feedback 
-(C) 99 Block out full day on OVF +EQT
-(C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
-(C) 10 Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
+(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
+(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
+(A) Work on: Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) map project:bid for armed forces work  +EQT
+(B) map project:Find out about service kids https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/575582/20161208-Adhoc_Statistical_Bulletin-Service_children_educational_attainment_in_England.pdf +EQT
+(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(B) map project:Make the worklog private +EQT
+(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
+(B) Work on: Find a new external examiner for the accounts https://github.com/eQualityTime/Public/issues/170 +EQT
+(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 05 Put the EQT meetings into the calendar 
+(C) 10 Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
+(C) 2. Switch to live account and start streaming +EQT @singleton 
+(C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) 60 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
+(C) 99 Block out full day on OVF +EQT
+(C) Check that IMPS will run locally and that it can sync up.  +EQT
+(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
+(C) map project:Next sprint on developing IMPS3  +EQT
+(C) map project:Next sprint on developing OVF  +EQT
+(C) map project:Process the delores.todo list +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Work on: Find a funder for Digital Local Heros by 10th Feb  https://github.com/eQualityTime/Public/issues/165 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/113 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/138 +EQT
+(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (D) 10 Map an issue with OVF about uploading empty files +block 
+(D) Do full accounts algorithm +EQT 
+(D) map project:All Employees should have uploaded all changed git code +EQT
+(D) map project:Continually improve and train on working practices and technology +EQT
+(D) map project:Try the Git gud game to see how you do.  +EQT
+(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
+(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
+(D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
+(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (E) 10 Write a blog/note about how OVF is written for python3.7 because of the sever  +block
 (E) 60 Work out why the OVF is giving a 414 error (try the staging serever)  +block 
+(E) Backup AWS +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Review starred items in feeds +Overhead +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
+Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
