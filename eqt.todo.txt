@@ -1,6 +1,5 @@
 (A) 25 Rewrite grant based on Kat feedback 
 (B) Bring the Google drives more into sync https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 05 Put the EQT meetings into the calendar 
 (C) 10 Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
 (C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) 60 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
@@ -32,4 +31,3 @@
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-Improve Chainmail https://github.com/joereddington/mailscript/issues/1 +EQT
