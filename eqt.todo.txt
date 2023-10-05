@@ -1,4 +1,3 @@
-(A) 25 Rewrite grant based on Kat feedback 
 (B) Bring the Google drives more into sync https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 10 Map the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
 (C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
