@@ -1,5 +1,5 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Complain about glasses. 
+x 2023-10-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2023-10-05 Complain about glasses. 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) Print Halloween cards
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
