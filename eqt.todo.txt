@@ -6,3 +6,5 @@
 (C) 60 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (C) 99 Read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Map a project about OVF for speech delay 
+(E) Sort out keyboard properly with pound signs 
+(E) Standing desk today. 
