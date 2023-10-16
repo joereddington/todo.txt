@@ -1,7 +1,7 @@
+(A) 25 Write out the pitch for the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
 (B) Make corrections to the accounts +EQT
 (C) 20 Export Natwest into little finger  +online 
 (C) 20 Read https://rpg.stackexchange.com/questions/207239/is-there-a-body-of-academic-theory-particularly-conferences-and-journals-on-ro/207240#207240  +online 
-(A) 25 Write out the pitch for the space funding project - it's by the end of October, but Dave makes it quite a reasonable approach 
 (C) 50 Contact other organstions for Older People https://github.com/eQualityTime/Public/issues/165 +EQT
 (C) 60 Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT +block 
 (C) 99 Read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
