@@ -6,7 +6,6 @@
 (C) 25 Joereddington.com should directly link to github.io 
 (C) 40 Brace shelves and roof in garage 
 (C) 40 Get timber to Brace outside wall 
-(C) Ask Nova which Lego friend they'd like to be. 
 (C) Cut boards for Nova small window: 58cm by 118cm 
 (C) Get dash cam 
 (C) Map Leo targets 
@@ -17,9 +16,8 @@
 (C) Work out exercise today 
 (D) 10 Map out plan for October Half term - including and handy con and so on
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(D) 10 map project:Get good at Judo +PersonalProjects
 (D) 15 Empty facebook and whatsapp messages. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(D) Check starred messages in kat whatsapp 
+(D) Check starred messages in kat whatsapp  +phone 
 (D) Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
