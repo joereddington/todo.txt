@@ -1,4 +1,3 @@
 (A) 25 Write out the activtities for the space funding project - it's by the end of October +EQT
 (B) Make corrections to the accounts +EQT
-(C) 99 Read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Map a project about OVF for speech delay 
