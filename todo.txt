@@ -7,20 +7,16 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Think about Swimming as a project 
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
-(D) 15 Empty facebook and whatsapp messages. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
 (D) Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (E) 05 - go through small cooking notes notebook and see if there is anything to transfer to the big one. 
 (E) 05 Floss +Health    +paper
 (E) 10 Map fancy dress project
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) 20 Watch all the home videos in the git folder 
 (E) 25 process Garage inbox. 
 (E) 70 Do full review of the memory palace.  +Fridge
 (E) Cartwheel practice for Nova 
-(E) Completely redo Nova's youtube playlist
-(E) Empty Joe inbox completely +Overhead    
+x 2023-10-22 Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Fractions with Nova 
