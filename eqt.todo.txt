@@ -1,4 +1,6 @@
 (A) 25 Write out the activtities for the space funding project - it's by the end of October +EQT
+(A) Apply for RHUL role 
+(A) Send the Space Funding Project draft to people for review 
 (A) Check if the accounts SORP requires Conflicts of Interest +EQT
 (A) Create proper Theory of change for the application as an attachement +EQT
 (A) Message Karen about the project for a refreee. +EQT
@@ -10,3 +12,4 @@
 (E) 10 Brainstorm mornings again +EQT
 (E) Set up local vpn for when I'm away  +EQT
 (E) Work out exactly what was wrong with the desktop in the office.  +EQT
+(E) Write ending protocal 
