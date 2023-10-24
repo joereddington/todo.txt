@@ -16,3 +16,4 @@
 (E) Connect up the 'common projects' to the delores 
 (E) Write end-of-day protocol and put reading at the end of it 
 (E) Find another fund to apply to 
+(E) Fix link on www faq page 
