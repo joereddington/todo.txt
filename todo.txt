@@ -27,3 +27,4 @@
 (E) Watch video on plasterboarding 
 (E) Find a youtube video about which blades are which for the jigsaw and any other good tips 
 (E) Find a way to search for an emoji from the ubuntu keyboard 
+(E) Get the B&Q costs for the blog post
