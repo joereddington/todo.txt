@@ -55,3 +55,4 @@
 (E) Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) Work out why showcuts isn't working   +EQT
 (E) Write end-of-day protocol and put reading at the end of it 
+(E) Work out what day you tame the todo lists - because it's NOT working with the current setup 
