@@ -1,6 +1,8 @@
 (A) Book flu jabs 
+(A) Get/make Richard a card 
 (A) Message the plan to all the Trick or Treat people. 
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
+(A) Call mum and explain calendar clash 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 06 -  Message the set of ill people about another date
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+

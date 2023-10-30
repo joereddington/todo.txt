@@ -1,3 +1,4 @@
+(A) Clear email inbox. 
 (A) Publish Book 
 (A) Send Reminder about Adenda and line management call but before that send Newsletter 
 (B) Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
