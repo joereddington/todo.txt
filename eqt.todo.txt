@@ -1,7 +1,5 @@
-(A) Clear email inbox. 
-(A) Publish Book 
-(A) Send Reminder about Adenda and line management call but before that send Newsletter 
 (A) Properly setup next camp 
+(A) Publish Book 
 (B) Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
@@ -30,30 +28,19 @@
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
 (D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
+(D) Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
+x 2023-10-30 Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
+x 2023-10-30 Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
 (D) Write 20 ways to boost AAC work 
-(D) map project:All Employees should have uploaded all changed git code +EQT
+(D) Process all repos - push and pull were aproprepte 
 (D) map project:Continually improve and train on working practices and technology +EQT
 (D) map project:Try the Git gud game to see how you do.  +EQT
 (E) 10 Brainstorm mornings again +EQT
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
 (E) Connect up the 'common projects' to the delores 
-(E) Download the amazon months sales figures +EQT
-(E) Find another fund to apply to 
-(E) Fix link on www faq page 
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
-(E) Read the logical framework document
-(E) Review starred items in feeds +Overhead +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
-(E) Set up local vpn for when I'm away  +EQT
+(E) Buy wireless keyboard for mirror 
+(E) 60 Read the logical framework document
+(C) Get the develop version of IMPS3 working 
+(E) 10 Set up local vpn for when I'm away  +EQT
 (E) Work out exactly what was wrong with the desktop in the office.  +EQT
-(E) Work out why showcuts isn't working   +EQT
-(E) Write end-of-day protocol and put reading at the end of it 
 (E) Work out what day you tame the todo lists - because it's NOT working with the current setup 
+(E) 10 Write end-of-day protocol and put reading at the end of it 
