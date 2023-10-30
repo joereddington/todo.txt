@@ -1,6 +1,6 @@
-(A) Apply for RHUL role 
-(A) Read the paper for the meeting 
-(A) Submit the Space bid 
+x 2023-10-30 Submit the Space bid 
+(A) Publish Book 
+(A) Send Reminder about Adenda and line management call but before that send Newsletter 
 (A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
 (A) Work on: https://github.com/eQualityTime/Home/issues/139 +EQT
