@@ -1,42 +1,40 @@
-x 2023-10-30 Submit the Space bid 
 (A) Publish Book 
 (A) Send Reminder about Adenda and line management call but before that send Newsletter 
-(A) Work on: https://github.com/eQualityTime/Home/issues/130 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/131 +EQT
-(A) Work on: https://github.com/eQualityTime/Home/issues/139 +EQT
-(A) Work on: Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
+(B) Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
-(B Treasurer) Make corrections to the accounts +EQT
+(B) Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
 (B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) Work on: https://github.com/eQualityTime/Home/issues/120 +EQT
+(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
 (C) Check if the accounts SORP requires Conflicts of Interest +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Run the OBZ archive command and save to an external drive.  +EQT
+(C) Send Space Grant materials to Dave and put up Blog : https://github.com/eQualityTime/Home/issues/139 +EQT
+(C) Send an invoice to Scotish Liibrary on: https://github.com/eQualityTime/Home/issues/131 +EQT
+(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
+(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
+(C) Work on: https://github.com/eQualityTime/Home/issues/138 +EQT
 (C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
 (C) map project:Next sprint on developing IMPS3  +EQT
 (C) map project:Next sprint on developing OVF  +EQT
 (C) map project:Process the delores.todo list +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Run the OBZ archive command and save to an external drive.  +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/138 +EQT
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (D) Create Chainmail messaging special schools about The Open Voice Factory +EQT
 (D) Do full accounts algorithm +EQT 
 (D) Make sure you have an event for Tuesday 0900 +EQT
 (D) Map a project about OVF for speech delay 
-(D) map project:All Employees should have uploaded all changed git code +EQT
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Try the Git gud game to see how you do.  +EQT
 (D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
 (D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
+(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
 (D) Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
+(D) Write 20 ways to boost AAC work 
+(D) map project:All Employees should have uploaded all changed git code +EQT
+(D) map project:Continually improve and train on working practices and technology +EQT
+(D) map project:Try the Git gud game to see how you do.  +EQT
 (E) 10 Brainstorm mornings again +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT  
@@ -48,6 +46,7 @@ x 2023-10-30 Submit the Space bid
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
+(E) Read the logical framework document
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
@@ -55,4 +54,3 @@ x 2023-10-30 Submit the Space bid
 (E) Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) Work out why showcuts isn't working   +EQT
 (E) Write end-of-day protocol and put reading at the end of it 
-(E) Read the logical framework document

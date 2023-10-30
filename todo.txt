@@ -1,14 +1,10 @@
 (A) Book flu jabs 
 (A) Message the plan to all the Trick or Treat people. 
-* Tell the people that missed my birthday about a christmas party on the 9th December 
-(D) Order more glasses 
-(C) Measure Nova's room for carpets 
-(C) Look up reviews for dashcams 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) map project:https://github.com/users/joereddington/projects/7 +PersonalProjects
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 06 -  Message the set of ill people about another date
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Tell the people that missed my birthday about a christmas party on the 9th December 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/208 +PersonalProjects
 (C) 10 Get dash cam 
@@ -17,27 +13,30 @@
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 40 Brace shelves and roof in garage 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
+(C) Look up reviews for dashcams 
 (C) Map Leo targets 
-(C) map project:Read a chapter of the seven habits book +PersonalProjects
+(C) Measure Nova's room for carpets 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
 (C) Think about Swimming as a project 
 (C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
+(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/171 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) Work on: https://github.com/joereddington/Projects-Private/issues/206 +PersonalProjects
-(C) Work on: Migrate old joereddington.com posts over to github pages site.  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
+(C) deploy any commits from OVF that are hanging around. 
+(C) map project:Read a chapter of the seven habits book +PersonalProjects
 (D) 10 brainstorm on long term goals  on: https://github.com/joereddington/Projects-Private/issues/205 +PersonalProjects
 (D) Check starred messages in kat whatsapp 
-(D) map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
-(D) map project:Get good at Judo +PersonalProjects
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
+(D) Order more glasses 
+(D) Put up nail for Nova's calendar 
 (D) Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work on: Garage redevelopment is moved forward. https://github.com/joereddington/Projects-Public/issues/29 +PersonalProjects
+(D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
+(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/134 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/157 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
@@ -48,8 +47,9 @@
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/207 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/212 +PersonalProjects
 (D) Work on: https://github.com/joereddington/Projects-Private/issues/213 +PersonalProjects
-(D) Work on: Regular clearing out of social inboxes. https://github.com/joereddington/Projects-Public/issues/50 +PersonalProjects
-(D) Work on: The Garage is an organised area. https://github.com/joereddington/Projects-Public/issues/51 +PersonalProjects
+(D) map project:Do electronics course (and include https://autocircuits.org)  +PersonalProjects
+(D) map project:Get good at Judo +PersonalProjects
+(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 05 - Floss +Health    +paper
 (E) 05 - go through small cooking notes notebook and see if there is anything to transfer to the big one. 
 (E) 10 Map fancy dress project
@@ -60,15 +60,15 @@
 (E) 70 Do full review of the memory palace.  +Fridge
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
@@ -88,7 +88,6 @@
 (E) Map remodeling the loft 
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process photos in darktable
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
@@ -98,10 +97,11 @@
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Switch around the banking so that mum's money goes into a digial regualar saver  
-(E) Trim nose hair +Health    
 (E) TSE +Health  
+(E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Watch home videos on bigdisk 
 (E) Watch video on plasterboarding 
 (E) Write Moonpig cards for this month +Overhead
+(E) process Garage inbox. 
