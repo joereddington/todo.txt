@@ -1,46 +1,28 @@
-(A) Properly setup next camp 
-(A) Publish Book 
-(B) Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
-(B) Work on: Contact developement organisations about OVF https://github.com/eQualityTime/Public/issues/155 +EQT
-(B) map project:https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(A) 15 Publish Book 
+(B) 120 Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
+(B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(B) 30 Write a list of goals for the year :https://github.com/joereddington/Projects-Private/issues/205 +EQT
+(C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
-(C) Check if the accounts SORP requires Conflicts of Interest +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Run the OBZ archive command and save to an external drive.  +EQT
-(C) Send Space Grant materials to Dave and put up Blog : https://github.com/eQualityTime/Home/issues/139 +EQT
-(C) Send an invoice to Scotish Liibrary on: https://github.com/eQualityTime/Home/issues/131 +EQT
-(C) Work on: Read chapter of next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work on: Review all policies https://github.com/eQualityTime/Public/issues/57 +EQT
-(C) Work on: Rolling Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/133 +EQT
-(C) Work on: https://github.com/eQualityTime/Home/issues/138 +EQT
-(C) map project:Have a set date all employees need to bring expenses up to date by. +EQT
-(C) map project:Next sprint on developing IMPS3  +EQT
-(C) map project:Next sprint on developing OVF  +EQT
-(C) map project:Process the delores.todo list +EQT
-(D) Create Chainmail messaging special schools about The Open Voice Factory +EQT
-(D) Do full accounts algorithm +EQT 
-(D) Make sure you have an event for Tuesday 0900 +EQT
-(D) Map a project about OVF for speech delay 
-(D) Work on: Contact US universities about WWW https://github.com/eQualityTime/Public/issues/168 +EQT
-(D) Work on: Create Theory of change for each project. https://github.com/eQualityTime/Public/issues/13 +EQT
-(D) Work on: We spend 80% of our google ads allowance a month. https://github.com/eQualityTime/Public/issues/131 +EQT
-(D) Work on: https://github.com/eQualityTime/Home/issues/127 +EQT
-(D) Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
-x 2023-10-30 Work on: https://github.com/eQualityTime/Home/issues/134 +EQT
-x 2023-10-30 Work on: https://github.com/eQualityTime/Home/issues/135 +EQT
-(D) Write 20 ways to boost AAC work 
-(D) Process all repos - push and pull were aproprepte 
-(D) map project:Continually improve and train on working practices and technology +EQT
-(D) map project:Try the Git gud game to see how you do.  +EQT
+(C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) 15 Check if the accounts SORP requires Conflicts of Interest +EQT
+(C) 30 See if chatGPT will create soemthing you can upload to Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
+(C) 40 Get the develop version of IMPS3 working 
+(C) 40 map project:Process the delores.todo list +EQT
+(C) 60 Next sprint on developing IMPS3  +EQT
+(C) 60 map project:Next sprint on developing OVF  +EQT
+(C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
+(D) 10 Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
+(D) 10 Map a project about OVF for speech delay 
+(D) 10 Write 20 ways to boost AAC work 
+(D) 20 Process all repos - push and pull were required
+(D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
+(D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
+(D) 40 Do full accounts algorithm +EQT 
+(E) 05 Buy wireless keyboard for mirror 
 (E) 10 Brainstorm mornings again +EQT
-(E) Connect up the 'common projects' to the delores 
-(E) Buy wireless keyboard for mirror 
-(E) 60 Read the logical framework document
-(C) Get the develop version of IMPS3 working 
 (E) 10 Set up local vpn for when I'm away  +EQT
-(E) Work out exactly what was wrong with the desktop in the office.  +EQT
-(E) Work out what day you tame the todo lists - because it's NOT working with the current setup 
+(E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
 (E) 10 Write end-of-day protocol and put reading at the end of it 
+(E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
+(E) 60 Read the logical framework document
