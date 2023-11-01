@@ -1,11 +1,10 @@
-(A) Amazon payments into unitiy  +EQT
+(A) Check for next invoice and put  Amazon payments into unitiy  +EQT
 (B) 120 Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 30 Write a list of goals for the year :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) 15 Check if the accounts SORP requires Conflicts of Interest +EQT
 (C) 30 See if chatGPT will create soemthing you can upload to Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
 (C) 40 Get the develop version of IMPS3 working 
 (C) 40 map project:Process the delores.todo list +EQT
@@ -27,4 +26,3 @@
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
 (E) Work out what happened to the tiled calendar 
-x 2023-11-01 15 Publish Book 
