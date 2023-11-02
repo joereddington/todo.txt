@@ -1,4 +1,4 @@
-(A) Check for next invoice and put  Amazon payments into unitiy  +EQT
+(A) Check for next invoice and put Amazon payments into unitiy  +EQT
 (A) Go through Garfield weston bid and put a bunch of notes in
 (B) Call in at age concern luton 
 (B) 120 Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
