@@ -1,7 +1,6 @@
-(A) Check for next invoice and put Amazon payments into unitiy  +EQT
 (A) Go through Garfield weston bid and put a bunch of notes in
 (B) Call in at age concern luton 
-(B) 120 Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
+x 2023-11-02 120 Rewrite Annual Accounts - Send Accounts to External Examiner https://github.com/eQualityTime/Public/issues/171 +EQT
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) 30 Write a list of goals for the year :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
