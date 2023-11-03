@@ -3,6 +3,7 @@
 (A) Call mum and explain calendar clash 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 06 -  Message the set of ill people about another date
+(C) Setup Richard visit
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Tell the people that missed my birthday about a christmas party on the 9th December 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
