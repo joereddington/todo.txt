@@ -1,6 +1,7 @@
 (A) Go through Garfield weston bid and put a bunch of notes in
 (B) Call in at age concern luton 
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+(C) Work out a way of doing link tracking for emails 
 (B) 30 Write a list of goals for the year :https://github.com/joereddington/Projects-Private/issues/205 +EQT
 (C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
