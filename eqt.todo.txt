@@ -1,5 +1,5 @@
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) Call in at age concern luton 
+x 2023-11-13 Call in at age concern luton 
 (C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
