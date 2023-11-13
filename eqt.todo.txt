@@ -5,12 +5,11 @@
 (C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 30 See if chatGPT will create soemthing you can upload to Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) 40 Get the develop version of IMPS3 working 
 (C) 40 map project:Process the delores.todo list +EQT
 (C) 60 Next sprint on developing IMPS3  +EQT
 (C) 60 map project:Next sprint on developing OVF  +EQT
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work out a way of doing link tracking for emails 
+(C) Work out a way of doing link tracking for emails with chainmail 
 (D) 10 Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) 10 Map a project about OVF for speech delay 
 (D) 10 Write 20 ways to boost AAC work 
@@ -18,9 +17,7 @@
 (D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) 40 Do full accounts algorithm +EQT 
-(E) 05 Buy wireless keyboard for mirror 
 (E) 10 Brainstorm mornings again +EQT
-(E) 10 Set up local vpn for when I'm away  +EQT
 (E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
 (E) 10 Write end-of-day protocol and put reading at the end of it 
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
