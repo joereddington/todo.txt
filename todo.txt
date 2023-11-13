@@ -4,6 +4,7 @@
 (A) Sort out date for Richard visit
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2023-11-13 06 -  Message the set of ill people about another date
+
 (B) Review the set of people that you invited for Christmas 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Tell the people that missed my birthday about a christmas party on the 9th December 
@@ -15,7 +16,7 @@ x 2023-11-13 06 -  Message the set of ill people about another date
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 40 Brace shelves and roof in garage 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Look up reviews for dashcams 
+(b) Look up reviews for dashcams 
 (C) Map Leo targets 
 (C) Measure Nova's room for carpets 
 (C) Review and re-score  Wheel Of life

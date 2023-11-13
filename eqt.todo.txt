@@ -28,3 +28,4 @@
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
 (E) Work out what happened to the tiled calendar 
+(E) Work out how to save files with names
