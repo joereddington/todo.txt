@@ -103,8 +103,9 @@
 (E) Switch around the banking so that mum's money goes into a digial regualar saver  
 (E) TSE +Health  
 (E) Trim nose hair +Health    
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
+(C) Contact writing retreats about too many cooks 
+(C) Write facebook posts about toomanycooks 
+(C) Ask Francesca about too many cooks 
 (E) Watch home videos on bigdisk 
 (E) Watch video on plasterboarding 
 (E) Write Moonpig cards for this month +Overhead

@@ -1,9 +1,6 @@
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(C) 10 Blog for space grant : https://github.com/eQualityTime/Home/issues/139 +EQT
-(C) 10 Brainstorm on profesisonal TooManyCooks  +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 30 See if chatGPT will create soemthing you can upload to Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) 40 map project:Process the delores.todo list +EQT
 (C) 60 Next sprint on developing IMPS3  +EQT
 (C) 60 map project:Next sprint on developing OVF  +EQT
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
