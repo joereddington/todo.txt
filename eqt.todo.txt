@@ -18,8 +18,6 @@
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) 40 Do full accounts algorithm +EQT 
 (E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
-(E) 10 Write end-of-day protocol and put reading at the end of it 
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
-(E) Work out what happened to the tiled calendar 
-(E) Work out how to save files with names
+(E) Work out what you want from an office chair. 
