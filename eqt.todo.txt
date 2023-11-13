@@ -17,7 +17,6 @@
 (D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (D) 40 Do full accounts algorithm +EQT 
-(E) 10 Brainstorm mornings again +EQT
 (E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
 (E) 10 Write end-of-day protocol and put reading at the end of it 
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
