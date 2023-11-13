@@ -1,14 +1,14 @@
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (C) 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) 30 See if chatGPT will create soemthing you can upload to Google Ads Project https://github.com/eQualityTime/Public/issues/164 +EQT
-(C) 60 Next sprint on developing IMPS3  +EQT
+(C) 30 Review the editable bulk report from Google ads 
 (C) 60 map project:Next sprint on developing OVF  +EQT
+(C) 20 Find and review the OVF developement board  +EQT
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Work out a way of doing link tracking for emails with chainmail 
+(C) 20 Write out a way of doing link tracking for emails with chainmail - make a hash 
 (D) 10 Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) 10 Map a project about OVF for speech delay 
 (D) 10 Write 20 ways to boost AAC work 
-(D) 20 Process all repos - push and pull were required
+(D) 20 Process all repos - push and pull where required
 (D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
