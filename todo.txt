@@ -1,9 +1,9 @@
 (A) Book flu jabs 
 (A) Get/make Richard a card 
-(A) Call mum and explain calendar clash 
+(A) Sort out date for Richard visit
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) 06 -  Message the set of ill people about another date
-(C) Setup Richard visit
+x 2023-11-13 06 -  Message the set of ill people about another date
+(B) Review the set of people that you invited for Christmas 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Tell the people that missed my birthday about a christmas party on the 9th December 
 (B) Work on: https://github.com/joereddington/Projects-Private/issues/188 +PersonalProjects
@@ -20,6 +20,7 @@
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
+(C) Setup Richard visit
 (C) Think about Swimming as a project 
 (C) Work on: All the Marvel Directors commentaries. (and Pixar)  https://github.com/joereddington/Projects-Public/issues/56 +PersonalProjects
 (C) Work on: Game of House of Books https://github.com/joereddington/Projects-Public/issues/41 +PersonalProjects
@@ -86,6 +87,7 @@
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Make sure you have a continual professional developement practice happening 
+(E) Map project for making a kindle version of Advanced Memory Palaces 
 (E) Map remodeling the loft 
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
