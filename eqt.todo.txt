@@ -5,6 +5,7 @@
 (C) 20 Find and review the OVF developement board  +EQT
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) 20 Write out a way of doing link tracking for emails with chainmail - make a hash 
+(B) Iterate Accounts again
 (D) 10 Ask for help about a project https://github.com/eQualityTime/Home/issues/132 +EQT
 (D) 10 Map a project about OVF for speech delay 
 (D) 10 Write 20 ways to boost AAC work 
@@ -14,4 +15,4 @@
 (E) 10 Work out what day you tame the todo lists - because it's NOT working with the current setup 
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
-(E) Work out what you want from an office chair - Wheels, NO armrests, get under the desk. 
+x 2023-11-14 Work out what you want from an office chair - Wheels, NO armrests, get under the desk. 
