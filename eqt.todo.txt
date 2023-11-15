@@ -11,3 +11,5 @@
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
+(C) Setup proper runway report for Trustees 
+(E) Fix proxy policy 
