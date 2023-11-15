@@ -1,6 +1,5 @@
 (B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
 (B) Iterate Accounts again
-(C) 20 Write out a way of doing link tracking for emails with chainmail - make a hash 
 (C) 30 Review the editable bulk report from Google ads 
 (C) 60 map project: Next sprint on developing OVF  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
