@@ -5,6 +5,7 @@
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Fix whatever is happening with the __MACOS issue  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (C) Setup proper runway report for Trustees 
+(C) Talk to Tresturer about cash flow 
 (D) 10 Map a project about OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 20 Process all repos - push and pull where required
