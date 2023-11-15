@@ -4,6 +4,7 @@
 (C) 60 map project: Next sprint on developing OVF  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Fix whatever is happening with the __MACOS issue  https://github.com/eQualityTime/TheOpenVoiceFactory/
+(C) Setup proper runway report for Trustees 
 (D) 10 Map a project about OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 20 Process all repos - push and pull where required
@@ -11,5 +12,3 @@
 (D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
-(C) Setup proper runway report for Trustees 
-(E) Fix proxy policy 
