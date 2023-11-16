@@ -7,9 +7,10 @@
 (C) Setup proper runway report for Trustees 
 (C) Talk to Tresturer about cash flow 
 (D) 10 Map a project about OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
+(D) OVF success and failure pages should be on the Analytics 
 (D) 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/
+(D) Write a Friday Announcements post for CM 
 (D) 20 Process all repos - push and pull where required
 (D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
-(D) 30 Try a screen scraper again: https://github.com/eQualityTime/Home/issues/127 +EQT
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
