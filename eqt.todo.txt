@@ -2,15 +2,18 @@
 (B) Iterate Accounts again
 (C) 30 Review the editable bulk report from Google ads 
 (C) 60 map project: Next sprint on developing OVF  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
+(C) Look at the love luton fund 
 (C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Fix whatever is happening with the __MACOS issue  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (C) Setup proper runway report for Trustees 
-(C) Talk to Tresturer about cash flow 
+(C) 04 Talk to Tresturer about cash flow 
 (D) 10 Map a project about OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) OVF success and failure pages should be on the Analytics 
+(D) Review and rewrite the OVF website (while making sure that we haven't caused a problem with the MEdical device registration) 
 (D) 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) Write a Friday Announcements post for CM 
-(D) 20 Process all repos - push and pull where required
+(D) 20 Work out what's wrong with the OVF repo 
 (D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
 (E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
 (E) 60 Read the logical framework document
+(E) Add Google Analytiscs to Angular (and run tests and stuff)  
