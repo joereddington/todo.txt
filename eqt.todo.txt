@@ -14,4 +14,9 @@ x 2023-12-06 Send emails 100 to 200
 (E) Learn about Rsync with the large external hard drive 
 (E) Set up printer 
 (E) Journal Entry for OVF 
+(E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
+(E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
+(E) Check ranking scripts +Overhead +EQT
+(E) Ask for testimonal from completed fundings +EQT
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Add RHUL to watson (and also proper personal todo list) 
