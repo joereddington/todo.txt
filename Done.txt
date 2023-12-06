@@ -79,3 +79,4 @@ x 2023-12-06 Confirm plans for next two weekends.+Overhead @phone  Time:06
 x 2023-12-06 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
 x 2023-12-06 Do Menu for the week +Family @nova @phone  Time:01 
 x 2023-12-06 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2023-12-06 map project:Get good at Judo +PersonalProjects

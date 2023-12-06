@@ -20,7 +20,6 @@
 (C) Ask Francesca about too many cooks 
 (D) Buy Kat flowers
 (D) Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) map project:Get good at Judo +PersonalProjects
 (D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 05 - go through small cooking notes notebook and see if there is anything to transfer to the big one. 
 (E) 05 Put Oil in the car 
