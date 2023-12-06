@@ -1,5 +1,5 @@
-(A) Call disney 
-(A) Order ikea chair
+(A) Call Disney to see if the other venues have better prices 
+x 2023-12-06 Order ikea chair
 (A) Suggest a January date for Richard Visiting 
 (B) 10 Review the set of people that you invited for Christmas 
 (B) Email Fihgting films again 
