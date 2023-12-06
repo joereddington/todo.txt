@@ -13,4 +13,4 @@
 (E) Learn about Rsync with the large external hard drive 
 (E) Set up printer 
 (E) Journal Entry for OVF 
-(E) Add RHUL to watson 
+(E) Add RHUL to watson (and also proper personal todo list) 
