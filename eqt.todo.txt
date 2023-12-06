@@ -1,4 +1,4 @@
-(C) 
+(C) Get printer working! 
 x 2023-12-06 Send emails 100 to 200 
 (B) Apply for the Love Luton Grants
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
