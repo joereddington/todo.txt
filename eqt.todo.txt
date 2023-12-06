@@ -10,11 +10,9 @@
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
 (D) 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
 (E) 10 Post an introduction to the AAC facebook group 
-(E) 10 Setup stress chart
 (E) 15 Publish a blog about how you feel about the failed funding bid
 (E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
 (E) 20 Commit a code review with chat GPT for the code in chainmail 
-(E) Learn about Rsync with the large divice
+(E) Learn about Rsync with the large external hard drive 
 (E) Set up printer 
-x
 (E) Journal Entry for OVF 
