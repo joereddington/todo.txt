@@ -3529,3 +3529,41 @@ x 2023-11-13 10 Brainstorm on profesisonal TooManyCooks  +EQT
 x 2023-11-13 40 map project:Process the delores.todo list +EQT
 x 2023-11-13 60 Next sprint on developing IMPS3  +EQT
 x 2023-11-14 Work out what you want from an office chair - Wheels, NO armrests, get under the desk. 
+x 2023-11-21 Look for more grants
+x 2023-11-21 message FB 
+x 2023-11-21 Ping Grant writer
+x 2023-11-21 Iterate Accounts again
+x 2023-11-21 04 Find out about cash flow documents
+x 2023-11-21 30 Download and review the editable bulk report from Google ads 
+x 2023-11-21 Setup proper runway report for Trustees 
+x 2023-11-21 20 Work out what's wrong with the OVF repo 
+x 2023-11-21 60 Read the logical framework document
+x 2023-11-23 Search for funding for eQuality Time Projects +EQT
+x 2023-11-23 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2023-11-23 Open and log progress on the bid status document +EQT Time:04
+x 2023-11-23 Open list of projects to be funded +EQT
+x 2023-11-23 Grant terms generally mean that every director has to have seen all of the paperwork: make sure tey have +EQT
+x 2023-11-23 Check the next school time +EQT Time:03 
+x 2023-11-23 Backup Dreamhost +EQT
+x 2023-11-23 20 Work out exactly what was wrong with the desktop in the office.  +EQT
+x 2023-11-23 Download the amazon months sales figures +EQT
+x 2023-11-23 Send Trustees something nice about outcomes +EQT
+x 2023-11-23 OVF success and failure pages should be on the Analytics 
+x 2023-11-27 Send book to authors
+x 2023-11-27 Send book to librarian  
+x 2023-11-23 OVF success and failure pages should be on the Analytics 
+x 2023-11-27 Add Google Analytiscs to Angular (and run tests and stuff)   OVF +public
+x 2023-11-27 Create a repo for blackbox 
+x 2023-11-27 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
+x 2023-11-27 2. Switch to live account and start streaming +EQT @singleton Time:99
+x 2023-11-28 Iterate accounts again 
+x 2023-11-28 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/ OVF 
+x 2023-11-28 Spend an hour applying for the Love Luton Fund 
+x 2023-11-28 30 Create Chainmail messaging special schools about OVF +EQT 
+x 2023-11-28 Send more emails to special schools 
+x 2023-11-28 60 Next sprint on developing OVF: website fixes,   +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/ +Public
+x 2023-11-28 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT Time:15 
+x 2023-11-28 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2023-11-28 Think about social media in the automatic sense of "I should be X but I'm Y" 
+x 2023-12-06 Do the logins for RHUL - and thus email Rachel for Slides and A&E for meeting 
+x 2023-12-06 Review web logs to see if any of the chainmail things happened

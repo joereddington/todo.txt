@@ -1,19 +1,24 @@
-(B) 20 Continue transfering Dropbox to Google Drive: https://github.com/eQualityTime/Home/issues/120 +EQT
-(B) Iterate Accounts again
-(C) 30 Review the editable bulk report from Google ads 
-(C) 60 map project: Next sprint on developing OVF  +EQT https://github.com/eQualityTime/TheOpenVoiceFactory/
-(C) Look at the love luton fund 
-(C) 60 read next book on this list. https://github.com/eQualityTime/Public/issues/166 +EQT
-(C) Fix whatever is happening with the __MACOS issue  https://github.com/eQualityTime/TheOpenVoiceFactory/
-(C) Setup proper runway report for Trustees 
-(C) 04 Talk to Tresturer about cash flow 
-(D) 10 Map a project about OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
-(D) OVF success and failure pages should be on the Analytics 
-(D) Review and rewrite the OVF website (while making sure that we haven't caused a problem with the MEdical device registration) 
-(D) 10 Write 20 ways to boost AAC work  https://github.com/eQualityTime/TheOpenVoiceFactory/
-(D) Write a Friday Announcements post for CM 
-(D) 20 Work out what's wrong with the OVF repo 
-(D) 30 Create Chainmail messaging special schools about The Open Voice Factory +EQT
-(E) 20 Work out exactly what was wrong with the desktop in the office.  +EQT
-(E) 60 Read the logical framework document
-(E) Add Google Analytiscs to Angular (and run tests and stuff)  
+(C) Generate more Special School emails 
+(C) Write up a proper query  for the pro bono law person 
+(C) Draft project for providing fees
+(B) Apply for the Love Luton Grants
+(B) Map out the plan for checking reoffending 
+(C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
+(C) Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
+(C) Pay in cheques by post
+(C) Setup deploy script for todo
+(D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
+(D) 10 Send CM a Friday Announcements post OVF
+(D) 20 Process bank accounts and file expenses claims  +EQT Time:99
+(D) 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
+(D) Sort out your deskdrawers
+(E) 04 Update Charity CEOs group about funding 
+(E) 10 Post an introduction to the AAC facebook group 
+(E) 10 Setup stress chart
+(E) 15 Publish a blog about how you feel about the failed funding bid
+(E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
+(E) 20 Commit a code review with chat GPT for the code in chainmail 
+(E) Learn about Rsync with the large divice
+(E) Move printer downstairs
+(E) Setup cron for pushing todos and add cron to blackbox.sh 
+(E) Journal Entry for OVF 
