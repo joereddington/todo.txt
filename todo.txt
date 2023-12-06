@@ -8,11 +8,10 @@
 (C) Book doctors appointment
   * For what? 
 (C) Book podiatrists 
-(C) Chainmail writing retreats about too many cooks 
-* Create spreadsheet
-(C) Find out how to use the video game with the new tv 
+(C) Fill out the writing retreat spreadsheet
+(C) Google how to use the video game with the new tv 
 (C) Laces project for Nova: tell them it's an lol doll in it for htem 
-(C) Make a list of the fiction liciences you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
+(C) Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) Measure Nova's room for carpets 
 (C) Properly measure the judo suit and take photos for blog 
 (C) Refresh nova's laptop 
