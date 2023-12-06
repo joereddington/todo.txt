@@ -83,3 +83,6 @@ x 2023-12-06 map project:Get good at Judo +PersonalProjects
 x 2023-12-06 map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 x 2023-12-06 Spend 20 minutes or so considering the fruits of long term goals +Overhead
 x 2023-12-06 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2023-12-06 Check that everything in the 'in process' box really does have a task+Overhead @nova 
+x 2023-12-06 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
+x 2023-12-06 Review starred items in feeds +Overhead
