@@ -3567,3 +3567,5 @@ x 2023-11-28 Look at the funding and prize things you were refused for last year
 x 2023-11-28 Think about social media in the automatic sense of "I should be X but I'm Y" 
 x 2023-12-06 Do the logins for RHUL - and thus email Rachel for Slides and A&E for meeting 
 x 2023-12-06 Review web logs to see if any of the chainmail things happened
+x 2023-12-06 Map out the plan for checking reoffending 
+x 2023-12-06 Setup deploy script for todo
