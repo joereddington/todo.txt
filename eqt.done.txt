@@ -3575,3 +3575,4 @@ x 2023-12-06 04 Update Charity CEOs group about funding
 x 2023-12-06 add 'read the last www book' to igor
 x 2023-12-06 Setup cron for pushing todos and add cron to blackbox.sh 
 x 2023-12-06 10 Setup stress chart
+x 2023-12-06 20 Commit a code review with chat GPT for the code in chainmail 
