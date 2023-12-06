@@ -7,8 +7,9 @@
 * Get drill 
 (C) Book doctors appointment
   * For what? 
-(C) Buy new running shoes
+(C) Book podiatrists 
 (C) Chainmail writing retreats about too many cooks 
+* Create spreadsheet
 (C) Find out how to use the video game with the new tv 
 (C) Laces project for Nova: tell them it's an lol doll in it for htem 
 (C) Make a list of the fiction liciences you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
