@@ -9,8 +9,6 @@
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
 (D) 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
-x 2023-12-06 Sort out your deskdrawers
-(E) 04 Update Charity CEOs group about funding 
 (E) 10 Post an introduction to the AAC facebook group 
 (E) 10 Setup stress chart
 (E) 15 Publish a blog about how you feel about the failed funding bid
@@ -18,6 +16,5 @@ x 2023-12-06 Sort out your deskdrawers
 (E) 20 Commit a code review with chat GPT for the code in chainmail 
 (E) Learn about Rsync with the large divice
 (E) Set up printer 
-(E) Setup cron for pushing todos and add cron to blackbox.sh 
+x
 (E) Journal Entry for OVF 
-(E) add 'read the last www book' to igor
