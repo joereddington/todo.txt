@@ -86,3 +86,5 @@ x 2023-12-06 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2023-12-06 Check that everything in the 'in process' box really does have a task+Overhead @nova 
 x 2023-12-06 Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 x 2023-12-06 Review starred items in feeds +Overhead
+x 2023-12-06 15 Cartwheel practice for Nova 
+x 2023-12-06 Laces project for Nova: tell them it's an lol doll in it for htem 

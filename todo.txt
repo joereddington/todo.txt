@@ -10,7 +10,6 @@
 (C) Book podiatrists 
 (C) Fill out the writing retreat spreadsheet
 (C) Google how to use the video game with the new tv 
-(C) Laces project for Nova: tell them it's an lol doll in it for htem 
 (C) Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) Measure Nova's room for carpets 
 (C) Refresh nova's laptop 
@@ -24,19 +23,17 @@
 (E) 05 Put Oil in the car 
 (E) 06 Put down the rest of the mats in the garage 
 (E) 10 Put the other lights on Nova's biek
-(E) 15 Cartwheel practice for Nova 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 25 process Garage inbox. 
 (E) 70 Do full review of the memory palace.  +Fridge
-(E) Ask for testimonal from completed fundings
-(E) Check ranking scripts +Overhead
+(E) Ask for testimonal from completed fundings +EQT
+(E) Check ranking scripts +Overhead +EQT
 (E) Check wishlist
 (E) Edit the long lost pictures
 (E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
 (E) Floss +Health @nova  Time:05
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
-x 2023-12-06 Review starred items in feeds +Overhead
 (E) Set a goal for fliping-up 
 (E) Watch home videos on bigdisk 
 (E) Watch video on plasterboarding
