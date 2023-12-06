@@ -6,7 +6,8 @@
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
 (C) Pay in cheques by post
-(C) Setup deploy script for todo
+x 2023-12-06 Setup deploy script for todo
+(C) Find the chart making code
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
@@ -19,6 +20,7 @@
 (E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
 (E) 20 Commit a code review with chat GPT for the code in chainmail 
 (E) Learn about Rsync with the large divice
-(E) Move printer downstairs
+(E) Set up printer 
 (E) Setup cron for pushing todos and add cron to blackbox.sh 
 (E) Journal Entry for OVF 
+(E) add 'read the last www book' to igor
