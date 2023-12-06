@@ -3569,3 +3569,5 @@ x 2023-12-06 Do the logins for RHUL - and thus email Rachel for Slides and A&E f
 x 2023-12-06 Review web logs to see if any of the chainmail things happened
 x 2023-12-06 Map out the plan for checking reoffending 
 x 2023-12-06 Setup deploy script for todo
+x 2023-12-06 Find the chart making code
+x 2023-12-06 Sort out your deskdrawers
