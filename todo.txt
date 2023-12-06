@@ -32,18 +32,10 @@
 (E) 70 Do full review of the memory palace.  +Fridge
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask for testimonal from completed fundings
-(E) Check Voicemail  +Overhead @nova  @phone  Time:02 
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead @nova 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone  Time:03 
 (E) Check wishlist
-(E) Check £40 in Wallet +Overhead @nova  @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone  Time:06 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something Time:10 
-(E) Do Menu for the week +Family @nova @phone  Time:01 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Edit the long lost pictures
-(E) Empty Joe inbox completely +Overhead @nova  Time:15 
 (E) Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) Find a way to search for an emoji from the ubuntu keyboard 
 (E) Floss +Health @nova  Time:05
