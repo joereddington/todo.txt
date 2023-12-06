@@ -20,7 +20,6 @@
 (C) Ask Francesca about too many cooks 
 (D) Buy Kat flowers
 (D) Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) map project:https://github.com/users/joereddington/projects/2 +PersonalProjects
 (E) 05 - go through small cooking notes notebook and see if there is anything to transfer to the big one. 
 (E) 05 Put Oil in the car 
 (E) 06 Put down the rest of the mats in the garage 
@@ -42,6 +41,5 @@
 (E) Process the 'to put in Evernote' folder and add to database +Overhead Time:10 
 (E) Review starred items in feeds +Overhead
 (E) Set a goal for fliping-up 
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
 (E) Watch home videos on bigdisk 
 (E) Watch video on plasterboarding
