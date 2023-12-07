@@ -29,3 +29,6 @@
 (E) Set a goal for fliping-up  The goal is: 20 kip-up attempts before each session. 
 (E) 20 Watch home videos on bigdisk 
 (E) 20 Watch video on plasterboarding
+(E) Measure for bedside tables 
+(E) Lookup bedside lamps 
+(E) Find video on wallpaper removal 
