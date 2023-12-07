@@ -1,7 +1,11 @@
-(C) Get printer working! 
+(A) Check working hours and how much time I have +EQT
+(A) Process all inboxes
 (B) Apply for the Love Luton Grants
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
+(C) Fix Trustee address  +EQT
+(C) Fix the chainmail problem about doublebarrelled names  +EQT
+(C) Get printer working! 
 (C) Pay in cheques by post
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
@@ -10,16 +14,13 @@
 (E) 10 Post an introduction to the AAC facebook group 
 (E) 15 Publish a blog about how you feel about the failed funding bid
 (E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
-(E) Learn about Rsync with the large external hard drive 
-(E) Set up printer 
-(E) Journal Entry for OVF 
-(E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
-(E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
-(E) Check ranking scripts +Overhead +EQT
-(E) Ask for testimonal from completed fundings +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Add RHUL to watson (and also proper personal todo list) 
+(E) Ask for testimonal from completed fundings +EQT
+(E) Check ranking scripts +Overhead +EQT
+(E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
+(E) Journal Entry for OVF 
+(E) Learn about Rsync with the large external hard drive 
+(E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
+(E) Set up printer 
 (E) Setup stress chart checking
-(A) Check working hours and how much time I have +EQT
-(C) Fix Trustee address  +EQT
-(C) Fix the chainmail problem about doublebarrelled names  +EQT
