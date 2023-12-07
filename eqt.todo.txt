@@ -1,6 +1,7 @@
-(A) Check working hours and how much time I have +EQT
+x 2023-12-07 Check working hours and how much time I have +EQT
 (A) Process all inboxes
 (B) Apply for the Love Luton Grants
+(B) Do the OVF journal entry 
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
 (C) Fix Trustee address  +EQT

@@ -3579,3 +3579,4 @@ x 2023-12-06 20 Commit a code review with chat GPT for the code in chainmail
 x 2023-12-06 Draft project for providing re offending checking 
 x 2023-12-06 Write up a proper query for the pro bono law person 
 x 2023-12-06 Send emails 100 to 200 
+x 2023-12-07 Check working hours and how much time I have +EQT
