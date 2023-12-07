@@ -3,6 +3,7 @@
 (A) Send Kat login details for Ring
 (B) Get Blitz jacket and add measurements (re-mesaure the width of the old one) 
 (C) 05 Print out a chart of mental health using the signs that Kat mentioned
+(C) Do the granny email with Nova 
 (C) 20 Look through the old blog articles and have Chat GPT change them .  https://github.com/joereddington/joereddington.github.io/issues/1 +PersonalProjects
 (C) 40 Brace shelves and roof in garage 
 (C) Ask Francesca about too many cooks 
@@ -33,5 +34,3 @@
 (E) Lookup bedside lamps 
 (E) Measure for bedside tables 
 (E) Set a goal for fliping-up  The goal is: 20 kip-up attempts before each session. 
-* Get drill 
-* Open the folder. 
