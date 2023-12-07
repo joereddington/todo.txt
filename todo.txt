@@ -32,3 +32,5 @@
 (E) Measure for bedside tables 
 (E) Lookup bedside lamps 
 (E) Find video on wallpaper removal 
+(C) Sort out the images on AMP 
+(A) Confirm all party people 
