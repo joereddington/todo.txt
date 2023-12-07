@@ -20,3 +20,4 @@ x 2023-12-06 Send emails 100 to 200
 (E) Ask for testimonal from completed fundings +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Add RHUL to watson (and also proper personal todo list) 
+(E) Setup stress chart checking
