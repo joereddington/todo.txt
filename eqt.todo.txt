@@ -1,5 +1,5 @@
-x 2023-12-07 Check working hours and how much time I have +EQT
 (A) Process all inboxes
+(A) Iterate the runway 
 (B) Apply for the Love Luton Grants
 (B) Do the OVF journal entry 
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
@@ -25,3 +25,4 @@ x 2023-12-07 Check working hours and how much time I have +EQT
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) Set up printer 
 (E) Setup stress chart checking
+(E) Raise invoice for the college 
