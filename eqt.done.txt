@@ -3581,3 +3581,8 @@ x 2023-12-06 Write up a proper query for the pro bono law person
 x 2023-12-06 Send emails 100 to 200 
 x 2023-12-07 Check working hours and how much time I have +EQT
 x 2023-12-11 Set up printer 
+x 2023-12-11 Learn about Rsync with the large external hard drive 
+x 2023-12-11 Get printer working! 
+x 2023-12-11 Setup stress chart checking
+x 2023-12-11 Raise invoice for the college 
+x 2023-12-11 Ask for testimonal from completed fundings +EQT
