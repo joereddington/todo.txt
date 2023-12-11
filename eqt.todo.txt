@@ -23,6 +23,5 @@
 (E) Journal Entry for OVF 
 (E) Learn about Rsync with the large external hard drive 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
-(E) Set up printer 
 (E) Setup stress chart checking
 (E) Raise invoice for the college 
