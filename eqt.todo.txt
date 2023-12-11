@@ -2,8 +2,8 @@
 (A) Iterate the runway 
 (A) Process all inboxes
 (B) Apply for the Love Luton Grants
+(B) Find external examiner 
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
-x 2023-12-11 Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
 (C) Fix Trustee address  +EQT
 (C) Fix the chainmail problem about doublebarrelled names  +EQT
 (C) Pay in cheques by post
@@ -18,5 +18,4 @@ x 2023-12-11 Brainstorm when you do personal todo list (oh, does that include Un
 (E) Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
 (E) Check ranking scripts +Overhead +EQT
 (E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
-(E) Journal Entry for OVF 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
