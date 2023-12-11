@@ -3588,3 +3588,4 @@ x 2023-12-11 Raise invoice for the college
 x 2023-12-11 Ask for testimonal from completed fundings +EQT
 x 2023-12-11 Brainstorm when you do personal todo list (oh, does that include Uni work? I feel like it does.  
 x 2023-12-11 Journal Entry for OVF 
+x 2023-12-11 15 Publish a blog about how you feel about the failed funding bid
