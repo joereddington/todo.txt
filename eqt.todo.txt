@@ -1,22 +1,20 @@
-(B) Start writing the close down document 
 (A) Do the OVF journal entry 
 (A) Iterate the runway 
 (A) Process all inboxes
 (B) Apply for the Love Luton Grants
-(C) Wheel of life should be written up and published 
 (B) Find external examiner 
+(B) Start writing the close down document 
 (C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
 (C) Fix Trustee address  +EQT
 (C) Fix the chainmail problem about doublebarrelled names  +EQT
 (C) Pay in cheques by post
+(C) Wheel of life should be written up and published 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
 (D) 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
 (E) 10 Post an introduction to the AAC facebook group 
 (E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
+(E) 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
-(E) Check ranking scripts +Overhead +EQT
-(E) Find a way to search for an emoji from the ubuntu keyboard  +EQT
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
