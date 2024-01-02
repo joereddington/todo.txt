@@ -1,7 +1,5 @@
-(A) Return the stuffed animal 
-(B) Put keyboard on ebay 
+(A) New evelope for the stuffed animal 
 (C) 04 Google what ports the New TV has 
-(C) 05 Print out a chart of mental health using the signs that Kat mentioned
 (C) 05 Show Nova the granny email on laptop 
 (C) 06 Measure Nova's room for carpets 
 (C) 10 Clipboard Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
@@ -12,7 +10,7 @@
 (C) 30 Create a blog post about the Wheel Of life for 1st January 
 (C) 40 Brace shelves and roof in garage 
 (C) 60 Refresh nova's laptop 
-(C) Tell Lizzie you want to be at the sotry futures event
+x 2024-01-02 Tell Lizzie you want to be at the sotry futures event
 (D) 06 Buy Kat flowers
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 02 Find video on wallpaper removal 
