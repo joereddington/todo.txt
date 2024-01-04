@@ -1,9 +1,9 @@
-(A) New evelope for the stuffed animal 
-(C) 04 Try the game thing on the tv. 
+(C) 04 Find 6V adapter for the video game 
 (C) 05 Show Nova the granny email on laptop 
-(C) 06 Measure Nova's room for carpets 
 (C) 10 Clipboard Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
-(C) 10 Google for a bunch of writing retreats and put them in a spreadsheet
+(C) Create a chainmail for your bucket list IPs
+(C) Ask on reddit/stackoverflow, about where you find the IP holders. 
+(D) Write a pitch message to the writing retreats 
 (C) 10 Message Francesca to get their opinion about too many cooks 
 (C) 10 Review the feedbacks from Kat and follow up
 (C) 10 Write facebook posts about toomanycooks for adults.
@@ -23,3 +23,4 @@
 (E) Get dowel for brio 
 (E) Pick new toilet (measure old one first)
 (E) Put Richard dates in the calendar 
+(E) Call Disney to add disney express
