@@ -1,13 +1,8 @@
-(A) Do the OVF journal entry 
-(C) Buy some other prison books
-(A) Iterate the runway 
 (A) Process all inboxes
 (B) Find external examiner 
 (B) Start writing the close down document 
-(C) 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
+(C) Buy some other prison books
 (C) Fix Trustee address  +EQT
-(C) Fix the chainmail problem about doublebarrelled names  +EQT
-x 2023-12-15 Pay in cheques by post
 (C) Wheel of life should be written up and published 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
@@ -18,3 +13,4 @@ x 2023-12-15 Pay in cheques by post
 (E) 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
+(E) Commit a code review with chat GPT for the code in chainmail
