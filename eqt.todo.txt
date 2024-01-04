@@ -4,6 +4,7 @@
 (C) Buy some other prison books
 (C) Fix Trustee address  +EQT
 (C) Wheel of life should be written up and published 
+(D) Investigate automatic follow up emails 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
