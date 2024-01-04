@@ -117,3 +117,5 @@ x 2024-01-04 New evelope for the stuffed animal
 x 2024-01-04 Post stuffed anaimal 
 x 2024-01-04 06 Measure Nova's room for carpets 
 x 2024-01-04 10 Google for a bunch of writing retreats and put them in a spreadsheet
+x 2024-01-04 10 Clipboard Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
+x 2024-01-04 Ask on reddit/stackoverflow, about where you find the IP holders. 

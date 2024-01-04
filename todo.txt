@@ -1,8 +1,6 @@
 (C) 04 Find 6V adapter for the video game 
 (C) 05 Show Nova the granny email on laptop 
-(C) 10 Clipboard Make a list of the fiction liciences  you'd like: https://github.com/joereddington/Projects-Private/issues/194 +PersonalProjects
 (C) Create a chainmail for your bucket list IPs
-(C) Ask on reddit/stackoverflow, about where you find the IP holders. 
 (D) Write a pitch message to the writing retreats 
 (C) 10 Message Francesca to get their opinion about too many cooks 
 (C) 10 Review the feedbacks from Kat and follow up
