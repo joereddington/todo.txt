@@ -15,3 +15,4 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) Commit a code review with chat GPT for the code in chainmail
+(E) Map newsletter project
