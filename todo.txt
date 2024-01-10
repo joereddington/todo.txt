@@ -81,3 +81,4 @@
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
+(E) Brainstorm group holiday
