@@ -3599,3 +3599,9 @@ x 2023-12-15 Pay in cheques by post
 x 2024-01-04 Do the OVF journal entry 
 x 2024-01-04 60 read the whole GTD book, make notes, and write a blog post about it. https://github.com/eQualityTime/Public/issues/166 +EQT
 x 2024-01-04 Fix the chainmail problem about doublebarrelled names  +EQT
+x 2024-01-10 Process all inboxes
+x 2024-01-10 Reply to 
+x 2024-01-10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-01-10 Start writing the close down document 
+x 2024-01-10 Wheel of life should be written up and published 
+x 2024-01-10 Do full accounts algorithm +EQT 
