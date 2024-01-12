@@ -1,84 +1,26 @@
-(A) Sync up the memory book between laptop and desktop and word coutn it
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Put tape on bowls that I'm returning
+(E) 02 Trim nose hair +Health    
+(D) 03 Lookup what size sd car the camera needs Buy SD card for camera 
+(E) 03 Post to Vegan Facebook group  @phone   
 (C) 04 Find 6V adapter for the video game 
-(C) 05 Show Nova the granny email on laptop 
-(C) 10 Draft facebook posts about toomanycooks for adults.
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) 40 Brace shelves and roof in garage 
-(C) 40 Create a chainmail for your bucket list IPs
-(C) 60 Refresh nova's laptop 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run mgit status on the git directory and process all alerts
-(D) 06 Buy Kat flowers
-(D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) Buy SD card for camera 
-(D) Check starred messages in kat whatsapp 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Write a pitch message to the writing retreats 
-(E) 02 Find video on wallpaper removal 
+(E) 05 Ask for testimonial from completed fundings
+(E) 05 Floss +Health   
+(E) 05 Get measuring tape and measure toilet 
 (E) 05 Measure for bedside tables 
+(C) 05 Show Nova the granny email on laptop 
+(E) 05 Write Moonpig cards for this month +Overhead
+(D) 06 Buy Kat flowers
 (E) 06 Floss +Health @nova  Time:05
+(E) 10 Brainstorm group holiday
+(E) 10 Brainstorm unloading car 
+(C) 10 Draft facebook posts about toomanycooks for adults.
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) 10 Put the other lights on Nova's bike 
+(D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(C) 10 Year plan: check you have 5 projects in each part
+(D) 20 Draft  a pitch message to the writing retreats 
 (E) 20 Watch home videos on bigdisk 
-(E) 20 Watch video on plasterboarding
+(E) 25 Write a 1,000 words on the physics book 
+(C) 40 Create a chainmail for your bucket list IPs
 (E) 50 Edit the long lost pictures
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask for testimonial from completed fundings
-(E) Ask Nova about favourite colour again
-(E) Brainstorm unloading car 
-(E) Call Disney to add disney express
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Confirm Richard visit and check it's in calendar
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Fix Kitchen window fastening
-(E) Floss +Health   
-(E) Get Aviators
-(E) Get dowel for brio 
-(E) Get Flu vaccine +Health
-(E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in Dropbox.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make Spreadsheet of words written on my next book 
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Make sure you have a continual professional developement practice happening 
-(E) Order new wingnuts
-(E) Pick new toilet (measure old one first)
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead  
-(E) Publicly thank someone +Overhead  
-(E) Put Richard dates in the calendar 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) Trim nose hair +Health    
-(E) TSE +Health  
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
-(E) Write Moonpig cards for this month +Overhead
-(E) Brainstorm group holiday
+(C) 60 Refresh nova's laptop 
+(E) 05 Go through phone and save all of the numbers +Overhead  @phone   

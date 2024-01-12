@@ -1,4 +1,5 @@
 (B) Setup the next set of OVF posts
+(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) Buy some other prison books
 (C) Chainmail Contact all previous schools
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
