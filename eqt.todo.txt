@@ -1,19 +1,29 @@
 (C) 05 Buy some other prison books
+    * Get the list of them 
 (E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+    * Open the drawer 
 (E) 06 Open list of projects to be funded +EQT
-(D) 07 Setup the next set of OVF posts
+    * Open the link in google drive 
+(D) 07 Setup the next set of OVF emails
+    * Lookup the number send in Gmail 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
+    * Find the bit of delores
 (C FB) 10 Fix Trustee address  +EQT
 (E) 10 Map newsletter project
 (E) 10 Post an introduction to the AAC facebook group 
 (C) 10 Run the OBZ archive command and save to an external drive.  +EQT
+    * Lookup the old commands
+    * Alter Igor  
 (D) 10 Send CM a Friday Announcements post OVF
-(E) 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
+    * Look at the last few 
 (E) 15 Review starred items in feeds +Overhead +EQT
+    * Open the page
 (E) 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
+  * Ten minutes code
 (E) 20 Commit a code review with chat GPT for the code in chainmail
+  * This is actually the first thing for a chainmail day 
 (E) 20 Post to WWW facebook page +EQT  @phone   
-    * 
+    * There's a book today
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
     * Get the last date from the littlefinger spreadsheet
 (E) 20 Review Google Ads

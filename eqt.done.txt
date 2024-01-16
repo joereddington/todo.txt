@@ -3613,3 +3613,4 @@ x 2024-01-13 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2024-01-13 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-01-13 Search for funding for eQuality Time Projects +EQT
 x 2024-01-15 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+x 2024-01-16 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
