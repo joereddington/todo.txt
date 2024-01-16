@@ -1,5 +1,3 @@
-(C) 05 Buy some other prison books
-    * Get the list of them 
 (E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
     * Open the drawer 
 (E) 06 Open list of projects to be funded +EQT
