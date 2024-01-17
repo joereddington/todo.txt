@@ -1,5 +1,4 @@
-(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-    * Open the drawer 
+x 2024-01-17 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 06 Open list of projects to be funded +EQT
     * Open the link in google drive 
 (D) 07 Setup the next set of OVF emails

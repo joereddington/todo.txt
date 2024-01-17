@@ -196,3 +196,4 @@ x 2024-01-12 05 Show Nova the granny email on laptop
 x 2024-01-12 05 Write Moonpig cards for this month +Overhead
 x 2024-01-12 06 Floss +Health @nova  Time:05
 x 2024-01-12 10 Put the other lights on Nova's bike 
+x 2024-01-17 20 Rewrite for chainmail journalists 
