@@ -47,3 +47,4 @@
     * Run php -S and compare with server 
     * Go one step futher and see if it can be accessed all the way to your system from outside. 
 (C) Backup the AWS servers through dashboard
+(E) For next chainmail day - there are notes and plans on the 16th Jan
