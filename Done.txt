@@ -200,3 +200,4 @@ x 2024-01-17 20 Rewrite for chainmail journalists
 x 2024-01-28 Move bed 
 x 2024-01-28 06 Buy Kat flowers
 x 2024-01-28 Check retro games thing is working 
+x 2024-01-28 60 Reformat Nova's Laptop 
