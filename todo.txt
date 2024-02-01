@@ -12,7 +12,6 @@
 (E) 20 Watch home videos on bigdisk 
 (E) 25 Write a 1,000 words on the physics book 
 (E) 50 Edit the long lost pictures
-(E) Check how long ago you wrote the facebook post about News and update it
 (E) Check how well the spare laptop works
 (E) Find a new game for PS4 
 (E) Find out about Leo's football
