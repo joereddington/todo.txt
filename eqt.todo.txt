@@ -49,3 +49,4 @@
 (C) Backup the AWS servers through dashboard
 (E) For next chainmail day - there are notes and plans on the 16th Jan
 (E) Find out how to have multiple firefoxs and nautilises on different workspaces
+(E) Update WWW library - we are getting close to 300 books 
