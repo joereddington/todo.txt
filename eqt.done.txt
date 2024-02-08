@@ -3619,3 +3619,7 @@ x 2024-02-08 06 Open list of projects to be funded +EQT
 x 2024-02-08 07 Setup the next set of OVF emails
 x 2024-02-08 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
 x 2024-02-08 20 Commit a code review with chat GPT for the code in chainmail
+x 2024-02-08 20 Write the script for syncing IMPS3 
+x 2024-02-08 20 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-02-08 Find out how to have multiple firefoxs and nautilises on different workspaces
+x 2024-02-08 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
