@@ -1,5 +1,7 @@
 x 2024-02-08 06 Open list of projects to be funded +EQT
 (D) 07 Setup the next set of OVF emails
+    * Fix the school issues 
+    * Check the number sent 
     * Lookup the number send in Gmail 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
     * Find the bit of delores
