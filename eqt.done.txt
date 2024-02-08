@@ -3615,3 +3615,7 @@ x 2024-01-13 Search for funding for eQuality Time Projects +EQT
 x 2024-01-15 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 x 2024-01-16 15 Publish a post about the recent primary school book for the Website and the  WWW facebook page +EQT @nova @phone  Time:10 
 x 2024-01-17 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-02-08 06 Open list of projects to be funded +EQT
+x 2024-02-08 07 Setup the next set of OVF emails
+x 2024-02-08 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
+x 2024-02-08 20 Commit a code review with chat GPT for the code in chainmail

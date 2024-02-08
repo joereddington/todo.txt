@@ -1,8 +1,3 @@
-x 2024-02-08 06 Open list of projects to be funded +EQT
-(D) 07 Setup the next set of OVF emails
-    * Fix the school issues 
-    * Check the number sent 
-    * Lookup the number send in Gmail 
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
     * Find the bit of delores
 (C FB) 10 Fix Trustee address  +EQT
@@ -15,10 +10,6 @@ x 2024-02-08 06 Open list of projects to be funded +EQT
     * Look at the last few 
 (E) 15 Review starred items in feeds +Overhead +EQT
     * Open the page
-(E) 20 Add RHUL to watson (and also proper personal todo list) - we'll score those seperately 
-  * Ten minutes code
-(E) 20 Commit a code review with chat GPT for the code in chainmail
-  * This is actually the first thing for a chainmail day 
 (E) 20 Post to WWW facebook page +EQT  @phone   
     * There's a book today
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
@@ -42,8 +33,7 @@ x 2024-02-08 06 Open list of projects to be funded +EQT
     * Download it and send to kindle for ipad 
 (C) 30 Chainmail Contact all previous schools
     * Find the old code and update it for cm2 
-(C) 20 Check that IMPS will run locally and that it can sync up.  +EQT
-    * Clone the repo 
+(C) 20 Write the script for syncing IMPS3 
     * Run the scripts for syncronisation
     * Run php -S and compare with server 
     * Go one step futher and see if it can be accessed all the way to your system from outside. 
