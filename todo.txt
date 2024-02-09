@@ -21,6 +21,8 @@
 (E) Take cordless hoveer to the car 
 (E) Bolt for inside of garage door 
 (E) Start sorting the pit: open it up, get rid of the wood and start removing the mould 
+(E) Talk to Nova about emotional regulation 
+(A) Book karen
 Brace the outside wall. 
 Fix the kitchen window. 
 Overhaul the shed.
