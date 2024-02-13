@@ -3628,3 +3628,4 @@ x 2024-02-13 order book for that university person  +EQT
 x 2024-02-13 10 Map newsletter project
 x 2024-02-13 Backup the AWS servers through dashboard
 x 2024-02-13 15 Review starred items in feeds +Overhead +EQT
+x 2024-02-13 20 Post to WWW facebook page +EQT  @phone   
