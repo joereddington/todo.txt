@@ -1,7 +1,6 @@
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
     * Find the bit of delores
 (C FB) 10 Fix Trustee address  +EQT
-x 2024-02-13 10 Map newsletter project
 (E) 10 Post an introduction to the AAC facebook group 
 (C) 10 Run the OBZ archive command and save to an external drive.  +EQT
     * Lookup the old commands
@@ -23,10 +22,8 @@ x 2024-02-13 10 Map newsletter project
     * Find the notes in index. 
     * Work out how to set the conversation headers
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
-(E) 60 Read the last www book  +EQT
-    * Download it and send to kindle for ipad 
+(E) 60 Read the last www book on kindle  +EQT
 (C) 30 Chainmail Contact all previous schools
     * Find the old code and update it for cm2 
-(C) Backup the AWS servers through dashboard
 (E) For next chainmail day - there are notes and plans on the 16th Jan
 (E) Update WWW library - we are getting close to 300 books 

@@ -3625,3 +3625,5 @@ x 2024-02-08 Find out how to have multiple firefoxs and nautilises on different 
 x 2024-02-08 40 Release a new version of the OVF website (while making sure that we haven't caused a problem with the MEdical device registration)  +public
 x 2024-02-13 20 Run mgit status on the git directory and process all alerts +EQT
 x 2024-02-13 order book for that university person  +EQT
+x 2024-02-13 10 Map newsletter project
+x 2024-02-13 Backup the AWS servers through dashboard
