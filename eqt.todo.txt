@@ -1,8 +1,7 @@
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
     * Find the bit of delores
-(B) order book for that university person  +EQT
 (C FB) 10 Fix Trustee address  +EQT
-(E) 10 Map newsletter project
+x 2024-02-13 10 Map newsletter project
 (E) 10 Post an introduction to the AAC facebook group 
 (C) 10 Run the OBZ archive command and save to an external drive.  +EQT
     * Lookup the old commands
@@ -17,8 +16,6 @@
     * Get the last date from the littlefinger spreadsheet
 (E) 20 Review Google Ads
     * Open the page 
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
-    * Enter the directory
 (E) 20 minutes tidying Google Drive
     * Set a timer and go 
 (D) 30 Investigate automatic follow up emails 
