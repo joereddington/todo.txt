@@ -3629,3 +3629,10 @@ x 2024-02-13 10 Map newsletter project
 x 2024-02-13 Backup the AWS servers through dashboard
 x 2024-02-13 15 Review starred items in feeds +Overhead +EQT
 x 2024-02-13 20 Post to WWW facebook page +EQT  @phone   
+x 2024-02-14 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-02-14 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2024-02-14 Check that IMPS will run locally and that it can sync up.  +EQT
+x 2024-02-14 Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+x 2024-02-14 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-02-14 Read the last www book  +EQT
+x 2024-02-14 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
