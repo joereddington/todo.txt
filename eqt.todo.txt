@@ -1,33 +1,34 @@
-(D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
-  * Make a list of all the information you have. 
-    * There's some really interesting groups that would find it interesting.
-      * Are there any blogs? Find out 
-      * Any good influencers 
-  * Make a list of the steps that you need to carry out
-  * Suggested Headings
-    * SMART goal 
-    * Resources 
-    * TODO 
-    * Follow up projects
+(A) Review all projects on project board
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C FB) 10 Fix Trustee address  +EQT
-(E) 10 Post an introduction to the AAC facebook group 
-(C) scp the ovf backup from  server to disk
-(D) 10 Send CM a Friday Announcements post OVF
-    * Look at the last few 
-(D) 20 Process bank accounts and file expenses claims  +EQT Time:99
-    * Get the last date from the littlefinger spreadsheet
-(E) 20 Review Google Ads
-    * Open the page 
-(E) 20 minutes tidying Google Drive
-    * Set a timer and go 
-(D) 30 Investigate automatic follow up emails 
-    * Pick an old project that you've used. 
-    * Find the notes in index. 
-    * Work out how to set the conversation headers
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
-(E) Look at Google analytics and see if any of the emails produced aids being used
-(E) 60 Read the last www book on kindle  +EQT
 (C) 30 Chainmail Contact all previous schools
-    * Find the old code and update it for cm2 
+(C) Check that IMPS will run locally and that it can sync up.  +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) scp the ovf backup from  server to disk
+(D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
+(D) 10 Send CM a Friday Announcements post OVF
+(D) 20 Process bank accounts and file expenses claims  +EQT Time:99
+(D) 30 Investigate automatic follow up emails 
+(D) Do full accounts algorithm +EQT 
+(E) 10 Post an introduction to the AAC facebook group 
+(E) 20 Review Google Ads
+(E) 20 minutes tidying Google Drive
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
+(E) 60 Read the last www book on kindle  +EQT
+(E) Backup AWS +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
 (E) For next chainmail day - there are notes and plans on the 16th Jan
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Look at Google analytics and see if any of the emails produced aids being used
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Read the last www book  +EQT
+(E) Review starred items in feeds +Overhead +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
 (E) Update WWW library - we are getting close to 300 books 
