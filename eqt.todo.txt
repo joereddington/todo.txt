@@ -1,4 +1,5 @@
 (A) Review all projects on project board
+x 2024-02-14 Send trustees the current 'final' accounts 
 (C FB) 10 Fix Trustee address  +EQT
 (C) 30 Chainmail Contact all previous schools
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT

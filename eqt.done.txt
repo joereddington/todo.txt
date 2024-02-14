@@ -3644,3 +3644,4 @@ x 2024-02-14 Backup AWS +EQT
 x 2024-02-14 Check the next school time +EQT  
 x 2024-02-14 Do full accounts algorithm +EQT 
 x 2024-02-14 20 Review Google Ads
+x 2024-02-14 Send trustees the current 'final' accounts 
