@@ -22,6 +22,6 @@
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
-(E) Review starred items in feeds +Overhead +EQT
+x 2024-02-14 Review starred items in feeds +Overhead +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Update WWW library - we are getting close to 300 books 
