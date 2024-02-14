@@ -7,21 +7,15 @@
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
 (D) 30 Investigate automatic follow up emails 
-(D) Do full accounts algorithm +EQT 
+x 2024-02-14 Do full accounts algorithm +EQT 
 (E) 10 Post an introduction to the AAC facebook group 
 (E) 20 Review Google Ads
 (E) 20 minutes tidying Google Drive
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) 60 Read the last www book on kindle  +EQT
-(E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
 (E) For next chainmail day - there are notes and plans on the 16th Jan
 (E) Look at Google analytics and see if any of the emails produced aids being used
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
-(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
-x 2024-02-14 Review starred items in feeds +Overhead +EQT
-(E) Search for funding for eQuality Time Projects +EQT
 (E) Update WWW library - we are getting close to 300 books 
