@@ -1,6 +1,4 @@
-(A) Review all projects on project board
-x 2024-02-14 Send trustees the current 'final' accounts 
-(C FB) 10 Fix Trustee address  +EQT
+(C FB) Ring Charity commisison about account 10 Fix Trustee address  +EQT
 (C) 30 Chainmail Contact all previous schools
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) scp the ovf backup from  server to disk
@@ -8,7 +6,6 @@ x 2024-02-14 Send trustees the current 'final' accounts
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process bank accounts and file expenses claims  +EQT Time:99
 (D) 30 Investigate automatic follow up emails 
-(E) 10 Post an introduction to the AAC facebook group 
 (E) 20 minutes tidying Google Drive
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) 60 Read the last www book on kindle  +EQT
@@ -18,3 +15,9 @@ x 2024-02-14 Send trustees the current 'final' accounts
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Update WWW library - we are getting close to 300 books 
+* Draft Newsletter for public 
+* Download and delete Dropbox 
+* Sprint on OVF 
+* Sprint on IMPS 
+* Ask for help 
+* Read chapter of next book on the list
