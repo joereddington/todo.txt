@@ -1,15 +1,15 @@
 (C FB) Ring Charity commisison about account 10 Fix Trustee address  +EQT
 (C) 30 Chainmail Contact all previous schools
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-02-15 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) scp the ovf backup from  server to disk
 (D) 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 (D) 10 Send CM a Friday Announcements post OVF
-(D) 20 Process bank accounts and file expenses claims  +EQT Time:99
+(D) 20 Export all transactions since 13th October from natwest 
 (D) 30 Investigate automatic follow up emails 
 (E) 20 minutes tidying Google Drive
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) 60 Read the last www book on kindle  +EQT
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-02-15 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) For next chainmail day - there are notes and plans on the 16th Jan
 (E) Look at Google analytics and see if any of the emails produced aids being used
 (E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT

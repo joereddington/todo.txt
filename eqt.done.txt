@@ -3647,3 +3647,5 @@ x 2024-02-14 20 Review Google Ads
 x 2024-02-14 Send trustees the current 'final' accounts 
 x 2024-02-15 10 Post an introduction to the AAC facebook group 
 x 2024-02-15 Review all projects on project board
+x 2024-02-15 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-02-15 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
