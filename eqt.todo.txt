@@ -1,17 +1,17 @@
+(A) Send the new EQT newsletter to people 
+(C) Send the next set of OVF emails 
+(B) Sprint on OVF 
 (C FB) Ring Charity commisison about account 10 Fix Trustee address  +EQT
 (C) 30 Chainmail Contact all previous schools(notes on the 16th Jan) 
 (C) scp the ovf backup from  server to disk
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Export all transactions since 13th October from natwest 
 (D) 30 Investigate automatic follow up emails (notes on the 16th Jan) 
+(D) Sprint on IMPS 
 (E) 20 minutes tidying Google Drive
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  +EQT
 (E) 60 Read the last www book on kindle  +EQT
+(E) Download and delete Dropbox 
 (E) Look at Google analytics and see if any of the emails produced aids being used
+(E) Read chapter of next book on the list
 (E) Update WWW library - we are getting close to 300 books 
-* Draft Newsletter for public 
-* Download and delete Dropbox 
-* Sprint on OVF 
-* Sprint on IMPS 
-* Ask for help 
-* Read chapter of next book on the list
