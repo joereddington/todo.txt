@@ -3652,3 +3652,7 @@ x 2024-02-15 Check that everything in the 'in process' box really does have a ta
 x 2024-02-15 10 Do the project map process about promoting OVF for speech delay  https://github.com/eQualityTime/TheOpenVoiceFactory/
 x 2024-02-15 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 x 2024-02-15 Post to WWW facebook page +EQT  @phone   
+x 2024-02-20 Sprint on OVF 
+x (C) scp the ovf backup from  server to disk
+x 2024-02-20 Sprint on IMPS 
+x 2024-02-20 60 Listen to Randy Pausch Talk +Overhead @phone  +EQT
