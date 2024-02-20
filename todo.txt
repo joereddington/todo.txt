@@ -7,41 +7,42 @@
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Brace the outside wall. 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
 (C) Show Kat Nova's laptop 
 (C) Spend 1 hour arranging things for the wheel of life - making dates that sort of thing
+(C) deploy any commits from OVF that are hanging around. 
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 30 Fix the kitchen window. 
 (D) Check starred messages in kat whatsapp 
+(D) Put the book corrections in. 
+(D) Rewrite book python so that it can generate the inserted files for the next ten files
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 10 Brainstorm group holiday
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20 
 (E) 20 Watch home videos on bigdisk 
-(E) check on apple tv about a  subscription to the daily show  * and last week tonight 
-(E) Fix shower leak,  
 (E) 25 Write a 1,000 words on the physics book 
 (E) 50 Edit the long lost pictures
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
-(E) Do full review of the memory palace. 
+(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
+(E) Do full review of the memory palace. 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find out what the main button is for on your dash cam and check you can extract a video 
+(E) Fix shower leak,  
 (E) Floss +Health   
 (E) Follow up on the 30 seals by bruno and robert fludd
 (E) Get eyes tested
@@ -59,18 +60,19 @@
 (E) Overhaul the shed.
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Rewrite the whole of the birthdays sheet 
 (E) Save a nice family memory +Family @phone    
+(E) TSE +Health  
 (E) Take the Kallex unit upstairs
 (E) Talk to Nova about emotional regulation 
 (E) Trace the bug in delores that gives you everything about processing inbox
 (E) Trim nose hair +Health    
-(E) TSE +Health  
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
+(E) check on apple tv about a  subscription to the daily show  * and last week tonight 
+(E) process Garage inbox. 
