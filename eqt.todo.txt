@@ -5,10 +5,8 @@
 (C) Recommit with public working 
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process all expenses in littlefinger 
-(D) 30 Investigate automatic follow up emails (notes on the 16th Jan) 
 (E) 20 minutes tidying Google Drive
 (E) 60 Read the last www book on kindle  +EQT
 (E) Download and delete Dropbox 
-(E) Look at Google analytics and see if any of the emails produced aids being used
 (E) Read chapter of next book on the list
-(E) Update WWW library - we are getting close to 300 books 
+(E) Remove dud sprints from the WWW library 

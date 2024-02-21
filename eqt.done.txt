@@ -3656,3 +3656,5 @@ x 2024-02-20 Sprint on OVF
 x (C) scp the ovf backup from  server to disk
 x 2024-02-20 Sprint on IMPS 
 x 2024-02-20 60 Listen to Randy Pausch Talk +Overhead @phone  +EQT
+x 2024-02-21 30 Investigate automatic follow up emails (notes on the 16th Jan) 
+x 2024-02-21 Look at Google analytics and see if any of the emails produced aids being used
