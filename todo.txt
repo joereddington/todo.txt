@@ -1,72 +1,29 @@
-(B) Get holiday details from Kat and make a plan 
-(C) Brace the outside wall. 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run mgit status on the git directory and process all alerts
-(C) Show Kat Nova's laptop 
-(C) Spend 1 hour arranging things for the wheel of life - making dates that sort of thing
-(C) deploy any commits from OVF that are hanging around. 
-(D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(D) 20 Draft a pitch message to the writing retreats 
-(D) 30 Fix the kitchen window. 
-(D) Check starred messages in kat whatsapp 
-(D) Put the book corrections in. 
-(D) Rewrite book python so that it can generate the inserted files for the next ten files
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) 03 Check Passports are in the safe
+x 2024-02-22 03 Go through phone and save all of the numbers +Overhead  @phone   
+(D) 03 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) 03 Trim nose hair +Health    
+(E) 03 Vitamin Tablet +Health   
+(E) 05 Floss +Health   
+(B) 05 Get holiday details from Kat and make a plan 
 (E) 10 Brainstorm group holiday
+(E) 10 Check ranking scripts +Overhead
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20 
+(E) 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) 10 Go through Garage boxes to find a bolt for the garage door 
+(E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters  
+(E) 10 Properly sort out the keys on keyhooks (include the red tape)   
+(D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(C) 10 Show Kat Nova's laptop 
+(E) 10 Update Goodreads with the current book and your progress +Overhead  @phone  
+(C) 20 Brace the outside wall. 
+(D) 20 Draft a pitch message to the writing retreats 
+(E) 20 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 20 Find out what the main button is for on your dash cam and check you can extract a video 
+(D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
 (E) 20 Watch home videos on bigdisk 
-(E) 25 Write a 1,000 words on the physics book 
-(E) 50 Edit the long lost pictures
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Do full review of the memory palace. 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find out what the main button is for on your dash cam and check you can extract a video 
-(E) Fix shower leak,  
-(E) Floss +Health   
-(E) Follow up on the 30 seals by bruno and robert fludd
-(E) Get eyes tested
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through Garage boxes to find a bolt for the garage door 
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Listen to  Randy Pausch Talk +Overhead @phone 
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make a list of 20 things you can do for Nova's writing and Leo's letters  
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Make sure you have a continual professional developement practice happening 
-(E) Measure the pit for covers 
-(E) Overhaul the shed.
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead  
-(E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Rewrite the whole of the birthdays sheet 
-(E) Save a nice family memory +Family @phone    
-(E) TSE +Health  
-(E) Take the Kallex unit upstairs
-(E) Talk to Nova about emotional regulation 
-(E) Trace the bug in delores that gives you everything about processing inbox
-(E) Trim nose hair +Health    
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
-(E) Write Moonpig cards for this month +Overhead
-(E) check on apple tv about a  subscription to the daily show  * and last week tonight 
-(E) process Garage inbox. 
+(E) 20 process Garage inbox. 
+(E) 25 Get eyes tested and give blood 
+(D) 30 Fix the kitchen window. 
+(D) 30 Put the book corrections in. 
+(E) 30 Rewrite the whole of the birthdays sheet 
+(E) 90 Do full review of the memory palace. 
