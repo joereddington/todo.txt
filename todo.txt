@@ -1,10 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Brainstorm stuff for Richard to do. 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Plan holiday with Kat 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(B) Get holiday details from Kat and make a plan 
 (C) Brace the outside wall. 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) Review and re-score  Wheel Of life
