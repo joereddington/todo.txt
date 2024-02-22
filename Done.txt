@@ -279,3 +279,6 @@ x 2024-02-22 Overhaul the shed.
 x 2024-02-22 Process the 'to put in Evernote' folder and add to database +Overhead  
 x 2024-02-22 Publicly thank someone +Overhead  
 x 2024-02-22 Put the couple feedbacks into the inbox https://github.com/joereddington/Projects-Private/issues/171 
+x 2024-02-22 03 Check Passports are in the safe
+x 2024-02-22 03 Go through phone and save all of the numbers +Overhead  @phone   
+x 2024-02-22 03 Trim nose hair +Health    

@@ -1,7 +1,4 @@
-(E) 03 Check Passports are in the safe
-x 2024-02-22 03 Go through phone and save all of the numbers +Overhead  @phone   
 (D) 03 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(E) 03 Trim nose hair +Health    
 (E) 03 Vitamin Tablet +Health   
 (E) 05 Floss +Health   
 (B) 05 Get holiday details from Kat and make a plan 
