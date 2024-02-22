@@ -9,4 +9,4 @@
 (E) 60 Read the last www book on kindle  +EQT
 (E) Download and delete Dropbox 
 (E) Read chapter of next book on the list
-(E) Remove dud sprints from the WWW library and complete it (write up the how to)  
+x 2024-02-22 Remove dud sprints from the WWW library and complete it (write up the how to)  
