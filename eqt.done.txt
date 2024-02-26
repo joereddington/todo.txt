@@ -3659,3 +3659,4 @@ x 2024-02-20 60 Listen to Randy Pausch Talk +Overhead @phone  +EQT
 x 2024-02-21 30 Investigate automatic follow up emails (notes on the 16th Jan) 
 x 2024-02-21 Look at Google analytics and see if any of the emails produced aids being used
 x 2024-02-22 Remove dud sprints from the WWW library and complete it (write up the how to)  
+x 2024-02-26 Rewrite Newsletter for public 
