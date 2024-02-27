@@ -1,32 +1,34 @@
-(E) 90 Do full review of the memory palace.  +paper
-(E) Re-read the art of memory 
-(E) Get better attachment for the usb stick 
-(E) Create tax deduction project
-(E) Pick a date for having adult friends around 
-(E) Shortlist some replacement toilets for the bathroom 
-(E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
-(E) 25 Pick day for Get eyes tested and give blood  +paper
-(E) 20 process Garage inbox.  +paper
-(E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
-(E) 10 Update Goodreads with the current book and your progress +Overhead  @phone   +paper
-(E) 10 Properly sort out the keys on keyhooks (include the red tape)    +paper
-(E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
-(E) Look up the Buck Rogers game
-(E) 10 Go through Garage boxes to find a bolt for the garage door  +paper
-(E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20  +paper
-(E) 10 Brainstorm group holiday +paper
-(E) Book halfords apointment with car
-(E) 05 Floss +Health    +paper
-(D) 30 Fix the kitchen window.  +paper
-(C) 20 Brace the outside wall.  +paper
-(C) 10 Show Kat Nova's laptop  +paper
+(A) Check phone for aladdin dates 
+(A) Schedule today some time for the fence panel (and giving blood) 
 (B) 05 Get holiday details from Kat and make a plan  +paper
+(C) 10 Show Kat Nova's laptop  +paper
+(C) 20 Brace the outside wall.  +paper
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
+(D) 30 Fix the kitchen window.  +paper
 (D) 30 Put the book corrections in. 
+(E) 05 Floss +Health    +paper
+(E) 10 Brainstorm group holiday +paper
 (E) 10 Check ranking scripts +Overhead
+(E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20  +paper
 (E) 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) 10 Go through Garage boxes to find a bolt for the garage door  +paper
+(E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
+(E) 10 Properly sort out the keys on keyhooks (include the red tape)    +paper
+(E) 10 Update Goodreads with the current book and your progress +Overhead  @phone   +paper
+(E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
 (E) 20 Find out what the main button is for on your dash cam and check you can extract a video 
 (E) 20 Watch home videos on bigdisk 
+(E) 20 process Garage inbox.  +paper
+(E) 25 Pick day for Get eyes tested and give blood  +paper
 (E) 30 Rewrite the whole of the birthdays sheet 
+(E) 90 Do full review of the memory palace.  +paper
+(E) Book halfords apointment with car
+(E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
+(E) Create tax deduction project
+(E) Get better attachment for the usb stick 
+(E) Look up the Buck Rogers game
+(E) Pick a date for having adult friends around 
+(E) Re-read the art of memory 
+(E) Shortlist some replacement toilets for the bathroom 
