@@ -284,3 +284,4 @@ x 2024-02-22 03 Go through phone and save all of the numbers +Overhead  @phone
 x 2024-02-22 03 Trim nose hair +Health    
 x 2024-02-24 03 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 x 2024-02-24 03 Vitamin Tablet +Health   
+x 2024-02-27 Schedule today some time for the fence panel

@@ -1,6 +1,6 @@
-(B) Check phone for aladdin dates 
-(A) Schedule today some time for the fence panel
+x 2024-02-27 Schedule today some time for the fence panel
 (B) 05 Get holiday details from Kat and make a plan  +paper
+(B) Check phone for aladdin dates 
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Brace the outside wall.  +paper
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
