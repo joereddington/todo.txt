@@ -6,6 +6,7 @@
 (D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
 (D) 30 Fix the kitchen window.  +paper
 (D) 30 Put the book corrections in. 
+(D) Map the 'operation education' project
 (E) 05 Floss +Health    +paper
 (E) 10 Brainstorm group holiday +paper
 (E) 10 Check ranking scripts +Overhead

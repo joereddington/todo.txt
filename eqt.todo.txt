@@ -5,6 +5,7 @@
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Map out the new Garfield Weston project 
 (C) Start Flowers for Turing! We don't normally start before may but the students?  
+(C) Set up desktop so you can ssh in remotely 
 (D) 10 Send CM a Friday Announcements post OVF
 (D) 20 Process all expenses in littlefinger 
 (E) 10 Properly review/write the do 'people I can thank' delores because it isn't working out 
