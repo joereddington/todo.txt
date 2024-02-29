@@ -33,3 +33,4 @@
 (E) Re-read the art of memory 
 (E) Shortlist some replacement toilets for the bathroom 
 (E) sort out a new way to backup your photos (on a free dropbox account presumably) 
+(E) Calendar event for a marathon 
