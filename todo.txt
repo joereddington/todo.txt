@@ -33,14 +33,9 @@
 (E) 90 Do full review of the memory palace.  +paper
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Book halfords apointment with car
-(E) Calendar event for a marathon 
 (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Create tax deduction project
 (E) Cut Nova toenails 
 (E) Do Menu for the week +Family  @phone   
@@ -59,7 +54,6 @@
 (E) Make sure you have a continual professional developement practice happening 
 (E) Pick a date for having adult friends around 
 (E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
 (E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
@@ -69,8 +63,5 @@
 (E) Save a nice family memory +Family @phone    
 (E) Shortlist some replacement toilets for the bathroom 
 (E) sort out a new way to backup your photos (on a free dropbox account presumably) 
-(E) Trim nose hair +Health    
 (E) TSE +Health  
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
