@@ -286,3 +286,11 @@ x 2024-02-24 03 Send something to the grandparent whatsapp group  https://github
 x 2024-02-24 03 Vitamin Tablet +Health   
 x 2024-02-27 Schedule today some time for the fence panel
 x 2024-02-27 Check phone for aladdin dates 
+x 2024-02-29 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-02-29 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2024-02-29 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+x 2024-02-29 deploy any commits from OVF that are hanging around. 
+x 2024-02-29 10 Update Goodreads with the current book and your progress +Overhead  @phone   +paper
+x 2024-02-29 Check wishlist
+x 2024-02-29 Cut nails +Health    
+x 2024-02-29 Give laptop screen a good clean +Overhead
