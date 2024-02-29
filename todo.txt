@@ -1,13 +1,15 @@
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (A) Write packing list for marathon 
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Order mother's day cards
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Brace the outside wall.  +paper
+(C) Get Zip tie for usb stick on 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
+(C) Set up a mailing list for books 
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
@@ -26,8 +28,8 @@
 (E) 10 Properly sort out the keys on keyhooks (include the red tape)    +paper
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
 (E) 20 Find out what the main button is for on your dash cam and check you can extract a video 
-(E) 20 process Garage inbox.  +paper
 (E) 20 Watch home videos on bigdisk 
+(E) 20 process Garage inbox.  +paper
 (E) 25 Pick day for Get eyes tested and give blood  +paper
 (E) 30 Rewrite the whole of the birthdays sheet 
 (E) 90 Do full review of the memory palace.  +paper
@@ -35,7 +37,7 @@
 (E) Book halfords apointment with car
 (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
 (E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2024-02-29 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Create tax deduction project
 (E) Cut Nova toenails 
 (E) Do Menu for the week +Family  @phone   
@@ -43,9 +45,8 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
-(C) Get Zip tie for usb stick on 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
+x 2024-02-29 Go through phone and save all of the numbers +Overhead  @phone   
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look up the Buck Rogers game
@@ -54,7 +55,6 @@
 (E) Make sure you have a continual professional developement practice happening 
 (E) Pick a date for having adult friends around 
 (E) Post to Sibling Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
 (E) Re-read the art of memory 
@@ -62,6 +62,7 @@
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Shortlist some replacement toilets for the bathroom 
-(E) sort out a new way to backup your photos (on a free dropbox account presumably) 
 (E) TSE +Health  
 (E) Write Moonpig cards for this month +Overhead
+(E) process Garage inbox. 
+(E) sort out a new way to backup your photos (on a free dropbox account presumably) 
