@@ -1,11 +1,10 @@
-(A) Write packing list for marathon 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Order mother's day cards
+(B) Check Order mother's day cards
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Brace the outside wall.  +paper
-(C) Get Zip tie for usb stick on 
+x 2024-03-05 Get Zip tie for usb stick on 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
