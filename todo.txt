@@ -1,13 +1,13 @@
+(A) Sort out the drainage in the car 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Check Order mother's day cards
+(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Message a bunch of people about Nova birthdya party 
+(B) Rearrange Podcast date
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Brace the outside wall.  +paper
 (C) Review and re-score  Wheel Of life
-(E) Make the box sorting sheet
-(E) print out the cooking/kitchen algorithm (include clearing out the fridge) 
-(D) Write meal plan
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
 (C) Set up a mailing list for books 
@@ -19,6 +19,7 @@
 (D) Check starred messages in kat whatsapp 
 (D) Map the 'operation education' project
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) Write meal plan
 (E) 05 Floss +Health    +paper
 (E) 10 Brainstorm group holiday +paper
 (E) 10 Check ranking scripts +Overhead
@@ -48,10 +49,12 @@
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Look up my notes from the wikipedia editing  
 (E) Look up the Buck Rogers game
 (E) Make a new date for the podcast
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Make sure you have a continual professional developement practice happening 
+(E) Make the box sorting sheet
 (E) Pick a date for having adult friends around 
 (E) Post to Sibling Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
@@ -63,5 +66,8 @@
 (E) Shortlist some replacement toilets for the bathroom 
 (E) TSE +Health  
 (E) Write Moonpig cards for this month +Overhead
+(E) Write the blog post about the half-marathon 
+(E) Write the stages of spiral out: include working late  
+(E) print out the cooking/kitchen algorithm (include clearing out the fridge) 
 (E) process Garage inbox. 
 (E) sort out a new way to backup your photos (on a free dropbox account presumably) 
