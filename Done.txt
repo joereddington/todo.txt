@@ -307,3 +307,5 @@ x 2024-02-29 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2024-02-29 Go through phone and save all of the numbers +Overhead  @phone   
 x 2024-03-05 Write packing list for marathon 
 x 2024-03-05 Get Zip tie for usb stick on 
+x 2024-03-06 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-03-06 Check Order mother's day cards
