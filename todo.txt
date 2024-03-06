@@ -4,8 +4,10 @@
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Brace the outside wall.  +paper
-x 2024-03-05 Get Zip tie for usb stick on 
 (C) Review and re-score  Wheel Of life
+(E) Make the box sorting sheet
+(E) print out the cooking/kitchen algorithm (include clearing out the fridge) 
+(D) Write meal plan
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
 (C) Set up a mailing list for books 
