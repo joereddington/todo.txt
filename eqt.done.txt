@@ -3660,3 +3660,5 @@ x 2024-02-21 30 Investigate automatic follow up emails (notes on the 16th Jan)
 x 2024-02-21 Look at Google analytics and see if any of the emails produced aids being used
 x 2024-02-22 Remove dud sprints from the WWW library and complete it (write up the how to)  
 x 2024-02-26 Rewrite Newsletter for public 
+x 2024-03-06 10 Send CM a Friday Announcements post OVF
+x 2024-02-27 15 Social media post about grant funding 

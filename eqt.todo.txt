@@ -1,17 +1,16 @@
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(A) Post signed accounts
 (A) Gratitude post 
-(C) Update Cash Flow 
+(A) Post signed accounts
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Send the new EQT newsletter to people 
+(C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
 (C) 10 Recommit with public working 
 (C) 20 Send the next set of OVF emails 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
-(C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
 (C) Map out the new Garfield Weston project 
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Set up desktop so you can ssh in remotely 
 (C) Start Flowers for Turing! We don't normally start before may but the students?  
-(D) 10 Send CM a Friday Announcements post OVF
+(C) Update Cash Flow 
 (D) 20 Process all expenses in littlefinger 
 (D) Do full accounts algorithm +EQT 
 (E) 10 Properly review/write the do 'people I can thank' delores because it isn't working out 
@@ -32,4 +31,3 @@
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-x 2024-02-27 15 Social media post about grant funding 
