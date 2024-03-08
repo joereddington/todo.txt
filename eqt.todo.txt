@@ -1,4 +1,5 @@
 (A) Gratitude post 
+(C) Create the port forwarding so that you can serve pages from your desktop
 (A) Post signed accounts
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Send the new EQT newsletter to people 
