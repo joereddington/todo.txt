@@ -1,12 +1,9 @@
 (A) Sort out the drainage in the car 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Message a bunch of people about Nova birthday party 
 (B) Rearrange Podcast date
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
-(C) 20 Brace the outside wall.  +paper
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) 20 Get out the tools and screws for bracing the outside wall.  +paper
 (C) Run mgit status on the git directory and process all alerts
 (C) Set up a mailing list for books 
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
@@ -16,33 +13,25 @@
 (D) 30 Put the book corrections in. 
 (D) Check starred messages in kat whatsapp 
 (D) Map the 'operation education' project
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Write meal plan
-(E) 05 Floss +Health    +paper
 (E) 10 Brainstorm group holiday +paper
-(E) 10 Check ranking scripts +Overhead
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20  +paper
 (E) 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
-(E) 10 Properly sort out the keys on keyhooks (include the red tape)    +paper
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
 (E) 20 Find out what the main button is for on your dash cam and check you can extract a video 
 (E) 20 Watch home videos on bigdisk 
 (E) 20 process Garage inbox.  +paper
-(E) 25 Pick day for Get eyes tested and give blood  +paper
 (E) 30 Rewrite the whole of the birthdays sheet 
 (E) 90 Do full review of the memory palace.  +paper
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Book halfords apointment with car
 (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
-(E) Check ranking scripts +Overhead
 (E) Create tax deduction project
-(E) Cut Nova toenails 
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
@@ -52,14 +41,12 @@
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Make sure you have a continual professional developement practice happening 
 (E) Make the box sorting sheet
-(E) Pick a date for having adult friends around 
 (E) Post to Sibling Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Shortlist some replacement toilets for the bathroom 
 (E) TSE +Health  
 (E) Write Moonpig cards for this month +Overhead
 (E) Write the blog post about the half-marathon 
