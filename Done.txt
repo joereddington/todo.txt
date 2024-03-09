@@ -309,3 +309,5 @@ x 2024-03-05 Write packing list for marathon
 x 2024-03-05 Get Zip tie for usb stick on 
 x 2024-03-06 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2024-03-06 Check Order mother's day cards
+x 2024-03-09 10 Buy bolt for garage dor 
+x 2024-03-09 Re-read the art of memory 
