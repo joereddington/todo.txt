@@ -8,7 +8,7 @@
 (C) Check the signup page on joereddington.com and add into the kindle version. 
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
-(D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
+(D) 20 Test the next five constants and see how wee need to test the generation 
 (D) 30 Fix the kitchen window.  +paper
 (D) 30 Put the book corrections in. 
 (D) Check starred messages in kat whatsapp 
