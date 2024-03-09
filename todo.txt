@@ -5,7 +5,7 @@
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
 (C) Run mgit status on the git directory and process all alerts
-(C) Set up a mailing list for books 
+(C) Check the signup page on joereddington.com and add into the kindle version. 
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 20 Rewrite book python so that it can generate the inserted files for the next ten files
@@ -33,7 +33,6 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look up my notes from the wikipedia editing  
 (E) Look up the Buck Rogers game
