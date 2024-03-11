@@ -1,4 +1,5 @@
 x 2024-03-11 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(C) Run mgit status on the git directory and process all alerts
 (B) Send the new EQT newsletter to people 
 (C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
 (C) 10 Recommit with public working 

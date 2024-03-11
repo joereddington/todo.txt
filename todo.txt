@@ -1,22 +1,15 @@
-(B) Do meal planning for the kids
-x 2024-03-11 Message a bunch of people about Nova birthday party 
+(B) Look through the cupboards to check we have the ingredients  
 (B) Rearrange Podcast date
 (B) Sort out the drainage in the car 
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
-(C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
-(C) Check the signup page on joereddington.com and add into the kindle version. 
-(C) Run mgit status on the git directory and process all alerts
-(D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+(E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
-(D) 20 Test the next five constants and see how wee need to test the generation 
+(D) 20 Book - copy the next five templates over to the includes file and see what they look like  
 (D) 30 Fix the kitchen window.  +paper
-(D) 30 Put the book corrections in. 
-(D) Check starred messages in kat whatsapp 
-(D) Map the 'operation education' project
-(D) Write meal plan
+(D) 30 Put the remaining book corrections in. 
+(D) 10 Map the 'operation education' project
 (E) 10 Brainstorm group holiday +paper
-(E) 10 Empty whatsapp and facebook inboxes. +Overhead Time:20  +paper
 (E) 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
@@ -40,14 +33,11 @@ x 2024-03-11 Message a bunch of people about Nova birthday party
 (E) Make a contacts card for neighbours 
 (E) Make a new date for the podcast
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
-(E) Make sure you have a continual professional developement practice happening 
 (E) Make the box sorting sheet
 (E) Post to Sibling Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
 (E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
 (E) Write Moonpig cards for this month +Overhead
 (E) Write the blog post about the half-marathon 
