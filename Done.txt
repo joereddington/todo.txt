@@ -326,3 +326,4 @@ x 2024-03-09 Make sure that all open github issues are in  the priority project 
 x 2024-03-09 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 x 2024-03-09 Set up a mailing list for books 
 x 2024-03-09 Log weight +Health   
+x 2024-03-11 Look up sprint triathonls  
