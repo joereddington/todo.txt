@@ -1,12 +1,12 @@
+(A) Do meal planning for the kids
 (A) Sort out the drainage in the car 
 (B) Message a bunch of people about Nova birthday party 
-x 2024-03-11 Look up sprint triathonls  
 (B) Rearrange Podcast date
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
-(C) Run mgit status on the git directory and process all alerts
 (C) Check the signup page on joereddington.com and add into the kindle version. 
+(C) Run mgit status on the git directory and process all alerts
 (D) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 20 Test the next five constants and see how wee need to test the generation 
@@ -27,7 +27,6 @@ x 2024-03-11 Look up sprint triathonls
 (E) 90 Do full review of the memory palace.  +paper
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Book halfords apointment with car
-(E) Make a contacts card for neighbours 
 (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
 (E) Create tax deduction project
 (E) Do Menu for the week +Family  @phone   
@@ -38,6 +37,7 @@ x 2024-03-11 Look up sprint triathonls
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look up my notes from the wikipedia editing  
 (E) Look up the Buck Rogers game
+(E) Make a contacts card for neighbours 
 (E) Make a new date for the podcast
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Make sure you have a continual professional developement practice happening 
