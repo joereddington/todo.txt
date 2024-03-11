@@ -1,7 +1,7 @@
-(A) Do meal planning for the kids
-(A) Sort out the drainage in the car 
-(B) Message a bunch of people about Nova birthday party 
+(B) Do meal planning for the kids
+x 2024-03-11 Message a bunch of people about Nova birthday party 
 (B) Rearrange Podcast date
+(B) Sort out the drainage in the car 
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
 (C) 10 Show Kat Nova's laptop  +paper
 (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
