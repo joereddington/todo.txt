@@ -6,6 +6,8 @@
 (C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
 (C) 10 Recommit with public working 
 (C) 20 Send the next set of OVF emails 
+(C) Make the WWW site form collect for a mailing list
+(E) Get yourself another monitor from the garage 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Map out the new Garfield Weston project 
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
