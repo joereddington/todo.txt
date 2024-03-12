@@ -3678,3 +3678,7 @@ x 2024-03-12 Ring up every funder currently funding you and be nice to them and 
 x 2024-03-12 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-03-12 20 Make the WWW site form collect for a mailing list
 x 2024-03-12 10 Remap the dropbox project and work out next action .  
+x 2024-03-12 10 Review starred items in feeds +Overhead +EQT
+x 2024-03-12 15 Search for funding for eQuality Time Projects +EQT
+x 2024-03-12 20 Download and delete Dropbox (See  ## 22/02/24 08:37 to 08:50, +EQT Dropbox )
+x 2024-03-12 40 Read the last www book  +EQT
