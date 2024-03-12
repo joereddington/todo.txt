@@ -3682,3 +3682,6 @@ x 2024-03-12 10 Review starred items in feeds +Overhead +EQT
 x 2024-03-12 15 Search for funding for eQuality Time Projects +EQT
 x 2024-03-12 20 Download and delete Dropbox (See  ## 22/02/24 08:37 to 08:50, +EQT Dropbox )
 x 2024-03-12 40 Read the last www book  +EQT
+x 2024-03-12 20 Run mgit status on the git directory and process all alerts
+x 2024-03-12 10 Create the port forwarding so that you can serve pages from your desktop
+x 2024-03-12 60 Do full accounts algorithm +EQT 
