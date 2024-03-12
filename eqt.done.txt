@@ -3687,3 +3687,5 @@ x 2024-03-12 10 Create the port forwarding so that you can serve pages from your
 x 2024-03-12 60 Do full accounts algorithm +EQT 
 x 2024-03-12 05 Post to WWW facebook page +EQT  @phone   
 x 2024-03-12 10 Properly review/write the do 'people I can thank' delores because it isn't working out 
+x 2024-03-12 (C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
+x 2024-03-12 60 Process all expenses in littlefinger 
