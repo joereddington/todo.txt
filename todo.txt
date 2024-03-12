@@ -11,10 +11,9 @@
 (E) 20 process Garage inbox.  +paper
 (E) 30 Rewrite the whole of the birthdays sheet 
 (E) 90 Do full review of the memory palace.  +paper
-(E) Book halfords apointment with car
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Write the stages of spiral out: include working late  
+(E) 10 Book halfords apointment with car
+(E) 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 Kitchen (B) 10 Look through the cupboards to check we have the ingredients  
 Kitchen (E) Do Menu for the week +Family  @phone   
 Outside (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
@@ -25,5 +24,5 @@ Paper (E) 10 Make a list of 20 things you can do for Nova's writing and Leo's le
 Paper (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
 Phone (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
 Phone (E) Empty whatsapp and facebook inboxes. +Overhead  
-Standing (E) Empty Joe inbox completely +Overhead    
-Standing (E) Make a contacts card for neighbours 
+Standing (E) 10 Empty Joe inbox completely +Overhead    
+Standing (E) 05 Make a contacts card for neighbours 
