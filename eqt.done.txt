@@ -3676,3 +3676,5 @@ x 2024-03-12 Open list of projects to be funded +EQT
 x 2024-03-12 Rewrite the www form to include a mention of 'we'll email you a couple of times a year' 
 x 2024-03-12 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-03-12 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-03-12 20 Make the WWW site form collect for a mailing list
+x 2024-03-12 10 Remap the dropbox project and work out next action .  
