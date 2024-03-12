@@ -3685,3 +3685,5 @@ x 2024-03-12 40 Read the last www book  +EQT
 x 2024-03-12 20 Run mgit status on the git directory and process all alerts
 x 2024-03-12 10 Create the port forwarding so that you can serve pages from your desktop
 x 2024-03-12 60 Do full accounts algorithm +EQT 
+x 2024-03-12 05 Post to WWW facebook page +EQT  @phone   
+x 2024-03-12 10 Properly review/write the do 'people I can thank' delores because it isn't working out 
