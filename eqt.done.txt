@@ -3662,3 +3662,12 @@ x 2024-02-22 Remove dud sprints from the WWW library and complete it (write up t
 x 2024-02-26 Rewrite Newsletter for public 
 x 2024-03-06 10 Send CM a Friday Announcements post OVF
 x 2024-02-27 15 Social media post about grant funding 
+x 2024-03-11 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-03-11 Gratitude post 
+x 2024-03-11 Post signed accounts
+x 2024-03-12 Check the next school time +EQT  
+x 2024-03-12 Download the amazon months sales figures +EQT
+x 2024-03-12 Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+x 2024-03-12 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-03-12 Set up desktop so you can ssh in remotely 
+x 2024-03-12 Start Flowers for Turing! We don't normally start before may but the students?  

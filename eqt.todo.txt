@@ -1,4 +1,3 @@
-x 2024-03-11 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) Run mgit status on the git directory and process all alerts
 (B) Send the new EQT newsletter to people 
 (C FB) Ring Charity commission about account (0300 066 9197 during our opening hours of 9am to 5pm Monday to Friday. )10 Fix Trustee address  +EQT
@@ -6,11 +5,9 @@ x 2024-03-11 Make sure the github issues are in the right columns +Overhead http
 (C) 20 Send the next set of OVF emails 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Create the port forwarding so that you can serve pages from your desktop
-(C) Make the WWW site form collect for a mailing list
+(C) 20 Make the WWW site form collect for a mailing list
 (C) Map out the new Garfield Weston project 
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Set up desktop so you can ssh in remotely 
-(C) Start Flowers for Turing! We don't normally start before may but the students?  
 (C) Update Cash Flow 
 (D) 20 Process all expenses in littlefinger 
 (D) Do full accounts algorithm +EQT 
@@ -20,12 +17,8 @@ x 2024-03-11 Make sure the github issues are in the right columns +Overhead http
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Read the last www book on kindle  +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
 (E) Get the other hard drive and move the dropbox.zip onto it.  
 (E) Get yourself another monitor from the garage 
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Read chapter of next book on the list
@@ -34,5 +27,3 @@ x 2024-03-11 Make sure the github issues are in the right columns +Overhead http
 (E) Rewrite the www form to include a mention of 'we'll email you a couple of times a year' 
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
-x 2024-03-11 Gratitude post 
-x 2024-03-11 Post signed accounts
