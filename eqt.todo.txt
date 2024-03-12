@@ -6,24 +6,19 @@
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Create the port forwarding so that you can serve pages from your desktop
 (C) 20 Make the WWW site form collect for a mailing list
-(C) Map out the new Garfield Weston project 
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Update Cash Flow 
+(C) 10 Map out the new Garfield Weston project 
+(C) 15 Update Cash Flow 
 (D) 20 Process all expenses in littlefinger 
-(D) Do full accounts algorithm +EQT 
+(D) 60 Do full accounts algorithm +EQT 
 (E) 10 Properly review/write the do 'people I can thank' delores because it isn't working out 
 (E) 20 Download and delete Dropbox (See  ## 22/02/24 08:37 to 08:50, +EQT Dropbox )
 (E) 20 minutes tidying Google Drive
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Read the last www book on kindle  +EQT
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Get the other hard drive and move the dropbox.zip onto it.  
+(E) 10 Remap the dropbox project and work out next action .  
 (E) Get yourself another monitor from the garage 
-(E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
-(E) Read chapter of next book on the list
-(E) Read the last www book  +EQT
-(E) Review starred items in feeds +Overhead +EQT
-(E) Rewrite the www form to include a mention of 'we'll email you a couple of times a year' 
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
+(E) 05 Post to WWW facebook page +EQT  @phone   
+(E) 30 Read chapter of next book on the list
+(E) 40 Read the last www book  +EQT
+(E) 10 Review starred items in feeds +Overhead +EQT
+(E) 15 Search for funding for eQuality Time Projects +EQT
