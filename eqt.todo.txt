@@ -1,10 +1,8 @@
 (B) 30 Send the new EQT newsletter to people 
 (E) 30 Read chapter of the python book or start again 
-(E) Fix the tiled calendar
-(C) Advertise for more trustees 
+(E) Update the Annual leave sheet and see if it fixes the calendar 
+(C) Put a Linkedin/facebook post out for trustees and lookup were you adversited last time 
 (C) 10 Map out the new Garfield Weston project 
-(C) 10 Recommit with public working 
-(C) 15 Update Cash Flow 
 (C) 20 Send the next set of OVF emails 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (E) 20 minutes tidying Google Drive
