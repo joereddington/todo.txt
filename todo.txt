@@ -25,8 +25,6 @@
 (E) Finish the blog about blinds 
 (E) Put shiela on the family sharing whatsapp. 
 (E) Take the material of the blind(s) and slightly bend it for entry 
-Kitchen (B) 10 Look through the cupboards to check we have the ingredients  
-Kitchen (E) Do Menu for the week +Family  @phone   
 Outside (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
 Outside (D) 30 Fix the kitchen window.  +paper
 Outside (E) 10 Find out what the main button is for on your dash cam and check you can extract a video 

@@ -352,3 +352,5 @@ x 2024-03-12 sort out a new way to backup your photos (on a free dropbox account
 x 2024-03-12 Process the 'to put in Evernote' folder and add to database +Overhead  
 x 2024-03-12 Make the box sorting sheet
 x 2024-03-12 Write the stages of spiral out: include working late  
+x 2024-03-18 Kitchen (B) 10 Look through the cupboards to check we have the ingredients  
+x 2024-03-18 Kitchen (E) Do Menu for the week +Family  @phone   
