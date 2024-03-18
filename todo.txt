@@ -24,7 +24,6 @@
 (E) 90 Do full review of the memory palace.  +paper
 (E) Finish the blog about blinds 
 (E) Put shiela on the family sharing whatsapp. 
-(E) Take the material of the blind(s) and slightly bend it for entry 
 Outside (C) 20 Get out the tools and screws for bracing the outside wall.  +paper
 Outside (D) 30 Fix the kitchen window.  +paper
 Outside (E) 10 Find out what the main button is for on your dash cam and check you can extract a video 
@@ -32,6 +31,4 @@ Paper (E) 10 Brainstorm group holiday +paper
 Paper (E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
 Paper (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
 Phone (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
-Phone (E) Empty whatsapp and facebook inboxes. +Overhead  
 Standing (E) 05 Make a contacts card for neighbours 
-Standing (E) 10 Empty Joe inbox completely +Overhead    
