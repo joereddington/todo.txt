@@ -357,3 +357,5 @@ x 2024-03-18 Kitchen (E) Do Menu for the week +Family  @phone
 x 2024-03-18 Take the material of the blind(s) and slightly bend it for entry 
 x 2024-03-18 Phone (E) Empty whatsapp and facebook inboxes. +Overhead  
 x 2024-03-18 Standing (E) 10 Empty Joe inbox completely +Overhead    
+x 2024-03-20 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-03-20 Fix sounds on Nova's laptop 
