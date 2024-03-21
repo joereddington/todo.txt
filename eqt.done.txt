@@ -3694,3 +3694,14 @@ x 2024-03-13 15 Update Cash Flow
 x 2024-03-13 10 Update the Annual leave sheet and see if it fixes the calendar 
 x 2024-03-13 10 Post an advert for trustees to the trustee finding websites
 x 2024-03-13 06 Get yourself another monitor from the garage 
+x 2024-03-21 Ring garfield weston about bank details 
+x 2024-03-21 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-03-21 20 Send the next set of OVF emails 
+x 2024-03-21 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-03-21 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2024-03-21 Do full accounts algorithm +EQT 
+x 2024-03-21 Test usb charging on laptop 
+x 2024-03-21 Check the next school time +EQT  
+x 2024-03-21 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-03-21 Backup AWS +EQT
+x 2024-03-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
