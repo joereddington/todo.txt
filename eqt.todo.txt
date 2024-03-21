@@ -1,4 +1,5 @@
 (A) Call the nest pension people 
+(C) Test usb charging on laptop 
 (A) Ring garfield weston about bank details 
 (B) 30 Send the new EQT newsletter to people 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
