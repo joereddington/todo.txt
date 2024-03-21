@@ -3705,3 +3705,4 @@ x 2024-03-21 Check the next school time +EQT
 x 2024-03-21 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-03-21 Backup AWS +EQT
 x 2024-03-21 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-03-21 Download the amazon months sales figures +EQT
