@@ -1,15 +1,18 @@
+
+
+
 (A) Arranging shipping for toilet (two 49kg parcels)  
-(C) Fix loft ladder 
-(C) Sort out the wikipedia videos 
 (A) Party bag for Nova 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) 05 Rearrange Podcast date
+x 2024-03-29 05 Rearrange Podcast date
 (B) 10 Come up with other options for Ikea 
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
+(C) Fix loft ladder 
 (C) Make Nova a sticker chart - include watch, tidy floor.    
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts
+(C) Sort out the wikipedia videos 
 (C) Work out what you need to buy to replace the door locks 
 (C) Write Invites for games night
 (C) deploy any commits from OVF that are hanging around. 
@@ -23,7 +26,6 @@
 (E) 30 Rewrite the whole of the birthdays sheet 
 (E) 90 Do full review of the memory palace.  +paper
 (E) Do Menu for the week +Family  @phone   
-(E) Find out what age Nova's car seat is valid from 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
