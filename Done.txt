@@ -397,3 +397,10 @@ x 2024-03-23 20 Book - copy the next five templates over to the includes file an
 x 2024-03-29 Find out what age Nova's car seat is valid from 
 x 2024-03-29 05 Rearrange Podcast date
 x 2024-03-30 30 Rewrite the whole of the birthdays sheet 
+x 2024-04-03 Fix loft ladder 
+x 2024-04-03 Make Nova a sticker chart - include watch, tidy floor.    
+x 2024-04-03 Work out what you need to buy to replace the door locks 
+x 2024-04-03 deploy any commits from OVF that are hanging around. 
+x 2024-04-03 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-04-03 Run mgit status on the git directory and process all alerts
+x 2024-04-03 10 Map the 'operation education' project

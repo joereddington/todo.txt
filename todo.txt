@@ -1,19 +1,12 @@
 (A) Arranging shipping for toilet (two 49kg parcels)  
-  * Measure them 
 (A) Party bag for Nova 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 10 Come up with other options for Ikea 
 (C) 10 Brainstorm things to do on Devon Holiday +EQT
-(C) Fix loft ladder 
-(C) Make Nova a sticker chart - include watch, tidy floor.    
+(C) Time with Nova and watch
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run mgit status on the git directory and process all alerts
-(C) Sort out the wikipedia videos 
-(C) Work out what you need to buy to replace the door locks 
-(C) Write Invites for games night
-(C) deploy any commits from OVF that are hanging around. 
-(D) 10 Map the 'operation education' project
+(C) 20 Process the wikipedia videos on tower 
+(C) 10 Write Invites for games night
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 30 Put the remaining book corrections in. 
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
