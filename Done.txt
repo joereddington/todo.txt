@@ -404,3 +404,6 @@ x 2024-04-03 deploy any commits from OVF that are hanging around.
 x 2024-04-03 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2024-04-03 Run mgit status on the git directory and process all alerts
 x 2024-04-03 10 Map the 'operation education' project
+x 2024-04-03 10 Come up with other options for Ikea Wall is 320 wide. Air con unit is 123 from one wall, 119 from the window wall, and 78 wide. It needs 40 cm clearance from the top.
+x 2024-04-03 10 Brainstorm things to do on Devon Holiday +EQT
+x 2024-04-03 Review and re-score  Wheel Of life
