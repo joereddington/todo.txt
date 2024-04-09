@@ -2,6 +2,7 @@
 (A) 20 Call the nest pension people 
 (B) 05 Call back and email oana who is trying to have a phone conversation 
 (B) 30 Send the new EQT newsletter to people 
+(E) Remove Sarah from Dropbox/drive
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Map out the new Garfield Weston project 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
