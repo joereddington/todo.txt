@@ -1,6 +1,3 @@
-x 2024-04-09 04 Measure the walkway for return as well(!)
-x 2024-04-09 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-x 2024-04-09 Arranging shipping for toilet (two 49kg parcels)  
 (A) Party bag for Nova 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
@@ -10,8 +7,6 @@ x 2024-04-09 Arranging shipping for toilet (two 49kg parcels)
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Spend time with Nova learning about a watch 
-(C) deploy any commits from OVF that are hanging around. 
 (D) 10 Set up alexa routines for when away.  +phone 
 (D) 20 Draft a pitch message to the writing retreats 
 (D) 30 Put the remaining book corrections in. 
@@ -26,36 +21,14 @@ x 2024-04-09 Arranging shipping for toilet (two 49kg parcels)
 (E) 20 Watch home videos on bigdisk 
 (E) 20 process Garage inbox.  +paper
 (E) 90 Do full review of the memory palace.  +paper
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing. 
 (E) Make sure you have a continual professional developement practice happening 
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead  
-(E) Publicly thank someone +Overhead  
-(E) Put shiela on the family sharing whatsapp. 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead
-(E) TSE +Health  
-(E) Trim nose hair +Health    
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
 (E) Watch all the watchlist videos
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
@@ -66,4 +39,3 @@ Paper (E) 10 Brainstorm group holiday +paper
 Paper (E) 10 Make a list of 20 things you can do for Nova's writing and Leo's letters   +paper
 Paper (E) Carefully think if you want these in your ten year plan - You really want to do the Wikipedia thing and the comic thing and I think both are cool 
 Phone (E) 20 Empty whatsapp and facebook inboxes. +Overhead   @phone  +paper
-Standing (E) 05 Make a contacts card for neighbours 
