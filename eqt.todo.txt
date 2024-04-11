@@ -2,11 +2,8 @@
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (B) 10 Map out the new Garfield Weston project 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
-x 2024-04-11 03 Check if external hard drive works on your tower machine 
 (D) 15 Generate more OVF emails 
-(E) 10 Find out who runs this and email them: https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/marketing-msc/
 (E) 10 Setup recording desktop on laptop
-(E) 20 minutes tidying Google Drive
 (E) 30 Fix the 'click for debugging information' always being present
 (E) 30 Read chapter of Lizzies book on Kindle 
 (E) 30 Write post about WWW schools and then Process Social media processing
