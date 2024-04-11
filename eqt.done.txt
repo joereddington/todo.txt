@@ -3722,3 +3722,8 @@ x 2024-04-11 Check the next school time +EQT
 x 2024-04-11 Find out about mapping tower's hard drive so that I can use it from my macbook 
 x 2024-04-11 x 2024-04-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2024-04-11 Open list of projects to be funded +EQT
+x 2024-04-11 Search for funding for eQuality Time Projects +EQT
+x 2024-04-11 Update all the links in https://docs.google.com/document/d/1j8TiJwkBV9GuTf1xRwdTjPQ71wCfwE14CsOuYjtt220/edit?pli=1 
+x 2024-04-11 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-04-11 Post to WWW facebook page +EQT  @phone   
+x 2024-04-11 10 Review No Wrong Door Open Innovation Challenge 
