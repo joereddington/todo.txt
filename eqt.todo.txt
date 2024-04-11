@@ -1,9 +1,5 @@
 (A) 10 Open the taxes document and then send accounts to charity commision! 
-(A) 20 Call the nest pension people 
-(B) 05 Call back and email oana who is trying to have a phone conversation 
 (B) 30 Send the new EQT newsletter to people 
-(E) Remove Sarah from Dropbox/drive
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Map out the new Garfield Weston project 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Plug external hard drive into macbook and check the dropbox stuff (particularly eqt)  
@@ -17,14 +13,10 @@
 (E) 30 Write post about WWW schools and then Process Social media processing
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Open Kindle to read the last WWW book
-(E) Buy a reasonable length USB-C cable 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Find out about mapping tower's hard drive so that I can use it from my macbook 
-(E) Find out about new OSX 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
-(E) Read the last www book  +EQT
+(E) Read the last www book (on your kindle)  +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Update all the links in https://docs.google.com/document/d/1j8TiJwkBV9GuTf1xRwdTjPQ71wCfwE14CsOuYjtt220/edit?pli=1 
+(E) Work out PowerPoint 
+(E) Review No Wrong Door Open Innovation Challenge 

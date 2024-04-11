@@ -3712,3 +3712,13 @@ x 2024-03-21 Post to WWW facebook page +EQT  @phone
 x 2024-03-21 Review starred items in feeds +Overhead +EQT
 x 2024-03-21 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-03-21 Search for funding for eQuality Time Projects +EQT
+x 2024-04-11 20 Call the nest pension people 
+x 2024-04-11 05 Call back and email oana who is trying to have a phone conversation 
+x 2024-04-11 Remove Sarah from Dropbox/drive
+x 2024-04-11 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-04-11 Find out about new OSX 
+x 2024-04-11 Buy a reasonable length USB-C cable 
+x 2024-04-11 Check the next school time +EQT  
+x 2024-04-11 Find out about mapping tower's hard drive so that I can use it from my macbook 
+x 2024-04-11 x 2024-04-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-04-11 Open list of projects to be funded +EQT
