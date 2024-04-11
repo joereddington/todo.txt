@@ -1,8 +1,7 @@
 (D) 03 Check if external hard drive works on your tower machine 
-(E) 04 Add this to the t-shirt sales company  a project for  https://www.myfundingcentral.co.uk/Scheme/View/CISI-Future-Foundation-GRUKBP3!S51997?search=db7cbf5a375f4067987e28e61b15fc57&cdp=5&cip=10&bcr=MTIzOQ 
 (E) 10 Find out who runs this and email them: https://www.royalholloway.ac.uk/studying-here/postgraduate/business-and-management/marketing-msc/
 (C) 10 Map out the new Garfield Weston project 
-(A) 10 Open the taxes document and then send accounts to charity commision! 
+(A) 30 Open the taxes document and send the details to HMRC 
 (E) 10 Setup recording desktop on laptop
 (D) 15 Generate more OVF emails 
 (E) 20 minutes tidying Google Drive
@@ -16,5 +15,4 @@
 (E) 60 Open Kindle to read the last WWW book
 (E) 60 Take a short course in PowerPoint 
 (D) Do full accounts algorithm +EQT 
-(C) Plug external hard drive into macbook and check the dropbox stuff (particularly eqt)  
-(C) Test after the sudo yum update 
+(C) 10 Plug external hard drive into macbook and check the dropbox stuff (particularly eqt)  

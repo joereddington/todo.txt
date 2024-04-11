@@ -3727,3 +3727,5 @@ x 2024-04-11 Update all the links in https://docs.google.com/document/d/1j8TiJwk
 x 2024-04-11 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-04-11 Post to WWW facebook page +EQT  @phone   
 x 2024-04-11 10 Review No Wrong Door Open Innovation Challenge 
+x 2024-04-11 Test after the sudo yum update 
+x 2024-04-11 04 Add this to the t-shirt sales company  a project for  https://www.myfundingcentral.co.uk/Scheme/View/CISI-Future-Foundation-GRUKBP3!S51997?search=db7cbf5a375f4067987e28e61b15fc57&cdp=5&cip=10&bcr=MTIzOQ 
