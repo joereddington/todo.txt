@@ -3729,3 +3729,6 @@ x 2024-04-11 Post to WWW facebook page +EQT  @phone
 x 2024-04-11 10 Review No Wrong Door Open Innovation Challenge 
 x 2024-04-11 Test after the sudo yum update 
 x 2024-04-11 04 Add this to the t-shirt sales company  a project for  https://www.myfundingcentral.co.uk/Scheme/View/CISI-Future-Foundation-GRUKBP3!S51997?search=db7cbf5a375f4067987e28e61b15fc57&cdp=5&cip=10&bcr=MTIzOQ 
+x 2024-04-11 30 Open the taxes document and send the details to HMRC 
+x 2024-04-11 Do full accounts algorithm +EQT 
+x 2024-04-11 03 Check if external hard drive works on your tower machine 
