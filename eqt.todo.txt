@@ -1,13 +1,13 @@
-(B) 30 Send the new EQT newsletter to people 
-(D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (B) 10 Map out the new Garfield Weston project 
+(B) 30 Send the new EQT newsletter to people 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
+(D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 15 Generate more OVF emails 
 (E) 10 Setup recording desktop on laptop
 (E) 30 Fix the 'click for debugging information' always being present
 (E) 30 Read chapter of Lizzies book on Kindle 
 (E) 30 Write post about WWW schools and then Process Social media processing
 (E) 40 Chainmail for contacting all former teachers
-(E) 50 Read the last www book (on your kindle)  +EQT
+x 2024-04-16 50 Read the last www book (on your kindle)  +EQT
 (E) 60 Open Kindle to read the last WWW book
 (E) 60 Take a short course in PowerPoint 
