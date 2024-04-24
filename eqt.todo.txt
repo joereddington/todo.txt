@@ -1,13 +1,12 @@
-(B) 10 Map out the new Garfield Weston project 
-(C) Find new work chair  (or JUST  buy another one 
+x 2024-04-24 Do the Ask about Luton schools on Facebook! 
+x 2024-04-24 10 Map out the new Garfield Weston project 
 (B) 30 Send the new EQT newsletter to people 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Find new work chair  (or JUST  buy another one 
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 15 Generate more OVF emails 
-(D) Do full accounts algorithm +EQT 
+(D) 60 Do full accounts algorithm +EQT 
 (E) 10 Setup recording desktop on laptop
 (E) 30 Fix the 'click for debugging information' always being present
 (E) 30 Read chapter of Lizzies book on Kindle 
@@ -16,13 +15,8 @@
 (E) 60 Open Kindle to read the last WWW book
 (E) 60 Take a short course in PowerPoint 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Read the last www book  +EQT
 (E) Review starred items in feeds +Overhead +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
-(E) Search for funding for eQuality Time Projects +EQT
+(E) Find someone at RHUL for either Supertitle or Digital Local Heros 

@@ -3737,3 +3737,10 @@ x 2024-04-11 20 minutes tidying Google Drive
 x 2024-04-11 20 minutes tidying Google Drive
 x 2024-04-16 50 Read the last www book (on your kindle)  +EQT
 x 2024-04-16 50 Read the last www book (on your kindle)  +EQT
+x 2024-04-24 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-04-24 Download the amazon months sales figures +EQT
+x 2024-04-24 Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+x 2024-04-24 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-04-24 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2024-04-24 Check the next school time +EQT  
+x 2024-04-24 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
