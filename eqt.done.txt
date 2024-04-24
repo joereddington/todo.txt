@@ -3744,3 +3744,6 @@ x 2024-04-24 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2024-04-24 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-04-24 Check the next school time +EQT  
 x 2024-04-24 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-04-24 Do the Ask about Luton schools on Facebook! 
+x 2024-04-24 10 Map out the new Garfield Weston project 
+x 2024-04-24 Check that IMPS will run locally and that it can sync up.  +EQT

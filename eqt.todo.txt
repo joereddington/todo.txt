@@ -1,8 +1,5 @@
-x 2024-04-24 Do the Ask about Luton schools on Facebook! 
-x 2024-04-24 10 Map out the new Garfield Weston project 
 (B) 30 Send the new EQT newsletter to people 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
-(C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Find new work chair  (or JUST  buy another one 
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 15 Generate more OVF emails 
