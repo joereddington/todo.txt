@@ -1,6 +1,7 @@
 (B) 30 Send the new EQT newsletter to people 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Find new work chair  (or JUST  buy another one 
+(C) Run mgit status on the git directory and process all alerts +EQT 
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 15 Generate more OVF emails 
 (D) 60 Do full accounts algorithm +EQT 
@@ -11,9 +12,8 @@
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Open Kindle to read the last WWW book
 (E) 60 Take a short course in PowerPoint 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-04-26 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Find someone at RHUL for either Supertitle or Digital Local Heros 
 (E) Open list of projects to be funded +EQT
-(E) Post to WWW facebook page +EQT  @phone   
 (E) Read the last www book  +EQT
 (E) Review starred items in feeds +Overhead +EQT
-(E) Find someone at RHUL for either Supertitle or Digital Local Heros 
