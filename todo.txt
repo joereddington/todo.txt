@@ -3,20 +3,15 @@
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Get Leo car seat  (they will be group 3 but we want the same as Nova 
 (C) 10 Write Invites for games night but check date with Kat first 
-x 2024-04-26 20 Process the wikipedia videos on tower: 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT 
-(D) 10 Set up alexa routines for when away.  +phone 
 (D) 20 Draft a pitch message to the writing retreats 
-(D) Check starred messages in kat whatsapp 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 03 Login to storcard on Kat's phone 
 (E) 10 Get screwdriver and Fix the runners on the drawer under the bed 
-(E) 10 Make notes about the beach holiday and send to Kat 
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) 15 Start looking for a new monitor 
 (E) 20 Watch home videos on bigdisk 
 (E) 20 process Garage inbox.  +paper
 (E) 90 Do full review of the memory palace.  +paper
@@ -24,7 +19,7 @@ x 2024-04-26 20 Process the wikipedia videos on tower:
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
+x 2024-04-26 Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
