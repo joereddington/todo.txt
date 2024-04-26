@@ -438,3 +438,10 @@ x 2024-04-10 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advi
 x 2024-04-10 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 x 2024-04-10 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 x 2024-04-10 Standing (E) 05 Make a contacts card for neighbours 
+x 2024-04-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-04-26 Contact the guy about the K-mix 
+x 2024-04-26 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2024-04-26 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+x 2024-04-26 deploy any commits from OVF that are hanging around. 
+x 2024-04-26 30 Put the remaining book corrections in. 
+x 2024-04-26 Check Passports are in the safe
