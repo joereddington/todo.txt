@@ -3748,3 +3748,6 @@ x 2024-04-24 Do the Ask about Luton schools on Facebook!
 x 2024-04-24 10 Map out the new Garfield Weston project 
 x 2024-04-24 Check that IMPS will run locally and that it can sync up.  +EQT
 x 2024-04-26 Post to WWW facebook page +EQT  @phone   
+x 2024-05-01 30 Send the new EQT newsletter to people 
+x 2024-04-26 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-05-01 30 Write post about WWW schools and then Process Social media processing
