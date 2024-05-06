@@ -1,18 +1,26 @@
 (A) Send out trustee email about next week's meeting. 
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Respond to kirsties thing 
 (C) 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 (C) Find new work chair  (or JUST  buy another one 
 (C) Run mgit status on the git directory and process all alerts +EQT 
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 15 Generate more OVF emails 
 (D) 60 Do full accounts algorithm +EQT 
+(D) Do full accounts algorithm +EQT 
 (E) 10 Setup recording desktop on laptop
 (E) 30 Fix the 'click for debugging information' always being present
 (E) 30 Read chapter of Lizzies book on Kindle 
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Open Kindle to read the last WWW book
 (E) 60 Take a short course in PowerPoint 
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
 (E) Find someone at RHUL for either Supertitle or Digital Local Heros 
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
 (E) Read the last www book  +EQT
 (E) Review starred items in feeds +Overhead +EQT
-(B) Respond to kirsties thing 
+(E) Search for funding for eQuality Time Projects +EQT
