@@ -3764,3 +3764,4 @@ x 2024-05-07 Make sure the github issues are in the right columns +Overhead http
 x 2024-05-07 Respond to kirsties thing 
 x 2024-05-07 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
 x 2024-05-07 60 Take a short course in PowerPoint 
+x 2024-05-07 Post to WWW facebook page +EQT  @phone   
