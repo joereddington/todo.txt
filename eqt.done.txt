@@ -3751,3 +3751,11 @@ x 2024-04-26 Post to WWW facebook page +EQT  @phone
 x 2024-05-01 30 Send the new EQT newsletter to people 
 x 2024-04-26 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-05-01 30 Write post about WWW schools and then Process Social media processing
+x 2024-05-07 Send out trustee email about next week's meeting. 
+x 2024-05-07 Do full accounts algorithm +EQT 
+x 2024-05-07 Check the next school time +EQT  
+x 2024-05-07 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-05-07 Open list of projects to be funded +EQT
+x 2024-05-07 Read the last www book  +EQT
+x 2024-05-07 15 Generate more OVF emails 
+x 2024-05-07 Search for funding for eQuality Time Projects +EQT
