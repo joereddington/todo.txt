@@ -3759,3 +3759,8 @@ x 2024-05-07 Open list of projects to be funded +EQT
 x 2024-05-07 Read the last www book  +EQT
 x 2024-05-07 15 Generate more OVF emails 
 x 2024-05-07 Search for funding for eQuality Time Projects +EQT
+x 2024-05-07 Run mgit status on the git directory and process all alerts +EQT 
+x 2024-05-07 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-05-07 Respond to kirsties thing 
+x 2024-05-07 30 Open the 'All schools we worked with' sheet on 'teacher contact details' and fill out the missing ones from email
+x 2024-05-07 60 Take a short course in PowerPoint 

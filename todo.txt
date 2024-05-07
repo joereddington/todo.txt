@@ -46,3 +46,4 @@ x 2024-05-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 (E) 10 process Garage inbox. 
 (E) 03 share your gift policy on the social networks.    @phone 
 (E) Make a proper chart of the 
+(E) Fix history code so that it records the dates that you didn't go to bbc at all. 
