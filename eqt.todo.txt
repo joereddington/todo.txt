@@ -12,4 +12,5 @@
 (E) 60 Open Kindle to read the last WWW book
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Find someone at RHUL for either Supertitle or Digital Local Heros 
+(E) Fix Vision
 (E) Review starred items in feeds +Overhead +EQT
