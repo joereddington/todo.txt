@@ -1,7 +1,7 @@
 (A) Book tickets for tomorrow 
 (A) 60 Respond to the GA review 
 (A) buy things for a Party bag for Nova 
-(C) 10 Review and re-score  Wheel Of life
+(C) 30 Plan the next 90 days for wheel of life 
 (C) 10 Year plan: check you have 5 projects in each part
 (E) 06 Floss +Health   
 (E) Setup the chainmail for the writing retreats
@@ -16,7 +16,6 @@
 (E) 10 process Garage inbox. 
 (E) 15 Draft blog post for the lair project
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
-(E) 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 20 Create Memory palace for the constants for yourself 
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
