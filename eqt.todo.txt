@@ -1,14 +1,12 @@
 (A) Empty inbox 
-(C) Find new work chair  (or JUST  buy another one 
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Set up donations page on the Flowers For Turing Website
 (C) Setup the email for all teachers we've ever worked with 
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
 (D) 60 Do full accounts algorithm +EQT 
-(E) 10 Setup recording desktop on laptop
 (E) 30 OVF - Fix the 'click for debugging information' always being present
 (E) 40 Chainmail for contacting all former teachers
 (E) 60 Open Kindle to read the last WWW book
-(E) Find someone at RHUL for either Supertitle or Digital Local Heros 
+(E) Search for  someone at RHUL for either Supertitle or Digital Local Heros 
 (E) Badger mum about statement of support 
-(E) Fix Vision
+(E) Clone Vision and see what the errors are 

@@ -3769,3 +3769,5 @@ x 2024-05-08 Pick day for doing onto campus
 x 2024-05-08 Review starred items in feeds +Overhead +EQT
 x 2024-05-08 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-05-08 Find new work chair  (or JUST  buy another one 
+x 2024-05-09 Find new work chair  (or JUST  buy another one 
+x 2024-05-09 10 Setup recording desktop on laptop
