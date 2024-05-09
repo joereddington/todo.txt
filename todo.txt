@@ -1,5 +1,4 @@
 (A) Book tickets for tomorrow 
-x 2024-05-09 30 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (A) 60 Respond to the GA review 
 (A) buy things for a Party bag for Nova 
 (C) 10 Review and re-score  Wheel Of life
@@ -15,12 +14,10 @@ x 2024-05-09 30 process emotional todo list. https://github.com/joereddington/Pr
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 10 Try putting the metal grid down in the garage
 (E) 10 process Garage inbox. 
-(E) 15 Clean out Fridge
 (E) 15 Draft blog post for the lair project
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 (E) 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 15 Test importing edited photos from the SD card in camera
-(E) Fix frame for TV 
 (E) 20 Create Memory palace for the constants for yourself 
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Make seiten 
