@@ -23,6 +23,7 @@
 (E) 20 Make seiten 
 (E) 20 Review the passwords in Firefox again 
 (E) 20 Watch home videos on bigdisk 
+(E) Map new camera project
 (E) 30 Cut the shapes in the wood that is for bracing the outside
 (E) 30 Tidy garage 
 (E) 60 Take 100 Photos with camera 
