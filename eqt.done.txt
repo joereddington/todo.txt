@@ -3771,3 +3771,5 @@ x 2024-05-08 Check that everything in the 'in process' box really does have a ta
 x 2024-05-08 Find new work chair  (or JUST  buy another one 
 x 2024-05-09 Find new work chair  (or JUST  buy another one 
 x 2024-05-09 10 Setup recording desktop on laptop
+x 2024-05-13 60 Open Kindle to read the last WWW book
+x 2024-05-12 Clone Vision and see what the errors are 
