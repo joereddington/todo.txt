@@ -21,7 +21,6 @@
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 20 Create Memory palace for the constants for yourself 
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 20 Make seiten 
 (E) 20 Review the passwords in Firefox again 
 (E) 20 Watch home videos on bigdisk 
 (E) 30 Cut the shapes in the wood that is for bracing the outside
@@ -30,4 +29,4 @@
 (E) 90 Do full review of the memory palace.  +paper
 (E) Map new camera project
 (E) Setup the chainmail for the writing retreats
-(E) Put Richard's house phone on the family chat. 
+(E) 02 event Put Richard's house phone on the family chat. 

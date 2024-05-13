@@ -545,3 +545,4 @@ x 2024-05-09 Fix frame for TV
 x 2024-05-09 15 Review your highlights and notes from Kindle books (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 x 2024-05-11 06 Floss +Health   
 x 2024-05-11 Book tickets for tomorrow 
+x 2024-05-13 20 Make seiten 
