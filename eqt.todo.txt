@@ -1,6 +1,7 @@
 (A) Empty inbox 
 (B) Create a new EQuality time newsletter and send it to the people 
 (C) Make a project list for Igor 
+(C) Call these people about the education team https://m.luton.gov.uk/Page/Show/Pages/Call-us.aspx 
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Set up donations page on the Flowers For Turing Website
 (D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe  
