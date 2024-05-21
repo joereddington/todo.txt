@@ -21,7 +21,6 @@
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 20 Create Memory palace for the constants for yourself 
-(E) 20 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Review the passwords in Firefox again 
 (E) 20 Watch home videos on bigdisk 
 (E) 30 Cut the shapes in the wood that is for bracing the outside
@@ -30,9 +29,8 @@
 (E) 90 complete full review of the memory palace.  +paper
 (E) Check next date for giving blood 
 (E) Keep history honest - take apps off phone 
-(E) Note to pick one throw to focus on for each session. 
+(E) Note to pick one throw to focus on for each judo  session. 
 (E) Brainstorm public projects and the best approach to that. 
-(E) Set alarm for leaving for Judo 
 (E) Setup clipboard again 
 (E) Setup the chainmail for the writing retreats
 (E) Tell Nova about something you were scared about but did anyway 

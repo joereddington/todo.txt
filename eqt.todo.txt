@@ -1,8 +1,7 @@
 (B) Create a new EQuality time newsletter and send it to the people 
-(B) Send all the FFT emails 
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22)  @tower
-(D) 10 Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
+(D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
 (D) 30 Process the littlefinger transactions 
 (E) 30 OVF - Fix the 'click for debugging information' always being present
 (E) 03 Look for cable for headphones for tower 
