@@ -8,3 +8,5 @@
 (E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
 (E) Lookup when you are giving the U3A talk 
 (E) Review the cm2_knownteachers emails on @tower  
+(E) Send the OVF emails 
+(E) IMport the known teachers emails 
