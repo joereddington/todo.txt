@@ -1,4 +1,4 @@
-(A) Do Bank payments
+x 2024-05-21 Do Bank payments
 (A) Send all the FFT emails 
 (A) Empty inbox 
 (B) Create a new EQuality time newsletter and send it to the people 
