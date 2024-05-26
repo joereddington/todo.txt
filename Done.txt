@@ -557,3 +557,4 @@ x 2024-05-21 Make a list of repeices you want to try
 x 2024-05-21 10 Do Menu for the week +Family  @phone   
 x 2024-05-21 Write a worried about Richard blog post 
 x 2024-05-21 Setup clipboard again 
+x 2024-05-26 Get Butane out of shed and fill torch 

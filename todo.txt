@@ -1,17 +1,18 @@
-(B) 60 Respond to the GA review 
+(B) 60 Respond to the GA review again 
 (B) buy things for a Party bag for Nova 
 (C) 30 Plan the next 90 days for wheel of life 
 (B) Invite people to 15th June for games night 
 (E) Write an updated 'NOT getting sick' blog post 
-(E) Get Butane out of shed and fill torch 
 (E) 02 event Put Richard's house phone on the family chat. 
+(E) Cut the rest of the grid down in garage 
+(E) 03 Order second grid for gargage  
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Get screwdriver and Fix the runners on the drawer under the bed 
 (E) 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 10 Message Family about dates for Leo birthday 
 (E) 10 Publicly thank someone +Overhead  
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(E) 10 Cut one layer off the metal grid in garage 
+x 2024-05-26 10 Cut one layer off the metal grid in garage 
 (E) 10 process Garage inbox. 
 (E) 15 Export lair whatspp messages 
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
@@ -20,11 +21,10 @@
 (E) 20 Review the passwords in Firefox again 
 (E) 20 Watch home videos on bigdisk 
 (E) 30 Cut the shapes in the wood that is for bracing the outside
-(E) 30 Tidy garage 
+x 2024-05-26 30 Tidy garage 
 (E) 60 Take 100 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
 (E) Note to pick one throw to focus on for each judo  session. 
 (E) Brainstorm public projects and the best approach to that. 
-x 2024-05-21 Setup clipboard again 
 (E) Setup the chainmail for the writing retreats
 (E) Tell Nova about something you were scared about but did anyway 
