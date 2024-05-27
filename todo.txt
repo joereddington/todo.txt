@@ -10,10 +10,9 @@
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Get screwdriver and Fix the runners on the drawer under the bed 
 (E) 10 Message Family about dates for Leo birthday 
-x 2024-05-27 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 15 Export lair whatspp messages 
 (E) 15 Test importing edited photos from the SD card in camera
-(E) 20 Create Memory palace for the constants for yourself 
+(E) 10 Practice the CONSTA grid
 (E) 20 Full plan for the week 
 (E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Review the passwords in Firefox again 
