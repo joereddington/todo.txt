@@ -11,7 +11,7 @@
 (E) 10 Get screwdriver and Fix the runners on the drawer under the bed 
 (E) 10 Message Family about dates for Leo birthday 
 (E) 15 Export lair whatspp messages 
-(E) 15 Test importing edited photos from the SD card in camera
+(E) 20 Test importing edited photos from the SD card in camera
 (E) 10 Practice the CONSTA grid
 (E) 02 Message Karen
 (E) 20 Full plan for the week 
