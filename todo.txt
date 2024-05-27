@@ -8,7 +8,6 @@
 (E) 06 Cut the rest of the grid down in garage 
 (E) 10 Brainstorm public projects and the best approach to that. 
 (E) 10 Do Menu for the week +Family  @phone   
-(E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Get screwdriver and Fix the runners on the drawer under the bed 
 (E) 10 Message Family about dates for Leo birthday 
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
@@ -16,7 +15,6 @@
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 20 Create Memory palace for the constants for yourself 
-(E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Full plan for the week 
 (E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Review the passwords in Firefox again 
@@ -28,15 +26,12 @@
 (E) 02 Check Passports are in the safe
 (C) 20 Create Work timesheet for RHUL 
 (A) 60 Exercise 
-x 2024-05-27 Publicly thank someone +Overhead  
 (C) 20 Review and re-score  Wheel Of life
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-x 2024-05-27 Save a nice family memory +Family @phone    
-x 2024-05-27 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 20 Setup the chainmail for the writing retreats
 (C) Sort out the inbox.md 
-x 2024-05-27 TSE +Health  
-(E) 04 Tell Nova about something you were scared about but did anyway 
+(E) 04 Tell Nova that you got scared that you lost a script
 (E) 10 Write Moonpig cards for this month +Overhead
 (B) 10 buy things for a Party bag for Nova 
 (E) 10 process Garage inbox. 
+(E) Brainstorm proper schedule for iPhone internet and locking away 
