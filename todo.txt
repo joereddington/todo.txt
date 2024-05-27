@@ -12,7 +12,6 @@
 (E) 10 Message Family about dates for Leo birthday 
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 (E) 15 Export lair whatspp messages 
-(E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 20 Create Memory palace for the constants for yourself 
 (E) 20 Full plan for the week 

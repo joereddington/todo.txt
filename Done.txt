@@ -602,3 +602,5 @@ x 2024-05-27 Publicly thank someone +Overhead
 x 2024-05-27 Save a nice family memory +Family @phone    
 x 2024-05-27 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 x 2024-05-27 TSE +Health  
+x 2024-05-27 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
+x 2024-05-27 Check history chart and write blog post 
