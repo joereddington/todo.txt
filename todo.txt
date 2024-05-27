@@ -20,7 +20,7 @@
 (E) 20 Watch home videos on bigdisk 
 (E) 30 Cut the shapes in the wood that is for bracing the outside
 (C) 30 Plan the next 90 days for wheel of life 
-(E) 60 Take 100 Photos with camera 
+(E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
 (E) 02 Check Passports are in the safe
 (C) 20 Create Work timesheet for RHUL 
