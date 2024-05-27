@@ -564,3 +564,13 @@ x 2024-05-27 02 event Put Richard's house phone on the family chat.
 x 2024-05-26 10 Cut one layer off the metal grid in garage 
 x 2024-05-26 30 Tidy garage 
 x 2024-05-27 10 process Garage inbox. 
+x 2024-05-27 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-05-27 10 process Garage inbox. 
+x 2024-05-27 2024-05-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-05-27 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+x 2024-05-27 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+x 2024-05-27 deploy any commits from OVF that are hanging around. 
+x 2024-05-27 Check wishlist
+x 2024-05-27 Check £40 in Wallet +Overhead   @phone 
+x 2024-05-27 Cut Nova and Leo nails +Health    
+x 2024-05-27 Trim nose hair +Health    

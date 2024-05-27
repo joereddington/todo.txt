@@ -1,13 +1,10 @@
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Pick new night for games night 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) buy things for a Party bag for Nova 
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Create Work timesheet for RHUL 
 (C) 30 Plan the next 90 days for wheel of life 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) Review and re-score  Wheel Of life
+(C) Sort out the damn files 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) deploy any commits from OVF that are hanging around. 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -33,11 +30,8 @@
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -62,10 +56,8 @@
 (E) Setup the chainmail for the writing retreats
 (E) TSE +Health  
 (E) Tell Nova about something you were scared about but did anyway 
-(E) Trim nose hair +Health    
+x 2024-05-27 Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
-x 2024-05-27 10 process Garage inbox. 
-x 2024-05-27 2024-05-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
