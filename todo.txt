@@ -1,5 +1,5 @@
 (E) 02 Igor - book holidays 
-(E) 03 Cut nails +Health    
+x 2024-05-27 03 Cut nails +Health    
 (E) 03 Go through phone and save all of the numbers +Overhead  @phone   
 (E) 05 Floss +Health   
 (B) 05 Pick new night for games night 
