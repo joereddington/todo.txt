@@ -1,14 +1,11 @@
 (E) 02 Igor - book holidays 
 (E) 03 Cut nails +Health    
 (E) 03 Go through phone and save all of the numbers +Overhead  @phone   
-(E) 03 Order second grid for gargage  
 (E) 05 Floss +Health   
 (B) 05 Pick new night for games night 
 (D) 06 Clean out Fridge
-(E) 06 Cut the rest of the grid down in garage 
 (E) 10 Brainstorm public projects and the best approach to that. 
 (E) 10 Do Menu for the week +Family  @phone   
-x 2024-05-27 10 Get screwdriver and Fix the runners on the drawer under the bed 
 (E) 10 Get Kat approval for Leo birthdya message 
 (E) 15 Export lair whatspp messages 
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
@@ -19,7 +16,7 @@ x 2024-05-27 10 Get screwdriver and Fix the runners on the drawer under the bed
 (E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Change five passwords via firefox 
 (E) 20 get headphones to watch home videos on bigdisk 
-(E) 30 Cut the shapes in the wood that is for bracing the outside
+(E) 10 Saw a cut into the woodern arch 
 (C) 30 Plan the next 90 days for wheel of life 
 (E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
@@ -32,5 +29,4 @@ x 2024-05-27 10 Get screwdriver and Fix the runners on the drawer under the bed
 (E) 04 Tell Nova that you got scared that you lost a script
 (E) 10 Write Moonpig cards for this month +Overhead
 (B) 10 buy things for a Party bag for Nova 
-(E) 10 process Garage inbox. 
 (E) Brainstorm proper schedule for iPhone internet and locking away 

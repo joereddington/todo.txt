@@ -606,3 +606,7 @@ x 2024-05-27 15 Fix history code so that it records the dates that you didn't go
 x 2024-05-27 Check history chart and write blog post 
 x 2024-05-27 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
 x 2024-05-27 20 Review and re-score  Wheel Of life
+x 2024-05-27 03 Order second grid for gargage  
+x 2024-05-27 06 Cut the rest of the grid down in garage 
+x 2024-05-27 10 Get screwdriver and Fix the runners on the drawer under the bed 
+x 2024-05-27 10 process Garage inbox. 
