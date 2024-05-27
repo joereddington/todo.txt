@@ -588,3 +588,4 @@ x 2024-05-27 Check ranking scripts +Overhead
 x 2024-05-27 Check starred messages in kat whatsapp 
 x 2024-05-27 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2024-05-27 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2024-05-27 Confirm plans for next two weekends.+Overhead @phone   
