@@ -44,7 +44,6 @@
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Igor - book holidays 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Note to pick one throw to focus on for each judo  session. 
 (E) Post to Sibling Facebook group  @phone   
@@ -56,8 +55,5 @@
 (E) Setup the chainmail for the writing retreats
 (E) TSE +Health  
 (E) Tell Nova about something you were scared about but did anyway 
-x 2024-05-27 Trim nose hair +Health    
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 

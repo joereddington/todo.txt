@@ -574,3 +574,6 @@ x 2024-05-27 Check wishlist
 x 2024-05-27 Check £40 in Wallet +Overhead   @phone 
 x 2024-05-27 Cut Nova and Leo nails +Health    
 x 2024-05-27 Trim nose hair +Health    
+x 2024-05-27 Update Goodreads with the current book and your progress +Overhead  @phone   
+x 2024-05-27 Vitamin Tablet +Health   
+x 2024-05-27 Log weight +Health   
