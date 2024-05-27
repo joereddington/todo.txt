@@ -1,12 +1,31 @@
 (B) Create a new EQuality time newsletter and send it to the people 
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22)  @tower
 (D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
 (D) 30 Process the littlefinger transactions 
-(E) 30 OVF - Fix the 'click for debugging information' always being present
+(D) Do full accounts algorithm +EQT 
 (E) 03 Look for cable for headphones for tower 
-(E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
-(E) Lookup when you are giving the U3A talk 
-(E) Review the cm2_knownteachers emails on @tower  
-(E) Send the OVF emails 
+(E) 30 OVF - Fix the 'click for debugging information' always being present
+(E) Backup AWS +EQT
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) IMport the known teachers emails 
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Lookup when you are giving the U3A talk 
+(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+(E) Make sure you have a continual professional developement practice happening  +EQT
+(E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Read the last www book  +EQT
+(E) Review starred items in feeds +Overhead +EQT
+(E) Review the cm2_knownteachers emails on @tower  
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Send the OVF emails 
