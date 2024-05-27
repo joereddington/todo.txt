@@ -9,7 +9,7 @@
 (E) 10 Message Family about dates for Leo birthday 
 (E) 10 Publicly thank someone +Overhead  
 (E) 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
-(E) 10 process Garage inbox. 
+x 2024-05-27 10 process Garage inbox. 
 (E) 15 Export lair whatspp messages 
 (E) 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 (E) 15 Test importing edited photos from the SD card in camera
