@@ -611,3 +611,5 @@ x 2024-05-27 06 Cut the rest of the grid down in garage
 x 2024-05-27 10 Get screwdriver and Fix the runners on the drawer under the bed 
 x 2024-05-27 10 process Garage inbox. 
 x 2024-05-27 03 Cut nails +Health    
+x 2024-05-27 02 Message Karen
+x 2024-05-27 60 Exercise 
