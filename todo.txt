@@ -13,9 +13,10 @@
 (E) 15 Export lair whatspp messages 
 (E) 15 Test importing edited photos from the SD card in camera
 (E) 10 Practice the CONSTA grid
+(E) 02 Message Karen
 (E) 20 Full plan for the week 
 (E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) 20 Review the passwords in Firefox again 
+(E) 20 Change five passwords via firefox 
 (E) 20 Watch home videos on bigdisk 
 (E) 30 Cut the shapes in the wood that is for bracing the outside
 (C) 30 Plan the next 90 days for wheel of life 
@@ -24,7 +25,6 @@
 (E) 02 Check Passports are in the safe
 (C) 20 Create Work timesheet for RHUL 
 (A) 60 Exercise 
-(C) 20 Review and re-score  Wheel Of life
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (E) 20 Setup the chainmail for the writing retreats
 (C) Sort out the inbox.md 

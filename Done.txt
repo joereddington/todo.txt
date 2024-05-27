@@ -605,3 +605,4 @@ x 2024-05-27 TSE +Health
 x 2024-05-27 15 Fix history code so that it records the dates that you didn't go to bbc at all. 
 x 2024-05-27 Check history chart and write blog post 
 x 2024-05-27 10 Review the kat memory palace : https://github.com/joereddington/Projects-Private/issues/165 +PersonalProjects
+x 2024-05-27 20 Review and re-score  Wheel Of life
