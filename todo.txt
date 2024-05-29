@@ -8,6 +8,8 @@
 (E) 02 Igor - book holidays 
 (E) 03 Go through phone and save all of the numbers +Overhead  @phone   
 (E) Process the art of memory forum  
+(E) Write news checking blog post
+(E) Print meal planning thing 
 (E) 04 Tell Nova that you got scared that you lost a script
 (E) 05 Floss +Health   
 (E) 05 - super quick review of the KAt memory palace 
