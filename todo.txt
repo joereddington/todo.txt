@@ -8,6 +8,7 @@
 (E) 02 Igor - book holidays 
 (E) 03 Go through phone and save all of the numbers +Overhead  @phone   
 (E) Process the art of memory forum  
+(E) Rewrite https://joereddington.com/2024/03/20/exploiting-electric-blinds.html 
 (E) Write news checking blog post
 (E) Print meal planning thing 
 (E) 04 Tell Nova that you got scared that you lost a script
