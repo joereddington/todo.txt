@@ -1,5 +1,6 @@
 (B) Create a new EQuality time newsletter and send it to the people 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(C) Do the Journal entry for OVF funds
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
@@ -29,3 +30,4 @@
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send the OVF emails 
+(E) Brainstorm clipboard 
