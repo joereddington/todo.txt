@@ -19,7 +19,6 @@
 (E) 15 Export lair whatspp messages on Tower 
 (E) 20 Change five passwords via firefox 
 (E) 20 get headphones to watch home videos on bigdisk 
-(E) 20 Setup the chainmail for the writing retreats
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
 (E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
