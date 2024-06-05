@@ -7,14 +7,10 @@
 (D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
 (D) 30 Process the littlefinger transactions 
 (D) Do full accounts algorithm +EQT 
-(E) 30 OVF - Fix the 'click for debugging information' always being present
+(C) 30 OVF - Fix the 'click for debugging information' always being presen
 (E) Backup AWS +EQT
 (E) Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Fix issue with copying from terminal 
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) import the known teachers emails 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Lookup when you are giving the U3A talk 
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
 (E) Make sure you have a continual professional developement practice happening  +EQT
