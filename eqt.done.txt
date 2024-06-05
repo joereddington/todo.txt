@@ -3805,3 +3805,5 @@ x 2024-06-05 Run mgit status on the git directory and process all alerts +EQT
 x 2024-06-05 Do the Journal entry for OVF funds
 x 2024-06-05 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 x 2024-06-05 Run backup on tower again 
+x 2024-06-05 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2024-06-05 Search for funding for eQuality Time Projects +EQT
