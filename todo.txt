@@ -13,9 +13,11 @@
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Get Kat approval for Leo birthdya message 
 (E) 10 Practice the CONSTA grid
+(E) Fix kitchen door again 
 (E) 10 Keep sawing the arch 
-(E) Cut the metal grid 
 (E) 10 Write Moonpig cards for this month +Overhead
+(E) Make last bit of pit cover 
+(E) Add British Summer time to history code
 (E) 15 Export lair whatspp messages on Tower 
 (E) 20 Change five passwords via firefox 
 (E) 20 get headphones to watch home videos on bigdisk 
