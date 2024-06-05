@@ -3,24 +3,22 @@
 (C) 30 Plan the next 90 days for wheel of life 
 (D) 06 Clean out Fridge
 (E) Process the art of memory forum  
-x 2024-06-05 Rewrite https://joereddington.com/2024/03/20/exploiting-electric-blinds.html 
-(E) Write news checking blog post
-(E) Print meal planning thing 
+(E) Get the text from Facebook and Write news checking blog post
 (E) 04 Tell Nova that you got scared that you lost a script
 (E) 05 Floss +Health   
 (E) 05 - super quick review of the KAt memory palace 
 (E) 10 Brainstorm public projects and the best approach to that. 
 (E) 10 Do Menu for the week +Family  @phone   
-(E) 10 Get Kat approval for Leo birthdya message 
+(E) 10 Get Kat approval for Leo birthday message 
 (E) 10 Practice the CONSTA grid
-(E) Fix kitchen door again 
+(E) 20 Fix kitchen door again 
 (E) 10 Keep sawing the arch 
 (E) 10 Write Moonpig cards for this month +Overhead
-(E) Make last bit of pit cover 
-(E) Add British Summer time to history code
+(E) 30 Make last bit of pit cover 
+(E) 40 Add British Summer time to history code
 (E) 15 Export lair whatspp messages on Tower 
 (E) 20 Change five passwords via firefox 
-(E) 20 get headphones to watch home videos on bigdisk 
+(E) 20 watch home videos on bigdisk 
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
 (E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper

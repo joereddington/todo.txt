@@ -3783,3 +3783,7 @@ x 2024-05-21 Fix Vision
 x 2024-05-21 Empty inbox 
 x 2024-05-21 Call these people about the education team https://m.luton.gov.uk/Page/Show/Pages/Call-us.aspx 
 x 2024-05-21 Send all the FFT emails 
+x 2024-06-05 Brainstorm clipboard 
+x 2024-06-05 03 Look for cable for headphones for tower 
+x 2024-06-05 Check the next school time +EQT  
+x 2024-06-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  

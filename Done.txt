@@ -627,3 +627,4 @@ x 2024-06-02 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MO
 x 2024-06-03 20 Setup the chainmail for the writing retreats
 x 2024-06-05 Cut the metal grid 
 x 2024-06-05 Rewrite https://joereddington.com/2024/03/20/exploiting-electric-blinds.html 
+x 2024-06-05 Print meal planning thing 
