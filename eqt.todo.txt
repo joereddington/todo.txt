@@ -1,7 +1,7 @@
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 (C) Do the Journal entry for OVF funds
 (C) Run backup on tower again 
-(C) Run mgit status on the git directory and process all alerts +EQT
+x 2024-06-05 Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22)  @tower
 (D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower

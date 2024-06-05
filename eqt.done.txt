@@ -3801,3 +3801,4 @@ x 2024-06-05 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2024-06-05 Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
 x 2024-06-05 Make sure you have a continual professional developement practice happening  +EQT
 x 2024-06-05 Review starred items in feeds +Overhead +EQT
+x 2024-06-05 Run mgit status on the git directory and process all alerts +EQT
