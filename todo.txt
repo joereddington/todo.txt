@@ -22,5 +22,5 @@
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
 (E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
-(E) Brainstorm another work marathon
-(E) Brainstorm proper schedule for iPhone internet and locking away 
+x 2024-06-05 Brainstorm another work marathon
+x 2024-06-05 Brainstorm proper schedule for iPhone internet and locking away 
