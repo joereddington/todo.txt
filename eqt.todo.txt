@@ -1,14 +1,12 @@
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22)  @tower
-(D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
+(D) 10 Run the new Rsync in a screen session 
 (D) 30 Process the littlefinger transactions 
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (E) Backup AWS +EQT
 (E) Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
-(E) import the known teachers emails 
-(E) Lookup when you are giving the U3A talk 
+(E) Work out which cm2_known_teachers script we are using and delete the others 
+(E) 03 Lookup when you are giving the U3A talk 
 (E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
-(E) Post to WWW facebook page +EQT  @phone   
 (E) Read the last www book  +EQT
-(E) Review the cm2_knownteachers emails on @tower  
-(E) Send the OVF emails 
+(E) 40 Send the OVF emails
