@@ -3787,3 +3787,10 @@ x 2024-06-05 Brainstorm clipboard
 x 2024-06-05 03 Look for cable for headphones for tower 
 x 2024-06-05 Check the next school time +EQT  
 x 2024-06-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-06-05 Create a new EQuality time newsletter and send it to the people 
+x 2024-06-05 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-06-05 Send out newsletter 
+x 2024-06-05 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2024-06-05 Open list of projects to be funded +EQT
+x 2024-06-05 Check the next school time +EQT  
+x 2024-06-05 Download the amazon months sales figures +EQT

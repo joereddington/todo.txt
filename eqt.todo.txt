@@ -1,6 +1,3 @@
-(B) Create a new EQuality time newsletter and send it to the people 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Send out newsletter 
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 (C) Do the Journal entry for OVF funds
 (C) Run backup on tower again 
@@ -12,9 +9,8 @@
 (D) Do full accounts algorithm +EQT 
 (E) 30 OVF - Fix the 'click for debugging information' always being present
 (E) Backup AWS +EQT
+(E) Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
-(E) Download the amazon months sales figures +EQT
 (E) Fix issue with copying from terminal 
 (E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) import the known teachers emails 
@@ -23,12 +19,10 @@
 (E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
-(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Read the last www book  +EQT
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review the cm2_knownteachers emails on @tower  
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send the OVF emails 
