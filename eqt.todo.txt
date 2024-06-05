@@ -7,18 +7,15 @@
 (D) 10 A Compare the external drive to bigdisk (and then the other external drive), then reformat it and put it in the safe   @tower
 (D) 30 Process the littlefinger transactions 
 (D) Do full accounts algorithm +EQT 
-(C) 30 OVF - Fix the 'click for debugging information' always being presen
+(C) 30 OVF Create a example that produces a lot of debugging information 
 (E) Backup AWS +EQT
 (E) Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
 (E) import the known teachers emails 
 (E) Lookup when you are giving the U3A talk 
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
-(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Read the last www book  +EQT
-(E) Review starred items in feeds +Overhead +EQT
 (E) Review the cm2_knownteachers emails on @tower  
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Send the OVF emails 

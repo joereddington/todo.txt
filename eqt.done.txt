@@ -3798,3 +3798,6 @@ x 2024-06-05 Check that everything in the 'in process' box really does have a ta
 x 2024-06-05 Fix issue with copying from terminal 
 x 2024-06-05 Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 x 2024-06-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-06-05 Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+x 2024-06-05 Make sure you have a continual professional developement practice happening  +EQT
+x 2024-06-05 Review starred items in feeds +Overhead +EQT
