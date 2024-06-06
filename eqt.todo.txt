@@ -1,6 +1,5 @@
 (C) 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
-(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22)  @tower
-(D) 10 Run the new Rsync in a screen session 
+x 2024-06-06 10 Run the new Rsync in a screen session 
 (D) 30 Process the littlefinger transactions 
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (E) Backup AWS +EQT
