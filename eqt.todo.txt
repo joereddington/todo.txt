@@ -1,4 +1,5 @@
-(B) Work out which cm2_known_teachers script we are using and delete the others 
+(B) Work out why cm2_known teachers isn't creating 
+(B) Officially work out with Richard about emailing some contacts - send some examples
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (C) 40 Send the OVF emails
 (D) 30 Process the littlefinger transactions 
