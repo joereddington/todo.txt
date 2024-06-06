@@ -3812,3 +3812,5 @@ x 2024-06-06 Run the OBZ archive command and save to an external drive.  +EQT (d
 x 2024-06-06 10 Run the new Rsync in a screen session 
 x 2024-06-06 10 Run the new Rsync in a screen session 
 x 2024-06-06 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
+x 2024-06-06 Work out why cm2_known teachers isn't creating emails 
+x 2024-06-06 10 Backup AWS +EQT
