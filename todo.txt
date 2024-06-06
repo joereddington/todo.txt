@@ -1,60 +1,24 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Pick another new night for games night with Kat and then immediately email people 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) 30 Plan the next 90 days for wheel of life 
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (D) 06 Clean out Fridge
-(D) Check starred messages in kat whatsapp 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) Process the art of memory forum  
+(E) Get the text from Facebook and Write news checking blog post
 (E) 04 Tell Nova that you got scared that you lost a script
 (E) 05 Floss +Health   
 (E) 05 - super quick review of the KAt memory palace 
 (E) 10 Brainstorm public projects and the best approach to that. 
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Get Kat approval for Leo birthday message 
-(E) 10 Keep sawing the arch 
 (E) 10 Practice the CONSTA grid
-(E) 10 Write Moonpig cards for this month +Overhead
-(E) 15 Export lair whatspp messages on Tower 
-(E) 20 Change five passwords via firefox 
 (E) 20 Fix kitchen door again 
-(E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
-(E) 20 watch home videos on bigdisk 
+(E) 10 Keep sawing the arch 
+(E) 10 Write Moonpig cards for this month +Overhead
 (E) 30 Make last bit of pit cover 
 (E) 40 Add British Summer time to history code
+(E) 15 Export lair whatspp messages on Tower 
+(E) 20 Change five passwords via firefox 
+(E) 20 watch home videos on bigdisk 
+(E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
 (E) 60 Take 50 Photos with camera 
 (E) 90 complete full review of the memory palace.  +paper
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
-(E) Get the text from Facebook and Write news checking blog post
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
-(E) Process the art of memory forum  
-(E) Publicly thank someone +Overhead  
-(E) Save a nice family memory +Family @phone    
-(E) Trim nose hair +Health    
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
-x 2024-06-05 Brainstorm another work marathon
-x 2024-06-05 Brainstorm proper schedule for iPhone internet and locking away 
