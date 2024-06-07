@@ -3814,3 +3814,5 @@ x 2024-06-06 10 Run the new Rsync in a screen session
 x 2024-06-06 60 One hour working on Igor: full set of tests and then steps to start doing automatic project reminders
 x 2024-06-06 Work out why cm2_known teachers isn't creating emails 
 x 2024-06-06 10 Backup AWS +EQT
+x 2024-06-07 40 Send the OVF emails
+x 2024-06-07 03 Lookup when you are giving the U3A talk 
