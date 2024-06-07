@@ -1,24 +1,22 @@
 (B) 05 Pick another new night for games night with Kat and then immediately email people 
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) 30 Plan the next 90 days for wheel of life 
-(D) 06 Clean out Fridge
+(D) 06 Clean out Fridge @offline
 (E) Process the art of memory forum  
 (E) Get the text from Facebook and Write news checking blog post
-(E) 04 Tell Nova that you got scared that you lost a script
 (E) 05 Floss +Health   
-(E) 05 - super quick review of the KAt memory palace 
-(E) 10 Brainstorm public projects and the best approach to that. 
-(E) 10 Do Menu for the week +Family  @phone   
-(E) 10 Get Kat approval for Leo birthday message 
-(E) 10 Practice the CONSTA grid
-(E) 20 Fix kitchen door again 
-(E) 10 Keep sawing the arch 
+(E) 05 - super quick review of the KAt memory palace  @offline
+(E) 10 Brainstorm public projects and the best approach to that.  @offline
+(E) 10 Get Kat approval for Leo birthday message  @offline
+(E) 10 Practice the CONSTA grid @offline
+(E) 20 Fix kitchen door again  @offline
+(E) 10 Keep sawing the arch  @offline
 (E) 10 Write Moonpig cards for this month +Overhead
-(E) 30 Make last bit of pit cover 
+(E) 30 Make last bit of pit cover  @offline
 (E) 40 Add British Summer time to history code
 (E) 15 Export lair whatspp messages on Tower 
 (E) 20 Change five passwords via firefox 
-(E) 20 watch home videos on bigdisk 
-(E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)  
-(E) 60 Take 50 Photos with camera 
-(E) 90 complete full review of the memory palace.  +paper
+(E) 20 watch home videos on bigdisk @tower
+(E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)   @tower
+(E) 60 Take 50 Photos with camera  @offline
+(E) 90 complete full review of the memory palace.  +paper @offline
