@@ -2,7 +2,7 @@
 (B) 10 Officially work out with Richard about emailing some contacts - send some examples
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (D) 30 Process the littlefinger transactions into expenses 
-(E) 30 Add Project review file to igor 
+(E) 30 Add Project review file to igor @offline
 (E) 50 Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
-(E) 50 Read the last www book  +EQT
+(E) 50 Read the last www book  +EQT  @offline 
 (E) 20 mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
