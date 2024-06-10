@@ -3816,3 +3816,4 @@ x 2024-06-06 Work out why cm2_known teachers isn't creating emails
 x 2024-06-06 10 Backup AWS +EQT
 x 2024-06-07 40 Send the OVF emails
 x 2024-06-07 03 Lookup when you are giving the U3A talk 
+x 2024-06-10 20 mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
