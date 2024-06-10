@@ -1,5 +1,3 @@
-(B) 20 Fix the missing emails for cm2_known teachings
-(B) 10 Officially work out with Richard about emailing some contacts - send some examples
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (D) 30 Process the littlefinger transactions into expenses 
 (E) 30 Add Project review file to igor @offline
