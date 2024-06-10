@@ -636,3 +636,6 @@ x 2024-06-07 Brainstom on writing your book once you catch up with EQT
 x 2024-06-10 30 Plan the next 90 days for wheel of life 
 x 2024-06-10 10 Process the art of memory forum  
 x 2024-06-10 05 Floss +Health   
+x 2024-06-10 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+x 2024-06-10 10 Write Moonpig cards for this month +Overhead
+x 2024-06-10 20 Change five passwords via firefox 
