@@ -3818,3 +3818,6 @@ x 2024-06-07 40 Send the OVF emails
 x 2024-06-07 03 Lookup when you are giving the U3A talk 
 x 2024-06-10 20 mention Supertitle and Digital Local Heros to like, ten, people at RHUL 
 x 2024-06-10 10 Officially work out with Richard about emailing some contacts - send some examples
+x 2024-06-10 Check the next school time +EQT  
+x 2024-06-10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-06-10 Do full accounts algorithm +EQT 

@@ -1,5 +1,8 @@
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 30 OVF Create a example that produces a lot of debugging information 
 (D) 30 Process the littlefinger transactions into expenses 
+x 2024-06-10 Do full accounts algorithm +EQT 
 (E) 30 Add Project review file to igor @offline
 (E) 50 Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
 (E) 50 Read the last www book  +EQT  @offline 
+(E) 10 Post to WWW facebook page +EQT  @phone   
