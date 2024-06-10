@@ -14,7 +14,7 @@
 (E) 03 Get the text from Facebook and draft 20  news checking blog post
 (E) Buy Mark a book present
 (A) Get fathers day card
-(E) 40 Add British Summer time to history code
+x 2024-06-10 40 Add British Summer time to history code
 (E) 15 Add words to the Lair blog post
 (E) 20 watch home videos on bigdisk @tower
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)   @tower
