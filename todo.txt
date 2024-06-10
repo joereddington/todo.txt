@@ -20,10 +20,10 @@
 (E) 20 Take kitchen door off hinges  @offline
 (E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)   @tower
 (E) 20 watch home videos on bigdisk @tower
-(E) 60 Take 50 Photos with camera  @offline
+(E) 04 charge camera @offline
+(E) Add code from laptop to bike post on blog 
 (E) 90 complete full review of the memory palace.  +paper @offline
 (E) Buy Mark a book present
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
