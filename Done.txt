@@ -653,3 +653,6 @@ x 2024-06-10 Go through phone and save all of the numbers +Overhead  @phone
 x 2024-06-10 Log weight +Health   
 x 2024-06-10 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2024-06-10 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+x 2024-06-11 Save a nice family memory +Family @phone    
+x 2024-06-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2024-06-11 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
