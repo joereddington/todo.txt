@@ -1,8 +1,7 @@
 (A) 60 connect the correct spreadsheet and email all the luton schools 
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(C) 30 OVF Create a example that produces a lot of debugging information 
+(C) 30 OVF Look into why the feedback mechanism isn't quite working 
 (D) 30 Process the littlefinger transactions into expenses 
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) 30 Add Project review file to igor @offline
-(E) 50 Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
 (E) 50 Read the last www book  +EQT  @offline 

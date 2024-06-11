@@ -3821,3 +3821,4 @@ x 2024-06-10 10 Officially work out with Richard about emailing some contacts - 
 x 2024-06-10 Check the next school time +EQT  
 x 2024-06-10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-06-10 Do full accounts algorithm +EQT 
+x 2024-06-11 50 Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c9e56aa23bd2f6a1dc0c1ae6e&filename=FYP-intro.pptx&debugging= 
