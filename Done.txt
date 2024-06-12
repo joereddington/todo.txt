@@ -670,3 +670,4 @@ x 2024-06-12 03 Save a nice family memory +Family @phone
 x 2024-06-12 03 measure shelves you want for bedroom 
 x 2024-06-12 10 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2024-06-12 06 Clean out Fridge @offline
+x 2024-06-12 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   

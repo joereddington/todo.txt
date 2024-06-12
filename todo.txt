@@ -1,3 +1,4 @@
+(A) Write gratitude post about how great each day was 
 (A) 10 Get fathers day card @offline
   * put it in the buggy 
 (B) 05 Pick another new night for games night with Kat and then immediately email people 
@@ -10,21 +11,22 @@
 (E) 05 Open Amazon and find a book to buy Mark - the long war would be great 
 (E) 05 Empty Joe inbox completely +Overhead    
 (E) 06 Cut Nova and Leo nails +Health    
-(E) 10 Brainstorm public projects and the best approach to that.  @offline
-(E) 10 Edit the carwheel videos together 
+(E) Try out the the mirror standing desk  (and work out good places in the rest of the house.  I want an option upstairs  
+(E) 20 Extra braces on the Playstation shelves
+(E) 30 Fix the shelves in the garage 
+(E) 10 Brainstorm public projects and the best approach to that.  @offline 
+(E) 10 Send Kat the Carwheel video 
 (E) 10 Get Kat approval for Leo birthday message  @offline
-(E) 10 Get wood for pit 20cm by 76cm by 3 cm
+(E) 10 Get wood for inspection pit 20cm by 76cm by 3 cm
 (E) 10 Keep sawing the arch  @offline
 (E) 10 Post to Vegan Facebook group  @phone   
 (E) 10 Practice the CONSTA grid @offline
 (E) 10 Put viciouscycle on github  Add code from laptop to bike post on blog @online
 (E) 10 Work out plans for next two weekends.+Overhead @phone   
-(E) 15 Add words to the Lair blog post
+(E) 15 Add words to the Lair blog post 
 (E) 20 Add the chart and the update to the news checking blog post
-(E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) 20 Take kitchen door off hinges  @offline
-(E) 20 Update the script for importing images so that it includes the sidecar files (and confirms if they are going to be overwritten, which should never happen but)   @tower
+(E) 20 Sand down kitchen door 
+(E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them
 (E) 20 watch home videos on bigdisk @tower
-(E) 90 complete full review of the memory palace.  +paper @offline
+(E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Brainstorm on things you'd like to save up for 
-(A) Write gratitude post
