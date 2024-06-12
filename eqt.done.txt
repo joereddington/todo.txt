@@ -3825,3 +3825,4 @@ x 2024-06-11 50 Fix this https://theopenvoicefactory.org/fail.html?hash=8f7f830c
 x 2024-06-11 30 OVF Look into why the feedback mechanism isn't quite working 
 x 2024-06-11 10 Post to WWW facebook page +EQT  @phone   
 x 2024-06-11 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-06-12 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  

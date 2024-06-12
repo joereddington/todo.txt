@@ -1,4 +1,6 @@
 (A) 60 connect the correct spreadsheet and email all the luton schools 
 (D) 30 Process the littlefinger transactions into expenses 
+(D) Do full accounts algorithm +EQT 
 (E) 30 Add Project review file to igor @offline
 (E) 50 Read the last www book  +EQT  @offline 
+(E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
