@@ -668,3 +668,5 @@ x 2024-06-12 03 Trim nose hair +Health
 x 2024-06-12 05 Floss +Health   
 x 2024-06-12 03 Save a nice family memory +Family @phone    
 x 2024-06-12 03 measure shelves you want for bedroom 
+x 2024-06-12 10 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-06-12 06 Clean out Fridge @offline

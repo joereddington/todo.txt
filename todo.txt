@@ -1,13 +1,13 @@
 (A) 10 Get fathers day card @offline
-(A) 10 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+  * put it in the buggy 
 (B) 05 Pick another new night for games night with Kat and then immediately email people 
-(C) 08 Review and re-score  Wheel Of life
-(C) 10 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Buy bedroom shelves from B&Q 78.5cm by 49cm (2cm thick, they are 106 up from the bottom if you want to brace)  
-(D) 06 Clean out Fridge @offline
-(E) 04 charge camera @offline
+(C) 08 Review all my A2 notes 
+(C) 10 Check how the annual leave is doing 
+(C) 15 Buy bedroom shelves from B&Q 78.5cm by 49cm (2cm thick, they are 106 up from the bottom if you want to brace)  
+(E) 04 Buy new camera charger
+(E) Start cupboard sorting project 
 (E) 05 - super quick review of the KAt memory palace  @offline
-(E) 05 Buy Mark a book present
+(E) 05 Open Amazon and find a book to buy Mark - the long war would be great 
 (E) 05 Empty Joe inbox completely +Overhead    
 (E) 06 Cut Nova and Leo nails +Health    
 (E) 10 Brainstorm public projects and the best approach to that.  @offline
@@ -27,4 +27,4 @@
 (E) 20 watch home videos on bigdisk @tower
 (E) 90 complete full review of the memory palace.  +paper @offline
 (E) Brainstorm on things you'd like to save up for 
-(E) Write gratitude post
+(A) Write gratitude post
