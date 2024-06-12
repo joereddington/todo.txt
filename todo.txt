@@ -1,8 +1,9 @@
-(E) 02 Vitamin Tablet +Health   
-(E) 03 Measure last two bits of pit cover 
+x 2024-06-12 02 Vitamin Tablet +Health   
+(E) 10 Get wood for pit 20cm by 76cm by 3 cm
 (E) 03 Save a nice family memory +Family @phone    
 (E) 03 Trim nose hair +Health    
 (E) 03 measure shelves you want for bedroom 
+(C) Buy bedroom shelves from B&Q 78.5cm by 49cm (2cm thick, they are 106 up from the bottom if you want to brace)  
 (E) 04 charge camera @offline
 (E) 05 - super quick review of the KAt memory palace  @offline
 (E) 05 Buy Mark a book present
