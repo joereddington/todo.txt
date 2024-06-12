@@ -663,3 +663,8 @@ x 2024-06-12 Check you have ingredients for three levels of keto - salad - scrab
 x 2024-06-12 Do Menu for the week +Family  @phone   
 x 2024-06-12 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2024-06-12 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2024-06-12 02 Vitamin Tablet +Health   
+x 2024-06-12 03 Trim nose hair +Health    
+x 2024-06-12 05 Floss +Health   
+x 2024-06-12 03 Save a nice family memory +Family @phone    
+x 2024-06-12 03 measure shelves you want for bedroom 
