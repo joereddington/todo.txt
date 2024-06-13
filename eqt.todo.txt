@@ -1,16 +1,13 @@
-x 2024-06-12 60 connect the correct spreadsheet and email all the luton schools 
-(A) Another reddit post
-(C) Write a newsletter for subscribers
-(E) Lookup if a weekly pass is cheaper for next week 
-(E) Finish the external drive sync 
-(E) Put dropbox on an external drive and cancel it
+(A) 10 Another reddit post
+(C) 40 Write a newsletter for subscribers
+(E) 10 Lookup if a weekly pass is cheaper for next week  @online
+(E) 20 Finish the external drive sync @offline
+(E) 40 Put dropbox on an external drive and cancel it
 (D) 30 Process the littlefinger transactions into expenses 
-(E) Review oldest policies
-(E) Review actions from last meeting 
-(E) Process git directory 
-(D) Do full accounts algorithm +EQT 
+(E) 20 Review oldest policies @online
+(E) 10 Review actions from last meeting  @online
+(E) 20 Process git directory 
 (E) 30 Add Project review file to igor @offline
 (E) 50 Read the last www book  +EQT  @offline 
-x 2024-06-12 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-Rewrite the top ten on your task list as blog posts.
-(E) Find out why deleting things from history doesn't delete them from the database
+(E) 10 Rewrite the top ten on your task list as blog posts. @online
+(E) 10 Find out why deleting things from history doesn't delete them from the database @online 

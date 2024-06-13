@@ -3826,3 +3826,6 @@ x 2024-06-11 30 OVF Look into why the feedback mechanism isn't quite working
 x 2024-06-11 10 Post to WWW facebook page +EQT  @phone   
 x 2024-06-11 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 x 2024-06-12 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-06-12 60 connect the correct spreadsheet and email all the luton schools 
+x 2024-06-12 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2024-06-13 Do full accounts algorithm +EQT 
