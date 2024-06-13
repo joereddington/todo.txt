@@ -3829,3 +3829,5 @@ x 2024-06-12 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2024-06-12 60 connect the correct spreadsheet and email all the luton schools 
 x 2024-06-12 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-06-13 Do full accounts algorithm +EQT 
+x 2024-06-13 20 Process git directory 
+x 2024-06-13 Put mgitstatus on the laptop
