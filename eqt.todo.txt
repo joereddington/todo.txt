@@ -1,3 +1,4 @@
+(A) Run the CM2 process for known headteachers
 (D) 30 Process the littlefinger transactions into expenses  @online
 (C) 40 Write a newsletter for subscribers @online 
 (A) 10 Another reddit post @online
