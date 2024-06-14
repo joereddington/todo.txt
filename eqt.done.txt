@@ -3832,3 +3832,5 @@ x 2024-06-13 Do full accounts algorithm +EQT
 x 2024-06-13 20 Process git directory 
 x 2024-06-13 Put mgitstatus on the laptop
 x 2024-06-14 10 Find out why deleting things from history doesn't delete them from the database @online 
+x 2024-06-14 10 Lookup if a weekly pass is cheaper for next week  @online
+x 2024-06-14 20 Finish the external drive sync @offline

@@ -13,7 +13,6 @@
 (E) 05 Empty Joe inbox completely +Overhead @offline
 (E) 06 Cut Leo nails +Health     @leo  @offline
 (E) 10 Get wood for inspection pit 20cm by 76cm by 3 cm @offline @leo
-(E) Find charger for drill 
 (E) 20 Put kitchen door back on @offline
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) Setup remote control for air conditioning
