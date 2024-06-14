@@ -1,14 +1,14 @@
-(A) Run the CM2 process for known headteachers
-(D) 30 Process the littlefinger transactions into expenses  @online
-(C) 40 Write a newsletter for subscribers @online 
-(A) 10 Another reddit post @online
-(E) 10 Lookup if a weekly pass is cheaper for next week  @online
-(E) 20 Review oldest policies @online
-(E) 10 Review actions from last meeting  @online
-(E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 10 Find out why deleting things from history doesn't delete them from the database @online 
-(E) 20 Finish the external drive sync @offline
-(E) 40 Put dropbox on an external drive and cancel it @offline
-(E) 30 Add Project review file to igor @offline
-(E) Check if the mirror post appeared when it wasn't supposed to
+(E) 10 Rewrite the top ten on your task list as blog posts. @online
+(E) 10 Review actions from last meeting  @online
+(E) 20 Review oldest policies @online
+(E) 10 Lookup if a weekly pass is cheaper for next week  @online
+(A) 10 Another reddit post @online
+(C) 40 Write a newsletter for subscribers @online 
+(D) 30 Process the littlefinger transactions into expenses  @online
 (E) 50 Read the last www book  +EQT  @offline 
+(E) 30 Add Project review file to igor @offline
+(E) 40 Put dropbox on an external drive and cancel it @offline
+(E) 20 Finish the external drive sync @offline
+(A) Run the CM2 process for known headteachers  @online
+(E) Check if the mirror post appeared when it wasn't supposed to @online
