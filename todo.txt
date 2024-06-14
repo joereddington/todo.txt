@@ -1,7 +1,7 @@
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
 (E) 20 Extra braces on the Playstation shelves @offline (MAYBE  b&Q 
 (A) 10 Get fathers day card @offline @leo 
-(E) 05 - super quick review of the KAt memory palace  @offline
+(E) 05 - Lookup the Kat Memory palace again @online
 (E) 10 Brainstorm public projects and the best approach to that.  @offline 
 (E) 10 Keep sawing the arch  @offline
 (E) 10 Create new physics grid @offline
@@ -14,7 +14,7 @@
 (E) 06 Cut Leo nails +Health     @leo  @offline
 (E) 10 Get wood for inspection pit 20cm by 76cm by 3 cm @offline @leo
 (E) Find charger for drill 
-(E) 20 Sand down kitchen door  @offline
+(E) 20 Put kitchen door back on @offline
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) Setup remote control for air conditioning
 (E) 10 Post to Vegan Facebook group  @phone   @online
