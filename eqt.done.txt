@@ -3831,3 +3831,4 @@ x 2024-06-12 03 Check that everything in the 'in process' box really does have a
 x 2024-06-13 Do full accounts algorithm +EQT 
 x 2024-06-13 20 Process git directory 
 x 2024-06-13 Put mgitstatus on the laptop
+x 2024-06-14 10 Find out why deleting things from history doesn't delete them from the database @online 

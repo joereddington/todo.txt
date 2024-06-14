@@ -1,4 +1,4 @@
-(E) 10 Find out why deleting things from history doesn't delete them from the database @online 
+x 2024-06-14 10 Find out why deleting things from history doesn't delete them from the database @online 
 (E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 10 Review actions from last meeting  @online
 (E) 20 Review oldest policies @online
