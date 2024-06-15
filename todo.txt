@@ -1,27 +1,20 @@
-(E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
-(E) 20 Extra braces on the Playstation shelves @offline (MAYBE  b&Q 
-(A) 10 Get fathers day card @offline @leo 
-(E) 05 - Lookup the Kat Memory palace again @online
-(E) 10 Brainstorm public projects and the best approach to that.  @offline 
-(E) 10 Keep sawing the arch  @offline
-(E) 10 Create new physics grid @offline
-(E) 90 Write out full review of the memory palace.  +paper @offline
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
-(C) 15 Buy bedroom shelves from B&Q 78.5cm by 49cm (2cm thick, they are 106 up from the bottom if you want to brace)  @offline @leo 
-(E) 10 Start cupboard sorting project  @offline
+(E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Empty Joe inbox completely +Overhead @offline
-(E) 06 Cut Leo nails +Health     @leo  @offline
-(E) 10 Get wood for inspection pit 20cm by 76cm by 3 cm @offline @leo
-(E) 20 Put kitchen door back on @offline
-(E) 20 watch home videos on bigdisk @tower @offline
-(E) Setup remote control for air conditioning
-(E) 10 Post to Vegan Facebook group  @phone   @online
 (E) 05 Open pages read and find a book for mark @online
-(E) See if you can get a refund for Taskmaster @online
-(C) 10 Check how the annual leave is doing  @online 
+(E) 06 Cut Leo nails +Health     @leo  @offline
+(E) 10 Create new physics grid @offline
+(E) 30 Fix inspection pit. 
+(E) 10 Keep sawing the arch  @offline
+(E) 10 Post to Vegan Facebook group  @phone   @online
 (E) 10 Put viciouscycle on github  Add code from laptop to bike post on blog @online
+(E) 10 Start cupboard sorting project  @offline
 (E) 15 Add words to the Lair blog post  @online
 (E) 20 Add the chart and the update to the news checking blog post @online
-(E) Find the file that shows bathroom financing  
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
+(E) 20 watch home videos on bigdisk @tower @offline
+(E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
+(E) 90 Write out full review of the memory palace.  +paper @offline
+(E) Find the file that shows bathroom financing  
+(E) Setup remote control for air conditioning
