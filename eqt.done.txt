@@ -3835,3 +3835,4 @@ x 2024-06-14 10 Find out why deleting things from history doesn't delete them fr
 x 2024-06-14 10 Lookup if a weekly pass is cheaper for next week  @online
 x 2024-06-14 20 Finish the external drive sync @offline
 x 2024-06-19 02 Check if the mirror post appeared when it wasn't supposed to @online
+x 2024-06-24 10 Another reddit post @online

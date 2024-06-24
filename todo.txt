@@ -7,7 +7,7 @@
 (E) 05 Empty Joe inbox completely +Overhead @offline
 (E) 05 Open pages read and find a book for mark @online
 (E) 10 Create new physics grid @offline 
-(E) 10 Keep sawing the arch  @offline
+(E) 10 When New blade gets here, keep sawing arch 
 (E) 10 Post to Vegan Facebook group  @phone   @online
 (E) 10 Start cupboard sorting project  @offline
 (E) 15 Take new photo of the mirror setup  @offline
