@@ -1,4 +1,5 @@
-(A) 10 Another reddit post @online
+x 2024-06-24 10 Another reddit post @online
+(A) Send Newsletter 
 (E) Start next accounts project 
 (A) 30 Run the CM2 process for known headteachers  @online
 (C) 40 Write a newsletter for subscribers @online 
