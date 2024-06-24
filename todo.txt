@@ -9,7 +9,11 @@
 (E) 05 Empty Joe inbox completely +Overhead @offline
 (E) 05 Open pages read and find a book for mark @online
 (E) 30 Drill holes for supports in inspection pit 
+(E) Fix vacume clearner 
+(E) Book dental hydenist
+(E) Set blinds to summer mode 
 (E) 10 Keep sawing the arch  @offline
+(E) Setup shares account 
 (E) 10 Start cupboard sorting project  @offline
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
