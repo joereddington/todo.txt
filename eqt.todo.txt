@@ -1,4 +1,5 @@
 (A) 10 Another reddit post @online
+(E) Start next accounts project 
 (A) 30 Run the CM2 process for known headteachers  @online
 (C) 40 Write a newsletter for subscribers @online 
 (D) 30 Process the littlefinger transactions into expenses  @online
