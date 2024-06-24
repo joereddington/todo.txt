@@ -1,6 +1,7 @@
-(E) 10 Create new physics grid @offline @hotel
-(E) 10 Post to Vegan Facebook group  @phone   @online@hotel
-(E) 90 Write out full review of the memory palace.  +paper @offline@hotel
+(E) 10 Create new physics grid @offline 
+(E) 10 Post to Vegan Facebook group  @phone   @online
+(E) 90 Write out full review of the memory palace.  +paper @offline
+(E) Lookup how much mAh the phones need to charge 
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
 (E) 05 - Lookup the Kat Memory palace again @online
@@ -14,3 +15,4 @@
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
 (E) Setup remote control for air conditioning
+(E) Fix hoover 
