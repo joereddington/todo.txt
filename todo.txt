@@ -1,24 +1,25 @@
-(E) 10 Create new physics grid @offline 
-(E) 10 Post to Vegan Facebook group  @phone   @online
-(E) 90 Write out full review of the memory palace.  +paper @offline
-(E) Lookup how much mAh the phones need to charge and look into replacement battery pack/solar charger  
-(E) Make a date for a family climbing  
+(A) Sort out a proper retro games box in garage 
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
+(C) Buy the bedroom ikea furniture
+(C) Tidy garage 
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Empty Joe inbox completely +Overhead @offline
 (E) 05 Open pages read and find a book for mark @online
-(E) 30 Drill holes for supports in inspection pit 
-(E) Fix vacume clearner 
-(E) Book dental hydenist
-(C) Buy the bedroom ikea furniture
-(C) Tidy garage 
+(E) 10 Create new physics grid @offline 
 (E) 10 Keep sawing the arch  @offline
-(E) Setup shares account 
+(E) 10 Post to Vegan Facebook group  @phone   @online
 (E) 10 Start cupboard sorting project  @offline
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
+(E) 30 Drill holes for supports in inspection pit 
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
-(E) Setup remote control for air conditioning
+(E) 90 Write out full review of the memory palace.  +paper @offline
+(E) Book dental hydenist
 (E) Fix hoover 
+(E) Fix vacume clearner 
+(E) Lookup how much mAh the phones need to charge and look into replacement battery pack/solar charger  
+(E) Make a date for a family climbing  
+(E) Setup remote control for air conditioning
+(E) Setup shares account 
