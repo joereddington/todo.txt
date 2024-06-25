@@ -1,8 +1,8 @@
 (A) Do the Turing Paperwork 
 (A) 24 Practice presentation for Wednesday
+(E) Rsync for dropbox and then cancel it. 
 (E) 10 Reformat smaller external drive @offline (but want the commands) 
 (E) 30 Add Project review file to igor @offline
-(E) 40 Put dropbox on an external drive and cancel it @offline
 (E) 30 Send the next set of OVF emails  @online
 (E) 20 Start next accounts project @online
 (A) 30 Run the CM2 process for known headteachers  @online

@@ -15,8 +15,8 @@
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) 06 Book dental hydenist
-(E) 10 Fix vacume clearner 
 (E) 05 Make a date for a family climbing  
-(E) 02 Make sure you have canceled apple arcade 
+x 2024-06-25 02 Make sure you have canceled apple arcade 
 (E) 10 Setup remote control for air conditioning
 (E) 30 Setup shares account 
+(E) Find a long term solution for phone photo storage 
