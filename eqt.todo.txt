@@ -1,14 +1,14 @@
+(A) Do the Turing Paperwork 
+(A) 24 Practice presentation for Wednesday
+(E) 10 Reformat smaller external drive @offline (but want the commands) 
+(E) 30 Add Project review file to igor @offline
+(E) 40 Put dropbox on an external drive and cancel it @offline
+(E) 30 Send the next set of OVF emails  @online
+(E) 20 Start next accounts project @online
 (A) 30 Run the CM2 process for known headteachers  @online
-(A) 24 Write presentation for Wednesday
 (C) 40 Write a newsletter for subscribers @online 
 (D) 30 Process the littlefinger transactions into expenses  @online
-(E) 10 Reformat smaller external drive 
 (E) 10 Review actions from last meeting  @online
 (E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 20 Igor should ignore contexts (like this one @online) 
 (E) 20 Review oldest policies @online @hotel
-(E) 30 Add Project review file to igor @offline
-(E) 40 Put dropbox on an external drive and cancel it @offline
-(E) 50 Read the last www book  +EQT  @offline 
-(E) 30 Send the next set of OVF emails 
-(E) 20 Start next accounts project 
