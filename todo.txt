@@ -1,22 +1,22 @@
-(A) 15 Sort out a proper retro games box in garage 
+(A) Replace car light 
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
 (C) 20 Buy the bedroom ikea furniture
 (C) 20 Tidy garage 
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Empty Joe inbox completely +Overhead @offline
+(E) 05 Make a date for a family climbing  
+(E) 06 Book dental hydenist
 (E) 10 Create new physics grid @offline 
-(E) 10 When New blade gets here, keep sawing arch 
+(E) 10 Setup remote control for air conditioning
 (E) 10 Start cupboard sorting project  @offline
+(E) 10 When New blade gets here, keep sawing arch 
+(E) 15 Sort out a proper retro games box in garage 
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Drill holes for supports in inspection pit 
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
-(E) 90 Write out full review of the memory palace.  +paper @offline
-(E) 06 Book dental hydenist
-(E) 05 Make a date for a family climbing  
-x 2024-06-25 02 Make sure you have canceled apple arcade 
-(E) 10 Setup remote control for air conditioning
 (E) 30 Setup shares account 
+(E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Find a long term solution for phone photo storage 
