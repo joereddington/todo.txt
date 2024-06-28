@@ -10,6 +10,7 @@
 (E) 10 Setup remote control for air conditioning
 (E) 10 Start cupboard sorting project  @offline
 (E) 15 Sort out a proper retro games box in garage 
+(E) Ask mum about sending down a Road Rash  
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
