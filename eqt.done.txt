@@ -3842,3 +3842,4 @@ x 2024-07-01 24 Practice presentation for Wednesday
 x 2024-07-01 10 Reformat smaller external drive @offline (but want the commands) 
 x 2024-07-01 20 Start next accounts project @online
 x 2024-07-01 30 Add Project review file to igor @offline
+x 2024-07-01 10 Rewrite the top ten on your task list as blog posts. @online

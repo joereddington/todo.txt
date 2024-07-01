@@ -1,12 +1,11 @@
-(A) 30 Run the CM2 process for known headteachers  @online
+(A) 30 Open up the Known headteachers chainmail file and make a list of things that need to be updated. 
 (A) Put mum's expenses in Quickbooks 
 (A) Transfer the Turing money from PayPal @online 
-(B)  JR to provide the costs for each WWW camp and the number of hours that go into them  
+(B) JR to provide the costs for each WWW camp and the number of hours that go into them  
 (C) 40 Review and send the newsletter to subscribers 
 (D) 30 Process the littlefinger transactions into expenses  @online
-(E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 20 Igor should ignore contexts (like this one @online) 
-(E) 20 Review oldest policies @drive 
+(E) 20 Review some more policies 
 (E) 30 Send the next set of OVF emails  @online
 (E) Build the office chair  @offline 
 (E) Cancel Dropbox @online
