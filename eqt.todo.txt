@@ -8,8 +8,7 @@
 (E) 20 Review some more policies 
 (E) 30 Send the next set of OVF emails  @online
 (E) Build the office chair  @offline 
-(E) Cancel Dropbox @online
-(E) Find out if there are minutes from the last meeting - there isn't any in the folder 
-(E) Put bigdisk on smallexternal, then wipe @offline 
+(E) 04 Find out if there are minutes from the last meeting - there isn't any in the folder 
+(E) 10 Put bigdisk on smallexternal, then wipe @offline 
 (E) Put some openAi videos onto youtube's to watch list 
 (E) Thoroughly test Claude 
