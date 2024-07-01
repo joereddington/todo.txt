@@ -3845,3 +3845,4 @@ x 2024-07-01 30 Add Project review file to igor @offline
 x 2024-07-01 10 Rewrite the top ten on your task list as blog posts. @online
 x 2024-07-01 20 Igor should ignore contexts (like this one @online) 
 x 2024-07-01 Cancel Dropbox @online
+x 2024-07-01 Transfer the Turing money from PayPal @online 
