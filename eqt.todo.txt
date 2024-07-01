@@ -1,4 +1,5 @@
 (A) 30 Open up the Known headteachers chainmail file and make a list of things that need to be updated. 
+(A) Ask Dawn about EAL 
 (B) Badger the Harris people 
 (A) Put mum's expenses in Quickbooks 
 (B) JR to provide the costs for each WWW camp and the number of hours that go into them  
@@ -10,5 +11,5 @@
 (E) Build the office chair  @offline 
 (E) 04 Find out if there are minutes from the last meeting - there isn't any in the folder 
 (E) 10 Put bigdisk on smallexternal, then wipe @offline 
-(E) Put some openAi videos onto youtube's to watch list 
+(E) Watch the youtube list 
 (E) Thoroughly test Claude 
