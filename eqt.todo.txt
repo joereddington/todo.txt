@@ -3,7 +3,7 @@
 (E) 10 Rewrite the top ten on your task list as blog posts. @online
 (E) 10 Review actions from last meeting  @online
 (D) 30 Process the littlefinger transactions into expenses  @online
-(C) 40 Write a newsletter for subscribers @online 
+(C) 40 Review and Send the newsletter to subscribers 
 (A) 30 Run the CM2 process for known headteachers  @online
 (E) 20 Start next accounts project @online
 (E) 30 Send the next set of OVF emails  @online
