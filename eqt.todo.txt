@@ -4,7 +4,6 @@
 (B) JR to provide the costs for each WWW camp and the number of hours that go into them  
 (C) 40 Review and send the newsletter to subscribers 
 (D) 30 Process the littlefinger transactions into expenses  @online
-(E) 20 Igor should ignore contexts (like this one @online) 
 (E) 20 Review some more policies 
 (E) 30 Send the next set of OVF emails  @online
 (E) Build the office chair  @offline 
