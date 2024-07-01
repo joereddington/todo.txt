@@ -5,12 +5,12 @@
 (E) 06 Book dental hydenist 
 x 2024-07-01 Ask mum about sending down a Road Rash  
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
-(E) 30 Setup shares account  @online 
+(E) 30 Lookup how to Setup shares account  @online 
 (E) Think about  a long term solution for phone photo storage 
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 08 Review all my A2 notes  @offline
 (E) 05 Empty Joe inbox completely +Overhead @offline
-(E) Lookup how to properly clean a bbq grill
+(E) Find youtube video for Lookup how to properly clean a bbq grill
 (E) 10 Create new physics grid @offline 
 (E) 10 Setup remote control for air conditioning @offline 
 (E) 10 Start cupboard sorting project  @offline
