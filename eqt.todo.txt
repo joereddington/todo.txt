@@ -1,10 +1,15 @@
-(A) 30 Create the interface for the knownheadteachers file 
-(A) 10 Put mum's expenses in Quickbooks 
-x 2024-07-02 40 Review and send the newsletter to subscribers 
+(A) 30 Move the Known headteachers forward and add the royalty information   
+(A) 10 Put mum's expenses in Quickbooks  
+(E) Add Quickbooks to allowed sites
 (C) 20 Process the Turing money properly in Quickbooks (after expenses)  
 (D) 30 Process the littlefinger transactions into expenses  @online
 (E) 20 Review some more policies 
 (E) 30 Send the next set of OVF emails  @online
-(E) 30 Build the office chair  @offline 
+(E) 30 Cut wood for Office chair rebuild  
+(E) Return the office chair? 
+(E) Review Funding places 
+(E) Follow up with that one teacher 
+(E) Text Nova's friend's mum about schools  
+(E) Follow up with 6th Form 
 (E) Thoroughly test Claude 
 (E) Watch the youtube list 
