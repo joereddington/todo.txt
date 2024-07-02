@@ -3849,3 +3849,6 @@ x 2024-07-01 Transfer the Turing money from PayPal @online
 x 2024-07-02 04 Find out if there are minutes from the last meeting - there isn't any in the folder 
 x 2024-07-02 10 Put bigdisk on smallexternal, then wipe @offline 
 x 2024-07-02 JR to provide the costs for each WWW camp and the number of hours that go into them  
+x 2024-07-02 02 email Ask Dawn about EAL 
+x 2024-07-02 02 Badger the Harris people 
+x 2024-07-02 40 Review and send the newsletter to subscribers 

@@ -1,8 +1,6 @@
 (A) 30 Create the interface for the knownheadteachers file 
-(A) 02 email Ask Dawn about EAL 
 (A) 10 Put mum's expenses in Quickbooks 
-(B) 02 Badger the Harris people 
-(C) 40 Review and send the newsletter to subscribers 
+x 2024-07-02 40 Review and send the newsletter to subscribers 
 (C) 20 Process the Turing money properly in Quickbooks (after expenses)  
 (D) 30 Process the littlefinger transactions into expenses  @online
 (E) 20 Review some more policies 
