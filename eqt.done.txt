@@ -3846,3 +3846,6 @@ x 2024-07-01 10 Rewrite the top ten on your task list as blog posts. @online
 x 2024-07-01 20 Igor should ignore contexts (like this one @online) 
 x 2024-07-01 Cancel Dropbox @online
 x 2024-07-01 Transfer the Turing money from PayPal @online 
+x 2024-07-02 04 Find out if there are minutes from the last meeting - there isn't any in the folder 
+x 2024-07-02 10 Put bigdisk on smallexternal, then wipe @offline 
+x 2024-07-02 JR to provide the costs for each WWW camp and the number of hours that go into them  

@@ -1,15 +1,12 @@
-(A) 30 Open up the Known headteachers chainmail file and make a list of things that need to be updated. 
+(A) 30 Create the interface for the knownheadteachers file 
 (A) Ask Dawn about EAL 
-(B) Badger the Harris people 
 (A) Put mum's expenses in Quickbooks 
-(B) JR to provide the costs for each WWW camp and the number of hours that go into them  
-(C) Process the truing money properly in Quickbooks (after expenses)  
+(B) Badger the Harris people 
 (C) 40 Review and send the newsletter to subscribers 
+(C) Process the Turing money properly in Quickbooks (after expenses)  
 (D) 30 Process the littlefinger transactions into expenses  @online
 (E) 20 Review some more policies 
 (E) 30 Send the next set of OVF emails  @online
 (E) Build the office chair  @offline 
-(E) 04 Find out if there are minutes from the last meeting - there isn't any in the folder 
-(E) 10 Put bigdisk on smallexternal, then wipe @offline 
-(E) Watch the youtube list 
 (E) Thoroughly test Claude 
+(E) Watch the youtube list 

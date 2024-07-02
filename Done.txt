@@ -694,3 +694,5 @@ x 2024-06-25 10 Fix vacume clearner
 x 2024-06-25 02 Make sure you have canceled apple arcade 
 x 2024-06-28 20 Tidy garage 
 x 2024-06-28 10 When New blade gets here, keep sawing arch 
+x 2024-07-01 Ask mum about sending down a Road Rash  
+x 2024-07-02 Find youtube video for Lookup how to properly clean a bbq grill
