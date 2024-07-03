@@ -10,6 +10,7 @@
 (D) Do full accounts algorithm +EQT 
 (E) 20 Review some more policies 
 (E) 30 Cut wood for Office chair rebuild  
+(E) Do journal entry for OVF funds
 (E) 30 Send the next set of OVF emails  @online
 (E) Add Quickbooks to allowed sites
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
