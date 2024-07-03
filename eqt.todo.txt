@@ -1,15 +1,35 @@
-(A) 30 Move the Known headteachers forward and add the royalty information   
 (A) 10 Put mum's expenses in Quickbooks  
-(E) Add Quickbooks to allowed sites
+(A) 30 Move the Known headteachers forward and add the royalty information   
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 20 Process the Turing money properly in Quickbooks (after expenses)  
+(C) Check that IMPS will run locally and that it can sync up.  +EQT
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (D) 30 Process the littlefinger transactions into expenses  @online
+(D) Do full accounts algorithm +EQT 
 (E) 20 Review some more policies 
-(E) 30 Send the next set of OVF emails  @online
 (E) 30 Cut wood for Office chair rebuild  
+(E) 30 Send the next set of OVF emails  @online
+(E) Add Quickbooks to allowed sites
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
+(E) Follow up with 6th Form 
+(E) Follow up with that one teacher 
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+(E) Make sure you have a continual professional developement practice happening  +EQT
+(E) Open list of projects to be funded +EQT
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Read the last www book  +EQT
 (E) Return the office chair? 
 (E) Review Funding places 
-(E) Follow up with that one teacher 
+(E) Review starred items in feeds +Overhead +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
 (E) Text Nova's friend's mum about schools  
-(E) Follow up with 6th Form 
 (E) Thoroughly test Claude 
 (E) Watch the youtube list 
