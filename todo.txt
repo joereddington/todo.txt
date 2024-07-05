@@ -12,7 +12,7 @@
 (D) Clean out Fridge
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 05 - Lookup the Kat Memory palace again @online
-(E) Update the pdf of Advanced Memory Palaces and post to forum 
+(E) Compile a pdf from the 'kdpversion' branch of memory book 
 (E) 05 Empty Joe inbox completely +Overhead @offline
 (E) 05 Make a date for a family climbing  
 (E) 06 Book dental hydenist 

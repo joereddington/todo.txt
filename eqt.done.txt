@@ -3868,3 +3868,4 @@ x 2024-07-05 10 Make sure the github issues are in the right columns +Overhead h
 x 2024-07-05 02 Follow up with luton 6th Form  @email 
 x 2024-07-05 02 Follow up with that one teacher  @email 
 x 2024-07-05 04 Return the office chair  @online
+x 2024-07-05 10 Check that IMPS will run locally and that it can sync up.  +EQT
