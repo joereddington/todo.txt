@@ -3,14 +3,13 @@
 (A) 50 Open Natwest Put all expenses into quickbooks   @online
 (B) 20 Post Form  @offline
 (B) 40 Update cash flow and send it to Andy 
-x 2024-07-05 20 Process the Turing money properly in Quickbooks (after expenses)  
 (B) Open Paypal and Write the Turing Blog Post properly 
 (C) Put FLowers For Turing Report in Social media 
-(E) 10 Process the Barking expenses 
 (E) 03 Open list of projects to be funded +EQT
 (E) 05 Post to WWW facebook page +EQT  @phone   
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 10 Make sure you have a continual professional development practice happening  +EQT
+(E) 10 Process the Barking expenses 
 (E) 10 Review starred items in feeds +Overhead +EQT
 (E) 10 Thoroughly test Claude with some previous things I've asked 
 (E) 15 Text Nova's friend's mum about schools  

@@ -3871,3 +3871,4 @@ x 2024-07-05 04 Return the office chair  @online
 x 2024-07-05 10 Check that IMPS will run locally and that it can sync up.  +EQT
 x 2024-07-05 14 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 x 2024-07-05 25 Run mgit status on the git directory and process all alerts +EQT
+x 2024-07-05 20 Process the Turing money properly in Quickbooks (after expenses)  
