@@ -1,12 +1,15 @@
+(A) 30 Move the Known headteachers forward and add the royalty information    @online
+(A) 50 Open Natwest Put all expenses into quickbooks   @online
+(A) 15 Create a royalties spreadsheet @online
 (B) 20 Post Form  @offline
 (B) 40 Update cash flow and send it to Andy 
 (C) 10 Check that IMPS will run locally and that it can sync up.  +EQT
 (C) 14 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) 20 Process the Turing money properly in Quickbooks (after expenses)  
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
-(E) 02 Follow up with luton 6th Form  @email 
-(E) 02 Follow up with that one teacher  @email 
+(D) 30 Process the littlefinger transactions into expenses  @online
 (E) 03 Open list of projects to be funded +EQT
+(E) 04 Return the office chair  @online
 (E) 05 Post to WWW facebook page +EQT  @phone   
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 10 Make sure you have a continual professional development practice happening  +EQT
@@ -15,13 +18,8 @@
 (E) 15 Text Nova's friend's mum about schools  
 (E) 20 Do journal entry for OVF funds
 (E) 20 Review some more policies 
+(E) 25 Review Funding website @online
 (E) 30 Cut wood for Office chair rebuild  
+(E) 30 Send the next set of OVF emails  @online
 (E) 40 Read the last www book  +EQT
 (E) 50 Watch the youtube list 
-(A) 30 Move the Known headteachers forward and add the royalty information    @online
-(A) Create a royalties spreadsheet @online
-(A) 50 Open Natwest Put all expenses into quickbooks   @online
-(D) 30 Process the littlefinger transactions into expenses  @online
-(E) 04 Return the office chair  @online
-(E) 25 Review Funding website @online
-(E) 30 Send the next set of OVF emails  @online
