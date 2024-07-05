@@ -3,10 +3,8 @@
 (A) 50 Open Natwest Put all expenses into quickbooks   @online
 (B) 20 Post Form  @offline
 (B) 40 Update cash flow and send it to Andy 
-x 2024-07-05 10 Check that IMPS will run locally and that it can sync up.  +EQT
-(C) 14 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) 20 Process the Turing money properly in Quickbooks (after expenses)  
-(C) 25 Run mgit status on the git directory and process all alerts +EQT
+x 2024-07-05 20 Process the Turing money properly in Quickbooks (after expenses)  
+(B) Open Paypal and Write the Turing Blog Post properly 
 (E) 10 Process the Barking expenses 
 (E) 03 Open list of projects to be funded +EQT
 (E) 05 Post to WWW facebook page +EQT  @phone   
