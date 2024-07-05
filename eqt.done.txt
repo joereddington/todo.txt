@@ -3867,3 +3867,4 @@ x 2024-07-05 Search for funding for eQuality Time Projects +EQT
 x 2024-07-05 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 x 2024-07-05 02 Follow up with luton 6th Form  @email 
 x 2024-07-05 02 Follow up with that one teacher  @email 
+x 2024-07-05 04 Return the office chair  @online
