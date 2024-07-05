@@ -3864,3 +3864,4 @@ x 2024-07-05 Do full accounts algorithm +EQT
 x 2024-07-05 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-07-05 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 x 2024-07-05 Search for funding for eQuality Time Projects +EQT
+x 2024-07-05 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
