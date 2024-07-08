@@ -1,24 +1,20 @@
-(A) 15 Create a royalties spreadsheet @online
-(A) 30 Move the Known headteachers forward and add the royalty information    @online
-(A) 50 Open Natwest Put all expenses into quickbooks   @online
-(B) 20 Post Form  @offline
-(B) Add all the tasks about backing up 
-(E) Tell mum we aren't using dropbox any more
+(A) 15 Open kdp and copy and paste royalties in spreadsheet @online
+(A) 30 Move the Known headteachers forward @online
+(A) 50 all expenses into quickbooks   @online
+(B) 20 Take stuff to post office  @offline 
 (B) 40 Update cash flow and send it to Andy 
-(B) Open Paypal and Write the Turing Blog Post properly 
+(B) Add all the tasks about backing up 
 (C) Put FLowers For Turing Report in Social media 
-(E) 03 Open list of projects to be funded +EQT
+(E) 03 Open list of projects to be funded +EQT (Google Drive)
 (E) 05 Post to WWW facebook page +EQT  @phone   
-(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) 10 Make sure you have a continual professional development practice happening  +EQT
-(E) 10 Process the Barking expenses 
+(E) 10 Process the Barking expenses (on laptop)
 (E) 10 Review starred items in feeds +Overhead +EQT
 (E) 10 Thoroughly test Claude with some previous things I've asked 
 (E) 15 Text Nova's friend's mum about schools  
 (E) 20 Do journal entry for OVF funds
 (E) 20 Review some more policies 
 (E) 25 Review Funding website @online
-(E) 30 Cut wood for Office chair rebuild  
 (E) 30 Send the next set of OVF emails  @online
 (E) 40 Read the last www book  +EQT
 (E) 50 Watch the youtube list 
+(E) 02 Tell mum we aren't using dropbox any more
