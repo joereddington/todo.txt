@@ -51,4 +51,5 @@
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
+(E) Use the running treadmill 
 (E) Raise Nova seat even more. 
