@@ -2,6 +2,8 @@
 (A) 30 Move the Known headteachers forward and add the royalty information    @online
 (A) 50 Open Natwest Put all expenses into quickbooks   @online
 (B) 20 Post Form  @offline
+(B) Add all the tasks about backing up 
+(E) Tell me we aren't using dropbox any more
 (B) 40 Update cash flow and send it to Andy 
 (B) Open Paypal and Write the Turing Blog Post properly 
 (C) Put FLowers For Turing Report in Social media 
