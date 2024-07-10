@@ -1,20 +1,28 @@
 (A) 15 Open kdp and copy and paste royalties in spreadsheet @online
 (A) 30 open the Known headteachers file and move it forward @online
 (A) 50 put all all expenses into quickbooks   @online
+(B) 05 Add all the tasks about backing up 
 (B) 20 Take all three letters to post office  @offline 
 (B) 40 Update cash flow and send it to Andy 
-(B) 05 Add all the tasks about backing up 
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Put FLowers For Turing Report in Social media 
-x 2024-07-08 03 Open list of projects to be funded +EQT (Google Drive)
+(D) Do full accounts algorithm +EQT 
+(E) 02 Tell mum we aren't using dropbox any more @offline
 (E) 05 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
 (E) 10 Review starred items in feeds +Overhead +EQT @online
 (E) 10 Thoroughly test Claude with some previous things I've asked  @online
 (E) 15 Text Nova's friend's mum about schools  @offline
-(E) 20 Search index.md for any OpenVoiceFactory work 
 (E) 20 Review four more policies  @offline
+(E) 20 Search index.md for any OpenVoiceFactory work 
 (E) 25 Review Funding website @online
 (E) 30 Send the next set of OVF emails  @online
 (E) 40 Read the last www book  +EQT @offline
 (E) 50 Watch the youtube list 
-(E) 02 Tell mum we aren't using dropbox any more @offline
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the next school time +EQT  
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Post to WWW facebook page +EQT  @phone   
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Read the last www book  +EQT
+x 2024-07-08 03 Open list of projects to be funded +EQT (Google Drive)
