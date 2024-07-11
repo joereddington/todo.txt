@@ -1,5 +1,4 @@
-x 2024-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Find Airbnb's in Southport 
+x 2024-07-11 Find Airbnb's in Southport 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (B) Do the doddle poll 
