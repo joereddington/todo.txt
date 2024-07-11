@@ -728,3 +728,4 @@ x 2024-07-08 05 Empty Joe inbox completely +Overhead @offline
 x 2024-07-08 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2024-07-08 Do Menu for the week +Family  @phone   
 x 2024-07-08 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2024-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  

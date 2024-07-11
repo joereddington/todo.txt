@@ -1,5 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(E) 10km run this month. 
+x 2024-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Find Airbnb's in Southport 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
@@ -10,9 +9,9 @@
 (C) 20 Buy the bedroom ikea furniture @online 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) deploy any commits from OVF that are hanging around. 
 (D) 10 Cut wood for discovered cupboard @offline 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
@@ -24,6 +23,7 @@
 (E) 10 Put the array into the physics constants 
 (E) 10 Setup remote control for air conditioning @offline 
 (E) 10 Start cupboard sorting project  @offline
+(E) 10km run this month. 
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
@@ -36,8 +36,8 @@
 (E) Compile a pdf from the 'kdpversion' branch of memory book 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
