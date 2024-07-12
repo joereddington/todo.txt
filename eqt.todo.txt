@@ -1,10 +1,11 @@
-(A) 15 Open kdp and copy and paste royalties in spreadsheet @online
+x 2024-07-12 15 Open kdp and copy and paste royalties in spreadsheet @online
 (A) 30 open the Known headteachers file and move it forward @online
 (A) 50 put all all expenses into quickbooks   @online
 (B) 05 Add all the tasks about backing up 
 (B) 20 Take all three letters to post office  @offline 
 (B) 40 Update cash flow and send it to Andy 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 10 Put FLowers For Turing Report in Social media 
 (D) Do full accounts algorithm +EQT 
 (E) 02 Tell mum we aren't using dropbox any more @offline
@@ -19,6 +20,7 @@
 (E) 30 Send the next set of OVF emails  @online
 (E) 40 Read the last www book  +EQT @offline
 (E) 50 Watch the youtube list 
+(E) Brainstorm making the RHUL list public What do I need to do to make sure that my RHUL list is public 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT  
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  

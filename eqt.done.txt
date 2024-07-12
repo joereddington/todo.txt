@@ -3876,3 +3876,5 @@ x 2024-07-08 30 Cut wood for Office chair rebuild
 x 2024-07-08 10 Make sure you have a continual professional development practice happening  +EQT
 x 2024-07-08 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2024-07-08 Open Paypal and Write the Turing Blog Post properly 
+x 2024-07-12 15 Open kdp and copy and paste royalties in spreadsheet @online
+x 2024-07-08 03 Open list of projects to be funded +EQT (Google Drive)
