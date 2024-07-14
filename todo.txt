@@ -1,13 +1,7 @@
-x 2024-07-11 Find Airbnb's in Southport 
-(C) 20  Write a 'this is where we'll be as a family next year 
-(E) Put iplayer on Playstation 
-(D) Helmet training for leo 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
-(B) Do the doddle poll 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 08 Review all my A2 notes  @offline
+(C) 20  Write a 'this is where we'll be as a family next year 
 (C) 20 Buy the bedroom ikea furniture @online 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
@@ -17,6 +11,7 @@ x 2024-07-11 Find Airbnb's in Southport
 (D) 10 Cut wood for discovered cupboard @offline 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
+(D) Helmet training for leo 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Make a date for a family climbing  
@@ -25,7 +20,6 @@ x 2024-07-11 Find Airbnb's in Southport
 (E) 10 Put the array into the physics constants 
 (E) 10 Setup remote control for air conditioning @offline 
 (E) 10 Start cupboard sorting project  @offline
-(E) 10km run this month. 
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
@@ -55,6 +49,7 @@ x 2024-07-11 Find Airbnb's in Southport
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
+(E) Put iplayer on Playstation 
 (E) Raise Nova seat even more. 
 (E) Replace the band on the white headphones
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
@@ -63,6 +58,4 @@ x 2024-07-11 Find Airbnb's in Southport
 (E) Take Nova to go and sit son some bikes 
 (E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Use the running treadmill 
-(E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
