@@ -736,3 +736,5 @@ x 2024-07-14 Make sure that all open github issues are in  the priority project 
 x 2024-07-14 10km run this month. 
 x 2024-07-14 Use the running treadmill 
 x 2024-07-14 Vitamin Tablet +Health   
+x 2024-07-14 Fix the header on https://joereddington.com/export-history/
+x 2024-07-14 Go around the house doing universal capture

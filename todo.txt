@@ -38,9 +38,9 @@
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Fix the header on https://joereddington.com/export-history/
+x 2024-07-14 Fix the header on https://joereddington.com/export-history/
 (E) Floss +Health   
-(E) Go around the house doing universal capture
+x 2024-07-14 Go around the house doing universal capture
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Log weight +Health   
