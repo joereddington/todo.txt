@@ -1,11 +1,13 @@
 (A) 30 open the Known headteachers file and move it forward @online
-(A) Start writing strategy document 
 (A) 50 put all all expenses into quickbooks   @online
+(A) Start writing strategy document 
 (B) 05 Add all the tasks about backing up 
 (B) 40 Update cash flow and send it to Andy 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 10 Put FLowers For Turing Report in Social media 
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (D) Do full accounts algorithm +EQT 
 (E) 05 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
@@ -18,10 +20,22 @@
 (E) 30 Send the next set of OVF emails  @online
 (E) 40 Read the last www book  +EQT @offline
 (E) 50 Watch the youtube list 
+(E) Ask for testimonial from completed fundings +EQT
+(E) Backup AWS +EQT
 (E) Brainstorm making the RHUL list public What do I need to do to make sure that my RHUL list is public 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the next school time +EQT  
+(E) Download the amazon months sales figures +EQT
+(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+(E) Make sure you have a continual professional developement practice happening  +EQT
+(E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Read the last www book  +EQT
+(E) Review starred items in feeds +Overhead +EQT
+(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+(E) Search for funding for eQuality Time Projects +EQT
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
