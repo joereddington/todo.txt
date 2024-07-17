@@ -1,14 +1,12 @@
-x 2024-07-12 15 Open kdp and copy and paste royalties in spreadsheet @online
 (A) 30 open the Known headteachers file and move it forward @online
+(A) Start writing strategy document 
 (A) 50 put all all expenses into quickbooks   @online
 (B) 05 Add all the tasks about backing up 
-(B) 20 Take all three letters to post office  @offline 
 (B) 40 Update cash flow and send it to Andy 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 10 Put FLowers For Turing Report in Social media 
 (D) Do full accounts algorithm +EQT 
-(E) 02 Tell mum we aren't using dropbox any more @offline
 (E) 05 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
 (E) 10 Review starred items in feeds +Overhead +EQT @online
@@ -27,4 +25,3 @@ x 2024-07-12 15 Open kdp and copy and paste royalties in spreadsheet @online
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Read the last www book  +EQT
-x 2024-07-08 03 Open list of projects to be funded +EQT (Google Drive)

@@ -3878,3 +3878,5 @@ x 2024-07-08 10 Learn something new about vim in http://learnvimscriptthehardway
 x 2024-07-08 Open Paypal and Write the Turing Blog Post properly 
 x 2024-07-12 15 Open kdp and copy and paste royalties in spreadsheet @online
 x 2024-07-08 03 Open list of projects to be funded +EQT (Google Drive)
+x 2024-07-17 20 Take all three letters to post office  @offline 
+x 2024-07-17 02 Tell mum we aren't using dropbox any more @offline
