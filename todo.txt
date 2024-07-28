@@ -12,12 +12,9 @@
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Helmet training for leo 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Make a date for a family climbing  
-(E) 06 Book dental hydenist 
 (E) 10 Brainstorm on  a long term solution for phone photo storage 
-(E) 10 Put the array into the physics constants 
 (E) 10 Setup remote control for air conditioning @offline 
 (E) 10 Start cupboard sorting project  @offline
 (E) 15 Take new photo of the mirror setup  @offline
@@ -31,12 +28,8 @@
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Compile a pdf from the 'kdpversion' branch of memory book 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2024-07-28 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
