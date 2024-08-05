@@ -1,11 +1,11 @@
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 20 Buy the bedroom ikea furniture @online 
 (C) 20 Share a family forecast with Kat 
-(C) Prepare Richard's New Lease  @laptop
-(C) Upload new version of the memory book to amazon (from tower; compile to epub first) 
+(C) 10 Prepare Richard's New Lease  @laptop
+(C) 10 Upload new version of the memory book to amazon (from tower; compile to epub first) 
 (D) 10 Cut wood for discovered cupboard @offline 
-(D) Clean out Fridge
-(D) Helmet training for leo 
+(D) 07 Clean out Fridge
+(D) 10 Helmet training for leo 
 (E) 03 Check Passports are in the safe
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Floss +Health   
@@ -21,7 +21,7 @@
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Do Menu for the week +Family  @phone   
 (E) Get a spare garage key  @kids
-(E) Give laptop screen a good clean +Overhead
+x 2024-08-05 Giv laptop screen a good clean +Overhead
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 20 Make sure you have all the photos from your old phone 
 (E) 03 Proper thank you for bbq 

@@ -13,4 +13,4 @@
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Search index.md for any OpenVoiceFactory work 
 (E) 30 Send the next set of OVF emails  @online
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT

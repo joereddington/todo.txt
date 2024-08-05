@@ -790,3 +790,4 @@ x 2024-08-05 Check ranking scripts +Overhead
 x 2024-08-05 Do full review of the memory palace. 
 x 2024-08-05 Empty Joe inbox completely +Overhead    
 x 2024-08-05 Write Moonpig cards for this month +Overhead
+x 2024-08-05 Giv laptop screen a good clean +Overhead
