@@ -13,7 +13,8 @@
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Drill holes for supports in inspection pit  @offline 
-(E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
+(E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
+(E) Make sure you have all the photos from your old phone 
 (E) 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) 03 Check Passports are in the safe
@@ -22,10 +23,10 @@
 (E) Do Menu for the week +Family  @phone   
 (E) Do full review of the memory palace. 
 (E) Empty Joe inbox completely +Overhead    
-(E) Floss +Health   
+(E) 05 Floss +Health   
 (E) Get a spare garage key 
 (E) Give laptop screen a good clean +Overhead
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Replace the band on the white headphones
+(E) Search for the kit to repair headphones 
 (E) Save a nice family memory +Family @phone    
 (E) Write Moonpig cards for this month +Overhead
