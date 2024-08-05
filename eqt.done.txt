@@ -3894,3 +3894,6 @@ x 2024-08-05 Ask for testimonial from completed fundings +EQT
 x 2024-08-05 Download the amazon months sales figures +EQT
 x 2024-08-05 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
 x 2024-08-05 Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+x 2024-08-05 Read the last www book  +EQT
+x 2024-08-05 Open list of projects to be funded +EQT
+x 2024-08-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
