@@ -3889,3 +3889,8 @@ x 2024-08-05 25 Review Funding website @online
 x 2024-08-05 10 Review starred items in feeds +Overhead +EQT @online
 x 2024-08-05 40 Read the last www book  +EQT @offline
 x 2024-08-05 Review starred items in feeds +Overhead +EQT
+x 2024-08-05 10 Thoroughly test Claude with some previous things I've asked  @online
+x 2024-08-05 Ask for testimonial from completed fundings +EQT
+x 2024-08-05 Download the amazon months sales figures +EQT
+x 2024-08-05 Look at the funding and prize things you were refused for last year and see if you can still apply +EQT
+x 2024-08-05 Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
