@@ -20,7 +20,7 @@
 (E) 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Do Menu for the week +Family  @phone   
-(E) Get a spare garage key 
+(E) Get a spare garage key  @kids
 (E) Give laptop screen a good clean +Overhead
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 20 Make sure you have all the photos from your old phone 
