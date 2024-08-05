@@ -3886,3 +3886,6 @@ x 2024-08-05 Check that everything in the 'in process' box really does have a ta
 x 2024-08-05 Check the next school time +EQT  
 x 2024-08-05 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 x 2024-08-05 25 Review Funding website @online
+x 2024-08-05 10 Review starred items in feeds +Overhead +EQT @online
+x 2024-08-05 40 Read the last www book  +EQT @offline
+x 2024-08-05 Review starred items in feeds +Overhead +EQT
