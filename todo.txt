@@ -1,20 +1,14 @@
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (C) Prepare Richard's New Lease  @laptop
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
 (C) 20 Share a family forecast with Kat 
 (C) 20 Buy the bedroom ikea furniture @online 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Upload new version of the memory book to amazon 
-(C) Review and re-score  Wheel Of life
+(C) Upload new version of the memory book to amazon (from tower; compile to epub first) 
 (D) 10 Cut wood for discovered cupboard @offline 
-(D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Helmet training for leo 
 (E) 05 - Lookup the Kat Memory palace again @online
-(E) 05 Make a date for a family climbing  
 (E) 10 Brainstorm on  a long term solution for phone photo storage 
-(E) 10 Setup remote control for air conditioning @offline 
-(E) 10 Start cupboard sorting project  @offline
+(E) 10 Find remote control unit for air conditioning @offline 
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
@@ -22,20 +16,16 @@
 (E) 30 Fix the shelves in the garage  @offline (MAYBE  measure ) 
 (E) 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
-(E) Check Passports are in the safe
+(E) 03 Check Passports are in the safe
 (E) Check ranking scripts +Overhead
-(E) Compile a pdf from the 'kdpversion' branch of memory book 
-(E) Cut Nova and Leo nails +Health    
+(E) 10 Compile a pdf from the 'kdpversion' branch of memory book 
 (E) Do Menu for the week +Family  @phone   
 (E) Do full review of the memory palace. 
 (E) Empty Joe inbox completely +Overhead    
 (E) Floss +Health   
 (E) Get a spare garage key 
 (E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Publicly thank someone +Overhead  
 (E) Replace the band on the white headphones
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Write Moonpig cards for this month +Overhead
