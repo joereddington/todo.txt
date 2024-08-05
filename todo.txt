@@ -1,32 +1,30 @@
-(C) Prepare Richard's New Lease  @laptop
 (B) 05 Pick another new night for games night with Kat and then immediately message people @offline
-(C) 20 Share a family forecast with Kat 
 (C) 20 Buy the bedroom ikea furniture @online 
+(C) 20 Share a family forecast with Kat 
+(C) Prepare Richard's New Lease  @laptop
 (C) Upload new version of the memory book to amazon (from tower; compile to epub first) 
 (D) 10 Cut wood for discovered cupboard @offline 
 (D) Clean out Fridge
 (D) Helmet training for leo 
+(E) 03 Check Passports are in the safe
 (E) 05 - Lookup the Kat Memory palace again @online
+(E) 05 Floss +Health   
 (E) 10 Brainstorm on  a long term solution for phone photo storage 
+(E) 10 Compile a pdf from the 'kdpversion' branch of memory book 
 (E) 10 Find remote control unit for air conditioning @offline 
 (E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Drill holes for supports in inspection pit  @offline 
 (E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
-(E) Make sure you have all the photos from your old phone 
 (E) 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
-(E) 03 Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) 10 Compile a pdf from the 'kdpversion' branch of memory book 
 (E) Do Menu for the week +Family  @phone   
-(E) Do full review of the memory palace. 
-(E) Empty Joe inbox completely +Overhead    
-(E) 05 Floss +Health   
 (E) Get a spare garage key 
 (E) Give laptop screen a good clean +Overhead
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Search for the kit to repair headphones 
-(E) Save a nice family memory +Family @phone    
-(E) Write Moonpig cards for this month +Overhead
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 20 Make sure you have all the photos from your old phone 
+(E) 03 Proper thank you for bbq 
+(E) 05 Put S&D trip in calendar 
+(E) 10 Save a nice family memory +Family @phone    
+(E) 10 Search for the kit to repair headphones 
