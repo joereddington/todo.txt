@@ -3897,3 +3897,10 @@ x 2024-08-05 Make sure that there is a 'read book X' task on the projects board 
 x 2024-08-05 Read the last www book  +EQT
 x 2024-08-05 Open list of projects to be funded +EQT
 x 2024-08-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-08-05 30 open the Known headteachers file and move it forward @online
+x 2024-08-05 Run mgit status on the git directory and process all alerts +EQT
+x 2024-08-05 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2024-08-05 Do full accounts algorithm +EQT 
+x 2024-08-05 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2024-08-05 Journal entry for ovf funds 
+x 2024-08-05 Make sure you have a continual professional development practice happening  +EQT
