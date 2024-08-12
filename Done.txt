@@ -791,3 +791,6 @@ x 2024-08-05 Do full review of the memory palace.
 x 2024-08-05 Empty Joe inbox completely +Overhead    
 x 2024-08-05 Write Moonpig cards for this month +Overhead
 x 2024-08-05 Giv laptop screen a good clean +Overhead
+x 2024-08-12 20 Buy the bedroom ikea furniture @online 
+x 2024-08-12 Get a spare garage key  @kids
+x 2024-08-12 10 Upload new version of the memory book to amazon (from tower; compile to epub first) 
