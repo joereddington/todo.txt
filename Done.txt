@@ -794,3 +794,4 @@ x 2024-08-05 Giv laptop screen a good clean +Overhead
 x 2024-08-12 20 Buy the bedroom ikea furniture @online 
 x 2024-08-12 Get a spare garage key  @kids
 x 2024-08-12 10 Upload new version of the memory book to amazon (from tower; compile to epub first) 
+x 2024-08-12 60 Listen to  Randy Pausch Talk +Overhead @phone  
