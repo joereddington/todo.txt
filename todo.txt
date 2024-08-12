@@ -7,12 +7,10 @@
 (E) 10 Search for the kit to repair headphones 
 (E) 20 Make sure you have all the photos from your old phone 
 (C) 20 Share a family forecast with Kat 
-(E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Drill holes for supports in inspection pit  @offline 
 (E) Talk to Kat about celebrations and rewards
 (E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Change amazon to use the joint card  @car 
-x 2024-08-12 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
