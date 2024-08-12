@@ -1,7 +1,6 @@
-(E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Floss +Health   
-(E) 20  Google for Which Services will Sync Photos off iPhone, choose one and commit to it. 
-(D) 10 Cut wood for discovered cupboard @offline 
+(E) 20  Watch a video about Google Photos 
+(D) 10 Re-measure wood for discovered cupboard
 (E) 10 Find remote control unit for air conditioning @offline 
 (D) 10 Helmet training for leo 
 (C) 10 Prepare Richard's New Lease  @laptop
@@ -14,4 +13,3 @@
 (E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) 30 Lookup how to Setup shares account  @online 
 (E) 90 Write out full review of the memory palace.  +paper @offline
-(E) 10 Do a Menu for the week: print out an old one if you have to.  +Family  @phone   

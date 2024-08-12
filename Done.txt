@@ -804,3 +804,5 @@ x 2024-08-12 10 Save a nice family memory +Family @phone
 x 2024-08-12 10 review the pdf from the 'kdpversion' branch of memory book 
 x 2024-08-12 Get in contact with AI training person 
 x 2024-08-12 15 Take new photo of the mirror setup  @offline
+x 2024-08-12 05 - Lookup the Kat Memory palace again @online
+x 2024-08-12 10 Do a Menu for the week: print out an old one if you have to.  +Family  @phone   
