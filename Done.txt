@@ -802,3 +802,5 @@ x 2024-08-12 03 Proper thank you for bbq
 x 2024-08-12 03 Check Passports are in the safe
 x 2024-08-12 10 Save a nice family memory +Family @phone    
 x 2024-08-12 10 review the pdf from the 'kdpversion' branch of memory book 
+x 2024-08-12 Get in contact with AI training person 
+x 2024-08-12 15 Take new photo of the mirror setup  @offline

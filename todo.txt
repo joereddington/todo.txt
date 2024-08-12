@@ -1,4 +1,3 @@
-(A) Get in contact with AI training person 
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Floss +Health   
 (E) 20  Google for Which Services will Sync Photos off iPhone, choose one and commit to it. 
@@ -7,7 +6,6 @@
 (D) 10 Helmet training for leo 
 (C) 10 Prepare Richard's New Lease  @laptop
 (E) 10 Search for the kit to repair headphones 
-(E) 15 Take new photo of the mirror setup  @offline
 (E) 20 Make sure you have all the photos from your old phone 
 (C) 20 Share a family forecast with Kat 
 (E) 20 Use ChatGPT to improve the photo import script - include sidecar files and prompt for overwriting them @online
