@@ -1,4 +1,4 @@
-x 2024-08-12 03 Check Passports are in the safe
+(A) Get in contact with AI training person 
 (E) 05 - Lookup the Kat Memory palace again @online
 (E) 05 Floss +Health   
 (E) 20  Google for Which Services will Sync Photos off iPhone, choose one and commit to it. 
@@ -6,7 +6,6 @@ x 2024-08-12 03 Check Passports are in the safe
 (E) 10 Find remote control unit for air conditioning @offline 
 (D) 10 Helmet training for leo 
 (C) 10 Prepare Richard's New Lease  @laptop
-(E) 10 Save a nice family memory +Family @phone    
 (E) 10 Search for the kit to repair headphones 
 (E) 10 review the pdf from the 'kdpversion' branch of memory book 
 (E) 15 Take new photo of the mirror setup  @offline
