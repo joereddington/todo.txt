@@ -2,6 +2,7 @@
 (C) 20 Share a family forecast with Kat 
 (D) 10 Re-measure wood for discovered cupboard
 (E) 05 Floss +Health   
+(E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) 10 Find remote control unit for air conditioning @offline 
 (E) 10 Search for the kit to repair headphones 
 (E) 20  Watch a video about Google Photos 
