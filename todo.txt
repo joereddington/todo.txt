@@ -1,17 +1,16 @@
-(E) 05 Floss +Health   
-(E) Read https://arxiv.org/pdf/2406.13843
-(E) 20  Watch a video about Google Photos 
-(D) 10 Re-measure wood for discovered cupboard
-(E) 10 Find remote control unit for air conditioning @offline 
-(D) 10 Helmet training for leo 
 (C) 10 Prepare Richard's New Lease  @laptop
-(E) 10 Search for the kit to repair headphones 
-(E) 20 Make sure you have all the photos from your old phone 
 (C) 20 Share a family forecast with Kat 
+(D) 10 Re-measure wood for discovered cupboard
+(E) 05 Floss +Health   
+(E) 10 Find remote control unit for air conditioning @offline 
+(E) 10 Search for the kit to repair headphones 
+(E) 20  Watch a video about Google Photos 
+(E) 20 Make sure you have all the photos from your old phone 
 (E) 20 watch home videos on bigdisk @tower @offline
 (E) 30 Drill holes for supports in inspection pit  @offline 
-(E) Talk to Kat about celebrations and rewards
 (E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
-(E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
-(E) Change amazon to use the joint card  @car 
 (E) 90 Write out full review of the memory palace.  +paper @offline
+(E) Change amazon to use the joint card  @car 
+(E) Read https://arxiv.org/pdf/2406.13843
+(E) Talk to Kat about celebrations and rewards
+(E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
