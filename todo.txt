@@ -1,4 +1,5 @@
 (E) 05 Floss +Health   
+(E) Read https://arxiv.org/pdf/2406.13843
 (E) 20  Watch a video about Google Photos 
 (D) 10 Re-measure wood for discovered cupboard
 (E) 10 Find remote control unit for air conditioning @offline 
