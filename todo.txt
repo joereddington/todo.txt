@@ -1,8 +1,8 @@
 (C) 10 Prepare Richard's New Lease  @laptop
 (C) 20 Share a family forecast with Kat 
+(C) Look for bolts and washers in the garage 
 (D) 10 Re-measure wood for discovered cupboard
 (E) 05 Floss +Health   
-(E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) 10 Find remote control unit for air conditioning @offline 
 (E) 10 Search for the kit to repair headphones 
 (E) 20  Watch a video about Google Photos 
@@ -12,20 +12,16 @@
 (E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Change amazon to use the joint card  @car 
-(E) Read https://arxiv.org/pdf/2406.13843
-(E) Talk to Kat about celebrations and rewards
-(E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Do the journal entry for OVF funds.
-(C) Look for bolts and washers in the garage 
-(E) Plan really cool weekend and message Kat about it
+(E) Plan really cool weekend and message Kat about it @car 
 (E) Process Couple feedback sheet
 (E) Publish Todo list on LinkedIn
-(E) Read this and think about how much more
-(E) Review all the 'reviewme' emails in sent and
+(E) Read https://arxiv.org/pdf/2406.13843 @car 
 (E) Rewrite the top ten on your task list as blog posts.
-(E) Root around in kitchen and work out weekly
 (E) Send the next set of OVF emails
 (E) Sort project columns and run igor script to meal
-(E) Tell Nova something that you were scared about
+(E) Talk to Kat about celebrations and rewards @car 
+(E) Tell Nova something that you were scared about @car 
+(E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
+(E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Write full weekly review blog post and also
-
