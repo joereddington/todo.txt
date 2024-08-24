@@ -16,7 +16,7 @@
 (E) Talk to Kat about celebrations and rewards
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Do the journal entry for OVF funds.
-(E) Order, address, send, all birthday cards or
+(C) Look for bolts and washers in the garage 
 (E) Plan really cool weekend and message Kat about it
 (E) Process Couple feedback sheet
 (E) Publish Todo list on LinkedIn

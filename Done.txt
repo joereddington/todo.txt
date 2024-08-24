@@ -809,3 +809,4 @@ x 2024-08-12 10 Do a Menu for the week: print out an old one if you have to.  +F
 x 2024-08-12 30 Lookup how to Setup shares account  @online 
 x 2024-08-12 10 add the new photo import script to blog 
 x 2024-08-22 10 Helmet training for leo 
+x 2024-08-24 Order, address, send, all birthday cards or
