@@ -1,3 +1,4 @@
+(B) Ring doctor 
 (C) 10 Prepare Richard's New Lease  @laptop
 (C) 20 Share a family forecast with Kat 
 (C) Look for bolts and washers in the garage 
@@ -13,6 +14,7 @@
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Change amazon to use the joint card  @car 
 (E) Do the journal entry for OVF funds.
+(E) Order new beach tent 
 (E) Plan really cool weekend and message Kat about it @car 
 (E) Process Couple feedback sheet
 (E) Publish Todo list on LinkedIn
@@ -25,3 +27,6 @@
 (E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Write full weekly review blog post and also
+* Drill holes for cupboards in bedroom 
+* Measure and order bolts for Cupboards
+* Reassemble Cupboards: shelves rigth way up and backs in.  
