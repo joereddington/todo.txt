@@ -1,14 +1,18 @@
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high.  
 (E) 10 Search for the kit to repair headphones 
-(E) 20 Make sure you have all the photos from your old phone 
-(E) 20 watch home videos on bigdisk @tower @offline
-(E) 30 Drill holes for supports in inspection pit  @offline 
-(E) 30 Go and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
+(E) 20 Make sure you have all the photos from your old phone on Dropbox. 
+(E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
+(E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) 90 Write out full review of the memory palace.  +paper @offline
 (E) Change amazon to use the joint card  @car 
 (E) Do the journal entry for OVF funds.
 (E) Order new beach tent 
+(E) Seal Nova's Curtains to the wall 
+(E) Lookup ways to seal shed 
+(E) Take Photo of academia id 
 (E) Plan really cool weekend and message Kat about it @car 
+(E) Check in with U3A people 
+(E) Call to Book Disneyland 
 (E) Process Couple feedback sheet
 (E) Publish Todo list on LinkedIn
 (E) Put Joint couple card on Amazon 
@@ -16,6 +20,7 @@
 (E) Rewrite the top ten on your task list as blog posts.
 (E) Send the next set of OVF emails
 (E) Sort project columns and run igor script to meal
+(E) Buy stuff for inside Kat tyres
 (E) Talk to Kat about celebrations and rewards @car 
 (E) Tell Nova something that you were scared about @car 
 (E) Watch 'watch later' videos on treadmill 
@@ -25,4 +30,3 @@
 * Drill holes for cupboards in bedroom 
 * Measure and order bolts for Cupboards
 * Reassemble Cupboards: shelves rigth way up and backs in.  
-x 2024-08-30 20  Watch a video about Google Photos 
