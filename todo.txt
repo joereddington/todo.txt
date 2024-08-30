@@ -7,6 +7,8 @@
 (E) Change amazon to use the joint card  @car 
 (E) Do the journal entry for OVF funds.
 (E) Order new beach tent 
+(C) Process Holiday photos. 
+(B) Arrange Birthday Party 
 (E) Seal Nova's Curtains to the wall 
 (E) Lookup ways to seal shed 
 (E) Take Photo of academia id 
