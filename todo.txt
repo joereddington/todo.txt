@@ -2,7 +2,7 @@ x 2024-08-30 Ring doctor
 x 2024-08-30 10 Prepare Richard's New Lease  @laptop
 x 2024-08-30 20 Share a family forecast with Kat 
 x 2024-08-30 Look for bolts and washers in the garage 
-(D) 10 Re-measure wood for discovered cupboard
+(D) 10 Cut a panel that is 41cm wide and at least 70 cm high.  
 (E) 05 Floss +Health   
 (E) 10 Find remote control unit for air conditioning @offline 
 (E) 10 Search for the kit to repair headphones 
