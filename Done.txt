@@ -831,3 +831,4 @@ x 2024-08-31 Put Joint couple card on Amazon
 x 2024-08-31 Publish Todo list on LinkedIn
 x 2024-08-31 Process Couple feedback sheet
 x 2024-08-31 Rewrite the top ten on your task list as blog posts.
+x 2024-08-31 See if you already have a hall effect sensor 
