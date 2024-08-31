@@ -827,3 +827,5 @@ x 2024-08-30 20 watch home videos on bigdisk @tower @offline
 x 2024-08-30 20  Watch a video about Google Photos 
 x 2024-08-30 Send the next set of OVF emails
 x 2024-08-30 Tell Nova something that you were scared about @car 
+x 2024-08-31 Put Joint couple card on Amazon 
+x 2024-08-31 Publish Todo list on LinkedIn
