@@ -1,24 +1,24 @@
+(B) Drill holes for cupboards in bedroom 
+(B) Measure and order bolts for Cupboards
 (B) Put Birthday Party in calendar and make list of invitattes  
+(B) Reassemble Cupboards: shelves rigth way up and backs in.  
 (C) Watch Darktable videos 
-(E) See if you already have a hall effect sensor 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high.  
 (E) 10 Search for the kit to repair headphones 
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
-(E) 90 Write out full review of the memory palace.  +paper @offline
+(E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) Buy stuff for inside Kat tyres
 (E) Call to Book Disneyland 
-(E) Get joint card out of car and Change amazon to use the joint card  @car 
 (E) Check in with U3A people 
-(E) Do the journal entry for OVF funds.
+(E) Get joint card out of car and Change amazon to use the joint card  @car 
 (E) Lookup ways to seal shed 
-(E) Order new beach tent 
+(E) Check starred messages in Kat and make sure tent is in it. 
 (E) Plan really cool weekend and message Kat about it @car 
-(E) Process Couple feedback sheet
 (E) Read https://arxiv.org/pdf/2406.13843 @car 
-(E) Rewrite the top ten on your task list as blog posts.
 (E) Seal Nova's Curtains to the wall 
+(E) See if you already have a hall effect sensor 
 (E) Sort project columns and run igor script 
 (E) Take Photo of academia id 
 (E) Talk to Kat about celebrations and rewards @car 
@@ -26,6 +26,4 @@
 (E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Write full weekly review blog post and also
-(B) Drill holes for cupboards in bedroom 
-(B) Measure and order bolts for Cupboards
-(B) Reassemble Cupboards: shelves rigth way up and backs in.  
+(E) Fix todo chart contab 
