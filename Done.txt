@@ -832,3 +832,6 @@ x 2024-08-31 Publish Todo list on LinkedIn
 x 2024-08-31 Process Couple feedback sheet
 x 2024-08-31 Rewrite the top ten on your task list as blog posts.
 x 2024-08-31 See if you already have a hall effect sensor 
+x 2024-09-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-09-02 Reassemble Cupboards: shelves rigth way up and backs in.  
+x 2024-09-02 Measure and order bolts for Cupboards

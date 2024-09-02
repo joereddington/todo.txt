@@ -1,12 +1,11 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Drill holes for cupboards in bedroom 
+(A) Brainstorm on what the kids learn from you. 
+(A) Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(B) Drill bolt holes for cupboards in bedroom 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Measure and order bolts for Cupboards
-(B) Put Birthday Party in calendar and make list of invitattes  
-(B) Reassemble Cupboards: shelves rigth way up and backs in.  
-(C) 10 Year plan: check you have 5 projects in each part
+(B) Fix last bookshelf and insert into space. 
+(B) Book RHUL leave 
+(B) Put your Birthday Party in calendar and make list of invitattes  
+(C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
 (C) deploy any commits from OVF that are hanging around. 

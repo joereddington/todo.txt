@@ -1,4 +1,5 @@
 (A) 10 Reconcile To see if stuff has been paid 
+(E) Work out and write up the backup system. 
 (A) 20 Start writing strategy document 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
 (A) Publish Last week's book 
