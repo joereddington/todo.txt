@@ -1,29 +1,75 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Drill holes for cupboards in bedroom 
+(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Make sure you have booked a bunch of leave from RHUL 
 (B) Measure and order bolts for Cupboards
 (B) Put Birthday Party in calendar and make list of invitattes  
 (B) Reassemble Cupboards: shelves rigth way up and backs in.  
+(C) 10 Year plan: check you have 5 projects in each part
+(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
+(C) deploy any commits from OVF that are hanging around. 
+(C) Review and re-score  Wheel Of life
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Watch Darktable videos 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high.  
+(D) Check starred messages in kat whatsapp 
+(D) Clean out Fridge
+(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) 02 Take Photo of academia id 
 (E) 10 Search for the kit to repair headphones 
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
+(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy stuff for inside Kat tyres
 (E) Call to Book Disneyland 
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check in with U3A people 
-(E) Get joint card out of car and Change amazon to use the joint card  @car 
-(E) Lookup ways to seal shed 
+(E) Check Passports are in the safe
+(E) Check ranking scripts +Overhead
 (E) Check starred messages in Kat and make sure tent is in it. 
-(E) Plan really cool weekend and message Kat about it @car 
-(E) Read https://arxiv.org/pdf/2406.13843 @car 
-(E) Seal Nova's Curtains to the wall 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Check wishlist
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut nails +Health    
+(E) Cut Nova and Leo nails +Health    
+(E) Do Menu for the week +Family  @phone   
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Fix todo chart contab 
+(E) Floss +Health   
+(E) Get joint card out of car and Change amazon to use the joint card  @car 
+(E) Give laptop screen a good clean +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) go to garage  and Lookup the typo of little electronic processor you have. 
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Lookup ways to seal shed 
+(E) Plan really cool weekend and message Kat about it @car 
+(E) Post to Sibling Facebook group  @phone   
+(E) Post to Vegan Facebook group  @phone   
+(E) process Garage inbox. 
+(E) Publicly thank someone +Overhead  
+(E) Read https://arxiv.org/pdf/2406.13843 @car 
+(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) Save a nice family memory +Family @phone    
+(E) Seal Nova's Curtains to the wall 
 (E) Sort project columns and run igor script 
-(E) 02 Take Photo of academia id 
 (E) Talk to Kat about celebrations and rewards @car 
+(E) Trim nose hair +Health    
+(E) TSE +Health  
+(E) Update Goodreads with the current book and your progress +Overhead  @phone   
+(E) Vitamin Tablet +Health   
 (E) Watch 'watch later' videos on treadmill 
 (E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) Write full weekly review blog post and also
-(E) Fix todo chart contab 
+(E) Write Moonpig cards for this month +Overhead
