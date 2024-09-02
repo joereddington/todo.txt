@@ -1,7 +1,6 @@
-(A) Brainstorm on what the kids learn from you. 
-(A) Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Drill bolt holes for cupboards in bedroom 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(A) 10 Brainstorm on what the kids learn from you. 
+(A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-09-02 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Fix last bookshelf and insert into space. 
 (B) Book RHUL leave 
 (B) Put your Birthday Party in calendar and make list of invitattes  
@@ -29,16 +28,12 @@
 (E) Check £40 in Wallet +Overhead   @phone 
 (E) Check in with U3A people 
 (E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
 (E) Check starred messages in Kat and make sure tent is in it. 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix todo chart contab 
@@ -46,29 +41,20 @@
 (E) Get joint card out of car and Change amazon to use the joint card  @car 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) go to garage  and Lookup the typo of little electronic processor you have. 
-(E) Log weight +Health   
+(E) go to garage  and Lookup the type of little electronic processor you have. 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Lookup ways to seal shed 
-(E) Plan really cool weekend and message Kat about it @car 
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
 (E) process Garage inbox. 
 (E) Publicly thank someone +Overhead  
 (E) Read https://arxiv.org/pdf/2406.13843 @car 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Seal Nova's Curtains to the wall 
-(E) Sort project columns and run igor script 
+(E) 07 Seal Nova's Curtains to the wall 
 (E) Talk to Kat about celebrations and rewards @car 
 (E) Trim nose hair +Health    
-(E) TSE +Health  
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Watch 'watch later' videos on treadmill 
 (E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
-(E) Write full weekly review blog post and also
+(E) Write full weekly review blog post 
 (E) Write Moonpig cards for this month +Overhead

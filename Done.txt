@@ -835,3 +835,18 @@ x 2024-08-31 See if you already have a hall effect sensor
 x 2024-09-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2024-09-02 Reassemble Cupboards: shelves rigth way up and backs in.  
 x 2024-09-02 Measure and order bolts for Cupboards
+x 2024-09-02 Update Goodreads with the current book and your progress +Overhead  @phone   
+x 2024-09-02 TSE +Health  
+x 2024-09-02 Sort project columns and run igor script 
+x 2024-09-02 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2024-09-02 Post to Sibling Facebook group  @phone   
+x 2024-09-02 Post to Vegan Facebook group  @phone   
+x 2024-09-02 E) Plan really cool weekend and message Kat about it @car 
+x 2024-09-02 Log weight +Health   
+x 2024-09-02 Go through phone and save all of the numbers +Overhead  @phone   
+x 2024-09-02 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2024-09-02 Confirm plans for next two weekends.+Overhead @phone   
+x 2024-09-02 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2024-09-02 Check ranking scripts +Overhead
+x 2024-09-02 Drill bolt holes for cupboards in bedroom 
+x 2024-09-02 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
