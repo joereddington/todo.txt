@@ -18,6 +18,7 @@
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
 (E) 15 Text Nova's friend's mum about schools  @offline
+(B) Add directors to bank account and so on.   
 (E) 20 Review four more policies  @offline
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
