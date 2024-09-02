@@ -1,31 +1,22 @@
 (A) 10 Brainstorm on what the kids learn from you. 
 (A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-x 2024-09-02 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Fix last bookshelf and insert into space. 
 (B) Book RHUL leave 
-(B) Put your Birthday Party in calendar and make list of invitattes  
+(B) 10 make list of birthday party invitattes  
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
-(C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Watch Darktable videos 
-(D) 10 Cut a panel that is 41cm wide and at least 70 cm high.  
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) 30 Make seiten 
+(C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) 05 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard
 (E) 02 Take Photo of academia id 
 (E) 10 Search for the kit to repair headphones 
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy stuff for inside Kat tyres
 (E) Call to Book Disneyland 
-(E) Check £40 in Wallet +Overhead   @phone 
+x 2024-09-02 Check £40 in Wallet +Overhead   @phone 
 (E) Check in with U3A people 
 (E) Check Passports are in the safe
 (E) Check starred messages in Kat and make sure tent is in it. 
