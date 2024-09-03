@@ -1,51 +1,42 @@
+(A) 03 Check in with U3A people 
 (A) 10 Brainstorm on what the kids learn from you. 
 (A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Fix last bookshelf and insert into space. 
-(B) Book RHUL leave 
+(B) 10 Book RHUL leave 
 (B) 10 make list of birthday party invitattes  
-(C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
-(C) 30 Make seiten 
-(C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(B) 20 Fix last bookshelf and insert into space. 
 (C) 05 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
+(C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) 30 Make seiten 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard
+(E) 02 Check Passports are in the safe
+(E) 02 Give laptop screen a good clean +Overhead
 (E) 02 Take Photo of academia id 
+(E) 03 Save a nice family memory +Family @phone    
+(E) 03 Vitamin Tablet +Health   
+(E) 04 Publicly thank someone +Overhead  
+(E) 05 Floss +Health   
+(E) 05 Trim nose hair +Health    
+(E) 07 Seal Nova's Curtains to the wall 
 (E) 10 Search for the kit to repair headphones 
+(E) 10 Talk to Kat about celebrations and rewards @car 
+(E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
+(E) 14 go to garage  and Lookup the type of little electronic processor you have. 
+(E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
+(E) 20 Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
+(E) 20 Write full weekly review blog post 
+(E) 20 process Garage inbox. 
+(E) 25 Read https://arxiv.org/pdf/2406.13843 @car 
 (E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
+(E) 60 Watch 'watch later' videos on treadmill 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Buy stuff for inside Kat tyres
-(E) Call to Book Disneyland 
-x 2024-09-02 Check £40 in Wallet +Overhead   @phone 
-(E) Check in with U3A people 
-(E) Check Passports are in the safe
-(E) Check starred messages in Kat and make sure tent is in it. 
-(E) Check wishlist
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Fix todo chart contab 
-(E) Floss +Health   
-(E) Get joint card out of car and Change amazon to use the joint card  @car 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) go to garage  and Lookup the type of little electronic processor you have. 
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Lookup ways to seal shed 
-(E) process Garage inbox. 
-(E) Publicly thank someone +Overhead  
-(E) Read https://arxiv.org/pdf/2406.13843 @car 
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
-(E) 07 Seal Nova's Curtains to the wall 
-(E) Talk to Kat about celebrations and rewards @car 
-(E) Trim nose hair +Health    
-(E) Vitamin Tablet +Health   
-(E) Watch 'watch later' videos on treadmill 
-(E) Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
-(E) Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
-(E) Write full weekly review blog post 
-(E) Write Moonpig cards for this month +Overhead
+(E) 10 Cut Nova and Leo nails +Health    
+(E) 05 Cut nails +Health    
+(E) 10 Empty Joe inbox completely +Overhead    
+(E) 12 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 10 Finalise dates with Kat about Disneyland 
+(E) 10 Fix todo chart contab 
+(E) 05 Put a lens on wishlish. 

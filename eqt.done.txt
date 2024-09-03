@@ -3920,3 +3920,7 @@ x 2024-09-03 10 Post to WWW facebook page +EQT  @phone
 x 2024-09-03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2024-09-03 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 x 2024-09-03 Read the last www book  +EQT
+x 2024-09-03 Review starred items in feeds +Overhead +EQT
+x 2024-09-03 Download the amazon months sales figures +EQT
+x 2024-09-03 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2024-09-03 Post to WWW facebook page +EQT  @phone   
