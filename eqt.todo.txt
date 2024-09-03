@@ -1,5 +1,4 @@
 (A) 10 Reconcile To see if stuff has been paid 
-(E) Work out and write up the backup system. 
 (A) 20 Start writing strategy document 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
 (A) Publish Last week's book 
@@ -8,9 +7,10 @@
 (A) Write wiki talk 
 (B) 05 Add all the tasks about backing up to igor 
 (B) 40 Update cash flow and send it to Andy 
+(B) Add directors to bank account and so on.   
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(C) 10 fix and Put FLowers For Turing Report in Social media 
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
+(C) 10 fix and Put FLowers For Turing Report in Social media 
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
@@ -19,7 +19,6 @@
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
 (E) 15 Text Nova's friend's mum about schools  @offline
-(B) Add directors to bank account and so on.   
 (E) 20 Review four more policies  @offline
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
@@ -40,3 +39,4 @@
 (E) Review starred items in feeds +Overhead +EQT
 (E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
+(E) Work out and write up the backup system. 
