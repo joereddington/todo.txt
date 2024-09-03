@@ -1,9 +1,6 @@
-(A) 10 Reconcile To see if stuff has been paid 
 (A) 20 Start writing strategy document 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
-(A) Publish Last week's book 
 (A) Restart the time tracking kit
-(A) Sort Project Columns 
 (A) Write wiki talk 
 (B) 05 Add all the tasks about backing up to igor 
 (B) 40 Update cash flow and send it to Andy 
@@ -18,25 +15,20 @@
 (D) Do full accounts algorithm +EQT 
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) 10 Process the Barking expenses (on laptop)
-(E) 15 Text Nova's friend's mum about schools  @offline
 (E) 20 Review four more policies  @offline
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 30 Send the next set of OVF emails  @online
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the next school time +EQT  
 (E) Do the journal entry for OVF funds.
 (E) Download the amazon months sales figures +EQT
 (E) Expense all subscritpions and server costs for the 31st August
-(E) Grant terms generally mean that every director has to have seen all of the paperwork: make sure they have +EQT
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Open list of projects to be funded +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Read the last www book  +EQT
 (E) Review starred items in feeds +Overhead +EQT
-(E) Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 (E) Search for funding for eQuality Time Projects +EQT
 (E) Work out and write up the backup system. 
