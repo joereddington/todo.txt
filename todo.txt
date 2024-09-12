@@ -9,6 +9,7 @@
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Finalise dates with Kat about Disneyland 
+(E) Lookup circus camp for Nova half term
 (E) 10 Fix todo chart contab 
 (E) 10 Search for the kit to repair headphones 
 (E) 10 Talk to Kat about celebrations and rewards @car 
@@ -20,7 +21,6 @@
 (E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (B) 20 Fix last bookshelf and insert into space. 
-x 2024-09-06 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (E) 20 Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 

@@ -1,4 +1,6 @@
 (A) 20 Restart the time tracking kit
+(E) Trial the meeting transcription servier
+(A) Get all meeting actions and put in todo 
 (A) 20 Start writing strategy document 
 (A) 40 Write wiki talk 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
