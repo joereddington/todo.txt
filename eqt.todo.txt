@@ -1,3 +1,4 @@
+(A) Send Yvonne Invoice
 (A) 20 Restart the time tracking kit
 (E) Trial the meeting transcription servier
 (A) Get all meeting actions and put in todo 
