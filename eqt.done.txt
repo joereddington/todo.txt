@@ -3924,3 +3924,6 @@ x 2024-09-03 Review starred items in feeds +Overhead +EQT
 x 2024-09-03 Download the amazon months sales figures +EQT
 x 2024-09-03 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2024-09-03 Post to WWW facebook page +EQT  @phone   
+x 2024-09-25 20 Restart the time tracking kit
+x 2024-09-25 40 Write wiki talk 
+x 2024-09-25 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
