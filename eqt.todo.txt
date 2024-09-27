@@ -1,5 +1,6 @@
-(A) 20 Start writing strategy document 
+(A) 20  writing strategy document 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
+(A) Book a plan ticket
 (A) Get all meeting actions and put in todo 
 (A) Get in touch about comic 
 (A) Send Yvonne Invoice
@@ -10,6 +11,7 @@
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
 (D) 30 Do full littlefinger  algorithm +EQT 
+(D) Write a post about EQT business model
 (E) 05 Open list of projects to be funded +EQT
 (E) 10 Brainstorm on continual professional development practice happening  +EQT
 (E) 10 Process papers in drawer 
@@ -22,3 +24,5 @@
 (E) 30 Send the next set of OVF emails  @online
 (E) 30 Trial the meeting transcription service
 (E) 60 Do the journal entry for OVF funds.
+(E) Delores should cope with expanding submodules and with indents (like for looping around calendar appointmentA) s 
+(E) Upgrade countdown timer for vim using chatGPT 
