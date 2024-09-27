@@ -1,12 +1,12 @@
 (A) 20 Start writing strategy document 
-(A) Get in touch about comic 
-(B) Find out about comic printing 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
 (A) Get all meeting actions and put in todo 
+(A) Get in touch about comic 
 (A) Send Yvonne Invoice
 (B) 05 Add all the tasks about backing up to igor 
 (B) 15 Call Unity about adding directors 
 (B) 40 Update cash flow and send it to Andy 
+(B) Find out about comic printing 
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
 (D) 30 Do full littlefinger  algorithm +EQT 
@@ -20,5 +20,5 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Work out and write up the backup system. 
 (E) 30 Send the next set of OVF emails  @online
-(E) 60 Do the journal entry for OVF funds.
 (E) 30 Trial the meeting transcription service
+(E) 60 Do the journal entry for OVF funds.

@@ -880,3 +880,5 @@ x 2024-09-06 05 Floss +Health
 x 2024-09-06 05 Put a lens on wishlish. 
 x 2024-09-06 05 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 x 2024-09-06 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2024-09-27 Put on Social stack: I'm feeling better. 
+x 2024-09-20 02 Take Photo of academia id 
