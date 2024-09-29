@@ -1,37 +1,36 @@
-(E) 05 Book in for Luton HM 
-(C) 05  Talk to D about Tickets for Comic con. 
-(E) 05 Trim nose hair +Health    
-(E) 07 Seal Nova's Curtains to the wall 
 (A) 10 Brainstorm on what the kids learn from you. 
-(E) 10 Cut Nova and Leo nails +Health    
+(A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(B) 10 make list of birthday party invitations  
+(B) 20 Take bookshelves out for fixing 
+(C) 05  Talk to D about Tickets for Comic con. 
+(C) 10 Put Wifi Range extender in bedroom - where are they? Is one in the office? 
+(C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
+(C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) 30 Make seiten 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard
+(E) 05 Book in for Luton HM 
+(E) 05 Trim nose hair +Health    
+(E) 05 book circus camp for Nova half term
+(E) 07 Seal Nova's Curtains to the wall 
+(E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Finalise dates with Kat about Disneyland 
 (E) 10 Fix todo chart contab 
+(E) 10 Phone about tv licence (image in whatsapp) 
 (E) 10 Repair headphones with the kit
 (E) 10 Talk to Kat about celebrations and rewards @car 
 (E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
-(C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
-(B) 10 make list of birthday party invitations  
+(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 14 go to garage  and Lookup the type of little electronic processor you have. 
 (E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
-(A) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) 20 Take bookshelves out for fixing 
 (E) 20 Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) 20 Write full weekly review blog post 
 (E) 20 process Garage inbox. 
 (E) 25 Read https://arxiv.org/pdf/2406.13843 @car 
 (E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves
-(C) 30 Make seiten 
+(E) 60 Set a timer for 1 hour to look at the ten year goals
 (E) 60 Watch 'watch later' videos on treadmill 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Cancel Iplayer
-(E) Lookup circus camp for Nova half term
-x 2024-09-29 Process physical inbox 
-(C) 10 Put Wifi Range extender in bedroom - where are they? Is one in the office? 
-(E) 60 Set a timer for 1 hour to look at the ten year goals
-(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat

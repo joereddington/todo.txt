@@ -3927,3 +3927,6 @@ x 2024-09-03 Post to WWW facebook page +EQT  @phone
 x 2024-09-25 20 Restart the time tracking kit
 x 2024-09-25 40 Write wiki talk 
 x 2024-09-25 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-09-29 Book a plane ticket
+x 2024-09-29 Get in touch about comic 
+x 2024-09-29 Send Yvonne Invoice
