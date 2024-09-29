@@ -1,6 +1,5 @@
-(E) Book in for Luton HM 
-* Talk to D about Tickets for Comic con. 
-(E) 03 Save a nice family memory +Family @phone    
+(E) 05 Book in for Luton HM 
+(C) 05  Talk to D about Tickets for Comic con. 
 (E) 05 Trim nose hair +Health    
 (E) 07 Seal Nova's Curtains to the wall 
 (A) 10 Brainstorm on what the kids learn from you. 
@@ -32,7 +31,7 @@
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) Cancel Iplayer
 (E) Lookup circus camp for Nova half term
-(E) Process physical inbox 
-(C) Put Wifi Range extender in bedroom 
-(E) Set a timer for 1 hour to look at the ten year goals
-(E) add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
+x 2024-09-29 Process physical inbox 
+(C) 10 Put Wifi Range extender in bedroom - where are they? Is one in the office? 
+(E) 60 Set a timer for 1 hour to look at the ten year goals
+(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
