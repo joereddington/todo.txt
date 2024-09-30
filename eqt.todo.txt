@@ -1,15 +1,17 @@
-(A) 20 update cash flow diagram 
 (A) 20  writing strategy document 
 (A) 50 put all all expenses from littlefinger into quickbooks   @online
-(A) 05 Get all meeting actions and put in todo 
+(B) Map project on  on rewriting Arts &amp; Mems
 (B) 05 Add all the tasks about backing up to igor 
 (B) 15 Call Unity about adding directors 
-(B) 40 Update cash flow and send it to Andy 
 (B) 20 Find out about comic printing 
+(B) 40 Update cash flow and send it to Andy 
+(B) remove RR and Sarah from the mailing list and bank account.
+(B) send RR a thank you gift.
+(B) set up trustees@email and email mailing list.
 (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
-(D) 30 Do full littlefinger  algorithm +EQT 
 (D) 20 Write a post about EQT business model
+(D) 30 Do full littlefinger  algorithm +EQT 
 (E) 05 Open list of projects to be funded +EQT
 (E) 10 Brainstorm on continual professional development practice happening  +EQT
 (E) 10 Process papers in drawer 
@@ -19,8 +21,8 @@
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Work out and write up the backup system. 
+(E) 30 Delores should cope with expanding submodules and with indents (like for looping around calendar appointmentA) s 
 (E) 30 Send the next set of OVF emails  @online
 (E) 30 Trial the meeting transcription service
-(E) 60 Do the journal entry for OVF funds.
-(E) 30 Delores should cope with expanding submodules and with indents (like for looping around calendar appointmentA) s 
 (E) 40 Upgrade countdown timer for vim using chatGPT 
+(E) 60 Do the journal entry for OVF funds.

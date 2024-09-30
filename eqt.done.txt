@@ -3930,3 +3930,8 @@ x 2024-09-25 10 Make sure the github issues are in the right columns +Overhead h
 x 2024-09-29 Book a plane ticket
 x 2024-09-29 Get in touch about comic 
 x 2024-09-29 Send Yvonne Invoice
+x 2024-09-30 explore options for automatic minutes and transcripts.
+x 2024-09-30 20 update cash flow diagram 
+x 2024-09-30 prepare cash forecast.
+x 2024-09-30 share finance info with Andy.
+x 2024-09-30 05 Get all meeting actions and put in todo 
