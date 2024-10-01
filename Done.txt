@@ -885,3 +885,4 @@ x 2024-09-20 02 Take Photo of academia id
 x 2024-09-27 Gratitude 
 x 2024-09-29 03 Save a nice family memory +Family @phone    
 x 2024-09-29 Process physical inbox 
+x 2024-10-01 10 Brainstorm on what the kids learn from you. 
