@@ -1,6 +1,6 @@
-(B) 10 Message everybody who might be involved in trick or treat 
-(B) 20 Take bookshelves out for fixing 
+(C) 20 Take bookshelves out for fixing 
 (C) 05  Talk to D about Tickets for Comic con. 
+(C) 10 Print out leaflets for Trick or Treat 
 (C) 10 Put Wifi Range extender in bedroom - where are they? Is one in the office? 
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
 (C) 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
