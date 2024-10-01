@@ -21,7 +21,9 @@
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Work out and write up the backup system. 
-(E) 30 Delores should cope with expanding submodules and with indents (like for looping around calendar appointmentA) s 
+(E) 30 Delores should cope with expanding submodules and with indents (like for looping around calendar appointment's) 
+(C) Review the instructions for accounts 
+(C) Find out about going to a free version of quickbooks (possibly ask Facebook) 
 (E) 30 Send the next set of OVF emails  @online
 (E) 30 Trial the meeting transcription service
 (E) 40 Upgrade countdown timer for vim using chatGPT 
