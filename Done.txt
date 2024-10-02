@@ -886,3 +886,5 @@ x 2024-09-27 Gratitude
 x 2024-09-29 03 Save a nice family memory +Family @phone    
 x 2024-09-29 Process physical inbox 
 x 2024-10-01 10 Brainstorm on what the kids learn from you. 
+x 2024-10-02 10 Put Wifi Range extender in bedroom - where are they? Is one in the office? 
+x 2024-10-02 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
