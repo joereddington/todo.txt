@@ -3949,3 +3949,5 @@ x (E) 20 Review four more policies  @offline
 x (C) Read the instructions for accounts 
 x (E) 20 Work out and write up the backup system. 
 x 2024-10-02 20 Write a post about EQT business model
+x (E) 10 Process papers in drawer 
+x (E) 20 Search for funding for eQuality Time Projects +EQT
