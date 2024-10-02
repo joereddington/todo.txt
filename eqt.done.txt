@@ -3935,3 +3935,17 @@ x 2024-09-30 20 update cash flow diagram
 x 2024-09-30 prepare cash forecast.
 x 2024-09-30 share finance info with Andy.
 x 2024-09-30 05 Get all meeting actions and put in todo 
+x (B) 05 Add all the tasks about backing up to igor
+x (B) 40 Update cash flow and send it to Andy 
+x (B) remove RR and Sarah from bank account.
+x (E) 10 Brainstorm on continual professional development practice happening  +EQT
+x (C) Find out about going to a free version of quickbooks (possibly ask Facebook) 
+x (C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
+x (E) 30 Send the next set of OVF emails  @online
+x (E) 30 Trial the meeting transcription service
+x (D) 30 Do full littlefinger  algorithm +EQT 
+x (E) 40 Upgrade countdown timer for vim using chatGPT 
+x (E) 20 Review four more policies  @offline
+x (C) Read the instructions for accounts 
+x (E) 20 Work out and write up the backup system. 
+x 2024-10-02 20 Write a post about EQT business model

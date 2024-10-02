@@ -1,30 +1,18 @@
-(A Trustees by 15th October) 20  writing strategy document 
-(B Trustees, Kat ) 50 put all all expenses from littlefinger into quickbooks   @online
-(B) 05 Add all the tasks about backing up to igor 
-(B) 15 Call Unity about adding directors 
-(B) 20 Find out about comic printing 
-(B) 40 Update cash flow and send it to Andy 
-(B) Map project on  on rewriting Arts &amp; Mems
-(B) remove RR and Sarah from the mailing list and bank account.
+(A Trustees by 15th October) 20  Improve strategy document 
+(B Trustees, Kat ) 50 Export Natwest Expenses since 21st May into Littlefinger and process them completely 
+(B) 15 Redo the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
+(B) 20 Get quotes from three comic printers 
+(C) Find a sample text arts and mems and paste it into a google doc
+--- 
 (B) send RR a thank you gift.
-(B) set up trustees@email and email mailing list.
-(C) 10  Map out a goal-linkage project - you haven't mapped a project in ages
+(B) set up trustees@ email 
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
-(C) Find out about going to a free version of quickbooks (possibly ask Facebook) 
-(C) Review the instructions for accounts 
-(D) 20 Write a post about EQT business model
-(D) 30 Do full littlefinger  algorithm +EQT 
+x 2024-10-02 20 Write a post about EQT business model
 (E) 05 Open list of projects to be funded +EQT
-(E) 10 Brainstorm on continual professional development practice happening  +EQT
 (E) 10 Process papers in drawer 
 (E) 10 Process the Barking expenses (on laptop)
 (E) 20 Expense all subscriptions and server costs for the 31st August
-(E) 20 Review four more policies  @offline
 (E) 20 Search for funding for eQuality Time Projects +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) 20 Work out and write up the backup system. 
 (E) 30 Delores should cope with expanding submodules and with indents (like for looping around calendar appointment's) 
-(E) 30 Send the next set of OVF emails  @online
-(E) 30 Trial the meeting transcription service
-(E) 40 Upgrade countdown timer for vim using chatGPT 
-(E) 60 Do the journal entry for OVF funds.
+(E) 60 Brainstorm on OVF ideas 
