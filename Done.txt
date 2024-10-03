@@ -891,3 +891,4 @@ x 2024-10-02 20 Bring work timesheet into balance @singleton https://github.com/
 x 2024-10-03 10 Phone about tv licence (image in whatsapp) 
 x 2024-10-03 10 Fix todo chart contab 
 x 2024-10-03 10 Talk to Kat about celebrations and rewards @car 
+x 2024-10-03 Check to see if you got paid 
