@@ -1,4 +1,5 @@
 (C) 05  Talk to D about Tickets for Comic con. 
+(C) Open GIMP and Fix cover for memory book
 (C) 10 Print out leaflets for Trick or Treat  https://docs.google.com/document/d/1sn2JpFS5slhRyhKkPYD8lihc4-RUGHmMfDA0d3FuRyM/edit
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
 (C) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
