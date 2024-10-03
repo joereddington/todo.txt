@@ -890,3 +890,4 @@ x 2024-10-02 10 Put Wifi Range extender in bedroom - where are they? Is one in t
 x 2024-10-02 20 Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 x 2024-10-03 10 Phone about tv licence (image in whatsapp) 
 x 2024-10-03 10 Fix todo chart contab 
+x 2024-10-03 10 Talk to Kat about celebrations and rewards @car 

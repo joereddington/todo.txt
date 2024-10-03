@@ -16,7 +16,6 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Book disneyland Tickets
 (E) 10 Repair headphones with the kit
-(E) 10 Talk to Kat about celebrations and rewards @car 
 (E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
