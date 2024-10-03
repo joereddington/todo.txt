@@ -15,7 +15,7 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Finalise dates with Kat about Disneyland 
 (E) 10 Fix todo chart contab 
-(E) 10 Phone about tv licence (image in whatsapp) 
+x 2024-10-03 10 Phone about tv licence (image in whatsapp) 
 (E) 10 Repair headphones with the kit
 (E) 10 Talk to Kat about celebrations and rewards @car 
 (E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
