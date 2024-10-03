@@ -12,4 +12,3 @@
 (B) set up trustees@ email 
 (C) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 05 Open list of projects to be funded +EQT
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT

@@ -13,7 +13,7 @@
 (E) 07 Seal Nova's Curtains to the wall 
 (E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Empty Joe inbox completely +Overhead    
-(E) 10 Finalise dates with Kat about Disneyland 
+(E) 10 Book disneyland Tickets
 (E) 10 Repair headphones with the kit
 (E) 10 Talk to Kat about celebrations and rewards @car 
 (E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
