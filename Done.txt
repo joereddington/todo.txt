@@ -904,3 +904,6 @@ x 2024-10-14 20 Work out how to solve the "Haretree Energy has a value of" probl
 x 2024-10-14 25 Read https://arxiv.org/pdf/2406.13843 @car 
 x 2024-10-14 60 Watch 'watch later' videos on treadmill 
 x 2024-10-14 10 Print out leaflets for Trick or Treat  https://docs.google.com/document/d/1sn2JpFS5slhRyhKkPYD8lihc4-RUGHmMfDA0d3FuRyM/edit
+x 2024-10-14 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-10-14 07 Seal Nova's Curtains to the wall 
+x 2024-10-14 12 Empty whatsapp and facebook inboxes. +Overhead  

@@ -1,25 +1,21 @@
 (C) Open GIMP and Fix cover for memory book
-x 2024-10-14 10 Print out leaflets for Trick or Treat  https://docs.google.com/document/d/1sn2JpFS5slhRyhKkPYD8lihc4-RUGHmMfDA0d3FuRyM/edit
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
-(C) 20 Rewrite  emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (C) 30 Make seiten 
 (C) Call about TV licence form 
-(C) Get out Curtain pole fixtures to work out next action 
-(D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard
-(E) 07 Seal Nova's Curtains to the wall 
+(C) Measure the height of the hall curtain and mark where you want the rail 
+(D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 (E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Book disneyland Tickets
 (E) 10 Repair headphones with the kit
 (E) 10 Write a proper shed list: sand the mantle, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
-(E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 14 Make blinking light 'hello world' on Arduino
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 20 Write full weekly review blog post 
 (E) 20 process Garage inbox. 
-(E) 30 Drill holes for supports in inspection pit  @offline (Get Hammerdrill and two bits of wood) 
+(E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves Also top for shed 
-(E) 60 Set a timer for 1 hour to look at the ten year goals
+(C) 60 Set a timer for 1 hour to look at the ten year goals
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Check where your github and google recovery codes are
+(E) Print out Google and Github Recovery codes and put in the safe 
