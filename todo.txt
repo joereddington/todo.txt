@@ -12,11 +12,10 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Book disneyland Tickets
 (E) 10 Repair headphones with the kit
-(E) 10 Write a proper shed list: sand the mantle, prep the bbq, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
+(E) 10 Write a proper shed list: sand the mantle, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 14 go to garage  and Lookup the type of little electronic processor you have. 
-x 2024-10-13 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 20 Work out how to solve the "Haretree Energy has a value of" problem and if you put the correct synatex together. 
 (E) 20 Write full weekly review blog post 
@@ -27,5 +26,4 @@ x 2024-10-13 15 Review your highlights and notes from Kindle books (https://read
 (E) 60 Set a timer for 1 hour to look at the ten year goals
 (E) 60 Watch 'watch later' videos on treadmill 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Buy Leo football shirt
 (E) Check where your github and google recovery codes are
