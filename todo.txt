@@ -2,7 +2,7 @@
 (C) Open GIMP and Fix cover for memory book
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
 (C) 30 Make seiten 
-(C) Call about TV licence form 
+(C) Call about TV licence 
 (C) Measure the height of the hall curtain and mark where you want the rail 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 (E) 10 Cut Nova and Leo nails +Health    

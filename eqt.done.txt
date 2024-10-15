@@ -3952,3 +3952,4 @@ x 2024-10-02 20 Write a post about EQT business model
 x (E) 10 Process papers in drawer 
 x (E) 20 Search for funding for eQuality Time Projects +EQT
 x 2024-10-03 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+x 2024-10-15 25 Run mgit status on the git directory and process all alerts +EQT

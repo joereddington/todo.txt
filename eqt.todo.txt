@@ -10,7 +10,5 @@
 (E) 30 Look through the delores code and todo list and see what you fancy doing
 (E) 60 Look around OVF and see what you want to do for a sprint
 (B) send RR a thank you gift.
---- 
 (B) set up trustees@ email 
-(C) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 05 Open list of projects to be funded +EQT
