@@ -1,13 +1,12 @@
 (A) Build a ChatGPT bot 
-(A) Badger luton college 
+x 2024-10-15 Badger luton college 
 (A Trustees by 15th October) 20  Improve strategy document 
-(B Trustees, Kat ) 50 Export Natwest Expenses since 21st May into Littlefinger and process them completely 
+(B Trustees, Kat ) 50 process littlefinger completely 
 (B) 15 Redo the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
 (B) 20 Get quotes from three comic printers 
-(C) Find a sample text arts and mems and paste it into a google doc
-(E) 10 Check to see if you have processed barking expenses (on laptop) (NA get date of trip) 
+(E) 10 Claim Barking Expenses 
 (E) 20 Expense all subscriptions and server costs for the 31st August (part of littlefinger) 
-(E) 30 Look through the delores code and todo list and see what you fancy doing
+(E) 30 Look through the delores code its todo list and see what you fancy doing
 (E) 60 Look around OVF and see what you want to do for a sprint
 (B) send RR a thank you gift.
 (B) set up trustees@ email 
