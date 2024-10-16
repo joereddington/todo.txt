@@ -4,64 +4,63 @@
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 10 Year plan: check you have 5 projects in each part (update Igor so this is easier) 
-(C) 30 Make seiten 
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+(C) 30 Make seiten 
 (C) 60 Set a timer for 1 hour to look at the ten year goals
 (C) Call about TV licence 
 (C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(A) Respond to invitation to quote 
-(D) Make sure both Out-of-officers are properly on
-(D) Review all the 'reviewme' emails in sent and people to manage
-(D) Backup the AWS servers
-(D) Process Social Media Feed - thank people!
-(D) Check system update warning: https://www...
-(D) Tell Nova something that you were scared about and did anyway
-(D) Process buffer.md on laptop
-(D) Process Couple feedback sheet
-(D) Put moisturiser on your hands (or reschedule if warm)
-(D) Write full weekly review blog post and also Gratitude
-(D) Go around house doing universal capture (or trigger lists)
-(D) Root around in kitchen and work out weekly meal plan
-(D) Print out and put up a sign about the 4th Train Carriage
-(D) Get board markers from campus
-(D) Tell Nova something that you were scared about and did anyway
-(D) Send Strategy document to trustees
-(D) Give Kat a report of all of the savings accounts
-(D) Get out the daylight lamp
 (C) Measure the height of the hall curtain and mark where you want the rail 
 (C) Open GIMP and Fix cover for memory book
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) deploy any commits from OVF that are hanging around. 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
+(D) Backup the AWS servers
 (D) Check starred messages in kat whatsapp 
+(D) Check system update warning: https://www...
 (D) Clean out Fridge
+(D) Get board markers from campus
+(D) Get out the daylight lamp
+(D) Give Kat a report of all of the savings accounts
+(D) Go around house doing universal capture (or trigger lists)
+(D) Make sure both Out-of-officers are properly on
+(D) Print out and put up a sign about the 4th Train Carriage
+(D) Process Couple feedback sheet
+(D) Process Social Media Feed - thank people!
+(D) Process buffer.md on laptop
+(D) Put moisturiser on your hands (or reschedule if warm)
+(D) Review all the 'reviewme' emails in sent and people to manage
+(D) Root around in kitchen and work out weekly meal plan
+(D) Send Strategy document to trustees
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
+(D) Tell Nova something that you were scared about and did anyway
+(D) Tell Nova something that you were scared about and did anyway
+(D) Write full weekly review blog post and also Gratitude
 (E) 10 Book disneyland Tickets
 (E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Repair headphones with the kit
 (E) 10 Write a proper shed list: sand the mantle, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
+(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 (E) 14 Make blinking light 'hello world' on Arduino
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
-(E) 20 process Garage inbox. 
 (E) 20 Write full weekly review blog post 
+(E) 20 process Garage inbox. 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves Also top for shed 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Apply for tv licence refund
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check £40 in Wallet +Overhead   @phone 
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
+(E) Check £40 in Wallet +Overhead   @phone 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
@@ -76,13 +75,14 @@
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
 (E) Print out Google and Github Recovery codes and put in the safe 
-(E) process Garage inbox. 
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Trim nose hair +Health    
 (E) TSE +Health  
+(E) Trim nose hair +Health    
 (E) Update Goodreads with the current book and your progress +Overhead  @phone   
 (E) Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
+(E) process Garage inbox. 
+x 2024-10-16 Respond to invitation to quote for STAG TF2 Barcode Ticketing Security Review
