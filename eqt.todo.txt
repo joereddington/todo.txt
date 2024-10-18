@@ -1,17 +1,17 @@
-(A) Build a ChatGPT bot 
 (A Trustees by 15th October) 20  Improve strategy document 
+(A) Build a more ChatGPT bots 
+(A) Create PDF for the school children and get it printed 
+(A) Create PDF for scott approval 
+(B Trustees, Kat ) 50 process littlefinger completely 
 (B) 15 Redo the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
 (B) 20 Get quotes from three comic printers 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) send RR a thank you gift.
 (B) set up trustees@ email 
-(B Trustees, Kat ) 50 process littlefinger completely 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (D) Do full accounts algorithm +EQT 
 (E) 05 Open list of projects to be funded +EQT
-(E) 10 Claim Barking Expenses 
 (E) 20 Expense all subscriptions and server costs for the 31st August (part of littlefinger) 
 (E) 30 Look through the delores code its todo list and see what you fancy doing
 (E) 60 Look around OVF and see what you want to do for a sprint

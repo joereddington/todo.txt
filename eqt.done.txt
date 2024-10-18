@@ -3955,3 +3955,5 @@ x 2024-10-03 20 Spend 20 minutes or so considering the fruits of long term goals
 x 2024-10-15 25 Run mgit status on the git directory and process all alerts +EQT
 x 2024-10-15 Find a sample text arts and mems and paste it into a google doc
 x 2024-10-15 Badger luton college 
+x 2024-10-18 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2024-10-18 10 Claim Barking Expenses 
