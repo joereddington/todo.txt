@@ -924,3 +924,9 @@ x 2024-10-18 Clean out Fridge
 x 2024-10-18 Get board markers from campus
 x 2024-10-18 Give Kat a report of all of the savings accounts
 x 2024-10-18 Process buffer.md on laptop
+x 2024-11-04 Send the Proper Final Comic to Scott 
+x 2024-11-04 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2024-11-04 Fix shelf in cupboard
+x 2024-11-04 Check you have ingredients for three levels of keto - salad - scrabmled tofu
+x 2024-11-04 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+x 2024-11-04 deploy any commits from OVF that are hanging around. 
