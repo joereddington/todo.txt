@@ -22,7 +22,7 @@
 (E) 10 Start listening to Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 10 Write a proper shed list: sand the mantle, make a chivel holder, tidy up, add the rest of the mats, cut the lining for the other tools, Fix inspection pit 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
-(E) 14 Make blinking light 'hello world' on Arduino
+(E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 15 Make Pizza Dough for Pizza night 
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
@@ -30,6 +30,6 @@
 (E) 20 Write full weekly review blog post 
 (E) 20 process Garage inbox. 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
-(E) 30 Go to B&Q and Buy replacement wood (two shelf sheets and a length of support wood) for garage shelves Also top for shed 
+(E) 30 See if you can use the spare flooring to make a shelf 
 (E) 60 1 hour in garage with Podcast 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
