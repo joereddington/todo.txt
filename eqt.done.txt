@@ -3969,3 +3969,7 @@ x 2024-10-21 Read the last www book  +EQT
 x 2024-10-21 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
 x 2024-10-21 Search for funding for eQuality Time Projects +EQT
 x 2024-10-21 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2024-11-04 20 Create PDF for Scott approval 
+x 2024-11-04 30 Build more ChatGPT bots 
+x 2024-11-04 20 send RR a thank you gift.
+x 2024-11-04 20 Expense all subscriptions and server costs for the 31st August (part of littlefinger) 
