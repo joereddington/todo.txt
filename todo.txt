@@ -26,6 +26,8 @@
 (E) 15 Make Pizza Dough for Pizza night 
 (E) 20 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
+(E) Create a dashboard showing todo.txt and igor timings and that sort of thing
+(E) Brainstorm why NOT delores
 (E) 20 Shortlist Homes For D  
 (E) 20 Write full weekly review blog post 
 (E) 20 process Garage inbox. 

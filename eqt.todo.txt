@@ -1,8 +1,6 @@
 (A) 40 printed comic for writers.
-x 2024-11-05 10 set up trustees@ email 
-(B) 15 Redo the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
-(B) 20 Get quotes from three comic printers 
+(B) 15 Phone Unity about fixing the Bank Mandate  the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
 (E) 02 Make a 'to office' box and put the hard drive in it. 
-(E) 04 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 04 Sort the'in process' box 
 (E) 30 Look through the delores code its todo list and see what you fancy doing
-(E) 60 Look around OVF and see what you want to do for a sprint
+x 2024-11-05 60 Look around OVF and see what you want to do for a sprint

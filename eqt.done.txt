@@ -3981,3 +3981,6 @@ x 2024-11-05 10 Make sure you have a continual professional developement practic
 x 2024-11-05 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2024-11-05 05 Open list of projects to be funded +EQT
 x 2024-11-05 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2024-11-05 10 set up trustees@ email 
+x 2024-11-05 20 Get quotes from three comic printers 
+x 2024-11-05 60 Look around OVF and see what you want to do for a sprint
