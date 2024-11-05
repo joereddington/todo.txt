@@ -3973,3 +3973,7 @@ x 2024-11-04 20 Create PDF for Scott approval
 x 2024-11-04 30 Build more ChatGPT bots 
 x 2024-11-04 20 send RR a thank you gift.
 x 2024-11-04 20 Expense all subscriptions and server costs for the 31st August (part of littlefinger) 
+x 2024-11-05 (A Trustees by 15th October) 20  Improve strategy document 
+x 2024-11-05 15 Run mgit status on the git directory and process all alerts +EQT
+x 2024-11-05 20 Work out next action for preparing accounts
+x 2024-11-05 20 Review starred items in feeds +Overhead +EQT

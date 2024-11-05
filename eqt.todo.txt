@@ -1,16 +1,12 @@
-(A Trustees by 15th October) 20  Improve strategy document 
 (A) 40 printed comic for writers.
 (B) 10 set up trustees@ email 
 (B) 15 Redo the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
 (B) 20 Get quotes from three comic printers 
 (C) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) 15 Run mgit status on the git directory and process all alerts +EQT
-(D) 20 Work out next action for preparing accounts
 (E) 02 Take external hard drive to the office 
 (E) 04 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 05 Open list of projects to be funded +EQT
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 10 Make sure you have a continual professional developement practice happening  +EQT
-(E) 20 Review starred items in feeds +Overhead +EQT
 (E) 30 Look through the delores code its todo list and see what you fancy doing
 (E) 60 Look around OVF and see what you want to do for a sprint
