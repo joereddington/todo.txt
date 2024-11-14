@@ -3984,3 +3984,9 @@ x 2024-11-05 10 Run the OBZ archive command and save to an external drive.  +EQT
 x 2024-11-05 10 set up trustees@ email 
 x 2024-11-05 20 Get quotes from three comic printers 
 x 2024-11-05 60 Look around OVF and see what you want to do for a sprint
+x 2024-11-11 arrange to talk to Nick
+x 2024-11-11 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2024-11-11 Read the last www book  +EQT
+x 2024-11-11 Open list of projects to be funded +EQT
+x 2024-11-11 Check the next school time +EQT  
+x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
