@@ -1,6 +1,5 @@
 (E) Talk to Kat about asking D to quote for garage 
 (E) Make bike light charging station in Garage 
-(E) Fix Nova's curtains  @garage 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 20 Sand the mantle down in the garage 
 (E) 05 Get the face from the garage and put it on the bin (with Nova) 
@@ -9,7 +8,6 @@
 (C) 60 Set a timer for 1 hour to look at the ten year goals
 (D) 15 Go around house with notebook doing universal capture (or trigger lists)
 (E) 04 Save a nice family memory +Family @phone    
-(E) 05 Post to Vegan Facebook group  @phone   
 (E) 05 Trim nose hair +Health    
 (E) 10 Apply for tv licence refund
 (E) 10 Brainstorm why NOT delores
