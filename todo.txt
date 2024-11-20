@@ -2,7 +2,7 @@
 (E) Make bike light charging station in Garage 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 20 Sand the mantle down in the garage 
-(E) 05 Get the face from the garage and put it on the bin (with Nova) 
+(E) 05 With Nova - put the face on the bin 
 (D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 (C) 30 Review and re-score  Wheel Of life
 (C) 60 Set a timer for 1 hour to look at the ten year goals
@@ -18,3 +18,4 @@
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) More garage sorting. 
+(E) 45 Build Lego ISS

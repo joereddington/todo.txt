@@ -3990,3 +3990,5 @@ x 2024-11-11 Read the last www book  +EQT
 x 2024-11-11 Open list of projects to be funded +EQT
 x 2024-11-11 Check the next school time +EQT  
 x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
+x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
+x 2024-11-20 04 Remind Chair about redundency systems

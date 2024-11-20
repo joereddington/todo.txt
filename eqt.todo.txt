@@ -5,12 +5,9 @@
 (D) 40 Do full accounts algorithm +EQT 
 (E) 02 Make a 'to office' box and put the hard drive in it. 
 (E) 04 Sort the'in process' box 
-x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
-(E) 45 Build Lego ISS
 (E) 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 04 Fix screenshot location on Laptop 
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 10 Post to WWW facebook page +EQT  @phone   
 (E) Close down the WWW server (or at least reduce - it's holding the www site)  
-(E) 04 Remind Chair about redundency systems
 (E) 20 Search for funding for eQuality Time Projects +EQT
