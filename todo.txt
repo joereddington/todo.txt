@@ -17,7 +17,6 @@
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) More garage sorting. 
 (E) 45 Build Lego ISS
 (E) Test remembering central password
-(E) Set a time with Karen 
+(E) Talk to Kat about setting a time with Karen 
