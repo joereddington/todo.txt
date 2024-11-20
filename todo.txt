@@ -12,10 +12,9 @@
 (E) 10 Apply for tv licence refund
 (E) 10 Brainstorm why NOT delores
 (E) 10 Do two level of Duolingo 
-(E) 10 Get a flu jab 
 (E) 10 Print out Google and Github Recovery codes and put in the safe 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
-(E) Sort upstairs boxes 
+(E) More garage sorting. 
