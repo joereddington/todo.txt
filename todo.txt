@@ -19,3 +19,5 @@
 (E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) More garage sorting. 
 (E) 45 Build Lego ISS
+(E) Test remembering central password
+(E) Set a time with Karen 
