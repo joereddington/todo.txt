@@ -3,9 +3,6 @@
 (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Post Rachel's gift 
 (D) 40 Do full accounts algorithm +EQT 
-(E) 02 Make a 'to office' box and put the hard drive in it. 
-(E) 04 Sort the'in process' box 
-(E) 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 04 Fix screenshot location on Laptop 
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 10 Post to WWW facebook page +EQT  @phone   

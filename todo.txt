@@ -1,5 +1,5 @@
 (E) Talk to Kat about asking D to quote for garage 
-(E) Make bike light charging station in Garage 
+(E) Get a Box and Make bike light charging station in Garage 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 20 Sand the mantle down in the garage 
 (E) 05 With Nova - put the face on the bin 
@@ -10,7 +10,6 @@
 (E) 04 Save a nice family memory +Family @phone    
 (E) 05 Trim nose hair +Health    
 (E) 10 Apply for tv licence refund
-(E) 10 Brainstorm why NOT delores
 (E) 10 Do two level of Duolingo 
 (E) 10 Print out Google and Github Recovery codes and put in the safe 
 (E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat

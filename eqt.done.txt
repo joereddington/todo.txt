@@ -3992,3 +3992,6 @@ x 2024-11-11 Check the next school time +EQT
 x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
 x 2024-11-14 30 Look through the delores code its todo list and see what you fancy doing
 x 2024-11-20 04 Remind Chair about redundency systems
+x 2024-11-20 02 Make a 'to office' box and put the hard drive in it. 
+x 2024-11-20 04 Sort the'in process' box 
+x 2024-11-20 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
