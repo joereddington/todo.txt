@@ -1,6 +1,6 @@
 (A) 40 printed comic for writers.
 (C) 10 Post Rachel's gift 
 (D) 40 Do full accounts algorithm +EQT 
-(E) 04 Fix screenshot location on Laptop 
+(C) Move the hosting for the WWW site. 
 (E) Close down the WWW server (or at least reduce - it's holding the www site)  
 (E) 20 Search for funding for eQuality Time Projects +EQT

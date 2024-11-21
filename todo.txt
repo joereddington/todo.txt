@@ -2,10 +2,8 @@
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 20 Sand the mantle down in the garage 
 (E) 05 With Nova - put the face on the bin 
-(D) 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 (C) 30 Review and re-score  Wheel Of life
 (C) 60 Set a timer for 1 hour to look at the ten year goals
-(E) 05 Trim nose hair +Health    
 (E) 10 Do two level of Duolingo 
 (e) Find the memory index. 
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 

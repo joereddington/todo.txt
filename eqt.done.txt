@@ -3999,3 +3999,4 @@ x 2024-11-21 10 Learn something new about vim in http://learnvimscriptthehardway
 x 2024-11-21 10 Post to WWW facebook page +EQT  @phone   
 x 2024-11-21 15 Phone Unity about fixing the Bank Mandate  the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
 x (B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x (E) 04 Fix screenshot location on Laptop 
