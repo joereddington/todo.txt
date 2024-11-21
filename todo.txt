@@ -8,10 +8,9 @@
 (D) 15 Go around house with notebook doing universal capture (or trigger lists)
 (E) 05 Trim nose hair +Health    
 (E) 10 Do two level of Duolingo 
-(E) 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
+(e) Find the memory index. 
 (E) 20 Make sure you have all the photos from your old phone on Dropbox. 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
 (E) 45 Build Lego ISS
 (E) Test remembering central password
 (E) Talk to Kat about setting a time with Karen 
