@@ -1,10 +1,6 @@
 (A) 40 printed comic for writers.
-(B) 15 Phone Unity about fixing the Bank Mandate  the unity form correcting the email address issue and also changing Andy's (and francesca's) access 
-(B) 10 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Post Rachel's gift 
 (D) 40 Do full accounts algorithm +EQT 
 (E) 04 Fix screenshot location on Laptop 
-(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) 10 Post to WWW facebook page +EQT  @phone   
 (E) Close down the WWW server (or at least reduce - it's holding the www site)  
 (E) 20 Search for funding for eQuality Time Projects +EQT
