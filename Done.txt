@@ -1037,3 +1037,4 @@ x 2024-11-21 10 Print out Google and Github Recovery codes and put in the safe
 x 2024-11-21 10 Apply for tv licence refund
 x 2024-11-21 10 add the things about fires to your memory place - the five types of fires A,B,Camping, Digging, Fat
 x 2024-11-21 70 another 20 minutes Write out full review of the memory palace.  +paper @offline
+x 2024-11-21 15 Go around house with notebook doing universal capture (or trigger lists)
