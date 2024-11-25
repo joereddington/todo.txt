@@ -1,13 +1,12 @@
 (C) 30 Review and re-score  Wheel Of life
 (C) 60 Set a timer for 1 hour to look at the ten year goals
-(E) 05 With Nova - put the face on the bin 
 (E) 10 Do two level of Duolingo 
-(E) 20 Make sure you have all the photos from your old phone on Dropbox. 
+(E) 20 Finish setup of Nova Mini-tablet
 (E) 20 Sand the mantle down in the garage 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 45 Build Lego ISS
 (E) Get a Box and Make bike light charging station in Garage 
-(E) Talk to Kat about setting a time with Karen 
+(E) Book Karen
 (E) Test remembering central password
 (e) Find the memory index. 

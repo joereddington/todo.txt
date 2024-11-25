@@ -1040,3 +1040,4 @@ x 2024-11-21 70 another 20 minutes Write out full review of the memory palace.  
 x 2024-11-21 15 Go around house with notebook doing universal capture (or trigger lists)
 x 2024-11-21 05 Trim nose hair +Health    
 x 2024-11-21 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
+x 2024-11-25 05 With Nova - put the face on the bin 
