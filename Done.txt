@@ -1041,3 +1041,4 @@ x 2024-11-21 15 Go around house with notebook doing universal capture (or trigge
 x 2024-11-21 05 Trim nose hair +Health    
 x 2024-11-21 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 x 2024-11-25 05 With Nova - put the face on the bin 
+x 2024-12-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
