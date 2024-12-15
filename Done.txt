@@ -1042,3 +1042,9 @@ x 2024-11-21 05 Trim nose hair +Health
 x 2024-11-21 10 Cut a panel that is 41cm wide and at least 70 cm high for kitchen cupboard @Garage 
 x 2024-11-25 05 With Nova - put the face on the bin 
 x 2024-12-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2024-12-15 Gratitude again! 
+x 2024-12-15 Also clear out emails 
+x 2024-12-15 Process a bunch of boxes. 
+x 2024-12-15 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2024-12-15 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 

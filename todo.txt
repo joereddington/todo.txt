@@ -1,11 +1,6 @@
-(A)  Gratitude again! 
-(A) Also clear out emails 
-(A) Follow up with Antonia and then courtney 
+(A) Follow up with courtney 
 (A) Get Kat a christmas present 
-(A) Process a bunch of boxes. 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure you have booked a bunch of leave from RHUL 
+x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
 (B) Sign up for Judo Competition 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
