@@ -1,6 +1,5 @@
 (A) Follow up with courtney 
 (A) Get Kat a christmas present 
-x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
 (B) Sign up for Judo Competition 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
@@ -72,3 +71,4 @@ x 2024-12-15 Make sure you have booked a bunch of leave from RHUL
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (e) Find the memory index. 
+x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
