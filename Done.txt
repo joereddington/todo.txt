@@ -1050,3 +1050,5 @@ x 2024-12-15 Make sure that all open github issues are in  the priority project 
 x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
 x 2024-12-17 Follow up with courtney 
 x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
+x 2024-12-17 Get Kat a christmas present 
+x 2024-12-17 Sign up for Judo Competition 
