@@ -1048,3 +1048,5 @@ x 2024-12-15 Process a bunch of boxes.
 x 2024-12-15 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2024-12-15 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
+x 2024-12-17 Follow up with courtney 
+x 2024-12-15 Make sure you have booked a bunch of leave from RHUL 
