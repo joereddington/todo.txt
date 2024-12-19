@@ -9,26 +9,19 @@
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Setup a bunch of christmas playdates 
-(C) deploy any commits from OVF that are hanging around. 
-(D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 10 Do two level of Duolingo 
-(E) 20 Finish setup of Nova Mini-tablet
 (E) 20 Sand the mantle down in the garage 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Book Karen
-(E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
 (E) Check £40 in Wallet +Overhead   @phone 
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
@@ -39,7 +32,6 @@
 (E) Find out if upgrading the router would be worthwhile 
 (E) Fix lamp on your side of the bed. 
 (E) Floss +Health   
-(E) Get Flu vaccine +Health
 (E) Get a Box and Make bike light charging station in Garage 
 (E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in Dropbox.
@@ -51,9 +43,7 @@
 (E) Map a project for  next phase of the Garage Project 
 (E) Post to Sibling Facebook group  @phone   
 (E) Post to Vegan Facebook group  @phone   
-(E) Properly work out how each device might be affecting internet 
 (E) Publicly thank someone +Overhead  
-(E) Raise Leo's saddle a little bit
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
@@ -63,8 +53,8 @@
 (E) Test remembering central password
 (E) Trim nose hair +Health    
 (E) Try baking soda on glasses
-(E) Update Goodreads with the current book and your progress +Overhead  @phone   
-(E) Vitamin Tablet +Health   
+x 2024-12-19 Update Goodreads with the current book and your progress +Overhead  @phone   
+x 2024-12-19 Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (e) Find the memory index. 
