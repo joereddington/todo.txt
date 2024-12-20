@@ -2,13 +2,8 @@
 (C) 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
 (C) 30 Review and re-score  Wheel Of life
 (C) 60 Set a timer for 1 hour to look at the ten year goals
-(C) Ask kat to process stuff in the garage 
-(C) Check you have ingredients for three levels of keto - salad - scrabmled tofu
-(C) Get Nova new Bike helmet (good saturday task) 
-(C) Properly plan christmas calendar 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Setup a bunch of christmas playdates 
 (D) Clean out Fridge
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 10 Do two level of Duolingo 
@@ -20,25 +15,19 @@
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Check £40 in Wallet +Overhead   @phone 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find out if upgrading the router would be worthwhile 
 (E) Fix lamp on your side of the bed. 
 (E) Floss +Health   
 (E) Get a Box and Make bike light charging station in Garage 
 (E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in Dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Map a project for  next phase of the Garage Project 
 (E) Post to Sibling Facebook group  @phone   
@@ -53,8 +42,6 @@
 (E) Test remembering central password
 (E) Trim nose hair +Health    
 (E) Try baking soda on glasses
-x 2024-12-19 Update Goodreads with the current book and your progress +Overhead  @phone   
-x 2024-12-19 Vitamin Tablet +Health   
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (e) Find the memory index. 
