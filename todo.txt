@@ -12,17 +12,15 @@
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Check ranking scripts +Overhead
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix lamp on your side of the bed. 
-(E) Floss +Health   
+(E) 05 Floss +Health   
 (E) Get a Box and Make bike light charging station in Garage 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -30,13 +28,8 @@
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Map a project for  next phase of the Garage Project 
-(E) Post to Sibling Facebook group  @phone   
-(E) Post to Vegan Facebook group  @phone   
-(E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
 (E) Setup USB3 charging thing for laptop. 
 (E) TSE +Health  
 (E) Test remembering central password
