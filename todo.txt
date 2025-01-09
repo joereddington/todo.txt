@@ -29,3 +29,4 @@
 (E) 30 process Garage inbox. 
 (E) 20 renew passport 
 (e) 10 Find the memory index. 
+(E) Delores should work properly offline 
