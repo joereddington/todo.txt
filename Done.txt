@@ -1097,3 +1097,4 @@ x 2025-01-01 Cut Nova and Leo nails +Health
 x 2025-01-01 Cut nails +Health    
 x 2025-01-01 Check ranking scripts +Overhead
 x 2025-01-01 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2025-01-09 Send sketches! 
