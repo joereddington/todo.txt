@@ -30,3 +30,6 @@
 (E) 20 renew passport 
 (e) 10 Find the memory index. 
 (E) Delores should work properly offline 
+(E) Go and look in the garage for headphone cable for tower
+(E) Tighten all the chair bolts and screws
+(E) Send Licence photo to Dunstable Judo club
