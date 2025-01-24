@@ -19,15 +19,16 @@
 (E) 05 Test remembering central password
 (E) 10 Do two level of Duolingo 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead   @phone
+(e) 10 Find the memory index. 
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
 (E) 15 Delores should work properly offline 
 (E) 15 Lookup the details of your landlords insurance 
+(E) 20 renew passport 
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) 20 Sand the mantle down in the garage 
 (E) 20 Search for funding for eQuality Time Projects +EQT
-(E) 20 renew passport 
 (E) 30 Drill holes for supports in inspection pit  @garage (Get Hammerdrill and two bits of wood) 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 process Garage inbox. 
@@ -54,4 +55,3 @@
 (E) Setup Mgitstatus on the laptop
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
-(e) 10 Find the memory index. 
