@@ -1159,3 +1159,8 @@ x 2025-01-24 Do full accounts algorithm +EQT
 x 2025-01-24 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2025-01-24 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 x 2025-01-24 Empty Joe inbox completely +Overhead    
+x 2025-01-24 Listen to  Randy Pausch Talk +Overhead @phone  
+x 2025-01-24 Save a nice family memory +Family @phone    
+x 2025-01-24 Check starred messages in kat whatsapp 
+x 2025-01-24 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2025-01-24 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919

@@ -1,63 +1,67 @@
-(A) 40 Setup folder for printed comic for writers.
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Setup the GitLab for this year's book cohort  +RHUL
-(B) Work through the rest of the coursea material  
-(B) Work through the rest of the coursea textbook
-(C) 10 Post Rachel's gift 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 30 Review and re-score  Wheel Of life
-(C) Check that IMPS will run locally and that it can sync up.  +EQT
-(C) Find Food and Cooking Book 
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Review the hosting move for WWW site  
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(D) 40 start full accounts algorithm +EQT 
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) 02 put Passports in the safe
+(E) 03 Give laptop screen a good clean +Overhead
+(E) 04 TSE +Health  
 (E) 05 Floss +Health   
 (E) 05 Trim nose hair +Health    
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Do two level of Duolingo 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead   @phone
+(e) 10 Find the memory index. 
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
+(C) 10 Post Rachel's gift 
+(E) 10 Upload some of the family vidoes to youtube
+(C) 10 Year plan: check you have 5 projects in each part
 (E) 15 Delores should work properly offline 
 (E) 15 Search your email for the details of your landlords insurance 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
+(E) 15 process Garage inbox. 
+(E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
+(E) 20 Rewrite your gift policy and share on your networks
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
+(C) 30 Review and re-score  Wheel Of life
 (E) 30 Tidy Garage 
+(A) 40 Setup folder for printed comic for writers.
+(D) 40 start full accounts algorithm +EQT 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
-(E) put Passports are in the safe
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check out OpenAis Operator
+(C) Check that IMPS will run locally and that it can sync up.  +EQT
 (E) Claim expenses for Conference thing +RHUL
+(D) Clean out Fridge
 (E) Close down the WWW server (or at least reduce - it's holding the www site)  
 (E) Do full review of the memory palace. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(C) Find Food and Cooking Book 
 (E) Find out why we lose setxkbdmp us and the print screen. 
 (E) Fix camera lenses 
+(D) Follow up on the Fiver post about darktable
 (E) Fully Map the CASPER project as a private project +RHUL
-(E) Give laptop screen a good clean +Overhead
+(B) Fully review the projects list.
 (E) Go and look in the garage for headphone cable for tower
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
+(B) Look at the EQT projects and see what should be moved over to bear claw  
+(B) Make sure you have booked a bunch of leave from RHUL 
 (E) Print out and self review exam  +RHUL
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Repair the lnh command 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Rewrite your gift policy and share on your networks
-(E) Save a nice family memory +Family @phone    
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Review the hosting move for WWW site  
+(C) 20 Run mgit status on the git directory and process all alerts +EQT
+x 2025-01-24 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) Setup Mgitstatus on the laptop
-(E) TSE +Health  
-(E) Upload some of the family vidoes to youtube
-(E) process Garage inbox. 
-(e) 10 Find the memory index. 
+(B) Setup next webinars. 
+(B) Setup the GitLab for this year's book cohort  +RHUL
+(C) Talk to Nova about going climbing
+(B) Upload the webinar for coursea 
+(E) Work out the proper costs for disneyland 
+(B) Work through the rest of the coursea material  
+(B) Work through the rest of the coursea textbook
+(C) Write Gratitude post
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
