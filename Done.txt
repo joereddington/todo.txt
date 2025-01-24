@@ -1111,3 +1111,35 @@ x 2025-01-09 Get a Box and make bike light charging station in Garage
 x 2025-01-24 Vitamin Tablet +Health   
 x 2025-01-24 Update Goodreads with the current book and your progress +Overhead  @phone   
 x 2025-01-24 share your gift policy on the social networks.    @phone 
+x 2025-01-24 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2025-01-24 Ring up every funder currently funding you and be nice to them and check you have all of your paperwork and everything else. Make sure that you are a pleasure to work with. That way they fund you again +EQT
+x 2025-01-24 Search for funding for eQuality Time Projects +EQT
+x 2025-01-24 Read the last www book  +EQT
+x 2025-01-24 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-01-24 Post to WWW facebook page +EQT  @phone   
+x 2025-01-24 Post to Sibling Facebook group  @phone   
+x 2025-01-24 Make sure you have a continual professional developement practice happening  +EQT
+x 2025-01-24 Open list of projects to be funded +EQT
+x 2025-01-24 Post to Vegan Facebook group  @phone   
+x 2025-01-24 Make sure that there is a 'read book X' task on the projects board - it's relaxing.  +EQT
+x 2025-01-24 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2025-01-24 Ask for testimonial from completed fundings +EQT
+x 2025-01-24 Backup AWS +EQT
+x 2025-01-24 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2025-01-24 Check the next school time +EQT  
+x 2025-01-24 3. Bring work timesheet into balance @singleton https://github.com/orgs/eQualityTime/projects/4#card-30279938
+x 2025-01-24 60 Set a timer for 1 hour to look at the ten year goals
+x 2025-01-24 deploy any commits from OVF that are hanging around. 
+x 2025-01-24 Review and re-score  Wheel Of life
+x 2025-01-24 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2025-01-24 Download the amazon months sales figures +EQT
+x 2025-01-24 Do Menu for the week +Family  @phone   
+x 2025-01-24 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2025-01-24 Cut nails +Health    
+x 2025-01-24 Cut Nova and Leo nails +Health    
+x 2025-01-24 Confirm plans for next two weekends.+Overhead @phone   
+x 2025-01-24 Check wishlist
+x 2025-01-24 Check ranking scripts +Overhead
+x 2025-01-24 Check £40 in Wallet +Overhead   @phone 
+x 2025-01-24 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-01-24 Write Moonpig cards for this month +Overhead
