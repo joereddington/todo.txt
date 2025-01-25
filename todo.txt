@@ -54,9 +54,8 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Review the hosting move for WWW site  
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
-x 2025-01-24 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(E) Setup Mgitstatus on the laptop
-(B) Setup next webinars. 
+(E) run mgitstus on the laptop
+(B) Lookup date for next coursera webinars 
 (B) Setup the GitLab for this year's book cohort  +RHUL
 (C) Talk to Nova about going climbing
 (B) Upload the webinar for coursea 
