@@ -1171,3 +1171,7 @@ x 2025-01-25 process emotional todo list. https://github.com/joereddington/Proje
 x 2025-01-25 Claim expenses for Conference thing +RHUL
 x 2025-01-25 Make sure you have booked a bunch of leave from RHUL 
 x 2025-01-25 Fully review the projects list.
+x 2025-01-25 Follow up on the Fiver post about darktable
+x 2025-01-25 Publicly thank someone +Overhead  
+x 2025-01-25 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2025-01-25 Review the hosting move for WWW site  
