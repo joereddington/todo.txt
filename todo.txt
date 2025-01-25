@@ -1,7 +1,6 @@
 (E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 02 put Passports in the safe
-(E) 03 Give laptop screen a good clean +Overhead
 (E) 04 TSE +Health  
 (E) 05 Floss +Health   
 (E) 05 Trim nose hair +Health    
@@ -31,14 +30,13 @@
 (D) 40 start full accounts algorithm +EQT 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
-(E) Check out OpenAis Operator
-(C) Check that IMPS will run locally and that it can sync up.  +EQT
-(E) Claim expenses for Conference thing +RHUL
-(D) Clean out Fridge
-(E) Close down the WWW server (or at least reduce - it's holding the www site)  
+(C) 10 Clone IMPS on tower and check if it can run 
+(D) 10 Clean out Fridge
+(E) 10 Brainstorm how to close down the WWW server 
 (E) Do full review of the memory palace. 
+(E) Review the physics memory palace 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(C) Find Food and Cooking Book 
+(C) Read 40 pages in Food and Cooking Book 
 (E) Find out why we lose setxkbdmp us and the print screen. 
 (E) Fix camera lenses 
 (D) Follow up on the Fiver post about darktable
@@ -55,12 +53,11 @@
 (C) Review the hosting move for WWW site  
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (E) run mgitstus on the laptop
-(B) Lookup date for next coursera webinars 
 (B) Setup the GitLab for this year's book cohort  +RHUL
 (C) Talk to Nova about going climbing
-(B) Upload the webinar for coursea 
-(E) Work out the proper costs for disneyland 
-(B) Work through the rest of the coursea material  
-(B) Work through the rest of the coursea textbook
+(B) 10 Upload the webinar recording for coursea 
+(E) Review all spending on joint account that could be disneyland 
+(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
+(B) 20 Read another chapter of Computer Security 
 (C) Write Gratitude post
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(E) Fix BeeGee 

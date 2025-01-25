@@ -1164,3 +1164,8 @@ x 2025-01-24 Save a nice family memory +Family @phone
 x 2025-01-24 Check starred messages in kat whatsapp 
 x 2025-01-24 10 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 x 2025-01-24 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2025-01-25 Lookup date for next coursera webinars 
+x 2025-01-25 Check out OpenAis Operator
+x 2025-01-25 03 Give laptop screen a good clean +Overhead
+x 2025-01-25 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2025-01-25 Claim expenses for Conference thing +RHUL
