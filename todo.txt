@@ -1,15 +1,13 @@
 (E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 02 put Passports in the safe
-(E) 03 Transfer £280 from holiday fund to spending @phone
-(E) 04 TSE +Health  
 (E) 05 Floss +Health   
 (C) 05 Talk to Nova about going climbing
 (E) 05 Trim nose hair +Health    
 (E) 06 Go and look in the garage for headphone cable for tower
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
-(E) 10 Brainstorm how to close down the WWW server 
+(E) 10 Brainstorm how to close down the WWW server  @b
 (D) 10 Clean out Fridge
 (C) 10 Clone IMPS on tower and check if it can run 
 (E) 10 Do two level of Duolingo  @phone 
