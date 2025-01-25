@@ -1,11 +1,15 @@
 (E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 02 put Passports in the safe
+(E) 03 Transfer £280 from holiday fund to spending @phone
 (E) 04 TSE +Health  
 (E) 05 Floss +Health   
 (E) 05 Trim nose hair +Health    
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
+(E) 10 Brainstorm how to close down the WWW server 
+(D) 10 Clean out Fridge
+(C) 10 Clone IMPS on tower and check if it can run 
 (E) 10 Do two level of Duolingo 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead   @phone
 (e) 10 Find the memory index. 
@@ -14,14 +18,17 @@
 (E) 10 Map a project for  next phase of the Garage Project 
 (C) 10 Post Rachel's gift 
 (E) 10 Upload some of the family vidoes to youtube
+(B) 10 Upload the webinar recording for coursea 
 (C) 10 Year plan: check you have 5 projects in each part
 (E) 15 Delores should work properly offline 
 (E) 15 Search your email for the details of your landlords insurance 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
 (E) 15 process Garage inbox. 
+(B) 20 Read another chapter of Computer Security 
 (E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) 20 Rewrite your gift policy and share on your networks
+(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (C) 30 Review and re-score  Wheel Of life
@@ -29,35 +36,26 @@
 (A) 40 Setup folder for printed comic for writers.
 (D) 40 start full accounts algorithm +EQT 
 (E) 45 Build Lego ISS
+(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (E) 60 Fix the holes in the flooring again
-(C) 10 Clone IMPS on tower and check if it can run 
-(D) 10 Clean out Fridge
-(E) 10 Brainstorm how to close down the WWW server 
 (E) Do full review of the memory palace. 
-(E) Review the physics memory palace 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(C) Read 40 pages in Food and Cooking Book 
 (E) Find out why we lose setxkbdmp us and the print screen. 
+(E) 10 Fix BeeGee 
 (E) Fix camera lenses 
 (D) Follow up on the Fiver post about darktable
 (E) Fully Map the CASPER project as a private project +RHUL
-(B) Fully review the projects list.
 (E) Go and look in the garage for headphone cable for tower
 (B) Look at the EQT projects and see what should be moved over to bear claw  
-(B) Make sure you have booked a bunch of leave from RHUL 
 (E) Print out and self review exam  +RHUL
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
+(C) Read 40 pages in Food and Cooking Book 
 (E) Repair the lnh command 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Review the hosting move for WWW site  
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
-(E) run mgitstus on the laptop
+(E) Review the physics memory palace 
 (B) Setup the GitLab for this year's book cohort  +RHUL
 (C) Talk to Nova about going climbing
-(B) 10 Upload the webinar recording for coursea 
-(E) Review all spending on joint account that could be disneyland 
-(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
-(B) 20 Read another chapter of Computer Security 
 (C) Write Gratitude post
-(E) Fix BeeGee 
+(E) run mgitstus on the laptop

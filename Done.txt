@@ -1169,3 +1169,5 @@ x 2025-01-25 Check out OpenAis Operator
 x 2025-01-25 03 Give laptop screen a good clean +Overhead
 x 2025-01-25 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 x 2025-01-25 Claim expenses for Conference thing +RHUL
+x 2025-01-25 Make sure you have booked a bunch of leave from RHUL 
+x 2025-01-25 Fully review the projects list.
