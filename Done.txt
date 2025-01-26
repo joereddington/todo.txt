@@ -1184,3 +1184,4 @@ x 2025-01-25 Empty whatsapp and facebook inboxes. +Overhead
 x 2025-01-25 run mgitstus on the laptop
 x 2025-01-25 10 Fix BeeGee 
 x 2025-01-26 20 Look at the EQT projects and see what should be moved over to bear claw  
+x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT

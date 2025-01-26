@@ -11,7 +11,7 @@
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 15 Write Gratitude post
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
+x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Review and re-score  Wheel Of life
 (C) 40 Read 40 pages in Food and Cooking Book 
 (D) 10 Clean out Fridge
