@@ -2,6 +2,8 @@
 (B) 10 Setup the GitLab for this year's book cohort  +RHUL
 (B) 10 Upload WebinarToUpload.mp4 to coursea 
 (B) 20 Read another chapter of Computer Security on table 
+(C) Map project to trial a new textbook (MAYBE the whole of the one you have) 
+(C) Map project for fixing the Unity Bank mandate
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (C) 05 Talk to Nova about going climbing
 (C) 10 Clone IMPS on tower and check if it can run 
