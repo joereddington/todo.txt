@@ -18,6 +18,10 @@
 (C) 10 Post Rachel's gift @podcast 
 (E) 10 Repair the lnh command 
 (B) 10 Setup the GitLab for this year's book cohort  +RHUL
+(C) 20 Set timer and practice decoding the long strings the chemistry book. 
+(B) 60 Press-ups
+(C) Put up extremely proper chin up bar somewhere 
+(C) 10 write out the first 9 elements in the chemistry book 
 (B) 10 Upload WebinarToUpload.mp4 to coursea 
 (E) 10 Upload some of the family vidoes to youtube
 (C) 10 Year plan: check you have 5 projects in each part
