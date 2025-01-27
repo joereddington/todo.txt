@@ -8,7 +8,7 @@
 (C) 05 Talk to Nova about going climbing
 (C) 10 Clone IMPS on tower and check if it can run 
 (C) 10 Post Rachel's gift @podcast 
-(C) 10 Year plan: check you have 5 projects in each part
+(C) Go through Bear claw properly  
 (C) 10 write out the first 9 elements in the chemistry book 
 (C) 15 Write Gratitude post
 (C) 20 Set timer and practice decoding the long strings the chemistry book. 
@@ -24,7 +24,6 @@
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
-(E) 10 Do two level of Duolingo  @phone 
 (E) 10 Fully Map the CASPER project as a project +RHUL
 (E) 10 Look for Licence photo to Dunstable Judo club
 (C) Start Daddy School 
@@ -37,10 +36,10 @@
 (E) 10 Repair the lnh command 
 (E) See if we can run duo maths on my tablet
 (E) Send mum a statement 
-(E) 10 Upload some of the family vidoes to youtube
-x 2025-01-27 15 Delores should work properly offline 
 (E) 15 Make setien  @podcast
 (E) 15 Search your email for the details of your landlords insurance 
+(C) Cancel the judo competition 
+(E) Cancel Claude subscription 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
 (E) 15 process Garage inbox. 
 (E) 20 Review starred items in feeds +Overhead +EQT
@@ -57,4 +56,4 @@ x 2025-01-27 15 Delores should work properly offline
 (E) Find out why we lose setxkbdmp us and the print screen. 
 (E) Find the old reconciliation spreadsheet in Dropbox and transfer 1k 
 (E) Sainsburies/talk to kat about tesco order
-(e) 10 Find the memory index. 
+(e) 10 Get external drive from safe and check for index.pdf  
