@@ -1,43 +1,35 @@
-(A) 40 Setup folder for printed comic for writers.
-(B) 10 Setup the GitLab for this year's book cohort  +RHUL
-(B) 10 Upload WebinarToUpload.mp4 to coursea 
-(B) 20 Read another chapter of Computer Security on table 
-(B) Do Yvonne code  
-(A) Ask Yvonne for their Choose Your Own Advanture map
-(C) Map project to trial a new textbook (MAYBE the whole of the one you have) 
-(C) Map project for fixing the Unity Bank mandate
-(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
-(C) 05 Talk to Nova about going climbing
-(C) 10 Clone IMPS on tower and check if it can run 
-(C) 10 Post Rachel's gift 
-(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Write Gratitude post
-x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT
-(C) 30 Review and re-score  Wheel Of life
-(C) 40 Read 40 pages in Food and Cooking Book 
-(D) 10 Clean out Fridge
-(D) 40 start full accounts algorithm +EQT 
-(E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2025-01-27 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2025-01-27 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 02 put Passports in the safe
 (E) 05 Floss +Health   
+(C) 05 Talk to Nova about going climbing
 (E) 05 Trim nose hair +Health    
 (E) 06 Go and look in the garage for headphone cable for tower
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
+
+(D) 10 Clean out Fridge
+(C) 10 Clone IMPS on tower and check if it can run 
 (E) 10 Do two level of Duolingo  @phone 
+(e) 10 Find the memory index. 
 (E) 10 Fully Map the CASPER project as a private project +RHUL
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
+(C) 10 Post Rachel's gift 
 (E) 10 Repair the lnh command 
+(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(B) 10 Setup the GitLab for this year's book cohort  +RHUL
+(B) 10 Upload WebinarToUpload.mp4 to coursea 
 (E) 10 Upload some of the family vidoes to youtube
+(C) 10 Year plan: check you have 5 projects in each part
 (E) 15 Delores should work properly offline 
 (E) 15 Search your email for the details of your landlords insurance 
+(C) 15 Write Gratitude post
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
 (E) 15 process Garage inbox. 
+(B) 20 Read another chapter of Computer Security on table 
 (E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Review the physics memory palace 
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
@@ -45,9 +37,17 @@ x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try the none-focusing camera lens and have a google for what's wrong 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
+(C) 30 Review and re-score  Wheel Of life
 (E) 30 Tidy Garage 
+(C) 40 Read 40 pages in Food and Cooking Book 
+(A) 40 Setup folder for printed comic for writers.
+(D) 40 start full accounts algorithm +EQT 
 (E) 45 Build Lego ISS
+(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (E) 60 Fix the holes in the flooring again
 (E) 60 Print out and self review exam  +RHUL
+(A) Ask Yvonne for their Choose Your Own Advanture map
+(B) Do Yvonne code  
 (E) Find out why we lose setxkbdmp us and the print screen. 
-(e) 10 Find the memory index. 
+(C) Map project for fixing the Unity Bank mandate
+(C) Map project to trial a new textbook (MAYBE the whole of the one you have) 
