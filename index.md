@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<IMG SRC="priority.png" alt="Chart showing the size of the personal list over time" width=400>
+<IMG SRC="priority.png" alt="Chart showing the size of the personal list over time" width=600>
 
 # Public Todo List 
 
