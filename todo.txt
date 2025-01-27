@@ -9,11 +9,13 @@
 (E) 10 Do two level of Duolingo  @phone 
 (e) 10 Find the memory index. 
 (E) 10 Fully Map the CASPER project as a project +RHUL
+(E) Sainsburies/talk to kat about tesco order
+(E) 15 Make setien  @podcast
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) Find the old reconciliation spreadsheet in Dropbox and transfer 1k 
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
-(C) 10 Post Rachel's gift 
+(C) 10 Post Rachel's gift @podcast 
 (E) 10 Repair the lnh command 
 (B) 10 Setup the GitLab for this year's book cohort  +RHUL
 (B) 10 Upload WebinarToUpload.mp4 to coursea 
