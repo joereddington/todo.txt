@@ -1,4 +1,5 @@
 (C) 05 Talk to Nova about going climbing
+(E) 02 Put a tag on the gratitude book 
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
@@ -7,8 +8,9 @@
 (C) 10 Clone IMPS on tower and check if it can run 
 (E) 10 Do two level of Duolingo  @phone 
 (e) 10 Find the memory index. 
-(E) 10 Fully Map the CASPER project as a private project +RHUL
+(E) 10 Fully Map the CASPER project as a project +RHUL
 (E) 10 Look for Licence photo to Dunstable Judo club
+(E) Find the old reconciliation spreadsheet in Dropbox and transfer 1k 
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
 (C) 10 Post Rachel's gift 
@@ -17,6 +19,9 @@
 (B) 10 Upload WebinarToUpload.mp4 to coursea 
 (E) 10 Upload some of the family vidoes to youtube
 (C) 10 Year plan: check you have 5 projects in each part
+(C) Properly make a list of things to do in bedroom 
+(C) Book massage 
+(C) Start proper press-ups 
 (E) 15 Delores should work properly offline 
 (E) 15 Search your email for the details of your landlords insurance 
 (C) 15 Write Gratitude post
