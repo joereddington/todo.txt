@@ -1,8 +1,7 @@
-(A) 40 Setup folder for printed comic for writers.
-(A) Ask Yvonne for their Choose Your Own Advanture map
-(B) 10 Setup the GitLab for this year's book cohort  +RHUL
-(B) 10 Upload WebinarToUpload.mp4 to coursea 
-(B) 20 Read another chapter of Computer Security on table 
+(A Writers ) 40 Setup folder for printed comic for writers.
+(A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
+(B Students) 10 Setup the GitLab for this year's book cohort  +RHUL
+(B) 20 Download and read another chapter of Computer Security on tablet
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
 (B) Do Yvonne code  
@@ -16,11 +15,10 @@
 (C) 30 Review and re-score  Wheel Of life
 (C) 40 Read 40 pages in Food and Cooking Book 
 (C) Book massage 
-(C) Map project for completing bedroom DIY 
-(C) Map project for fixing the Unity Bank mandate
-(C) Map project to trial a new textbook (MAYBE the whole of the one you have) 
-(C) Put up extremely proper chin up bar somewhere 
-(C) Start proper press-ups 
+(C) 10 Map project for completing bedroom DIY 
+(C) 10 Map project for fixing the Unity Bank mandate
+(C) 10 Map project to trial a new textbook (MAYBE the whole of the one you have) 
+(C) 20 Start proper press-ups 
 (D) 10 Clean out Fridge
 (D) 40 start full accounts algorithm +EQT 
 (E) 02 Put a tag on the gratitude book 
@@ -31,14 +29,15 @@
 (E) 10 Fully Map the CASPER project as a project +RHUL
 (E) 10 Look for Licence photo to Dunstable Judo club
 (C) Start Daddy School 
-(D) Practice forward rolls with Leo 
-(E) Practice catch with the kids
-(E) Get scratch working on your laptop (and Nova's?) 
-(E) Review the English Curriculum for Primary school  
-(C) Lookup the plane place that Nova is going to. 
+(D) 10 Practice forward rolls with Leo 
+(E) 10 Practice catch with the kids
+(E) 15 Get scratch working on your laptop (and Nova's?)  @laptop
+(E) 10 Review the English Curriculum for Primary school  
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map a project for  next phase of the Garage Project 
 (E) 10 Repair the lnh command 
+(E) See if we can run duo maths on my tablet
+(E) Send mum a statement 
 (E) 10 Upload some of the family vidoes to youtube
 (E) 15 Delores should work properly offline 
 (E) 15 Make setien  @podcast

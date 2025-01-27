@@ -1193,3 +1193,6 @@ x 2025-01-27 05 Floss +Health
 x 2025-01-27 05 Trim nose hair +Health    
 x 2025-01-27 06 Go and look in the garage for headphone cable for tower
 x 2025-01-27 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+x 2025-01-27 10 Upload WebinarToUpload.mp4 to coursea 
+x 2025-01-27 Put up extremely proper chin up bar somewhere 
+x 2025-01-27 Lookup the plane place that Nova is going to. 
