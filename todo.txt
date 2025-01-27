@@ -12,7 +12,6 @@
 (C) 10 write out the first 9 elements in the chemistry book 
 (C) 15 Write Gratitude post
 (C) 20 Set timer and practice decoding the long strings the chemistry book. 
-(C) 30 Review and re-score  Wheel Of life
 (C) 40 Read 40 pages in Food and Cooking Book 
 (C) Book massage 
 (C) 10 Map project for completing bedroom DIY 
@@ -39,7 +38,7 @@
 (E) See if we can run duo maths on my tablet
 (E) Send mum a statement 
 (E) 10 Upload some of the family vidoes to youtube
-(E) 15 Delores should work properly offline 
+x 2025-01-27 15 Delores should work properly offline 
 (E) 15 Make setien  @podcast
 (E) 15 Search your email for the details of your landlords insurance 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
