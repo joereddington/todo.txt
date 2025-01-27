@@ -1188,3 +1188,7 @@ x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT
 x 2025-01-26 20 Run mgit status on the git directory and process all alerts +EQT
 x 2025-01-27 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2025-01-27 02 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2025-01-27 02 put Passports in the safe
+x 2025-01-27 05 Floss +Health   
+x 2025-01-27 05 Trim nose hair +Health    
+x 2025-01-27 06 Go and look in the garage for headphone cable for tower
