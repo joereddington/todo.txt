@@ -1,11 +1,11 @@
-(E) 05 Cancel Claude subscription 
+x 2025-01-27 03 Make sure Francesaca is in Diary for next week 
+(E) 05 Cancel Claude subscription  @laptop 
 (C) 05 Talk to Nova about going climbing
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
 (D) 10 Clean out Fridge
-(C) 10 Clone IMPS on tower and check if it can run 
-(E) 10 Fully Map the CASPER project as a project +RHUL
+(E) 10 Map the CASPER as a project +RHUL
 (e) 10 Get external drive from safe and check for index.pdf  
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
@@ -13,12 +13,14 @@
 (C) 10 Map project for completing bedroom DIY 
 (C) 10 Map project for fixing the Unity Bank mandate
 (C) 10 Map project to trial a new textbook (MAYBE the whole of the one you have) 
-(C) 10 Post Rachel's gift @podcast 
 (E) 10 Practice catch with the kids
 (D) 10 Practice forward rolls with Leo 
 (E) 10 Repair the lnh command 
 (E) 10 Review the English Curriculum for Primary school  
+(C) 10 See if IMPS3 runs on Tower 
+(C) 10 Setup for Daddy School 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL
+(C) 10 get envelope to Post Rachel's gift @podcast 
 (C) 10 write out the first 9 elements in the chemistry book 
 (E) 15 Get scratch working on your laptop (and Nova's?)  @laptop
 (E) 15 Make setien  @podcast
@@ -27,6 +29,7 @@
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
 (E) 15 process Garage inbox. 
 (B) 20 Download and read another chapter of Computer Security on tablet
+(C) 20 Go through Project list properly and write up the relevant ones
 (E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Review the physics memory palace 
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
@@ -45,11 +48,9 @@
 (B) 60 Press-ups
 (E) 60 Print out and self review exam  +RHUL
 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
-(C) Book massage 
-(C) Cancel the judo competition 
-(B) Do Yvonne code: password ideas 
-(E) Find out why we lose setxkbdmp us and the print screen. 
-(E) Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
-(C) 20 Go through Project list properly and write up the relevant ones
-(C) 03 Make sure Francesaca is in Diary for next week 
-(C) 10 Setup for Daddy School 
+(C) 10 Book massage 
+(C) 10 Cancel the judo competition 
+(B) 20 Next version of Yvonne password code 
+(E) 20 Find out why we lose setxkbdmp us and the print screen. 
+(E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
+(C) 03 Talk to Kat about being out on Thursda 6th. 
