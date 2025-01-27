@@ -1,8 +1,4 @@
-x 2025-01-27 02 put Passports in the safe
-x 2025-01-27 05 Floss +Health   
 (C) 05 Talk to Nova about going climbing
-x 2025-01-27 05 Trim nose hair +Health    
-x 2025-01-27 06 Go and look in the garage for headphone cable for tower
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
@@ -17,7 +13,6 @@ x 2025-01-27 06 Go and look in the garage for headphone cable for tower
 (E) 10 Map a project for  next phase of the Garage Project 
 (C) 10 Post Rachel's gift 
 (E) 10 Repair the lnh command 
-(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (B) 10 Setup the GitLab for this year's book cohort  +RHUL
 (B) 10 Upload WebinarToUpload.mp4 to coursea 
 (E) 10 Upload some of the family vidoes to youtube

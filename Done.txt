@@ -1192,3 +1192,4 @@ x 2025-01-27 02 put Passports in the safe
 x 2025-01-27 05 Floss +Health   
 x 2025-01-27 05 Trim nose hair +Health    
 x 2025-01-27 06 Go and look in the garage for headphone cable for tower
+x 2025-01-27 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
