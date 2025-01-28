@@ -1,3 +1,5 @@
+(A) Do annual Accounts 
+(E) Fix Air Conditioning 
 (A Writers ) 40 Setup folder for printed comic for writers.
 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL
@@ -37,7 +39,7 @@
 (E) 10 Review the English Curriculum for Primary school  
 (E) 15 Get scratch working on your laptop (and Nova's?)  @laptop
 (E) 15 Make setien  @podcast
-(E) 15 Search your email for the details of your landlords insurance 
+x 2025-01-28 15 Search your email for the details of your landlords insurance 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
 (E) 15 process Garage inbox. 
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
