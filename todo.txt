@@ -13,10 +13,10 @@ x 2025-01-28 10 Map project for completing bedroom DIY
 (E) Put up Chin-up Bar 
 (E) Take exercise things to spare room 
 x 2025-01-28 10 Map project to trial a new textbook (MAYBE the whole of the one you have) 
-(C) 10 See if IMPS3 runs on Tower 
+(C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
-(C) 10 Setup for Daddy School 
-(C) 10 get envelope to Post Rachel's gift @podcast 
+x 2025-01-28 10 Setup for Daddy School 
+(C) 10 get Rachel's address 
 (C) 10 write out the first 9 elements in the chemistry book 
 (C) 15 Write Gratitude post
 (C) 20 Go through Project list properly and write up the relevant ones
