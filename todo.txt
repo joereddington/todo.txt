@@ -1,7 +1,6 @@
-(A) Do annual Accounts 
-(E) Fix Air Conditioning 
 (A Writers ) 40 Setup folder for printed comic for writers.
 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
+(A) Do annual Accounts 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL
 (B) 20 Download and read another chapter of Computer Security on tablet
 (B) 20 Next version of Yvonne password code 
@@ -9,6 +8,7 @@
 (B) 60 Press-ups
 (C) 03 Talk to Kat about being out on Thursda 6th. 
 (C) 05 Talk to Nova about going climbing
+(C) Bend the Gates back into place. 
 (C) 10 Book massage 
 (C) 10 Cancel the judo competition 
 (C) 10 Map project for completing bedroom DIY 
@@ -27,21 +27,17 @@
 (D) 10 Practice forward rolls with Leo 
 (E) 05 Cancel Claude subscription  @laptop 
 (E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
-(E) 10 Ask Kat about Sanding the mantle down in the garage 
 (E) 10 Brainstorm how to close down the WWW server  @b
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
-(E) 10 Map a project for  next phase of the Garage Project 
 (E) 10 Map the CASPER as a project +RHUL
 (E) 10 Practice catch with the kids
 (E) 10 Repair the lnh command 
 (E) 10 Review the English Curriculum for Primary school  
 (E) 15 Get scratch working on your laptop (and Nova's?)  @laptop
 (E) 15 Make setien  @podcast
-x 2025-01-28 15 Search your email for the details of your landlords insurance 
 (E) 15 Write a 'so you are going to be a guest lecturer' document: accessibility, room attendance, is content examinable +RHUL
-(E) 15 process Garage inbox. 
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
 (E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Review the physics memory palace 
@@ -50,9 +46,10 @@ x 2025-01-28 15 Search your email for the details of your landlords insurance
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try the none-focusing camera lens and have a google for what's wrong 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 30 Tidy Garage 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
+(E) Review the GA nomination of BA2018
 (E) 60 Print out and self review exam  +RHUL
+(E) Fix Air Conditioning 
+(E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (e) 10 Get external drive from safe and check for index.pdf  
-x 2025-01-27 03 Make sure Francesaca is in Diary for next week 
