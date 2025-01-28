@@ -22,10 +22,11 @@
 (C) Cut a few mm off the gate bolt
 (D) 10 Clean out Fridge
 (D) 10 Get out mattress for rolls for Leo 
-(E) 07 Take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
-(E) 10 Brainstorm how to close down the WWW server  @b
+(E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
+(C) Send Agend's for next week 
+(E) 10 Fully back up WWW server 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
-(E) 10 Look for Licence photo to Dunstable Judo club
+x 2025-01-28 10 Look for Licence photo to Dunstable Judo club
 (E) 10 Lookup how to Book car in at Halfords to do the wiring for camera.  +Internet
 (E) 10 Map the CASPER as a project +RHUL
 (E) 10 Practice catch with the kids
