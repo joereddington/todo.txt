@@ -20,9 +20,11 @@ x 2025-01-28 10 Setup for Daddy School
 x 2025-01-28 10 write out the first 9 elements in the chemistry book 
 (C) Review the first 9 items in the physics book 
 (C) 15 Write Gratitude post
-(C) 20 Go through Project list properly and write up the relevant ones
-(C) 20 Set timer and practice decoding the long strings the chemistry book. 
-(C) 20 Start proper press-ups 
+(C) 20 Look at each project in Bearclaw and confirm that it is SMART 
+x 2025-01-28 20 Set timer and practice decoding the long strings the chemistry book. 
+(E) Fix 'knot' in the physics contstnat 
+(C) Practice decoding the long strings for the first 9 values in the chemistry book. 
+x 2025-01-28 20 Start proper press-ups 
 (C) 40 Read 40 pages in Food and Cooking Book 
 (C) Bend the Gates back into place.  @garage 
 (D) 10 Clean out Fridge
