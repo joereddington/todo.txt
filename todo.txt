@@ -1,17 +1,20 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
-x 2025-01-28 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
 (A) Do annual Accounts 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
-(B) 20 Download and read another chapter of Computer Security on tablet
+(B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
 (C) 05 Talk to Nova about going climbing
-(C) 10 Book massage 
-(C) 10 Cancel the judo competition 
-(C) 10 Map project for completing bedroom DIY 
-(C) 10 Map project for fixing the Unity Bank mandate
-(C) 10 Map project to trial a new textbook (MAYBE the whole of the one you have) 
+x 2025-01-28 10 Book massage 
+(C) Do strengthening exercises
+x 2025-01-28 10 Cancel the judo competition 
+x 2025-01-28 10 Map project for completing bedroom DIY 
+(C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
+(E) Put up Chin-up Bar 
+(E) Take exercise things to spare room 
+x 2025-01-28 10 Map project to trial a new textbook (MAYBE the whole of the one you have) 
 (C) 10 See if IMPS3 runs on Tower 
+(C) 10 Make a list of which universities use which textbooks for their courses. 
 (C) 10 Setup for Daddy School 
 (C) 10 get envelope to Post Rachel's gift @podcast 
 (C) 10 write out the first 9 elements in the chemistry book 
@@ -51,4 +54,3 @@ x 2025-01-28 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) Review the GA nomination of BA2018
 (e) 10 Get external drive from safe and check for index.pdf  
-x 2025-01-28 20 Next version of Yvonne password code 
