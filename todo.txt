@@ -30,7 +30,7 @@
 (E) 10 Practice catch with Nova and Leo 
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
-(E) 20 Review the physics memory palace 
+x 2025-01-28 20 Review the physics memory palace 
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) 20 Rewrite your gift policy and share on your networks
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
