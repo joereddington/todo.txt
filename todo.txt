@@ -1,14 +1,13 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
 (A) Do annual Accounts 
-(B Students) 10 Setup the GitLab for this year's book cohort  +RHUL
+(B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 (B) 20 Download and read another chapter of Computer Security on tablet
 (B) 20 Next version of Yvonne password code 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
-(C) 03 Talk to Kat about being out on Thursda 6th. 
 (C) 05 Talk to Nova about going climbing
-(C) Bend the Gates back into place. 
+(C) Bend the Gates back into place.  @garage 
 (C) 10 Book massage 
 (C) 10 Cancel the judo competition 
 (C) 10 Map project for completing bedroom DIY 
