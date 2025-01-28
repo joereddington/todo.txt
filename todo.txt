@@ -1,13 +1,11 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
-(A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
+x 2025-01-28 (A Yvonne) Ask Yvonne for their Choose Your Own Advanture map
 (A) Do annual Accounts 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 (B) 20 Download and read another chapter of Computer Security on tablet
-x 2025-01-28 20 Next version of Yvonne password code 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
 (C) 05 Talk to Nova about going climbing
-(C) Bend the Gates back into place.  @garage 
 (C) 10 Book massage 
 (C) 10 Cancel the judo competition 
 (C) 10 Map project for completing bedroom DIY 
@@ -22,6 +20,7 @@ x 2025-01-28 20 Next version of Yvonne password code
 (C) 20 Set timer and practice decoding the long strings the chemistry book. 
 (C) 20 Start proper press-ups 
 (C) 40 Read 40 pages in Food and Cooking Book 
+(C) Bend the Gates back into place.  @garage 
 (D) 10 Clean out Fridge
 (D) 10 Practice forward rolls with Leo 
 (E) 05 Cancel Claude subscription  @laptop 
@@ -47,8 +46,9 @@ x 2025-01-28 20 Next version of Yvonne password code
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
-(E) Review the GA nomination of BA2018
 (E) 60 Print out and self review exam  +RHUL
 (E) Fix Air Conditioning 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
+(E) Review the GA nomination of BA2018
 (e) 10 Get external drive from safe and check for index.pdf  
+x 2025-01-28 20 Next version of Yvonne password code 
