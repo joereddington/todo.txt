@@ -25,7 +25,7 @@ x 2025-01-28 20 Set timer and practice decoding the long strings the chemistry b
 (E) Fix 'knot' in the physics contstnat 
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 x 2025-01-28 20 Start proper press-ups 
-(C) 40 Read 40 pages in Food and Cooking Book 
+(C) 20 Read 20 pages in Food and Cooking Book 
 (C) Bend the Gates back into place.  @garage 
 (D) 10 Clean out Fridge
 (D) 10 Practice forward rolls with Leo 
