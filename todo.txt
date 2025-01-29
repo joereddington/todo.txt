@@ -27,7 +27,7 @@
 (E) 10 Fully back up WWW server 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 25 Hide the dashcam wire in the car
-(E) Email PC specialist about windows
+x 2025-01-29 Email PC specialist about windows
 (E) 10 Practice catch with Nova and Leo 
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
