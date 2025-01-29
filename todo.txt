@@ -11,7 +11,6 @@
 (E) Take exercise things to spare room 
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
-(C) 10 Post Rachel package 
 (C) Review the first 9 items in the physics book 
 (C) 15 Write Gratitude post
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
@@ -19,7 +18,7 @@
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (C) 20 Read 20 pages in Food and Cooking Book 
 (C) Order the missing screws for the gates 
-(C) Cut a few mm off the gate bolt
+(C) Check the gate bolt is the right size. 
 (D) 10 Clean out Fridge
 (D) 10 Get out mattress for rolls for Leo 
 (E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
@@ -27,11 +26,9 @@
 (E) 10 Fully back up WWW server 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 25 Hide the dashcam wire in the car
-x 2025-01-29 Email PC specialist about windows
 (E) 10 Practice catch with Nova and Leo 
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
-x 2025-01-28 20 Review the physics memory palace 
 (E) 20 Review videos on phone and see what needs uploading to Nova's youtube. 
 (E) 20 Rewrite your gift policy and share on your networks
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
