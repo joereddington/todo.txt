@@ -1,32 +1,28 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
 (A) Do annual Accounts 
+(A) Redo the Password thing for Yvonne 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
-(A) Redo the Password thing for Yvonne 
 (C) 05 Talk to Nova about going climbing
-(C) Do strengthening exercises
-(C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
-(E) Put up Chin-up Bar 
-(E) Take exercise things to spare room 
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
-(C) Review the first 9 items in the physics book 
+(C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 15 Write Gratitude post
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
-(E) Fix 'knot' in the physics contstnat 
-(C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (C) 20 Read 20 pages in Food and Cooking Book 
-(C) Order the missing screws for the gates 
 (C) Check the gate bolt is the right size. 
+(C) Do strengthening exercises
+(C) Order the missing screws for the gates 
+(C) Practice decoding the long strings for the first 9 values in the chemistry book. 
+(C) Review the first 9 items in the physics book 
+(C) Send Agend's for next week 
 (D) 10 Clean out Fridge
 (D) 10 Get out mattress for rolls for Leo 
 (E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
-(C) Send Agend's for next week 
-(E) 10 Fully back up WWW server 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
-(E) 25 Hide the dashcam wire in the car
+(E) 10 Fully back up WWW server 
 (E) 10 Practice catch with Nova and Leo 
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
@@ -34,10 +30,14 @@
 (E) 20 Rewrite your gift policy and share on your networks
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try the none-focusing camera lens and have a google for what's wrong 
+(E) 25 Hide the dashcam wire in the car
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 Fix the holes in the flooring again
 (E) 60 Print out and self review exam  +RHUL
+(E) Fix 'knot' in the physics contstnat 
 (E) Fix Air Conditioning 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
+(E) Put up Chin-up Bar 
 (E) Review the GA nomination of BA2018
+(E) Take exercise things to spare room 
 (e) 10 Get external drive from safe and check for index.pdf  
