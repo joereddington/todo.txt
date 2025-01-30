@@ -1,4 +1,5 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
+(C) Review my actions in the EQT meeting minutes
 (A) Do annual Accounts 
 (A) Redo the Password thing for Yvonne 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
