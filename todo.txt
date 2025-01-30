@@ -4,6 +4,7 @@
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
+(A) Redo the Password thing for Yvonne 
 (C) 05 Talk to Nova about going climbing
 (C) Do strengthening exercises
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
@@ -34,7 +35,6 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try the none-focusing camera lens and have a google for what's wrong 
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 45 Build Lego ISS
 (E) 60 Fix the holes in the flooring again
 (E) 60 Print out and self review exam  +RHUL
 (E) Fix Air Conditioning 
