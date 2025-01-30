@@ -42,3 +42,5 @@
 (E) Take exercise things to spare room 
 (e) 10 Get external drive from safe and check for index.pdf  
 (E) Calendar event to suspend Quickbooks
+(E) Contact Karen about Cyber Day 
+(E) Find out about Cyber First
