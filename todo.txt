@@ -1,4 +1,5 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
+(A) Check the insurance 
 (C) Write script for Sibs
 (C) Review my actions in the EQT meeting minutes
 (A) Complete annual Accounts 
@@ -8,6 +9,8 @@
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
 (C) 05 Talk to Nova about going climbing
+(C) Process Buffer.md on laptop 
+(B) Book karen 
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
