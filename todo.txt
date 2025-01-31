@@ -1,6 +1,6 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
 (C) Review my actions in the EQT meeting minutes
-(A) Do annual Accounts 
+(A) Complete annual Accounts 
 (A) Redo the Password thing for Yvonne 
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
@@ -37,10 +37,11 @@
 (E) Fix 'knot' in the physics contstnat 
 (E) Fix Air Conditioning 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
-(B) Book the final demo date for 3rd year project students 
+() Book the final demo date for 3rd year project students 
 (E) Review the GA nomination of BA2018
 (E) Take exercise things to spare room 
 (e) 10 Get external drive from safe and check for index.pdf  
 (E) Calendar event to suspend Quickbooks
 (E) Contact Karen about Cyber Day 
+(E) Send Thank you about the books 
 (E) Find out about Cyber First
