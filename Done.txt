@@ -6,3 +6,5 @@ x 2025-01-30 20 Review videos on phone and see what needs uploading to Nova's yo
 x 2025-01-31 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 x 2025-01-31 Book karen 
 x 2025-01-31 05 Talk to Nova about going climbing
+x 2025-01-31 10 Make a list of which universities use which textbooks for their courses. 
+x 2025-01-31 15 Write Gratitude post
