@@ -22,6 +22,7 @@
 (C) Send Agend's for next week 
 (D) 10 Clean out Fridge
 (D) 10 Get out mattress for rolls for Leo 
+(C) Clean out the rest of the password issues for mozillia monitor
 (E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
