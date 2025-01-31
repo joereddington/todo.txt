@@ -1,31 +1,33 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
 (A) Check the insurance 
-(C) Write script for Sibs
-(C) Review my actions in the EQT meeting minutes
 (A) Complete annual Accounts 
 (A) Redo the Password thing for Yvonne 
+(A) Setup webinars Thursday, 6th February, 4pm-5pm BST Thursday, 20th March, 4pm-5pm BST
 (B Students) 10 Setup the GitLab for this year's book cohort  +RHUL @laptop
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
-(C) 05 Talk to Nova about going climbing
-(C) Process Buffer.md on laptop 
 (B) Book karen 
+(C) 05 Talk to Nova about going climbing
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 15 Write Gratitude post
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (C) 20 Read 20 pages in Food and Cooking Book 
+(C) Book the final demo date for 3rd year project students 
 (C) Check the gate bolt is the right size. 
+(C) Clean out the rest of the password issues for mozillia monitor
 (C) Do strengthening exercises
 (C) Order the missing screws for the gates 
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
+(C) Process Buffer.md on laptop 
+(C) Review my actions in the EQT meeting minutes
 (C) Review the first 9 items in the physics book 
 (C) Send Agend's for next week 
+(C) Write script for Sibs
 (D) 10 Clean out Fridge
 (D) 10 Get out mattress for rolls for Leo 
-(C) Clean out the rest of the password issues for mozillia monitor
 (E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
@@ -39,14 +41,13 @@
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 Fix the holes in the flooring again
 (E) 60 Print out and self review exam  +RHUL
+(E) Calendar event to suspend Quickbooks
+(E) Contact Karen about Cyber Day 
+(E) Find out about Cyber First
 (E) Fix 'knot' in the physics contstnat 
 (E) Fix Air Conditioning 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
-(C) Book the final demo date for 3rd year project students 
 (E) Review the GA nomination of BA2018
+(E) Send Thank you about the books 
 (E) Take exercise things to spare room 
 (e) 10 Get external drive from safe and check for index.pdf  
-(E) Calendar event to suspend Quickbooks
-(E) Contact Karen about Cyber Day 
-(E) Send Thank you about the books 
-(E) Find out about Cyber First
