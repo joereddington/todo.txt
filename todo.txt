@@ -11,6 +11,7 @@
 (C) 05 Talk to Nova about going climbing
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Make a list of which universities use which textbooks for their courses. 
+(C) Find supervisor for the student
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 15 Write Gratitude post
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
