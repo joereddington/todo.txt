@@ -29,7 +29,7 @@
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) 20 Try the none-focusing camera lens and have a google for what's wrong 
+(E) 20 Take the camera lens to 
 (E) 25 finish hiding the dashcam wire in the car
 (E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 Print out and self review exam  +RHUL
