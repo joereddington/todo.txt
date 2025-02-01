@@ -37,6 +37,8 @@
 (E) 60 Fix the holes in the flooring again
 (E) 60 Print out and self review exam  +RHUL
 (E) Calendar event to suspend Quickbooks
+(E) 10 Brainstorm on emote.md
+(E) Apply to a crazy job
 (E) Contact Karen about Cyber Day 
 (E) Find out about Cyber First
 (E) Fix 'knot' in the physics contstnat 
