@@ -1,4 +1,5 @@
 (A Writers ) 40 Setup folder for printed comic for writers.
+(A) Practice Talk for Seminar 
 (A) Complete annual Accounts 
 (A) Redo the Password thing for Yvonne 
 (A) Setup webinars Thursday, 6th February, 4pm-5pm BST Thursday, 20th March, 4pm-5pm BST
@@ -6,17 +7,19 @@
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
+(C) Work out exam deadline for Coursea 
 (C) Find supervisor for the student
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
-(C) 20 Read 20 pages in Food and Cooking Book 
 (C) Book the final demo date for 3rd year project students 
-(C) Check the gate bolt is the right size. 
+x 2025-02-02 Check the gate bolt is the right size. 
 (C) Clean out the rest of the password issues for mozillia monitor
 (C) Do strengthening exercises
 (C) Order the missing screws for the gates 
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (C) Process Buffer.md on laptop 
+(C) Work out redundency payment
+(C) Arrange meeting with Andy
 (C) Review my actions in the EQT meeting minutes
 (C) Send Agend's for next week 
 (C) Write script for Sibs
@@ -42,5 +45,4 @@
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) Review the GA nomination of BA2018
 (E) Send Thank you about the books 
-(E) Take exercise things to spare room 
 (e) 10 Get external drive from safe and check for index.pdf  
