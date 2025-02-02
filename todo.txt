@@ -18,7 +18,6 @@
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (C) Process Buffer.md on laptop 
 (C) Review my actions in the EQT meeting minutes
-(C) Review the first 9 items in the physics book 
 (C) Send Agend's for next week 
 (C) Write script for Sibs
 (D) 10 Get out mattress for rolls for Leo 
