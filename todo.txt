@@ -22,7 +22,7 @@
 (C) Send Agend's for next week 
 (C) Write script for Sibs
 (D) 10 Get out mattress for rolls for Leo 
-(E) 07 Get Kat to  take a photo for passport https://www.gov.uk/renew-adult-passport/renew 
+(E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
 (E) 10 Practice catch with Nova and Leo 
@@ -31,8 +31,8 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Take the camera lens to the camera shop  
 (E) 25 finish hiding the dashcam wire in the car
-(E) 30 Make blinking light 'hello world' on Arduino https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 60 Print out and self review exam  +RHUL
+(E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
+(E) 60 self review exam  +RHUL
 (E) Calendar event to suspend Quickbooks
 (E) 10 Brainstorm on emote.md
 (E) Apply to a crazy job
