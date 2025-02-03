@@ -1,48 +1,81 @@
-(A Writers ) 40 Setup folder for printed comic for writers.
-(A) Practice Talk for Seminar 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Complete annual Accounts 
+(A) Practice Talk for Seminar 
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (A) Redo the Password thing for Yvonne 
 (A) Setup webinars Thursday, 6th February, 4pm-5pm BST Thursday, 20th March, 4pm-5pm BST
+(A Writers ) 40 Setup folder for printed comic for writers.
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
 (B) 60 Press-ups
+(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
-(C) Work out exam deadline for Coursea 
-(C) Find supervisor for the student
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
+(C) Arrange meeting with Andy
 (C) Book the final demo date for 3rd year project students 
-x 2025-02-02 Check the gate bolt is the right size. 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Clean out the rest of the password issues for mozillia monitor
+(C) deploy any commits from OVF that are hanging around. 
 (C) Do strengthening exercises
+(C) Find supervisor for the student
 (C) Order the missing screws for the gates 
 (C) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (C) Process Buffer.md on laptop 
-(C) Work out redundency payment
-(C) Arrange meeting with Andy
+(C) Review and re-score  Wheel Of life
 (C) Review my actions in the EQT meeting minutes
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Send Agend's for next week 
+(C) Work out exam deadline for Coursea 
+(C) Work out redundency payment
 (C) Write script for Sibs
 (D) 10 Get out mattress for rolls for Leo 
+(D) Check starred messages in kat whatsapp 
+(D) Do full accounts algorithm +EQT 
+(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
+(E) 10 Brainstorm on emote.md
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
+(e) 10 Get external drive from safe and check for index.pdf  
 (E) 10 Practice catch with Nova and Leo 
 (E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Take the camera lens to the camera shop  
 (E) 25 finish hiding the dashcam wire in the car
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 self review exam  +RHUL
-(E) Calendar event to suspend Quickbooks
-(E) 10 Brainstorm on emote.md
+(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Apply to a crazy job
+(E) Calendar event to suspend Quickbooks
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Contact Karen about Cyber Day 
+(E) Cut nails +Health    
+(E) Cut Nova and Leo nails +Health    
+(E) Do Menu for the week +Family  @phone   
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find out about Cyber First
-(E) Fix 'knot' in the physics contstnat 
 (E) Fix Air Conditioning 
+(E) Fix 'knot' in the physics contstnat 
+(E) Floss +Health   
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Post to Vegan Facebook group  @phone   
+(E) Post to WWW facebook page +EQT  @phone   
+(E) process Garage inbox. 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Publicly thank someone +Overhead  
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) Review the GA nomination of BA2018
-(E) Send Thank you about the books 
-(e) 10 Get external drive from safe and check for index.pdf  
+(E) Save a nice family memory +Family @phone    
+(E) Trim nose hair +Health    

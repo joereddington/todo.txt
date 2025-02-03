@@ -15,3 +15,6 @@ x 2025-02-01 Check the insurance
 x 2025-02-02 Review the first 9 items in the physics book 
 x 2025-02-02 20 Read 20 pages in Food and Cooking Book 
 x 2025-02-02 Take exercise things to spare room 
+x 2025-02-02 Check the gate bolt is the right size. 
+x 2025-02-03 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+x 2025-02-03 Send Thank you about the books 
