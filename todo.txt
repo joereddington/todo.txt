@@ -1,21 +1,18 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) Fix todo.txt Done.txt 
 (A) Complete annual Accounts 
+(A) Ask for extra time about exams 
 (A) Practice Talk for Seminar 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(C) Setup the remote login to tower 
+(C) See about resurrecting the 618 server with an audino 
 (A) Redo the Password thing for Yvonne 
-(A) Setup webinars Thursday, 6th February, 4pm-5pm BST Thursday, 20th March, 4pm-5pm BST
 (A Writers ) 40 Setup folder for printed comic for writers.
 (B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
 (B) 50 Review the next two weeks of Coursera Content and write up your notes. 
-(B) 60 Press-ups
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (C) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (C) Arrange meeting with Andy
 (C) Book the final demo date for 3rd year project students 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Clean out the rest of the password issues for mozillia monitor
 (C) deploy any commits from OVF that are hanging around. 
 (C) Do strengthening exercises
@@ -28,8 +25,7 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Send Agend's for next week 
-(C) Work out exam deadline for Coursea 
-(C) Work out redundency payment
+(C) Work out redundancy payment
 (C) Write script for Sibs
 (D) 10 Get out mattress for rolls for Leo 
 (D) Check starred messages in kat whatsapp 
