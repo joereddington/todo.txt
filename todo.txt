@@ -1,42 +1,29 @@
 (A Date: 1st March ) Complete annual Accounts 
-(A) Ask for extra time about exams 
-(A) Practice Talk for Seminar 
-(C) Setup the remote login to tower 
-(C) See about resurrecting the 618 server with an audino 
-(A) Redo the Password thing for Yvonne 
-(A Writers ) 40 Setup folder for printed comic for writers.
-(B) 20 Download and read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
-(B) 50 Review the next two weeks of Coursera Content and write up your notes. 
-(C) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
-(C) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
-(C) 20 Look at each project in Bearclaw and confirm that it is SMART 
+(A ISG 10/2/25) 20 read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
+(A ISG 10/2/25) Write Next exam
+(A ISG 5/2/25) Practice Talk for Seminar 
+(A Yvonne 12/2/25 ) Put together the comic PDF for printing
+(A Yvonne 12/2/25) Redo the Password thing for Yvonne 
+(C Students 14/2/25) Book the final demo date for 3rd year project students 
+(C sibs 14/3/25  ) Write script for Sibs
 (C) Arrange meeting with Andy
-(C) Book the final demo date for 3rd year project students 
-(C) Clean out the rest of the password issues for mozillia monitor
-(C) deploy any commits from OVF that are hanging around. 
 (C) Do strengthening exercises
-(C) Find supervisor for the student
-(C) Order the missing screws for the gates 
-(C) Practice decoding the long strings for the first 9 values in the chemistry book. 
-(C) Process Buffer.md on laptop 
-(C) Review and re-score  Wheel Of life
-(C) Review my actions in the EQT meeting minutes
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) Send Agend's for next week 
-(C) Work out redundancy payment
-(C) Write script for Sibs
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm +EQT 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) Put up the architraving 
+(C) See about resurrecting the 618 server with an audino 
+(C) Setup the remote login to tower 
+(D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
+(D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
+(D) Clean out the rest of the password issues for mozillia monitor
+(D) Find out about Cyber First
+(D) Fix Air Conditioning 
+(D) Order the missing screws for the gates 
+(D) Work out redundancy payment
 (E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Brainstorm on emote.md
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
-(e) 10 Get external drive from safe and check for index.pdf  
-(E) 10 Practice catch with Nova and Leo 
-(E) 15 Make setien  @podcast
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
+(E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Take the camera lens to the camera shop  
 (E) 25 finish hiding the dashcam wire in the car
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
@@ -47,29 +34,24 @@
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Contact Karen about Cyber Day 
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find out about Cyber First
-(E) Fix Air Conditioning 
 (E) Fix 'knot' in the physics contstnat 
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Post to Vegan Facebook group  @phone   
 (E) Post to WWW facebook page +EQT  @phone   
-(E) process Garage inbox. 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Publicly thank someone +Overhead  
+(E) Practice decoding the long strings for the first 9 values in the chemistry book. 
+(E) Process Buffer.md on laptop 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
+(E) Review my actions in the EQT meeting minutes
 (E) Review the GA nomination of BA2018
-(E) Save a nice family memory +Family @phone    
+(E) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(E) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) Trim nose hair +Health    
+(E) process Garage inbox. 
+(e) 10 Get external drive from safe and check for index.pdf  
