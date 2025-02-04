@@ -1,5 +1,4 @@
-(A) Fix todo.txt Done.txt 
-(A) Complete annual Accounts 
+(A Date: 1st March ) Complete annual Accounts 
 (A) Ask for extra time about exams 
 (A) Practice Talk for Seminar 
 (C) Setup the remote login to tower 
@@ -27,7 +26,6 @@
 (C) Send Agend's for next week 
 (C) Work out redundancy payment
 (C) Write script for Sibs
-(D) 10 Get out mattress for rolls for Leo 
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
