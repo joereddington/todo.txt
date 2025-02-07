@@ -24,6 +24,7 @@
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Take the camera lens to the camera shop  
 (E) 25 finish hiding the dashcam wire in the car
+(C) Cancel Photoshop
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 self review exam  +RHUL
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
