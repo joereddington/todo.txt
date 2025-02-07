@@ -7673,3 +7673,5 @@ x 2024-06-19 Book time/date to donate blood
 x 2024-06-19 20 Add the chart and the update to the news checking blog post @online@hotel
 x 2025-02-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 x 2025-02-04 Publicly thank someone +Overhead  
+x 2025-02-07 (A Date: 1st March ) Complete annual Accounts 
+x 2025-02-07 (A ISG 10/2/25) 20 read another chapter of Computer Security on tablet( https://librarysearch.royalholloway.ac.uk/discovery/fulldisplay?docid=alma997054583802671&context=L&vid=44ROY_INST:44ROY_VU2&lang=en&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,gollmann%20dieter%20%20computer%20security&facet=rtype,include,books&offset=0 ) 
