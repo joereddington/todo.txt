@@ -1,4 +1,5 @@
 (A ISG 10/2/25) Write Next exam
+(E) Test Dynamo
 (A) Next draft of password thing for Yvonne 
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs
@@ -16,6 +17,7 @@
 (D) Work out redundancy payment
 (E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Brainstorm on emote.md
+(E) Check Fine properly paid
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
@@ -25,7 +27,6 @@
 (C) Cancel Photoshop
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 self review exam  +RHUL
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Apply to a crazy job
 (E) Calendar event to suspend Quickbooks
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT

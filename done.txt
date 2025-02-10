@@ -7682,3 +7682,4 @@ x 2025-02-10 Go thought calendar and find at least one 'thank you's  you *can* m
 x 2025-02-10 Check out the ebooks on the resources page. 
 x 2025-02-10 Post to Vegan Facebook group  @phone   
 x 2025-02-10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2025-02-10 Any Chocolate should be in the car or outside fridge (assuming winter)  
