@@ -1,7 +1,5 @@
 (A ISG 10/2/25) Write Next exam
-(A ISG 5/2/25) Practice Talk for Seminar 
-(A Yvonne 12/2/25 ) Put together the comic PDF for printing
-(A Yvonne 12/2/25) Redo the Password thing for Yvonne 
+(A) Next draft of password thing for Yvonne 
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs
 (C) Arrange meeting with Andy
@@ -39,10 +37,7 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Fix 'knot' in the physics contstnat 
 (E) Floss +Health   
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Post to Vegan Facebook group  @phone   
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process Buffer.md on laptop 
@@ -54,7 +49,5 @@
 (E) Trim nose hair +Health    
 (E) process Garage inbox. 
 (e) 10 Get external drive from safe and check for index.pdf  
-(E) Check out the ebooks on the resources page. 
 (E) Book blood sugar test at doctors. 
 (D) Map the Fellowship Application - Actually download and start filling it out. 
-
