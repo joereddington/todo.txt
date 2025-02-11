@@ -3,6 +3,7 @@
 (A) Next draft of password thing for Yvonne 
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs
+(C) Fix WWW website
 (C) Arrange meeting with Andy
 (C) Do strengthening exercises
 (C) Put up the architraving 
