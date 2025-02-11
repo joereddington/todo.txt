@@ -1,11 +1,11 @@
 (A ISG 10/2/25) Write Next exam
-(B) Write a report for EQT - include accounts and notes on redundancy  
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Next draft of password thing for Yvonne 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
+(B) Write a report for EQT - include accounts and notes on redundancy  
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs
 (C) Arrange meeting with Andy
@@ -74,6 +74,7 @@
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
+(E) Do a seven day trial of lightroom 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
@@ -106,6 +107,7 @@
 (E) TSE +Health  
 (E) Test Dynamo
 (E) Trim nose hair +Health    
+(E) Try posting the darktable request somewhere else 
 (E) Write Moonpig cards for this month +Overhead
 (E) get a new bag for laptop (vinted?)  
 (E) process Garage inbox. 
