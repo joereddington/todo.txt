@@ -1,35 +1,51 @@
 (A ISG 10/2/25) Write Next exam
-(E) Test Dynamo
 (A) Next draft of password thing for Yvonne 
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs
-(C) Fix WWW website
 (C) Arrange meeting with Andy
+(C) Block out a day for Legoland and Leo's birthday 
+(C) Buy the Ikea chair 
+(C) Cancel Photoshop
+(C) Do archivtraves 
 (C) Do strengthening exercises
+(C) Fix Nova blind 
+(C) Fix WWW website
+(C) Get little screws for cupboard door hinge 
+(C) Investigate top of front room cubpoards for lights
+(C) Make Joe lamp flexible 
+(C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Put up the architraving 
 (C) See about resurrecting the 618 server with an audino 
+(C) Send LCK an official 'these are my working days' email. 
 (C) Setup the remote login to tower 
+(C) Sort garage
+(C) Talk to Kat about getting more photos for front room
+(C) Talk to Kat about more furniture in living room 
+(C) Tidy wires for TV 
+(C) work out what the price of an entirely new shed would be (also JUST  in timber)  
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) Clean out the rest of the password issues for mozillia monitor
 (D) Find out about Cyber First
 (D) Fix Air Conditioning 
+(D) Map the Fellowship Application - Actually download and start filling it out. 
 (D) Order the missing screws for the gates 
 (D) Work out redundancy payment
 (E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Brainstorm on emote.md
-(E) Check Fine properly paid
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Take the camera lens to the camera shop  
 (E) 25 finish hiding the dashcam wire in the car
-(C) Cancel Photoshop
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 60 self review exam  +RHUL
 (E) Apply to a crazy job
+(E) Book blood sugar test at doctors. 
+(E) Build Lego ISS 
 (E) Calendar event to suspend Quickbooks
+(E) Check Fine properly paid
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
@@ -44,12 +60,14 @@
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process Buffer.md on laptop 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
+(E) Read a chapter of the Arduino book  
 (E) Review my actions in the EQT meeting minutes
 (E) Review the GA nomination of BA2018
 (E) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (E) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(E) Switch the office charging caple for one with more whatts 
+(E) Test Dynamo
 (E) Trim nose hair +Health    
+(E) get a new bag for laptop (vinted?)  
 (E) process Garage inbox. 
 (e) 10 Get external drive from safe and check for index.pdf  
-(E) Book blood sugar test at doctors. 
-(D) Map the Fellowship Application - Actually download and start filling it out. 
