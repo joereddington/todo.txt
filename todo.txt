@@ -1,11 +1,8 @@
 (A ISG 10/2/25) Write Next exam
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Next draft of password thing for Yvonne 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Do review the student merge requests
 (A) Cancel Adobe by end of month
+(A) Next draft of password thing for Yvonne 
 (B) Do aggresso 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) review the student merge requests
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
 (B) Write a report for EQT - include accounts and notes on redundancy  
@@ -14,29 +11,22 @@
 (C) Arrange meeting with Andy
 (C) Block out a day for Legoland and Leo's birthday 
 (C) Buy the Ikea chair 
-(C) Cancel Photoshop
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Do archivtraves 
-(C) Do strengthening exercises
 (C) Fix Nova blind 
 (C) Fix WWW website
-(C) Get little screws for cupboard door hinge 
 (C) Investigate top of front room cubpoards for lights
+(C) Pick hooks from the garage to put on cupboards
 (C) Make Joe lamp flexible 
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
-(C) Put up the architraving 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) See about resurrecting the 618 server with an audino 
 (C) Send LCK an official 'these are my working days' email. 
-(C) Setup the remote login to tower 
-(C) Sort garage
-(C) Talk to Kat about getting more photos for front room
+(C) Setup the remote login on Router to tower from outside the house
 (C) Talk to Kat about more furniture in living room 
 (C) Tidy wires for TV 
-(C) deploy any commits from OVF that are hanging around. 
 (C) work out what the price of an entirely new shed would be (also JUST  in timber)  
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
@@ -75,7 +65,6 @@
 (E) Contact Karen about Cyber Day 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do a seven day trial of lightroom 
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -87,7 +76,6 @@
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make seiten
 (E) Make sure you have a continual professional developement practice happening  +EQT
@@ -95,7 +83,6 @@
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process Buffer.md on laptop 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Publicly thank someone +Overhead  
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) Read a chapter of the Arduino book  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
@@ -107,7 +94,6 @@
 (E) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) Save a nice family memory +Family @phone    
 (E) Switch the office charging caple for one with more whatts 
-(E) TSE +Health  
 (E) Test Dynamo
 (E) Trim nose hair +Health    
 (E) Try posting the darktable request somewhere else 

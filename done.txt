@@ -7683,3 +7683,18 @@ x 2025-02-10 Check out the ebooks on the resources page.
 x 2025-02-10 Post to Vegan Facebook group  @phone   
 x 2025-02-10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2025-02-10 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2025-02-18 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-02-18 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2025-02-18 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+x 2025-02-18 Cancel Photoshop
+x 2025-02-18 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2025-02-18 Do strengthening exercises
+x 2025-02-18 Get little screws for cupboard door hinge 
+x 2025-02-18 Put up the architraving 
+x 2025-02-18 Sort garage
+x 2025-02-18 Talk to Kat about getting more photos for front room
+x 2025-02-18 deploy any commits from OVF that are hanging around. 
+x 2025-02-18 TSE +Health  
+x 2025-02-18 Log weight +Health   
+x 2025-02-18 Cut nails +Health    
+x 2025-02-18 Publicly thank someone +Overhead  
