@@ -7698,3 +7698,8 @@ x 2025-02-18 TSE +Health
 x 2025-02-18 Log weight +Health   
 x 2025-02-18 Cut nails +Health    
 x 2025-02-18 Publicly thank someone +Overhead  
+x 2025-02-22 (A ISG 10/2/25) Write Next exam
+x 2025-02-22 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2025-02-22 Investigate top of front room pboards for lights
+x 2025-02-22 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2025-02-22 Send LCK an official 'these are my working days' email. 

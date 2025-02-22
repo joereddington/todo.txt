@@ -1,29 +1,26 @@
-(A ISG 10/2/25) Write Next exam
+(A) Review Holiday options 
 (A) Cancel Adobe by end of month
 (A) Next draft of password thing for Yvonne 
-(B) Do aggresso 
+(B) Do aggresso  +RHUL 
 (B) review the student merge requests
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
+(B) Book Summer Holidays and Easter Leave from RHUL 
 (B) Write a report for EQT - include accounts and notes on redundancy  
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
-(C sibs 14/3/25  ) Write script for Sibs
+(C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) Arrange meeting with Andy
-(C) Block out a day for Legoland and Leo's birthday 
-(C) Buy the Ikea chair 
+(C) Block out a day for Legoland and Leo's birthday: Book leave 
+(C) Take appart the chair to wash covers 
 (C) Do archivtraves 
-(C) Fix Nova blind 
-(C) Fix WWW website
-(C) Investigate top of front room cubpoards for lights
-(C) Pick hooks from the garage to put on cupboards
+(C) Charge Nova blind 
+(C) Move WWW website
+(C) Put Hooks on Joe Cupboards
 (C) Make Joe lamp flexible 
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) See about resurrecting the 618 server with an audino 
-(C) Send LCK an official 'these are my working days' email. 
+x 2025-02-22 Send LCK an official 'these are my working days' email. 
 (C) Setup the remote login on Router to tower from outside the house
 (C) Talk to Kat about more furniture in living room 
 (C) Tidy wires for TV 
