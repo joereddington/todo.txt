@@ -1,14 +1,13 @@
 (A) 20 Review Holiday options 
-(A) Cancel Adobe by end of month
-(A) Next draft of password thing for Yvonne 
-(B) Do aggresso  +RHUL 
+(A) 10 Cancel Adobe by 5th March 
+(A) Another draft of password thing for Yvonne 
+(B) Login to aggresso and file expenses +RHUL 
 (B) 20 review the student merge requests
-(B) Book Summer Holidays and Easter Leave from RHUL 
-(B) Write a report for EQT - include accounts and notes on redundancy  
+(B) 10 Book Summer Holidays (18th July to 3rd September) and Easter Leave (4th April to 22nd April) from RHUL; Also Leo Birthday 
+(B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (C Students 14/2/25) Book the final demo date for 3rd year project students 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Arrange meeting with Andy
-(C) Block out a day for Legoland and Leo's birthday: Book leave 
+(C) 10 Email andy to arrange meeting with Andy
 (C) Take appart the chair to wash covers 
 (C) Do archivtraves 
 (C) Charge Nova blind 
@@ -20,7 +19,7 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) See about resurrecting the 618 server with an audino 
-(C) Test the remote login on Router to tower from outside the house
+x 2025-02-22 Test the remote login on Router to tower from outside the house
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) Check starred messages in kat whatsapp 
