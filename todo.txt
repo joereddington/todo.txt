@@ -20,24 +20,18 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) See about resurrecting the 618 server with an audino 
-x 2025-02-22 Send LCK an official 'these are my working days' email. 
-(C) Setup the remote login on Router to tower from outside the house
-(C) Talk to Kat about more furniture in living room 
-(C) Tidy wires for TV 
-(C) work out what the price of an entirely new shed would be (also JUST  in timber)  
+(C) Test the remote login on Router to tower from outside the house
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
 (D) Clean out the rest of the password issues for mozillia monitor
 (D) Do full accounts algorithm +EQT 
 (D) Find out about Cyber First
-(D) Fix Air Conditioning 
+(D) Google the airconditioning symptoms
 (D) Map the Fellowship Application - Actually download and start filling it out. 
 (D) Order the missing screws for the gates 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work out redundancy payment
-(E) 10 Apply for new passwporthttps://www.gov.uk/renew-adult-passport/renew 
+(E) 10 Apply for new passwport https://www.gov.uk/renew-adult-passport/renew 
 (E) 10 Brainstorm on emote.md
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
