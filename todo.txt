@@ -13,7 +13,6 @@
 (C) 10 Charge Nova blind 
 (C) Move WWW website
 (C) 10 Put Hooks on Joe Cupboards
-(C) Make Joe lamp flexible 
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
