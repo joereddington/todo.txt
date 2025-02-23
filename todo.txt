@@ -51,21 +51,15 @@
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix 'knot' in the physics contstnat 
 (E) Floss +Health   
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make seiten
-(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to WWW facebook page +EQT  @phone   
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process Buffer.md on laptop 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) Read a chapter of the Arduino book  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review my actions in the EQT meeting minutes
-(E) Review starred items in feeds +Overhead +EQT
 (E) Review the GA nomination of BA2018
 (E) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
@@ -73,9 +67,7 @@
 (E) Save a nice family memory +Family @phone    
 (E) Switch the office charging caple for one with more whatts 
 (E) Test Dynamo
-(E) Trim nose hair +Health    
-(E) Try posting the darktable request somewhere else 
-(E) Write Moonpig cards for this month +Overhead
-(E) get a new bag for laptop (vinted?)  
-(E) process Garage inbox. 
+(E) 03 Trim nose hair +Health    
+(E) 20 Try posting the darktable request somewhere else 
+(E) 20 process Garage inbox. 
 (e) 10 Plug in  external drive from safe and check for index.pdf  
