@@ -26,7 +26,7 @@
 (D) Work out redundancy payment +EQT
 (E) 10 Brainstorm on emote.md
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
-(E) 10 Fully back up WWW server 
+(E) 10 Fully back up WWW server  +EQT
 (E) 20 Find out why we lose setxkbdmp us and the print screen. 
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Take the camera lens to the camera shop  
@@ -39,6 +39,7 @@
 (E) Build Lego ISS 
 (E) Calendar event to suspend Quickbooks
 (E) Check Fine properly paid
+(E) 10 Make sure there is a pensions project
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check wishlist
