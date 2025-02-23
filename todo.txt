@@ -1,10 +1,10 @@
-(A) 10 Cancel Adobe by 5th March 
+(A) 10 Create a new cover and then cancel Adobe
 (A) Another draft of password thing for Yvonne 
-(B) Login to aggresso and file expenses +RHUL 
-(B) 20 review the student merge requests
-(B) 10 Book Summer Holidays (18th July to 3rd September) and Easter Leave (4th April to 22nd April) from RHUL; Also Leo Birthday 
+(B) Login to aggresso and file expenses +RHUL  
+(B) 20 review the student merge requests +RHUL 
+(B) 10 Book Summer Holidays (18th July to 3rd September) and Easter Leave (4th April to 22nd April) from RHUL; Also Leo Birthday  +RHUL 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(C Students 14/2/25) Book the final demo date for 3rd year project students 
+(C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) 10 Email andy to arrange meeting with Andy
 (C) Take appart the chair to wash covers 
@@ -13,20 +13,17 @@
 (C) Move WWW website
 (C) 10 Put Hooks on Joe Cupboards
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
-(C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) See about resurrecting the 618 server with an audino 
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
-(D) Check starred messages in kat whatsapp 
 (D) Clean out the rest of the password issues for mozillia monitor
 (D) Do full accounts algorithm +EQT 
-(D) Find out about Cyber First
-(D) Google the airconditioning symptoms
-(D) Map the Fellowship Application - Actually download and start filling it out. 
+(D) Find out about Cyber First +RHUL 
+(D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (D) Order the missing screws for the gates 
-(D) Work out redundancy payment
+(D) Work out redundancy payment +EQT
 (E) 10 Brainstorm on emote.md
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server 
