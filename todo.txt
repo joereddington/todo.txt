@@ -1,4 +1,5 @@
 (A) 10 Create a new cover and then cancel Adobe
+(C) Message Judo and stop the direct debit 
 (A) Another draft of password thing for Yvonne 
 (B) Login to aggresso and file expenses +RHUL  
 (B) 20 review the student merge requests +RHUL 
