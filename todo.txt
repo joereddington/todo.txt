@@ -19,11 +19,9 @@
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) See about resurrecting the 618 server with an audino 
-(C) one chapter of Audino book 
-(C) one chapter of 'on food and cooking' 
-(E)  Fix the process inbox.md problem in delores
-(E)  Find the original risers for the TV 
 (C) Take appart the chair to wash covers 
+(C) one chapter of 'on food and cooking' 
+(C) one chapter of Audino book 
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) 20 Clean out the rest of the password issues for mozillia monitor
@@ -32,6 +30,8 @@
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (D) Order the missing screws for the gates 
 (D) Work out redundancy payment +EQT
+(E)  Find the original risers for the TV 
+(E)  Fix the process inbox.md problem in delores
 (E) 03 Save a nice family memory +Family @phone    
 (E) 03 Trim nose hair +Health    
 (E) 05 Floss +Health   
@@ -71,5 +71,6 @@
 (E) Map opera project 
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Raise Leo's Bike's seat 
+(E) Setup the screen for when you ssh into tower. 
 (E) Write a review for Coral reef 
 (e) 10 Plug in  external drive from safe and check for index.pdf  
