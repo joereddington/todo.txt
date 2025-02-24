@@ -1,21 +1,17 @@
-(A) 10 Create a new cover and then cancel Adobe
-(B) Order comic for the children involved. 
 (A) Another draft of password thing for Yvonne 
 (B) 10 Book Summer Holidays (18th July to 3rd September) and Easter Leave (4th April to 22nd April) from RHUL; Also Leo Birthday  +RHUL 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) 20 review the student merge requests +RHUL 
-(B) Follow up with trains guy 
 (B) Login to aggresso and file expenses +RHUL  
+(B) Order comic for the children involved. 
 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) 10 Charge Nova blind 
 (C) 10 Email andy to arrange meeting with Andy
 (C) 10 Put Hooks on Joe Cupboards
 (C) Do archivtraves 
 (C) Message Judo and stop the direct debit 
 (C) Message Stephanie 
 (C) Move WWW website
-(C) Project for home internet access
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Run mgit status on the git directory and process all alerts +EQT
