@@ -21,6 +21,8 @@
 (C) See about resurrecting the 618 server with an audino 
 (C) one chapter of Audino book 
 (C) one chapter of 'on food and cooking' 
+(E)  Fix the process inbox.md problem in delores
+(E)  Find the original risers for the TV 
 (C) Take appart the chair to wash covers 
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
