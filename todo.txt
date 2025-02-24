@@ -53,7 +53,6 @@
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Apply to a crazy job
 (E) 30 Build Lego ISS 
-(E) 60 Put Snuggy on and stand in the garage listening to a podcast for an hour. 
 (E) 60 self review exam  +RHUL
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy De-icer 
