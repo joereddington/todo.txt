@@ -1,21 +1,19 @@
 (A) Another draft of password thing for Yvonne 
 (A) Final print of exam  
 (A) Next iteration of Comic 
-(A) Work out when the next EQT meeting is 
+(A) Ask when the next EQT meeting is 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) 20 review the student merge requests +RHUL 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Order comic for the children involved. 
-(B) Review the teaching pdfs on tablet
+(C) Review the teaching pdfs on tablet
 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) 10 Email Andy to arrange meeting 
 (C) 10 Put Hooks on Joe Cupboards
 (C) 10 Year plan: check you have 5 projects in each part
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Do archivtraves 
+(C) Message Kat about Archivtrave day 
 (C) Message Judo and stop the direct debit 
 (C) Message Stephanie 
 (C) Move WWW website

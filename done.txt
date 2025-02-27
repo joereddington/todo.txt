@@ -7754,3 +7754,5 @@ x 2025-02-25 Find out about Cyber First +RHUL
 x 2025-02-26 Mark that student 
 x 2025-02-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2025-02-26 Mark that student 
+x 2025-02-27 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+x 2025-02-27 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
