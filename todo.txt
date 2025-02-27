@@ -1,29 +1,28 @@
 (A) Another draft of password thing for Yvonne 
+(A) Ask when the next EQT meeting is 
 (A) Final print of exam  
 (A) Next iteration of Comic 
-(A) Ask when the next EQT meeting is 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) 20 review the student merge requests +RHUL 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Order comic for the children involved. 
-(C) Review the teaching pdfs on tablet
 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) 10 Email Andy to arrange meeting 
 (C) 10 Put Hooks on Joe Cupboards
 (C) 10 Year plan: check you have 5 projects in each part
 (C) Message Kat about Archivtrave day 
-(C) Message Judo and stop the direct debit 
+(C) Sand plates 
 (C) Message Stephanie 
 (C) Move WWW website
 (C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Review the teaching pdfs on tablet
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) See about resurrecting the 618 server with an audino 
 (C) Send Passport to HM Passport Office 
-(C) Take appart the chair to wash covers 
+(C) Take apart the chair to wash covers 
 (C) deploy any commits from OVF that are hanging around. 
 (C) one chapter of 'on food and cooking' 
 (C) one chapter of Audino book 
@@ -31,17 +30,14 @@
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
-(D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (D) Order the missing screws for the gates 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Work out redundancy payment +EQT
-(E)  Find the original risers for the TV 
-(E)  Fix the process inbox.md problem in delores
+(E) Find the original risers for the TV 
+(E) Fix the process inbox.md problem in delores
 (E) 03 Save a nice family memory +Family @phone    
-(E) 03 Trim nose hair +Health    
-(E) 05 Floss +Health   
 (E) 06 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
@@ -74,18 +70,14 @@
 (E) Contact Karen about Cyber Day 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Export the 'notify me' Tag on Libby 
-(E) Find or buy an ariel for car 
+(E) Put Arial on car 
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make seiten
 (E) Map opera project 
@@ -93,11 +85,9 @@
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) Raise Leo's Bike's seat 
-(E) Save a nice family memory +Family @phone    
+(E) Raise Leo's Bike's seat  @garage
 (E) Setup the screen for when you ssh into tower. 
-(E) Trim nose hair +Health    
-(E) Work out the expenses for london trip +RHUL  
-(E) Write a review for Coral reef 
-(E) process Garage inbox. 
+(E) 03 Trim nose hair +Health    
+(E) 05 Work out the expenses for london trip +RHUL  
+(E) 04 Write a review for Coral reef 
 (e) 10 Plug in  external drive from safe and check for index.pdf  

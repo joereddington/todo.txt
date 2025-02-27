@@ -7756,3 +7756,14 @@ x 2025-02-26 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2025-02-26 Mark that student 
 x 2025-02-27 Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 x 2025-02-27 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2025-02-27 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2025-02-27 Message Judo and stop the direct debit 
+x 2025-02-27 Check starred messages in kat whatsapp 
+x 2025-02-27 03 Trim nose hair +Health    
+x 2025-02-27 05 Floss +Health   
+x 2025-02-27 Log weight +Health   
+x 2025-02-27 Go through phone and save all of the numbers +Overhead  @phone   
+x 2025-02-27 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2025-02-27 Cut nails +Health    
+x 2025-02-27 process Garage inbox. 
+x 2025-02-27 Save a nice family memory +Family @phone    
