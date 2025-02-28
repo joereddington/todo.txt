@@ -7783,3 +7783,4 @@ x 2025-02-28 Setup the screen for when you ssh into tower.
 x 2025-02-28 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2025-02-28 Check Fine properly paid
 x 2025-02-28 Confirm plans for next two weekends.+Overhead @phone   
+x 2025-02-28 30 Apply to a crazy job

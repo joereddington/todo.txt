@@ -1,20 +1,18 @@
 (A) Final print of exam  
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(A) Write a process for your emotional todo list - about honesty 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) 20 review the student merge requests +RHUL 
 (B) Order comic for the children involved. 
-(C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
+(B) Send Passport to HM Passport Office 
+(B) Work out weekly wages for  redundancy payment +EQT
+x 2025-02-28 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
+(C) 05 Message Stephanie 
 (C) 10 Email Andy to arrange meeting 
 (C) 10 Put circles onto Joe Shelves 
-(C) Message Stephanie 
 (C) Move WWW website
-(E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
+(C) Order the missing screws for the gates 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(E) Read the rest of the teaching pdfs on tablet
-(E) Run mgit status on the git directory and process all alerts +EQT
-(E) See about resurrecting the 618 server with an audino 
-(B) Send Passport to HM Passport Office 
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
 (C) one chapter of Audino book 
@@ -24,10 +22,10 @@
 (D) 60 Do full accounts algorithm +EQT 
 (D) Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
-(C) Order the missing screws for the gates 
-(D) Work out weekly wages for  redundancy payment +EQT
-(E) Find the original risers for the TV 
-(E) Fix the process inbox.md problem in delores
+(E) 03 Trim nose hair +Health    
+(E) 04 Write a review for Coral reef 
+(E) 05 Raise Leo's Bike's seat  @garage
+(E) 05 Work out the expenses for london trip +RHUL  
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
@@ -45,7 +43,7 @@
 (E) 20 process Garage inbox. 
 (E) 25 finish hiding the dashcam wire in the car
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 30 Apply to a crazy job
+(E) 30 Apply for a job
 (E) 30 Build Lego ISS 
 (E) 60 self review exam  +RHUL
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
@@ -53,25 +51,27 @@
 (E) Calendar event to suspend Quickbooks
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Draft message  Karen about Cyber Day 
+(E) Consider a Book dashboard for Libby reads
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Draft message  Karen about Cyber Day 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Consider a Book dashboard for Libby reads
-(E) Put Arial on car 
+(E) Find the original risers for the TV 
+(E) Fix the process inbox.md problem in delores
 (E) Floss +Health   
+(E) Get 'Opera for dummies'
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make seiten
-(E) Get 'Opera for dummies'
 (E) Post to Vegan Facebook group  @phone   
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) 05 Raise Leo's Bike's seat  @garage
-(E) 03 Trim nose hair +Health    
-(E) 05 Work out the expenses for london trip +RHUL  
-(E) 04 Write a review for Coral reef 
+(E) Put Arial on car 
+(E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
+(E) Read the rest of the teaching pdfs on tablet
+(E) Run mgit status on the git directory and process all alerts +EQT
+(E) See about resurrecting the 618 server with an audino 
 (e) 10 Plug in  external drive from safe and check for index.pdf  
