@@ -18,6 +18,7 @@
 (D) 60 Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (E) 03 Trim nose hair +Health    
+(E) Write a pitch letter about a turnitin book 
 (E) 04 Write a review for Coral reef 
 (E) 05 Raise Leo's Bike's seat  @garage
 (E) 05 Work out the expenses for london trip +RHUL  
