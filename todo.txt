@@ -5,11 +5,9 @@
 (B) Order comic for the children involved. 
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
-x 2025-02-28 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) 05 Message Stephanie 
 (C) 10 Email Andy to arrange meeting 
-(C) 10 Put circles onto Joe Shelves 
+x 2025-02-28 10 Put circles onto Joe Shelves 
 (C) Move WWW website
 (C) Order the missing screws for the gates 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
@@ -20,7 +18,6 @@ x 2025-02-28 (C Students 14/2/25) Book the final demo date for 3rd year project 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
-(D) Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (E) 03 Trim nose hair +Health    
 (E) 04 Write a review for Coral reef 

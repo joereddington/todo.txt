@@ -7784,3 +7784,7 @@ x 2025-02-28 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2025-02-28 Check Fine properly paid
 x 2025-02-28 Confirm plans for next two weekends.+Overhead @phone   
 x 2025-02-28 30 Apply to a crazy job
+x 2025-02-28 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
+x 2025-02-28 05 Message Stephanie 
+x 2025-02-28 Do full accounts algorithm +EQT 
+x 2025-02-28 10 Put circles onto Joe Shelves 
