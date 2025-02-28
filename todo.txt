@@ -6,9 +6,8 @@
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) 10 Email Andy to arrange meeting 
-x 2025-02-28 10 Put circles onto Joe Shelves 
-(C) Move WWW website
+x 2025-02-28 10 Email Andy to arrange meeting 
+(C) Move WWW website: Download a copy; create a branch and push to github  
 (C) Order the missing screws for the gates 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Take apart the chair to wash covers 
