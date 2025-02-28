@@ -1,7 +1,4 @@
-(A) Another draft of password thing for Yvonne 
-(A) Ask when the next EQT meeting is 
 (A) Final print of exam  
-(A) Next iteration of Comic 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) 20 review the student merge requests +RHUL 
@@ -9,21 +6,16 @@
 (C Students 14/2/25) Book the final demo date for 3rd year project students  +RHUL 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) 10 Email Andy to arrange meeting 
-(C) 10 Put Hooks on Joe Cupboards
-(C) 10 Year plan: check you have 5 projects in each part
-(C) Message Kat about Archivtrave day 
-(C) Sand plates 
+(C) 10 Put circles onto Joe Shelves 
 (C) Message Stephanie 
 (C) Move WWW website
-(C) Put a sticker over the bathroom charger to remind yourself you have a USB version 
-(C) Review and re-score  Wheel Of life
+(E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Review the teaching pdfs on tablet
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) See about resurrecting the 618 server with an audino 
-(C) Send Passport to HM Passport Office 
+(E) Read the rest of the teaching pdfs on tablet
+(E) Run mgit status on the git directory and process all alerts +EQT
+(E) See about resurrecting the 618 server with an audino 
+(B) Send Passport to HM Passport Office 
 (C) Take apart the chair to wash covers 
-(C) deploy any commits from OVF that are hanging around. 
 (C) one chapter of 'on food and cooking' 
 (C) one chapter of Audino book 
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
@@ -32,16 +24,12 @@
 (D) 60 Do full accounts algorithm +EQT 
 (D) Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
-(D) Order the missing screws for the gates 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Work out redundancy payment +EQT
+(C) Order the missing screws for the gates 
+(D) Work out weekly wages for  redundancy payment +EQT
 (E) Find the original risers for the TV 
 (E) Fix the process inbox.md problem in delores
-(E) 03 Save a nice family memory +Family @phone    
-(E) 06 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
-(E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server  +EQT
@@ -63,30 +51,26 @@
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy De-icer 
 (E) Calendar event to suspend Quickbooks
-(E) Check Fine properly paid
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact Karen about Cyber Day 
+(E) Draft message  Karen about Cyber Day 
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Export the 'notify me' Tag on Libby 
+(E) Consider a Book dashboard for Libby reads
 (E) Put Arial on car 
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make seiten
-(E) Map opera project 
+(E) Get 'Opera for dummies'
 (E) Post to Vegan Facebook group  @phone   
 (E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) Raise Leo's Bike's seat  @garage
-(E) Setup the screen for when you ssh into tower. 
+(E) 05 Raise Leo's Bike's seat  @garage
 (E) 03 Trim nose hair +Health    
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 04 Write a review for Coral reef 
