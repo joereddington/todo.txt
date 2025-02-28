@@ -6,13 +6,12 @@
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-x 2025-02-28 10 Email Andy to arrange meeting 
 (C) Move WWW website: Download a copy; create a branch and push to github  
 (C) Order the missing screws for the gates 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
-(C) one chapter of Audino book 
+(C) See if you can generate current spinning the arduino motor
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
 (D) 20 Clean out the rest of the password issues for mozillia monitor
