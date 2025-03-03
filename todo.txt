@@ -22,6 +22,7 @@
 (E) 04 Write a review for Coral reef 
 (E) 05 Raise Leo's Bike's seat  @garage
 (E) 05 Work out the expenses for london trip +RHUL  
+(D) replace back gate lock 
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
@@ -59,7 +60,7 @@
 (E) Make seiten
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Try an m5 bolt in the codelock 
+x 2025-03-03 Try an m5 bolt in the codelock 
 (E) Publicly thank someone +Overhead  
 (E) Put Arial on car 
 (E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
