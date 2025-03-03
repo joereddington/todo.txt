@@ -31,7 +31,6 @@
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
-(E) 25 finish hiding the dashcam wire in the car
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Apply for a job
 (E) 30 Build Lego ISS 
@@ -48,7 +47,6 @@
 (E) Find the original risers for the TV 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Floss +Health   
-(E) Get 'Opera for dummies'
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make seiten
 (E) Post to Vegan Facebook group  @phone   
@@ -56,4 +54,3 @@
 (E) Publicly thank someone +Overhead  
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) resurrect the 618 server with an audino 
-x 2025-03-03 10 Plug in  external drive from safe and check for index.pdf  
