@@ -30,7 +30,6 @@
 (E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
-(E) 20 Find out why we lose setxkbdmp us and the print screen. 
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Read a chapter of the Arduino book  
 (E) 20 Review the GA nomination of BA2018

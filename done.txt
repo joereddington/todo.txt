@@ -7789,3 +7789,5 @@ x 2025-02-28 05 Message Stephanie
 x 2025-02-28 Do full accounts algorithm +EQT 
 x 2025-02-28 10 Put circles onto Joe Shelves 
 x 2025-02-28 10 Email Andy to arrange meeting 
+x 2025-03-03 20 Find out why we lose setxkbdmp us and the print screen. 
+x 2025-03-03 Blackbox the new bashrc 
