@@ -56,4 +56,4 @@
 (E) Publicly thank someone +Overhead  
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) resurrect the 618 server with an audino 
-(E) 10 Plug in  external drive from safe and check for index.pdf  
+x 2025-03-03 10 Plug in  external drive from safe and check for index.pdf  
