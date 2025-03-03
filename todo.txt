@@ -25,7 +25,7 @@
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
+x 2025-03-03 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server  +EQT
 (E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
