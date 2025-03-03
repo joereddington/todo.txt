@@ -19,7 +19,6 @@
 (E) Write a pitch letter about a turnitin book 
 (E) Raise the TV on its stand. 
 (E) 04 Write a review for Coral reef 
-(E) 05 Raise Leo's Bike's seat  @garage
 (E) 05 Work out the expenses for london trip +RHUL  
 (D) replace back gate lock 
 (E) 10 Book blood sugar test at doctors. 
@@ -55,7 +54,6 @@
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) Put Arial on car 
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) resurrect the 618 server with an audino 
 (E) 10 Plug in  external drive from safe and check for index.pdf  
