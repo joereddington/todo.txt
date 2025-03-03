@@ -29,7 +29,6 @@
 (E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
-x 2025-03-03 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) Move bearclaw projects into Diary 
 (E) 20 Read a chapter of the Arduino book  
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
@@ -40,7 +39,6 @@ x 2025-03-03 20 Look at each project in Bearclaw and confirm that it is SMART
 (E) 30 Apply for a job
 (E) 30 Build Lego ISS 
 (E) 60 self review exam  +RHUL
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Buy De-icer 
 (E) Calendar event to suspend Quickbooks
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
@@ -60,8 +58,8 @@ x 2025-03-03 20 Look at each project in Bearclaw and confirm that it is SMART
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make seiten
 (E) Post to Vegan Facebook group  @phone   
-(E) Practice decoding the long strings for the first 9 values in the chemistry book. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Try an m5 bolt in the codelock 
 (E) Publicly thank someone +Overhead  
 (E) Put Arial on car 
 (E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
