@@ -7,7 +7,6 @@
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) Move WWW website: Download a copy; create a branch and push to github  
-(C) Order the missing screws for the gates 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
@@ -26,8 +25,6 @@
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 10 Fully back up WWW server  +EQT
-(E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) Move bearclaw projects into Diary 
@@ -39,32 +36,26 @@
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Apply for a job
 (E) 30 Build Lego ISS 
-(E) 60 self review exam  +RHUL
 (E) Buy De-icer 
-(E) Calendar event to suspend Quickbooks
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Consider a Book dashboard for Libby reads
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Draft message  Karen about Cyber Day 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find the original risers for the TV 
-(E) Fix the process inbox.md problem in delores
+(E) Fix the 'process inbox.md' problem in delores
 (E) Floss +Health   
 (E) Get 'Opera for dummies'
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make seiten
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-x 2025-03-03 Try an m5 bolt in the codelock 
 (E) Publicly thank someone +Overhead  
 (E) Put Arial on car 
-(E) Put a sticker over the bathroom charger to remind yourself you have a USB version 
-(E) Read the rest of the teaching pdfs on tablet
 (E) Run mgit status on the git directory and process all alerts +EQT
-(E) See about resurrecting the 618 server with an audino 
-(e) 10 Plug in  external drive from safe and check for index.pdf  
+(E) resurrect the 618 server with an audino 
+(E) 10 Plug in  external drive from safe and check for index.pdf  
