@@ -12,7 +12,6 @@
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
 (C) See if you can generate current spinning the arduino motor
-x 2025-03-03 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) Print the unity submission form and email people about it. 
 (D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
@@ -30,7 +29,8 @@ x 2025-03-03 10 Debug IMPS on tower and push any changes (possibly a setup file 
 (E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
-(E) 20 Look at each project in Bearclaw and confirm that it is SMART 
+x 2025-03-03 20 Look at each project in Bearclaw and confirm that it is SMART 
+(E) Move bearclaw projects into Diary 
 (E) 20 Read a chapter of the Arduino book  
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
