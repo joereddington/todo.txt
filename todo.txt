@@ -12,7 +12,7 @@
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
 (C) See if you can generate current spinning the arduino motor
-(D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
+x 2025-03-03 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
 (C) Print the unity submission form and email people about it. 
 (D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
