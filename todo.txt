@@ -13,12 +13,13 @@
 (C) one chapter of 'on food and cooking' 
 (C) See if you can generate current spinning the arduino motor
 (D) 10 Debug IMPS on tower and push any changes (possibly a setup file for the pdf directories) 
-(D) 10 Map project for fixing the Unity Bank mandate The Unity Reference was APP-412172  and url https://apply.unity.co.uk/customer-update/section/4
+(C) Print the unity submission form and email people about it. 
 (D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (E) 03 Trim nose hair +Health    
 (E) Write a pitch letter about a turnitin book 
+(E) Raise the TV on its stand. 
 (E) 04 Write a review for Coral reef 
 (E) 05 Raise Leo's Bike's seat  @garage
 (E) 05 Work out the expenses for london trip +RHUL  
@@ -32,7 +33,6 @@
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Read a chapter of the Arduino book  
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
-x 2025-03-03 20 Take the camera lens to the camera shop  
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 25 finish hiding the dashcam wire in the car
