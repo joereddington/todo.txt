@@ -25,15 +25,14 @@
 (E) 10 Book blood sugar test at doctors. 
 (E) 10 Brainstorm on emote.md
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
-x 2025-03-03 10 Find the old reconciliation spreadsheet in Dropbox (try external drive and transfer 1k 
 (E) 10 Fully back up WWW server  +EQT
 (E) 10 Make sure there is a pensions project
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Look at each project in Bearclaw and confirm that it is SMART 
 (E) 20 Read a chapter of the Arduino book  
-(E) 20 Review the GA nomination of BA2018
-(E) 20 Take the camera lens to the camera shop  
+(E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
+x 2025-03-03 20 Take the camera lens to the camera shop  
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 25 finish hiding the dashcam wire in the car
