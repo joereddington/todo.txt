@@ -20,7 +20,6 @@
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
-x 2025-03-04 20 Read a chapter of the Arduino book  
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
