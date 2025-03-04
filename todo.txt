@@ -1,43 +1,40 @@
-(E) Cut Nova and Leo nails +Health    
 (A) Final print of exam  
-(A) Write a process for your emotional todo list - about honesty 
+x 2025-03-04 Write a process for your emotional todo list - about honesty 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(B) 20 review the student merge requests +RHUL 
 (B) Order comic for the children involved. 
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
+(C) Find the pandemic speech you gave for Sibs 
 (C) Move WWW website: Download a copy; create a branch and push to github  
+(C) Print the unity submission form and email people about it. 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) See if you can generate current spinning the arduino motor
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
-(C) See if you can generate current spinning the arduino motor
-(C) Print the unity submission form and email people about it. 
 (D) 60 Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
-(E) Write a pitch letter about a turnitin book 
-(E) Put Podcast on and remove any reused passwords. 
-(E) Raise the TV on its stand. 
-(E) 05 Work out the expenses for london trip +RHUL  
 (D) replace back gate lock 
-(C) Find the pandemic speech you gave for Sibs 
-(E) 10 Rewrite emote.md
+(E) 05 Work out the expenses for london trip +RHUL  
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 10 Rewrite emote.md
 (E) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) 20 Empty Joe inbox completely +Overhead    
-(E) Move bearclaw projects into Diary 
-(E) 20 Read a chapter of the Arduino book  
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
+(E) 20 Read a chapter of the Arduino book  
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Build Lego ISS 
+(E) Cut Nova and Leo nails +Health    
 (E) Draft message  Karen about Cyber Day 
-(E) Sort the lego in process drawer (podcast)  
-(E) Find the original risers for the TV 
 (E) Fix the 'process inbox.md' problem in delores
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Move bearclaw projects into Diary 
 (E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
+(E) Put Podcast on and remove any reused passwords. 
+(E) Raise the TV on its stand. 
 (E) Run mgit status on the git directory and process all alerts +EQT
+(E) Sort the lego in process drawer (podcast)  
+(E) Write a pitch letter about a turnitin book 
 (E) resurrect the 618 server with an audino 
