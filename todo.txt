@@ -8,7 +8,6 @@
 (C) Move WWW website: Download a copy; create a branch and push to github  
 (C) Print the unity submission form and email people about it. 
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) See if you can generate current spinning the arduino motor
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
 (D) 60 Do full accounts algorithm +EQT 
@@ -22,7 +21,6 @@
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
-(E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Build Lego ISS 
 (E) Cut Nova and Leo nails +Health    
 (E) Draft message  Karen about Cyber Day 

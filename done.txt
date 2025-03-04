@@ -7836,3 +7836,5 @@ x 2025-03-04 Go thought calendar and find at least one 'thank you's  you *can* m
 x 2025-03-04 20 review the student merge requests +RHUL 
 x 2025-03-04 Write a process for your emotional todo list - about honesty 
 x 2025-03-04 20 Read a chapter of the Arduino book  
+x 2025-03-04 See if you can generate current spinning the arduino motor
+x 2025-03-04 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
