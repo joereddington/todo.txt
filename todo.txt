@@ -1,4 +1,3 @@
-(A) Look at the holiday thing 
 (A) Final print of exam  
 (A) Write a process for your emotional todo list - about honesty 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
@@ -33,25 +32,21 @@
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
-(E) 30 Apply for a job
 (E) 30 Build Lego ISS 
 (E) Buy De-icer 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2025-03-04 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Consider a Book dashboard for Libby reads
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Draft message  Karen about Cyber Day 
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Sort the lego in process drawer (podcast)  
 (E) Find the original risers for the TV 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Make seiten
 (E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) resurrect the 618 server with an audino 
