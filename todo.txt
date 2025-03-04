@@ -12,13 +12,12 @@
 (C) one chapter of 'on food and cooking' 
 (C) See if you can generate current spinning the arduino motor
 (C) Print the unity submission form and email people about it. 
-(D) 20 Clean out the rest of the password issues for mozillia monitor
 (D) 60 Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
 (E) 03 Trim nose hair +Health    
 (E) Write a pitch letter about a turnitin book 
+(E) Put Podcast on and remove any reused passwords. 
 (E) Raise the TV on its stand. 
-(E) 04 Write a review for Coral reef 
 (E) 05 Work out the expenses for london trip +RHUL  
 (D) replace back gate lock 
 (E) 10 Book blood sugar test at doctors. 

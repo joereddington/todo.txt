@@ -7814,3 +7814,5 @@ x 2025-03-03 Put Arial on car
 x 2025-03-03 10 Plug in  external drive from safe and check for index.pdf  
 x 2025-03-03 25 finish hiding the dashcam wire in the car
 x 2025-03-03 Get 'Opera for dummies'
+x 2025-03-04 04 Write a review for Coral reef 
+x 2025-03-04 20 Clean out the rest of the password issues for mozillia monitor
