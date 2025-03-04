@@ -1,3 +1,6 @@
+(E) Floss +Health   
+(E) Cut Nova and Leo nails +Health    
+(E) 03 Trim nose hair +Health    
 (A) Final print of exam  
 (A) Write a process for your emotional todo list - about honesty 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
@@ -14,7 +17,6 @@
 (C) Print the unity submission form and email people about it. 
 (D) 60 Do full accounts algorithm +EQT 
 (D) Map the Fellowship Application - Actually download and start filling it out.  +RHUL 
-(E) 03 Trim nose hair +Health    
 (E) Write a pitch letter about a turnitin book 
 (E) Put Podcast on and remove any reused passwords. 
 (E) Raise the TV on its stand. 
@@ -34,17 +36,10 @@
 (E) 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
 (E) 30 Build Lego ISS 
 (E) Buy De-icer 
-x 2025-03-04 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Consider a Book dashboard for Libby reads
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Draft message  Karen about Cyber Day 
 (E) Sort the lego in process drawer (podcast)  
 (E) Find the original risers for the TV 
 (E) Fix the 'process inbox.md' problem in delores
-(E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
