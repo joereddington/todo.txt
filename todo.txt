@@ -22,7 +22,8 @@ x 2025-03-05 Review the feedbacks from Kat and follow up https://github.com/joer
 (E) 20 Try posting the darktable request somewhere else 
 (E) 20 process Garage inbox. 
 (E) 30 Build Lego ISS 
-(E) Try this Water Sensor tutorial https://arduinogetstarted.com/tutorials/arduino-water-sensor  
+x 2025-03-05 Try this Water Sensor tutorial https://arduinogetstarted.com/tutorials/arduino-water-sensor  
+(E) Write up Arduino Adventure so far 
 (E) Cut Nova and Leo nails +Health    
 (E) Draft message  Karen about Cyber Day 
 (E) Fix the 'process inbox.md' problem in delores
