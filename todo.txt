@@ -17,10 +17,8 @@
 (E) 10 Move backup_ovf to bigdisk. 
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
-(E) 20 process Garage inbox. 
 (E) 30 Build Lego ISS 
 (E) Write up Arduino Adventure so far 
-(E) Cut Nova and Leo nails +Health    
 (E) Draft message  Karen about Cyber Day 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Move bearclaw projects into Diary 
