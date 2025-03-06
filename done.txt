@@ -7838,3 +7838,7 @@ x 2025-03-04 Write a process for your emotional todo list - about honesty
 x 2025-03-04 20 Read a chapter of the Arduino book  
 x 2025-03-04 See if you can generate current spinning the arduino motor
 x 2025-03-04 30 Add a external LED to your Arduino project https://docs.arduino.cc/built-in-examples/basics/Blink/ (and probably a youtube video ) 
+x 2025-03-05 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+x 2025-03-06 10 Empty whatsapp and facebook inboxes. +Overhead  
+x 2025-03-06 20 Empty Joe inbox completely +Overhead    
+x 2025-03-05 Try this Water Sensor tutorial https://arduinogetstarted.com/tutorials/arduino-water-sensor  
