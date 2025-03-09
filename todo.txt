@@ -1,10 +1,9 @@
-(A) Final print of exam  
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) Order comic for the children involved. 
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Find the pandemic speech you gave for Sibs 
+(C) Rewrite speach for sibs 
 (C) Move WWW website: Download a copy; create a branch and push to github  
 (C) Print the unity submission form and email people about it. 
 (C) Take apart the chair to wash covers 
@@ -22,10 +21,8 @@
 (E) Draft message  Karen about Cyber Day 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Move bearclaw projects into Diary 
-(E) Post to Vegan Facebook group  @phone   
-(E) Publicly thank someone +Overhead  
+x 2025-03-09 Post to Vegan Facebook group  @phone   
 (E) Put Podcast on and remove any reused passwords. 
-(E) Raise the TV on its stand. 
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) Sort the lego in process drawer (podcast)  
 (E) Write a pitch letter about a turnitin book 
