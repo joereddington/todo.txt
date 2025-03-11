@@ -3,27 +3,27 @@
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Rewrite speach for sibs 
 (C) Move WWW website: Download a copy; create a branch and push to github  
 (C) Print the unity submission form and email people about it. 
+(C) Rewrite speach for sibs 
 (C) Take apart the chair to wash covers 
 (C) one chapter of 'on food and cooking' 
 (D) 60 Do full accounts algorithm +EQT 
 (D) Read the three chapters of teaching material  +RHUL 
 (D) replace back gate lock 
 (E) 05 Work out the expenses for london trip +RHUL  
-(E) 10 Rewrite emote.md
 (E) 10 Move backup_ovf to bigdisk. 
+(E) 10 Rewrite emote.md
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
 (E) 30 Build Lego ISS 
-(E) Write up Arduino Adventure so far 
 (E) Draft message  Karen about Cyber Day 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Move bearclaw projects into Diary 
-x 2025-03-09 Post to Vegan Facebook group  @phone   
 (E) Put Podcast on and remove any reused passwords. 
 (E) Run mgit status on the git directory and process all alerts +EQT
 (E) Sort the lego in process drawer (podcast)  
 (E) Write a pitch letter about a turnitin book 
 (E) resurrect the 618 server with an audino 
+(E) Go around house and do universal capture
+(E) 
