@@ -7858,3 +7858,15 @@ x 2025-03-11 Run mgit status on the git directory and process all alerts +EQT
 x 2025-03-11 60 Do full accounts algorithm +EQT 
 x 2025-03-11 Do full accounts algorithm +EQT 
 x 2025-03-11 Take apart the chair to wash covers 
+x 2025-03-11 process Garage inbox. 
+x 2025-03-11 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-03-11 Review starred items in feeds +Overhead +EQT
+x 2025-03-11 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2025-03-11 Log weight +Health   
+x 2025-03-11 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2025-03-11 Cut nails +Health    
+x 2025-03-11 Confirm plans for next two weekends.+Overhead @phone   
+x 2025-03-11 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2025-03-11 Check Passports are in the safe
+x 2025-03-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-03-11 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  

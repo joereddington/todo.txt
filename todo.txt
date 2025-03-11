@@ -1,6 +1,4 @@
 (A) Prep slides for Courtney
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
@@ -8,20 +6,21 @@
 (B) Order comic for the children involved. 
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
-(C) deploy any commits from OVF that are hanging around. 
+(C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) Move WWW website: Download a copy; create a branch and push to github  
-(C) one chapter of 'on food and cooking' 
 (C) Print the unity submission form and email people about it. 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Rewrite speach for sibs 
 (C) Setup Friday date day 
-(C sibs 14/3/25  ) Write script for Sibs Talk 
+(C) deploy any commits from OVF that are hanging around. 
+(C) one chapter of 'on food and cooking' 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Read the three chapters of teaching material  +RHUL 
-(D) replace back gate lock 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) replace back gate lock 
+(E)  Go around house and do universal capture
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 10 Move backup_ovf to bigdisk. 
 (E) 10 Rewrite emote.md
@@ -31,14 +30,9 @@
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup AWS +EQT
-(E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
@@ -48,30 +42,24 @@
 (E) Fix the 'process inbox.md' problem in delores
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead
-(E)  Go around house and do universal capture
 (E) Go though documents folder and put everything you want to save in Dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Move bearclaw projects into Diary 
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Put Podcast on and remove any reused passwords. 
-(E) resurrect the 618 server with an audino 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review Nova's Smiths toy's trip list with her
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Sort the lego in process drawer (podcast)  
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) Trim nose hair +Health    
 (E) TSE +Health  
-(E) Write a pitch letter about a turnitin book 
+(E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
+(E) Write a pitch letter about a turnitin book 
+(E) resurrect the 618 server with an audino 
