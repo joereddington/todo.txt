@@ -7,7 +7,6 @@
 (B) Order comic for the children involved. 
 (B) Send Passport to HM Passport Office 
 (B) Work out weekly wages for  redundancy payment +EQT
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) deploy any commits from OVF that are hanging around. 
 (C) Move WWW website: Download a copy; create a branch and push to github  
 (C) one chapter of 'on food and cooking' 
@@ -15,15 +14,11 @@
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Rewrite speach for sibs 
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Setup Friday date day 
 (C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Take apart the chair to wash covers 
-(D) 60 Do full accounts algorithm +EQT 
+x 2025-03-11 Take apart the chair to wash covers 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
 (D) Read the three chapters of teaching material  +RHUL 
 (D) replace back gate lock 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
@@ -73,7 +68,6 @@
 (E) Review Nova's Smiths toy's trip list with her
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Run mgit status on the git directory and process all alerts +EQT
 (E) Save a nice family memory +Family @phone    
 (E) Sort the lego in process drawer (podcast)  
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT

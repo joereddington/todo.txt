@@ -7851,3 +7851,10 @@ x 2025-03-09 Publicly thank someone +Overhead
 x 2025-03-09 Post to Vegan Facebook group  @phone   
 x 2025-03-09 Post to Vegan Facebook group  @phone   
 x 2025-03-11 Write up Arduino Adventure so far 
+x 2025-03-11 Run mgit status on the git directory and process all alerts +EQT
+x 2025-03-11 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2025-03-11 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2025-03-11 Run mgit status on the git directory and process all alerts +EQT
+x 2025-03-11 60 Do full accounts algorithm +EQT 
+x 2025-03-11 Do full accounts algorithm +EQT 
+x 2025-03-11 Take apart the chair to wash covers 
