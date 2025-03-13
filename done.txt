@@ -7902,3 +7902,8 @@ x 2025-03-13 Save a nice family memory +Family @phone
 x 2025-03-13 TSE +Health  
 x 2025-03-13 Write a pitch letter about a turnitin book 
 x 2025-03-13 30 Rewrite speech for sibs 
+x 2025-03-13 03 Put codes in safe
+x 2025-03-13 20 Sort the lego in process drawer (podcast)  
+x 2025-03-13 30 Do the rest of the Lego ISS 
+x 2025-03-13 30 Put Podcast on and remove any reused passwords. 
+x 2025-03-13 Backup AWS +EQT

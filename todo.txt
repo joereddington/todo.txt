@@ -11,7 +11,6 @@
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 03 Draft message  Karen about Cyber Day 
-x 2025-03-13 03 Put codes in safe
 (E) 03 Trim nose hair +Health    
 (E) 05 Cut Nova and Leo nails +Health    
 (E) 05 Give laptop screen a good clean +Overhead
@@ -26,12 +25,8 @@ x 2025-03-13 03 Put codes in safe
 (E) 14 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Fix the 'process inbox.md' problem in delores
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
-(E) 20 Sort the lego in process drawer (podcast)  
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try out that Arudino simulator 
 (E) 20 Try posting the darktable request somewhere else 
-(E) 30 Do the rest of the Lego ISS 
-x 2025-03-13 30 Put Podcast on and remove any reused passwords. 
 (E) 40 Move bearclaw projects into Diary 
 (E) Install node 
-x 2025-03-13 Backup AWS +EQT
