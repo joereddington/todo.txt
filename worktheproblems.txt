@@ -43,7 +43,6 @@
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 03 Draft message  Karen about Cyber Day 
-(E) 03 Put codes in safe
 (E) 03 Trim nose hair +Health    
 (E) 05 Cut Nova and Leo nails +Health    
 (E) 05 Give laptop screen a good clean +Overhead
