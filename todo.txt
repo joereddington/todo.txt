@@ -1,36 +1,36 @@
-(E) 05 Work out the expenses for london trip +RHUL  
-(E) 10 Move backup_ovf to bigdisk. 
-(E) 10 Rewrite emote.md
-(E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
-(E) 20 Try posting the darktable request somewhere else 
+(B) 20 Order comic for the children involved. 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(E) 30 Do the rest of the Lego ISS 
-(E) Backup AWS +EQT
+(C sibs 14/3/25  ) 20 Write script for Sibs Talk 
+(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) 10 Setup Friday date day 
+(C) 20 one chapter of 'on food and cooking' 
+(C) 25 Print the unity submission form and email people about it. 
+(C) 30 Move WWW website: Download a copy; create a branch and push to github  
+(D) 10 Reply about telescope 
+(D) 15 replace back gate lock 
+(D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) 05 Cut Nova and Leo nails +Health    
 (E) 03 Draft message  Karen about Cyber Day 
+(E) 03 Put codes in safe
+(E) 03 Trim nose hair +Health    
+(E) 05 Cut Nova and Leo nails +Health    
+(E) 05 Give laptop screen a good clean +Overhead
+(E) 05 Work out the expenses for london trip +RHUL  
+(E) 06 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Go around house and do universal capture
+(E) 10 Move backup_ovf to bigdisk. 
+(E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
+(E) 10 Rewrite emote.md
+(E) 10 map out resurrecting the 618 server with an audino 
 (E) 14 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Fix the 'process inbox.md' problem in delores
-(E) 06 Floss +Health   
-(E) 05 Give laptop screen a good clean +Overhead
-(E) 10 Go around house and do universal capture
-(E) 20 Try out that Arudino simulator 
-(C) 30 Move WWW website: Download a copy; create a branch and push to github  
-(E) 40 Move bearclaw projects into Diary 
-(B) 20 Order comic for the children involved. 
-(C) 25 Print the unity submission form and email people about it. 
-(E) 30 Put Podcast on and remove any reused passwords. 
-(D) 30 Read the three chapters of teaching material  +RHUL 
-(D) 10 Reply about telescope 
-(E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
-(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) 30 Rewrite speech for sibs 
-(C) 10 Setup Friday date day 
+(E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Sort the lego in process drawer (podcast)  
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) 03 Trim nose hair +Health    
-(C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) one chapter of 'on food and cooking' 
-(D) replace back gate lock 
-(E) resurrect the 618 server with an audino 
+(E) 20 Try out that Arudino simulator 
+(E) 20 Try posting the darktable request somewhere else 
+(E) 30 Do the rest of the Lego ISS 
+(E) 30 Put Podcast on and remove any reused passwords. 
+(E) 40 Move bearclaw projects into Diary 
+x 2025-03-13 Backup AWS +EQT
