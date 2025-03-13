@@ -8,18 +8,23 @@
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) Move WWW website: Download a copy; create a branch and push to github  
 * Work out the command  
-* Clone local 
-* Yes, we have to serve the site 
+✅  Clone local 
+* Add the _site directory and push 
+  * Work out the password/username 
+* Work out how to sever from the clone directory 
+* Redirect the email 
+  * Check Cloud Flair 
+* Redirect the DNS 
+
 (C) Print the unity submission form and email people about it. 
 * Check Downloads folder for PDF 
-(C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Rewrite speech for sibs 
+* Open the page 
+* Check the email to see how much time they wanted
 (C) Setup Friday date day 
 (C) one chapter of 'on food and cooking' 
-(D) Check starred messages in kat whatsapp 
 (D) Read the three chapters of teaching material  +RHUL 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) replace back gate lock 
 (E) Go around house and do universal capture
 (E) 05 Work out the expenses for london trip +RHUL  
@@ -27,16 +32,19 @@
 (E) 10 Rewrite emote.md
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
+* Where else? 
+* Reddit! 
+  * The answer is: post it to the relevent subreddit. 
 (E) 30 Do the rest of the Lego ISS 
 (E) Backup AWS +EQT
-(E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Draft message  Karen about Cyber Day 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+  ✅  Whatsapp 
+  * Facebook 
 (E) Fix the 'process inbox.md' problem in delores
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead

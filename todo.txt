@@ -1,48 +1,36 @@
-(B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(B) Order comic for the children involved. 
-(C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Move WWW website: Download a copy; create a branch and push to github  
-(C) Print the unity submission form and email people about it. 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Rewrite speech for sibs 
-(C) Setup Friday date day 
-(C) one chapter of 'on food and cooking' 
-(D) Check starred messages in kat whatsapp 
-(D) Read the three chapters of teaching material  +RHUL 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) replace back gate lock 
-(E) Go around house and do universal capture
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 10 Move backup_ovf to bigdisk. 
 (E) 10 Rewrite emote.md
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Try posting the darktable request somewhere else 
+(B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (E) 30 Do the rest of the Lego ISS 
 (E) Backup AWS +EQT
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Draft message  Karen about Cyber Day 
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Fix the 'process inbox.md' problem in delores
-(E) Floss +Health   
-(E) Give laptop screen a good clean +Overhead
-(E) Go though documents folder and put everything you want to save in Dropbox.
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Move bearclaw projects into Diary 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Put Podcast on and remove any reused passwords. 
-(E) Review Nova's Smiths toy's trip list with her
-(E) Save a nice family memory +Family @phone    
-(E) Sort the lego in process drawer (podcast)  
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) TSE +Health  
-(E) Trim nose hair +Health    
-(E) Write a pitch letter about a turnitin book 
+(E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 05 Cut Nova and Leo nails +Health    
+(E) 03 Draft message  Karen about Cyber Day 
+(E) 10 Empty Joe inbox completely +Overhead    
+(E) 14 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 20 Fix the 'process inbox.md' problem in delores
+(E) 06 Floss +Health   
+(E) 05 Give laptop screen a good clean +Overhead
+(E) 10 Go around house and do universal capture
+(E) 20 Try out that Arudino simulator 
+(C) 30 Move WWW website: Download a copy; create a branch and push to github  
+(E) 40 Move bearclaw projects into Diary 
+(B) 20 Order comic for the children involved. 
+(C) 25 Print the unity submission form and email people about it. 
+(E) 30 Put Podcast on and remove any reused passwords. 
+(D) 30 Read the three chapters of teaching material  +RHUL 
+(D) 10 Reply about telescope 
+(E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
+(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) 30 Rewrite speech for sibs 
+(C) 10 Setup Friday date day 
+(E) 20 Sort the lego in process drawer (podcast)  
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+(E) 03 Trim nose hair +Health    
+(C sibs 14/3/25  ) Write script for Sibs Talk 
+(C) one chapter of 'on food and cooking' 
+(D) replace back gate lock 
 (E) resurrect the 618 server with an audino 
