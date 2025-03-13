@@ -33,4 +33,5 @@
 (E) 30 Do the rest of the Lego ISS 
 (E) 30 Put Podcast on and remove any reused passwords. 
 (E) 40 Move bearclaw projects into Diary 
+(E) Install node 
 x 2025-03-13 Backup AWS +EQT
