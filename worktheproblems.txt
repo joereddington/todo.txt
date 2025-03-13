@@ -1,8 +1,17 @@
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
+* Open Draft 
+* Properly investigate the issue with Helen, 
+
+
 (B) Order comic for the children involved. 
+
 (C sibs 14/3/25  ) Write script for Sibs Talk 
 (C) Move WWW website: Download a copy; create a branch and push to github  
+* Work out the command  
+* Clone local 
+* Yes, we have to serve the site 
 (C) Print the unity submission form and email people about it. 
+* Check Downloads folder for PDF 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) Rewrite speech for sibs 
