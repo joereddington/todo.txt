@@ -7917,3 +7917,4 @@ x 2025-03-17 20 Try out that Arudino simulator
 x 2025-03-17 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 x 2025-03-17 20 Ask On Reddit were to put the darktable request somewhere else 
 x 2025-03-17 10 Move backup_ovf to bigdisk. 
+x 2025-03-17 20 Order comic for the children involved. 
