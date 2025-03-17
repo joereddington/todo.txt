@@ -9,14 +9,19 @@ Nettles are cool
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
 (C) Update food diary 
+* Put in the risaotto amoungst others 
 (D) 10 Reply about telescope 
+* You only have one week 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 03 Draft message  Karen about Cyber Day 
 (E) 05 Work out the expenses for london trip +RHUL  
+* Lookup the date 
+* Check Photos at the time 
 (E) 06 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Go around house and do universal capture
+(E) Go and get more wood from B&Q 
 (E) 10 Move backup_ovf to bigdisk. 
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
 (E) 10 Rewrite emote.md
