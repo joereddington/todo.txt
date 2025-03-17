@@ -7907,3 +7907,4 @@ x 2025-03-13 20 Sort the lego in process drawer (podcast)
 x 2025-03-13 30 Do the rest of the Lego ISS 
 x 2025-03-13 30 Put Podcast on and remove any reused passwords. 
 x 2025-03-13 Backup AWS +EQT
+x 2025-03-17 Install node 

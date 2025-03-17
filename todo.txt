@@ -27,6 +27,5 @@
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 Try out that Arudino simulator 
-(E) 20 Try posting the darktable request somewhere else 
+(E) 20 Ask On Reddit were to put the darktable request somewhere else 
 (E) 40 Move bearclaw projects into Diary 
-(E) Install node 
