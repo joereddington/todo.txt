@@ -11,6 +11,7 @@
 (C) Get more Wood from B&Q 
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 06 Floss +Health   
+(E) Reply reddit 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Go around house and do universal capture
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
