@@ -2,7 +2,6 @@
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 (C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) 10 Setup Friday date day 
 (C) 20 one chapter of 'on food and cooking' 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
@@ -12,8 +11,6 @@
 (E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 03 Draft message  Karen about Cyber Day 
 (E) 03 Trim nose hair +Health    
-(E) 05 Cut Nova and Leo nails +Health    
-(E) 05 Give laptop screen a good clean +Overhead
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 06 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead    

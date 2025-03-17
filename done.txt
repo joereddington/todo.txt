@@ -7908,3 +7908,6 @@ x 2025-03-13 30 Do the rest of the Lego ISS
 x 2025-03-13 30 Put Podcast on and remove any reused passwords. 
 x 2025-03-13 Backup AWS +EQT
 x 2025-03-17 Install node 
+x 2025-03-17 10 Setup Friday date day 
+x 2025-03-17 05 Cut Nova and Leo nails +Health    
+x 2025-03-17 05 Give laptop screen a good clean +Overhead
