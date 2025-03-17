@@ -1,7 +1,7 @@
 (B) 20 Order comic for the children involved. 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
-(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+x 2025-03-17 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 (C) 20 one chapter of 'on food and cooking' 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  

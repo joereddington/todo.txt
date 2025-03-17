@@ -5,6 +5,7 @@
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 * Open the folder and work 
 (C) 20 one chapter of 'on food and cooking' 
+Nettles are cool 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
 (C) Update food diary 
