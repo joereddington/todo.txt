@@ -4,10 +4,8 @@
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
 (C) 20 Update food diary 
-x 2025-03-17 10 Reply about telescope 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
-(E) 03 Draft message Karen about Cyber Day 
 (C) Get more Wood from B&Q 
 (E) 06 Floss +Health   
 (E) Reply reddit 
