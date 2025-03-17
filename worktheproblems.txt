@@ -1,51 +1,17 @@
-(B) 20 Write a report for EQT - include accounts and notes on redundancy  
-* Open Draft 
-* Properly investigate the issue with Helen, 
-
-
-(B) Order comic for the children involved. 
-
-(C sibs 14/3/25  ) Write script for Sibs Talk 
-(C) Move WWW website: Download a copy; create a branch and push to github  
-✅  Clone local 
-✅  Add the _site directory and push 
-✅  Work out how to serve from the clone directory 
-* Redirect the email 
-  ✅  Check Cloud Flair 
-  ✅ Improved sercurity on cloudfaire 
-  * Not on cloudflaire. 
-  * Check QIQ 
-  * Redirect to cloudflare 
-
-* Confirm email works from RHUL account 
-* Redirect the DNS 
-
 (B) 20 Order comic for the children involved. 
-
-* Send the email to the teacher 
-* Find the email involved. 
-
+  * Send an email about the comic 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
+* Email Helen Back 
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
-* Email Double check the timings  
-
-(C) 10 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-* Open Document 
-
-(C) 10 Setup Friday date day 
-* Check Calendar 
-* Brainstorm options 
+* Open the folder and work 
 (C) 20 one chapter of 'on food and cooking' 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
+(C) Update food diary 
 (D) 10 Reply about telescope 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
-(E) 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 03 Draft message  Karen about Cyber Day 
-(E) 03 Trim nose hair +Health    
-(E) 05 Cut Nova and Leo nails +Health    
-(E) 05 Give laptop screen a good clean +Overhead
 (E) 05 Work out the expenses for london trip +RHUL  
 (E) 06 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead    
@@ -55,13 +21,8 @@
 (E) 10 Rewrite emote.md
 (E) 10 map out resurrecting the 618 server with an audino 
 (E) 14 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 20 Ask On Reddit were to put the darktable request somewhere else 
 (E) 20 Fix the 'process inbox.md' problem in delores
 (E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
-(E) 20 Sort the lego in process drawer (podcast)  
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) 20 Try out that Arudino simulator 
-(E) 20 Try posting the darktable request somewhere else 
-(E) 30 Do the rest of the Lego ISS 
-(E) 30 Put Podcast on and remove any reused passwords. 
 (E) 40 Move bearclaw projects into Diary 
-x 2025-03-13 Backup AWS +EQT
