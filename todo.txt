@@ -4,12 +4,11 @@
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
 (C) 20 Update food diary 
-(D) 10 Reply about telescope 
+x 2025-03-17 10 Reply about telescope 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 03 Draft message Karen about Cyber Day 
 (C) Get more Wood from B&Q 
-(E) 05 Work out the expenses for london trip +RHUL  
 (E) 06 Floss +Health   
 (E) Reply reddit 
 (E) 10 Empty Joe inbox completely +Overhead    
@@ -17,8 +16,7 @@
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
 (E) 10 Rewrite emote.md
 (E) 10 map out resurrecting the 618 server with an audino 
-(E) 14 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Fix the 'process inbox.md' problem in delores
-(E) 20 Make the corrections for the GA nomination of BA2018, and add additional content from folder.
+(E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 40 Move bearclaw projects into Diary 
