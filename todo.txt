@@ -14,8 +14,7 @@
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
 (E) 10 Rewrite emote.md
 (E) 10 map out resurrecting the 618 server with an audino 
-x 2025-03-17 20 Fix the 'process inbox.md' problem in delores
-(E) Play with a vim-triggered Delores - expand this. 
+(E) Play with a vim-triggered Delores 
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder.
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 40 Move bearclaw projects into Diary 
