@@ -7911,3 +7911,5 @@ x 2025-03-17 Install node
 x 2025-03-17 10 Setup Friday date day 
 x 2025-03-17 05 Cut Nova and Leo nails +Health    
 x 2025-03-17 05 Give laptop screen a good clean +Overhead
+x 2025-03-17 03 Trim nose hair +Health    
+x 2025-03-17 03 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
