@@ -1,8 +1,6 @@
 (A) Clear out email inboxes
-(E) Find a 'standing starts on bike' video for Leo 
-(E) Show leo the cycling videos
-(A) Do Yvonne Work 
-(A) Pension Contributions 
+(A Yvonne ) Do Yvonne Work 
+(B Kat ) Pension Contributions 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 (C) 20 Update food diary 
@@ -13,12 +11,13 @@
 (C) Thank the guy about the coursea email 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
+(D) Draft a _process_ for honesty posts 
+(D) Practice the chemistry mnemonics 
 (E) 06 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Go around house and do universal capture
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
-(E) Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
 (E) 10 Set power to router and see if it can be reset 
 (E) 10 map out resurrecting the 618 server with an audino 
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder.
@@ -26,15 +25,16 @@
 (E) 40 Move bearclaw projects into Diary 
 (E) Book massage 
 (E) Email Uncle John 
+(E) Fill out clipboard with classics: catch, football, 
+(E) Find a 'standing starts on bike' video for Leo 
+(E) Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
 (E) Get other keyboard out of the garage 
+(E) Lookup other football options with Leo 
 (E) Play with a vim-triggered Delores 
 (E) Put the SLT keycap file onto mac, then install the slicers and so on. 
 (E) Reply reddit 
 (E) See if you can make a volume sensor for the office, and then the kids
 (E) See if you can run Road Rash from the sensor 
+(E) Show leo the cycling videos
 (E) Work out when the Birminham comic con is and tell Richard 
 (E) Write down the kid lists for Saturday Gymnastics and Sunday trip 
-(E) Lookup other football options with Leo 
-(E) Fill out clipboard with classics: catch, football, 
-(D) Draft a _process_ for honesty posts 
-(D) Practice the chemistry mnemonics 
