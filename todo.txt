@@ -1,7 +1,8 @@
 (A) Clear out email inboxes
+(E) Find a 'standing starts on bike' video for Leo 
+(E) Show leo the cycling videos
 (A) Do Yvonne Work 
 (A) Pension Contributions 
-(C) Thank the guy about the coursea email 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 (C) 20 Update food diary 
@@ -9,6 +10,7 @@
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
 (C) Get more Wood from B&Q 
+(C) Thank the guy about the coursea email 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (E) 06 Floss +Health   
@@ -30,3 +32,7 @@
 (E) See if you can run Road Rash from the sensor 
 (E) Work out when the Birminham comic con is and tell Richard 
 (E) Write down the kid lists for Saturday Gymnastics and Sunday trip 
+(E) Lookup other football options with Leo 
+(E) Fill out clipboard with classics: catch, football, 
+(D) Draft a _process_ for honesty posts 
+(D) Practice the chemistry mnemonics 
