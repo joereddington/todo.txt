@@ -30,7 +30,7 @@
 (E) Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
 (E) Get other keyboard out of the garage 
 (E) Lookup other football options with Leo 
-(E) Play with a vim-triggered Delores 
+x 2025-03-19 Play with a vim-triggered Delores 
 (E) Put the SLT keycap file onto mac, then install the slicers and so on. 
 (E) Reply reddit 
 (E) See if you can make a volume sensor for the office, and then the kids
