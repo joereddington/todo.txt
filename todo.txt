@@ -30,9 +30,8 @@
 (E) Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
 (E) Get other keyboard out of the garage 
 (E) Lookup other football options with Leo 
-x 2025-03-19 Play with a vim-triggered Delores 
 (E) Put the SLT keycap file onto mac, then install the slicers and so on. 
-(E) Reply reddit 
+(E) Rewrite https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html
 (E) See if you can make a volume sensor for the office, and then the kids
 (E) See if you can run Road Rash from the sensor 
 (E) Show leo the cycling videos
