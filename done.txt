@@ -7925,3 +7925,8 @@ x 2025-03-17 03 Draft message Karen about Cyber Day
 x 2025-03-17 20 Fix the 'process inbox.md' problem in delores
 x 2025-03-19 Play with a vim-triggered Delores 
 x 2025-03-19 Reply reddit 
+x 2025-03-24 Clear out email inboxes
+x 2025-03-24 (B Kat ) Pension Contributions 
+x 2025-03-24 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
+x 2025-03-24 Thank the guy about the coursea email 
+x 2025-03-24 Work out when the Birminham comic con is and tell Richard 

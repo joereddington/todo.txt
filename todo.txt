@@ -1,15 +1,11 @@
-(A) Clear out email inboxes
 (E) Do another review of the password manager 
 (A Yvonne ) Do Yvonne Work 
-(B Kat ) Pension Contributions 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 (C) 20 Update food diary 
 (C) 20 one chapter of 'on food and cooking' 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
-(C) Get more Wood from B&Q 
-(C) Thank the guy about the coursea email 
+(C) Do artchitraves 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
 (D) Draft a _process_ for honesty posts 
@@ -28,13 +24,12 @@
 (E) Email Uncle John 
 (E) Fill out clipboard with classics: catch, football, 
 (E) Find a 'standing starts on bike' video for Leo 
-(E) Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
-(E) Get other keyboard out of the garage 
+(E) 03 Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
+(E) Get other split keyboard out of the garage 
 (E) Lookup other football options with Leo 
 (E) Put the SLT keycap file onto mac, then install the slicers and so on. 
 (E) Rewrite https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html
 (E) See if you can make a volume sensor for the office, and then the kids
 (E) See if you can run Road Rash from the sensor 
 (E) Show leo the cycling videos
-(E) Work out when the Birminham comic con is and tell Richard 
 (E) Write down the kid lists for Saturday Gymnastics and Sunday trip 
