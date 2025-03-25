@@ -7930,3 +7930,6 @@ x 2025-03-24 (B Kat ) Pension Contributions
 x 2025-03-24 (C sibs 14/3/25  ) 20 Write script for Sibs Talk 
 x 2025-03-24 Thank the guy about the coursea email 
 x 2025-03-24 Work out when the Birminham comic con is and tell Richard 
+x 2025-03-24 03 buy a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
+x 2025-03-24 10 Set power to router and see if it can be reset 
+x 2025-03-24 20 Process the 'process' directory on laptop  @cafe 

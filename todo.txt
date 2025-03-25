@@ -1,35 +1,55 @@
-(E) Do another review of the password manager 
-(A Yvonne ) Do Yvonne Work 
+(A Yvonne ) 35 Create another profile in the social media   
+(A Yvonne ) 40 Complete the last two scenarios for Hana and Yvonne 
+(A) 10 Put up the payments for Francesca! 
+(B) 15 Claim the £30 expenses
+(B) 15 google for things to do on Holiday. 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
+(B) 25 Do paper corrections 
+(C) 02 Talk to LCK about generative courseowrk. 
+(C) 03 Email peter about reference 
+(C) 05 Check your emails for the coursea exam structure and create a post on the forum
+(C) 10 Register Nova on Salto waiting list
+(C) 15 Make sure you can push the private repos to other machines
 (C) 20 Update food diary 
+(C) 20 make Proper charging station in bedroom 
 (C) 20 one chapter of 'on food and cooking' 
 (C) 25 Print the unity submission form and email people about it. 
 (C) 30 Move WWW website: Download a copy; create a branch and push to github  
-(C) Do artchitraves 
+(C) 60 Do bedroom architraves (you've already taken it off the other wall)  
+(D) 05 Put the Book cover Photoshop files onto Google Drive 
+(D) 08 Arrange Speech therapist 
+(D) 10 Draft a _process_ for honesty posts  @cafe
+(D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 replace back gate lock 
 (D) 30 Read the three chapters of teaching material  +RHUL 
-(D) Draft a _process_ for honesty posts 
-(D) Practice the chemistry mnemonics 
+(E) 02 Fill out clipboard with classics: catch, football, 
+(E) 02 Talk to Nova about climbing ropes @clipboard
+(E) 03 Calendar event Third formative coursework should be "do a case study on a company that didn't have a breach 
+(E) 03 Get other split keyboard out of the garage @home
+(E) 05 Search for  a 'standing starts on bike' video for Leo 
+(E) 05 Show leo the cycling videos @clipboard
+(E) 06 Email Uncle John  @cafe
 (E) 06 Floss +Health   
+(E) 10 Brainstorm starting work day early @cafe
+(E) 10 Contact kevin with an update  @cafe
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Go around house and do universal capture
+(E) 10 Make a spreadsheet of football options for Leo 
 (E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
-(E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
-(E) 10 Set power to router and see if it can be reset 
-(E) 10 map out resurrecting the 618 server with an audino 
+(E) 10 Rewrite emote.md (notes are at eoirgjeoigjre)  @cafe
+(E) 10 Rewrite https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html
+(E) 10 Write down the kid lists for Saturday Gymnastics and Sunday trip 
+x 2025-03-24 10 Write the grumpy process into delores - focus on the process rather then the ideal  @cafe
+(E) 12 Make a spreadsheet of teaching awards and dates
+(D) Work out which student hasn't submitted their essay and email them
+(E) 15 Clipboard - work out hand signals for Nova and Leo - do it via makaton 
+(E) 20 Buy tomatros for tasting  @car 
+(E) 20 Do another review of the password manager spreadsheet 
+(E) 20 Lookup how to fully sandbox undergraduate projects
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder.
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+(E) 20 Put the SLT keycap file onto mac, then install the slicers and so on. 
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @cafe
+(E) 30 See if you can run Road Rash from the sensor 
 (E) 40 Move bearclaw projects into Diary 
-(E) Book massage 
-(E) Email Uncle John 
-(E) Fill out clipboard with classics: catch, football, 
-(E) Find a 'standing starts on bike' video for Leo 
-(E) 03 Get a long micro USB  an actual power cable going to the fire stick to solve the rebooting 
-(E) Get other split keyboard out of the garage 
-(E) Lookup other football options with Leo 
-(E) Put the SLT keycap file onto mac, then install the slicers and so on. 
-(E) Rewrite https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html
+(E) Ask if the gym has internet  @cafe
 (E) See if you can make a volume sensor for the office, and then the kids
-(E) See if you can run Road Rash from the sensor 
-(E) Show leo the cycling videos
-(E) Write down the kid lists for Saturday Gymnastics and Sunday trip 
