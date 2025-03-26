@@ -1,55 +1,39 @@
-(A Yvonne ) 35 Create another profile in the social media   
-(A Yvonne ) 40 Complete the last two scenarios for Hana and Yvonne 
-(A) 10 Put up the payments for Francesca! 
-(B) 15 Claim the £30 expenses
-(B) 15 google for things to do on Holiday. 
+(A Yvonne ) 35 Create another profile in the social media    @internet
+(A) Print the student comics  @internet
+(A) Work out which student hasn't submitted their essay and email them
+(B) 15 Claim the £30 expenses @internet
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-(B) 25 Do paper corrections 
 (C) 02 Talk to LCK about generative courseowrk. 
-(C) 03 Email peter about reference 
-(C) 05 Check your emails for the coursea exam structure and create a post on the forum
-(C) 10 Register Nova on Salto waiting list
-(C) 15 Make sure you can push the private repos to other machines
-(C) 20 Update food diary 
-(C) 20 make Proper charging station in bedroom 
-(C) 20 one chapter of 'on food and cooking' 
-(C) 25 Print the unity submission form and email people about it. 
-(C) 30 Move WWW website: Download a copy; create a branch and push to github  
-(C) 60 Do bedroom architraves (you've already taken it off the other wall)  
-(D) 05 Put the Book cover Photoshop files onto Google Drive 
-(D) 08 Arrange Speech therapist 
-(D) 10 Draft a _process_ for honesty posts  @cafe
+(C) 15 Make sure you can push the private repos to other machines @home
+(C) 20 read one chapter of 'on food and cooking'  @home
+(C) 20 rewrite food diary  @internet
+(C) 25 Print the unity submission form and email people about it. @home
+(C) 30 Move WWW website: Download a copy; create a branch and push to github @internet
+(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(C) Revise Sibs speech @cafe
+(D) 05 Put the Book cover Photoshop files onto Google Drive  @internet
+(D) 08 Make a spreadsheet of speech Therapists @internet
 (D) 10 Practice the chemistry mnemonics @cafe 
-(D) 15 replace back gate lock 
-(D) 30 Read the three chapters of teaching material  +RHUL 
-(E) 02 Fill out clipboard with classics: catch, football, 
+(D) 15 replace back gate lock  @home
+(E) 02 Fill out clipboard with classics: catch, football,  @clipboard
 (E) 02 Talk to Nova about climbing ropes @clipboard
-(E) 03 Calendar event Third formative coursework should be "do a case study on a company that didn't have a breach 
 (E) 03 Get other split keyboard out of the garage @home
-(E) 05 Search for  a 'standing starts on bike' video for Leo 
+(E) 05 Search for  a 'standing starts on bike' video for Leo  
 (E) 05 Show leo the cycling videos @clipboard
-(E) 06 Email Uncle John  @cafe
-(E) 06 Floss +Health   
-(E) 10 Brainstorm starting work day early @cafe
-(E) 10 Contact kevin with an update  @cafe
-(E) 10 Empty Joe inbox completely +Overhead    
-(E) 10 Go around house and do universal capture
-(E) 10 Make a spreadsheet of football options for Leo 
-(E) 10 Review Nova's Smiths toy's trip list with her (Clipboard) 
-(E) 10 Rewrite emote.md (notes are at eoirgjeoigjre)  @cafe
-(E) 10 Rewrite https://joereddington.com/2025/03/19/you-should-have-an-asked-questions-list-for-your-students.html
-(E) 10 Write down the kid lists for Saturday Gymnastics and Sunday trip 
-x 2025-03-24 10 Write the grumpy process into delores - focus on the process rather then the ideal  @cafe
-(E) 12 Make a spreadsheet of teaching awards and dates
-(D) Work out which student hasn't submitted their essay and email them
-(E) 15 Clipboard - work out hand signals for Nova and Leo - do it via makaton 
+(E) 06 Floss +Health    @home
+(E) 10 Empty Joe inbox completely @home
+(E) 10 Go around house and do universal capture @home
+(E) 10 Make a spreadsheet of football options for Leo  @internet
+(E) 10 Review Nova's Smiths toy's trip list with her @clipboard
+(E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
+(E) 10 Write down the kid lists for Saturday Gymnastics and Sunday trip  @cafe
+(E) 12 Make a spreadsheet of teaching awards and dates @internet
+(E) 15 Clipboard - review hand signals for kids 
 (E) 20 Buy tomatros for tasting  @car 
-(E) 20 Do another review of the password manager spreadsheet 
-(E) 20 Lookup how to fully sandbox undergraduate projects
-(E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder.
-(E) 20 Put the SLT keycap file onto mac, then install the slicers and so on. 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @cafe
-(E) 30 See if you can run Road Rash from the sensor 
-(E) 40 Move bearclaw projects into Diary 
+(E) 20 Do another review of the password manager spreadsheet  @internet
+(E) 20 Lookup how to fully sandbox undergraduate projects @internet
+(E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
+(E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
+(E) 30 See if you can run Road Rash from the sensor  @home
+(E) 40 Move bearclaw projects into Diary  
 (E) Ask if the gym has internet  @cafe
-(E) See if you can make a volume sensor for the office, and then the kids
