@@ -7949,3 +7949,7 @@ x 2025-03-26 30 Read the three chapters of teaching material  +RHUL
 x 2025-03-26 10 Brainstorm starting work day early @cafe
 x 2025-03-26 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @cafe
 x 2025-03-26 15 google for things to do on Holiday. @cafe 
+x 2025-03-31 Print the student comics  @internet
+x 2025-03-31 Revise Sibs speech @cafe
+x 2025-03-31 Revise the fellowship application 
+x 2025-03-31 20 rewrite food diary  @internet
