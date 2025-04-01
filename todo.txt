@@ -1,6 +1,6 @@
 (C) 02 Talk to LCK about generative courseowrk. 
-(E) 03 Get other split keyboard out of the garage @home
-(E) 03 Put labels on passports 
+x 2025-04-01 03 Get other split keyboard out of the garage @home
+x 2025-04-01 03 Put labels on passports 
 (D) 05 Put the Book cover Photoshop files onto Google Drive  @internet
 (E) 05 Search for  a 'standing starts on bike' video for Leo  
 (E) 05 Show leo the cycling videos @clipboard
