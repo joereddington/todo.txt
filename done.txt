@@ -7977,3 +7977,5 @@ x 2025-04-01 Deal with helen - you need the dates that you changed to 0.4
 x 2025-04-01 10 Empty Joe inbox completely @home
 x 2025-04-01 15 Pay tax 
 x 2025-04-01 Focus on the red line and properly review them and do everything you can from the cafe 
+x 2025-04-01 Make a fake news spreading animation. 
+x 2025-04-01 08 Work out which student hasn't submitted their essay and email them
