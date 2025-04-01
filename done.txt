@@ -7961,3 +7961,9 @@ x 2025-04-01 02 Fill out clipboard with classics: catch, football,  @clipboard
 x 2025-04-01 02 Talk to Nova about climbing ropes @clipboard
 x 2025-04-01 10 Review Nova's Smiths toy's trip list with her @clipboard
 x 2025-04-01 15 Clipboard - review hand signals for kids 
+x 2025-04-01 03 Get other split keyboard out of the garage @home
+x 2025-04-01 03 Put labels on passports 
+x 2025-04-01 10 Write down the kid lists for Saturday Gymnastics and Sunday trip  @cafe
+x 2025-04-01 05 Put the Book cover Photoshop files onto Google Drive  @internet
+x 2025-04-01 15 Make sure you can push the private repos to other machines @home
+x 2025-04-01 10 Review all the git repos on laptop and sort them. 
