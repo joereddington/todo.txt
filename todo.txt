@@ -16,12 +16,11 @@
 (D) 15 replace back gate lock  @home
 (E) 06 Floss +Health    @home
 (E) 10 Archive the rhul directory on tower 
-(E) 10 Empty Joe inbox completely @home
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 15 Demonstrate bike mount for Leo 
 (E) 20 Buy tomatros for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
-(E) 20 Lookup how to fully sandbox undergraduate projects @internet
+(E) 20 Map project for AWS virtual machines - for project student sandboxing  
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) 40 Move bearclaw projects into Diary  
