@@ -1,7 +1,12 @@
+(E) 20 Do another review of the password manager spreadsheet  @internet
+(E) 12 Make a spreadsheet of teaching awards and dates @internet
+(E) 10 Make a spreadsheet of football options for Leo  @internet
+(D) 08 Make a spreadsheet of speech Therapists @internet
 (A Yvonne ) 35 Create another profile in the social media    @internet
 (A) Deal with helen - you need the dates that you changed to 0.4 
 (A) Focus on the red line and properly review them and do everything you can from the cafe 
 (A) Pay tax 
+(B) Email about teaching prizes https://www.the-awards.co.uk/2025/en/page/faqs  
 (A) Work out which student hasn't submitted their essay and email them
 (B) 10 Fix sunglasses 
 (B) 15 Claim the £30 expenses @internet
@@ -12,18 +17,14 @@
 (C) 30 Move WWW website: Download a copy; create a branch and push to github @internet
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (C) Get Drawing compass set for Nova 
-(D) 08 Make a spreadsheet of speech Therapists @internet
 (D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 replace back gate lock  @home
 (E) 05 Search for  a 'standing starts on bike' video for Leo  
 (E) 05 Show leo the cycling videos @clipboard
 (E) 06 Floss +Health    @home
 (E) 10 Empty Joe inbox completely @home
-(E) 10 Make a spreadsheet of football options for Leo  @internet
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
-(E) 12 Make a spreadsheet of teaching awards and dates @internet
 (E) 20 Buy tomatros for tasting  @car 
-(E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Lookup how to fully sandbox undergraduate projects @internet
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
