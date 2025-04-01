@@ -7967,3 +7967,7 @@ x 2025-04-01 10 Write down the kid lists for Saturday Gymnastics and Sunday trip
 x 2025-04-01 05 Put the Book cover Photoshop files onto Google Drive  @internet
 x 2025-04-01 15 Make sure you can push the private repos to other machines @home
 x 2025-04-01 10 Review all the git repos on laptop and sort them. 
+x 2025-04-01 12 Make a spreadsheet of teaching awards and dates @internet
+x 2025-04-01 08 Make a spreadsheet of speech Therapists @internet
+x 2025-04-01 10 Make a spreadsheet of football options for Leo  @internet
+x 2025-04-01 10 Fix sunglasses 
