@@ -7971,3 +7971,6 @@ x 2025-04-01 12 Make a spreadsheet of teaching awards and dates @internet
 x 2025-04-01 08 Make a spreadsheet of speech Therapists @internet
 x 2025-04-01 10 Make a spreadsheet of football options for Leo  @internet
 x 2025-04-01 10 Fix sunglasses 
+x 2025-04-01 Email about teaching prizes https://www.the-awards.co.uk/2025/en/page/faqs  
+x 2025-04-01 05 Show leo the cycling videos @clipboard
+x 2025-04-01 Deal with helen - you need the dates that you changed to 0.4 
