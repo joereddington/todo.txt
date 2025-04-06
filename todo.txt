@@ -20,3 +20,4 @@
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) 40 Move bearclaw projects into Diary  
+(E) Write transparency proces
