@@ -14,6 +14,7 @@
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
+(E) Fix https issue on www website
 (E) 40 Move bearclaw projects into Diary  
 (E) Write transparency proces
 (E) Change cover or price on memory book
