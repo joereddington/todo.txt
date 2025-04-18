@@ -7986,3 +7986,5 @@ x 2025-04-18 Brainstorm Halfterm
 x 2025-04-18 10 Archive the rhul directory on tower 
 x 2025-04-18 20 Map project for AWS virtual machines - for project student sandboxing  
 x 2025-04-18 02 Talk to LCK about generative courseowrk. 
+x 2025-04-18 20 Write a report for EQT - include accounts and notes on redundancy  
+x 2025-04-18 review wheel of life
