@@ -1,5 +1,5 @@
 (A Yvonne ) 35 Create another profile in the social media    @internet
-(B) 20 Write a report for EQT - include accounts and notes on redundancy  
+x 2025-04-18 20 Write a report for EQT - include accounts and notes on redundancy  
 (C) 03 Get Drawing compass set for Nova 
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 Print the unity submission form and email people about it. @home
@@ -23,3 +23,4 @@ x 2025-04-18 review wheel of life
 (E) Setup filter for Hertfordshire
 (E) Start Flowers For turing
 (E) Pensions book 
+(E) Make another chair for Nova. 
