@@ -1,10 +1,7 @@
 (A Yvonne ) 35 Create another profile in the social media    @internet
-x 2025-04-13 PRactice talk 
 (B) 20 Write a report for EQT - include accounts and notes on redundancy  
-x 2025-04-13 Put salery into unity 
 (C) 02 Talk to LCK about generative courseowrk. 
 (C) 03 Get Drawing compass set for Nova 
-(B) Brainstorm Halfterm 
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 Print the unity submission form and email people about it. @home
 (C) 30 Move WWW website: Download a copy; create a branch and push to github @internet
@@ -22,3 +19,6 @@ x 2025-04-13 Put salery into unity
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) 40 Move bearclaw projects into Diary  
 (E) Write transparency proces
+(E) Change cover or price on memory book
+(E) review wheel of life
+(E) Setup filter for Hertfordshire

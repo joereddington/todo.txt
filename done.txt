@@ -7980,3 +7980,6 @@ x 2025-04-01 Focus on the red line and properly review them and do everything yo
 x 2025-04-01 Make a fake news spreading animation. 
 x 2025-04-01 08 Work out which student hasn't submitted their essay and email them
 x 2025-04-01 15 Claim the £30 expenses @internet
+x 2025-04-13 PRactice talk 
+x 2025-04-13 Put salery into unity 
+x 2025-04-18 Brainstorm Halfterm 
