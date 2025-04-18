@@ -23,4 +23,4 @@ x 2025-04-18 review wheel of life
 (E) Setup filter for Hertfordshire
 (E) Start Flowers For turing
 (E) Pensions book 
-(E) Make another chair for Nova. 
+(E) Make another chair for Nova. (MAYBE  TinkerCAD first - so measure the dimensions you have - in fact - measure the old chair and work out the size Nova wants) 
