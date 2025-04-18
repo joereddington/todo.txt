@@ -19,6 +19,7 @@
 (E) Write transparency proces
 (E) Change cover or price on memory book
 x 2025-04-18 review wheel of life
+(E) Do wiring for Nova's car
 (E) Setup filter for Hertfordshire
 (E) Start Flowers For turing
 (E) Pensions book 
