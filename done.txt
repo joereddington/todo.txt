@@ -7985,3 +7985,4 @@ x 2025-04-13 Put salery into unity
 x 2025-04-18 Brainstorm Halfterm 
 x 2025-04-18 10 Archive the rhul directory on tower 
 x 2025-04-18 20 Map project for AWS virtual machines - for project student sandboxing  
+x 2025-04-18 02 Talk to LCK about generative courseowrk. 
