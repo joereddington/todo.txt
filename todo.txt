@@ -4,6 +4,7 @@
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 Print the unity submission form and email people about it. @home
 (C) 30 Move WWW website: Download a copy; create a branch and push to github @internet
+(E) Make Leo scoresheet
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 replace back gate lock  @home
@@ -17,7 +18,7 @@
 (E) 40 Move bearclaw projects into Diary  
 (E) Write transparency proces
 (E) Change cover or price on memory book
-(E) review wheel of life
+x 2025-04-18 review wheel of life
 (E) Setup filter for Hertfordshire
 (E) Start Flowers For turing
 (E) Pensions book 
