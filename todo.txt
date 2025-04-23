@@ -1,25 +1,29 @@
 (A Yvonne ) 35 Create another profile in the social media    @internet
+(A) Plan really cool weekend and message Kat about it due:2025-04-22
+(A) Write full weekly review blog post and also Gratitude due:2025-04-22
+(B) New set of wheel of life projects 
+(B) Publish Todo list on Linkedin due:2025-04-21
+(B) Review all the 'reviewme' emails and people to manage due:2025-04-21
 (C) 03 Get Drawing compass set for Nova 
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 Print the unity submission form and email people about it. @home
 (C) 30 Move WWW website Check if it worked and double check email
-(E) Make Leo scoresheet
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(C) Equality Time monthly finance tasks 
 (D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 replace back gate lock  @home
 (E) 06 Floss +Health    @home
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
-(E) 15 Demonstrate bike mount for Leo 
-(E) 20 Buy tomatros for tasting  @car 
+(E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
-(E) Fix https issue on www website
 (E) 40 Move bearclaw projects into Diary  
-(E) Write transparency proces
-(E) Change cover or price on memory book
-(E) Do wiring for Nova's car
-(E) Setup filter for Hertfordshire
-(E) Start Flowers For turing
+(E) Create another cover for the memory book 
+(E) Get chatgpt to create wiring diagram for Nova's car 
+(E) Ask chatgpt about https issue on www website
+(E) Complete Nova Chair 
 (E) Pensions book 
-(E) Make another chair for Nova. (MAYBE  TinkerCAD first - so measure the dimensions you have - in fact - measure the old chair and work out the size Nova wants) 
+(E) Fix Hertsforshire email and setup filters 
+(E) Start Flowers For turing
+(E) Write transparency proces
