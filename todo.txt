@@ -21,6 +21,7 @@
 (E) Fix the guardian on the history file 
 (E) Reformat the Leo spreadsheet
 (E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
+(E) Tidy up garage 
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) Create another cover for the memory book 
 (E) Ask chatgpt about https issue on www website (and suspend the site!) 
