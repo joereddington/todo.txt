@@ -19,8 +19,7 @@
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) 40 Move bearclaw projects into Diary  
 (E) Create another cover for the memory book 
-(E) Get chatgpt to create wiring diagram for Nova's car 
-(E) Ask chatgpt about https issue on www website
+(E) Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) Complete Nova Chair 
 (E) Pensions book 
 (E) Start Flowers For turing
