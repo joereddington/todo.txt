@@ -7994,3 +7994,5 @@ x 2025-04-26 (A Yvonne ) 35 Create another profile in the social media    @inter
 x 2025-04-26 Plan really cool weekend and message Kat about it due:2025-04-22
 x 2025-04-26 Fix Hertsforshire email and setup filters 
 x 2025-04-26 Get chatgpt to create wiring diagram for Nova's car 
+x 2025-04-26 40 Move bearclaw projects into Diary  
+x 2025-04-26 Write full weekly review blog post and also Gratitude due:2025-04-22
