@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(C) Put up Amazon and redudnency payments
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Do more of Yvonne Changes 
 (B) Find another football for Leo 
@@ -10,6 +11,7 @@
 (B) Review all the 'reviewme' emails and people to manage due:2025-04-21
 (C) 03 Get Drawing compass set for Nova 
 (C) 20 read one chapter of 'on food and cooking'  @home
+(C) Fix insurance
 (C) 25 post the unity submission form and email people about it. @home
 (C) 30 Move WWW website Check if it worked and double check email
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
