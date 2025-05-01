@@ -1,6 +1,8 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(C) Put up Amazon and redudnency payments
+(A) 15 Arrange the Meetings for Herts
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(B) 60 Next iteration of fake news for Yvonne 
+(B) Apply for the DEI role
 (B) Do more of Yvonne Changes 
 (B) Find another football for Leo 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
@@ -11,25 +13,41 @@
 (B) Review all the 'reviewme' emails and people to manage due:2025-04-21
 (C) 03 Get Drawing compass set for Nova 
 (C) 20 read one chapter of 'on food and cooking'  @home
-(C) Fix insurance
-(B) Apply for the DEI role
 (C) 25 post the unity submission form and email people about it. @home
+(C) 30 Bulk cooking
 (C) 30 Move WWW website Check if it worked and double check email
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(C) Cancel old bank cards 
+(C) Charge big battery 
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Deal with pull request
 (C) Equality Time monthly finance tasks 
+(C) Equality Time monthly finance tasks 
+(C) Fix insurance
+(C) Fix the bug on the public history
+(C) Map project for getting Leo statemented. 
+(C) New set of wheel of life projects 
+(C) Put up Amazon and redudnency payments
+(C) Review all the 'reviewme' emails and people to manage due:2025-04-21
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Review the student book and put it through for typos and the rest. 
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) Take stuff to the dump - check batteries first 
 (C) deploy any commits from OVF that are hanging around. 
 (D) 10 Practice the chemistry mnemonics @cafe 
+(D) 10 Practice the chemistry mnemonics @cafe 
+(D) 15 replace back gate lock  @home
 (D) 15 replace back gate lock  @home
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
+(D) Complete Nova Chair 
 (D) Do full accounts algorithm +EQT 
+(D) Lookup potential holiday locations for summer
+(D) Purchase blood test
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 06 Floss +Health    @home
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
@@ -40,24 +58,35 @@
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask chatgpt about https issue on www website (and suspend the site!) 
+(E) Ask chatgpt about https issue on www website (and suspend the site!) 
+(E) Badger Salto 
+(E) Blackbox should automatically put itself on a usb stick 
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
+(E) Choose case for Nova tablet
+(E) Claim train ticket from Sibs
 (E) Complete Nova Chair 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Create another cover for the memory book 
 (E) Create another cover for the memory book 
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Edit together Nova's acid video 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix the guardian on the history file 
+(E) Fix the guardian on the history file 
 (E) Floss +Health   
 (E) Follow up with Doctor 
+(E) Follow up with Doctor 
+(E) Follow up with kat about Nova's Bike
+(E) Get blood test done 
 (E) Get blood test done 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -65,23 +94,35 @@
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Lookup road steepness grades
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Message about 3d Printer 
 (E) Pensions book 
+(E) Pensions book 
 (E) Post to Vegan Facebook group  @phone   
+(E) Pound coin in the car 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly setup the projector in a few different places
 (E) Publicly thank someone +Overhead  
+(E) Publish Todo list on Linkedin due:2025-04-21
+(E) Reformat the Leo spreadsheet
 (E) Reformat the Leo spreadsheet
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
+(E) Set a date for a new set of exercises at the gym. 
+(E) Sort out cables for projector again @home
 (E) Start Flowers For turing
+(E) Start Flowers For turing
+(E) Start a 3d printer project - find some youtube videos and so on. 
 (E) TSE +Health  
+(E) Talk to mum
+(E) Tell Tom and Zoe we still have your car seat 
+(E) Tidy up garage 
 (E) Tidy up garage 
 (E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
-(E) Claim train ticket from Sibs
+(E) Write project for decentralised Parking 
 (E) Write transparency process
 (E) process Garage inbox. 
