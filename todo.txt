@@ -1,9 +1,10 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) 15 Arrange the Meetings for Herts
+(A) Do project marking RHUL 
+(A) Do project marking Herts 
+(A) Follow up with the Herts guy
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 60 Next iteration of fake news for Yvonne 
 (B) Apply for the DEI role
-(B) Do more of Yvonne Changes 
+x 2025-05-01 Do more of Yvonne Changes 
 (B) Find another football for Leo 
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
