@@ -47,7 +47,6 @@
 (D) Purchase blood test
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Write up food tracking post
-(E) 06 Floss +Health    @home
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
@@ -77,7 +76,6 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix the guardian on the history file 
-(E) Floss +Health   
 (E) Follow up with Doctor 
 (E) Follow up with kat about Nova's Bike
 (E) Get blood test done 
