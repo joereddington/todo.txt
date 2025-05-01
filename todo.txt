@@ -50,7 +50,6 @@
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
-(E) 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§

@@ -8003,3 +8003,4 @@ x 2025-04-29 20 Put the SLT keycap file onto mac, then install the slicers and s
 x 2025-05-01 60 Review what I have to do for Yvonne - possibly rearrange the website at least 
 x 2025-05-01 06 Floss +Health    @home
 x 2025-05-01 Floss +Health   
+x 2025-05-01 20 Make more corrections for the GA nomination of BA2018, and add additional content from folder. @internet
