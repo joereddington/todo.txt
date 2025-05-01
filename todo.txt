@@ -23,7 +23,6 @@
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Deal with pull request
 (C) Equality Time monthly finance tasks 
-(C) Equality Time monthly finance tasks 
 (C) Fix insurance
 (C) Fix the bug on the public history
 (C) Map project for getting Leo statemented. 
@@ -39,9 +38,7 @@
 (C) Take stuff to the dump - check batteries first 
 (C) deploy any commits from OVF that are hanging around. 
 (D) 10 Practice the chemistry mnemonics @cafe 
-(D) 10 Practice the chemistry mnemonics @cafe 
-(D) 15 replace back gate lock  @home
-(D) 15 replace back gate lock  @home
+(D) 15 sort garage to find and replace back gate lock  @home
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Complete Nova Chair 
@@ -49,6 +46,7 @@
 (D) Lookup potential holiday locations for summer
 (D) Purchase blood test
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(D) Write up food tracking post
 (E) 06 Floss +Health    @home
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 20 Buy tomatoes for tasting  @car 
@@ -57,7 +55,6 @@
 (E) 20 Put the SLT keycap file onto mac, then install the slicers and so on.  @internet
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) Badger Salto 
 (E) Blackbox should automatically put itself on a usb stick 
@@ -72,7 +69,6 @@
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Create another cover for the memory book 
-(E) Create another cover for the memory book 
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
@@ -81,12 +77,9 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix the guardian on the history file 
-(E) Fix the guardian on the history file 
 (E) Floss +Health   
 (E) Follow up with Doctor 
-(E) Follow up with Doctor 
 (E) Follow up with kat about Nova's Bike
-(E) Get blood test done 
 (E) Get blood test done 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -98,14 +91,12 @@
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Message about 3d Printer 
 (E) Pensions book 
-(E) Pensions book 
 (E) Post to Vegan Facebook group  @phone   
 (E) Pound coin in the car 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly setup the projector in a few different places
 (E) Publicly thank someone +Overhead  
 (E) Publish Todo list on Linkedin due:2025-04-21
-(E) Reformat the Leo spreadsheet
 (E) Reformat the Leo spreadsheet
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
@@ -114,12 +105,10 @@
 (E) Set a date for a new set of exercises at the gym. 
 (E) Sort out cables for projector again @home
 (E) Start Flowers For turing
-(E) Start Flowers For turing
 (E) Start a 3d printer project - find some youtube videos and so on. 
 (E) TSE +Health  
 (E) Talk to mum
 (E) Tell Tom and Zoe we still have your car seat 
-(E) Tidy up garage 
 (E) Tidy up garage 
 (E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
