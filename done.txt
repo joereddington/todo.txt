@@ -8007,3 +8007,5 @@ x 2025-05-01 20 Make more corrections for the GA nomination of BA2018, and add a
 x 2025-05-01 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2025-05-01 15 Arrange the Meetings for Herts
 x 2025-05-01 Do more of Yvonne Changes 
+x 2025-05-11 Follow up with the Herts guy
+x 2025-05-01 Do more of Yvonne Changes 
