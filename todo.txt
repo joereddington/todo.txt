@@ -1,53 +1,50 @@
 (A) 120 Do project marking RHUL 
 (A) 60 Complete Herts Marking
-(E) 10 Order steel bar for the wall  (measure first)
-(E) 05 See if you can slide the shower thing off the rail (get spanner first)
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) 60 Next iteration of fake news for Yvonne 
-(B) 30 Apply for the DEI role
-(B) Google/brainstorm another football for Leo 
 (B) 20 New set of wheel of life projects 
+(B) 20 Review the student book and put it through for typos and the rest. 
+(B) 30 Apply for the DEI role
+(B) 60 Next iteration of fake news for Yvonne 
+(B) Google/brainstorm another football for Leo 
 (C) 03 Get Drawing compass set for Nova 
+(C) 10 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) 10 Map project for getting Leo statemented. 
+(C) 15 Check that IMPS will run locally and that it can sync up.  +EQT - can't sync up now I've stopped the thing
+(C) 15 Fix insurance
+(C) 16 Make seiten
+(C) 20 Fix the bug on the public history
+(C) 20 New set of wheel of life projects 
+(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 post the unity submission form and email people about it. @home
 (C) 30 Bulk cooking
 (C) 30 Move WWW website Check if it worked and double check email
-(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(C) Review which bank cards you own and fix them
-(D) Fix Kat paypal on ihpone
-(C) 15 Check that IMPS will run locally and that it can sync up.  +EQT - can't sync up now I've stopped the thing
-(C) 10 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) 16 Make seiten
-(C) Equality Time monthly finance tasks 
-(C) 15 Fix insurance
-(C) 20 Fix the bug on the public history
-(C) 10 Map project for getting Leo statemented. 
-(C) 20 New set of wheel of life projects 
 (C) 30 Put up Amazon and redudnency payments
-(B) 20 Review the student book and put it through for typos and the rest. 
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
+(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(C) Equality Time monthly finance tasks 
+(C) Review which bank cards you own and fix them
 (D) 10 Practice the chemistry mnemonics @cafe 
-(D) 15 sort garage to find and replace back gate lock  @home
-(D) 20 Check starred messages in kat whatsapp 
-(D) 45 Complete Nova Chair 
-(D) 30 Do full accounts algorithm +EQT 
-(D) 20 Lookup potential holiday locations for summer
 (D) 10 Purchase blood test
+(D) 20 Lookup potential holiday locations for summer
+(D) 30 Do full accounts algorithm +EQT 
 (D) 30 Write up food tracking post
+(D) 45 Complete Nova Chair 
+(D) Fix Kat paypal on ihpone
+(E) 05 See if you can slide the shower thing off the rail (get spanner first)
+(E) 05 put Pound coin in the car 
+(E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
+(E) 10 Choose case for Nova tablet (with their) 
+(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) 10 Order steel bar for the wall  (measure first)
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
+(E) 15 Claim train ticket from Sibs
+(E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
-(E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
-(E) 30 Wire up car for Nova
-(E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
-(E) 10 Choose case for Nova tablet
-(E) 15 Claim train ticket from Sibs
-(E) 30 Edit together Nova's acid video 
 (E) 20 Empty Joe inbox completely +Overhead    
-(E) 05 Follow up with kat about Nova's Bike
-(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) 30 Edit together Nova's acid video 
+(E) 30 Wire up car for Nova
 (E) 60 Pensions book 
-(E) 05 put Pound coin in the car 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly setup the projector in a few different places
 (E) Publish Todo list on Linkedin due:2025-04-21
