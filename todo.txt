@@ -29,40 +29,25 @@
 (D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 sort garage to find and replace back gate lock  @home
 (D) 20 Check starred messages in kat whatsapp 
-x 2025-05-11 Clean out Fridge
 (D) 45 Complete Nova Chair 
-(D) Do full accounts algorithm +EQT 
-(D) Lookup potential holiday locations for summer
-(D) Purchase blood test
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(D) Write up food tracking post
+(D) 30 Do full accounts algorithm +EQT 
+(D) 20 Lookup potential holiday locations for summer
+(D) 10 Purchase blood test
+(D) 30 Write up food tracking post
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Ask chatgpt about https issue on www website (and suspend the site!) 
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Choose case for Nova tablet
-(E) Claim train ticket from Sibs
-(E) Complete Nova Chair 
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Create another cover for the memory book 
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Edit together Nova's acid video 
-(E) Empty Joe inbox completely +Overhead    
-(E) Fix the guardian on the history file 
-(E) Follow up with kat about Nova's Bike
-(E) Get blood test done 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Pensions book 
-(E) Post to Vegan Facebook group  @phone   
-(E) Pound coin in the car 
+(E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
+(E) 30 Wire up car for Nova
+(E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
+(E) 10 Choose case for Nova tablet
+(E) 15 Claim train ticket from Sibs
+(E) 30 Edit together Nova's acid video 
+(E) 20 Empty Joe inbox completely +Overhead    
+(E) 05 Follow up with kat about Nova's Bike
+(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) 60 Pensions book 
+(E) 05 put Pound coin in the car 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly setup the projector in a few different places
 (E) Publish Todo list on Linkedin due:2025-04-21
