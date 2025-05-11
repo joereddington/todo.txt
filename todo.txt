@@ -23,7 +23,7 @@
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (C) Equality Time monthly finance tasks 
 (C) Review which bank cards you own and fix them
-(D) 10 Practice the chemistry mnemonics @cafe 
+x 2025-05-11 10 Practice the chemistry mnemonics @cafe 
 (D) 10 Purchase blood test
 (D) 20 Lookup potential holiday locations for summer
 (D) 30 Do full accounts algorithm +EQT 
