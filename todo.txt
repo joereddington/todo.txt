@@ -1,45 +1,36 @@
-(A) Do project marking RHUL 
-(C) Order steel bar for the wall 
-(E) See if you can slide the shower thing off the rail
-(A) Do project marking Herts 
+(A) 120 Do project marking RHUL 
+(A) 60 Complete Herts Marking
+(E) 10 Order steel bar for the wall  (measure first)
+(E) 05 See if you can slide the shower thing off the rail (get spanner first)
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 60 Next iteration of fake news for Yvonne 
-(B) Apply for the DEI role
-(B) Find another football for Leo 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) New set of wheel of life projects 
-(B) Publish Todo list on Linkedin due:2025-04-21
-(B) Review all the 'reviewme' emails and people to manage due:2025-04-21
+(B) 30 Apply for the DEI role
+(B) Google/brainstorm another football for Leo 
+(B) 20 New set of wheel of life projects 
 (C) 03 Get Drawing compass set for Nova 
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 post the unity submission form and email people about it. @home
 (C) 30 Bulk cooking
 (C) 30 Move WWW website Check if it worked and double check email
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(C) Cancel old bank cards 
-(C) Check that IMPS will run locally and that it can sync up.  +EQT
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Review which bank cards you own and fix them
+(D) Fix Kat paypal on ihpone
+(C) 15 Check that IMPS will run locally and that it can sync up.  +EQT - can't sync up now I've stopped the thing
+(C) 10 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) 16 Make seiten
 (C) Equality Time monthly finance tasks 
-(C) Fix insurance
-(C) Fix the bug on the public history
+(C) 15 Fix insurance
+(C) 20 Fix the bug on the public history
 (C) 10 Map project for getting Leo statemented. 
 (C) 20 New set of wheel of life projects 
 (C) 30 Put up Amazon and redudnency payments
-(C) Review all the 'reviewme' emails and people to manage due:2025-04-21
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Review the student book and put it through for typos and the rest. 
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) deploy any commits from OVF that are hanging around. 
+(B) 20 Review the student book and put it through for typos and the rest. 
+(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (D) 10 Practice the chemistry mnemonics @cafe 
 (D) 15 sort garage to find and replace back gate lock  @home
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Complete Nova Chair 
+(D) 20 Check starred messages in kat whatsapp 
+x 2025-05-11 Clean out Fridge
+(D) 45 Complete Nova Chair 
 (D) Do full accounts algorithm +EQT 
 (D) Lookup potential holiday locations for summer
 (D) Purchase blood test
@@ -48,10 +39,8 @@
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Ask chatgpt about https issue on www website (and suspend the site!) 
-(E) Blackbox should automatically put itself on a usb stick 
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
@@ -59,7 +48,6 @@
 (E) Choose case for Nova tablet
 (E) Claim train ticket from Sibs
 (E) Complete Nova Chair 
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Create another cover for the memory book 
 (E) Do Menu for the week +Family  @phone   
