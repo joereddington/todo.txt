@@ -1,6 +1,6 @@
-(A) 120 Do project marking RHUL 
-(B) Send Timesheet to RHUL 
-(A) 60 Complete Herts Marking
+(A) 30 Do project marking RHUL 
+(B) Send Timesheet to herts
+x 2025-05-13 60 Complete Herts Marking
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) 20 New set of wheel of life projects 
 (B) 20 Review the student book and put it through for typos and the rest. 
@@ -42,6 +42,7 @@ x 2025-05-11 10 Practice the chemistry mnemonics @cafe
 (E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
+(B) Fix landlord insurance 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 30 Edit together Nova's acid video 
 (E) 30 Wire up car for Nova
