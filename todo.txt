@@ -7,6 +7,7 @@ x 2025-05-13 60 Complete Herts Marking
 (B) 30 Apply for the DEI role
 (B) 60 Next iteration of fake news for Yvonne 
 (B) Google/brainstorm another football for Leo 
+(E) Setup a proper system for keeping track of your 3d prints
 (C) 03 Get Drawing compass set for Nova 
 (C) 10 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) 10 Map project for getting Leo statemented. 
