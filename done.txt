@@ -8078,3 +8078,7 @@ x 2025-05-16 Start Flowers For turing
 x 2025-05-16 05 See if you can slide the shower thing off the rail (get spanner first)
 x 2025-05-16 10 Order steel bar for the wall  (measure first)
 x 2025-05-16 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2025-05-16 Publish Todo list on Linkedin due:2025-04-21
+x 2025-05-16 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-05-16 Write Moonpig cards for this month +Overhead
+x 2025-05-16 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
