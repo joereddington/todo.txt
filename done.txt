@@ -8073,3 +8073,6 @@ x 2025-05-16 10 Check you have ingredients for three levels of basic food - sala
 x 2025-05-16 15 Check that IMPS will run locally and that it can sync up.  +EQT - can't sync up now I've stopped the thing
 x 2025-05-16 process Garage inbox. 
 x 2025-05-16 Trim nose hair +Health    
+x 2025-05-16 Fix Kat paypal on ihpone
+x 2025-05-16 Start Flowers For turing
+x 2025-05-16 05 See if you can slide the shower thing off the rail (get spanner first)

@@ -26,8 +26,6 @@
 (D) 30 Do full accounts algorithm +EQT 
 (D) 30 Write up food tracking post
 (D) 45 Complete Nova Chair 
-(D) Fix Kat paypal on ihpone
-(E) 05 See if you can slide the shower thing off the rail (get spanner first)
 (E) 05 put Pound coin in the car 
 (E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) 10 Choose case for Nova tablet (with their) 
@@ -49,7 +47,7 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Setup a proper system for keeping track of your 3d prints
-(E) Start Flowers For turing
+(E) Setup the mailmerge for FFT 
 (E) Write Moonpig cards for this month +Overhead
 (E) Write project for decentralised Parking 
 (E) Write transparency process
