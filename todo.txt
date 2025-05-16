@@ -30,7 +30,6 @@
 (E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) 10 Choose case for Nova tablet (with their) 
 (E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) 10 Order steel bar for the wall  (measure first)
 (E) 10 Rewrite emote.md (notes are at eoirgjeoigjre) 
 (E) 15 Claim train ticket from Sibs
 (E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 

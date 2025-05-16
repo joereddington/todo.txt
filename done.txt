@@ -8076,3 +8076,4 @@ x 2025-05-16 Trim nose hair +Health
 x 2025-05-16 Fix Kat paypal on ihpone
 x 2025-05-16 Start Flowers For turing
 x 2025-05-16 05 See if you can slide the shower thing off the rail (get spanner first)
+x 2025-05-16 10 Order steel bar for the wall  (measure first)
