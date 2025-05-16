@@ -39,8 +39,8 @@
 (E) 30 Edit together Nova's acid video 
 (E) 30 Wire up car for Nova
 (E) 60 Pensions book 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Properly setup the projector in a few different places
+(E) Setup Projector in spare room 
+(E) Find sofa bed 
 (E) Publish Todo list on Linkedin due:2025-04-21
 (E) Reformat the Leo spreadsheet
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
