@@ -46,3 +46,5 @@
 (E) Setup the mailmerge for FFT 
 (E) Write project for decentralised Parking 
 (E) Write transparency process
+(E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) Get some change from a bank
