@@ -1,10 +1,11 @@
 (A) Post accounts to mum 
+(A) Setup WWW website again 
+(A) Iterate all the Yvonne projects
 (B) 20 New set of wheel of life projects 
 (B) 20 Review the student book and put it through for typos and the rest. 
-(B) 30 Apply for the DEI role
-(B) 60 Next iteration of fake news for Yvonne 
 (B) Fix landlord insurance 
 (B) Google/brainstorm another football for Leo 
+(B) Spreadsheet of Speech therapists 
 (B) Send Timesheet to herts
 (C) 03 Get Drawing compass set for Nova 
 (C) 10 Map project for getting Leo statemented. 
@@ -28,10 +29,7 @@
 (D) 45 Complete Nova Chair 
 (E) 05 put Pound coin in the car 
 (E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
-(E) 10 Choose case for Nova tablet (with their) 
-(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) 15 Claim train ticket from Sibs
-(E) 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Empty Joe inbox completely +Overhead    
@@ -48,3 +46,4 @@
 (E) Write transparency process
 (E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
 (E) Get some change from a bank
+(E) What you absolutely have to do is desenate 30% of marks that are easy, 30% of marks that are medium and 30% that are really hard 
