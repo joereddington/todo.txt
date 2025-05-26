@@ -8090,3 +8090,4 @@ x 2025-05-20 10 Learn something new about vim in http://learnvimscriptthehardway
 x 2025-05-26 Setup WWW website again 
 x 2025-05-26 Iterate all the Yvonne projects
 x 2025-05-26 20 New set of wheel of life projects 
+x 2025-05-26 20 Fix the bug on the public history

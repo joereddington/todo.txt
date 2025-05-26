@@ -11,7 +11,7 @@
 (C) 10 Map project for getting Leo statemented. 
 (C) 15 Fix insurance
 (C) 16 Make seiten
-(C) 20 Fix the bug on the public history
+x 2025-05-26 20 Fix the bug on the public history
 (C) 20 New set of wheel of life projects 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 read one chapter of 'on food and cooking'  @home
