@@ -11,14 +11,11 @@
 (C) 10 Map project for getting Leo statemented. 
 (C) 15 Fix insurance
 (C) 16 Make seiten
-x 2025-05-26 20 Fix the bug on the public history
 (C) 20 New set of wheel of life projects 
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 post the unity submission form and email people about it. @home
 (C) 30 Bulk cooking
-(C) 30 Move WWW website Check if it worked and double check email
-(C) 30 Put up Amazon and redudnency payments
+(C) Check the amazon payments where paid
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (C) Equality Time monthly finance tasks 
 (C) Review which bank cards you own and fix them
@@ -39,11 +36,8 @@ x 2025-05-26 20 Fix the bug on the public history
 (E) Setup Projector in spare room 
 (E) Find sofa bed 
 (E) Reformat the Leo spreadsheet
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Setup a proper system for keeping track of your 3d prints
-(E) Setup the mailmerge for FFT 
 (E) Write project for decentralised Parking 
 (E) Write transparency process
 (E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
 (E) Get some change from a bank
-(E) What you absolutely have to do is desenate 30% of marks that are easy, 30% of marks that are medium and 30% that are really hard 

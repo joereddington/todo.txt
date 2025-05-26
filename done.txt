@@ -8091,3 +8091,10 @@ x 2025-05-26 Setup WWW website again
 x 2025-05-26 Iterate all the Yvonne projects
 x 2025-05-26 20 New set of wheel of life projects 
 x 2025-05-26 20 Fix the bug on the public history
+x 2025-05-26 20 Run mgit status on the git directory and process all alerts +EQT
+x 2025-05-26 30 Move WWW website Check if it worked and double check email
+x 2025-05-26 30 Put up Amazon and redundancy payments
+x 2025-05-26 What you asolutely have to do is desenate 30% of marks that are easy, 30% of marks that are medium and 30% that are really hard 
+x 2025-05-26 Get change 
+x 2025-05-26 Setup the mailmerge for FFT 
+x 2025-05-26 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
