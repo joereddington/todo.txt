@@ -8087,3 +8087,6 @@ x 2025-05-20 60 Next iteration of fake news for Yvonne
 x 2025-05-20 15 Update Wishlist with a bunch of tools, 3d printing things, and books 
 x 2025-05-20 10 Choose case for Nova tablet (with their) 
 x 2025-05-20 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2025-05-26 Setup WWW website again 
+x 2025-05-26 Iterate all the Yvonne projects
+x 2025-05-26 20 New set of wheel of life projects 
