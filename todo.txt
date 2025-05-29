@@ -25,7 +25,7 @@
 (D) 30 Write up food tracking post
 (D) 45 Complete Nova Chair 
 (E) 05 put Pound coin in the car 
-(E) 10 Ask chatgpt about https issue on www website (and suspend the site!) 
+x 2025-05-29 10 Ask chatgpt about https issue on www website (and suspend the site!) 
 (E) 15 Claim train ticket from Sibs
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
