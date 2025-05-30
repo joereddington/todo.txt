@@ -25,8 +25,6 @@
 (D) 30 Write up food tracking post
 (D) 45 Complete Nova Chair 
 (E) 05 put Pound coin in the car 
-x 2025-05-29 10 Ask chatgpt about https issue on www website (and suspend the site!) 
-(E) 15 Claim train ticket from Sibs
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Empty Joe inbox completely +Overhead    
@@ -36,8 +34,6 @@ x 2025-05-29 10 Ask chatgpt about https issue on www website (and suspend the si
 (E) Setup Projector in spare room 
 (E) Find sofa bed 
 (E) Reformat the Leo spreadsheet
-(E) Setup a proper system for keeping track of your 3d prints
 (E) Write project for decentralised Parking 
 (E) Write transparency process
 (E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
-(E) Get some change from a bank
