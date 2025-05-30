@@ -13,8 +13,6 @@
 (C) 25 post the unity submission form and email people about it. @home
 (C) 30 Bulk cooking
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-x 2025-05-30 Equality Time monthly finance tasks 
-(C) Review which bank cards you own and fix them
 (D) 10 Purchase blood test
 (D) 20 Lookup potential holiday locations for summer
 (D) 30 Do full accounts algorithm +EQT 
@@ -26,7 +24,8 @@ x 2025-05-30 Equality Time monthly finance tasks
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 30 Edit together Nova's acid video 
 (E) 30 Wire up car for Nova
-(E) 60 Pensions book 
+x 2025-05-30 60 Pensions book 
+(E) Pensions quesitons 
 (E) Setup Projector in spare room 
 (E) Find sofa bed 
 (E) Reformat the Leo spreadsheet
