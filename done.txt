@@ -8116,3 +8116,7 @@ x 2025-05-30 Get Power of Attorney signed
 x 2025-05-30 Go to post office with documents 
 x 2025-05-30 Post to Reddit
 x 2025-05-31 16 Make seiten
+x 2025-05-31 30 Bulk cooking
+x 2025-05-31 30 Do full accounts algorithm +EQT 
+x 2025-05-31 05 put Pound coin in the car 
+x 2025-05-31 Setup Projector in spare room 
