@@ -1,15 +1,8 @@
-(A) 02 Book karen 
-(E) Properly clean out the camera SD card    
-(E) Write the (stack) rules - when is it processed, how is it processed  
-(E) Rewrite the delores for long term goals
-(E) Put fire remote on my wishlist   
-(C) Complete self assesssment tax form 
-(A) Follow up with Nick 
+x 2025-06-03 Follow up with Nick 
 (A) List of FFT subreddits to try, and to try again without the filter 
 (A) Publish the Recent Book 
 (A) Review the rest of the FFT emails
 (A) Rewrite academic CV - fuck it make it a webpage. 
-(C) Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
 (A) Second mark exams properly 
 (B) 20 Review the student book and put it through for typos and the rest. 
 (B) Confirm date with Kat and Mum for traveling up to see Dad 
@@ -22,7 +15,9 @@
 (C) 20 read one chapter of 'on food and cooking'  @home
 (C) 25 post the unity submission form and email people about it. @home
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(C) Complete self assesssment tax form 
 (C) Do the proper clipboard with kids
+(C) Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
 (C) Put the router on the wood in the garage 
 (D) 10 Purchase blood test
 (D) 20 Lookup potential holiday locations for summer
@@ -54,8 +49,11 @@
 (E) Look for a plug for the 3d printer
 (E) Look for a source about attacker types being out of date
 (E) Lookup standing desk equipment
+(E) Properly clean out the camera SD card    
+(E) Put fire remote on my wishlist   
 (E) Reformat the Leo spreadsheet
 (E) Rewrite social algoritm to include reddit 
+(E) Rewrite the delores for long term goals
 (E) Start Document for Reddington Cookbook
 (E) Take some time on your memory book 
 (E) Try standing desk upstairs 
@@ -63,4 +61,5 @@
 (E) With Nova make daddy bedtime list
 (E) Work on the internals for the bike computer 
 (E) Write project for decentralised Parking 
+(E) Write the (stack) rules - when is it processed, how is it processed  
 (E) Write transparency process

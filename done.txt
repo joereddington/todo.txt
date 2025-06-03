@@ -8120,3 +8120,4 @@ x 2025-05-31 30 Bulk cooking
 x 2025-05-31 30 Do full accounts algorithm +EQT 
 x 2025-05-31 05 put Pound coin in the car 
 x 2025-05-31 Setup Projector in spare room 
+x 2025-06-03 02 Book karen 
