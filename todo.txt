@@ -1,7 +1,11 @@
 (A) 02 Book karen 
+(E) Install pronterface (commands in ai) 
 (A) Follow up with Nick 
+(A) List of FFT subreddits to try, and to try again without the filter 
 (A) Publish the Recent Book 
 (A) Review the rest of the FFT emails
+(A) Rewrite academic CV - fuck it make it a webpage. 
+(A) Second mark exams properly 
 (B) 20 Review the student book and put it through for typos and the rest. 
 (B) Confirm date with Kat and Mum for traveling up to see Dad 
 (B) Google/brainstorm another football for Leo 
@@ -14,6 +18,7 @@
 (C) 25 post the unity submission form and email people about it. @home
 (C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (C) Do the proper clipboard with kids
+(C) Put the router on the wood in the garage 
 (D) 10 Purchase blood test
 (D) 20 Lookup potential holiday locations for summer
 (D) 30 Write up food tracking post
@@ -23,9 +28,19 @@
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 30 Edit together Nova's acid video 
 (E) 30 Wire up car for Nova
+(E) 30 minutes in the garage with a podcast/audiobook
+(E) Arrange chat with Clare about OVF 
+(E) Close down the WWW serve again 
 (E) Find sofa bed 
+(E) Fix FFT bug - last year you where the only
+(E) Fix tv plug 
+(E) Get spray paint 
 (E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) Look for a plug for the 3d printer
+(E) Look for a source about attacker types being out of date
 (E) Reformat the Leo spreadsheet
 (E) Take some time on your memory book 
+(E) Try standing desk upstairs 
+(E) Work on the internals for the bike computer 
 (E) Write project for decentralised Parking 
 (E) Write transparency process
