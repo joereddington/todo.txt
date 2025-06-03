@@ -1,5 +1,5 @@
 (A) 02 Book karen 
-(E) Install pronterface (commands in ai) 
+(E) Put fire remote on my wishlist   
 (A) Follow up with Nick 
 (A) List of FFT subreddits to try, and to try again without the filter 
 (A) Publish the Recent Book 
@@ -23,24 +23,39 @@
 (D) 20 Lookup potential holiday locations for summer
 (D) 30 Write up food tracking post
 (D) 45 Complete Nova Chair 
+(E) 02 Put uni books in card for return to library
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 30 Edit together Nova's acid video 
 (E) 30 Wire up car for Nova
 (E) 30 minutes in the garage with a podcast/audiobook
+(E) Add to delores - how many days since you last ran this
 (E) Arrange chat with Clare about OVF 
 (E) Close down the WWW serve again 
+(E) Do a test on Da vinchi video editro 
+(E) Event for weekly check for fbook marketplace for tv  
 (E) Find sofa bed 
 (E) Fix FFT bug - last year you where the only
+(E) Fix cupboard door in bedroom 
 (E) Fix tv plug 
+(E) Get a copy of the security book for next year and read 
+(E) Get long dowl for Nova Desk 
 (E) Get spray paint 
 (E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) Grade glasses
+(E) Install pronterface (commands in ai) 
+(E) Laptop bag underdesk with charger 
 (E) Look for a plug for the 3d printer
 (E) Look for a source about attacker types being out of date
+(E) Lookup standing desk equipment
 (E) Reformat the Leo spreadsheet
+(E) Rewrite social algoritm to include reddit 
+(E) Start Document for Reddington Cookbook
 (E) Take some time on your memory book 
 (E) Try standing desk upstairs 
+(E) Weigh all the pots and pans
+(E) With Nova make daddy bedtime list
 (E) Work on the internals for the bike computer 
 (E) Write project for decentralised Parking 
 (E) Write transparency process
