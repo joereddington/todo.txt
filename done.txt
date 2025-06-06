@@ -8182,3 +8182,4 @@ x 2025-06-06 Write the (stack) rules - when is it processed, how is it processed
 x 2025-06-06 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2025-06-06 04 Empty whatsapp and facebook inboxes. +Overhead  
 x 2025-06-06 10 Fix tv plug (fix logging into smart devices) 
+x 2025-06-06 20 Do another review of the password manager spreadsheet  @internet
