@@ -1,73 +1,67 @@
-(E) 02 Put uni books in card for return to library
-(C) 03 Get Drawing compass set for Nova 
-(D) 10 Purchase blood test
+(A Flowers for Turing) 15 Itterate Reddit list @internet 
+(B) 10 brainstorm another football for Leo @paper
+(A ISH) 120 Second mark exams properly  @paper
+(B) 20 Process Cover for book  @internet 
+(B) 20 Review the student book and put it through for typos and the rest. @internet
+(B) 30 Fix bug with page numbers in IMPS @internet
+(C) 03 Get Drawing compass set for Nova  @town 
+(C) 05 Use bank card  @outside
+(C) 10 Brainstorm on emotional Processing  @paper
+(C) 10 Do the proper clipboard with kids 
+(C) 10 Setup regular number practice with Leo 
 (C) 10 Year plan: check you have 5 projects in each part
-(B) 10 brainstorm another football for Leo 
-(B) 120 Second mark exams properly 
 (C) 15 Fix insurance
-(A) 15 Itterate Reddit list
-(E) 20 Buy tomatoes for tasting  @car 
-(E) 20 Do another review of the password manager spreadsheet  @internet
-(E) 20 Empty Joe inbox completely +Overhead    
-(D) 20 Lookup potential holiday locations for summer
-(C) 20 New set of wheel of life projects 
-(B) 20 Process Cover for book 
-(B) 20 Review the student book and put it through for typos and the rest. 
-(C) 20 read one chapter of 'on food and cooking'  @home
-(C) 25 post the unity submission form and email people about it. @home
-(E) 30 Edit together Nova's acid video 
-(B) 30 Fix bug with page numbers in IMPS
-(E) 30 Wire up car for Nova
-(D) 30 Write up food tracking post
-(E) 30 minutes in the garage with a podcast/audiobook
-(D) 45 Complete Nova Chair 
-(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
-(C) 30 Apply Edge Hill by 14th June
-(C) 10 Brainstorm on emotional Processing 
-(E) 20 Close down the WWW serve again 
-(C) 30 Complete self assesssment tax form 
-(E) 20 Install Da vinci and try it on Nova's video
-(C) 10 Do the proper clipboard with kids
-(E) 15 Empty Joe inbox completely +Overhead    
-(E) 04 Empty whatsapp and facebook inboxes. +Overhead  
+(C) 15 Review the project md files
 (C) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
-(E) 20 Fix cupboard door in bedroom 
-(E) 10 Fix tv plug (fix logging into smart devices) 
-(E) 10 Floss +Health   
-(E) 50 Get a copy of the security book for next year and read 
-(E) 30 From B&Q get long dowel for Nova desk @outside
-(E) 10 Get spray paint 
+(C) 20 New set of wheel of life projects 
+(C) 20 Put the router on the wood in the garage 
+(C) 20 read one chapter of 'on food and cooking'  @home
+(C) 25 Run mgit status on the git directory and process all alerts +EQT
+(C) 25 post the unity submission form and email people about it. @home
+(C) 30 Apply Edge Hill by 14th June
+(C) 30 Complete self assesssment tax form 
+(C) 30 Review and re-score  Wheel Of life
+(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(D) 10 Purchase blood test
+(D) 20 Lookup potential holiday locations for summer
+(D) 30 Write up food tracking post
+(D) 45 Complete Nova Chair 
+(B) 50 Rewrite academic CV 
+(E) 02 Put uni books in car for return to library
 (E) 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) 04 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 05 Grade glasses
 (E) 06 Install pronterface (commands in ai) 
+(E) 06 Rewrite the delores for long term goals
+(E) 10 Floss +Health   
+(E) 10 Get spray paint 
 (E) 10 Laptop bag underdesk with charger 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
-(C) 20 Put the router on the wood in the garage 
 (E) 10 Reformat the Leo spreadsheet
-(C) 30 Review and re-score  Wheel Of life
-(C) 15 Review the project md files
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(D) 50 Rewrite academic CV 
 (E) 10 Rewrite social algoritm to include reddit 
-(E) 06 Rewrite the delores for long term goals
-(C) 25 Run mgit status on the git directory and process all alerts +EQT
-(C) 10 Setup regular number practice with Leo 
-(E) Start Document for Reddington Cookbook
-(E) TSE +Health  
-(E) Take some time on your memory book 
-(E) Trim nose hair +Health    
-(E) Try standing desk upstairs 
-(C) Use bank card 
-(E) Weigh all the pots and pans
-(E) With Nova make daddy bedtime list
-(E) Work on the internals for the bike computer 
-(E) Write Moonpig cards for this month +Overhead
-(E) Write project for decentralised Parking 
-(E) Write the (stack) rules - when is it processed, how is it processed  
-(E) Write transparency process
-(C) deploy any commits from OVF that are hanging around. 
-(E) process Garage inbox. 
+(E) 10 Try standing desk upstairs 
+(E) 10 With Nova make daddy bedtime list @nova
+(E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
+(E) 10 Write project for decentralised Parking 
+(E) 10 Write transparency process
+(E) 15 Empty Joe inbox completely +Overhead    
+(E) 16 Weigh all the pots and pans @nova
+(E) 20 Buy tomatoes for tasting  @car 
+(E) 20 Close down the WWW serve again 
+(E) 20 Do another review of the password manager spreadsheet  @internet
+(E) 20 Empty Joe inbox completely +Overhead    
+(E) 20 Fix cupboard door in bedroom 
+(E) 20 Install Da vinci and try it on Nova's video
+(E) 30 Edit together Nova's acid video 
+(E) 30 From B&Q get long dowel for Nova desk @outside
+(E) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) 30 Wire up car for Nova
+(E) 30 minutes in the garage with a podcast/audiobook
+(E) 30 process Garage inbox. 
+(E) 40 Work on the internals for the bike computer
+(E) 50 Get a copy of the security book for next year and read 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 60 Take some time on your memory book 
+x 2025-06-06 10 Fix tv plug (fix logging into smart devices) 

@@ -8173,3 +8173,9 @@ x 2025-06-06 Review the feedbacks from Kat and follow up https://github.com/joer
 x 2025-06-06 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 x 2025-06-06 Save a nice family memory +Family @phone    
 x 2025-06-06 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x 2025-06-06 Start Document for Reddington Cookbook
+x 2025-06-06 TSE +Health  
+x 2025-06-06 Trim nose hair +Health    
+x 2025-06-06 Write Moonpig cards for this month +Overhead
+x 2025-06-06 deploy any commits from OVF that are hanging around. 
+x 2025-06-06 Write the (stack) rules - when is it processed, how is it processed  
