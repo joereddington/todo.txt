@@ -1,117 +1,80 @@
-(A) Upload marks 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) List of FFT subreddits to try, and to try again without the filter 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(b) Publish the Recent Book 
-(B) Second mark exams properly 
-(B) 20 Review the student book and put it through for typos and the rest. 
-(B) Confirm date with Kat and Mum for traveling up to see Dad 
-(B) Google/brainstorm another football for Leo 
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Post the flowers for Turing site on 
-(B) Record Leo's Sounds
-(C) 03 Get Drawing compass set for Nova 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Fix insurance
-(C) 20 New set of wheel of life projects 
-(C) 20 read one chapter of 'on food and cooking'  @home
-(C) 25 post the unity submission form and email people about it. @home
-(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(C) Apply Edge Hill by 14th June
-(C) Brainstorm on emotional Processing 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Complete self assesssment tax form 
-(C) deploy any commits from OVF that are hanging around. 
-(C) Do the proper clipboard with kids
-(C) Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
-(C) Put the router on the wood in the garage 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Review the project md files
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) Setup regular number practice with Leo 
-(D) 10 Purchase blood test
-(D) 20 Lookup potential holiday locations for summer
-(D) 30 Write up food tracking post
-(D) 45 Complete Nova Chair 
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
-(D) Rewrite academic CV - fuck it make it a webpage. 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 02 Put uni books in card for return to library
+(C) 03 Get Drawing compass set for Nova 
+(D) 10 Purchase blood test
+(C) 10 Year plan: check you have 5 projects in each part
+(B) 10 brainstorm another football for Leo 
+(B) 120 Second mark exams properly 
+(C) 15 Fix insurance
+(A) 15 Itterate Reddit list
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Do another review of the password manager spreadsheet  @internet
 (E) 20 Empty Joe inbox completely +Overhead    
+(D) 20 Lookup potential holiday locations for summer
+(C) 20 New set of wheel of life projects 
+(B) 20 Process Cover for book 
+(B) 20 Review the student book and put it through for typos and the rest. 
+(C) 20 read one chapter of 'on food and cooking'  @home
+(C) 25 post the unity submission form and email people about it. @home
 (E) 30 Edit together Nova's acid video 
-(E) 30 minutes in the garage with a podcast/audiobook
+(B) 30 Fix bug with page numbers in IMPS
 (E) 30 Wire up car for Nova
-(E) Add to delores - how many days since you last ran this
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange chat with Clare about OVF 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Backup AWS +EQT
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Close down the WWW serve again 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) Do a test on Da vinchi video editro 
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Event for weekly check for fbook marketplace for tv  
-(E) Find sofa bed 
-(E) Fix cupboard door in bedroom 
-(E) Fix FFT bug - last year you where the only
-(E) Fix tv plug 
-(E) Floss +Health   
-(E) Get a copy of the security book for next year and read 
-(E) Get Flu vaccine +Health
-(E) Get long dowl for Nova Desk 
-(E) Get spray paint 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
-(E) Grade glasses
-(E) Install pronterface (commands in ai) 
-(E) Laptop bag underdesk with charger 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(D) 30 Write up food tracking post
+(E) 30 minutes in the garage with a podcast/audiobook
+(D) 45 Complete Nova Chair 
+(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
+(C) 30 Apply Edge Hill by 14th June
+(C) 10 Brainstorm on emotional Processing 
+(E) 20 Close down the WWW serve again 
+(C) 30 Complete self assesssment tax form 
+(E) 20 Install Da vinci and try it on Nova's video
+(C) 10 Do the proper clipboard with kids
+(E) 15 Empty Joe inbox completely +Overhead    
+(E) 04 Empty whatsapp and facebook inboxes. +Overhead  
+(C) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
+(E) 20 Fix cupboard door in bedroom 
+(E) 10 Fix tv plug (fix logging into smart devices) 
+(E) 10 Floss +Health   
+(E) 50 Get a copy of the security book for next year and read 
+(E) 30 From B&Q get long dowel for Nova desk @outside
+(E) 10 Get spray paint 
+(E) 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
+(E) 05 Grade glasses
+(E) 06 Install pronterface (commands in ai) 
+(E) 10 Laptop bag underdesk with charger 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look for a plug for the 3d printer
 (E) Look for a source about attacker types being out of date
 (E) Lookup standing desk equipment
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly clean out the camera SD card    
 (E) Publicly thank someone +Overhead  
 (E) Put fire remote on my wishlist   
+(C) Put the router on the wood in the garage 
 (E) Reformat the Leo spreadsheet
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(C) Review and re-score  Wheel Of life
 (E) Review starred items in feeds +Overhead +EQT
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Review the project md files
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(D) Rewrite academic CV - fuck it make it a webpage. 
 (E) Rewrite social algoritm to include reddit 
 (E) Rewrite the delores for long term goals
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (E) Save a nice family memory +Family @phone    
+(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(C) Setup regular number practice with Leo 
 (E) Start Document for Reddington Cookbook
+(E) TSE +Health  
 (E) Take some time on your memory book 
 (E) Trim nose hair +Health    
 (E) Try standing desk upstairs 
-(E) TSE +Health  
+(C) Use bank card 
 (E) Weigh all the pots and pans
 (E) With Nova make daddy bedtime list
 (E) Work on the internals for the bike computer 
@@ -119,4 +82,5 @@
 (E) Write project for decentralised Parking 
 (E) Write the (stack) rules - when is it processed, how is it processed  
 (E) Write transparency process
-(C) Use bank card 
+(C) deploy any commits from OVF that are hanging around. 
+(E) process Garage inbox. 
