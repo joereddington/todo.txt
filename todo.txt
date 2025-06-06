@@ -119,3 +119,4 @@
 (E) Write project for decentralised Parking 
 (E) Write the (stack) rules - when is it processed, how is it processed  
 (E) Write transparency process
+(C) Use bank card 
