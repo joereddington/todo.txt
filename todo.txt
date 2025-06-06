@@ -44,31 +44,18 @@
 (E) 06 Install pronterface (commands in ai) 
 (E) 10 Laptop bag underdesk with charger 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Look for a plug for the 3d printer
-(E) Look for a source about attacker types being out of date
-(E) Lookup standing desk equipment
-(E) Make sure you have a continual professional developement practice happening  +EQT
-(E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Properly clean out the camera SD card    
-(E) Publicly thank someone +Overhead  
-(E) Put fire remote on my wishlist   
-(C) Put the router on the wood in the garage 
-(E) Reformat the Leo spreadsheet
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(C) Review and re-score  Wheel Of life
-(E) Review starred items in feeds +Overhead +EQT
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Review the project md files
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(D) Rewrite academic CV - fuck it make it a webpage. 
-(E) Rewrite social algoritm to include reddit 
-(E) Rewrite the delores for long term goals
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(E) Save a nice family memory +Family @phone    
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
-(C) Setup regular number practice with Leo 
+(E) 10 Look for the missing smart plug for the 3d printer
+(E) 10 Properly clean out the camera SD card    
+(C) 20 Put the router on the wood in the garage 
+(E) 10 Reformat the Leo spreadsheet
+(C) 30 Review and re-score  Wheel Of life
+(C) 15 Review the project md files
+(E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(D) 50 Rewrite academic CV 
+(E) 10 Rewrite social algoritm to include reddit 
+(E) 06 Rewrite the delores for long term goals
+(C) 25 Run mgit status on the git directory and process all alerts +EQT
+(C) 10 Setup regular number practice with Leo 
 (E) Start Document for Reddington Cookbook
 (E) TSE +Health  
 (E) Take some time on your memory book 
