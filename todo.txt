@@ -1,67 +1,64 @@
-(A Flowers for Turing) 15 Itterate Reddit list @internet 
-(B) 10 brainstorm another football for Leo @paper
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 25 post the unity submission form and email people about it. @home
+(E) 20 read one chapter of 'on food and cooking'  @home
+(E) 20 Do another review of the password manager spreadsheet  @internet
+(E) 20 Buy tomatoes for tasting  @car 
+(E) 16 Weigh all the pots and pans @nova
+(E) 10 brainstorm another football for Leo @paper
+(E) 10 With Nova make daddy bedtime list @nova
+(E) 10 Brainstorm on emotional Processing  @paper
+(E) 05 Use bank card  @outside
+(E) 03 Get Drawing compass set for Nova  @town 
+(D Nova) 30 From B&Q get long dowel for Nova desk @outside
+(D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(B Students) 20 Review the student book and put it through for typos and the rest. @internet
+(A Yvonne) 30 Fix bug with page numbers in IMPS @internet
+(A Yvonne) 20 Process Cover for book  @internet 
 (A ISH) 120 Second mark exams properly  @paper
-(B) 20 Process Cover for book  @internet 
-(B) 20 Review the student book and put it through for typos and the rest. @internet
-(B) 30 Fix bug with page numbers in IMPS @internet
-(C) 03 Get Drawing compass set for Nova  @town 
-(C) 05 Use bank card  @outside
-(C) 10 Brainstorm on emotional Processing  @paper
-(C) 10 Do the proper clipboard with kids 
-(C) 10 Setup regular number practice with Leo 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Fix insurance
-(C) 15 Review the project md files
-(C) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
-(C) 20 New set of wheel of life projects 
-(C) 20 Put the router on the wood in the garage 
-(C) 20 read one chapter of 'on food and cooking'  @home
-(C) 25 Run mgit status on the git directory and process all alerts +EQT
-(C) 25 post the unity submission form and email people about it. @home
-(C) 30 Apply Edge Hill by 14th June
-(C) 30 Complete self assesssment tax form 
-(C) 30 Review and re-score  Wheel Of life
-(C) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(D) 10 Purchase blood test
-(D) 20 Lookup potential holiday locations for summer
-(D) 30 Write up food tracking post
-(D) 45 Complete Nova Chair 
-(B) 50 Rewrite academic CV 
-(E) 02 Put uni books in car for return to library
-(E) 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) 04 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 05 Grade glasses
+(A Flowers for Turing) 15 Itterate Reddit list @internet 
+(C) 15 Fix insurance @internet
+(C Family) 15 Review the project md files
+(D Kat) 20 Fix cupboard door in bedroom  @DIY 
+(D Kat) 20 Lookup potential holiday locations for summer @internet
+(D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
+(D Nova ) 45 Complete Nova Chair  @diy
+(D Nova) 30 Edit together Nova's acid video @internet @nova
+(D Nova) 30 Wire up car for Nova @diy
+(E) 02 Put uni books in car for return to library @car
+(E) 05 Grade glasses 
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
-(E) 10 Floss +Health   
-(E) 10 Get spray paint 
+(E) 10 Do the proper clipboard with kids  @nova
+(E) 10 Floss +Health 
+(E) 10 Get spray paint  @car
 (E) 10 Laptop bag underdesk with charger 
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
-(E) 10 Reformat the Leo spreadsheet
+(E) 10 buy blood test
+(E) 10 Reformat the Leo spreadsheet @internet
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 10 Rewrite social algoritm to include reddit 
+(E) 10 Setup regular number practice with Leo 
 (E) 10 Try standing desk upstairs 
-(E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
 (E) 10 Write project for decentralised Parking 
 (E) 10 Write transparency process
+(E) 10 Year plan: check you have 5 projects in each part
 (E) 15 Empty Joe inbox completely +Overhead    
-(E) 16 Weigh all the pots and pans @nova
-(E) 20 Buy tomatoes for tasting  @car 
-(E) 20 Close down the WWW serve again 
-(E) 20 Do another review of the password manager spreadsheet  @internet
+(E) 20 Close down the WWW server again 
 (E) 20 Empty Joe inbox completely +Overhead    
-(E) 20 Fix cupboard door in bedroom 
+(E) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
 (E) 20 Install Da vinci and try it on Nova's video
-(E) 30 Edit together Nova's acid video 
-(E) 30 From B&Q get long dowel for Nova desk @outside
-(E) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut
-(E) 30 Wire up car for Nova
+(E) 20 New set of wheel of life projects 
+(E) 20 Put the router on the wood in the garage 
+(E) 25 Run mgit status on the git directory and process all alerts +EQT
+(E) 30 Apply Edge Hill by 14th June
+(E) 30 Complete self assesssment tax form 
+(E) 30 Review and re-score  Wheel Of life
+(E) 30 Write up food tracking post
 (E) 30 minutes in the garage with a podcast/audiobook
 (E) 30 process Garage inbox. 
 (E) 40 Work on the internals for the bike computer
 (E) 50 Get a copy of the security book for next year and read 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 50 Rewrite academic CV 
 (E) 60 Take some time on your memory book 
-x 2025-06-06 10 Fix tv plug (fix logging into smart devices) 
