@@ -1,12 +1,3 @@
-(E) 20 Install Da vinci and try it on Nova's video
-(E) 16 Weigh all the pots and pans @nova
-(E) 10 With Nova make daddy bedtime list @nova
-(E) 10 Do the proper clipboard with kids  @nova
-(E) 03 Get Drawing compass set for Nova  @town 
-(D Nova) 30 Wire up car for Nova @diy
-(D Nova) 30 From B&Q get long dowel for Nova desk @outside
-(D Nova) 30 Edit together Nova's acid video @internet @nova
-(D Nova ) 45 Complete Nova Chair  @diy
 (A Flowers for Turing) 15 Itterate Reddit list @internet 
 (A ISH) 120 Second mark exams properly  @paper
 (B Students) 20 Review the student book and put it through for typos and the rest. @internet
@@ -17,12 +8,18 @@
 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
+(D Nova ) 45 Complete Nova Chair  @diy
+(D Nova) 30 Edit together Nova's acid video @internet @nova
+(D Nova) 30 From B&Q get long dowel for Nova desk @outside
+(D Nova) 30 Wire up car for Nova @diy
 (E) 02 Put uni books in car for return to library @car
+(E) 03 Get Drawing compass set for Nova  @town 
 (E) 05 Grade glasses 
 (E) 05 Use bank card  @outside
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
 (E) 10 Brainstorm on emotional Processing  @paper
+(E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Floss +Health 
 (E) 10 Get spray paint  @car
 (E) 10 Laptop bag underdesk with charger 
@@ -33,6 +30,7 @@
 (E) 10 Rewrite social algoritm to include reddit 
 (E) 10 Setup regular number practice with Leo 
 (E) 10 Try standing desk upstairs 
+(E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
 (E) 10 Write project for decentralised Parking 
 (E) 10 Write transparency process
@@ -40,10 +38,12 @@
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test
 (E) 15 Empty Joe inbox completely +Overhead    
+(E) 16 Weigh all the pots and pans @nova
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Close down the WWW server again 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
+(E) 20 Install Da vinci and try it on Nova's video
 (E) 20 New set of wheel of life projects 
 (E) 20 Put the router on the wood in the garage 
 (E) 20 read one chapter of 'on food and cooking'  @home
@@ -59,3 +59,4 @@
 (E) 50 Get a copy of the security book for next year and read 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Take some time on your memory book 
+(E) Fix 3d printer
