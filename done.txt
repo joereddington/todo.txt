@@ -8189,3 +8189,5 @@ x 2025-06-09 20 read one chapter of 'on food and cooking'  @home
 x 2025-06-09 03 Get Drawing compass set for Nova  @town 
 x 2025-06-09 20 New set of wheel of life projects 
 x 2025-06-09 30 Review and re-score  Wheel Of life
+x 2025-06-09 30 Write up food tracking post
+x 2025-06-09 02 Put uni books in car for return to library @car

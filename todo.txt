@@ -12,7 +12,7 @@
 (D Nova) 30 Edit together Nova's acid video @internet @nova
 (D Nova) 30 From B&Q get long dowel for Nova desk @outside
 (D Nova) 30 Wire up car for Nova @diy
-(E) 02 Put uni books in car for return to library @car
+x 2025-06-09 02 Put uni books in car for return to library @car
 (E) 05 Grade glasses 
 (E) 05 Use bank card  @outside
 (E) 06 Install pronterface (commands in ai) 
@@ -48,7 +48,6 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Apply Edge Hill by 14th June
 (E) 30 Complete self assesssment tax form 
-(E) 30 Write up food tracking post
 (E) 30 minutes in the garage with a podcast/audiobook
 (E) 30 process Garage inbox. 
 (E) 40 Work on the internals for the bike computer
