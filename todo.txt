@@ -12,7 +12,6 @@
 (D Nova) 30 Edit together Nova's acid video @internet @nova
 (D Nova) 30 From B&Q get long dowel for Nova desk @outside
 (D Nova) 30 Wire up car for Nova @diy
-x 2025-06-09 02 Put uni books in car for return to library @car
 (E) 05 Grade glasses 
 (E) 05 Use bank card  @outside
 (E) 06 Install pronterface (commands in ai) 
@@ -20,14 +19,12 @@ x 2025-06-09 02 Put uni books in car for return to library @car
 (E) 10 Brainstorm on emotional Processing  @paper
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Floss +Health 
-(E) 10 Get spray paint  @car
+x 2025-06-09 10 Get spray paint  @car
 (E) 10 Laptop bag underdesk with charger 
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
-(E) 10 Reformat the Leo spreadsheet @internet
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 10 Rewrite social algoritm to include reddit 
-(E) 10 Setup regular number practice with Leo 
 (E) 10 Try standing desk upstairs 
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
@@ -36,7 +33,6 @@ x 2025-06-09 02 Put uni books in car for return to library @car
 (E) 10 Year plan: check you have 5 projects in each part
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test
-(E) 15 Empty Joe inbox completely +Overhead    
 (E) 16 Weigh all the pots and pans @nova
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Close down the WWW server again 
