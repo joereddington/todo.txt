@@ -8185,3 +8185,7 @@ x 2025-06-06 10 Fix tv plug (fix logging into smart devices)
 x 2025-06-06 20 Do another review of the password manager spreadsheet  @internet
 x 2025-06-06 (A Yvonne) 20 Process Cover for book  @internet 
 x 2025-06-06 (A Yvonne) 30 Fix bug with page numbers in IMPS @internet
+x 2025-06-09 20 read one chapter of 'on food and cooking'  @home
+x 2025-06-09 03 Get Drawing compass set for Nova  @town 
+x 2025-06-09 20 New set of wheel of life projects 
+x 2025-06-09 30 Review and re-score  Wheel Of life

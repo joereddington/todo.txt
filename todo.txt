@@ -13,7 +13,6 @@
 (D Nova) 30 From B&Q get long dowel for Nova desk @outside
 (D Nova) 30 Wire up car for Nova @diy
 (E) 02 Put uni books in car for return to library @car
-(E) 03 Get Drawing compass set for Nova  @town 
 (E) 05 Grade glasses 
 (E) 05 Use bank card  @outside
 (E) 06 Install pronterface (commands in ai) 
@@ -44,14 +43,11 @@
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
 (E) 20 Install Da vinci and try it on Nova's video
-(E) 20 New set of wheel of life projects 
 (E) 20 Put the router on the wood in the garage 
-(E) 20 read one chapter of 'on food and cooking'  @home
 (E) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Apply Edge Hill by 14th June
 (E) 30 Complete self assesssment tax form 
-(E) 30 Review and re-score  Wheel Of life
 (E) 30 Write up food tracking post
 (E) 30 minutes in the garage with a podcast/audiobook
 (E) 30 process Garage inbox. 
