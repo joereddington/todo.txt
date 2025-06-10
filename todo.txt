@@ -1,5 +1,7 @@
 (A Flowers for Turing) 15 Itterate Reddit list @internet 
 (A ISH) 120 Second mark exams properly  @paper
+(A) Reply Herts emails 
+(B) Send timing information for Herts emails)  
 (B Students) 20 Review the student book and put it through for typos and the rest. @internet
 (C Family) 15 Review the project md files
 (C) 15 Fix insurance @internet
@@ -50,4 +52,4 @@ x 2025-06-09 10 Get spray paint  @car
 (E) 50 Get a copy of the security book for next year and read 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Take some time on your memory book 
-(E) Fix 3d printer
+(E) Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
