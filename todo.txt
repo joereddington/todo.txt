@@ -1,4 +1,5 @@
 (A Flowers for Turing) 15 Itterate Reddit list @internet 
+(E) Refactor and test the code for the bike computer - put under version control, introduce unit tests, have proper todo setup.  
 (A ISH) 120 Second mark exams properly  @paper
 (A) Reply Herts emails 
 (B) Send timing information for Herts emails)  
@@ -21,7 +22,6 @@
 (E) 10 Brainstorm on emotional Processing  @paper
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Floss +Health 
-x 2025-06-09 10 Get spray paint  @car
 (E) 10 Laptop bag underdesk with charger 
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
@@ -48,7 +48,6 @@ x 2025-06-09 10 Get spray paint  @car
 (E) 30 Complete self assesssment tax form 
 (E) 30 minutes in the garage with a podcast/audiobook
 (E) 30 process Garage inbox. 
-(E) 40 Work on the internals for the bike computer
 (E) 50 Get a copy of the security book for next year and read 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Take some time on your memory book 

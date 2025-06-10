@@ -8195,3 +8195,5 @@ x 2025-06-09 10 Reformat the Leo spreadsheet @internet
 x 2025-06-09 10 Setup regular number practice with Leo 
 x 2025-06-09 15 Empty Joe inbox completely +Overhead    
 x 2025-06-09 10 Get spray paint  @car
+x 2025-06-09 10 Get spray paint  @car
+x 2025-06-10 40 Work on the internals for the bike computer
