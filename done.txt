@@ -8197,3 +8197,6 @@ x 2025-06-09 15 Empty Joe inbox completely +Overhead
 x 2025-06-09 10 Get spray paint  @car
 x 2025-06-09 10 Get spray paint  @car
 x 2025-06-10 40 Work on the internals for the bike computer
+x 2025-06-10 (A ISH) 120 Second mark exams properly  @paper
+x 2025-06-10 Reply Herts emails 
+x 2025-06-10 (B Students) 20 Review the student book and put it through for typos and the rest. @internet
