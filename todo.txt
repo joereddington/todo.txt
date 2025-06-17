@@ -1,3 +1,4 @@
+(A) 30 Complete self assesssment tax form 
 (C Family) 15 Review the project md files
 (C) 15 Fix insurance @internet
 (C) 50 Finish rewriting academic CV 
@@ -33,9 +34,6 @@
 (E) 20 Put the router on the wood in the garage 
 (E) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 25 post the unity submission form and email people about it. @home
-(E) 30 Apply Edge Hill by 14th June
-(E) 30 Complete self assesssment tax form 
-(E) 50 Review   
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Take some time on your memory book 
 (E) Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
