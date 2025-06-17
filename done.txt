@@ -8205,3 +8205,8 @@ x 2025-06-17 When you get the room booking system. Send timing information for H
 x 2025-06-17 (D Nova) 30 Edit together Nova's acid video @internet @nova
 x 2025-06-17 05 Use bank card  @outside
 x 2025-06-17 10 Brainstorm on emotional Processing  @paper
+x 2025-06-17 10 Laptop bag underdesk with charger 
+x 2025-06-17 10 Rewrite social algoritm to include reddit 
+x 2025-06-17 30 minutes in the garage with a podcast/audiobook
+x 2025-06-17 30 process Garage inbox. 
+x 2025-06-17 Refactor and test the code for the bike computer - put under version control, introduce unit tests, have proper todo setup.  

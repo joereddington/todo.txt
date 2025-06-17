@@ -13,11 +13,9 @@
 (E) 06 Rewrite the delores for long term goals
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Floss +Health 
-(E) 10 Laptop bag underdesk with charger 
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) 10 Rewrite social algoritm to include reddit 
 (E) 10 Try standing desk upstairs 
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
@@ -37,10 +35,7 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Apply Edge Hill by 14th June
 (E) 30 Complete self assesssment tax form 
-(E) 30 minutes in the garage with a podcast/audiobook
-(E) 30 process Garage inbox. 
-(E) 50 Get a copy of the security book for next year and read 
+(E) 50 Review   
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Take some time on your memory book 
 (E) Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
-(E) Refactor and test the code for the bike computer - put under version control, introduce unit tests, have proper todo setup.  
