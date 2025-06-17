@@ -1,5 +1,3 @@
-(A Flowers for Turing) 15 Itterate Reddit list @internet 
-(B) When you get the room booking system. Send timing information for Herts emails)  
 (C Family) 15 Review the project md files
 (C) 15 Fix insurance @internet
 (C) 50 Finish rewriting academic CV 
@@ -7,15 +5,12 @@
 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(D Nova ) 45 Complete Nova Chair  @diy
-(D Nova) 30 Edit together Nova's acid video @internet @nova
+(D Nova ) Check the dry fit of Nova's chair 
 (D Nova) 30 From B&Q get long dowel for Nova desk @outside
 (D Nova) 30 Wire up car for Nova @diy
 (E) 05 Grade glasses 
-(E) 05 Use bank card  @outside
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
-(E) 10 Brainstorm on emotional Processing  @paper
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Floss +Health 
 (E) 10 Laptop bag underdesk with charger 
