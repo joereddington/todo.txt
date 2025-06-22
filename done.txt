@@ -8212,3 +8212,10 @@ x 2025-06-17 30 process Garage inbox.
 x 2025-06-17 Refactor and test the code for the bike computer - put under version control, introduce unit tests, have proper todo setup.  
 x 2025-06-17 30 Apply Edge Hill by 14th June
 x 2025-06-17 Refactor and test the code for the bike computer - put under version control, introduce unit tests, have proper todo setup.  
+x 2025-06-22 (D Kat) 20 Fix cupboard door in bedroom  @DIY 
+x 2025-06-22 (D Nova ) Check the dry fit of Nova's chair 
+x 2025-06-22 05 Grade glasses 
+x 2025-06-22 20 Install Da vinci and try it on Nova's video
+x 2025-06-22 20 Put the router on the wood in the garage 
+x 2025-06-22 60 Listen to  Randy Pausch Talk +Overhead @phone  
+x 2025-06-22 60 Take some time on your memory book 

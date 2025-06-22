@@ -3,14 +3,11 @@
 (C Family) 15 Review the project md files
 (C) 15 Fix insurance @internet
 (C) 50 Finish rewriting academic CV 
-(D Kat) 20 Fix cupboard door in bedroom  @DIY 
 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(D Nova ) Check the dry fit of Nova's chair 
 (D Nova) 30 From B&Q get long dowel for Nova desk @outside
 (D Nova) 30 Wire up car for Nova @diy
-(E) 05 Grade glasses 
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
 (E) 10 Do the proper clipboard with kids  @nova
@@ -31,10 +28,12 @@
 (E) 20 Close down the WWW server again 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
-(E) 20 Install Da vinci and try it on Nova's video
-(E) 20 Put the router on the wood in the garage 
 (E) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 25 post the unity submission form and email people about it. @home
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
-(E) 60 Take some time on your memory book 
 (E) Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
+(E) Measure the chess peices with the micrometer
+(E) Practice the next few items in the physics constant list
+(E) Put project real in the projects file 
+(E) Get sandpaper set 
+(E) Trial both electirc sanders 
+(E) Fix all the wakeup lights and measure lux 
