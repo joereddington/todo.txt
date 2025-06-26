@@ -79,17 +79,14 @@
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Put project real in the projects file 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-06-26 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (C) Book Pinao less for Nova 
 (E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
-(E) Test to see if the card on your watch works. 
 (E) Trial both electirc sanders 
 (E) Trim nose hair +Health    
-(E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
-(E) Make visualisation for Leo numbers and youtube 
-(D) Brainstorm self-care
-(E) Make sure you have a Coursea calendar event 
+(D) 10 Brainstorm self-care
+(E) 02 Make sure you have a Coursea calendar event 

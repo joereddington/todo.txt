@@ -8221,3 +8221,7 @@ x 2025-06-22 60 Listen to  Randy Pausch Talk +Overhead @phone
 x 2025-06-22 60 Take some time on your memory book 
 x 2025-06-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2025-06-26 Publicise Flowers For Turing!
+x 2025-06-26 Make visualisation for Leo numbers and youtube 
+x 2025-06-26 Write Moonpig cards for this month +Overhead
+x 2025-06-26 Test to see if the card on your watch works. 
+x 2025-06-26 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
