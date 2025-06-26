@@ -8219,3 +8219,5 @@ x 2025-06-22 20 Install Da vinci and try it on Nova's video
 x 2025-06-22 20 Put the router on the wood in the garage 
 x 2025-06-22 60 Listen to  Randy Pausch Talk +Overhead @phone  
 x 2025-06-22 60 Take some time on your memory book 
+x 2025-06-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-06-26 Publicise Flowers For Turing!

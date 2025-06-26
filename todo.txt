@@ -1,6 +1,5 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) DO the EQT finance tasks 
 (A) 30 Complete self assesssment tax form 
-(A) Publicise Flowers For Turing!
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
