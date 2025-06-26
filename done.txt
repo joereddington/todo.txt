@@ -8225,3 +8225,4 @@ x 2025-06-26 Make visualisation for Leo numbers and youtube
 x 2025-06-26 Write Moonpig cards for this month +Overhead
 x 2025-06-26 Test to see if the card on your watch works. 
 x 2025-06-26 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-06-26 Practice the next few items in the physics constant list

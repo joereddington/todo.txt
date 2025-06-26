@@ -75,11 +75,9 @@
 (E) Measure the chess pieces with the micrometer
 (E) Mark bank card and put in place 
 (E) Post to Vegan Facebook group  @phone   
-(E) Practice the next few items in the physics constant list
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Put project real in the projects file 
-x 2025-06-26 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (C) Book Pinao less for Nova 
