@@ -73,7 +73,7 @@
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure you have a continual professional developement practice happening  +EQT
-(E) Measure the chess peices with the micrometer
+(E) Measure the chess pieces with the micrometer
 (E) Post to Vegan Facebook group  @phone   
 (E) Practice the next few items in the physics constant list
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
@@ -82,6 +82,7 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(C) Book Pinao less for Nova 
 (E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
 (E) Test to see if the card on your watch works. 
