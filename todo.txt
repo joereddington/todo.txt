@@ -91,3 +91,4 @@
 (E) process Garage inbox. 
 (E) Make visualisation for Leo numbers and youtube 
 (D) Brainstorm self-care
+(E) Make sure you have a Coursea calendar event 
