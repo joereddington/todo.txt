@@ -21,7 +21,6 @@
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) 10 Try standing desk upstairs 
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
 (E) 10 Write project for decentralised Parking 
