@@ -1,7 +1,5 @@
-(E) 02 Give laptop screen a good clean +Overhead
 (E) 02 Make sure you have a Coursea calendar event 
 (E) 02 Trim nose hair +Health    
-(E) 03 Check Passports are in the safe
 (E) 03 Fix all the wakeup lights and measure lux 
 (B) 03 Post some books to Nick (via RHUL) 
 (C) 05 Cancel the photoshop
