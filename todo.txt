@@ -1,14 +1,13 @@
 (E) 02 Make sure you have a Coursea calendar event 
 (E) 02 Trim nose hair +Health    
 (B) 03 Post some books to Nick (via RHUL) 
-x 2025-06-27 05 Cancel the photoshop
 (E) 05 Cut Leo nails +Health    
 (E) 05 Floss +Health   
 (E) 05 Mark bank card and put in place 
 (E) 05 Measure the chess pieces with the micrometer
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
-(C) 10 Book Pinao lesson for Nova 
+(C) 10 Work with Nova to choose a piano tutor https://www.superprof.co.uk/s/piano,United-Kingdom,,,,.html?s=1&l=56&pmax=27 
 ---
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
