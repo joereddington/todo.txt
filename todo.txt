@@ -1,33 +1,22 @@
-(A) DO the EQT finance tasks 
-(A) 30 Complete self assesssment tax form 
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Post some books to Nick
-(B) Publish Student Book
-(C Family) 15 Review the project md files
-(C) 15 Fix insurance @internet
-(C) 50 Finish rewriting academic CV 
-(C) Cancel the photoshop
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
-(C) deploy any commits from OVF that are hanging around. 
-(D Kat) 20 Lookup potential holiday locations for summer @internet
-(D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
-(D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
-(D Nova) 30 From B&Q get long dowel for Nova desk @outside
-(D Nova) 30 Wire up car for Nova @diy
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
-(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+(E) 02 Give laptop screen a good clean +Overhead
+(E) 02 Make sure you have a Coursea calendar event 
+(E) 02 Trim nose hair +Health    
+(E) 03 Check Passports are in the safe
+(E) 03 Fix all the wakeup lights and measure lux 
+(B) 03 Post some books to Nick (via RHUL) 
+(C) 05 Cancel the photoshop
+(E) 05 Cut Leo nails +Health    
+(E) 05 Floss +Health   
+(E) 05 Mark bank card and put in place 
+(E) 05 Measure the chess pieces with the micrometer
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
+(C) 10 Book Pinao lesson for Nova 
+---
+(D) 10 Brainstorm self-care
+(D) 10 Clean out Fridge
 (E) 10 Do the proper clipboard with kids  @nova
+(E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Floss +Health 
 (E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
@@ -40,52 +29,26 @@
 (E) 10 Year plan: check you have 5 projects in each part
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test
+(E) 10 process Garage inbox. 
+(C) 15 Fix insurance @internet
+(C Family) 15 Review the project md files
+(C) 15 Run mgit status on the git directory and process all alerts +EQT
 (E) 16 Weigh all the pots and pans @nova
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Close down the WWW server again 
 (E) 20 Empty Joe inbox completely +Overhead    
 (E) 20 Finally fix the log term recording of history and command line- Can I JUST  log all sessions? 
+(E) 20 Get sandpaper set 
+(D Kat) 20 Lookup potential holiday locations for summer @internet
+(E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(A) 20 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (E) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 25 post the unity submission form and email people about it. @home
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Fix all the wakeup lights and measure lux 
-(E) Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
-(E) Floss +Health   
-(E) Get sandpaper set 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure you have a continual professional developement practice happening  +EQT
-(E) Measure the chess pieces with the micrometer
-(E) Mark bank card and put in place 
-(E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Publicly thank someone +Overhead  
-(E) Put project real in the projects file 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(C) Book Pinao less for Nova 
-(E) Save a nice family memory +Family @phone    
-(E) TSE +Health  
-(E) Trial both electirc sanders 
-(E) Trim nose hair +Health    
-(E) process Garage inbox. 
-(D) 10 Brainstorm self-care
-(E) 02 Make sure you have a Coursea calendar event 
-(E) Start log for book on the memory training site 
+(A) 30 Complete self assesssment tax form 
+(D Nova) 30 From B&Q get long dowel for Nova desk @outside
+(D Kat) 30 Go to B&Q with a segment of the skirting board (and a tape measure) and see if they will do the cut @car
+(E) 30 Trial both electirc sanders 
+(D Nova) 30 Wire up car for Nova @diy
+(C) 50 Finish rewriting academic CV 
+(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
+(D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
