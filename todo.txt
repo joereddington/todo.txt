@@ -7,8 +7,7 @@
 (E) 05 Measure the chess pieces with the micrometer
 (E) 06 Install pronterface (commands in ai) 
 (E) 06 Rewrite the delores for long term goals
-(C) 10 Work with Nova to choose a piano tutor https://www.superprof.co.uk/s/piano,United-Kingdom,,,,.html?s=1&l=56&pmax=27 
----
+(C) 10 Work with Nova to choose a piano tutor 
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
 (E) 10 Do the proper clipboard with kids  @nova
