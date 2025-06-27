@@ -1,8 +1,7 @@
 (E) 02 Make sure you have a Coursea calendar event 
 (E) 02 Trim nose hair +Health    
-x 2025-06-27 03 Fix all the wakeup lights and measure lux 
 (B) 03 Post some books to Nick (via RHUL) 
-(C) 05 Cancel the photoshop
+x 2025-06-27 05 Cancel the photoshop
 (E) 05 Cut Leo nails +Health    
 (E) 05 Floss +Health   
 (E) 05 Mark bank card and put in place 
