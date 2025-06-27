@@ -88,3 +88,4 @@
 (E) process Garage inbox. 
 (D) 10 Brainstorm self-care
 (E) 02 Make sure you have a Coursea calendar event 
+(E) Start log for book on the memory training site 
