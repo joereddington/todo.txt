@@ -1,21 +1,16 @@
-(E) 02 Make sure you have a Coursea calendar event 
 (E) 02 Trim nose hair +Health    
 (B) 03 Post some books to Nick (via RHUL) 
-(E) 05 Cut Leo nails +Health    
 (E) 05 Floss +Health   
 (E) 05 Mark bank card and put in place 
 (E) 05 Measure the chess pieces with the micrometer
-(E) 06 Install pronterface (commands in ai) 
-(E) 06 Rewrite the delores for long term goals
-(C) 10 Work with Nova to choose a piano tutor 
+(C) 10 Find a plateform for a piano tutor 
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Floss +Health 
-(E) 10 Look for the missing smart plug for the 3d printer
 (E) 10 Properly clean out the camera SD card    
-(E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2025-06-28 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 Write delores to change (main) to (full process) and create a seperate (thing) for a small task
 (E) 10 Write project for decentralised Parking 

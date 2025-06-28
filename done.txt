@@ -8269,3 +8269,8 @@ x 2025-06-27 02 Give laptop screen a good clean +Overhead
 x 2025-06-27 03 Check Passports are in the safe
 x 2025-06-27 03 Fix all the wakeup lights and measure lux 
 x 2025-06-27 05 Cancel the photoshop
+x 2025-06-28 02 Make sure you have a Coursea calendar event 
+x 2025-06-28 05 Cut Leo nails +Health    
+x 2025-06-28 E) 06 Install pronterface (commands in ai) 
+x 2025-06-28 06 Rewrite the delores for long term goals
+x 2025-06-28 10 Look for the missing smart plug for the 3d printer
