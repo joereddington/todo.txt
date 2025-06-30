@@ -1,4 +1,5 @@
 (A) Complain to Parking people 
+(C) Tell the book students that the hardback came and it's... fine. 
 (A) 30 Complete self assesssment tax form 
 (A) Do the OVF link to WIki 
 (B) 03 Post some books to Nick (via RHUL) 
@@ -47,3 +48,5 @@
 (E) Get speedo flywheel printed
 (E) 10 Fix nail on Leo chair 
 (D) 30 Put Router on architraves 
+(E) Nova wants to play minigolf
+(C) Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
