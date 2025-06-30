@@ -1,9 +1,5 @@
-(C) 03 Put Books in the Car for Nick 
 (C Family) 15 Review the project md files
-(D) 10 Find a plateform for a piano tutor 
-(D) 15 Fix insurance @internet
-(E) 15 Run mgit status on the git directory and process all alerts +EQT
-(E) 50 Finish rewriting academic CV 
+(C) 03 Put Books in the Car for Nick 
 (C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
 (C) Email about the show materials - see if they can be shipped. 
 (C) Price up end of term project for goodie bag
@@ -14,6 +10,8 @@
 (D Nova) 30 Wire up car for Nova @diy
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
+(D) 10 Find a plateform for a piano tutor 
+(D) 15 Fix insurance @internet
 (D) 30 Put Router on architraves 
 (D) Watch a video about codex 
 (E) 02 Trim nose hair +Health    
@@ -32,6 +30,7 @@
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test
 (E) 10 process Garage inbox. 
+(E) 15 Run mgit status on the git directory and process all alerts +EQT
 (E) 16 Weigh all the pots and pans @nova
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Close down the WWW server again 
@@ -39,6 +38,7 @@
 (E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 25 Run mgit status on the git directory and process all alerts +EQT
 (E) 25 post the unity submission form and email people about it. @home
+(E) 50 Finish rewriting academic CV 
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
 (E) Fix links on the speedo page 
 (E) Get mark card/gift!
