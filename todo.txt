@@ -1,34 +1,29 @@
-(A) Complain to Parking people 
-(C) Tell the book students that the hardback came and it's... fine. 
-(A) 30 Complete self assesssment tax form 
-(C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
-(A) Do the OVF link to WIki 
-(B) 03 Post some books to Nick (via RHUL) 
-(B) B&Q - primer, sandpapers, aritrave wood, cut skirting boards (put sample in car), long dowel for Nova desk 
-(B) do the denoanomisting for the student marks and work out the ratios 
-(B) Fully write notes for IY3501 Lectures 
+(C) 03 Put Books in the Car for Nick 
 (C Family) 15 Review the project md files
+(D) 10 Find a plateform for a piano tutor 
+(D) 15 Fix insurance @internet
+(E) 15 Run mgit status on the git directory and process all alerts +EQT
+(E) 50 Finish rewriting academic CV 
+(C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
+(C) Email about the show materials - see if they can be shipped. 
 (C) Price up end of term project for goodie bag
-(C) Email about the conference materials 
-(C) 10 Find a plateform for a piano tutor 
-(C) 15 Fix insurance @internet
-(C) 15 Run mgit status on the git directory and process all alerts +EQT
-(C) 50 Finish rewriting academic CV 
+(C) Tell the book students that the hardback came and it's... fine. 
+(C) Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (D Nova) 30 Wire up car for Nova @diy
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
+(D) 30 Put Router on architraves 
 (D) Watch a video about codex 
 (E) 02 Trim nose hair +Health    
-(E) Get mark card/gift!
-(E) Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
 (E) 05 Floss +Health   
 (E) 05 Mark bank card and put in place 
 (E) 05 Measure the chess pieces with the micrometer
 (E) 10 Delores make seperate (thing) for a small task
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Fix nail on Leo chair 
 (E) 10 Floss +Health 
 (E) 10 Properly clean out the camera SD card    
 (E) 10 With Nova make daddy bedtime list @nova
@@ -46,8 +41,7 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
 (E) Fix links on the speedo page 
+(E) Get mark card/gift!
 (E) Get speedo flywheel printed
-(E) 10 Fix nail on Leo chair 
-(D) 30 Put Router on architraves 
+(E) Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
 (E) Nova wants to play minigolf
-(C) Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
