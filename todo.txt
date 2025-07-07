@@ -1,6 +1,5 @@
 (A) Process the project ideas file and make document 
 (A) Turing accounting post
-(D) Take skirting board upstairs and confirm it will work.  Then bring the saw up. 
 (C) 03 Put Books in the Car for Nick 
 (C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
 (C) Price up end of term project for goodie bag
@@ -14,6 +13,7 @@
 (D) 10 Find a plateform for a piano tutor 
 (D) 15 Fix insurance @internet
 (D) 30 Put Router on architraves 
+(D) Take skirting board upstairs and confirm it will work.  Then bring the saw up. 
 (D) Watch a video about codex 
 (E) 02 Trim nose hair +Health    
 (E) 05 Floss +Health   
@@ -41,8 +41,11 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 50 Finish rewriting academic CV 
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
+(E) Compare recent cycling to other cycling 
 (E) Fix links on the speedo page 
+(E) Get a flywheel design 
 (E) Get mark card/gift!
 (E) Get speedo flywheel printed
 (E) Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
+(E) Go for a run 
 (E) Nova wants to play minigolf
