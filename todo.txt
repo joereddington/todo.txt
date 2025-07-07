@@ -42,9 +42,6 @@
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
 (E) Compare recent cycling to other cycling 
 (E) Fix links on the speedo page 
-(E) Get a flywheel design 
 (E) Get mark card/gift!
-(E) Get speedo flywheel printed
-x 2025-07-07 Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
 (E) Go for a run 
 (E) Nova wants to play minigolf
