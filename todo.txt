@@ -1,5 +1,4 @@
 (A) Process the project ideas file and make document 
-(A) Turing accounting post
 (C) 03 Put Books in the Car for Nick 
 (C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
 (C) Price up end of term project for goodie bag
@@ -10,7 +9,7 @@
 (D Nova) 30 Wire up car for Nova @diy
 (D) 10 Brainstorm self-care
 (D) 10 Clean out Fridge
-(D) 10 Find a plateform for a piano tutor 
+(D) 10 Find a platform for a piano tutor 
 (D) 15 Fix insurance @internet
 (D) 30 Put Router on architraves 
 (D) Take skirting board upstairs and confirm it will work.  Then bring the saw up. 
@@ -46,6 +45,6 @@
 (E) Get a flywheel design 
 (E) Get mark card/gift!
 (E) Get speedo flywheel printed
-(E) Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
+x 2025-07-07 Get/make a Stencil - probably out of the cake tin - although masking tape is probably quite useful. 
 (E) Go for a run 
 (E) Nova wants to play minigolf
