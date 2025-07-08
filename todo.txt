@@ -12,6 +12,7 @@
 (D) 10 Find a platform for a piano tutor 
 (D) 15 Fix insurance @internet
 (D) 30 Put Router on architraves 
+(E) Create a separate repo or folder for Photoshop files and name them by projects. 
 (D) Take skirting board upstairs and confirm it will work.  Then bring the saw up. 
 (D) Watch a video about codex 
 (E) 02 Trim nose hair +Health    
