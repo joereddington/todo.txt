@@ -1,10 +1,23 @@
-(A) Process the project ideas file and make document 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Arrange courier 
-(E) Compile a set of videos of Leo cycling 
+(A) Cancel Gym 
+(A) Process the project ideas file and make document 
+(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 03 Put Books in the Car for Nick 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
 (C) Fill out the HEA form 
+(C) Review and re-score  Wheel Of life
+(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) See if Da Vinci will extract a transcript
 (C) Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
+(C) deploy any commits from OVF that are hanging around. 
 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (D Nova) 30 Wire up car for Nova @diy
@@ -13,16 +26,16 @@
 (D) 10 Find a platform for a piano tutor 
 (D) 15 Fix insurance @internet
 (D) 30 Put Router on architraves 
-(E) Create a separate repo or folder for Photoshop files and name them by projects. 
-(C) See if Da Vinci will extract a transcript
+(D) Check starred messages in kat whatsapp 
+(D) Clean out Fridge
+(D) Do full accounts algorithm +EQT 
+(D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (D) Take skirting board upstairs and confirm it will work.  Then bring the saw up. 
 (D) Watch a video about codex 
-(E) Get Leo a little Judo suit (or see if they fits Nova's)  
-(E) 02 Trim nose hair +Health    
 (E) 05 Floss +Health   
 (E) 05 Mark bank card and put in place 
-(E) 05 reoccuring event to sync the photoshop files
 (E) 05 Measure the chess pieces with the micrometer
+(E) 05 reoccuring event to sync the photoshop files
 (E) 10 Delores make seperate (thing) for a small task
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    
@@ -45,8 +58,49 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 50 Finish rewriting academic CV 
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps 
+(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Backup AWS +EQT
+(E) Check Passports are in the safe
+(E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Check wishlist
 (E) Compare recent cycling to other cycling 
+(E) Compile a set of videos of Leo cycling 
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Create a separate repo or folder for Photoshop files and name them by projects. 
+(E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
+(E) Do Menu for the week +Family  @phone   
+(E) Do full review of the memory palace. 
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Fix links on the speedo page 
+(E) Floss +Health   
+(E) Get Leo a little Judo suit (or see if they fits Nova's)  
 (E) Get mark card/gift!
+(E) Give laptop screen a good clean +Overhead
 (E) Go for a run 
+(E) Go though documents folder and put everything you want to save in Dropbox.
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Listen to  Randy Pausch Talk +Overhead @phone  
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Nova wants to play minigolf
+(E) Post to Vegan Facebook group  @phone   
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Publicly thank someone +Overhead  
+(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) Review starred items in feeds +Overhead +EQT
+(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) Save a nice family memory +Family @phone    
+(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+x 2025-07-10 TSE +Health  
+(E) Write Moonpig cards for this month +Overhead
+(E) process Garage inbox. 
