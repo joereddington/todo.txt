@@ -3,12 +3,8 @@
 (A) Cancel Gym 
 (A) Process the project ideas file and make document 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-(B) Make sure that all open github issues are in  the priority project with https://github.com/eQualityTime/Public/issues?q=is%3Aopen+is%3Aissue+-project%3AeQualityTime%2F4+
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 03 Put Books in the Car for Nick 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Confirm that littlefinger has all tax deductions for the 24-25 year. 
+(C) Import littlefinger transactions from 22 Jan 
 (C) Fill out the HEA form 
 (C) Review and re-score  Wheel Of life
 (C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
@@ -105,5 +101,3 @@
 (E) Wash BBQ grill 
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
-x 2025-07-10 TSE +Health  
-x 2025-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
