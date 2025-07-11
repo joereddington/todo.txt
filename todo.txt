@@ -6,15 +6,11 @@
 (C) 03 Put Books in the Car for Nick 
 (C) Import littlefinger transactions from 22 Jan 
 (C) Fill out the HEA form 
-(C) Review and re-score  Wheel Of life
-(C) Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) See if Da Vinci will extract a transcript
-(C) Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
-(C) deploy any commits from OVF that are hanging around. 
-(D Kat) 20 Lookup potential holiday locations for summer @internet
+x 2025-07-11 Write 3rd year projects: decentalised parking, security policy, dashcam https://www.gov.uk/data-requests-dvla 
+x 2025-07-11 deploy any commits from OVF that are hanging around. 
+x 2025-07-11 (D Kat) 20 Lookup potential holiday locations for summer @internet
 (D Kat) 60 Do bedroom architraves (you've already taken it off the other wall)  @home
 (D Nova) 30 Wire up car for Nova @diy
 (D) 10 Brainstorm self-care
