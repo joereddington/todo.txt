@@ -1,4 +1,6 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(E) Wash BBQ grill 
+(E) Change address for aunt sheila's house
 (A) Arrange courier 
 (A) Cancel Gym 
 (A) Process the project ideas file and make document 
