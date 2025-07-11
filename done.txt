@@ -8310,3 +8310,49 @@ x 2025-07-11 Review and re-score  Wheel Of life
 x 2025-07-11 Review the feedbacks from Kat and follow up https://github.com/joereddington/Projects-Private/issues/171 
 x 2025-07-11 Run mgit status on the git directory and process all alerts +EQT
 x 2025-07-11 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x (D) 10 Find a platform for a piano tutor 
+x (D) Check starred messages in kat whatsapp 
+x (D) Clean out Fridge
+x (D) Do full accounts algorithm +EQT 
+x (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
+x (D) Watch a video about codex 
+x (E) 05 Mark bank card and put in place 
+x (E) 05 reoccuring event to sync the photoshop files
+x (E) 10 Delores make seperate (thing) for a small task
+x (E) 10 Fix nail on Leo chair 
+x (E) 10 Properly clean out the camera SD card    
+x (E) 10 Write project for decentralised Parking 
+x (E) 15 Run mgit status on the git directory and process all alerts +EQT
+x (E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x (E) 25 Run mgit status on the git directory and process all alerts +EQT
+x (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
+x (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x (E) Backup AWS +EQT
+x (E) Check Passports are in the safe
+x (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x (E) Check wishlist
+x (E) Compare recent cycling to other cycling 
+x (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x (E) Create a separate folder for Photoshop files and name them by projects. 
+x (E) Cut Nova and Leo nails +Health    
+x (E) Cut nails +Health    
+x (E) Do Menu for the week +Family  @phone   
+x (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x (E) Get Leo a little Judo suit (or see if they fits Nova's)  
+x (E) Get mark card/gift!
+x (E) Give laptop screen a good clean +Overhead
+x (E) Go for a run 
+x (E) Go though documents folder and put everything you want to save in Dropbox.
+x (E) Go through phone and save all of the numbers +Overhead  @phone   
+x (E) Listen to  Randy Pausch Talk +Overhead @phone  
+x (E) Log weight +Health   
+x (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x (E) Make sure you have a continual professional developement practice happening  +EQT
+x (E) Post to Vegan Facebook group  @phone   
+x (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x (E) Publicly thank someone +Overhead  
+x (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x (E) Review starred items in feeds +Overhead +EQT
+x (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x (E) Save a nice family memory +Family @phone    
