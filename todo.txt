@@ -1,7 +1,5 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(E) Wash BBQ grill 
-(E) Change address for aunt sheila's house
 (A) Arrange courier 
+(A) Book southport Airbnb
 (A) Cancel Gym 
 (A) Process the project ideas file and make document 
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
@@ -63,6 +61,7 @@
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup AWS +EQT
+(E) Change address for aunt sheila's house
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
@@ -103,6 +102,8 @@
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-x 2025-07-10 TSE +Health  
+(E) Wash BBQ grill 
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
+x 2025-07-10 TSE +Health  
+x 2025-07-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
