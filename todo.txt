@@ -30,4 +30,4 @@
 (E) 40 Put primer on Leo chair  @garage 
 (E) 50 Finish rewriting academic CV @internet
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-(E) Get and Wash BBQ grill  @garage
+(E) 10 Get and Wash BBQ grill  @garage
