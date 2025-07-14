@@ -7,7 +7,7 @@
 (E) 10 Empty Joe inbox completely +Overhead    @house
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead   @phone
 (E) 10 Get and Wash BBQ grill  @garage
-(E) 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  @internet
+x 2025-07-14 10 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  @internet
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test @internet
