@@ -1,33 +1,32 @@
-x 2025-07-14 15 Cancel Gym @phone (or, you know, go to it) 
-(A) 40 Email project supervisors with new document and also CS  @internet
-(A) Badger Andy about delivery
-(B) 10 Book room for andy birthday  @internet @phone
-(C) 15 Package books for Nick  @house
-(C) 20 Download video and see if Da Vinci will extract a transcript @internet
-(C) 30 Fill out the HEA form  @laptop
-(C) 30 Process transactions in littlefinger since Jan 2025 for tax deducations @internet
-(D Kat) 40 Put Router on architrave wood in @garage
-(D Nova) 30 Wire up car for Nova @house
-(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
-(D) 15 Write up the actual request for insurance given the activities that we do.  @laptop
 (E) 03 Nova wants to play minigolf @house
 (E) 05 Floss +Health  @house 
 (E) 05 Measure the chess pieces with the micrometer @garage 
+(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
+(B) 10 Book room for andy birthday  @internet @phone
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    @house
-(E) 10 Empty whatsapp and facebook inboxes. +Overhead   @phone
 (E) 10 Get and Wash BBQ grill  @garage
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test @internet
+(C) 15 Package books for Nick  @house
+(D) 15 Write up the actual request for insurance given the activities that we do.  @laptop
 (E) 20 Buy tomatoes for tasting  @car 
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Design circuit diagram and make the repo public 
+(C) 20 Download video and see if Da Vinci will extract a transcript @internet
 (E) 20 Podcast and process @garage inbox. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @paper
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
+(C) 30 Fill out the HEA form  @laptop
+(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(D Nova) 30 Wire up car for Nova @house
+(A) 40 Email project supervisors with new document and also CS  @internet
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
+(D Kat) 40 Put Router on architrave wood in @garage
 (E) 40 Put primer on Leo chair  @garage 
 (E) 50 Finish rewriting academic CV @internet
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
+(A) Badger Andy about delivery
+(C) Check the bathroom money
