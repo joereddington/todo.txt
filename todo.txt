@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(B) Write corusea exam
 (A) 40 Email project supervisors with new document and also CS  @internet
 (A) Badger Andy about delivery
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
