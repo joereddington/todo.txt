@@ -8381,3 +8381,4 @@ x 2025-07-21 Badger Andy about delivery
 x 2025-07-21 Do Menu for the week +Family  @phone   
 x 2025-07-21 Go through phone and save all of the numbers +Overhead  @phone   
 x 2025-07-21 Save a nice family memory +Family @phone    
+x 2025-07-21 Check starred messages in kat whatsapp 

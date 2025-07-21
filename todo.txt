@@ -17,7 +17,6 @@
 (D Nova) 30 Wire up car for Nova @house
 (D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) 15 Write up the actual request for insurance given the activities that we do.  @laptop
-(D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 03 Nova wants to play minigolf @house
