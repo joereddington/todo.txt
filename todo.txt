@@ -1,3 +1,9 @@
+(E) 40 Put more primer on Leo chair  @garage 
+(E) 20 Podcast and process @garage inbox. 
+(E) 10 Get and Wash BBQ grill  @garage
+(E) 05 Measure the chess pieces with the micrometer @garage 
+(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
+(D Kat) 40 Put Router on architrave wood in @garage
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 40 Email project supervisors with new document and also CS  @internet
 (A) Mark IPRs 
@@ -11,33 +17,26 @@
 (C) 30 Fill out the HEA form  @laptop
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) Review and re-score  Wheel Of life
-(D Kat) 40 Put Router on architrave wood in @garage
 (D Nova) 30 Wire up car for Nova @house
-(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) 15 Write up the actual request for insurance given the activities that we do.  @laptop
 (D) Do full accounts algorithm +EQT 
 (E) 03 Nova wants to play minigolf @house
 (E) 05 Floss +Health  @house 
-(E) 05 Measure the chess pieces with the micrometer @garage 
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    @house
-(E) 10 Get and Wash BBQ grill  @garage
 (E) 10 With Nova make daddy bedtime list @nova
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Design circuit diagram and make the repo public 
-(E) 20 Podcast and process @garage inbox. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @paper
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
-(E) 40 Put more primer on Leo chair  @garage 
 (E) 50 Finish rewriting academic CV @internet
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Cut Nova and Leo nails +Health    
 (E) Empty Joe inbox completely +Overhead    
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Publicly thank someone +Overhead  

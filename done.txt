@@ -8385,3 +8385,4 @@ x 2025-07-21 Check starred messages in kat whatsapp
 x 2025-07-21 Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 x 2025-07-21 Check the bathroom money
 x 2025-07-21 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2025-07-22 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
