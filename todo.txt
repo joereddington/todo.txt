@@ -33,7 +33,6 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
-(E) 50 Finish rewriting academic CV @internet
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Cut Nova and Leo nails +Health    
