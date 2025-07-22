@@ -1,3 +1,14 @@
+(E) Empty Joe inbox completely +Overhead     @house
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT @house
+(C) 15 Package books for Nick  @house
+(E) 05 Floss +Health  @house 
+(E) 10 Empty Joe inbox completely +Overhead    @house
+(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
+(E) 03 Nova wants to play minigolf @house
+(D Nova) 30 Wire up car for Nova @house
+(E) Cut Nova and Leo nails +Health    
+(E) 10 With Nova make daddy bedtime list @nova
+(E) 10 Do the proper clipboard with kids  @nova
 (E) 40 Put more primer on Leo chair  @garage 
 (E) 20 Podcast and process @garage inbox. 
 (E) 10 Get and Wash BBQ grill  @garage
@@ -12,19 +23,9 @@
 (B) Do expenses for the trip to London 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Write corusea exam
-(C) 15 Package books for Nick  @house
-(C) 20 Download video and see if Da Vinci will extract a transcript @internet
 (C) 30 Fill out the HEA form  @laptop
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) Review and re-score  Wheel Of life
-(D Nova) 30 Wire up car for Nova @house
-(D) 15 Write up the actual request for insurance given the activities that we do.  @laptop
-(D) Do full accounts algorithm +EQT 
-(E) 03 Nova wants to play minigolf @house
-(E) 05 Floss +Health  @house 
-(E) 10 Do the proper clipboard with kids  @nova
-(E) 10 Empty Joe inbox completely +Overhead    @house
-(E) 10 With Nova make daddy bedtime list @nova
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
@@ -33,9 +34,3 @@
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
-(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Cut Nova and Leo nails +Health    
-(E) Empty Joe inbox completely +Overhead    
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Publicly thank someone +Overhead  
