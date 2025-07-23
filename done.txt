@@ -8392,3 +8392,5 @@ x 2025-07-22 Do full accounts algorithm +EQT
 x 2025-07-22 20 Download video and see if Da Vinci will extract a transcript @internet
 x 2025-07-22 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2025-07-22 Publicly thank someone +Overhead  
+x 2025-07-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-07-23 20 Design circuit diagram and make the repo public 

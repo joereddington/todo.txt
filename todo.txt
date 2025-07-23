@@ -1,4 +1,3 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 40 Email project supervisors with new document and also CS  @internet
 (A) Mark IPRs 
 (A) Review all the review emails 
@@ -23,8 +22,8 @@
 (E) 10 brainstorm another football for Leo @paper
 (E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
-(E) 20 Design circuit diagram and make the repo public 
 (E) 20 Podcast and process @garage inbox. 
+(E) Film cycling explaining video 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @paper
 (E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
