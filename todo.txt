@@ -1,6 +1,7 @@
 x 2025-07-23 Mark IPRs 
 x 2025-07-23 Review all the review emails 
 (B) Return the t-shirt to morrisons 
+(A) Send YS an invoice for 1K for Art for video
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Do expenses for the trip to London 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
