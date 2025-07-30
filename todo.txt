@@ -17,6 +17,7 @@
 (C) deploy any commits from OVF that are hanging around. 
 (D Kat) 40 Put Router on architrave wood in @garage
 (D Nova) 30 Wire up car for Nova @house
+(C) Check SVAP after 31st and before 8th
 (D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
