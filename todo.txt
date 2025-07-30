@@ -9,6 +9,7 @@
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Return the t-shirt to morrisons 
 (B) Write corusea exam
+(C) Blue tack or tape for putting parking sticker in 
 (C) 15 Package books for Nick  @house
 (C) 30 Fill out the HEA form  @laptop
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
@@ -23,6 +24,7 @@
 (D) Do full accounts algorithm +EQT 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 03 Nova wants to play minigolf @house
+(E) Eye tracking game for Leo 
 (E) 05 Floss +Health  @house 
 (E) 05 Measure the chess pieces with the micrometer @garage 
 (E) 10 Do the proper clipboard with kids  @nova
