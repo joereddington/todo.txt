@@ -8397,3 +8397,4 @@ x 2025-07-23 20 Design circuit diagram and make the repo public
 x 2025-07-23 40 Email project supervisors with new document and also CS  @internet
 x 2025-07-23 Mark IPRs 
 x 2025-07-23 Review all the review emails 
+x 2025-07-30 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  

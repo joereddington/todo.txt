@@ -1,30 +1,28 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(B) Make a plan for ethics review 
-(B) Take Nova Running 
-(A) Mum's birthday 5th August 
-(A) Send Thank you cards
+x 2025-07-30 Mum's birthday 5th August 
+(A) Get kids to make thank you cards
 (A) Send YS an invoice for 1K for Art for vide
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
 (B) Do expenses for the trip to London 
+(B) Make a plan for ethics review 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Return the t-shirt to morrisons 
+(B) Take Nova Running 
 (B) Write corusea exam
-(C) Blue tack or tape for putting parking sticker in 
 (C) 15 Package books for Nick  @house
 (C) 30 Fill out the HEA form  @laptop
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(C) Blue tack or tape for putting parking sticker in 
+(C) Check SVAP after 31st and before 8th
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Review and re-score  Wheel Of life
 (C) deploy any commits from OVF that are hanging around. 
 (D Kat) 40 Put Router on architrave wood in @garage
 (D Nova) 30 Wire up car for Nova @house
-(C) Check SVAP after 31st and before 8th
 (D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 03 Nova wants to play minigolf @house
-(E) Eye tracking game for Leo 
 (E) 05 Floss +Health  @house 
 (E) 05 Measure the chess pieces with the micrometer @garage 
 (E) 10 Do the proper clipboard with kids  @nova
@@ -53,6 +51,7 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty Joe inbox completely +Overhead     @house
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Eye tracking game for Leo 
 (E) Film cycling explaining video 
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
