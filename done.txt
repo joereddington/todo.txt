@@ -8425,3 +8425,5 @@ x 2025-08-02 Go thought calendar and find at least one 'thank you's  you *can* m
 x 2025-08-02 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2025-08-02 Save a nice family memory +Family @phone    
 x 2025-08-02 Trim nose hair +Health    
+x 2025-08-02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT @house
+x 2025-08-02 Eye tracking game for Leo 

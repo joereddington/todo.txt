@@ -27,13 +27,11 @@
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
 (E) 40 Put more primer on Leo chair  @garage 
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT @house
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead     @house
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Eye tracking game for Leo 
 (E) Film cycling explaining video 
-(E) Floss +Health   
+(E) 05 Floss +Health   
 (E) Make the 'leaving times' sheet for Nova 
 (E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
