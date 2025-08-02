@@ -1,8 +1,6 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-08-02 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Get kids to make thank you cards
-(A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
-x 2025-08-02 Send YS an invoice for 1K for Art for vide
-(B) Do expenses for the trip to London 
+(B) Do expenses for the trip to London on the 17th July and create a document on the topic 
 (B) Make a plan for ethics review 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Return the t-shirt to morrisons 

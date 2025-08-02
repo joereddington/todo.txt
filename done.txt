@@ -8400,3 +8400,4 @@ x 2025-07-23 Review all the review emails
 x 2025-07-30 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2025-07-30 Mum's birthday 5th August 
 x 2025-08-02 Send YS an invoice for 1K for Art for vide
+x 2025-08-02 process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
