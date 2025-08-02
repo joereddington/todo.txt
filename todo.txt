@@ -1,37 +1,35 @@
 (A) Get kids to make thank you cards
-(B) Look up the messages about ethics and Make a plan for ethics review 
+(A) post Uncle John card 
+(B) Look up the messages about ethics and Make a plan for ethics review  +RHUL
 (B) Return the t-shirt to morrisons 
 (B) Write corusea exam
-(C) 30 Fill out the HEA form  @laptop
-(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(C) Blue tack or tape for putting parking sticker in 
-(C) Review and re-score  Wheel Of life
-(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
-(D) Do full accounts algorithm +EQT 
+(C) 03 Blue tack or tape for putting parking sticker in 
+(C) 10 Review and re-score  Wheel Of life
+(E) 05 Floss +Health   
+x 2025-08-02 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Film cycling explaining video  @garage
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) process Garage inbox. 
 (D Kat) 40 Put Router on architrave wood in @garage
+(D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
+(E) 10 Get and Wash BBQ grill  @garage
+(E) 05 Measure the chess pieces with the micrometer @garage 
+(E) 40 Put more primer on Leo chair  @garage 
+(E) 20 Podcast and process @garage inbox. 
+(E) 25 post the unity submission form and email people about it. @home
 (D Nova) 30 Wire up car for Nova @house
 (E) 03 Nova wants to play minigolf @house
-(E) 05 Floss +Health  @house 
-(E) 05 Measure the chess pieces with the micrometer @garage 
-(E) 10 brainstorm another football for Leo @paper
-(E) 10 buy blood test @internet
-(E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    @house
-(E) 10 Get and Wash BBQ grill  @garage
-(E) 10 With Nova make daddy bedtime list @nova
+(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
+(E) Empty Joe inbox completely +Overhead     @house
+(E) 05 Floss +Health  @house 
+(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
-(E) 20 Podcast and process @garage inbox. 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @paper
-(E) 25 post the unity submission form and email people about it. @home
 (E) 30 Do full review of the memory palace. @internet
 (E) 40 Probably read this https://www.rand.org/pubs/research_reports/RRA3841-1.html @internet
-(E) 40 Put more primer on Leo chair  @garage 
-(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead     @house
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Film cycling explaining video 
-(E) 05 Floss +Health   
-(E) Make the 'leaving times' sheet for Nova 
-(E) process Garage inbox. 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(C) 30 Fill out the HEA form  @laptop
+(E) 10 Do the proper clipboard with kids  @nova
+(E) 10 With Nova make daddy bedtime list @nova
+(E) 10 brainstorm another football for Leo @paper

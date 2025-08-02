@@ -8427,3 +8427,6 @@ x 2025-08-02 Save a nice family memory +Family @phone
 x 2025-08-02 Trim nose hair +Health    
 x 2025-08-02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT @house
 x 2025-08-02 Eye tracking game for Leo 
+x 2025-08-02 Make the 'leaving times' sheet for Nova 
+x 2025-08-02 Do full accounts algorithm +EQT 
+x 2025-08-02 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
