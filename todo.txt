@@ -1,7 +1,7 @@
-x 2025-07-30 Mum's birthday 5th August 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Get kids to make thank you cards
-(A) Send YS an invoice for 1K for Art for vide
 (A) process emotional todo list. https://github.com/joereddington/Projects-Private/issues/188  
+x 2025-08-02 Send YS an invoice for 1K for Art for vide
 (B) Do expenses for the trip to London 
 (B) Make a plan for ethics review 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
@@ -14,23 +14,23 @@ x 2025-07-30 Mum's birthday 5th August
 (C) Blue tack or tape for putting parking sticker in 
 (C) Check SVAP after 31st and before 8th
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Review and re-score  Wheel Of life
 (C) deploy any commits from OVF that are hanging around. 
-(D Kat) 40 Put Router on architrave wood in @garage
-(D Nova) 30 Wire up car for Nova @house
+(C) Review and re-score  Wheel Of life
 (D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
+(D Kat) 40 Put Router on architrave wood in @garage
+(D Nova) 30 Wire up car for Nova @house
 (D) Send something to the grandparent whatsapp group  https://github.com/users/joereddington/projects/5#column-6773919
 (E) 03 Nova wants to play minigolf @house
 (E) 05 Floss +Health  @house 
 (E) 05 Measure the chess pieces with the micrometer @garage 
+(E) 10 brainstorm another football for Leo @paper
+(E) 10 buy blood test @internet
 (E) 10 Do the proper clipboard with kids  @nova
 (E) 10 Empty Joe inbox completely +Overhead    @house
 (E) 10 Get and Wash BBQ grill  @garage
 (E) 10 With Nova make daddy bedtime list @nova
-(E) 10 brainstorm another football for Leo @paper
-(E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Podcast and process @garage inbox. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @paper
@@ -44,8 +44,8 @@ x 2025-07-30 Mum's birthday 5th August
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
+(E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
@@ -59,9 +59,10 @@ x 2025-07-30 Mum's birthday 5th August
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Make the 'leaving times' sheet for Nova 
 (E) Post to Vegan Facebook group  @phone   
+(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Save a nice family memory +Family @phone    
 (E) Trim nose hair +Health    
-(E) process Garage inbox. 
