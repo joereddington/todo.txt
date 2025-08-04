@@ -5,7 +5,6 @@
 (B) Write corusea exam
 (C) 03 Blue tack or tape for putting parking sticker in 
 (C) 10 Review and re-score  Wheel Of life
-(E) 05 Floss +Health   
 (E) Film cycling explaining video  @garage
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) process Garage inbox. 
@@ -17,14 +16,11 @@
 (E) 20 Podcast and process @garage inbox. 
 (D Nova) 30 Wire up car for Nova @house
 (E) 03 Nova wants to play minigolf @house
-(E) 10 Empty Joe inbox completely +Overhead    @house
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-(E) Empty Joe inbox completely +Overhead     @house
-(E) 05 Floss +Health  @house 
+x 2025-08-04 05 Floss +Health  @house 
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 30 Do full review of the memory palace. @internet
 (C) 30 Fill out the HEA form  @laptop
-(E) 10 With Nova make daddy bedtime list @nova
 (E) 10 brainstorm another football for Leo @paper
