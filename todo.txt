@@ -14,7 +14,7 @@
 (E) 05 Measure the chess pieces with the micrometer @garage 
 (E) 40 Put more primer on Leo chair  @garage 
 (E) 20 Podcast and process @garage inbox. 
-(D Nova) 30 Wire up car for Nova @house
+(D) Take Nova Car apart plan layout and  solder up two of the wheels to the controller 
 (E) 03 Nova wants to play minigolf @house
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
