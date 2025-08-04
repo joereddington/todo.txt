@@ -8442,3 +8442,6 @@ x 2025-08-04 05 Floss +Health  @house
 x 2025-08-04 10 brainstorm another football for Leo @paper
 x 2025-08-04 (D Nova) 30 Wire up car for Nova @house
 x 2025-08-04 10 buy blood test @internet
+x 2025-08-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2025-08-04 process Garage inbox. 
+x 2025-08-04 03 Nova wants to play minigolf @house
