@@ -17,10 +17,8 @@
 (D Nova) 30 Wire up car for Nova @house
 (E) 03 Nova wants to play minigolf @house
 (E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
-x 2025-08-04 05 Floss +Health  @house 
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 10 buy blood test @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 30 Do full review of the memory palace. @internet
 (C) 30 Fill out the HEA form  @laptop
-(E) 10 brainstorm another football for Leo @paper
