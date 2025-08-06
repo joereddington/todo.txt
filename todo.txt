@@ -11,7 +11,7 @@
 (D Kat) 40 Put Router on architrave wood in @garage
 (D) 05 Take skirting board upstairs and confirm it will work.  Then bring the saw up.  @garage
 (D) Take Nova Car apart plan layout and  solder up two of the wheels to the controller 
-(E) 05 Measure the chess pieces with the micrometer @garage 
+x 2025-08-06 05 Measure the chess pieces with the micrometer @garage 
 (E) 10 Get and Wash BBQ grill  @garage
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Podcast and process @garage inbox. 
