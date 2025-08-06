@@ -30,6 +30,7 @@
 (E) Floss +Health   
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Publicly thank someone +Overhead  
+(E) Fix extra monitor
 (E) Save a nice family memory +Family @phone    
 (E) Trim nose hair +Health    
 (E) Write up the 3d printer issues on blog post 
