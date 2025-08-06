@@ -8456,3 +8456,7 @@ x 2025-08-06 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advi
 x 2025-08-06 Cut nails +Health    
 x 2025-08-06 Do Menu for the week +Family  @phone   
 x 2025-08-06 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2025-08-06 Go through phone and save all of the numbers +Overhead  @phone   
+x 2025-08-06 Log weight +Health   
+x 2025-08-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2025-08-06 Post to Vegan Facebook group  @phone   
