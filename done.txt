@@ -8445,3 +8445,4 @@ x 2025-08-04 10 buy blood test @internet
 x 2025-08-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 x 2025-08-04 process Garage inbox. 
 x 2025-08-04 03 Nova wants to play minigolf @house
+x 2025-08-06 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house

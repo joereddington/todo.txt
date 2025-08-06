@@ -17,6 +17,7 @@
 (E) 20 Podcast and process @garage inbox. 
 (E) 30 Do full review of the memory palace. @internet
 (E) 40 Put more primer on Leo chair  @garage 
-(E) 50 Fix white filament in 3d printer.  Remove the pad. Fully re-calibrate.  Make the better clamps @house
 (E) 50 Write 1,000 words
 (E) Film cycling explaining video  @garage
+(E) Write up the 3d printer issues on blog post 
+(E) 10 Create  very small black and white test prints for 3d printer
