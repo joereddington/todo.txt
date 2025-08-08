@@ -33,3 +33,8 @@
 (E) Save a nice family memory +Family @phone    
 (E) Trim nose hair +Health    
 (E) Write up the 3d printer issues on blog post 
+(E) Message Keith about the photo 
+(E) Work out if your first lecture is online.  
+(C) Setup moodle 
+(E) Take good photo of the LOLDolls house
+(E) Experiment with using Python PPT to compile to Powerpoint 
