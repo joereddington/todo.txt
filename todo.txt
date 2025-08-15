@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) Update the memory forum on progress
 (A) Write gratitude post
 (B) Look up the messages about ethics and Make a plan for ethics review  +RHUL
 (B) Write corusea exam
