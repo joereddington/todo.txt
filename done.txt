@@ -8477,3 +8477,6 @@ x 2025-08-18 Review and re-score  Wheel Of life
 x 2025-08-18 Run mgit status on the git directory and process all alerts +EQT
 x 2025-08-18 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 x 2025-08-18 Sync the photoshop directroy
+x 2025-08-18 Save a nice family memory +Family @phone    
+x 2025-08-18 Work out if your first lecture is online.  
+x 2025-08-18 Experiment with using Python PPT to compile to Powerpoint 

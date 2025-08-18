@@ -36,7 +36,6 @@
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Experiment with using Python PPT to compile to Powerpoint 
 (E) Film cycling explaining video  @garage
 (E) Fix extra monitor
 (E) Floss +Health   
@@ -54,11 +53,9 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
 (E) Take good photo of the LOLDolls house
 (E) Trim nose hair +Health    
-(E) Work out if your first lecture is online.  
 (E) Write Moonpig cards for this month +Overhead
 (E) Write up the 3d printer issues on blog post 
 (E) process Garage inbox. 
