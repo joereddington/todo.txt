@@ -1,5 +1,6 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Reply to the parking charge
+(A) Put in calendar - dates to visit mum 
 (A) Update the memory forum on progress
 (A) Write gratitude post
 (A) process emotional todo list. 
