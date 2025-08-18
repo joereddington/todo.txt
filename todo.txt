@@ -31,6 +31,7 @@
 (E) Message Keith about the photo 
 x 2025-08-18 Pick out a camera as a goal 
 (E) Publicly thank someone +Overhead  
+(E) Upgrade watson to python3
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) TSE +Health  
@@ -39,3 +40,4 @@ x 2025-08-18 Pick out a camera as a goal
 (E) Write Moonpig cards for this month +Overhead
 (E) Write up the 3d printer issues on blog post 
 (E) process Garage inbox. 
+(E) Fix countdown timer (code) 
