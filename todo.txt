@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) Reply to the parking charge
 (A) Update the memory forum on progress
 (A) Write gratitude post
 (A) process emotional todo list. 
@@ -28,6 +29,7 @@
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Podcast and process @garage inbox. 
 (E) 30 Do full review of the memory palace. @internet
+(E) Create spreadsheet for the paint on the wall. 
 (E) 40 Put more primer on Leo chair  @garage 
 (E) 50 Write 1,000 words
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
