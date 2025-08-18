@@ -8465,3 +8465,15 @@ x 2025-08-08 Get kids to make thank you cards
 x 2025-08-08 post Uncle John card 
 x 2025-08-08 Return the t-shirt to morrisons 
 x 2025-08-16 30 Fill out the HEA form  @laptop
+x 2025-08-18 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-08-18 Reply to the parking charge
+x 2025-08-18 Write gratitude post
+x 2025-08-18 process emotional todo list. 
+x 2025-08-18 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2025-08-18 Make sure you have booked a bunch of leave from RHUL 
+x 2025-08-18 Put primer on kuchen wall for the blues
+x 2025-08-18 Write corusea exam
+x 2025-08-18 Review and re-score  Wheel Of life
+x 2025-08-18 Run mgit status on the git directory and process all alerts +EQT
+x 2025-08-18 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2025-08-18 Sync the photoshop directroy
