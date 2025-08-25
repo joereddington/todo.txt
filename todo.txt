@@ -1,13 +1,5 @@
 (C) 03 Blue tack or tape for putting parking sticker in 
-x 2025-08-25 03 Cut nails +Health    
-x 2025-08-25 03 Trim nose hair +Health    
-x 2025-08-25 04 Check Passports are in the safe
-x 2025-08-25 05 Floss +Health   
-x 2025-08-25 05 Take good photo of the LOLDolls house
-x 2025-08-25 06 Message Keith about the photo 
 (D) 10 Check starred messages in kat whatsapp 
-x 2025-08-25 10 Creae  very small black and white test prints for 3d printer
-x 2025-08-25 10 Cut Leo nails +Health    
 (E) 10 Fix extra monitor
 (E) 10 Get and Wash BBQ grill  @garage
 (C) 10 Review and re-score  Wheel Of life
@@ -15,13 +7,12 @@ x 2025-08-25 10 Cut Leo nails +Health
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Film cycling explaining video  @garage
 (E) 20 Fix countdown timer (code) 
-(E) 20 Podcast and process @garage inbox. 
 (D) 20 Take Nova Car apart plan layout and  solder up two of the wheels to the controller 
 (E) 20 Upgrade watson to python3
 (E) 20 Write up the 3d printer issues on blog post 
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) 30 Setup moodle 
 (D Kat) 40 Put Router on architrave wood in @garage
-(E) 40 Put more primer on Leo chair  @garage 
+(E) 40 Put more paint on Leo chair  @garage 
 (E) 50 Write 1,000 words
 (E) 60 Spend an hour playing with the TODO's in the vicious cycle repo 

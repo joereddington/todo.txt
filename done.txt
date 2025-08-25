@@ -8516,3 +8516,12 @@ x 2025-08-25 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2025-08-25 Give laptop screen a good clean +Overhead
 x 2025-08-25 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 x 2025-08-25 Write Moonpig cards for this month +Overhead
+x 2025-08-25 03 Cut nails +Health    
+x 2025-08-25 03 Trim nose hair +Health    
+x 2025-08-25 04 Check Passports are in the safe
+x 2025-08-25 05 Floss +Health   
+x 2025-08-25 05 Take good photo of the LOLDolls house
+x 2025-08-25 06 Message Keith about the photo 
+x 2025-08-25 10 Creae  very small black and white test prints for 3d printer
+x 2025-08-25 10 Cut Leo nails +Health    
+x 2025-08-25 20 Podcast and process @garage inbox. 
