@@ -1,40 +1,31 @@
-(B) Look up the messages about ethics and Make a plan for ethics review  +RHUL
-(E) Do all the TODOs in the vicous cycle repo
 (C) 03 Blue tack or tape for putting parking sticker in 
-(C) 10 Review and re-score  Wheel Of life
-(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Setup moodle 
-(C) Write up Flowers For Turing 
-(C) deploy any commits from OVF that are hanging around. 
-(D Kat) 40 Put Router on architrave wood in @garage
-(D) 10 Check starred messages in kat whatsapp 
-(D) Take Nova Car apart plan layout and  solder up two of the wheels to the controller 
 (E) 03 Cut nails +Health    
+(D) 10 Check starred messages in kat whatsapp 
 (E) 10 Create  very small black and white test prints for 3d printer
 (E) 10 Cut Leo nails +Health    
 (E) 10 Get and Wash BBQ grill  @garage
+(C) 10 Review and re-score  Wheel Of life
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Film cycling explaining video  @garage
 (E) 20 Podcast and process @garage inbox. 
+(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(D Kat) 40 Put Router on architrave wood in @garage
 (E) 40 Put more primer on Leo chair  @garage 
 (E) 50 Write 1,000 words
 (E) Check Passports are in the safe
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(E) Fix countdown timer (code) 
 (E) Fix extra monitor
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Message Keith about the photo 
-(E) Publicly thank someone +Overhead  
-(E) Upgrade watson to python3
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) TSE +Health  
-(E) Take good photo of the LOLDolls house
-(E) Trim nose hair +Health    
+(E) 06 Message Keith about the photo 
+(C) 30 Setup moodle 
+(E) 60 Spend an hour playing with the TODO's in the vicious cycle repo 
+(D) 20 Take Nova Car apart plan layout and  solder up two of the wheels to the controller 
+(E) 05 Take good photo of the LOLDolls house
+(E) 03 Trim nose hair +Health    
+(E) 20 Upgrade watson to python3
 (E) Write Moonpig cards for this month +Overhead
+(C) Write up Flowers For Turing 
 (E) Write up the 3d printer issues on blog post 
-(E) process Garage inbox. 
-(E) Fix countdown timer (code) 

@@ -8503,3 +8503,12 @@ x 2025-08-18 Put in calendar - dates to visit mum
 x 2025-08-18 Pick out a camera as a goal 
 x 2025-08-18 Update the memory forum on progress
 x 2025-08-24 30 Do full review of the memory palace. @internet
+x 2025-08-25 Look up the messages about ethics and Make a plan for ethics review  +RHUL
+x 2025-08-25 Log weight +Health   
+x 2025-08-25 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2025-08-25 Publicly thank someone +Overhead  
+x 2025-08-25 Review starred items in feeds +Overhead +EQT
+x 2025-08-25 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2025-08-25 TSE +Health  
+x 2025-08-25 deploy any commits from OVF that are hanging around. 
+x 2025-08-25 process Garage inbox. 
