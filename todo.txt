@@ -1,13 +1,13 @@
 (C) 03 Blue tack or tape for putting parking sticker in 
-(E) 03 Cut nails +Health    
-(E) 03 Trim nose hair +Health    
-(E) 04 Check Passports are in the safe
-(E) 05 Floss +Health   
-(E) 05 Take good photo of the LOLDolls house
-(E) 06 Message Keith about the photo 
+x 2025-08-25 03 Cut nails +Health    
+x 2025-08-25 03 Trim nose hair +Health    
+x 2025-08-25 04 Check Passports are in the safe
+x 2025-08-25 05 Floss +Health   
+x 2025-08-25 05 Take good photo of the LOLDolls house
+x 2025-08-25 06 Message Keith about the photo 
 (D) 10 Check starred messages in kat whatsapp 
-(E) 10 Create  very small black and white test prints for 3d printer
-(E) 10 Cut Leo nails +Health    
+x 2025-08-25 10 Creae  very small black and white test prints for 3d printer
+x 2025-08-25 10 Cut Leo nails +Health    
 (E) 10 Fix extra monitor
 (E) 10 Get and Wash BBQ grill  @garage
 (C) 10 Review and re-score  Wheel Of life
