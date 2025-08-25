@@ -8512,3 +8512,7 @@ x 2025-08-25 Review your highlights and notes from Kindle books (https://read.am
 x 2025-08-25 TSE +Health  
 x 2025-08-25 deploy any commits from OVF that are hanging around. 
 x 2025-08-25 process Garage inbox. 
+x 2025-08-25 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2025-08-25 Give laptop screen a good clean +Overhead
+x 2025-08-25 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2025-08-25 Write Moonpig cards for this month +Overhead
