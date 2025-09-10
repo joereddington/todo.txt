@@ -22,3 +22,5 @@
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 20 Fix countdown timer (code) 
 (E) 50 Write 1,000 words +offline
+(E) do herts timesheets
+(E) Print a tiny pillbox
