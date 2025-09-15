@@ -1,9 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) process emotional todo list. 
-(A) process emotional todo list.  +offline 
 (A) Tighen up everything on Leo bike
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 03 Blue tack or tape for putting parking sticker in  +offline 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 15 Confirm the flowers for turing blog is showing the pages you want
@@ -11,26 +6,20 @@
 (C) 30 Setup moodle for IY3501 next year 
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(C) Review and re-score  Wheel Of life
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Do full accounts algorithm +EQT 
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) Sort out Kat's email address
-(D) Sync the photoshop directroy
 (E) 03 Save a nice family memory +Family @phone     +offline
 (E) 03 Trim nose hair +Health     +offline
-(E) 05 Cut Leo nails +Health     +offline
 (E) 05 Floss +Health   
 (E) 10 Do another hour on the blender course
 (E) 10 Empty Joe inbox completely +Overhead     +offline
-(E) 10 Fix extra monitor
 (E) 10 Search for a much smaller BBQ grill  
-(E) 10 Update Vicious cycle Arduino so that it uses the alarm version. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Fix countdown timer (code) 
@@ -45,12 +34,6 @@
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
 (E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
-(E) do herts timesheets
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
@@ -61,18 +44,19 @@
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Make Turbo trainer stands for the kids 
+(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) share your gift policy on the social networks.    @phone 
 (E) Switch book cover and prices back 
-(E) Trim nose hair +Health    
 (E) TSE +Health  
+(E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
+(E) do herts timesheets
+(E) process Garage inbox. 
+(E) 03 share your gift policy on the social networks.    @phone 

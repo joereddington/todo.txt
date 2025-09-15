@@ -8557,3 +8557,18 @@ x 2025-09-01 Clear the folders on the 3d printer SD card
 x 2025-09-15 10 Check starred messages in kat whatsapp  +offline 
 x 2025-09-15 20 process Garage inbox.  +offline
 x 2025-09-15 Print a tiny pillbox
+x 2025-09-15 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2025-09-15 Cut Nova and Leo nails +Health    
+x 2025-09-15 Cut nails +Health    
+x 2025-09-15 Do Menu for the week +Family  @phone   
+x 2025-09-15 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2025-09-15 05 Cut Leo nails +Health     +offline
+x 2025-09-15 10 Fix extra monitor
+x 2025-09-15 10 Update Vicious cycle Arduino so that it uses the alarm version. 
+x 2025-09-15 Sync the photoshop directroy
+x 2025-09-15 Review and re-score  Wheel Of life
+x 2025-09-15 deploy any commits from OVF that are hanging around. 
+x 2025-09-15 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2025-09-15 Make sure you have booked a bunch of leave from RHUL 
+x 2025-09-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-09-15 process emotional todo list.  +offline 
