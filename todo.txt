@@ -1,19 +1,34 @@
-(A) Tighen up everything on Leo bike
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) process emotional todo list. 
 (A) process emotional todo list.  +offline 
+(A) Tighen up everything on Leo bike
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 03 Blue tack or tape for putting parking sticker in  +offline 
+(C) 10 Year plan: check you have 5 projects in each part
 (C) 15 Confirm the flowers for turing blog is showing the pages you want
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) 30 Setup moodle for IY3501 next year 
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
+(C) Check that IMPS will run locally and that it can sync up.  +EQT
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) deploy any commits from OVF that are hanging around. 
+(C) Review and re-score  Wheel Of life
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (D) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
+(D) Check starred messages in kat whatsapp 
+(D) Clean out Fridge
+(D) Do full accounts algorithm +EQT 
+(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) Sort out Kat's email address
+(D) Sync the photoshop directroy
 (E) 03 Save a nice family memory +Family @phone     +offline
 (E) 03 Trim nose hair +Health     +offline
 (E) 05 Cut Leo nails +Health     +offline
 (E) 05 Floss +Health   
+(E) 10 Do another hour on the blender course
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Fix extra monitor
-(E) 10 Do another hour on the blender course
 (E) 10 Search for a much smaller BBQ grill  
 (E) 10 Update Vicious cycle Arduino so that it uses the alarm version. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
@@ -22,6 +37,42 @@
 (E) 20 Upgrade watson to python3
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Make Turbo trainer stands for the kids 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Backup AWS +EQT
+(E) Check Passports are in the safe
+(E) Check ranking scripts +Overhead
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Check wishlist
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut nails +Health    
+(E) Cut Nova and Leo nails +Health    
 (E) do herts timesheets
+(E) Do Menu for the week +Family  @phone   
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Floss +Health   
+(E) Give laptop screen a good clean +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Listen to  Randy Pausch Talk +Overhead @phone  
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Make sure you have a continual professional developement practice happening  +EQT
+(E) Make Turbo trainer stands for the kids 
+(E) Post to Vegan Facebook group  @phone   
+(E) process Garage inbox. 
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Publicly thank someone +Overhead  
+(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) Review starred items in feeds +Overhead +EQT
+(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) Save a nice family memory +Family @phone    
+(E) share your gift policy on the social networks.    @phone 
 (E) Switch book cover and prices back 
+(E) Trim nose hair +Health    
+(E) TSE +Health  
+(E) Write Moonpig cards for this month +Overhead
