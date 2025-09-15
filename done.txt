@@ -8554,3 +8554,6 @@ x 2025-09-01 Check that everything in the 'in process' box really does have a ta
 x 2025-09-01 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2025-09-01 Post to Vegan Facebook group  @phone   
 x 2025-09-01 Clear the folders on the 3d printer SD card 
+x 2025-09-15 10 Check starred messages in kat whatsapp  +offline 
+x 2025-09-15 20 process Garage inbox.  +offline
+x 2025-09-15 Print a tiny pillbox

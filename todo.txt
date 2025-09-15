@@ -1,29 +1,26 @@
 (A) Tighen up everything on Leo bike
+(A) process emotional todo list.  +offline 
+(C) 03 Blue tack or tape for putting parking sticker in  +offline 
 (C) 15 Confirm the flowers for turing blog is showing the pages you want
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) 30 Setup moodle for IY3501 next year 
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
-(A) process emotional todo list.  +offline 
-(D) 10 Check starred messages in kat whatsapp  +offline 
 (D) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
+(D) Sort out Kat's email address
 (E) 03 Save a nice family memory +Family @phone     +offline
-(C) 03 Blue tack or tape for putting parking sticker in  +offline 
 (E) 03 Trim nose hair +Health     +offline
 (E) 05 Cut Leo nails +Health     +offline
 (E) 05 Floss +Health   
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Fix extra monitor
-(E) 10 Map a 100 hours blender modeling course: search the moodles, university libraries, and so on. 
+(E) 10 Do another hour on the blender course
 (E) 10 Search for a much smaller BBQ grill  
 (E) 10 Update Vicious cycle Arduino so that it uses the alarm version. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 20 Close down the WWW server again (find notes)  @internet
-(E) 20 Upgrade watson to python3
-(E) 20 process Garage inbox.  +offline
-(E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 20 Fix countdown timer (code) 
+(E) 20 Upgrade watson to python3
+(E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
+(E) Make Turbo trainer stands for the kids 
 (E) do herts timesheets
-(E) Print a tiny pillbox
-(D) Sort out Kat's email address
-(E) Make racing stands for the kids 
