@@ -24,3 +24,4 @@
 (E) 50 Write 1,000 words +offline
 (E) Make Turbo trainer stands for the kids 
 (E) do herts timesheets
+(E) Switch book cover and prices back 
