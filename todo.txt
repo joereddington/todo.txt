@@ -6,6 +6,7 @@
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 20 Close down the WWW server again (find notes)  @internet
+(E) Put old bike outside for scrap
 (E) 20 Make Turbo trainer stands for the kids @garagae
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (B Herts) 15 do herts timesheets
