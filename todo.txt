@@ -15,7 +15,6 @@
 (D Kat) 20 Sort out Kat's email address
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
-(E) Work out handover times with Kat
 (E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
 (E) 50 Write 1,000 words +offline
 (E) 20 Run mgit status on the git directory and process all alerts +EQT
