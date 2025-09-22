@@ -1,37 +1,29 @@
-(A Leo) 10 Tighen up everything on Leo bike
-(B Herts) 15 do herts timesheets
-(D) 03 Blue tack or tape for putting parking sticker in  +offline 
-(C) 10 Year plan: check you have 5 projects in each part
-(D) 15 Confirm the flowers for turing blog is showing the pages you want
-(D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(B) 30 Setup moodle for IY3501 next year 
-(E) Run mgit status on the git directory and process all alerts +EQT
+(E) Paint Leo's chair again @garage 
+(E) Cut top for Nova's chair @garage
+(E) 10 process Garage inbox. @garage
+(E) 10 Watch another hour on the blender course @phone
+(E) 05 Floss +Health   @bathroom 
+(E) 03 Trim nose hair +Health     @bathroom 
+(E) 03 Blue tack or tape for putting parking sticker in  +offline  @gargae 
+(D Nova ) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller @office
+(A Leo) 10 Tighten up everything on Leo bike @garage
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
-(D Kat) 20 Sort out Kat's email address
-(D Nova ) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
-(E) 02 TSE +Health  
-(E) 03 Save a nice family memory +Family @phone     +offline
-(E) 03 Trim nose hair +Health    
-(E) 03 Trim nose hair +Health     +offline
+(D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 03 share your gift policy on the social networks.    @phone 
-(E) 05 Floss +Health   
-(E) 05 Floss +Health   
-(E) 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) 10 Do another hour on the blender course
+(E) 20 Close down the WWW server again (find notes)  @internet
+(E) 20 Make Turbo trainer stands for the kids @garagae
+(E) 40 Put more paint on Leo chair  @garage  +offline
+(B Herts) 15 do herts timesheets
+(B) 30 Setup moodle for IY3501 next year 
+(C) 10 Year plan: check you have 5 projects in each part
+(D Kat) 20 Sort out Kat's email address
 (E) 10 Empty Joe inbox completely +Overhead     +offline
-(E) 10 Get A3 paper 
 (E) 10 Give laptop screen a good clean +Overhead
-(E) 10 Search for a much smaller BBQ grill  
 (E) 10 Send the comic you made to two people you were pitching comics to. 
-(E) 10 process Garage inbox. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 15 Print out list of where to store all the vegtables
 (E) 15 Switch book cover and prices back 
-(E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Fix countdown timer (code) 
-(E) 20 Make Turbo trainer stands for the kids 
-(E) 20 Upgrade watson to python3
-(E) 20 Work on the kids chairs
-(E) 40 Get watson back and properly production visualisations 
-(E) 40 Put more paint on Leo chair  @garage  +offline
+(E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
 (E) 50 Write 1,000 words +offline
+(E) 20 Run mgit status on the git directory and process all alerts +EQT
