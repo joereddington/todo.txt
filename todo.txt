@@ -1,71 +1,37 @@
-(A) Do the project allocation 
-(A) Email about the international students 
-(A) Tighen up everything on Leo bike
-(B) Get watson back and properly production visualisations 
-(C) 02 Lookup richr
-(C) 03 Blue tack or tape for putting parking sticker in  +offline 
+(A Leo) 10 Tighen up everything on Leo bike
+(B Herts) 15 do herts timesheets
+(D) 03 Blue tack or tape for putting parking sticker in  +offline 
 (C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Confirm the flowers for turing blog is showing the pages you want
-(C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(C) 30 Setup moodle for IY3501 next year 
-(C) Buy kettle
-(C) Check that IMPS will run locally and that it can sync up.  +EQT
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(D) 15 Confirm the flowers for turing blog is showing the pages you want
+(D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(B) 30 Setup moodle for IY3501 next year 
+(E) Run mgit status on the git directory and process all alerts +EQT
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
-(D) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
-(D) Sort out Kat's email address
+(D Kat) 20 Sort out Kat's email address
+(D Nova ) 20 Take Nova Car apart, plan layout,  and  solder up two of the wheels to the controller 
+(E) 02 TSE +Health  
 (E) 03 Save a nice family memory +Family @phone     +offline
+(E) 03 Trim nose hair +Health    
 (E) 03 Trim nose hair +Health     +offline
 (E) 03 share your gift policy on the social networks.    @phone 
 (E) 05 Floss +Health   
+(E) 05 Floss +Health   
+(E) 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 10 Do another hour on the blender course
 (E) 10 Empty Joe inbox completely +Overhead     +offline
+(E) 10 Get A3 paper 
+(E) 10 Give laptop screen a good clean +Overhead
 (E) 10 Search for a much smaller BBQ grill  
+(E) 10 Send the comic you made to two people you were pitching comics to. 
+(E) 10 process Garage inbox. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 15 Print out list of where to store all the vegtables
+(E) 15 Switch book cover and prices back 
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Fix countdown timer (code) 
+(E) 20 Make Turbo trainer stands for the kids 
 (E) 20 Upgrade watson to python3
+(E) 20 Work on the kids chairs
+(E) 40 Get watson back and properly production visualisations 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Backup AWS +EQT
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
-(E) Get A3 paper 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make Turbo trainer stands for the kids 
-(E) Make sure you have a continual professional developement practice happening  +EQT
-(E) Post to Vegan Facebook group  @phone   
-(E) Print out list of where to storeall teh egtabels
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
-(E) Send the comic you made to two people you were pitching comics to. 
-(E) Switch book cover and prices back 
-(E) TSE +Health  
-(E) Trim nose hair +Health    
-(E) Work on the kids chairs
-(E) Write Moonpig cards for this month +Overhead
-(E) do herts timesheets
-(E) process Garage inbox. 
