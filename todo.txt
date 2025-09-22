@@ -19,7 +19,6 @@
 (D Kat) 20 Sort out Kat's email address
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
-(E) 10 Send the comic you made to two people you were pitching comics to. 
 (E) 12 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 15 Print out list of where to store all the vegtables
 (E) 15 Switch book cover and prices back 
