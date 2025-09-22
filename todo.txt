@@ -15,7 +15,6 @@
 (D Kat) 20 Sort out Kat's email address
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
-(E) 15 Print out list of where to store all the vegtables
 (E) 15 Switch book cover and prices back 
 (E) 20 Fix countdown timer (code) 
 (E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
