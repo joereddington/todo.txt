@@ -1,15 +1,14 @@
+(A) Do the project allocation 
+(A) Email about the international students 
 (A) Tighen up everything on Leo bike
 (B) Get watson back and properly production visualisations 
-(C) Buy kettle
 (C) 02 Lookup richr
-(E) Print out list of where to storeall teh egtabels
-(E) Send the comic you made to two people you were pitching comics to. 
-(E) Get A3 paper 
 (C) 03 Blue tack or tape for putting parking sticker in  +offline 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 15 Confirm the flowers for turing blog is showing the pages you want
 (C) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (C) 30 Setup moodle for IY3501 next year 
+(C) Buy kettle
 (C) Check that IMPS will run locally and that it can sync up.  +EQT
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Run mgit status on the git directory and process all alerts +EQT
@@ -22,6 +21,7 @@
 (D) Sort out Kat's email address
 (E) 03 Save a nice family memory +Family @phone     +offline
 (E) 03 Trim nose hair +Health     +offline
+(E) 03 share your gift policy on the social networks.    @phone 
 (E) 05 Floss +Health   
 (E) 10 Do another hour on the blender course
 (E) 10 Empty Joe inbox completely +Overhead     +offline
@@ -43,6 +43,7 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
+(E) Get A3 paper 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
@@ -53,18 +54,18 @@
 (E) Make Turbo trainer stands for the kids 
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to Vegan Facebook group  @phone   
+(E) Print out list of where to storeall teh egtabels
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
+(E) Send the comic you made to two people you were pitching comics to. 
 (E) Switch book cover and prices back 
 (E) TSE +Health  
 (E) Trim nose hair +Health    
+(E) Work on the kids chairs
 (E) Write Moonpig cards for this month +Overhead
 (E) do herts timesheets
 (E) process Garage inbox. 
-(E) 03 share your gift policy on the social networks.    @phone 
-(A) Do the project allocation 
-(E) Work on the kids chairs
