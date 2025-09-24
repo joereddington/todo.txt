@@ -1,4 +1,5 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
+(C) Check in with Kat about working hours 
 (A) Do the delay repay thing 
 (A) Fix the OVF server 
 (A) Write your script for the opening lecture 
