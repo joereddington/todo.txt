@@ -1,4 +1,5 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
+(A) Do the delay repay thing 
 (B Herts) 15 do herts timesheets
 (B) 30 Setup moodle for IY3501 next year 
 (C) 10 Year plan: check you have 5 projects in each part
