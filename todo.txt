@@ -4,9 +4,10 @@
 (A) Make the list of everything that needs to be done for the start of term: email the modules, setup Moodle, finalise courseworks. 
 (A) Write your script for the opening lecture 
 (B Herts) 15 do herts timesheets
-(B) Reply ben 
 (B) 30 Setup moodle for IY3501 next year 
+(B) Draft they 'ethics' email 
 (B) Make list of people for D20 
+(B) Reply ben 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) Check in with Kat about working hours 
 (C) Complete Job application  
@@ -17,11 +18,7 @@
 (C) Setup HMRC payment in unity 
 (D Kat) 20 Sort out Kat's email address
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
-(E) Pump up tyres and put lock on bike 
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(E) Email the potential guest lecturers 
-(E) Badger Peter about review
-(B) Draft they 'ethics' email 
 (D) Work out the whole Google Ads things
 (E) 02 Put old bike outside for scrap
 (E) 10 Empty Joe inbox completely +Overhead     +offline
@@ -35,5 +32,8 @@
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
 (E) Add prayer to the slides and the Asked questions list
+(E) Badger Peter about review
 (E) Cut top for Nova's chair @garage
+(E) Email the potential guest lecturers 
 (E) Paint Leo's chair again @garage 
+(E) Pump up tyres and put lock on bike 
