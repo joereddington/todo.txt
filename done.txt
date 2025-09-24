@@ -8621,3 +8621,6 @@ x 2025-09-22 15 Print out list of where to store all the vegtables
 x 2025-09-22 15 Switch book cover and prices back 
 x 2025-09-22 20 Fix countdown timer (code) 
 x 2025-09-22 Work out handover times with Kat
+x 2025-09-24 Do the delay repay thing 
+x 2025-09-24 Pump up tyres and put lock on bike 
+x 2025-09-24 03 Put in Calendar a 'review normal projects event'

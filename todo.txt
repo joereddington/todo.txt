@@ -1,39 +1,36 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
-(A) Do the delay repay thing 
-(A) Fix the OVF server 
-(A) Make the list of everything that needs to be done for the start of term: email the modules, setup Moodle, finalise courseworks. 
-(A) Write your script for the opening lecture 
+(A) 10 Make the list of everything that needs to be done for the start of term: email the modules, setup Moodle, finalise courseworks. 
+(A) 25 Fix the OVF server  - start by rebooting it 
+(A) 60 Write your script for the opening lecture 
 (B Herts) 15 do herts timesheets
+(B) 03 Reply ben 
+(B) 06 Make list of people for D20 
+(B) 10 Draft the 'ethics' email and send to Rikke for approval 
 (B) 30 Setup moodle for IY3501 next year 
-(B) Draft they 'ethics' email 
-(B) Make list of people for D20 
-(B) Reply ben 
+(C) 02 Check in with Kat about working hours 
+(C) 08 Print out the Trick or treat leaflets 
+(C) 10 Map the accounts project for the year 
+(C) 10 Process the CT600 for this year and last year 
+(C) 10 Setup HMRC payment in unity 
 (C) 10 Year plan: check you have 5 projects in each part
-(C) Check in with Kat about working hours 
-(C) Complete Job application  
-(C) Map the accounts project for the year 
-(C) Print out the Trick or treat leaflets 
-(C) Process the CT600 for this year and last year 
-(C) Put in Calendar a 'review normal projects event'
-(C) Setup HMRC payment in unity 
+(C) 20 Complete Job application  NA: find the document with the answered questions 
 (D Kat) 20 Sort out Kat's email address
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
+(D) 20 Work out the whole Google Ads things
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(D) Work out the whole Google Ads things
+(E) 02 Badger Peter about review
 (E) 02 Put old bike outside for scrap
+(E) 05 Add prayer to the slides and the Asked questions list
+(E) 10 Email the potential guest lecturers 
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
 (E) 10 Watch another hour on the blender course @phone
 (E) 10 process Garage inbox. @garage
+(E) 16 Paint Leo's chair again @garage 
 (E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Make Turbo trainer stands for the kids @garagae
 (E) 20 Run mgit status on the git directory and process all alerts +EQT
 (E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Add prayer to the slides and the Asked questions list
-(E) Badger Peter about review
 (E) Cut top for Nova's chair @garage
-(E) Email the potential guest lecturers 
-(E) Paint Leo's chair again @garage 
-(E) Pump up tyres and put lock on bike 
