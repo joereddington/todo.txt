@@ -1,4 +1,5 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
+(C) Complete Job application  
 (C) Check in with Kat about working hours 
 (A) Do the delay repay thing 
 (A) Fix the OVF server 
@@ -7,6 +8,7 @@
 (B) 30 Setup moodle for IY3501 next year 
 (C) 10 Year plan: check you have 5 projects in each part
 (D Kat) 20 Sort out Kat's email address
+(B) Make list of people for D20 
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 02 Put old bike outside for scrap
@@ -23,3 +25,5 @@
 (E) Add prayer to the slides and the Asked questions list
 (E) Cut top for Nova's chair @garage
 (E) Paint Leo's chair again @garage 
+(D) Work out the whole Google Ads things
+(C) Print out the Trick or treat leaflets 
