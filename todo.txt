@@ -1,5 +1,7 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
 (A) Do the delay repay thing 
+(A) Fix the OVF server 
+(A) Write your script for the opening lecture 
 (B Herts) 15 do herts timesheets
 (B) 30 Setup moodle for IY3501 next year 
 (C) 10 Year plan: check you have 5 projects in each part
@@ -17,7 +19,6 @@
 (E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
+(E) Add prayer to the slides and the Asked questions list
 (E) Cut top for Nova's chair @garage
 (E) Paint Leo's chair again @garage 
-(A) Fix the OVF server 
-(A) Write your script for the opening lecture 
