@@ -8624,3 +8624,4 @@ x 2025-09-22 Work out handover times with Kat
 x 2025-09-24 Do the delay repay thing 
 x 2025-09-24 Pump up tyres and put lock on bike 
 x 2025-09-24 03 Put in Calendar a 'review normal projects event'
+x 2025-09-25 02 Put old bike outside for scrap
