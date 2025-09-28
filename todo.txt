@@ -1,12 +1,8 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
-(A) 10 Make the list of everything that needs to be done for the start of term: email the modules, setup Moodle, finalise courseworks. 
 (A) 25 Fix the OVF server  - start by rebooting it 
-(A) 60 Write your script for the opening lecture 
 (B Herts) 15 do herts timesheets
 (B) 03 Reply ben 
-(B) 06 Make list of people for D20 
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
-(B) 30 Setup moodle for IY3501 next year 
 (C) 02 Check in with Kat about working hours 
 (C) 08 Print out the Trick or treat leaflets 
 (C) 10 Map the accounts project for the year 
@@ -32,4 +28,4 @@
 (E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Cut top for Nova's chair @garage
+(E) 10 Cut top for Nova's chair @garage

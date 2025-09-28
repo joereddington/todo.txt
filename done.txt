@@ -8625,3 +8625,7 @@ x 2025-09-24 Do the delay repay thing
 x 2025-09-24 Pump up tyres and put lock on bike 
 x 2025-09-24 03 Put in Calendar a 'review normal projects event'
 x 2025-09-25 02 Put old bike outside for scrap
+x 2025-09-28 10 Make the list of everything that needs to be done for the start of term: email the modules, setup Moodle, finalise courseworks. 
+x 2025-09-28 60 Write your script for the opening lecture 
+x 2025-09-28 06 Make list of people for D20 
+x 2025-09-28 30 Setup moodle for IY3501 next year 
