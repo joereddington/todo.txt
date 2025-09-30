@@ -3,7 +3,12 @@
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
 (C) 02 Check in with Kat about working hours 
 (C) 08 Print out the Trick or treat leaflets 
+(E) Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
 (C) 10 Map the accounts project for the year 
+(A) Setup formative assessments 
+(A) Write slides for Friday  
+(A) Upload Video to panopto and put on Moodle as well 
+(C) Write notes for the introduction/Context 
 (C) 10 Process the CT600 for this year and last year 
 (C) 10 Setup HMRC payment in unity 
 (C) 10 Year plan: check you have 5 projects in each part
@@ -20,10 +25,8 @@
 (E) 10 Watch another hour on the blender course @phone
 (E) 10 process Garage inbox. @garage
 (E) 16 Paint Leo's chair again @garage 
-(E) 20 Close down the WWW server again (find notes)  @internet
 (E) 20 Make Turbo trainer stands for the kids @garagae
-(E) 20 Run mgit status on the git directory and process all alerts +EQT
-(E) 40 Get watson back and properly production visualisations  (upgrade to python3 as well) 
+x 2025-09-30 20 Run mgit status on the git directory and process all alerts +EQT
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
 (E) 10 Cut top for Nova's chair @garage
