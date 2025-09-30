@@ -1,4 +1,5 @@
 (A) Do printing for Halloween 
+(E) put straps on the bed 
 (A) Message neighbours about halloween 
 (A) Setup formative assessments 
 (A) Upload Video to panopto and put on Moodle as well 
@@ -22,16 +23,12 @@
 (D) Take the sofa bed appart
 (E) 02 Badger Peter about review
 (E) 10 Cut top for Nova's chair @garage
-(E) 10 Email the potential guest lecturers 
-(E) 10 Empty Joe inbox completely +Overhead     +offline
-(E) 10 Give laptop screen a good clean +Overhead
-(E) 10 Watch another hour on the blender course @phone
+(D) 10 Watch another hour on the blender course @phone
 (E) 10 process Garage inbox. @garage
 (E) 16 Paint Leo's chair again @garage 
 (E) 20 Make Turbo trainer stands for the kids @garagae
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Event to check in with the exchange student 
 (E) Find out about generative AI on iterm2 
 (E) Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
 (E) Review changes in GenAi since 2023
