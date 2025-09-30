@@ -1,26 +1,28 @@
+(A) Do printing for Halloween 
+(A) Message neighbours about halloween 
+(A) Setup formative assessments 
+(A) Upload Video to panopto and put on Moodle as well 
+(A) Write slides for Friday  
 (B Herts) 15 do herts timesheets
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
 (C) 02 Check in with Kat about working hours 
 (C) 08 Print out the Trick or treat leaflets 
-(E) Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
 (C) 10 Map the accounts project for the year 
-(A) Setup formative assessments 
-(A) Write slides for Friday  
-(A) Upload Video to panopto and put on Moodle as well 
-(C) Write notes for the introduction/Context 
 (C) 10 Process the CT600 for this year and last year 
 (C) 10 Setup HMRC payment in unity 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 20 Complete Job application  NA: find the document with the answered questions 
+(C) Python version of CASPER 
+(C) Write notes for the introduction/Context 
+(C) read project handbook 
 (D Kat) 20 Sort out Kat's email address
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 20 Work out the whole Google Ads things
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(D) Take the sofa bed appart
 (E) 02 Badger Peter about review
+(E) 10 Cut top for Nova's chair @garage
 (E) 10 Email the potential guest lecturers 
-(A) Do printing for Halloween 
-(A) Message neighbours about halloween 
-(C) read project handbook 
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
 (E) 10 Watch another hour on the blender course @phone
@@ -29,9 +31,9 @@
 (E) 20 Make Turbo trainer stands for the kids @garagae
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) 10 Cut top for Nova's chair @garage
-Find out about generative AI on iterm2 
-Review changes in GenAi since 2023
-Watch next blender video 
-Write script that pulls all the student gitlabs 
-Python version of CASPER 
+(E) Event to check in with the exchange student 
+(E) Find out about generative AI on iterm2 
+(E) Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
+(E) Review changes in GenAi since 2023
+(E) Watch next blender video 
+(E) Write script that pulls all the student gitlabs 
