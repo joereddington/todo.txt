@@ -20,6 +20,7 @@
 (E) 10 Email the potential guest lecturers 
 (A) Do printing for Halloween 
 (A) Message neighbours about halloween 
+(C) read project handbook 
 (E) 10 Empty Joe inbox completely +Overhead     +offline
 (E) 10 Give laptop screen a good clean +Overhead
 (E) 10 Watch another hour on the blender course @phone
@@ -29,3 +30,6 @@
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
 (E) 10 Cut top for Nova's chair @garage
+Find out about generative AI on iterm2 
+Review changes in GenAi since 2023
+Watch next blender video 
