@@ -1,7 +1,5 @@
 (A Leo) 10 Tighten up everything on Leo bike @garage
-(A) 25 Fix the OVF server  - start by rebooting it 
 (B Herts) 15 do herts timesheets
-(B) 03 Reply ben 
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
 (C) 02 Check in with Kat about working hours 
 (C) 08 Print out the Trick or treat leaflets 
