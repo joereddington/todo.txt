@@ -8634,3 +8634,4 @@ x 2025-09-30 03 Reply ben
 x 2025-09-30 20 Close down the WWW server again (find notes)  @internet
 x 2025-09-30 (A Leo) 10 Tighten up everything on Leo bike @garage
 x 2025-09-30 20 Run mgit status on the git directory and process all alerts +EQT
+x 2025-09-30 05 Add prayer to the slides and the Asked questions list
