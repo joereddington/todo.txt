@@ -35,4 +35,3 @@ Review changes in GenAi since 2023
 Watch next blender video 
 Write script that pulls all the student gitlabs 
 Python version of CASPER 
-
