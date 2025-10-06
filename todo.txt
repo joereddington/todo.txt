@@ -1,34 +1,27 @@
-(C) 02 Check in with Kat about working hours 
-(E) 02 Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
-(E) 05 Write script that pulls all the student gitlabs 
-(E) 05 put straps on the bed 
-(C) 08 Print out the Trick or treat leaflets 
-(E) 10 Cut top for Nova's chair @garage
+(A) Setup formative assessments 
+(A) Upload Video to panopto and put on Moodle as well 
+(A) Write slides for Friday  
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
-(E) 10 Find out about generative AI on iterm2 
+(C) 02 Check in with Kat about working hours 
 (C) 10 Map the accounts project for the year 
 (C) 10 Process the CT600 for this year and last year 
-(E) 10 Review changes in GenAi since 2023
 (C) 10 Setup HMRC payment in unity 
-(D) 10 Watch another hour on the blender course @phone
 (C) 10 Year plan: check you have 5 projects in each part
-(E) 10 process Garage inbox. @garage
-(B Herts) 15 do herts timesheets
-(E) 16 Paint Leo's chair again @garage 
-(C) 20 Complete Job application  NA: find the document with the answered questions 
-(E) 20 Make Turbo trainer stands for the kids @garagae
+(C) read project handbook 
 (D Kat) 20 Sort out Kat's email address
+(D Kat) 40 Put Router on architrave wood in @garage +offline 
+(D) 10 Watch another hour on the blender course @phone
 (D) 20 Work out the whole Google Ads things
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
+(E) 02 Put in insicdent management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
+(E) 05 Write script that pulls all the student gitlabs 
+(E) 05 put bolts on the sofa bed 
+(E) 10 Cut top for Nova's chair @garage
+(E) 10 Find out about generative AI on iterm2 
+(E) 10 Review changes in GenAi since 2023
+(E) 10 process Garage inbox. @garage
+(E) 16 Paint Leo's chair again @garage 
+(E) 20 Make Turbo trainer stands for the kids @garagae
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
 (E) 60 Watch next blender video 
-(A) 15 Do printing for Halloween 
-(A) 02 Message neighbours about halloween 
-(C) 30 Python version of CASPER 
-(A) Setup formative assessments 
-(A) Upload Video to panopto and put on Moodle as well 
-(C) Write notes for the introduction/Context 
-(A) Write slides for Friday  
-(C) read project handbook 

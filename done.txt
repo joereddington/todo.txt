@@ -8641,3 +8641,10 @@ x 2025-09-30 10 Email the potential guest lecturers
 x 2025-09-30 Event to check in with the exchange student 
 x 2025-09-30 02 Badger Peter about review
 x 2025-09-30 Take the sofa bed appart
+x 2025-10-06 02 Message neighbours about halloween 
+x 2025-10-06 15 Do printing for Halloween 
+x 2025-10-06 (B Herts) 15 do herts timesheets
+x 2025-10-06 08 Print out the Trick or treat leaflets 
+x 2025-10-06 20 Complete Job application  NA: find the document with the answered questions 
+x 2025-10-06 30 Python version of CASPER 
+x 2025-10-06 Write notes for the introduction/Context 
