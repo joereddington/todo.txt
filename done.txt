@@ -8648,3 +8648,5 @@ x 2025-10-06 08 Print out the Trick or treat leaflets
 x 2025-10-06 20 Complete Job application  NA: find the document with the answered questions 
 x 2025-10-06 30 Python version of CASPER 
 x 2025-10-06 Write notes for the introduction/Context 
+x 2025-10-06 10 Find out about generative AI on iterm2 
+x 2025-10-06 10 Review changes in GenAi since 2023

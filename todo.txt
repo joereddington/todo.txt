@@ -17,8 +17,6 @@
 (E) 05 Write script that pulls all the student gitlabs 
 (E) 05 put bolts on the sofa bed 
 (E) 10 Cut top for Nova's chair @garage
-(E) 10 Find out about generative AI on iterm2 
-(E) 10 Review changes in GenAi since 2023
 (E) 10 process Garage inbox. @garage
 (E) 16 Paint Leo's chair again @garage 
 (E) 20 Make Turbo trainer stands for the kids @garage
