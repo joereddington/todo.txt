@@ -1,4 +1,4 @@
-(A) Create a set slide for Casper with opt-out, more information and the barcode   
+x 2025-10-07 Create a set slide for Casper with opt-out, more information and the barcode   
 (A) Setup formative assessments 
 (A) Upload Video to panopto and put on Moodle as well 
 (A) Write slides for Friday  
@@ -6,6 +6,7 @@
 (C) 10 Setup HMRC payment in unity 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 33 Lengths at swimming 
+(C) Book the demo day for ISG projects
 (C) Book leave 1st December and 12 January 
 (C) Sketch the courses that LCK asked for 
 (C) Upgrade the gym membership 
@@ -38,3 +39,4 @@
 (E)  Check the www email works
 (E)  Badger Salto and tell them the days Nova is free
 (E) 15 Spend 15 minutes with the a3 paper
+(E) Book a HM for early next year    
