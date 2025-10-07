@@ -30,12 +30,13 @@
 (E) Do a meal plan for the kids
 (E) It would be cool if the internet bar chart had red and green days for things like email 
 (E) Do a brainstorm on 'unspoken truths' 
-(E)  Rename countdown to dogbert  
+(E) Rename countdown to dogbert  
 (E) Find a new place for the 3d printer 
-(E)  Find out if canceling invites in RHUL cleans up your Google Calendar
-(E)  Check the www email works
-(E)  Badger Salto and tell them the days Nova is free
+(E) Find out if canceling invites in RHUL cleans up your Google Calendar
+(E) Check the www email works
+(E) Badger Salto and tell them the days Nova is free
 (E) 15 Spend 15 minutes with the a3 paper
 (E) Book a HM for early next year    
 (E) Next blender video 
 (E) Put in the expenses claims for the end of last year. 
+(E) Do some computer work with Leo 
