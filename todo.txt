@@ -12,7 +12,6 @@
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 (E) 02 Check the www email works by emailing from RHUL  +EQT
 (E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears +RHUL 
-(E) 02 Rename countdown to dogbert  
 (E) 03 Follow up with Project Real web design  
 (E) 04 Check date of last payment from EQT for self assessment
 (E) 04 Get RHUL P60 for Self assessment tax.  
