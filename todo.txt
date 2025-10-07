@@ -1,43 +1,43 @@
-(A) Setup formative assessments 
-(A) Upload Video to panopto and put on Moodle as well 
-(A) Write slides for Friday  
+(E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears +RHUL
+(E) 05 Write script that pulls all the student gitlabs  +RHUL
+(E) 05 put bolts on the sofa bed  
 (B) 10 Draft the 'ethics' email and send to Rikke for approval 
 (C) 10 Setup HMRC payment in unity 
 (C) 10 Year plan: check you have 5 projects in each part
-(C) 33 Lengths at swimming 
-(C) Book the demo day for ISG projects
-(C) Book leave 1st December and 12 January 
-(C) Sketch the courses that LCK asked for 
-(C) Upgrade the gym membership 
-(C) read project handbook for FYP
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
+(E) 10 finish top for Nova's chair @garage
+(E) 15 Spend 15 minutes with the a3 paper
+(E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (D) 20 Work out the whole Google Ads things
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
-(E) 05 Write script that pulls all the student gitlabs 
-(E) 05 put bolts on the sofa bed 
-(E) 10 finish top for Nova's chair @garage
-(E) 20 Cut wood for Turbo trainer stand for the kids @garage
+(C) 90 go and do 33 Lengths at swimming 
+(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
-(E) Attach the metal bar to the side of the house @garage 
-(E) Fix the master slide on all the future slides
-(E) Read the everything you need to know about EQT accounts document
-(E) Review the security spreadsheet 
-(E) Get RHUL P60 for Self assessment tax.  
-(E) Check last payment from EQT for self assessment
-(E) Follow up with Project Real web design 
-(E) Do a meal plan for the kids
+(E) 20 Attach the metal bar to the side of the house @garage 
+x 2025-10-07 03 Badger Salto and tell them the days Nova is free
+(E) 10 Book a HM for early next year    
+x 2025-10-07 05 Book leave 1st December and 12 January 
+x 2025-10-07 Book the demo day for ISG projects
+(E) 04 Check date of last payment from EQT for self assessment
+(E) Check the www email works by emailing from RHUL 
+(E) 10 Do a brainstorm on 'unspoken truths' 
+(E) 10 Do a meal plan for the kids
+(E) 20 Do some computer work with Leo 
+(E) Find a new place for the 3d printer - Bedroom technically works 
+x 2025-10-07 Find out if canceling invites in RHUL cleans up your Google Calendar
+(E) Fix the master slide on all the future slides +RHUL 
+(E) 03 Follow up with Project Real web design  
+(E) 04 Get RHUL P60 for Self assessment tax.  
 (E) It would be cool if the internet bar chart had red and green days for things like email 
-(E) Do a brainstorm on 'unspoken truths' 
-(E) Rename countdown to dogbert  
-(E) Find a new place for the 3d printer 
-(E) Find out if canceling invites in RHUL cleans up your Google Calendar
-(E) Check the www email works
-(E) Badger Salto and tell them the days Nova is free
-(E) 15 Spend 15 minutes with the a3 paper
-(E) Book a HM for early next year    
 (E) Next blender video 
-(E) Put in the expenses claims for the end of last year. 
-(E) Do some computer work with Leo 
 (E) Put a bunch more references into Moodle 
+(E) Put in the expenses claims for the end of last year. 
+(E) Read the everything you need to know about EQT accounts document
+(E) Rename countdown to dogbert  
+(E) Review the security spreadsheet 
+(A) Setup formative assessments 
+(C) Sketch the courses that LCK asked for 
+(C) Upgrade the gym membership 
+(A) Upload Video to panopto and put on Moodle as well 
+(A) Write slides for Friday  
+(C) read project handbook for FYP
