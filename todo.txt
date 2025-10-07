@@ -32,4 +32,5 @@
 (E) Check last payment from EQT for self assessment
 (E) Follow up with Project Real web design 
 (E) Do a meal plan for the kids
-(E) It would be cool if the internet 
+(E) It would be cool if the internet bar chart had red and green days for things like email 
+(E) Do a brainstorm on 'unspoken truths' 
