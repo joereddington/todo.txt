@@ -8650,3 +8650,7 @@ x 2025-10-06 30 Python version of CASPER
 x 2025-10-06 Write notes for the introduction/Context 
 x 2025-10-06 10 Find out about generative AI on iterm2 
 x 2025-10-06 10 Review changes in GenAi since 2023
+x 2025-10-07 16 Paint Leo's chair again @garage 
+x 2025-10-07 10 process Garage inbox. @garage
+x 2025-10-07 02 Check in with Kat about working hours 
+x 2025-10-07 60 Watch next blender video 
