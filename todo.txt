@@ -1,4 +1,3 @@
-x 2025-10-07 Create a set slide for Casper with opt-out, more information and the barcode   
 (A) Setup formative assessments 
 (A) Upload Video to panopto and put on Moodle as well 
 (A) Write slides for Friday  
@@ -11,11 +10,9 @@ x 2025-10-07 Create a set slide for Casper with opt-out, more information and th
 (C) Sketch the courses that LCK asked for 
 (C) Upgrade the gym membership 
 (C) read project handbook for FYP
-(D Kat) 20 Sort out Kat's email address
 (D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 20 Work out the whole Google Ads things
 (D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
-(D) 60 Watch another hour on the blender course @phone
 (E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears
 (E) 05 Write script that pulls all the student gitlabs 
 (E) 05 put bolts on the sofa bed 
@@ -34,9 +31,11 @@ x 2025-10-07 Create a set slide for Casper with opt-out, more information and th
 (E) It would be cool if the internet bar chart had red and green days for things like email 
 (E) Do a brainstorm on 'unspoken truths' 
 (E)  Rename countdown to dogbert  
-* Find a new place for the 3d printer 
+(E) Find a new place for the 3d printer 
 (E)  Find out if canceling invites in RHUL cleans up your Google Calendar
 (E)  Check the www email works
 (E)  Badger Salto and tell them the days Nova is free
 (E) 15 Spend 15 minutes with the a3 paper
 (E) Book a HM for early next year    
+(E) Next blender video 
+(E) Put in the expenses claims for the end of last year. 
