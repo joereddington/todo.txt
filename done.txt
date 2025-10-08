@@ -8670,3 +8670,4 @@ x 2025-10-07 02 Rename countdown to dogbert
 x 2025-10-08 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
 x (E) 10 Book a HM for early next year    
 x 2025-10-08 10 Setup HMRC payment in unity  +EQT
+x 2025-10-08 10 Do a meal plan for the kids

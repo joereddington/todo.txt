@@ -2,10 +2,7 @@
 (E) 04 Check date of last payment from EQT for self assessment
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
 (E) 05 put bolts on the sofa bed  
-x (E) 10 Book a HM for early next year    
 (E) 10 Do a brainstorm on 'unspoken truths' 
-(E) 10 Do a meal plan for the kids
-x 2025-10-08 10 Setup HMRC payment in unity  +EQT
 (E) 10 take marker into garage and finish top for Nova's chair @garage
 (E) 15 Next blender video (and follow along)
 (E) 15 Review the security spreadsheet 
