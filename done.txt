@@ -8671,3 +8671,4 @@ x 2025-10-08 30 Process transactions in littlefinger since Jan 2025 for tax dedu
 x (E) 10 Book a HM for early next year    
 x 2025-10-08 10 Setup HMRC payment in unity  +EQT
 x 2025-10-08 10 Do a meal plan for the kids
+x 2025-10-08 15 Review the security spreadsheet 
