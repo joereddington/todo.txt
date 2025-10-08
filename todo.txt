@@ -17,7 +17,7 @@
 (E) 50 Write 1,000 words +offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (C) 90 go and do 33 Lengths at swimming 
-(C) Sort out Joka expenses and EQT ones for last finantial year 
+(C) 30 Sort out Joka expenses and EQT ones for last finantial year 
 (E) 02 Check the www email works by emailing from RHUL  +EQT
 (E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears +RHUL 
 (C) 03 Upload the coursework documents to the correct folder +RHUL 
