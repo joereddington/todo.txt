@@ -1,3 +1,8 @@
+(E) 40 Put more paint on Leo chair  @garage  +offline
+(E) 20 Cut wood for Turbo trainer stand for the kids @garage
+(E) 20 Attach the metal bar to the side of the house @garage 
+(E) 10 finish top for Nova's chair @garage
+(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (A) 25 Setup formative assessments  +RHUL 
 (A) 60 Write script for Friday   +RHUL 
 (B) 10 Draft the 'ethics' email and send to Rikke for approval  +RHUL 
@@ -7,9 +12,8 @@
 (C) 30 read project handbook for FYP +RHUL
 (C) 90 go and do 33 Lengths at swimming 
 (C) 03 Upload the coursework documents to the correct folder +RHUL 
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) 20 Work out the whole Google Ads things +EQT
-(D) 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
+(C) Sort out Joka expenses and EQT ones for last finantial year 
 (E) 02 Check the www email works by emailing from RHUL  +EQT
 (E) 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears +RHUL 
 (E) 03 Follow up with Project Real web design  
@@ -21,16 +25,12 @@
 (E) 10 Book a HM for early next year    
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Do a meal plan for the kids
-(E) 10 finish top for Nova's chair @garage
 (E) 15 Next blender video (and follow along)
 (E) 15 Review the security spreadsheet 
 (E) 15 Spend 15 minutes with the a3 paper
-(E) 20 Attach the metal bar to the side of the house @garage 
-(E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
 (E) 20 Read the everything you need to know about EQT accounts document
 (E) 25 Put a bunch more references into Moodle  +RHUL
 (E) 30 Fix the master slide on all the future slides +RHUL 
-(E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 50 Write 1,000 words +offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 

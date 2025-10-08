@@ -8667,3 +8667,4 @@ x 2025-10-07 It would be cool if the internet bar chart had red and green days f
 x 2025-10-07 Upgrade the gym membership 
 x 2025-10-07 10 Year plan: check you have 5 projects in each part
 x 2025-10-07 02 Rename countdown to dogbert  
+x 2025-10-08 30 Process transactions in littlefinger since Jan 2025 for tax deductions @internet
