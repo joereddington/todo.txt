@@ -8672,3 +8672,8 @@ x (E) 10 Book a HM for early next year
 x 2025-10-08 10 Setup HMRC payment in unity  +EQT
 x 2025-10-08 10 Do a meal plan for the kids
 x 2025-10-08 15 Review the security spreadsheet 
+x 2025-10-10 02 Check the www email works by emailing from RHUL  +EQT
+x 2025-10-10 02 Put in incident management https://www.theguardian.com/world/2025/sep/30/south-korea-raises-cyber-threat-level-after-huge-data-centre-fire-sparks-hacking-fears +RHUL 
+x 2025-10-10 03 Upload the coursework documents to the correct folder +RHUL 
+x 2025-10-10 04 Get RHUL P60 for Self assessment tax.  
+x 2025-10-10 10 Upload Video to panopto and put on Moodle as well  +RHUL 
