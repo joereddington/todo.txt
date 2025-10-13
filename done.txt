@@ -8681,3 +8681,6 @@ x 2025-10-13 04 Check date of last payment from EQT for self assessment
 x 2025-10-13 05 put bolts on the sofa bed  
 x 2025-10-13 10 Draft the 'ethics' email and send to Rikke for approval  +RHUL 
 x 2025-10-13 60 Write script for Friday   +RHUL 
+x 2025-10-13 Send Ethics email to student
+x 2025-10-13 25 Setup formative assessments  +RHUL 
+x 2025-10-13 Create the submission box for Formative Assessments
