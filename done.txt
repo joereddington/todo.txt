@@ -8677,3 +8677,7 @@ x 2025-10-10 02 Put in incident management https://www.theguardian.com/world/202
 x 2025-10-10 03 Upload the coursework documents to the correct folder +RHUL 
 x 2025-10-10 04 Get RHUL P60 for Self assessment tax.  
 x 2025-10-10 10 Upload Video to panopto and put on Moodle as well  +RHUL 
+x 2025-10-13 04 Check date of last payment from EQT for self assessment
+x 2025-10-13 05 put bolts on the sofa bed  
+x 2025-10-13 10 Draft the 'ethics' email and send to Rikke for approval  +RHUL 
+x 2025-10-13 60 Write script for Friday   +RHUL 
