@@ -22,7 +22,6 @@
 (E) 50 Write 1,000 words +offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Apply to this https://www.jobs.ac.uk/job/DOY320/course-leader-msc-cyber-security?uuid=27710725-a320-11f0-b61c-027e9b1da9c1&campaign=jbe20251007&source=jbe
-(E) Email all the IY3510 students to remind them about the reading and the Formative Assessment 
 (E) Get the photo of the ticket for the delay repay 
 (E) Review documents for academic promotion 
 (E) put amazon royalty information in the self assessment thing

@@ -8684,3 +8684,4 @@ x 2025-10-13 60 Write script for Friday   +RHUL
 x 2025-10-13 Send Ethics email to student
 x 2025-10-13 25 Setup formative assessments  +RHUL 
 x 2025-10-13 Create the submission box for Formative Assessments
+x 2025-10-14 Email all the IY3510 students to remind them about the reading and the Formative Assessment 
