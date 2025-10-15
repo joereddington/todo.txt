@@ -1,10 +1,6 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Do the Herts trainings 
-(A) Write up notes from Karen 
-(B) Badger about ISO27000 talk  +RHUL 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Send Hugh the results of the attendance +RHUL
+(A) 70 Do the Herts trainings 
+(B) 03 Badger about ISO27000 talk  +RHUL 
+(B) 40 spend some time on the attendence sheet and send Hugh the results +RHUL
 (C) 20 Sketch the courses that LCK asked for  +RHUL
 (C) 30 Sort out Joka expenses and EQT ones for last finantial year 
 (C) 30 read project handbook for FYP +RHUL
@@ -21,6 +17,7 @@
 (D) Clean out Fridge
 (D) Do full accounts algorithm +EQT 
 (D) Sync the photoshop directroy
+(D) talk to class about concerns about lecturers using AI 
 (E) 03 Follow up with Project Real web design  
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
 (E) 05 Write script that pulls all the student gitlabs  +RHUL
@@ -32,17 +29,15 @@
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
 (E) 20 Read the everything you need to know about EQT accounts document
+(E) 20 minutes practicing on the major decoding 
 (E) 25 Put a bunch more references into Moodle  +RHUL
 (E) 30 Fix the master slide on all the future slides +RHUL 
 (E) 40 Put more paint on Leo chair  @garage  +offline
-(E) Review the physics constants 
-(E) Lookup some funding for EQT things 
-(E) Book the maths exam 
-(E) 20 minutes practicing on the major decoding 
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Apply to this https://www.jobs.ac.uk/job/DOY320/course-leader-msc-cyber-security?uuid=27710725-a320-11f0-b61c-027e9b1da9c1&campaign=jbe20251007&source=jbe
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Book the maths exam 
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
@@ -64,6 +59,7 @@
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Lookup some funding for EQT things 
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
@@ -72,6 +68,7 @@
 (E) Review all the blinds and lights 
 (E) Review documents for academic promotion 
 (E) Review starred items in feeds +Overhead +EQT
+(E) Review the physics constants 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Sort out batteries in air tags
@@ -81,4 +78,3 @@
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (E) put amazon royalty information in the self assessment thing
-(D) talk to class about concerns about lecturers using AI 
