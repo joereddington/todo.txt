@@ -35,7 +35,8 @@
 (E) 25 Put a bunch more references into Moodle  +RHUL
 (E) 30 Fix the master slide on all the future slides +RHUL 
 (E) 40 Put more paint on Leo chair  @garage  +offline
-(E) 50 Write 1,000 words +offline
+(E) Review the physics constants 
+(E) 20 minutes practicing on the major decoding 
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Apply to this https://www.jobs.ac.uk/job/DOY320/course-leader-msc-cyber-security?uuid=27710725-a320-11f0-b61c-027e9b1da9c1&campaign=jbe20251007&source=jbe
@@ -43,13 +44,13 @@
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check wishlist
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Leo toenails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Email the project students to tell them about the presentation day 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find out about students union teaching prizes
@@ -64,13 +65,18 @@
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
+(E) Relist that expensive keyboard
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) Review all the blinds and lights 
 (E) Review documents for academic promotion 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
+(E) Sort out batteries in air tags
 (E) TSE +Health  
 (E) Trim nose hair +Health    
+(E) Try piano lessons again 
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (E) put amazon royalty information in the self assessment thing
+(D) talk to class about concerns about lecturers using AI 
