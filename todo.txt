@@ -1,30 +1,31 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Do the Herts trainings 
-(A) process emotional todo list. 
+(A) Write up notes from Karen 
+(B) Badger about ISO27000 talk  +RHUL 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
+(B) Send Hugh the results of the attendance +RHUL
 (C) 20 Sketch the courses that LCK asked for  +RHUL
-(C) 30 read project handbook for FYP +RHUL
 (C) 30 Sort out Joka expenses and EQT ones for last finantial year 
+(C) 30 read project handbook for FYP +RHUL
 (C) 90 go and do 33 Lengths at swimming 
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
-(C) Review projects
 (C) Review Wheel Of life Projects
+(C) Review projects
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) deploy any commits from OVF that are hanging around. 
 (D) 20 Work out the whole Google Ads things +EQT
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Do full accounts algorithm +EQT 
-(D Kat) 40 Put Router on architrave wood in @garage +offline 
 (D) Sync the photoshop directroy
 (E) 03 Follow up with Project Real web design  
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
 (E) 05 Write script that pulls all the student gitlabs  +RHUL
 (E) 10 Do a brainstorm on 'unspoken truths' 
-(E) 10 take marker into garage and finish top for Nova's chair @garage
+(E) 10 cut top for Nova's chair @garage
 (E) 15 Next blender video (and follow along)
 (E) 15 Spend 15 minutes with the a3 paper
 (E) 20 Attach the metal bar to the side of the house @garage 
@@ -42,16 +43,16 @@
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check wishlist
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut Leo toenails +Health    
 (E) Cut nails +Health    
-(E) Cut Nova and Leo nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Find out about students union teaching prizes
 (E) Floss +Health   
 (E) Get the photo of the ticket for the delay repay 
 (E) Give laptop screen a good clean +Overhead
@@ -60,18 +61,16 @@
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) put amazon royalty information in the self assessment thing
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review documents for academic promotion 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
-(E) Trim nose hair +Health    
 (E) TSE +Health  
+(E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
-(E) Find out about students union teaching prizes
+(E) process Garage inbox. 
+(E) put amazon royalty information in the self assessment thing
