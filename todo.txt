@@ -37,6 +37,7 @@
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) Review the physics constants 
 (E) Lookup some funding for EQT things 
+(E) Book the maths exam 
 (E) 20 minutes practicing on the major decoding 
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
