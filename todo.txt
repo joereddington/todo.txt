@@ -1,9 +1,13 @@
+(A) Pay parking charge
 (A) 70 Do the Herts trainings 
-(B) 03 Badger about ISO27000 talk  +RHUL 
-(B) 40 spend some time on the attendence sheet and send Hugh the results +RHUL
-(C) 20 Sketch the courses that LCK asked for  +RHUL
-(C) 30 Sort out Joka expenses and EQT ones for last finantial year 
+(A) Create the proper WAMS database 
+(A) Review Slides for Friday 
+(B) Book peer observation 
+(B) Setup another formative. 
+(B) Create Second Formative 
+(C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
+(E) Talk to Kat about the dunstable run 'black to the trails' 
 (C) 90 go and do 33 Lengths at swimming 
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Review Wheel Of life Projects
@@ -16,7 +20,6 @@
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Do full accounts algorithm +EQT 
-(D) Sync the photoshop directroy
 (D) talk to class about concerns about lecturers using AI 
 (E) 03 Follow up with Project Real web design  
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
@@ -44,7 +47,6 @@
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Leo toenails +Health    
-(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Email the project students to tell them about the presentation day 
@@ -73,7 +75,6 @@
 (E) Save a nice family memory +Family @phone    
 (E) Sort out batteries in air tags
 (E) TSE +Health  
-(E) Trim nose hair +Health    
 (E) Try piano lessons again 
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
