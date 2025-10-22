@@ -2,8 +2,10 @@
 (A) 70 Do the Herts trainings 
 (A) Create the proper WAMS database 
 (A) Review Slides for Friday 
+(B) 05 Add the funding notice to the website
+(C) Properly install docker
+(B) Move the teams videos 
 (B) Book peer observation 
-(B) Setup another formative. 
 (B) Create Second Formative 
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
@@ -17,9 +19,6 @@
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) deploy any commits from OVF that are hanging around. 
 (D) 20 Work out the whole Google Ads things +EQT
-(D) Check starred messages in kat whatsapp 
-(D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
 (D) talk to class about concerns about lecturers using AI 
 (E) 03 Follow up with Project Real web design  
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
@@ -52,15 +51,11 @@
 (E) Email the project students to tell them about the presentation day 
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find out about students union teaching prizes
-(E) Floss +Health   
 (E) Get the photo of the ticket for the delay repay 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Lookup some funding for EQT things 
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
@@ -76,6 +71,4 @@
 (E) Sort out batteries in air tags
 (E) TSE +Health  
 (E) Try piano lessons again 
-(E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
-(E) put amazon royalty information in the self assessment thing
