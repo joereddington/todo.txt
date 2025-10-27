@@ -1,4 +1,6 @@
 (A) Pay parking charge
+(C) Setup Docker on Tower (checkout the github) 
+(E) Make proof of concept with the Raspberry Pi playing games for the Vicious cycle. 
 (A) 70 Do the Herts trainings 
 (A) Create the proper WAMS database 
 (A) Review Slides for Friday 
