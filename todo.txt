@@ -6,6 +6,7 @@
 (B) 15 Create Second Formative  +RHUL
 (E) 10 Brainstorm on authenticity
 (E) 05 Do pressups with leo 
+(C) Measure up space when spare room bed is out 
 (C) 15 Review projects
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
