@@ -7,7 +7,8 @@
 (E) 10 Brainstorm on authenticity
 (E) 05 Do pressups with leo 
 (C) Measure up space when spare room bed is out 
-(C) 15 Review projects
+(E) Lookup replacement cupboard doors for bedtoom 
+(E) Review the Everything joe knows about self assessment to check for tasks 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
@@ -27,7 +28,6 @@
 (E) 15 Empty Joe inbox completely +Overhead    
 (E) 15 Next blender video (and follow along)
 (E) 15 Sort out batteries in air tags
-(E) 15 Spend 15 minutes with the a3 paper
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Book the maths exam 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
@@ -45,4 +45,4 @@
 (E) 40 Podcast and tidy @garage 
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-(C) Build a test set for the referencing system from the examples we have. 
+(C) 60 Build a test set for the referencing system from the examples we have. 
