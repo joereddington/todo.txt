@@ -4,8 +4,8 @@
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
 (B) 15 Create Second Formative  +RHUL
-(C) 15 Review Wheel Of life Projects
 (E) Brainstorm on authenticity
+(E) Do pressups with leo 
 (C) 15 Review projects
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
