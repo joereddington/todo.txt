@@ -8738,3 +8738,4 @@ x 2025-10-27 Review starred items in feeds +Overhead +EQT
 x 2025-10-27 TSE +Health  
 x 2025-10-27 Talk to Kat about the dunstable run 'black to the trails' 
 x 2025-10-27 Try piano lessons again 
+x 2025-10-28 10 Clone the github so you can use Docker on tower 
