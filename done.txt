@@ -8740,3 +8740,4 @@ x 2025-10-27 Talk to Kat about the dunstable run 'black to the trails'
 x 2025-10-27 Try piano lessons again 
 x 2025-10-28 10 Clone the github so you can use Docker on tower 
 x 2025-10-28 15 Review Wheel Of life Projects
+x 2025-10-28 05 Write script that pulls all the student gitlabs  +RHUL

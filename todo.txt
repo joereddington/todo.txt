@@ -4,8 +4,8 @@
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
 (B) 15 Create Second Formative  +RHUL
-(E) Brainstorm on authenticity
-(E) Do pressups with leo 
+(E) 10 Brainstorm on authenticity
+(E) 05 Do pressups with leo 
 (C) 15 Review projects
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
@@ -17,7 +17,6 @@
 (E) 03 Save a nice family memory +Family @phone    
 (E) 04 Cut Leo toenails +Health    
 (E) 05 Find a new place for the 3d printer - Bedroom technically works 
-(E) 05 Write script that pulls all the student gitlabs  +RHUL
 (E) 06 Publicly thank someone +Overhead  
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
