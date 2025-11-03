@@ -1,5 +1,6 @@
 (A) 70 Do the Herts trainings 
 (A) Mark IPR 
+(A) Do the attendance sheets 
 (B) 05 Add the funding notice to the website
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
