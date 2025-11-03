@@ -8747,3 +8747,4 @@ x 2025-11-03 05 Pay parking charge
 x 2025-11-03 Do the attendance sheets 
 x 2025-11-03 Thank you the halloween houses
 x 2025-11-03 05 Find a new place for the 3d printer - Bedroom technically works 
+x 2025-11-03 70 Do the Herts trainings 
