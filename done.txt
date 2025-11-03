@@ -8744,3 +8744,4 @@ x 2025-10-28 05 Write script that pulls all the student gitlabs  +RHUL
 x 2025-10-28 15 Review projects
 x 2025-10-28 15 Spend 15 minutes with the a3 paper
 x 2025-11-03 05 Pay parking charge
+x 2025-11-03 Do the attendance sheets 
