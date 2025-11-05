@@ -12,6 +12,7 @@
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
+(E) Brainstorm Leo learning
 (C) 60 Build a test set for the referencing system from the examples we have.  +RHUL 
 (C) 90 go and do 33 Lengths at swimming 
 (C) Measure up space when spare room bed is out 
