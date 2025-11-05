@@ -1,21 +1,23 @@
 (A) Do maths with Nova. 
 (A) Fix car 
-(A) Mark IPR 
+(A) Mark IPR  @herts
 (A) Move the EQT accounts on 
-(A) Prep Q&A session for Friday 
+(A) Prep Q&A session for Friday  +RHUL 
 (B) 05 Add the funding notice to the website
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
 (B) 15 Create Second Formative  +RHUL
 (B) Look for funders for EQT
+(D) Work out the schedule for FYP presentations   +RHUL 
+(D) Map the RHUL projects in a seperate folder: FYP,  IY3501, Disability, Q&A, CASPER, and WOMBAT and work out what you want.     +RHUL 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
-(C) 60 Build a test set for the referencing system from the examples we have. 
+(C) 60 Build a test set for the referencing system from the examples we have.  +RHUL 
 (C) 90 go and do 33 Lengths at swimming 
-(C) Make a plan for Mum and dad's 
+(B) Make a plan for Mum and dad's 
 (C) Measure up space when spare room bed is out 
-(C) Read your own papers about disability and securiy
+(C) Read your own papers about disability and security +RHUL 
 (D) 20 Work out the whole Google Ads things +EQT
 (E) 03 Check Passports are in the safe
 (E) 03 Follow up with Project Real web design  
@@ -24,6 +26,7 @@
 (E) 05 Do pressups with leo 
 (E) 06 Publicly thank someone +Overhead  
 (E) 10 Brainstorm on authenticity
+(E) Brainstorm on the return to the stress charts
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Post to Vegan Facebook group  @phone   
@@ -31,9 +34,7 @@
 (E) 10 cut top for Nova's chair @garage
 (E) 15 Empty Joe inbox completely +Overhead    
 (E) 15 Next blender video (and follow along)
-(E) 15 Sort out batteries in air tags
 (E) 20 Attach the metal bar to the side of the house @garage 
-(E) 20 Book the maths exam 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
 (E) 20 Read the everything you need to know about EQT accounts document
@@ -51,7 +52,6 @@
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Lookup replacement cupboard doors for bedtoom 
 (E) Put the 'the dible woman' by Atwood on your reading list 
-(E) Raise monitor height
 (E) Review the Everything joe knows about self assessment to check for tasks 
 (E) Use the debit card in bag so you know it works 
 (E) Weekend project bike rack
