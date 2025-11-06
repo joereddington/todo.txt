@@ -2,6 +2,7 @@
 (A) Do maths with Nova. 
 (A) Fix car 
 (A) Mark IPR  @herts
+(E) Fix the kindle payments issue
 (A) Move the EQT accounts on 
 (A) Prep Q&A session for Friday  +RHUL 
 (A) process emotional todo list. 
