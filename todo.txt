@@ -1,32 +1,26 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Do maths with Nova. 
-(A) Fix car 
 (A) Mark IPR  @herts
-(E) Fix the kindle payments issue
 (A) Move the EQT accounts on 
-(A) Prep Q&A session for Friday  +RHUL 
 (A) process emotional todo list. 
-(B) 05 Add the funding notice to the website
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
 (B) 15 Create Second Formative  +RHUL
 (B) Look for funders for EQT
-(B) Make a plan for Mum and dad's 
+x 2025-11-08 Make a plan for Mum and dad's 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
-(C) 30 read project handbook for FYP +RHUL
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
+(C) 30 read project handbook for FYP +RHUL
 (C) 60 Build a test set for the referencing system from the examples we have.  +RHUL 
 (C) 90 go and do 33 Lengths at swimming 
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) deploy any commits from OVF that are hanging around. 
 (C) Measure up space when spare room bed is out 
 (C) Read your own papers about disability and security +RHUL 
-(C) Review projects
 (C) Review Wheel Of life Projects
+(C) Review projects
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) deploy any commits from OVF that are hanging around. 
 (D) 20 Work out the whole Google Ads things +EQT
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
@@ -41,20 +35,20 @@
 (E) 05 Do pressups with leo 
 (E) 06 Publicly thank someone +Overhead  
 (E) 10 Brainstorm on authenticity
-(E) 10 cut top for Nova's chair @garage
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Post to Vegan Facebook group  @phone   
 (E) 10 Relist that expensive keyboard
+(E) 10 cut top for Nova's chair @garage
 (E) 15 Empty Joe inbox completely +Overhead    
 (E) 15 Next blender video (and follow along)
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 20 minutes practicing on the major decoding 
 (E) 20 Read the everything you need to know about EQT accounts document
 (E) 20 Review all the blinds and lights 
 (E) 20 Review documents for academic promotion 
+(E) 20 minutes practicing on the major decoding 
 (E) 25 Put a bunch more references into Moodle  +RHUL
 (E) 30 Fix the master slide on all the future slides +RHUL 
 (E) 30 Lookup some funding for EQT things 
@@ -76,12 +70,13 @@
 (E) Check wishlist
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut nails +Health    
 (E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Fix the kindle payments issue
 (E) Floss +Health   
 (E) Get wallet and update all the amazon cards
 (E) Give laptop screen a good clean +Overhead
@@ -95,19 +90,19 @@
 (E) Lookup replacement cupboard doors for bedtoom 
 (E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Post to Vegan Facebook group  @phone   
-(E) process Garage inbox. 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Publicly thank someone +Overhead  
-(E) Put the correct authentication code on the herts timesheet
 (E) Put the 'the dible woman' by Atwood on your reading list 
+(E) Put the correct authentication code on the herts timesheet
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review the Everything joe knows about self assessment to check for tasks 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) Trim nose hair +Health    
 (E) TSE +Health  
+(E) Trim nose hair +Health    
 (E) Use the debit card in bag so you know it works 
 (E) Weekend project bike rack
 (E) Write Moonpig cards for this month +Overhead
+(E) process Garage inbox. 
