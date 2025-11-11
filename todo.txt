@@ -3,9 +3,7 @@
 (A) process emotional todo list. 
 (B) 10 Move the teams videos  +RHUL
 (B) 10 Pick date for  peer observation  +RHUL
-(B) 15 Create Second Formative  +RHUL
 (B) Look for funders for EQT
-x 2025-11-08 Make a plan for Mum and dad's 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
