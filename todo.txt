@@ -17,7 +17,6 @@
 (B) 10 Look for funders for EQT
 (E) 10 Lookup replacement cupboard doors for bedtoom 
 (B) 10 Move the teams videos  +RHUL
-(E) 10 Post to Vegan Facebook group  @phone   
 (A) 05 Check the submission daes for FYP @rhul 
 (C) Start working through the labs for IY2840 
 (E) Setup a weekly calendar for IY3501 so we know what is happening  
@@ -38,12 +37,10 @@
 (C) 20 Remap the  Wheel Of life Projects
 (E) 20 Review all the blinds and lights 
 (E) 20 Review documents for academic promotion 
-(C) 20 Run mgit status on the git directory and process all alerts +EQT
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (D) 20 Work out the whole Google Ads things +EQT
 (E) 20 minutes practicing on the major decoding 
 (E) 25 Put a bunch more references into Moodle  +RHUL
-(E) 30 Fix the master slide on all the future slides +RHUL 
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Make proof of concept with the Raspberry Pi playing games for the Vicious cycle. 
 (A) 30 Move the EQT accounts on 
@@ -55,7 +52,5 @@
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) 60 Weekend project bike rack
-(C) 90 go and do 33 Lengths at swimming 
-(D) Check starred messages in kat whatsapp 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (D) Do full accounts algorithm +EQT 

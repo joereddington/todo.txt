@@ -8806,3 +8806,9 @@ x 2025-11-19 Check you have ingredients for three levels of basic food - salad -
 x 2025-11-19 Clean out Fridge
 x 2025-11-19 15 Check wishlist
 x 2025-11-19 20 Map the RHUL projects in a separate folder: FYP,  IY3501, Disability, Q&A, CASPER, and WOMBAT and work out what you want.     +RHUL 
+x 2025-11-19 10 Post to Vegan Facebook group  @phone   
+x 2025-11-19 20 Review documents for academic promotion 
+x 2025-11-19 20 Run mgit status on the git directory and process all alerts +EQT
+x 2025-11-19 30 Fix the master slide on all the future slides +RHUL 
+x 2025-11-19 90 go and do 33 Lengths at swimming 
+x 2025-11-19 Check starred messages in kat whatsapp 
