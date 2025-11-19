@@ -1,12 +1,5 @@
-x 2025-11-19 02 Put the 'the dible woman' by Atwood on your reading list 
-(E) 03 Check Passports are in the safe
-(E) 03 Follow up with Project Real web design  
-(E) 03 Save a nice family memory +Family @phone    
-(E) 04 TSE +Health  
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
-(E) 06 Publicly thank someone +Overhead  
-(E) 10 Backup AWS +EQT
 (E) 10 Brainstorm Leo learning
 (E) 10 Brainstorm on authenticity
 (E) 10 Brainstorm on the return to the stress charts

@@ -8788,3 +8788,10 @@ x 2025-11-19 Make sure the github issues are in the right columns +Overhead http
 x 2025-11-19 Make sure you have booked a bunch of leave from RHUL 
 x 2025-11-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2025-11-19 04 Cut Leo toenails +Health    
+x 2025-11-19 02 Put the 'the dible woman' by Atwood on your reading list 
+x 2025-11-19 03 Check Passports are in the safe
+x 2025-11-19 03 Follow up with Project Real web design  
+x 2025-11-19 03 Save a nice family memory +Family @phone    
+x 2025-11-19 04 TSE +Health  
+x 2025-11-19 06 Publicly thank someone +Overhead  
+x 2025-11-19 10 Backup AWS +EQT
