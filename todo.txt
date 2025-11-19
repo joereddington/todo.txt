@@ -1,3 +1,9 @@
+(E) 40 Put more paint on Leo chair  @garage  +offline
+(E) 40 Podcast and tidy @garage 
+(E) 20 Cut wood for Turbo trainer stand for the kids @garage
+(E) 20 Attach the metal bar to the side of the house @garage 
+(E) 10 process Garage inbox. 
+(E) 10 cut top for Nova's chair @garage
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
 (E) 10 Brainstorm Leo learning
@@ -6,30 +12,21 @@
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 10 Get wallet and update all the amazon cards
 (B) 10 Look for funders for EQT
 (E) 10 Lookup replacement cupboard doors for bedtoom 
 (B) 10 Move the teams videos  +RHUL
 (E) 10 Post to Vegan Facebook group  @phone   
 (C) 10 Read your own papers about disability and security +RHUL 
 (E) 10 Relist that expensive keyboard
-x 2025-11-19 10 Remove Caffine  in days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (C) 10 Review projects
 (E) 10 Review starred items in feeds +Overhead +EQT
 (B) 10 Review the Everything joe knows about self assessment to check for tasks 
-(E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (C) 10 Run mgit status on the git directory and process all alerts +EQT
 (E) 10 Tag blog posts that are relevent for teaching @laptop
-(E) 10 Trim nose hair +Health    
-(E) 10 cut top for Nova's chair @garage
-(E) 10 process Garage inbox. 
 (A) 10 work out the process for process emotional todo list
-(E) 15 Check wishlist
 (E) 15 Empty Joe inbox completely +Overhead    
 (C) 15 Measure up space when spare room bed is out 
 (E) 15 Next blender video (and follow along)
-(E) 20 Attach the metal bar to the side of the house @garage 
-(E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
 (D) 20 Map the RHUL projects in a separate folder: FYP,  IY3501, Disability, Q&A, CASPER, and WOMBAT and work out what you want.     +RHUL 
 (E) 20 Read the everything you need to know about EQT accounts document
@@ -49,8 +46,6 @@ x 2025-11-19 10 Remove Caffine  in days since) app counts +Overhead  https://joe
 (E) 30 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 30 read project handbook for FYP +RHUL
-(E) 40 Podcast and tidy @garage 
-(E) 40 Put more paint on Leo chair  @garage  +offline
 (C) 60 Build a test set for the referencing system from the examples we have.  +RHUL 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
@@ -58,7 +53,4 @@ x 2025-11-19 10 Remove Caffine  in days since) app counts +Overhead  https://joe
 (C) 90 go and do 33 Lengths at swimming 
 (D) Check starred messages in kat whatsapp 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(D) Clean out Fridge
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (D) Do full accounts algorithm +EQT 
