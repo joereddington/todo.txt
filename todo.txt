@@ -1,5 +1,3 @@
-x 2025-11-19 05 Check the submission daes for FYP @rhul 
-(A) 10 work out the process for process emotional todo list
 (A) 30 Move the EQT accounts on 
 (B) 10 Look for funders for EQT
 (B) 10 Move the teams videos  +RHUL
@@ -48,6 +46,6 @@ x 2025-11-19 05 Check the submission daes for FYP @rhul
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) 60 Weekend project bike rack
-(E) Keep an eye on the wikipedia GA 
+(E) Keep an eye on the wikipedia GA  @garage
 (E) Make Christmas list - car with Nova, New version of exercise bike   
 (E) Work out how to do the automatic encyrption on this file 
