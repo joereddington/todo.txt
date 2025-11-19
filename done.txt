@@ -8759,3 +8759,32 @@ x 2025-11-08 05 Add the funding notice to the website
 x 2025-11-08 Make a plan for Mum and dad's 
 x 2025-11-11 15 Create Second Formative  +RHUL
 x 2025-11-17 Use this for wikipedia :https://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/culture-media-and-sport-committee/cyber-security-protection-of-personal-data-online/oral/26312.html
+x 2025-11-19 Go through phone and save all of the numbers +Overhead  @phone   
+x 2025-11-19 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2025-11-19 Log weight +Health   
+x 2025-11-19 Write Moonpig cards for this month +Overhead
+x 2025-11-19 Publicly thank someone +Overhead  
+x 2025-11-19 Put the correct authentication code on the herts timesheet
+x 2025-11-19 Make sure you have a continual professional developement practice happening  +EQT
+x 2025-11-19 Post to Vegan Facebook group  @phone   
+x 2025-11-19 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2025-11-19 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2025-11-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2025-11-19 Fix the kindle payments issue
+x 2025-11-19 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2025-11-19 Empty whatsapp and facebook inboxes. +Overhead  
+x 2025-11-19 Cut nails +Health    
+x 2025-11-19 Cut Nova and Leo nails +Health    
+x 2025-11-19 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2025-11-19 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2025-11-19 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2025-11-19 Check ranking scripts +Overhead
+x 2025-11-19 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2025-11-19 Sync the photoshop directroy
+x 2025-11-19 Work out the schedule for FYP presentations   +RHUL 
+x 2025-11-19 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2025-11-19 Mark IPR  @herts
+x 2025-11-19 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2025-11-19 Make sure you have booked a bunch of leave from RHUL 
+x 2025-11-19 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2025-11-19 04 Cut Leo toenails +Health    
