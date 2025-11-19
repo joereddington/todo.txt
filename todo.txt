@@ -47,5 +47,7 @@
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) 60 Weekend project bike rack
 (E) Keep an eye on the wikipedia GA  @garage
+(C) Do the herts trainings 
+(B) Put the assessment comments onto Moodle 
 (E) Make Christmas list - car with Nova, New version of exercise bike   
 (E) Work out how to do the automatic encyrption on this file 
