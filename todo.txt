@@ -21,7 +21,6 @@
 (C) Start working through the labs for IY2840 
 (E) Setup a weekly calendar for IY3501 so we know what is happening  
 (B) Arrange Mock viva for Masters Students: start by booking a room 
-(C) 10 Read your own papers about disability and security +RHUL 
 (E) 10 Relist that expensive keyboard
 (C) 10 Review projects
 (B) 10 Review the Everything joe knows about self assessment to check for tasks 
