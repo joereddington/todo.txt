@@ -21,6 +21,7 @@
 (A) 05 Check the submission daes for FYP @rhul 
 (C) Start working through the labs for IY2840 
 (E) Setup a weekly calendar for IY3501 so we know what is happening  
+(B) Arrange Mock viva for Masters Students
 (C) 10 Read your own papers about disability and security +RHUL 
 (E) 10 Relist that expensive keyboard
 (C) 10 Review projects
@@ -33,7 +34,6 @@
 (C) 15 Measure up space when spare room bed is out 
 (E) 15 Next blender video (and follow along)
 (E) 20 Do some computer work with Leo 
-(D) 20 Map the RHUL projects in a separate folder: FYP,  IY3501, Disability, Q&A, CASPER, and WOMBAT and work out what you want.     +RHUL 
 (E) 20 Read the everything you need to know about EQT accounts document
 (C) 20 Remap the  Wheel Of life Projects
 (E) 20 Review all the blinds and lights 
