@@ -8795,3 +8795,6 @@ x 2025-11-19 03 Save a nice family memory +Family @phone
 x 2025-11-19 04 TSE +Health  
 x 2025-11-19 06 Publicly thank someone +Overhead  
 x 2025-11-19 10 Backup AWS +EQT
+x 2025-11-19 10 Put new debit card on phoen 
+x 2025-11-19 10 Pick date for  peer observation  +RHUL
+x 2025-11-19 10 Remove Caffine  in days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 

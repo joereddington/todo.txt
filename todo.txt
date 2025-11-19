@@ -8,14 +8,12 @@
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get wallet and update all the amazon cards
 (B) 10 Look for funders for EQT
-(E) 10 Look for the debit card in bag so you know it works 
 (E) 10 Lookup replacement cupboard doors for bedtoom 
 (B) 10 Move the teams videos  +RHUL
-(B) 10 Pick date for  peer observation  +RHUL
 (E) 10 Post to Vegan Facebook group  @phone   
 (C) 10 Read your own papers about disability and security +RHUL 
 (E) 10 Relist that expensive keyboard
-(E) 10 Remove Caffine  in days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2025-11-19 10 Remove Caffine  in days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (C) 10 Review projects
 (E) 10 Review starred items in feeds +Overhead +EQT
 (B) 10 Review the Everything joe knows about self assessment to check for tasks 
