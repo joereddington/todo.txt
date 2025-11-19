@@ -1,8 +1,7 @@
 (A) 30 Move the EQT accounts on 
 (B) 10 Look for funders for EQT
 (B) 10 Move the teams videos  +RHUL
-(B) 10 Review the Everything joe knows about self assessment to check for tasks 
-(B) Arrange Mock viva for Masters Students: start by booking a room 
+(B) Message the teams chat about booking a room so you can Arrange Mock viva for Masters Students: start by booking a room 
 (C) 10 Review projects
 (C) 10 Run mgit status on the git directory and process all alerts +EQT
 (C) 15 Measure up space when spare room bed is out 
@@ -42,6 +41,7 @@
 (E) 30 Review the physics constants 
 (E) 30 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 40 Podcast and tidy @garage 
+(E) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (E) 40 Put more paint on Leo chair  @garage  +offline
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
