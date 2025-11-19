@@ -20,11 +20,10 @@
 (A) 05 Check the submission daes for FYP @rhul 
 (C) Start working through the labs for IY2840 
 (E) Setup a weekly calendar for IY3501 so we know what is happening  
-(B) Arrange Mock viva for Masters Students
+(B) Arrange Mock viva for Masters Students: start by booking a room 
 (C) 10 Read your own papers about disability and security +RHUL 
 (E) 10 Relist that expensive keyboard
 (C) 10 Review projects
-(E) 10 Review starred items in feeds +Overhead +EQT
 (B) 10 Review the Everything joe knows about self assessment to check for tasks 
 (C) 10 Run mgit status on the git directory and process all alerts +EQT
 (E) 10 Tag blog posts that are relevent for teaching @laptop

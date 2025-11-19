@@ -8812,3 +8812,4 @@ x 2025-11-19 20 Run mgit status on the git directory and process all alerts +EQT
 x 2025-11-19 30 Fix the master slide on all the future slides +RHUL 
 x 2025-11-19 90 go and do 33 Lengths at swimming 
 x 2025-11-19 Check starred messages in kat whatsapp 
+x 2025-11-19 10 Review starred items in feeds +Overhead +EQT
