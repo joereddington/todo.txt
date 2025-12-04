@@ -8821,3 +8821,5 @@ x 2025-11-19 10 Check that everything in the 'in process' box really does have a
 x 2025-11-19 10 Relist that expensive keyboard
 x 2025-11-19 10 work out the process for process emotional todo list
 x 2025-11-19 10 Review the Everything joe knows about self assessment to check for tasks 
+x 2025-11-19 10 Review projects
+x 2025-11-19 10 Run mgit status on the git directory and process all alerts +EQT
