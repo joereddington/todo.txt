@@ -82,3 +82,4 @@
 (E) Setup a bike light charging drawer 
 (E) Trim nose hair +Health    
 (E) Work out how to do the automatic encyrption on this file 
+(C) Put EQT payments in bank 
