@@ -1,9 +1,8 @@
+(A) Talk to the kids about what they would like for Christmas
 (A) Send update email to project students 
 (A) Release dates for next Tuesday's meetings - Make it much more clear about the arrangements.  
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 30 Move the EQT accounts on 
-(A) process emotional todo list. 
-(B) 10 Look for funders for EQT
 (B) 10 Move the teams videos  +RHUL
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Message the teams chat about booking a room so you can Arrange Mock viva for Masters Students: start by booking a room 
