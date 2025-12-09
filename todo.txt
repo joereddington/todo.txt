@@ -1,34 +1,30 @@
-(A) 10 Export the Balance Sheet, FInantial Activites and unPaid bills from Quickbooks - check this is in the how to do accounts file 
-(A) 20 Talk to the kids about what they would like for Christmas
-(A) 15 Tell the Project students the date of their viva 
-(B) 10 Move the teams videos  +RHUL
-(C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
-(C) 20 Remap the  Wheel Of life Projects
-(C) 30 Create the 'replace these names' version of CASPER (oh - if you do it early in the pipline advance then you can directly anonmise)  
-(C) 30 Sort out Joka expenses and EQT ones for last financial year 
-(C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
-(C) 60 Do the herts trainings 
-(C) 05 Put EQT payments in bank 
-(C) 60 Draft three exams 
-(C) 10 Review Wheel Of life Projects
-(C) 10 Review projects
-(C) 60 Start working through the labs for IY2840 
-(C) 30 Update all the attendence logs 
-(D) 40 Work out the whole Google Ads things +EQT
-(E) 02 Calendar event - make a 'asking you a question' thing for Teams - also interms of checking if we are doing things right
+(E) 03 Save a nice family memory +Family @phone    
+(E) 04 Cut Nova and Leo nails +Health    
+(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 05 Cut nails +Health    
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
+(E) 05 Floss +Health   
+(C) 05 Put EQT payments in bank 
+(E) 05 Put Google Photos on your USB stick (or bring the external harddrive home for christmas) 
 (E) 10 Brainstorm Leo learning
 (E) 10 Brainstorm on authenticity
 (E) 10 Brainstorm on the return to the stress charts
 (E) 10 Do a brainstorm on 'unspoken truths' 
 (E) 10 Empty Joe inbox completely +Overhead    
+(A) 10 Export the Balance Sheet, FInantial Activites and unPaid bills from Quickbooks - check this is in the how to do accounts file 
 (E) 10 Lookup replacement cupboard doors for bedtoom 
+(E) 10 Make Christmas project list - car with Nova, New version of exercise bike   
+(B) 10 Move the teams videos  +RHUL
+(C) 10 Review projects
+(E) 10 Setup a bike light charging drawer 
 (E) 10 Setup a weekly calendar for IY3501 so we know what is happening  
 (E) 10 cut top for Nova's chair @garage
 (E) 10 process Garage inbox. 
 (E) 15 Empty Joe inbox completely +Overhead    
+(C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
 (E) 15 Next blender video (and follow along)
+(A) 15 Tell the Project students the date of their viva 
 (E) 15 do the govenment validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
@@ -37,23 +33,23 @@
 (E) 20 Read the everything you need to know about EQT accounts document
 (E) 20 Review all the blinds and lights 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+(A) 20 Talk to the kids about what they would like for Christmas
 (E) 20 minutes practicing on the major decoding 
+(E) 20 process Garage inbox. 
+(C) 30 Create the 'replace these names' version of CASPER (oh - if you do it early in the pipline advance then you can directly anonmise)  
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Make proof of concept with the Raspberry Pi playing games for the Vicious cycle. 
 (E) 30 Review the physics constants 
 (E) 30 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(C) 30 Sort out Joka expenses and EQT ones for last financial year 
+(C) 30 Update all the attendence logs 
 (E) 40 Put more paint on Leo chair  @garage  +offline
+(D) 40 Work out the whole Google Ads things +EQT
+(C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
+(C) 60 Do the herts trainings 
+(C) 60 Draft three exams 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
+(C) 60 Start working through the labs for IY2840 
 (E) 60 Weekend project bike rack (drill some holes into the floor 
-(E) 05 Put Google Photos on your USB stick (or bring the external harddrive home for christmas) 
-(E) 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) 04 Cut Nova and Leo nails +Health    
-(E) 05 Cut nails +Health    
-(E) 05 Floss +Health   
-(E) 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Log weight +Health   
-(E) 10 Make Christmas project list - car with Nova, New version of exercise bike   
-(E) 03 Save a nice family memory +Family @phone    
-(E) 10 Setup a bike light charging drawer 
-(E) 20 process Garage inbox. 
