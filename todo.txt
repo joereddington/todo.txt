@@ -4,7 +4,6 @@
 (E) 05 Cut nails +Health    
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
-(E) 05 Floss +Health   
 (C) 05 Put EQT payments in bank 
 (E) 05 Put Google Photos on your USB stick (or bring the external harddrive home for christmas) 
 (E) 10 Brainstorm Leo learning
