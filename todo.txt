@@ -1,9 +1,8 @@
-(A) 10 Export the Balance Sheet, FInantial Activites and unPaid bills from Quickbooks - check this is in the how to do accounts file 
-(A) 15 Tell the Project students the date of their viva 
-x 2025-12-17 Book hotel 
-(A) Review Introduction to Information Security 
-(A) Mark the Project IPRs
-(A) Mark the student resits for VIVAs
+(A Trustees)  10 Export the Balance Sheet, FInantial Activites and unPaid bills from Quickbooks - check this is in the how to do accounts file 
+(A Students 5th Jan  ) 15 Tell the Project students the date of their viva 
+(A Students 17th Jan ) Mark the Project IPRs
+(A HMRC 31st Jan) Submit Personal Tax return 
+(A Herts 31st Jan) Mark the student resits for VIVAs
 (C) 05 Put EQT payments in bank 
 (C) 10 Review projects
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
