@@ -8863,3 +8863,11 @@ x 2025-12-09 02 Calendar event - make a 'asking you a question' thing for Teams 
 x 2025-12-09 03 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2025-12-09 Log weight +Health   
 x 2025-12-09 03 Save a nice family memory +Family @phone    
+x 2025-12-17 04 Cut Nova and Leo nails +Health    
+x 2025-12-17 05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2025-12-17 05 Cut nails +Health    
+x 2025-12-17 10 Move the teams videos  +RHUL
+x 2025-12-17 15 Empty Joe inbox completely +Overhead    
+x 2025-12-17 15 Next blender video (and follow along)
+x 2025-12-17 20 Talk to the kids about what they would like for Christmas
+x 2025-12-17 30 Update all the attendence logs 
