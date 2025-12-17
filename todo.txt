@@ -1,6 +1,6 @@
 (A) 10 Export the Balance Sheet, FInantial Activites and unPaid bills from Quickbooks - check this is in the how to do accounts file 
 (A) 15 Tell the Project students the date of their viva 
-(A) Book hotel 
+x 2025-12-17 Book hotel 
 (A) Review Introduction to Information Security 
 (A) Mark the Project IPRs
 (A) Mark the student resits for VIVAs
