@@ -6,18 +6,18 @@
 (C) 05 Put EQT payments in bank 
 (C) 10 Review projects
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
-(C) 30 Create the 'Rotating QR code' version of CASPER (oh - if you do it early in the pipline advance then you can directly anonmise)  
-(C) 30 Create the 'replace these names' version of CASPER (oh - if you do it early in the pipline advance then you can directly anonmise)  
+(C) 30 Create the 'Rotating QR code' version of CASPER 
+(C) 30 Test Casper 'replace these names' with last years students .
 (C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
 (C) 60 Start working through the labs for IY2840 
-(C) Confirm you aare on the comics conference mailing list and check old posts 
+(C) Confirm you are on the comics conference mailing list and check old posts 
 (C) Move work bench in garage 
 (D) 40 Work out the whole Google Ads things +EQT
 (E) 02 Make a note to  Draft a weekly calendar for IY3501 so we know what is happening  
-(E) 02 Wikipedia Processing event 
+(E) 02 Create Wikipedia Processing event 
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
 (E) 05 Run Rsync to Backup - check blog post 
