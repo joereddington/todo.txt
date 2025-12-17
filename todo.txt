@@ -3,16 +3,16 @@
 (A Students 17th Jan ) Mark the Project IPRs
 (A HMRC 31st Jan) Submit Personal Tax return 
 (A Herts 31st Jan) Mark the student resits for VIVAs
+(B) 30 Sort out Joka expenses and EQT ones for last financial year 
+(B RHUL) 60 Start working through the labs for IY2840 
 (C) 05 Put EQT payments in bank 
 (C) 10 Review projects
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
-(C) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
-(C) 60 Start working through the labs for IY2840 
 (C) Confirm you are on the comics conference mailing list and check old posts 
 (C) Move work bench in garage 
 (D) 40 Work out the whole Google Ads things +EQT
@@ -29,14 +29,14 @@
 (E) 10 Lookup replacement cupboard doors for bedroom 
 (E) 10 Make Christmas project list - car with Nova, New version of exercise bike   
 (E) 10 Redo the charging drawers 
-(E) 10 cut top for Nova's chair @garage
+(B Nova ) 10 cut top for Nova's chair @garage
 (E) 10 process Garage inbox. 
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
-(E) 20 Read the everything you need to know about EQT accounts document
+(B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
+(B) 20 Read the everything you need to know about EQT accounts document
 (E) 20 Review all the blinds and lights 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 minutes practicing on the major decoding 
@@ -49,9 +49,8 @@
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) 60 Weekend project bike rack (drill some holes into the floor 
-(E) Christmas Tool sharpening! 
-(E) Find out about Office allocations  
-(E) Import notes from pink book p 65 onto computer 
-(E) Make the GA changes to the article 
-(E) Put forward the LastPass article for DYK 
-(E) Read the Capita Judgement on Tablet
+(E) 60 Christmas Tool sharpening! 
+(E) 10 Import notes from pink book p 65 onto computer 
+(E) 10 Make the GA changes to the data breach article 
+(E) 25 Put forward the LastPass article for DYK 
+(E) 20 Read the Capita Judgement on Tablet and put forward for GA

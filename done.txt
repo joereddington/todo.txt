@@ -8873,3 +8873,4 @@ x 2025-12-17 20 Talk to the kids about what they would like for Christmas
 x 2025-12-17 30 Update all the attendence logs 
 x 2025-12-17 Book hotel 
 x 2025-12-17 Review Introduction to Information Security 
+x 2025-12-17 Find out about Office allocations  
