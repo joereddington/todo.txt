@@ -4,10 +4,14 @@
 (A HMRC 31st Jan) Submit Personal Tax return 
 (A Herts 31st Jan) Mark the student resits for VIVAs
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
+(B) Put evrerything from your CV into PURE
 (B RHUL) 60 Start working through the labs for IY2840 
+(A) Transfer £20 
+(C) Day reviewing all the 'reviewme' emails 
 (C) 05 Put EQT payments in bank 
 (C) 10 Review projects
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
+(B) Review wheel of life 
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
