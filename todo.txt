@@ -7,7 +7,7 @@
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
-(B) Put evrerything from your CV into PURE
+(B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (B) Review wheel of life 
 (C) 05 Put EQT payments in bank 
 (C) 10 Review projects
@@ -17,12 +17,9 @@
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
-(C) Confirm you are on the comics conference mailing list and check old posts 
-(C) Day reviewing all the 'reviewme' emails 
 (C) Move work bench in garage  @garage 
 (D) 40 Work out the whole Google Ads things +EQT
 (D) Gradually keep reading the Top Down Networking textbook 
-(E) 02 Make a note to  Draft a weekly calendar for IY3501 so we know what is happening   +RHUL 
 (E) 05 Do pressups with leo 
 (E) 05 Floss +Health   
 (E) 10 Brainstorm Leo learning
@@ -37,7 +34,6 @@
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 20 Read the Capita Judgement on Tablet and put forward for GA
 (E) 20 Review all the blinds and lights 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) 20 minutes practicing on the major decoding 
