@@ -8874,3 +8874,12 @@ x 2025-12-17 30 Update all the attendence logs
 x 2025-12-17 Book hotel 
 x 2025-12-17 Review Introduction to Information Security 
 x 2025-12-17 Find out about Office allocations  
+x 2025-12-26 Update JOB application 
+x 2025-12-26 Put textbook on tablet
+x 2025-12-26 02 Create Wikipedia Processing event 
+x 2025-12-26 05 Run Rsync to Backup - check blog post 
+x 2025-12-26 10 Make the GA changes to the data breach article 
+x 2025-12-26 10 Make Christmas project list - car with Nova, New version of exercise bike   
+x 2025-12-26 10 Redo the charging drawers 
+x 2025-12-26 (A Students 5th Jan  ) 15 Tell the Project students the date of their viva 
+x 2025-12-26 25 Put forward the LastPass article for DYK 
