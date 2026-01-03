@@ -8897,3 +8897,5 @@ x 2026-01-01 30 Make proof of concept with the Raspberry Pi playing games for th
 x 2026-01-01 Review wheel of life 
 x 2026-01-01 10 Empty Joe inbox completely +Overhead    
 x 2026-01-01 30 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2026-01-03 Clear up the cables on the sofa 
+x 2026-01-03 Write a blog
