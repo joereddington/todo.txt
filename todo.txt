@@ -21,7 +21,6 @@
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
 (D) 40 Work out the whole Google Ads things +EQT
 (D) Gradually keep reading the Top Down Networking textbook 
-(E) 02 Calendar event to book an extra MOT 
 (E) 05 Floss +Health   
 (E) 10 Brainstorm Leo learning
 (E) 10 Brainstorm better system for taking notes with libby. Ideally to Google Drive or a blog 
@@ -39,8 +38,7 @@
 (E) 20 minutes practicing on the major decoding 
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Review the physics constants 
-(E) 60 Christmas Tool sharpening!  @garage 
+(E) 60 Tool sharpening!  @garage 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-(E) Coconut Hot Chocolate 
 (E) Take Photo and offer the treadmill out on Facebook 

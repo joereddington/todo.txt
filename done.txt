@@ -8901,3 +8901,5 @@ x 2026-01-03 Clear up the cables on the sofa
 x 2026-01-03 Write a blog
 x 2026-01-03 Add to wishlist - improved hammer drill 
 x 2026-01-03 Order the form inserts for new tool cabinet 
+x 2026-01-03 02 Calendar event to book an extra MOT 
+x 2026-01-03 Coconut Hot Chocolate 
