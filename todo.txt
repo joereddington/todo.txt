@@ -6,6 +6,7 @@
 (A) Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
 (A) process emotional todo list. 
 (B RHUL) 60 Start working through the labs for IY2840 
+(C) Start the rightmove spreadsheet
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
