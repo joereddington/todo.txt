@@ -8933,3 +8933,6 @@ x 2026-01-05 Check ranking scripts +Overhead
 x 2026-01-05 Check Passports are in the safe
 x 2026-01-05 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 x 2026-01-05 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-01-05 (A Herts 31st Jan) Mark the student resits for VIVAs
+x 2026-01-05 Review projects
+x 2026-01-05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§

@@ -1,5 +1,4 @@
 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
-x 2026-01-05 (A Herts 31st Jan) Mark the student resits for VIVAs
 (A Students 17th Jan ) Mark the RHUL Project IPRs
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
 (A) Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
@@ -22,35 +21,34 @@ x 2026-01-05 (A Herts 31st Jan) Mark the student resits for VIVAs
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Move work bench in garage  @garage 
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
-(C) Review Wheel Of life Projects
-(C) Review projects
+(C) Review Wheel Of life Projects @offline
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) Start the rightmove spreadsheet
 (D) 40 Work out the whole Google Ads things +EQT
-(D) Check starred messages in kat whatsapp 
+(D) Check starred messages in kat whatsapp @offline 
 (D) Do full accounts algorithm +EQT 
-(D) Gradually keep reading the Top Down Networking textbook 
+(D) Gradually keep reading the Top Down Networking textbook  @offline
 (E) 05 Floss +Health   
 (E) 10 Brainstorm Leo learning
-(E) 10 Brainstorm better system for taking notes with libby. Ideally to Google Drive or a blog 
-(E) 10 Brainstorm on authenticity
-(E) 10 Brainstorm on the return to the stress charts
-(E) 10 Do a brainstorm on 'unspoken truths' 
-(E) 10 Import notes from pink book p 65 onto computer 
+(E) 10 Brainstorm better system for taking notes with libby. Ideally to Google Drive or a blog  @offline
+(E) 10 Brainstorm on authenticity @offline
+(E) 10 Brainstorm on the return to the stress charts @offline
+(E) 10 Do a brainstorm on 'unspoken truths'  @offline
+(E) 10 Import notes from pink book p 65 onto computer  @offline
 (E) 10 Lookup replacement cupboard doors for bedroom 
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) 20 minutes practicing on the major decoding 
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
+(E) 20 minutes practicing on the major decoding  @offline
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Review the physics constants 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2026-01-05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup AWS +EQT
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Cut Nova and Leo nails +Health    
