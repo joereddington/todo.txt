@@ -8938,3 +8938,7 @@ x 2026-01-05 Review projects
 x 2026-01-05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-01-05 Check that everything in the 'in process' box really does have a task+Overhead   +EQT @offline
 x 2026-01-05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-01-05 Post to Vegan Facebook group  @phone   
+x 2026-01-05 Make sure you have a continual professional developement practice happening  +EQT
+x 2026-01-05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-01-05 Do full review of the memory palace. 

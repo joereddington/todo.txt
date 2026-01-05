@@ -1,8 +1,36 @@
+(E) Floss +Health    @offline
+(E) Cut Nova and Leo nails +Health     @offline
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
+(E) 20 minutes practicing on the major decoding  @offline
+(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
+(E) 10 Import notes from pink book p 65 onto computer  @offline
+(E) 10 Do a brainstorm on 'unspoken truths'  @offline
+(E) 10 Brainstorm on the return to the stress charts @offline
+(E) 10 Brainstorm on authenticity @offline
+(E) 10 Brainstorm Leo learning @offline
+(E) Double check that the libby screenshots directory is working on Google 
+(E) 05 Floss +Health    @offline
+(D) Gradually keep reading the Top Down Networking textbook  @offline
+(D) Check starred messages in kat whatsapp @offline 
+(C) Review Wheel Of life Projects @offline
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
+(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
+(A) process emotional todo list.  @offline
+(E) Check to see if Outlook is downloading all the attachments. 
+(A) Check the final deadline for Herts Final Project submission 
+(E) Check the Apple AirTags 
+(E) Lookup Scratch Maths with Nova 
+(E) Nova wants to do some stop motion 
+(C) 02 Email - follow up on the banking form 
+(E) Get Fire alarm for the Garage 
+(E) Look at the photo you took in the libray and convert it in to notes for IY3501 
+(E) Make a list of things to do to prepare the desktop for a reboot 
+(E) Release the GDPR notes for IY3501 
+(E) Find out if Forensics modeule does any wireshark activity. 
 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
 (A Students 17th Jan ) Mark the RHUL Project IPRs
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
 (A) Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
-(A) process emotional todo list.  @offline
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
@@ -12,54 +40,33 @@
 (C) 05 Put EQT payments in bank 
 (C) Email project students to tell them when meetings restart 
 (C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
 (C) Move work bench in garage  @garage 
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
-(C) Review Wheel Of life Projects @offline
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) Start the rightmove spreadsheet
 (D) 40 Work out the whole Google Ads things +EQT
-(D) Check starred messages in kat whatsapp @offline 
 (D) Do full accounts algorithm +EQT 
-(D) Gradually keep reading the Top Down Networking textbook  @offline
-(E) 05 Floss +Health    @offline
-(E) 10 Brainstorm Leo learning @offline
-(E) 10 Brainstorm better system for taking notes with libby. Ideally to Google Drive or a blog  @offline
-(E) 10 Brainstorm on authenticity @offline
-(E) 10 Brainstorm on the return to the stress charts @offline
-(E) 10 Do a brainstorm on 'unspoken truths'  @offline
-(E) 10 Import notes from pink book p 65 onto computer  @offline
 (E) 10 Lookup replacement cupboard doors for bedroom 
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
-(E) 20 minutes practicing on the major decoding  @offline
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Review the physics constants 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Backup AWS +EQT
-(E) Cut Nova and Leo nails +Health     @offline
-(E) Do full review of the memory palace. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health    @offline
 (E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure you have a continual professional developement practice happening  +EQT
 (E) Mix paints to make purple for Nova's chair. 
-(E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
