@@ -2,7 +2,7 @@
 (A Students 17th Jan ) Mark the RHUL Project IPRs
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
 (A) Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
-(A) process emotional todo list. 
+(A) process emotional todo list.  @offline
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
@@ -12,13 +12,13 @@
 (C) 05 Put EQT payments in bank 
 (C) Email project students to tell them when meetings restart 
 (C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Measure up space when spare room bed is out  (and get Ikea desk) 
+(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
 (C) Move work bench in garage  @garage 
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
 (C) Review Wheel Of life Projects @offline
@@ -30,8 +30,8 @@
 (D) Check starred messages in kat whatsapp @offline 
 (D) Do full accounts algorithm +EQT 
 (D) Gradually keep reading the Top Down Networking textbook  @offline
-(E) 05 Floss +Health   
-(E) 10 Brainstorm Leo learning
+(E) 05 Floss +Health    @offline
+(E) 10 Brainstorm Leo learning @offline
 (E) 10 Brainstorm better system for taking notes with libby. Ideally to Google Drive or a blog  @offline
 (E) 10 Brainstorm on authenticity @offline
 (E) 10 Brainstorm on the return to the stress charts @offline
@@ -48,16 +48,13 @@
 (E) 30 Review the physics constants 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-x 2026-01-05 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) Backup AWS +EQT
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Cut Nova and Leo nails +Health    
+(E) Cut Nova and Leo nails +Health     @offline
 (E) Do full review of the memory palace. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
+(E) Floss +Health    @offline
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure you have a continual professional developement practice happening  +EQT
