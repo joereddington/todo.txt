@@ -8908,3 +8908,10 @@ x 2026-01-05 Take Photo and offer the treadmill out on Facebook
 x 2026-01-05 Put £20 cash into your RHUL bag 
 x 2026-01-05 Get Flu vaccine +Health
 x 2026-01-05 Trim nose hair +Health    
+x 2026-01-05 TSE +Health  
+x 2026-01-05 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-01-05 Check wishlist
+x 2026-01-05 Publicly thank someone +Overhead  
+x 2026-01-05 Review starred items in feeds +Overhead +EQT
+x 2026-01-05 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2026-01-05 Fix the Moodle 
