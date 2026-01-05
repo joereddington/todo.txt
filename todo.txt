@@ -45,6 +45,10 @@
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
+(E) 10 Do a brainstorm on Holidays
+(E) 10 Make a list of things to do Christmas Differnet and put them in calender notes. 
+(E) Find out about a better icing and try it. 
+(E) Sort out the coconut oil case. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
 (E) 20 minutes practicing on the major decoding  @offline
 (E) 30 Lookup some funding for EQT things 
@@ -60,13 +64,14 @@
 (E) email to find out if the Forensics module does any wireshark activity. 
 (E) Find out if there are better routers available 
 (E) Floss +Health    @offline
-(E) Get Fire alarm for the Garage 
+(E) Get Fire alarm for the Garage  @amazon
 (E) Give laptop screen a good clean +Overhead
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look at the photo you took in the libray and convert it in to notes for IY3501 
-(E) Lookup Scratch Maths with Nova 
+(E) Lookup Scratch Maths for Nova 
 (E) Make a list of things to do to prepare the desktop for a reboot: backups, upgrades, plans 
+(C) Upload the RHUL content that isn't already under version control 
 (E) Mix paints to make purple for Nova's chair. 
 (E) Nova wants to do some stop motion 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
