@@ -8948,3 +8948,4 @@ x 2026-01-06 Check starred messages in kat whatsapp @offline
 x 2026-01-06 process emotional todo list.  @offline
 x 2026-01-06 Get Fire alarm for the Garage  @amazon
 x 2026-01-06 process Garage inbox. 
+x 2026-01-06 email to find out if the Forensics module does any wireshark activity. 
