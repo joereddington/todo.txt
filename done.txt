@@ -8968,3 +8968,6 @@ x 2026-01-06 10 Make a list of things to do Christmas Different and put them in 
 x 2026-01-06 Find out if there are better routers available 
 x 2026-01-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-01-06 See what sort of maths you can do in scratch for Nova
+x 2026-01-06 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2026-01-06 Write Moonpig cards for this month +Overhead
+x 2026-01-06 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
