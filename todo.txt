@@ -6,7 +6,6 @@
 (E) 10 Do a brainstorm on Holidays
 (E) 10 Import notes from pink book p 65 onto computer  @offline
 (E) 10 Lookup replacement cupboard doors for bedroom 
-(E) 10 Make a list of things to do Christmas Differnet and put them in calender notes. 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (E) 15 do the government validation with Passport
@@ -31,22 +30,17 @@
 (E) 10  Check the Apple AirTags 
 (A) 20 Download all the Herts Submissions. 
 (A) 40 Clear out the email inbox. 
-(E) Cut Leo toenails +Health     @offline
-(E) Double check that the libby screenshots directory is working on Google 
-(C) Email project students to tell them when meetings restart 
-(E) Find out about a better icing and try it. 
-(E) Find out if there are better routers available 
-(E) Floss +Health    @offline
-(E) Give laptop screen a good clean +Overhead
-(E) Go and sit on some awesome new office chairs in shops 
+(E) 10 Cut Leo toenails +Health     @offline
+(E) 20 Find out about a better icing and try it. 
+(E) 05 Floss +Health    @offline
+(E) 03 Give laptop screen a good clean +Overhead
+(E) 30 Go and sit on some awesome new office chairs in shops 
 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
-(D) Gradually keep reading the Top Down Networking textbook  @offline
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Look at the photo you took in the libray and convert it in to notes for IY3501 
-(E) Lookup Scratch Maths for Nova 
-(E) Make a list of things to do to prepare the desktop for a reboot: backups, upgrades, plans 
-(A Students 17th Jan ) Mark the RHUL Project IPRs
+(D) 30 100 pages on the Top Down Networking textbook  @offline
+(E) complete to  Randy Pausch Talk +Overhead @phone  
+(E) 10 Look at the photo you took in the libray and convert it in to notes for IY3501 
+(E) 10 Price up a new main SSD drive for the main computer - 
+(A Students 17th Jan ) Mark the RHUL Project IPRs 
 (E) Mix/buy paints to make purple for Nova's chair. 
 (E) Nova wants to do some stop motion 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 

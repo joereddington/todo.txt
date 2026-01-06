@@ -8962,3 +8962,9 @@ x 2026-01-06 Change the 'AT LEAST' goal so that it's about making sure that all 
 x 2026-01-06 Check to see if Outlook is downloading all the attachments. 
 x 2026-01-06 Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
 x 2026-01-06 Do full accounts algorithm +EQT 
+x 2026-01-06 Double check that the libby screenshots directory is working on Google 
+x 2026-01-06 Email project students to tell them when meetings restart 
+x 2026-01-06 10 Make a list of things to do Christmas Different and put them in calender notes. 
+x 2026-01-06 Find out if there are better routers available 
+x 2026-01-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-01-06 See what sort of maths you can do in scratch for Nova
