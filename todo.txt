@@ -6,7 +6,7 @@
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
-(B) Make sure you have booked a bunch of leave from RHUL 
+x 2026-01-06 Make sure you have booked a bunch of leave from RHUL 
 (B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (B) Take table saw to bedroom for skirting boards. 
 (B) make changes to coursework by clicking on the links to Akari  (I flagged a relevant email) 
@@ -70,9 +70,7 @@
 (E) Nova wants to do some stop motion 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Release the GDPR notes for IY3501 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) Sort out the coconut oil case. 

@@ -8950,3 +8950,5 @@ x 2026-01-06 Get Fire alarm for the Garage  @amazon
 x 2026-01-06 process Garage inbox. 
 x 2026-01-06 email to find out if the Forensics module does any wireshark activity. 
 x 2026-01-06 Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
+x 2026-01-06 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2026-01-06 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
