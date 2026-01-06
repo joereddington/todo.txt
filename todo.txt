@@ -30,20 +30,19 @@
 (E) 05 Floss +Health    @offline
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
-(E) 10  double check the Apple AirTags 
+(E) 10 double check the Apple AirTags 
 (E) 10 Cut Leo toenails +Health     @offline
 (E) 10 Do a brainstorm on Holidays
-(E) 10 Look at the photo you took in the libray and convert it in to notes for IY3501 
-(E) 10 Lookup replacement cupboard doors for bedroom 
+(E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
+(E) 10 search ebay for replacement cupboard doors for bedroom 
 (E) 10 Mix/buy paints to make purple for Nova's chair. 
 (E) 10 Price up a new main SSD drive for the main computer - 
 (E) 10 Sort out the coconut oil case. 
 (E) 10 Update nell about visits and general plans 
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) 15 add Wigan Casino to your wikipedia list. 
+(E) 15 Upload the Wigan Casino image and message back 
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
-(E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
 (E) 20 Find out about a better icing and try it. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
