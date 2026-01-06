@@ -16,7 +16,7 @@
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood  to Move work bench in garage  @garage 
-(C) 20 Start the rightmove spreadsheet
+(C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
