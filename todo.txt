@@ -1,81 +1,76 @@
-(A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
-(A Students 17th Jan ) Mark the RHUL Project IPRs
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
-(A) Check the final deadline for Herts Final Project submission and start marking! 
-(A) Clear out the inbox. 
-(B RHUL) 60 Start working through the labs for IY2840 
-(E) Get yourself an awesome new chair 
-(B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
-(B) 30 Sort out Joka expenses and EQT ones for last financial year 
-x 2026-01-06 Make sure you have booked a bunch of leave from RHUL 
-(B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
-(B) Take table saw to bedroom for skirting boards. 
-(B) make changes to coursework by clicking on the links to Akari  (I flagged a relevant email) 
-(C) 02 Email - follow up on the banking form 
-(C) 05 Put EQT payments in bank 
-(C) 10 Year plan: check you have 5 projects in each part
-(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
-(C) 30 Create the 'Rotating QR code' version of CASPER 
-(C) 30 Test Casper 'replace these names' with last years students .
-(C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
-(C) 60 Do the herts trainings 
-(C) 60 Draft three exams 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
-(C) Email project students to tell them when meetings restart 
-(C) Move work bench in garage  @garage 
-(C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
-(C) Review Wheel Of life Projects @offline
-(C) Run mgit status on the git directory and process all alerts +EQT
-(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
-(C) Start the rightmove spreadsheet
-(C) Upload the RHUL content that isn't already under version control 
-(D) 40 Work out the whole Google Ads things +EQT
-(D) Do full accounts algorithm +EQT 
-(D) Gradually keep reading the Top Down Networking textbook  @offline
 (E) 05 Floss +Health    @offline
+(C) 05 Put EQT payments in bank 
 (E) 10 Brainstorm Leo learning @offline
 (E) 10 Do a brainstorm on 'unspoken truths'  @offline
 (E) 10 Do a brainstorm on Holidays
 (E) 10 Import notes from pink book p 65 onto computer  @offline
 (E) 10 Lookup replacement cupboard doors for bedroom 
 (E) 10 Make a list of things to do Christmas Differnet and put them in calender notes. 
+(C) 10 Year plan: check you have 5 projects in each part
+(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
+(B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
 (E) 20 minutes practicing on the major decoding  @offline
+(C) 30 Create the 'Rotating QR code' version of CASPER 
 (E) 30 Lookup some funding for EQT things 
 (E) 30 Review the physics constants 
+(B) 30 Sort out Joka expenses and EQT ones for last financial year 
+(C) 30 Test Casper 'replace these names' with last years students .
+(D) 40 Work out the whole Google Ads things +EQT
+(C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
+(C) 60 Do the herts trainings 
+(C) 60 Draft three exams 
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-(E) Backup AWS +EQT
+(B RHUL) 60 Start working through the labs for IY2840 
+x 2026-01-06 Backup AWS +EQT
 (E) Change the 'AT LEAST' goal so that it's about making sure that all the timings for events have been shared with Kat and anyone else who wants to know about it. 
 (E) Check the Apple AirTags 
+(A) Check the final deadline for Herts Final Project submission and start marking! 
 (E) Check to see if Outlook is downloading all the attachments. 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
+(A) Clear out the inbox. 
 (E) Cut Nova and Leo nails +Health     @offline
+(D) Do full accounts algorithm +EQT 
 (E) Double check that the libby screenshots directory is working on Google 
-(E) Empty whatsapp and facebook inboxes. +Overhead  
+(C) Email project students to tell them when meetings restart 
 (E) Find out about a better icing and try it. 
 (E) Find out if there are better routers available 
 (E) Floss +Health    @offline
-(E) Follow up on speech therapy 
 (E) Give laptop screen a good clean +Overhead
+(E) Go and sit on some awesome new office chairs in shops 
+(A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
+(D) Gradually keep reading the Top Down Networking textbook  @offline
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) Lookup Scratch Maths for Nova 
 (E) Make a list of things to do to prepare the desktop for a reboot: backups, upgrades, plans 
+(A Students 17th Jan ) Mark the RHUL Project IPRs
 (E) Mix/buy paints to make purple for Nova's chair. 
 (E) Nova wants to do some stop motion 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (E) Release the GDPR notes for IY3501 
+(C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
+(C) Review Wheel Of life Projects @offline
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) Save a nice family memory +Family @phone    
+(C) Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (E) See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) Sort out the coconut oil case. 
+(C) Sort wood  to Move work bench in garage  @garage 
+(C) Start the rightmove spreadsheet
+(B) Take table saw to bedroom for skirting boards. 
 (E) Update nell about visits and general plans 
 (E) Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
+(C) Upload the RHUL content that isn't already under version control 
 (E) Write Moonpig cards for this month +Overhead
 (E) add Wigan Casino to your wikipedia list. 
