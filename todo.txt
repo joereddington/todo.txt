@@ -7,10 +7,10 @@
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
-(B) make changes to coursework by clicking on the links to Akari  (I flagged a relevant email) 
 (B) Make sure you have booked a bunch of leave from RHUL 
 (B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (B) Take table saw to bedroom for skirting boards. 
+(B) make changes to coursework by clicking on the links to Akari  (I flagged a relevant email) 
 (C) 02 Email - follow up on the banking form 
 (C) 05 Put EQT payments in bank 
 (C) 10 Year plan: check you have 5 projects in each part
@@ -23,32 +23,27 @@
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
 (C) Email project students to tell them when meetings restart 
 (C) Move work bench in garage  @garage 
-(E) Follow up on speech therapy 
-(E) Update nell about visits and general plans 
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
 (C) Review Wheel Of life Projects @offline
 (C) Run mgit status on the git directory and process all alerts +EQT
 (C) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
-(E) Change the 'AT LEAST' goal so that it's about making sure that all the timings for events have been shared with Kat and anyone else who wants to know about it. 
 (C) Start the rightmove spreadsheet
+(C) Upload the RHUL content that isn't already under version control 
 (D) 40 Work out the whole Google Ads things +EQT
-(D) Check starred messages in kat whatsapp @offline 
 (D) Do full accounts algorithm +EQT 
 (D) Gradually keep reading the Top Down Networking textbook  @offline
 (E) 05 Floss +Health    @offline
 (E) 10 Brainstorm Leo learning @offline
 (E) 10 Do a brainstorm on 'unspoken truths'  @offline
+(E) 10 Do a brainstorm on Holidays
 (E) 10 Import notes from pink book p 65 onto computer  @offline
 (E) 10 Lookup replacement cupboard doors for bedroom 
+(E) 10 Make a list of things to do Christmas Differnet and put them in calender notes. 
 (E) 15 do the government validation with Passport
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Cut wood for Turbo trainer stand for the kids @garage
 (E) 20 Do some computer work with Leo 
-(E) 10 Do a brainstorm on Holidays
-(E) 10 Make a list of things to do Christmas Differnet and put them in calender notes. 
-(E) Find out about a better icing and try it. 
-(E) Sort out the coconut oil case. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
 (E) 20 minutes practicing on the major decoding  @offline
 (E) 30 Lookup some funding for EQT things 
@@ -56,14 +51,16 @@
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (E) Backup AWS +EQT
+(E) Change the 'AT LEAST' goal so that it's about making sure that all the timings for events have been shared with Kat and anyone else who wants to know about it. 
 (E) Check the Apple AirTags 
 (E) Check to see if Outlook is downloading all the attachments. 
 (E) Cut Nova and Leo nails +Health     @offline
 (E) Double check that the libby screenshots directory is working on Google 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) email to find out if the Forensics module does any wireshark activity. 
+(E) Find out about a better icing and try it. 
 (E) Find out if there are better routers available 
 (E) Floss +Health    @offline
+(E) Follow up on speech therapy 
 (E) Get Fire alarm for the Garage  @amazon
 (E) Give laptop screen a good clean +Overhead
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
@@ -71,8 +68,7 @@
 (E) Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) Lookup Scratch Maths for Nova 
 (E) Make a list of things to do to prepare the desktop for a reboot: backups, upgrades, plans 
-(C) Upload the RHUL content that isn't already under version control 
-(E) Mix paints to make purple for Nova's chair. 
+(E) Mix/buy paints to make purple for Nova's chair. 
 (E) Nova wants to do some stop motion 
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Release the GDPR notes for IY3501 
@@ -81,7 +77,10 @@
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Save a nice family memory +Family @phone    
 (E) See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
+(E) Sort out the coconut oil case. 
+(E) Update nell about visits and general plans 
 (E) Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
 (E) Write Moonpig cards for this month +Overhead
 (E) add Wigan Casino to your wikipedia list. 
+(E) email to find out if the Forensics module does any wireshark activity. 
 (E) process Garage inbox. 
