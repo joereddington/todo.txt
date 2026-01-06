@@ -37,13 +37,13 @@
 (E) 30 Go and sit on some awesome new office chairs in shops 
 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
 (D) 30 100 pages on the Top Down Networking textbook  @offline
-(E) complete to  Randy Pausch Talk +Overhead @phone  
+(E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 10 Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) 10 Price up a new main SSD drive for the main computer - 
 (A Students 17th Jan ) Mark the RHUL Project IPRs 
-(E) Mix/buy paints to make purple for Nova's chair. 
-(E) Nova wants to do some stop motion 
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) 10 Mix/buy paints to make purple for Nova's chair. 
+(E) 30 Nova wants to do some stop motion 
+x 2026-01-06 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (B) Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (E) Release the GDPR notes for IY3501 
 (C) Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
