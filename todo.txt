@@ -1,8 +1,8 @@
 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
 (A Students 17th Jan ) Mark the RHUL Project IPRs
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
-(A) Backup bigdisk to the USB drive and store it separately, wait isn't it in the safe 
 (A) Check the final deadline for Herts Final Project submission and start marking! 
+(A) Clear out the inbox. 
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 20 Open littlefinger Work out how much you are going tp claim under tax deductions for 24-25
 (B) 30 Sort out Joka expenses and EQT ones for last financial year 
@@ -80,4 +80,3 @@
 (E) Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
 (E) Write Moonpig cards for this month +Overhead
 (E) add Wigan Casino to your wikipedia list. 
-x 2026-01-06 email to find out if the Forensics module does any wireshark activity. 
