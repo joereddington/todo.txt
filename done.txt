@@ -8957,3 +8957,8 @@ x 2026-01-06 02 Email - follow up on the banking form
 x 2026-01-06 Empty whatsapp and facebook inboxes. +Overhead  
 x 2026-01-06 Make sure you have booked a bunch of leave from RHUL 
 x 2026-01-06 Follow up on speech therapy 
+x 2026-01-06 Backup AWS +EQT
+x 2026-01-06 Change the 'AT LEAST' goal so that it's about making sure that all the timings for events have been shared with Kat and anyone else who wants to know about it. 
+x 2026-01-06 Check to see if Outlook is downloading all the attachments. 
+x 2026-01-06 Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
+x 2026-01-06 Do full accounts algorithm +EQT 

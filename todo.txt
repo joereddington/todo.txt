@@ -28,15 +28,10 @@
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone   @offline
 (E) 60 Put in the EQT expenses claims for the end of last year. 
 (B RHUL) 60 Start working through the labs for IY2840 
-x 2026-01-06 Backup AWS +EQT
-(E) Change the 'AT LEAST' goal so that it's about making sure that all the timings for events have been shared with Kat and anyone else who wants to know about it. 
-(E) Check the Apple AirTags 
-(A) Check the final deadline for Herts Final Project submission and start marking! 
-(E) Check to see if Outlook is downloading all the attachments. 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline
-(A) Clear out the inbox. 
-(E) Cut Nova and Leo nails +Health     @offline
-(D) Do full accounts algorithm +EQT 
+(E) 10  Check the Apple AirTags 
+(A) 20 Download all the Herts Submissions. 
+(A) 40 Clear out the email inbox. 
+(E) Cut Leo toenails +Health     @offline
 (E) Double check that the libby screenshots directory is working on Google 
 (C) Email project students to tell them when meetings restart 
 (E) Find out about a better icing and try it. 
