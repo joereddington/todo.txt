@@ -5,8 +5,6 @@
 (B RHUL) 60 Start working through the labs for IY2840 
 (B) 06 Take table saw to bedroom for skirting boards. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
-(B) 20 Open littlefinger Work out how much you are going to claim under tax deductions for 24-25
-(B) 30 Sort out Joka expenses and EQT ones for last financial year 
 (C) 05 Put EQT payments in bank 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) 10 Upload the RHUL content that isn't already under version control 

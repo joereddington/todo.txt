@@ -8978,3 +8978,5 @@ x 2026-01-06 10 Import notes from pink book p 65 onto computer  @offline
 x 2026-01-06 30 Lookup some funding for EQT things 
 x 2026-01-06 20 Cut wood for Turbo trainer stand for the kids @garage
 x 2026-01-07 (A HMRC 31st Jao) Go to https://www.gov.uk/log-in-file-self-assessment-tax-return and start to Submit Personal Tax return 
+x 2026-01-07 20 Open littlefinger Work out how much you are going to claim under tax deductions for 24-25
+x 2026-01-07 30 Sort out Joka expenses and EQT ones for last financial year 
