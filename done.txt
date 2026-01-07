@@ -8982,3 +8982,4 @@ x 2026-01-07 20 Open littlefinger Work out how much you are going to claim under
 x 2026-01-07 30 Sort out Joka expenses and EQT ones for last financial year 
 x 2026-01-07 15 do the government validation with Passport
 x 2026-01-07 30 Review the physics constants 
+x 2026-01-07 20 minutes practicing on the major decoding  @offline

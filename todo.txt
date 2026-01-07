@@ -42,7 +42,6 @@
 (E) 20 Do some computer work with Leo 
 (E) 20 Find out about a better icing and try it. 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
-(E) 20 minutes practicing on the major decoding  @offline
 (E) 30 Go and sit on some awesome new office chairs in shops 
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
