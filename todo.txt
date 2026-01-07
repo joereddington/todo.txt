@@ -23,7 +23,8 @@
 (C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
-(C) 30 Test Casper 'replace these names' with last years students .
+x 2026-01-07 30 Test Casper 'replace these names' with last years students .
+(C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
 (C) 50 Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
 (E) Pick a bunch of tasks that can be live-streamed.
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
@@ -49,7 +50,6 @@
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Do some computer work with Leo 
 (E) 20 Find out about a better icing and try it. 
-(E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
 (E) 30 Go and sit on some awesome new office chairs in shops 
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
