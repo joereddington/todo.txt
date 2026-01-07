@@ -1,8 +1,15 @@
 (A Students 17th Jan ) Mark the RHUL Project IPRs 
+(B) Install Php on laptop 
+(E) TIdy the spare room 
+(C) Open and read blog post from the Google Ads post and work out a next action 
+(A) Look in Quickbooks at the unpaid bills report (check the expenses reports against Littlefinger)
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
+(E) Talk to an accountant about structuring self-employment. 
 (A) 20 Download all the Herts Submissions. 
+(E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (A) 40 Clear out the email inbox. 
 (B RHUL) 60 Review the second lab for IY2840 
+(E) Try the minute-taking AI again. 
 (B) 06 Take table saw to bedroom for skirting boards. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (C) 05 Put EQT payments in bank 
@@ -18,6 +25,7 @@
 (C) 30 Create the 'Rotating QR code' version of CASPER 
 (C) 30 Test Casper 'replace these names' with last years students .
 (C) 50 Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
+(E) Pick a bunch of tasks that can be live-streamed.
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
@@ -25,17 +33,17 @@
 (D) 40 Work out the whole Google Ads things +EQT
 (E) 03 Save a nice family memory +Family @phone    
 (E) 05 Floss +Health    @offline
+(E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
-(E) 10 double check the Apple AirTags 
 (E) 10 Cut Leo toenails +Health     @offline
 (E) 10 Do a brainstorm on Holidays
-(E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
-(E) 10 search ebay for replacement cupboard doors for bedroom 
 (E) 10 Mix/buy paints to make purple for Nova's chair. 
 (E) 10 Price up a new main SSD drive for the main computer - 
 (E) 10 Sort out the coconut oil case. 
 (E) 10 Update nell about visits and general plans 
+(E) 10 double check the Apple AirTags 
+(E) 10 search ebay for replacement cupboard doors for bedroom 
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 15 Upload the Wigan Casino image and message back 
 (E) 20 Attach the metal bar to the side of the house @garage 
@@ -47,3 +55,4 @@
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
+(E) Install PhP on mac 
