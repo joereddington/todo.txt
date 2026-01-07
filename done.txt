@@ -8984,3 +8984,4 @@ x 2026-01-07 15 do the government validation with Passport
 x 2026-01-07 30 Review the physics constants 
 x 2026-01-07 20 minutes practicing on the major decoding  @offline
 x 2026-01-07 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
+x 2026-01-07 30 Test Casper 'replace these names' with last years students .

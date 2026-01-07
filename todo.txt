@@ -23,8 +23,8 @@
 (C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
-x 2026-01-07 30 Test Casper 'replace these names' with last years students .
 (C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
+(E) Find out how to fix the date on a git commit 
 (C) 50 Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
 (E) Pick a bunch of tasks that can be live-streamed.
 (C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
