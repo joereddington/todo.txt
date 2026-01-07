@@ -1,17 +1,13 @@
 (A Students 17th Jan ) Mark the RHUL Project IPRs 
-(B) Install Php on laptop 
-(E) TIdy the spare room 
-(C) Open and read blog post from the Google Ads post and work out a next action 
-(A) Look in Quickbooks at the unpaid bills report (check the expenses reports against Littlefinger)
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
-(E) Talk to an accountant about structuring self-employment. 
 (A) 20 Download all the Herts Submissions. 
-(E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (A) 40 Clear out the email inbox. 
+(A) Look in Quickbooks at the unpaid bills report (check the expenses reports against Littlefinger)
+(A) Message L about Tuesday 
 (B RHUL) 60 Review the second lab for IY2840 
-(E) Try the minute-taking AI again. 
 (B) 06 Take table saw to bedroom for skirting boards. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
+(B) Install Php on laptop 
 (C) 05 Put EQT payments in bank 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) 10 Upload the RHUL content that isn't already under version control 
@@ -23,13 +19,12 @@
 (C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Create the 'Rotating QR code' version of CASPER 
-(C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
-(E) Find out how to fix the date on a git commit 
 (C) 50 Replace the code on the arduino - find out the proper way to mock the Keyboard functions. 
-(E) Pick a bunch of tasks that can be live-streamed.
-(C) 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
+(C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
+(C) Open and read blog post from the Google Ads post and work out a next action 
+(C) Put the WOMBAT code in to AI
 (D) 30 100 pages on the Top Down Networking textbook  @offline
 (D) 40 Work out the whole Google Ads things +EQT
 (E) 03 Save a nice family memory +Family @phone    
@@ -48,11 +43,19 @@
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 15 Upload the Wigan Casino image and message back 
 (E) 20 Attach the metal bar to the side of the house @garage 
-(E) 20 Do some computer work with Leo 
 (E) 20 Find out about a better icing and try it. 
 (E) 30 Go and sit on some awesome new office chairs in shops 
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
+(E) Find out how to fix the date on a git commit 
+(E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (E) Install PhP on mac 
+(E) Make a list of other things you can do on the computer with Leo 
+(E) Pick a bunch of tasks that can be live-streamed.
+(E) TIdy the spare room 
+(E) Talk to an accountant about structuring self-employment. 
+(E) Try the minute-taking AI again. 
+(E) Make a calendar event for the first day you can start Marking IY3501 
+(A) Prepare Presentation marking documents 

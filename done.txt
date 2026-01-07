@@ -8985,3 +8985,5 @@ x 2026-01-07 30 Review the physics constants
 x 2026-01-07 20 minutes practicing on the major decoding  @offline
 x 2026-01-07 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT @offline
 x 2026-01-07 30 Test Casper 'replace these names' with last years students .
+x 2026-01-07 60 Build a test set for WOMBAT  referencing system from the examples we have.  +RHUL 
+x 2026-01-07 20 Do some computer work with Leo 
