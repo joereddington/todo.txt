@@ -4,9 +4,9 @@
 (A) 20 Download all the Herts Submissions. 
 (A) 40 Clear out the email inbox. 
 (A) Fill out Gratitude Book 
-(A) Look in Quickbooks at the unpaid bills report (check the expenses reports against Littlefinger)
 (A) Message L about Tuesday 
 (A) Prepare Presentation marking documents 
+(A) Setup standing order to Kat for £31 
 (A) process emotional todo list. 
 (B RHUL) 60 Review the second lab for IY2840 
 (B) 06 Take table saw to bedroom for skirting boards. 
@@ -19,7 +19,6 @@
 (C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
-(A) Setup standing order to Kat for £31 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
 (C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
@@ -49,8 +48,9 @@
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
+(E) Analysis of the passrates in modules 
+(E) Check expenses against littlefinger
 (E) Find out how to fix the date on a git commit 
-(E) Floss +Health   
 (E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (E) Lookup and Buy new shirt for work 
 (E) Make a calendar event for the first day you can start Marking IY3501 
