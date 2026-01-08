@@ -9,9 +9,9 @@
 (B) 06 Take table saw to bedroom for skirting boards. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (B) Install Php on laptop 
-(C) 05 Put EQT payments in bank 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) 10 Year plan: check you have 5 projects in each part
+(C) Get trustee to approve payments 
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT

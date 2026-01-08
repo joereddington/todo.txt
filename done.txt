@@ -8989,3 +8989,4 @@ x 2026-01-07 60 Build a test set for WOMBAT  referencing system from the example
 x 2026-01-07 20 Do some computer work with Leo 
 x 2026-01-08 05 Floss +Health    @offline
 x 2026-01-08 10 Upload the RHUL content that isn't already under version control 
+x 2026-01-08 05 Put EQT payments in bank 
