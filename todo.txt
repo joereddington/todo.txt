@@ -45,7 +45,7 @@
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 60 Put in the EQT expenses claims for the end of last year. 
-(E) Analysis of the passrates in modules 
+(E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
 (E) Check expenses against littlefinger
 (E) Find out how to fix the date on a git commit 
 (E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
