@@ -9000,3 +9000,4 @@ x 2026-01-08 Floss +Health
 x 2026-01-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-01-09 Message L about Tuesday 
 x 2026-01-09 10 Cut Leo toenails +Health     @offline
+x 2026-01-09 60 Do the herts trainings 

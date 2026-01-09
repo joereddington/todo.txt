@@ -19,7 +19,6 @@
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
-(C) 60 Do the herts trainings 
 (C) 60 Draft three exams 
 (C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
 (C) Get tracking checked on the car 
