@@ -8998,3 +8998,5 @@ x 2026-01-08 10 Year plan: check you have 5 projects in each part
 x 2026-01-08 Look in Quickbooks at the unpaid bills report (check the expenses reports against Littlefinger)
 x 2026-01-08 Floss +Health   
 x 2026-01-08 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-01-09 Message L about Tuesday 
+x 2026-01-09 10 Cut Leo toenails +Health     @offline
