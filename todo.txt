@@ -13,14 +13,12 @@
 (C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
-(E) Set mouse traps in the garage 
 (C) 20 Sort wood to Move work bench in garage  @garage 
 (C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
 (C) 60 Draft three exams 
-(C) CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
 (C) Get tracking checked on the car 
 (C) Get trustee to approve payments 
 (C) Open and read blog post from the Google Ads post and work out a next action 
@@ -43,15 +41,17 @@
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
-(E) Check for any remaining EQT expenses
-(E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
 (E) Check expenses against littlefinger
+(E) Check for any remaining EQT expenses
 (E) Find out how to fix the date on a git commit 
 (E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (E) Lookup and Buy new shirt for work 
+(E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
 (E) Make a list of other things you can do on the computer with Leo 
 (E) Measure and  Buy wood for upstairs bookshelves
 (E) Pick a bunch of tasks that can be live-streamed.
+(E) Put bolt in the bottom of the gate 
+(E) Set mouse traps in the garage 
 (E) Talk to an accountant about structuring self-employment. 
 (E) Try the minute-taking AI again. 
 (E) tidy the spare room 

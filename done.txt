@@ -9004,3 +9004,4 @@ x 2026-01-09 60 Do the herts trainings
 x 2026-01-09 Make a calendar event for the first day you can start Marking IY3501 
 x 2026-01-09 10 Price up a new main SSD drive for the main computer - 
 x 2026-01-09 60 Put in the EQT expenses claims for the end of last year. 
+x 2026-01-09 CASPER's command line should accept the arguments --today (to skip the date choice dialog), --filter (to choose a name replacement option) --print-names and --watch (to update whenever the excel file changes)   
