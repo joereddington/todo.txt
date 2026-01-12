@@ -1,54 +1,78 @@
-(A Students 17th Jan ) Mark the RHUL Project IPRs 
-(A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 20 Download all the Herts Submissions. 
 (A) 40 Clear out the email inbox. 
 (A) Fill out Gratitude Book 
 (A) Prepare Presentation marking documents 
-(A) Setup standing order to Kat for £31 
 (A) process emotional todo list. 
-(B RHUL) 60 Review the second lab for IY2840 
+(A) Setup standing order to Kat for £31 
+(A Students 17th Jan ) Mark the RHUL Project IPRs 
+(A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B RHUL) 60 Review the second lab for IY2840 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) 20 find the old rightmove spreadsheet
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood to Move work bench in garage  @garage 
-(C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
 (C) 60 Draft three exams 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check your vitimin box
 (C) Get tracking checked on the car 
 (C) Get trustee to approve payments 
 (C) Open and read blog post from the Google Ads post and work out a next action 
 (C) Put the WOMBAT code in to AI
+(C) Review projects
+(C) Review Wheel Of life Projects
 (D) 30 100 pages on the Top Down Networking textbook  @offline
 (D) 40 Work out the whole Google Ads things +EQT
+(D) Check starred messages in kat whatsapp 
+(D) Do full accounts algorithm +EQT 
 (E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
 (E) 10 Do a brainstorm on Holidays
+(E) 10 double check the Apple AirTags 
 (E) 10 Mix/buy paints to make purple for Nova's chair. 
 (E) 10 Sort out the coconut oil case. 
 (E) 10 Update nell about visits and general plans 
-(E) 10 double check the Apple AirTags 
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 15 Upload the Wigan Casino image and message back 
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Find out about a better icing and try it. 
+(E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
-(E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) Check expenses against littlefinger
 (E) Check for any remaining EQT expenses
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut Nova and Leo nails +Health    
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find out how to fix the date on a git commit 
+(E) Floss +Health   
 (E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Lookup and Buy new shirt for work 
 (E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
 (E) Make a list of other things you can do on the computer with Leo 
 (E) Measure and  Buy wood for upstairs bookshelves
 (E) Pick a bunch of tasks that can be live-streamed.
+(E) Publicly thank someone +Overhead  
 (E) Put bolt in the bottom of the gate 
+(E) Save a nice family memory +Family @phone    
 (E) Set mouse traps in the garage 
 (E) Talk to an accountant about structuring self-employment. 
-(E) Try the minute-taking AI again. 
 (E) tidy the spare room 
+(E) Trim nose hair +Health    
+(E) Try the minute-taking AI again. 

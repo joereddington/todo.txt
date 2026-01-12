@@ -9008,3 +9008,5 @@ x 2026-01-09 CASPER's command line should accept the arguments --today (to skip 
 x 2026-01-12 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 x 2026-01-12 06 Take table saw to bedroom for skirting boards. 
 x 2026-01-12 03 Save a nice family memory +Family @phone    
+x 2026-01-12 Cut nails +Health    
+x 2026-01-12 Do Menu for the week +Family  @phone   
