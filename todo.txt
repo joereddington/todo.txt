@@ -7,10 +7,8 @@
 (A) Setup standing order to Kat for £31 
 (A) process emotional todo list. 
 (B RHUL) 60 Review the second lab for IY2840 
-(B) 06 Take table saw to bedroom for skirting boards. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
-(C) 15 Measure up space when spare room bed is out  (and get Ikea desk)  @offline
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood to Move work bench in garage  @garage 
@@ -25,7 +23,6 @@
 (C) Put the WOMBAT code in to AI
 (D) 30 100 pages on the Top Down Networking textbook  @offline
 (D) 40 Work out the whole Google Ads things +EQT
-(E) 03 Save a nice family memory +Family @phone    
 (E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
