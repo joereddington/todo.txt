@@ -1,11 +1,9 @@
 (A 21st Jan )  60 Draft three exams 
 (A Students 17th Jan ) Mark the RHUL Project IPRs 
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
-(A) 20 Download all the Herts Submissions. 
-(A) 40 Clear out the email inbox. 
-(B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(A 17th Jan ) 20 Download all the Herts Submissions. 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
+(E) Replace ZZ with ctrls-Z - is that even possible? 
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood to Move work bench in garage  @garage 

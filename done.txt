@@ -9019,3 +9019,6 @@ x 2026-01-16 1. Looking for urgent: Check Calendar and reminders and notebooks  
 x 2026-01-16 (B RHUL) 60 Review the second lab for IY2840 
 x 2026-01-16 Check your vitimin box
 x 2026-01-16 Get trustee to approve payments 
+x 2026-01-16 40 Clear out the email inbox. 
+x 2026-01-16 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
+x 2026-01-16 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
