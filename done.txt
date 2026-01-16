@@ -9011,3 +9011,11 @@ x 2026-01-12 03 Save a nice family memory +Family @phone
 x 2026-01-12 Cut nails +Health    
 x 2026-01-12 Do Menu for the week +Family  @phone   
 x 2026-01-12 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-01-16 Fill out Gratitude Book 
+x 2026-01-16 Prepare Presentation marking documents 
+x 2026-01-16 Setup standing order to Kat for £31 
+x 2026-01-16 process emotional todo list. 
+x 2026-01-16 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-01-16 (B RHUL) 60 Review the second lab for IY2840 
+x 2026-01-16 Check your vitimin box
+x 2026-01-16 Get trustee to approve payments 

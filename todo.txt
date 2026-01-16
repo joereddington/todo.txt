@@ -1,32 +1,24 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) 20 Download all the Herts Submissions. 
-(A) 40 Clear out the email inbox. 
-(A) Fill out Gratitude Book 
-(A) Prepare Presentation marking documents 
-(A) process emotional todo list. 
-(A) Setup standing order to Kat for £31 
+(A 21st Jan )  60 Draft three exams 
 (A Students 17th Jan ) Mark the RHUL Project IPRs 
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
+(A) 20 Download all the Herts Submissions. 
+(A) 40 Clear out the email inbox. 
 (B) 10 Read https://intranet.royalholloway.ac.uk/staff/research/research-and-innovation/research-enterprise/pure-support/pure.aspx so that you can put everything on your CV into PURE
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B RHUL) 60 Review the second lab for IY2840 
 (C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) 20 find the old rightmove spreadsheet
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood to Move work bench in garage  @garage 
+(C) 20 find the old rightmove spreadsheet
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
-(C) 60 Draft three exams 
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
 (C) Get tracking checked on the car 
-(C) Get trustee to approve payments 
 (C) Open and read blog post from the Google Ads post and work out a next action 
 (C) Put the WOMBAT code in to AI
-(C) Review projects
 (C) Review Wheel Of life Projects
+(C) Review projects
 (D) 30 100 pages on the Top Down Networking textbook  @offline
 (D) 40 Work out the whole Google Ads things +EQT
 (D) Check starred messages in kat whatsapp 
@@ -35,17 +27,17 @@
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
 (E) 10 Do a brainstorm on Holidays
-(E) 10 double check the Apple AirTags 
-(E) 10 Mix/buy paints to make purple for Nova's chair. 
+(E) 10 Paint Nova Chair 
 (E) 10 Sort out the coconut oil case. 
 (E) 10 Update nell about visits and general plans 
+(E) 10 double check the Apple AirTags 
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 15 Upload the Wigan Casino image and message back 
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Find out about a better icing and try it. 
-(E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) 30 Nova wants to do some stop motion 
 (E) 30 Release the GDPR notes for IY3501 
+(E) 30 complete the  Randy Pausch Talk +Overhead @phone  
 (E) Check expenses against littlefinger
 (E) Check for any remaining EQT expenses
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
@@ -72,6 +64,6 @@
 (E) Save a nice family memory +Family @phone    
 (E) Set mouse traps in the garage 
 (E) Talk to an accountant about structuring self-employment. 
-(E) tidy the spare room 
 (E) Trim nose hair +Health    
 (E) Try the minute-taking AI again. 
+(E) tidy the spare room 
