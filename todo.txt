@@ -1,6 +1,4 @@
-(A 21st Jan )  60 Draft three exams 
-(A) Do a forum post for coursea 
-(A) Review the corusea content (on tablet?)  
+(B 21st Jan )  Put the slide references onto the exam model answers 
 (E) Fix the history on mac now you know it's via zsh 
 (E) At some point it would be fun to autocomplete 
 (E) do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) 
