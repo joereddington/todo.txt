@@ -1,6 +1,5 @@
 (B 21st Jan )  Put the slide references onto the exam model answers 
 (E) Fix the history on mac now you know it's via zsh 
-(E) At some point it would be fun to autocomplete 
 (E) do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) 
 (E) Price up a monitor for the office. 
 (E) Call and ask mum for some recommendations about setting up a limited company 
@@ -81,7 +80,6 @@
 (E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Lookup and Buy new shirt for work 
 (E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
@@ -90,7 +88,6 @@
 (E) Pick a bunch of tasks that can be live-streamed.
 (E) Publicly thank someone +Overhead  
 (E) Put bolt in the bottom of the gate 
-(E) Save a nice family memory +Family @phone    
 (E) Set mouse traps in the garage 
 (E) Talk to an accountant about structuring self-employment. 
 (E) Trim nose hair +Health    
