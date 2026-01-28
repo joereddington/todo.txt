@@ -9027,3 +9027,25 @@ x 2026-01-22 Review the corusea content (on tablet?)
 x 2026-01-27 At some point it would be fun to autocomplete 
 x 2026-01-27 Save a nice family memory +Family @phone    
 x 2026-01-27 Log weight +Health   
+x 2026-01-27 Trim nose hair +Health    
+x 2026-01-27 Try the minute-taking AI again. 
+x 2026-01-27 Publicly thank someone +Overhead  
+x 2026-01-27 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-01-27 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-01-27 (A 17th Jan ) 20 Download all the Herts Submissions. 
+x 2026-01-27 (A Students 17th Jan ) Mark the RHUL Project IPRs 
+x 2026-01-27 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
+x 2026-01-27 Replace ZZ with ctrls-Z - is that even possible? 
+x 2026-01-27 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-01-27 Cut Nova and Leo nails +Health    
+x 2026-01-27 Check expenses against littlefinger
+x 2026-01-27 Check for any remaining EQT expenses
+x 2026-01-27 Check starred messages in kat whatsapp 
+x 2026-01-27 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-01-27 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-01-27 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-01-27 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-01-27 Do full accounts algorithm +EQT 
+x 2026-01-27 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-01-27 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-01-27 Lookup and Buy new shirt for work 

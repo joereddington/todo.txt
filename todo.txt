@@ -1,39 +1,8 @@
-(B 21st Jan )  Put the slide references onto the exam model answers 
-(E) Fix the history on mac now you know it's via zsh 
-(E) do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) 
-(E) Price up a monitor for the office. 
-(E) Call and ask mum for some recommendations about setting up a limited company 
-(E) Brainstorm big book of gratitude in Delores 
-(E) Clean up your bookmarks 
-(E) Buy phone charging pad
-(E) Start the Asked Questions list with some notes.
-(E) automate 'what tasks did I add and what tasks did I do' 
-(E) Get lnh and lnc working again 
-(E) 3dPrint a boaty 
-(E) Have a look for an upstairs desk 
-(E) Talk to Kat about mornings 
-(E) Really make a long term project out of delores and the general joy of it.   
-(E) Get the ring sound working for delores (options - local, a button some sort of thing   
-(E) Download the IY3501 coursework and batch it up for the TA 
-(E) Review the next IY2840 labs 
-(E) Test the autofilling Microsoft forms! 
-(E) Work out how to get a sofa into your office     
-(E) Sit in some chairs when out of the house
-(E) Upgrade Kid's youtube lists - speech for both of them 
-(E) get DVD player 
-(E) Set up Leo's assessment project 
-(E) Set up coursea as a project. 
-(E) Get rid of kettle under the desk
-(E) Brainstorm calm 
-(B) check the promotion dates and go through the form 
-(E) Read a book on machine learning
-(A) 10 Download the right template and but it into an exam folder 
-(E) Move novareddington.com domain away from OVF 
-(A Students 17th Jan ) Mark the RHUL Project IPRs 
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. 
-(A 17th Jan ) 20 Download all the Herts Submissions. 
-(C) 10 Search for the cable for the Raspberry pi unless it's 15th of Jan in which case JUST  buy a new one.  
-(E) Replace ZZ with ctrls-Z - is that even possible? 
+(A) 10 Download the right template and but it into an exam folder 
+(A) Pay tax 
+(B 21st Jan )  Put the slide references onto the exam model answers 
+(B) check the promotion dates and go through the form 
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT
 (C) 20 Sort wood to Move work bench in garage  @garage 
@@ -41,55 +10,65 @@
 (C) 25 Review Wheel Of life Projects @offline
 (C) 30 Test the rotating QR code with phone 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Get tracking checked on the car 
 (C) Open and read blog post from the Google Ads post and work out a next action 
+(C) Phone garage to get tracking checked on the car 
+(C) Produce new Excel file with a summary of the double badged modules
 (C) Put the WOMBAT code in to AI
 (C) Review Wheel Of life Projects
 (C) Review projects
+(D) 10 Have a look at how well the mini-projects have worked. 
 (D) 30 100 pages on the Top Down Networking textbook  @offline
 (D) 40 Work out the whole Google Ads things +EQT
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm +EQT 
+(E) 05 Buy phone charging pad
+(E) 05 Floss +Health   
+(E) 05 Get rid of kettle under the desk
 (E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501 
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. 
 (E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. 
+(E) 10 Brainstorm big book of gratitude in Delores 
+(E) 10 Brainstorm calm 
+(E) 10 Call and ask mum for some recommendations about setting up a limited company 
 (E) 10 Do a brainstorm on Holidays
+(E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Find out how to fix the date on a git commit 
+(E) 10 Get lnh and lnc working again 
+(E) 10 Get the ring sound working for delores (options - local, a button some sort of thing   
 (E) 10 Paint Nova Chair 
+(E) 10 Pick a bunch of tasks that can be live-streamed.
+(E) 10 Really make a long term project out of delores and the general joy of it.   
 (E) 10 Sort out the coconut oil case. 
+(E) 10 Test the history on mac now you have zsh files 
 (E) 10 Update nell about visits and general plans 
 (E) 10 double check the Apple AirTags 
+(E) 15 Clean up your bookmarks 
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 15 Upload the Wigan Casino image and message back 
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Find out about a better icing and try it. 
+(E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
+(E) 30 Download the IY3501 coursework and batch it up for the TA 
 (E) 30 Nova wants to do some stop motion 
+(E) 30 Put bolt in the bottom of the gate 
 (E) 30 Release the GDPR notes for IY3501 
 (E) 30 complete the  Randy Pausch Talk +Overhead @phone  
-(E) Check expenses against littlefinger
-(E) Check for any remaining EQT expenses
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Cut Nova and Leo nails +Health    
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find out how to fix the date on a git commit 
-(E) Floss +Health   
-(E) Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Lookup and Buy new shirt for work 
-(E) Lookup the Analysis of the passrates in modules - start with the list of the double badged modules
+(E) 3dPrint a boaty 
+(E) Have a look for an upstairs desk 
 (E) Make a list of other things you can do on the computer with Leo 
 (E) Measure and  Buy wood for upstairs bookshelves
-(E) Pick a bunch of tasks that can be live-streamed.
-(E) Publicly thank someone +Overhead  
-(E) Put bolt in the bottom of the gate 
+(E) Move novareddington.com domain away from OVF 
+(E) Price up a monitor for the office. 
+(E) Read a book on machine learning
+(E) Review the next IY2840 labs 
 (E) Set mouse traps in the garage 
+(E) Set up Leo's assessment project 
+(E) Set up coursea as a project. 
+(E) Sit in some chairs when out of the house
+(E) Start the Asked Questions list with some notes.
+(E) Talk to Kat about mornings 
 (E) Talk to an accountant about structuring self-employment. 
-(E) Trim nose hair +Health    
-(E) Try the minute-taking AI again. 
-(E) tidy the spare room 
+(E) Test the autofilling Microsoft forms! 
+(E) Upgrade Kid's youtube lists - speech for both of them 
+(E) Work out how to get a sofa into your office     
+(E) automate 'what tasks did I add and what tasks did I do' 
+(E) do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) 
+(E) get DVD player 
