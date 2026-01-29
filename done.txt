@@ -9063,3 +9063,11 @@ x 2026-01-28 automate 'what tasks did I add and what tasks did I do'  @breakdown
 x 2026-01-28 Produce new Excel file with a summary of the double badged modules
 x 2026-01-28 10 Find out how to fix the date on a git commit 
 x 2026-01-28 10 Update nell about visits and general plans 
+x 2026-01-29 05 Buy phone charging pad 
+x 2026-01-29 10 Check paint colour with Nova 
+x 2026-01-29 10 Get lnh and lnc working again 
+x 2026-01-29 20 Sit in some chairs when out of the house
+x 2026-01-29 20 Open the Google Ads post and work thorugh it again  @online
+x 2026-01-29 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2026-01-29 10 Download the right template and put it into an exam folder 
+x 2026-01-29 15 Pay tax 
