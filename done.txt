@@ -9049,3 +9049,17 @@ x 2026-01-27 Do full accounts algorithm +EQT
 x 2026-01-27 Empty whatsapp and facebook inboxes. +Overhead  
 x 2026-01-27 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2026-01-27 Lookup and Buy new shirt for work 
+x 2026-01-28 05 Get rid of kettle under the desk
+x 2026-01-28 30 complete the  Randy Pausch Talk +Overhead @phone  
+x 2026-01-28 Start the Asked Questions list with some notes.
+x 2026-01-28 Test the autofilling Microsoft forms! 
+x 2026-01-28 Upgrade Kid's youtube lists - speech for both of them 
+x 2026-01-28 30 Download the IY3501 coursework and batch it up for the TA 
+x 2026-01-28 Set up Leo's assessment project 
+x 2026-01-28 Set up coursea as a project. 
+x 2026-01-28 Talk to Kat about mornings 
+x 2026-01-28 Work out how to get a sofa into your office (buy, borrow?) 
+x 2026-01-28 automate 'what tasks did I add and what tasks did I do'  @breakdown
+x 2026-01-28 Produce new Excel file with a summary of the double badged modules
+x 2026-01-28 10 Find out how to fix the date on a git commit 
+x 2026-01-28 10 Update nell about visits and general plans 
