@@ -42,7 +42,7 @@
 (C) 20 Write a 'how far has Joe got with the marking' blog post. @offline
 (C) 20 find the old rightmove spreadsheet @online
 (C) 25 Review Wheel Of life Projects @offline
-(D) 30 100 pages on the Top Down Networking textbook  @offline
+(D) 60 100 pages on the Top Down Networking textbook  @offline
 (F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Gather the tools needed to put a bolt in the bottom of the gate.  @offline
