@@ -9082,3 +9082,20 @@ x 2026-01-30 Log weight +Health
 x 2026-02-04 Log weight +Health   
 x 2026-02-04 Trim nose hair +Health    
 x 2026-02-04 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2026-02-04 TSE +Health  
+x 2026-02-04 Make sure you have a continual professional developement practice happening  +EQT
+x 2026-02-04 Post to Vegan Facebook group  @phone   
+x 2026-02-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2026-02-04 Publicly thank someone +Overhead  
+x 2026-02-04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+x 2026-02-04 Review starred items in feeds +Overhead +EQT
+x 2026-02-04 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+x 2026-02-04 Give laptop screen a good clean +Overhead
+x 2026-02-04 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-02-04 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-02-04 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-02-04 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-02-04 Check wishlist
+x 2026-02-04 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-02-04 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-02-04 Check you have ingredients for three levels of basic food - salad - scrabmled tofu

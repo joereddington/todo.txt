@@ -8,7 +8,6 @@
 (B) 60 Draft Coursea exam @online
 (B) 60 Draft new version of promtion form by the 13th (sooner for K so 6th) Feb @offline @project 
 (B) Do Hertfordshire timesheet
-x 2026-02-04 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 10 Phone garage to get tracking checked on the car @online
 (C) 10 Review projects @offline
@@ -22,15 +21,19 @@ x 2026-02-04 Make sure the github issues are in the right columns +Overhead http
 (C) 30 Put the WOMBAT code in to AI @online
 (C) 30 Test the rotating QR code with phone  @online
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Check your vitimin box
 (C) Gratitude blog post
+(C) Fix Leo architraves 
 (C) Review Wheel Of life Projects
 (C) Review projects
 (C) Run mgit status on the git directory and process all alerts +EQT
+(C) Get a lecture presentation laserpen-usb-thing
 (C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Invoice for children and young people now 
 (C) deploy any commits from OVF that are hanging around. 
 (D) 03 event - Count the rows in Boilerhouse and fix up CASPER - output should be based on rows as well  @online
+(C) Migrate the EQT wordpress site
+(C) Create weekly event to follow up with Leo teacher 
 (D) 03 event to Have a look at how well the mini-projects have worked (in terms of blogs or other notes written)  @online
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) 60 100 pages on the Top Down Networking textbook  @offline
@@ -78,9 +81,6 @@ x 2026-02-04 Make sure the github issues are in the right columns +Overhead http
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Do Menu for the week +Family  @phone   
@@ -89,21 +89,8 @@ x 2026-02-04 Make sure the github issues are in the right columns +Overhead http
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Give blood 
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make sure you have a continual professional developement practice happening  +EQT
-(E) Post to Vegan Facebook group  @phone   
-(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
-(E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Run the ICO backup code
 (E) Save a nice family memory +Family @phone    
-(E) TSE +Health  
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline
