@@ -1,4 +1,5 @@
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
+(A) You need to do a gratitude
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Fill out Gratitude Book 
 (A) Marking!  
@@ -7,7 +8,7 @@
 (B) 60 Draft Coursea exam @online
 (B) 60 Draft new version of promtion form by the 13th (sooner for K so 6th) Feb @offline @project 
 (B) Do Hertfordshire timesheet
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2026-02-04 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 10 Phone garage to get tracking checked on the car @online
 (C) 10 Review projects @offline
@@ -103,7 +104,6 @@
 (E) Run the ICO backup code
 (E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
-(E) Trim nose hair +Health    
 (E) Write Moonpig cards for this month +Overhead
 (E) process Garage inbox. 
 (F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline

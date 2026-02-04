@@ -9080,3 +9080,5 @@ x 2026-01-30 Go through phone and save all of the numbers +Overhead  @phone
 x 2026-01-30 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2026-01-30 Log weight +Health   
 x 2026-02-04 Log weight +Health   
+x 2026-02-04 Trim nose hair +Health    
+x 2026-02-04 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
