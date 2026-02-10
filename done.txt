@@ -9107,3 +9107,4 @@ x 2026-02-09 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-02-09 03 event - Count the rows in Boilerhouse and fix up CASPER - output should be based on rows as well  @online
 x 2026-02-09 Clean out Fridge
 x 2026-02-09 Sync the photoshop directroy
+x 2026-02-10 Get a lecture presentation laserpen-usb-thing
