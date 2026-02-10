@@ -9099,3 +9099,11 @@ x 2026-02-04 Check wishlist
 x 2026-02-04 Confirm plans for next two weekends.+Overhead @phone   
 x 2026-02-04 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 x 2026-02-04 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-02-09 You need to do a gratitude
+x 2026-02-09 Cut Nova and Leo nails +Health    
+x 2026-02-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-02-09 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2026-02-09 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2026-02-09 03 event - Count the rows in Boilerhouse and fix up CASPER - output should be based on rows as well  @online
+x 2026-02-09 Clean out Fridge
+x 2026-02-09 Sync the photoshop directroy
