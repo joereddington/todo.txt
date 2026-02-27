@@ -9108,3 +9108,8 @@ x 2026-02-09 03 event - Count the rows in Boilerhouse and fix up CASPER - output
 x 2026-02-09 Clean out Fridge
 x 2026-02-09 Sync the photoshop directroy
 x 2026-02-10 Get a lecture presentation laserpen-usb-thing
+x 2026-02-27 Print out other sheets 
+x 2026-02-27 Marking!  
+x 2026-02-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-02-27 Make a list of IY2840 things
+x 2026-02-27 15 Paint Nova chair @offline

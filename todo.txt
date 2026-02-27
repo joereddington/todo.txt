@@ -1,13 +1,5 @@
-(A) Print out other sheets 
-(B) Upload marks to central 
-(C) Get two mothers day cards for the 15th March  
-(A) Make a list of IY2840 things
-(C) Fix the WWW library database by getting sprint8.csv from ww 
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(C) Ittearte SHEA applicaiton 
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Fill out Gratitude Book 
-(A) Marking!  
 (A) process emotional todo list. 
 (B 21st Jan )  Put the slide references onto the exam model answers  @offline
 (B) 60 Draft Coursea exam @online
@@ -15,9 +7,9 @@
 (B) Do Hertfordshire timesheet
 (B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 (B) Make sure you have booked a bunch of leave from RHUL 
+(B) Upload marks to central 
 (C) 10 Phone garage to get tracking checked on the car @online
 (C) 10 Review projects @offline
-(C) 15 Paint Nova chair @offline
 (C) 15 Review Wheel Of life Projects @offline
 (C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
@@ -31,8 +23,11 @@
 (C) Check your vitimin box
 (C) Create weekly event to follow up with Leo teacher 
 (C) Fix Leo architraves 
+(C) Fix the WWW library database by getting sprint8.csv from ww 
+(C) Get two mothers day cards for the 15th March  
 (C) Gratitude blog post
 (C) Invoice for children and young people now 
+(C) Ittearte SHEA applicaiton 
 (C) Migrate the EQT wordpress site
 (C) Review Wheel Of life Projects
 (C) Review projects
