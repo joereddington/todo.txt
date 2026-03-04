@@ -9113,3 +9113,23 @@ x 2026-02-27 Marking!
 x 2026-02-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-02-27 Make a list of IY2840 things
 x 2026-02-27 15 Paint Nova chair @offline
+x 2026-03-04 Invoice for children and young people now 
+x 2026-03-04 Run mgit status on the git directory and process all alerts +EQT
+x 2026-03-04 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2026-03-04 deploy any commits from OVF that are hanging around. 
+x 2026-03-04 60 100 pages on the Top Down Networking textbook  @offline
+x 2026-03-04 03 Set a date for 'if I haven't found a DVD player in a charity shop I will buy one'  @offline
+x 2026-03-04 05 Floss +Health    @offline
+x 2026-03-04 05 Have a look for an upstairs desk @online
+x 2026-03-04 Trim nose hair +Health    
+x 2026-03-04 Publicly thank someone +Overhead  
+x 2026-03-04 Run the ICO backup code
+x 2026-03-04 Cut nails +Health    
+x 2026-03-04 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-03-04 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-03-04 Log weight +Health   
+x 2026-03-04 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-03-04 x 2026-03-04 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-03-04 10 Price up a monitor for the office. @online
+x 2026-03-04 10 Remind Kat to phone the welder 
+x 2026-03-04 20 Write a 'how far has Joe got with the marking' blog post. @offline
