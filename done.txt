@@ -9133,3 +9133,19 @@ x 2026-03-04 x 2026-03-04 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1
 x 2026-03-04 10 Price up a monitor for the office. @online
 x 2026-03-04 10 Remind Kat to phone the welder 
 x 2026-03-04 20 Write a 'how far has Joe got with the marking' blog post. @offline
+x 2026-03-04 60 Find a book on machine learning @offline
+x 2026-03-04 Check Passports are in the safe
+x 2026-03-04 Check ranking scripts +Overhead
+x 2026-03-04 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-03-04 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-03-04 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-03-04 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-03-04 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-03-04 Post to Vegan Facebook group  @phone   
+x 2026-03-04 Write Moonpig cards for this month +Overhead
+x 2026-03-04 Empty Joe inbox completely +Overhead    
+x 2026-03-04 Save a nice family memory +Family @phone    
+x 2026-03-04 Do Menu for the week +Family  @phone   
+x 2026-03-04 Save a nice family memory +Family @phone    
+x 2026-03-04 Check starred messages in kat whatsapp 
+x 2026-03-04 Check you have ingredients for three levels of basic food - salad - scrabmled tofu

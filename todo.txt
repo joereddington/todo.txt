@@ -1,39 +1,7 @@
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(A) Fill out Gratitude Book 
-(A) process emotional todo list. 
 (B 21st Jan )  Put the slide references onto the exam model answers  @offline
-(B) 60 Draft Coursea exam @online
-(B) 60 Draft new version of promotion form by the 13th @offline @project 
-(B) Do Hertfordshire timesheet
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(B) Submit timesheet to hetredshire
-(B) Upload marks to central 
-(C) 10 Phone garage to get tracking checked on the car @online
-(C) 10 Review projects @offline
-(C) 15 Review Wheel Of life Projects @offline
-(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
-(C) 20 Sort wood to Move work bench in garage  @garage @offline
-(C) 20 find the old rightmove spreadsheet @online
-(C) 25 Review Wheel Of life Projects @offline
-(C) 30 Put the WOMBAT code in to AI @online
-(C) 30 Test the rotating QR code with phone  @online
-(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
-(C) Create weekly event to follow up with Leo teacher 
-(C) Fix Leo architraves 
-(C) Fix the WWW library database by getting sprint8.csv from ww 
-(C) Get two mothers day cards for the 15th March  
-(C) Gratitude blog post
-(C) Iterate SHEA applicaiton 
-(C) Migrate the EQT wordpress site
-(C) Review Wheel Of life Projects
-(C) Review projects
 (D) 03 event to Have a look at how well the mini-projects have worked (in terms of blogs or other notes written)  @online
-(D) 40 Work out the whole Google Ads things +EQT @online
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm +EQT 
+(E) 05 Floss +Health   
 (E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501  @online
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
@@ -42,18 +10,22 @@
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
+(E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inbox completely +Overhead @offline   
+(E) 10 Empty facebook inboxes. +Overhead  
 (E) 10 Get the ring sound working for delores (options - local, a button some sort of thing    @online
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (E) 10 Make sure that history is saving with a date 
+(C) 10 Phone garage to get tracking checked on the car @online
 (E) 10 Pick a bunch of tasks that can be live-streamed. @offline
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
+(C) 10 Review projects @offline
 (E) 10 Set mouse traps in the garage  @offline
 (E) 10 Sort out the coconut oil case. @offline
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
-(E) Okay, so 
 (E) 15 Measure and wood for upstairs bookshelves @offline
+(C) 15 Review Wheel Of life Projects @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 organise your bookmarks on firefox @online
@@ -61,24 +33,38 @@
 (E) 20 Contact to an accountant about structuring self-employment.  @online
 (E) 20 Find out about a better icing and try it. @online
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
-(E) 30 Do some stop motion with Nova. @offline
-(E) 30 Review the next IY2840 labs @offline (once got) 
-(E) 60 Find a book on machine learning @offline
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Cut Nova and Leo nails +Health    
-(E) Do Menu for the week +Family  @phone   
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
-(E) Give blood 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Post to Vegan Facebook group  @phone   
-(E) Save a nice family memory +Family @phone    
-(E) Write Moonpig cards for this month +Overhead
-(E) process Garage inbox. 
+(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
+(C) 20 Sort wood to Move work bench in garage  @garage @offline
+(C) 20 find the old rightmove spreadsheet @online
+(E) 20 process Garage inbox. 
+(C) 25 Review Wheel Of life Projects @offline
 (F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline
+(E) 30 Do some stop motion with Nova. @offline
+(E) 30 Give blood 
+(C) 30 Put the WOMBAT code in to AI @online
+(E) 30 Review the next IY2840 labs @offline (once got) 
+(C) 30 Test the rotating QR code with phone  @online
+(D) 40 Work out the whole Google Ads things +EQT @online
+(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
+(B) 60 Draft Coursea exam @online
+(B) 60 Draft new version of promotion form by the 13th @offline @project 
+(C) 03 Check your vitamin box
+(C) Create weekly event to follow up with Leo teacher 
+(B) Do Hertfordshire timesheet
+(D) Do full accounts algorithm +EQT 
+(E) Empty Joe inbox completely +Overhead    
+(A) Fill out Gratitude Book 
+(C) Fix Leo architraves 
+(C) Fix the WWW library database by getting sprint8.csv from ww 
+(C) Get two mothers day cards for the 15th March  
+(C) Gratitude blog post
+(C) Iterate SHEA applicaiton 
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(B) Make sure you have booked a bunch of leave from RHUL 
+(C) Migrate the EQT wordpress site
+(E) Release meeting slots for IY3501
+(C) Review Wheel Of life Projects
+(C) Review projects
+(B) Submit timesheet to hetredshire
+(B) Upload marks to central 
+(A) process emotional todo list. 
