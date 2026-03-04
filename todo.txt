@@ -56,6 +56,7 @@
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (E) 10 Make sure that history is saving with a date 
 (E) 10 Pick a bunch of tasks that can be live-streamed. @offline
+(B) Submit timesheet to hetredshire
 (E) 10 Price up a monitor for the office. @online
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
 (E) 10 Remind Kat to phone the welder 
