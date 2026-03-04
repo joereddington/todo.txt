@@ -1,11 +1,8 @@
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-x 2026-03-04 (B 21st Jan )  Put the slide references onto the exam model answers  @offline
-(D) 03 event to Have a look at how well the mini-projects have worked (in terms of blogs or other notes written)  @online
+(C) 03 Check your vitamin box
 (E) 05 Floss +Health   
-(E) 05 Look at the photo you took in the libray and convert it in to notes for IY3501  @online
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
-(E) 09 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
@@ -29,6 +26,7 @@ x 2026-03-04 (B 21st Jan )  Put the slide references onto the exam model answers
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 organise your bookmarks on firefox @online
+(E) 19 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
 (E) 20 Find out about a better icing and try it. @online
@@ -47,9 +45,6 @@ x 2026-03-04 (B 21st Jan )  Put the slide references onto the exam model answers
 (D) 40 Work out the whole Google Ads things +EQT @online
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
 (B) 60 Draft Coursea exam @online
-(B) 60 Draft new version of promotion form by the 13th @offline @project 
-(C) 03 Check your vitamin box
-(C) Create weekly event to follow up with Leo teacher 
 (B) Do Hertfordshire timesheet
 (D) Do full accounts algorithm +EQT 
 (E) Empty Joe inbox completely +Overhead    
@@ -59,12 +54,10 @@ x 2026-03-04 (B 21st Jan )  Put the slide references onto the exam model answers
 (C) Get two mothers day cards for the 15th March  
 (C) Gratitude blog post
 (C) Iterate SHEA applicaiton 
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Make sure you have booked a bunch of leave from RHUL 
-(C) Migrate the EQT wordpress site
-(E) Release meeting slots for IY3501
-(C) Review Wheel Of life Projects
-(C) Review projects
-(B) Submit timesheet to hetredshire
-(B) Upload marks to central 
-(A) process emotional todo list. 
+(B) book holiday leave from RHUL 
+(C) 60 Migrate the EQT wordpress site
+(E) 15 Release meeting slots for IY3501
+(C) 10 Review Wheel Of life Projects
+(C) 10 Review projects
+(B) 60 Upload marks to central 
+(E) 15 send the email about Nova music lessons 
