@@ -22,6 +22,7 @@
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
 (E) 07 Enable mesh on the wifi 
 (E) Experiment with the bone conduction things. 
+(E) Start sending emails about security projects. 
 (E) 15 Measure and wood for upstairs bookshelves @offline
 (C) 15 Review Wheel Of life Projects @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
