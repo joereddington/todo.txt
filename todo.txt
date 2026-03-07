@@ -7,7 +7,6 @@
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
-(E) 10 Cut Nova and Leo nails +Health    
 (E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inbox completely +Overhead @offline   
 (E) 10 Empty facebook inboxes. +Overhead  
@@ -15,7 +14,6 @@
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (E) 10 Make sure that history is saving with a date 
 (C) 10 Phone garage to get tracking checked on the car @online
-(E) 10 Pick a bunch of tasks that can be live-streamed. @offline
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
 (C) 10 Review projects @offline
 (E) 10 Set mouse traps in the garage  @offline
@@ -27,7 +25,9 @@
 (C) 15 Review Wheel Of life Projects @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
-(E) 15 organise your bookmarks on firefox @online
+(E) 15 organise your bookmarks on Firefox @online
+(E) 10 Update Gym spreadsheet
+(E) 10 print out the internet codes
 (E) 19 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
