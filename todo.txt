@@ -1,5 +1,29 @@
 (A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
+(A) Fill out Gratitude Book 
+(A) Get two mothers day cards for the 15th March  
+(B) 60 Draft Coursea exam @online +rhul
+(B) 60 Upload marks to central 
+(B) Do Hertfordshire timesheet
+(B) book holiday leave from RHUL 
 (C) 03 Check your vitamin box
+(C) 10 Phone garage to get tracking checked on the car @online
+(C) 10 Review Wheel Of life Projects
+(C) 10 Review projects @offline
+(C) 15 Review Wheel Of life Projects @offline
+(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
+(C) 20 Sort wood to Move work bench in garage  @garage @offline
+(C) 20 find the old rightmove spreadsheet @online
+(C) 25 Review Wheel Of life Projects @offline
+(C) 30 Put the WOMBAT code in to AI @online
+(C) 30 Test the rotating QR code with phone  @online +rhul
+(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
+(C) 60 Migrate the EQT wordpress site
+(C) Fix Leo architraves 
+(C) Fix the WWW library database by getting sprint8.csv from ww 
+(C) Gratitude blog post
+(C) Iterate SHEA application 
+(D) 40 Work out the whole Google Ads things +EQT @online
+(D) Do full accounts algorithm +EQT 
 (E) 05 Floss +Health   
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
@@ -13,53 +37,28 @@
 (E) 10 Get the ring sound working for delores (options - local, a button some sort of thing    @online
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (E) 10 Make sure that history is saving with a date 
-(C) 10 Phone garage to get tracking checked on the car @online
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
-(C) 10 Review projects @offline
 (E) 10 Set mouse traps in the garage  @offline
+(E) 10 Update Gym spreadsheet
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
-(E) 07 Enable mesh on the wifi 
-(E) Experiment with the bone conduction things. 
-(E) Start sending emails about security projects. 
+(E) 10 print out the internet codes
 (E) 15 Measure and wood for upstairs bookshelves @offline
-(C) 15 Review Wheel Of life Projects @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 organise your bookmarks on Firefox @online
-(E) 10 Update Gym spreadsheet
-(E) 10 print out the internet codes
+(E) 15 send the email about Nova music lessons 
 (E) 19 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
 (E) 20 Find out about a better icing and try it. @online
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
-(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
-(C) 20 Sort wood to Move work bench in garage  @garage @offline
-(C) 20 find the old rightmove spreadsheet @online
 (E) 20 process Garage inbox. 
-(C) 25 Review Wheel Of life Projects @offline
-(F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
-(C) 30 Put the WOMBAT code in to AI @online
-(E) 30 Review the next IY2840 labs @offline (once got) 
-(C) 30 Test the rotating QR code with phone  @online
-(D) 40 Work out the whole Google Ads things +EQT @online
-(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
-(B) 60 Draft Coursea exam @online
-(B) Do Hertfordshire timesheet
-(D) Do full accounts algorithm +EQT 
 (E) Empty Joe inbox completely +Overhead    
-(A) Fill out Gratitude Book 
-(C) Fix Leo architraves 
-(C) Fix the WWW library database by getting sprint8.csv from ww 
-(C) Get two mothers day cards for the 15th March  
-(C) Gratitude blog post
-(C) Iterate SHEA applicaiton 
-(B) book holiday leave from RHUL 
-(C) 60 Migrate the EQT wordpress site
-(E) 15 Release meeting slots for IY3501
-(C) 10 Review Wheel Of life Projects
-(C) 10 Review projects
-(B) 60 Upload marks to central 
-(E) 15 send the email about Nova music lessons 
+(E) Experiment with the bone conduction things. 
+(E) Paper in the office for brainstorming. 
+(E) Share the nova email with people. 
+(E) Start sending emails about security projects. 
+(E) Update the 3d printer post and create MCVE 
+(F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline

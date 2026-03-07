@@ -9160,3 +9160,6 @@ x 2026-03-04 Make sure the github issues are in the right columns +Overhead http
 x 2026-03-04 10 Sort out the coconut oil case. @offline
 x 2026-03-07 10 Cut Nova and Leo nails +Health    
 x 2026-03-07 10 Pick a bunch of tasks that can be live-streamed. @offline
+x 2026-03-07 07 Enable mesh on the wifi 
+x 2026-03-07 30 Review the next IY2840 labs @offline (once got) 
+x 2026-03-07 15 Release meeting slots for IY3501
