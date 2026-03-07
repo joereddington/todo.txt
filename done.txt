@@ -9163,3 +9163,9 @@ x 2026-03-07 10 Pick a bunch of tasks that can be live-streamed. @offline
 x 2026-03-07 07 Enable mesh on the wifi 
 x 2026-03-07 30 Review the next IY2840 labs @offline (once got) 
 x 2026-03-07 15 Release meeting slots for IY3501
+x 2026-03-07 15 Review Wheel Of life Projects @offline
+x 2026-03-07 10 Review Wheel Of life Projects
+x 2026-03-07 x 2026-03-07 15 Review Wheel Of life Projects @offline
+x 2026-03-07 50Do full accounts algorithm +EQT 
+x 2026-03-07 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
+x 2026-03-07 10 Update Gym spreadsheet

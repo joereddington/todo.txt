@@ -4,13 +4,11 @@
 (B) 60 Draft Coursea exam @online +rhul
 (B) 60 Upload marks to central 
 (B) Do Hertfordshire timesheet
+(B) Make a list of things you haven't got around to telling people yet. 
 (B) book holiday leave from RHUL 
 (C) 03 Check your vitamin box
 (C) 10 Phone garage to get tracking checked on the car @online
-(C) 10 Review Wheel Of life Projects
 (C) 10 Review projects @offline
-(C) 15 Review Wheel Of life Projects @offline
-(B) Make a list of things you haven't got around to telling people yet. 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 20 find the old rightmove spreadsheet @online
@@ -24,15 +22,14 @@
 (C) Gratitude blog post
 (C) Iterate SHEA application 
 (D) 40 Work out the whole Google Ads things +EQT @online
-(D) Do full accounts algorithm +EQT 
 (E) 05 Floss +Health   
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
-(E) 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Do a brainstorm on Holidays    @offline
+(E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty Joe inbox completely +Overhead @offline   
 (E) 10 Empty facebook inboxes. +Overhead  
 (E) 10 Get the ring sound working for delores (options - local, a button some sort of thing    @online
@@ -40,7 +37,6 @@
 (E) 10 Make sure that history is saving with a date 
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
 (E) 10 Set mouse traps in the garage  @offline
-(E) 10 Update Gym spreadsheet
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
 (E) 10 print out the internet codes
 (E) 15 Measure and wood for upstairs bookshelves @offline
@@ -56,7 +52,6 @@
 (E) 20 process Garage inbox. 
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
-(E) Empty Joe inbox completely +Overhead    
 (E) Experiment with the bone conduction things. 
 (E) Paper in the office for brainstorming. 
 (E) Share the nova email with people. 
