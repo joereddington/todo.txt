@@ -10,6 +10,7 @@
 (C) 10 Review Wheel Of life Projects
 (C) 10 Review projects @offline
 (C) 15 Review Wheel Of life Projects @offline
+(B) Make a list of things you haven't got around to telling people yet. 
 (C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 20 find the old rightmove spreadsheet @online
