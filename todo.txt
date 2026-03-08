@@ -1,42 +1,30 @@
-(A Trustees)  Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(A) Fill out Gratitude Book 
-(A) Get two mothers day cards for the 15th March  
-(B) 60 Draft Coursea exam @online +rhul
-(B) 60 Upload marks to central 
-(B) Do Hertfordshire timesheet
-(B) Make a list of things you haven't got around to telling people yet. 
-(B) book holiday leave from RHUL 
+(A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
+(E) 02 Paper in the office for brainstorming. 
 (C) 03 Check your vitamin box
-(C) 10 Phone garage to get tracking checked on the car @online
-(C) 10 Review projects @offline
-(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
-(C) 20 Sort wood to Move work bench in garage  @garage @offline
-(C) 20 find the old rightmove spreadsheet @online
-(C) 25 Review Wheel Of life Projects @offline
-(C) 30 Put the WOMBAT code in to AI @online
-(C) 30 Test the rotating QR code with phone  @online +rhul
-(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
-(C) 60 Migrate the EQT wordpress site
-(C) Fix Leo architraves 
-(C) Fix the WWW library database by getting sprint8.csv from ww 
-(C) Gratitude blog post
-(C) Iterate SHEA application 
-(D) 40 Work out the whole Google Ads things +EQT @online
+(E) 03 Share the nova email with people. 
+(E) 05 Can I sort a set of markdown paragraphs by heading and keep the rest? 
 (E) 05 Floss +Health   
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
+(B) 10 Do Hertfordshire timesheet
 (E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty Joe inbox completely +Overhead @offline   
 (E) 10 Empty facebook inboxes. +Overhead  
 (E) 10 Get the ring sound working for delores (options - local, a button some sort of thing    @online
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
+(C) 10 Gratitude blog post
+(B) 10 Make a list of things you haven't got around to telling people yet. 
 (E) 10 Make sure that history is saving with a date 
+(E) 10 Map mini project about security projects 
+(C) 10 Phone garage to get tracking checked on the car @online
 (E) 10 Really make a long term project out of delores and the general joy of it.   @offline
+(C) 10 Review projects @offline
 (E) 10 Set mouse traps in the garage  @offline
+(B) 10 book holiday leave from RHUL 
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
 (E) 10 print out the internet codes
 (E) 15 Measure and wood for upstairs bookshelves @offline
@@ -48,13 +36,26 @@
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
 (E) 20 Find out about a better icing and try it. @online
+(C) 20 Fix Leo architraves 
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
+(A) 20 Get two mothers day cards for the 15th March  
+(C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
+(C) 20 Sort wood to Move work bench in garage  @garage @offline
+(E) 20 Update the 3d printer post and create MCVE 
+(C) 20 find the old rightmove spreadsheet @online
 (E) 20 process Garage inbox. 
-(E) 30 Do some stop motion with Nova. @offline
-(E) 30 Give blood 
-(E) Experiment with the bone conduction things. 
-(E) Paper in the office for brainstorming. 
-(E) Share the nova email with people. 
-(E) Start sending emails about security projects. 
-(E) Update the 3d printer post and create MCVE 
+(C) 25 Review Wheel Of life Projects @offline
 (F) 30 Check the GDPR notes for IY3501 to see if they can be released @offline
+(E) 30 Do some stop motion with Nova. @offline
+(C) 30 Fix the WWW library database by getting sprint8.csv from ww 
+(E) Setup the family link app on iPad
+(E) 30 Give blood 
+(C) 30 Iterate SHEA application  +mini
+(C) 30 Put the WOMBAT code in to AI @online
+(C) 30 Test the rotating QR code with phone  @online +rhul
+(D) 40 Work out the whole Google Ads things +EQT @online
+(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online
+(B) 60 Draft Coursea exam @online +rhul
+(C) 60 Migrate the EQT wordpress site
+(B) 60 Upload marks to central 
+(E) Experiment with the bone conduction things. 
