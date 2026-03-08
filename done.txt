@@ -9175,3 +9175,7 @@ x 2026-03-08 10 Map mini project about security projects
 x 2026-03-08 25 Review Wheel Of life Projects @offline
 x 2026-03-08 10 Really make a long term project out of delores and the general joy of it.   @offline
 x 2026-03-08 10 Get the ring sound working for delores (options - local, a button some sort of thing    @online
+x 2026-03-08 02 Paper in the office for brainstorming. 
+x 2026-03-08 03 Check your vitamin box @offline
+x 2026-03-08 03 Share the nova email with people. 
+x 2026-03-08 05 Can I sort a set of markdown paragraphs by heading and keep the rest? 

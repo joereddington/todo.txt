@@ -1,8 +1,4 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(E) 02 Paper in the office for brainstorming. 
-(C) 03 Check your vitamin box @offline
-(E) 03 Share the nova email with people. 
-(E) 05 Can I sort a set of markdown paragraphs by heading and keep the rest? 
 (E) 05 Floss +Health   @offline
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 10 3dPrint a boaty @offline
@@ -49,7 +45,7 @@
 (D) 40 Work out the whole Google Ads things +EQT @online
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (B) 60 Draft Coursea exam @online +rhul
-(C) 60 Migrate the EQT wordpress site
+(C) 60 Install the Simply Static plugin on EQT and export 
 (B) 60 Upload marks to central 
 (E) Experiment with the bone conduction things.  @offline
 (E) Setup the family link app on iPad
