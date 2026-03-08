@@ -9170,3 +9170,6 @@ x 2026-03-07 50Do full accounts algorithm +EQT
 x 2026-03-07 06 See if there are better bulbs than the 6W ones in the ktichen - 29 screw, 6W. @online
 x 2026-03-07 10 Update Gym spreadsheet
 x 2026-03-08 Fill out Gratitude Book 
+x 2026-03-08 10 Review projects @offline
+x 2026-03-08 10 Map mini project about security projects 
+x 2026-03-08 25 Review Wheel Of life Projects @offline
