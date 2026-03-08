@@ -17,7 +17,7 @@
 (E) 10 Set mouse traps in the garage  @offline
 (B) 10 book holiday leave from RHUL 
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
-(E) 10 print out the internet codes @offline
+x 2026-03-08 10 print out the internet codes @offline
 (E) 15 Measure upstairs bookshelves and get wood @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
