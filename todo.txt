@@ -1,4 +1,5 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
+(E) 03 Get the arduino stuff and tape measure from the garage, also take a photo of the wifi and take a photo of the receipie book at the same time
 (E) 05 Floss +Health   @offline
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 10 3dPrint a boaty @offline
@@ -7,8 +8,7 @@
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (B) 10 Do Hertfordshire timesheet
 (E) 10 Do a brainstorm on Holidays    @offline
-(E) 10 Empty Joe inbox completely +Overhead @offline   
-(E) 10 Empty facebook inboxes. +Overhead  @offline
+(E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (C) 10 Gratitude blog post
@@ -17,12 +17,11 @@
 (E) 10 Set mouse traps in the garage  @offline
 (B) 10 book holiday leave from RHUL 
 (E) 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
-x 2026-03-08 10 print out the internet codes @offline
-(E) 15 Measure upstairs bookshelves and get wood @offline
+(E) 15 get tape measure Measure upstairs bookshelves and get wood @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 organise your bookmarks on Firefox @online
-(E) 15 send the email about Nova music lessons  (draft is @offline) 
+(E) 15 end the email about Nova music lessons  (draft is @offline) 
 (E) 19 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
@@ -45,7 +44,6 @@ x 2026-03-08 10 print out the internet codes @offline
 (D) 40 Work out the whole Google Ads things +EQT @online
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (B) 60 Draft Coursea exam @online +rhul
-(C) 60 Install the Simply Static plugin on EQT and export 
+(C) 30 Put the staatic export into a github repo and upload 
 (B) 60 Upload marks to central 
-(E) Experiment with the bone conduction things.  @offline
-(E) Setup the family link app on iPad
+(E) Experiment with the bone conduction things for meetings.  @offline
