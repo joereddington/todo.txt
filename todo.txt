@@ -1,5 +1,3 @@
-(F) 04 Add the GDPR notes to the IY3501 Moodle page @online
-(E) Experiment with the bone conduction things for meetings.  @offline
 (E) 30 Do some stop motion with Nova. @offline
 (E) 15 get tape measure Measure upstairs bookshelves and get wood @offline
 (E) 15 end the email about Nova music lessons  (draft is @offline) 
@@ -15,10 +13,12 @@
 (E) 10 3dPrint a boaty @offline
 (E) 06 Make a list of other things you can do on the computer with Leo  @offline
 (E) 05 Floss +Health   @offline
+(E) 05 Experiment with the bone conduction things for meetings.  @offline
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (C) 30 Iterate SHEA application  +mini @offline
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
+(C) 20 Fix Leo architraves  @offline 
 (B) 10 Make a list of things you haven't got around to telling people yet. @offline
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
 (A) 20 Get two mothers day cards for the 15th March  
@@ -28,14 +28,13 @@
 (B) 60 Upload marks to central 
 (C) 10 Gratitude blog post
 (C) 10 Phone garage to get tracking checked on the car @online
-(C) 20 Fix Leo architraves 
 (C) 20 find the old rightmove spreadsheet @online
 (C) 30 Fix the WWW library database by getting sprint8.csv from ww 
 (C) 30 Put the WOMBAT code in to AI @online
 (C) 30 Put the staatic export into a github repo and upload 
 (C) 30 Test the rotating QR code with phone  @online +rhul
 (D) 40 Work out the whole Google Ads things +EQT @online
-(E) 03 Get the arduino stuff and tape measure from the garage, also take a photo of the wifi and take a photo of the receipie book at the same time
+(E) 03 Get the Arduino stuff and tape measure from the garage, also take a photo of the wifi and take a photo of the receipie book at the same time
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 organise your bookmarks on Firefox @online
@@ -47,3 +46,4 @@
 (E) 20 Update the 3d printer post and create MCVE 
 (E) 20 process Garage inbox. 
 (E) 30 Give blood 
+(F) 04 Add the GDPR notes to the IY3501 Moodle page @online
