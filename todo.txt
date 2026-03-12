@@ -22,11 +22,13 @@
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
+(E) 10 Brainstorm daddy holiday with kids
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
+(E) 10 Port the history code to your laptop
 (E) 10 Set mouse traps in the garage  @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
@@ -41,6 +43,4 @@
 (E) 20 process Garage inbox. 
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
-(E) 10 Brainstorm daddy holiday with kids
-(E) 10 Port the history code to your laptop
 (E) Make the monitor stand higher 
