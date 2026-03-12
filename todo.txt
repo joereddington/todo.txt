@@ -29,6 +29,7 @@
 (E) 10 Fix history saving with a date @offline
 (E) 10 Go through the Apple Air tags and make sure you have them all.  @offline
 (E) 10 Port the history code to your laptop
+(E) 10 Put up the office hours 
 (E) 10 Set mouse traps in the garage  @offline
 (E) 15 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
