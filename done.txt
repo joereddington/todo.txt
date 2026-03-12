@@ -9183,3 +9183,8 @@ x 2026-03-08 10 Empty facebook inboxes. +Overhead  @offline
 x 2026-03-08 10 print out the internet codes @offline
 x 2026-03-08 Setup the family link app on iPad
 x 2026-03-10 04 Add the GDPR notes to the IY3501 Moodle page @online
+x 2026-03-11 19 Update the security of the garage module - it should be as simple as logging in to the TP-link page. @online
+x 2026-03-11 20 Run mgit status on the git directory and process all alerts +EQT @offline (ish) 
+x 2026-03-11 20 Get two mothers day cards for the 15th March  
+x 2026-03-11 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
+x 2026-03-11 03 Get the Arduino stuff and tape measure from the garage, also take a photo of the wifi and take a photo of the receipie book at the same time
