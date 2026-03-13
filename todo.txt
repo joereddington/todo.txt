@@ -1,6 +1,6 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(A) Fill out Gratitude Book 
+x 2026-03-13 Fill out Gratitude Book 
 (A) process emotional todo list. 
 (B) 10 Do Hertfordshire timesheet
 (B) 10 Make a list of things you haven't got around to telling people yet. @offline
@@ -63,6 +63,7 @@
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
 (E) Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Fix White water writers site certificate 
 (E) Backup AWS +EQT
 (E) Check Passports are in the safe
 (E) Check ranking scripts +Overhead
