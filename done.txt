@@ -9188,3 +9188,4 @@ x 2026-03-11 20 Run mgit status on the git directory and process all alerts +EQT
 x 2026-03-11 20 Get two mothers day cards for the 15th March  
 x 2026-03-11 10 do a brainstorm on when to use laptop and when to use the desktop (some of this will be around email) @offline
 x 2026-03-11 03 Get the Arduino stuff and tape measure from the garage, also take a photo of the wifi and take a photo of the receipie book at the same time
+x 2026-03-13 10 Go through the Apple Air tags and make sure you have them all.  @offline
