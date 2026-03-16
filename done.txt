@@ -9191,3 +9191,8 @@ x 2026-03-11 03 Get the Arduino stuff and tape measure from the garage, also tak
 x 2026-03-13 10 Go through the Apple Air tags and make sure you have them all.  @offline
 x 2026-03-13 Any Chocolate should be in the car or outside fridge (assuming winter)  
 x 2026-03-13 Fill out Gratitude Book 
+x 2026-03-16 60 Draft Coursea exam @online +rhul
+x 2026-03-16 60 Upload marks to central 
+x 2026-03-16 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2026-03-16 10 book holiday leave from RHUL 
+x 2026-03-16 Email HR about my leave 
