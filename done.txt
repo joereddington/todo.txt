@@ -9215,3 +9215,8 @@ x 2026-03-16 Sync the photoshop directroy
 x 2026-03-16 05 Experiment with the bone conduction things for meetings.  @offline
 x 2026-03-16 05 Floss +Health   @offline
 x 2026-03-16 06 Make a list of other things you can do on the computer with Leo  @offline
+x 2026-03-16 Backup AWS +EQT
+x 2026-03-16 Check Passports are in the safe
+x 2026-03-16 Check wishlist
+x 2026-03-16 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-03-16 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
