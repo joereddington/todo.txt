@@ -48,10 +48,8 @@
 (E) 20 process Garage inbox. 
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
+(E) 05 Cut Nova and Leo nails +Health    
+(E) 10 Cut nails +Health    
+(E) 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Make the monitor stand higher (at home as well as office. 
-(E) process Garage inbox. 
+(E) Make the monitor stand higher (at home as well as office) 
