@@ -1,8 +1,8 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(A) Choose the ten case studies
-(E) Event to follow up about timetable 
 (A) Book rooms for next assessed practical 
+(A) Choose the ten case studies
 (B) 10 Make a list of things you haven't got around to telling people yet. @offline
+(E) Take the second drive out of the desktop
 (B) 10 Send messages about playdates
 (B) 30 Iterate SHEA application  +mini @offline
 (B) Follow up with Advises, and D&N students
@@ -22,17 +22,19 @@
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) Do full accounts algorithm +EQT 
 (E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) 05 Cut Nova and Leo nails +Health    
+(E) 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) 07 Put up the office hours @online
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
 (E) 10 Brainstorm daddy holiday with kids @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
+(E) 10 Cut nails +Health    
 (E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
 (E) 10 Port the history code to your laptop
-(E) 07 Put up the office hours @online
 (E) 10 Set mouse traps in the garage  @offline
 (E) 15 Review the 'everything Joe knows about' files in gDrive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
@@ -50,8 +52,7 @@ x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway
 (E) 20 process Garage inbox. 
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 
-(E) 05 Cut Nova and Leo nails +Health    
-(E) 10 Cut nails +Health    
-(E) 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Event to follow up about timetable 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make the monitor stand higher (at home as well as office) 
+x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
