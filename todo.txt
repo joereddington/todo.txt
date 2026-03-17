@@ -24,7 +24,6 @@
 (E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 05 Cut Nova and Leo nails +Health    
 (E) 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) 07 Put up the office hours @online
 (E) 10 3dPrint a boaty @offline
 (E) 10 Brainstorm big book of gratitude in Delores  @offline
 (E) 10 Brainstorm calm  @offline
@@ -55,4 +54,3 @@
 (E) Event to follow up about timetable 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make the monitor stand higher (at home as well as office) 
-x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  

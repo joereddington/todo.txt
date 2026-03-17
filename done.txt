@@ -9244,3 +9244,5 @@ x 2026-03-16 15 organise your bookmarks on Firefox @online
 x 2026-03-16 20 find the old rightmove spreadsheet @online
 x 2026-03-16 30 Fix the WWW library database by getting sprint8.csv from ww 
 x 2026-03-16 20 Work out the missing books in the WWW library. 
+x 2026-03-17 07 Put up the office hours @online
+x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
