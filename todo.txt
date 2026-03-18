@@ -2,6 +2,7 @@
 (A) Book rooms for next assessed practical 
 (A) Choose the ten case studies
 (B) 10 Make a list of things you haven't got around to telling people yet. @offline
+(B) Review Figma and make a list 
 (E) Take the second drive out of the desktop
 (B) 10 Send messages about playdates
 (B) 30 Iterate SHEA application  +mini @offline
