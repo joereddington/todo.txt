@@ -1,14 +1,13 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(A) Book rooms for next assessed practical 
 (A) Choose the ten case studies
-(B) 10 Make a list of things you haven't got around to telling people yet. @offline
 (B) Review Figma and make a list 
 (E) investigate GoogleDrive sync 
-(E) Take the second drive out of the desktop
+(E) Tidy the office 
 (B) 10 Send messages about playdates
 (B) 30 Iterate SHEA application  +mini @offline
 (B) Follow up with Advises, and D&N students
 (B) Give the headphones back to team Elliot
+(C) Format the second drive 
 (C) 02 Check your vitimin box
 (C) 10 Gratitude blog post
 (C) 10 Phone garage to get tracking checked on the car @online
@@ -20,19 +19,10 @@
 (C) 30 Put the staatic export into a github repo and upload 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (C) Cut together a video of Leo 
-(C) Gratitude blog post
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) Do full accounts algorithm +EQT 
-(E) 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) 05 Cut Nova and Leo nails +Health    
-(E) 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) 10 3dPrint a boaty @offline
-(E) 10 Brainstorm big book of gratitude in Delores  @offline
-(E) 10 Brainstorm calm  @offline
-(E) 10 Brainstorm daddy holiday with kids @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
-(E) 10 Cut nails +Health    
-(E) 10 Do a brainstorm on Holidays    @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
 (E) 10 Port the history code to your laptop
@@ -49,7 +39,6 @@
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
 (E) 20 Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT (brainstorm)
-(E) 20 Update the 3d printer post with the thing you posted to reddit and create MCVE 
 (E) 20 process Garage inbox. 
 (E) 30 Do some stop motion with Nova. @offline
 (E) 30 Give blood 

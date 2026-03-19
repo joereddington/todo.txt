@@ -9246,3 +9246,16 @@ x 2026-03-16 30 Fix the WWW library database by getting sprint8.csv from ww
 x 2026-03-16 20 Work out the missing books in the WWW library. 
 x 2026-03-17 07 Put up the office hours @online
 x 2026-03-16 05 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-03-18 Book rooms for next assessed practical 
+x 2026-03-18 10 Make a list of things you haven't got around to telling people yet. @offline
+x 2026-03-18 Take the second drive out of the desktop
+x 2026-03-18 Gratitude blog post
+x 2026-03-18 10 Cut nails +Health    
+x 2026-03-18 10 Brainstorm big book of gratitude in Delores  @offline
+x 2026-03-18 10 Brainstorm calm  @offline
+x 2026-03-18 10 Brainstorm daddy holiday with kids @offline
+x 2026-03-18 10 Do a brainstorm on Holidays    @offline
+x 2026-03-18 02 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-03-18 05 Cut Nova and Leo nails +Health    
+x 2026-03-18 05 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-03-18 20 Update the 3d printer post with the thing you posted to reddit and create MCVE 
