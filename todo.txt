@@ -1,7 +1,6 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
 (A) Choose the ten case studies
 (B) 10 Send messages about playdates
-x 2026-03-21 30 Iterate SHEA application  +mini @offline
 (B) Submit the SHEA Application 
 (B) Follow up with Advises, and D&N students
 (B) Give the headphones back to team Elliot
@@ -12,8 +11,8 @@ x 2026-03-21 30 Iterate SHEA application  +mini @offline
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 30 Put the WOMBAT code in to AI @online
 (C) 30 Put the staatic export into a github repo and upload 
-(C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (C) Cut together a video of Leo 
+(D) Get a cable to wire the IR sensor(s) to the V4 Arduino 
 (C) Move content over to the exFAT drive 
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) Do full accounts algorithm +EQT 

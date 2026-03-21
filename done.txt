@@ -9270,3 +9270,5 @@ x 2026-03-21 02 Event to follow up about timetable
 x 2026-03-21 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2026-03-21 Tidy the office 
 x 2026-03-21 15 Review the 'everything Joe knows about' files in gDrive +Health @online
+x 2026-03-21 30 Iterate SHEA application  +mini @offline
+x 2026-03-21 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
