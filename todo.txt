@@ -6,10 +6,7 @@
 (B) Give the headphones back to team Elliot
 (B) Review Figma and make a list 
 (C) 02 Check your vitimin box
-(C) 10 Gratitude blog post
 (C) 10 Phone garage to get tracking checked on the car @online
-(C) 10 Review Wheel Of life Projects
-(C) 10 Review projects
 (C) 20 Fix Leo architraves  @offline 
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 30 Put the WOMBAT code in to AI @online
@@ -19,7 +16,6 @@
 (C) Format the second drive 
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) Do full accounts algorithm +EQT 
-(E) 10 3dPrint a boaty @offline
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
