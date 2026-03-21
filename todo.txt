@@ -1,7 +1,8 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
 (A) Choose the ten case studies
 (B) 10 Send messages about playdates
-(B) 30 Iterate SHEA application  +mini @offline
+x 2026-03-21 30 Iterate SHEA application  +mini @offline
+(B) Submit the SHEA Application 
 (B) Follow up with Advises, and D&N students
 (B) Give the headphones back to team Elliot
 (B) Review Figma and make a list 
@@ -13,7 +14,7 @@
 (C) 30 Put the staatic export into a github repo and upload 
 (C) 50 Replace the code on the Arduino - find out the proper way to mock the Keyboard functions. @online (NA is @offline) 
 (C) Cut together a video of Leo 
-(C) Format the second drive 
+(C) Move content over to the exFAT drive 
 (D) 40 Work out the whole Google Ads things +EQT @online
 (D) Do full accounts algorithm +EQT 
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
@@ -21,13 +22,10 @@
 (E) 10 Fix history saving with a date @offline
 (E) 10 Port the history code to your laptop
 (E) 10 Set mouse traps in the garage  @offline
-(E) 15 Review the 'everything Joe knows about' files in gDrive +Health @online
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 get bolts for upstairs bookcases @offline
-(E) 15 send the email about Nova music lessons  (draft is @offline) 
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
-(E) 20 Do correlations between attendance and grades
 (E) 20 Find out about a better icing and try it. @online
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
@@ -35,8 +33,5 @@
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT (brainstorm)
 (E) 20 process Garage inbox. 
 (E) 30 Give blood 
-(E) Event to follow up about timetable 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Make the monitor stand higher (at home as well as office) 
-(E) Tidy the office 
 (E) investigate GoogleDrive sync 
