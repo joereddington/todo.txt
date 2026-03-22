@@ -18,7 +18,6 @@
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
-(E) 10 Port the history code to your laptop
 (E) 10 Set mouse traps in the garage  @offline
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 get bolts for upstairs bookcases @offline
