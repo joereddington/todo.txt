@@ -1,10 +1,10 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
 (A) Choose the ten case studies
+(E) Setup cron for history code 
 (B) 10 Send messages about playdates
 (B) Submit the SHEA Application 
 (B) Follow up with Advises, and D&N students
 (B) Review Figma and make a list 
-(C) 02 Check your vitimin box
 (C) 10 Phone garage to get tracking checked on the car @online
 (C) 20 Fix Leo architraves  @offline 
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
@@ -23,7 +23,6 @@
 (E) 15 get bolts for upstairs bookcases @offline
 (E) 20 Attach the metal bar to the side of the house @garage 
 (E) 20 Contact to an accountant about structuring self-employment.  @online
-(E) 20 Find out about a better icing and try it. @online
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
 (E) 20 Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
