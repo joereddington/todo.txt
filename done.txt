@@ -9297,3 +9297,4 @@ x 2026-03-25 Follow up with Advises, and D&N students
 x 2026-03-25 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
 x 2026-03-25 process emotional todo list. 
 x 2026-03-25 Check starred messages in kat whatsapp 
+x 2026-03-25 02 Check cron for history code 
