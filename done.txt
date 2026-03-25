@@ -9282,3 +9282,18 @@ x 2026-03-25 Publicly thank someone +Overhead
 x 2026-03-25 Save a nice family memory +Family @phone    
 x 2026-03-25 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-03-25 Make the monitor stand higher (at home as well as office) 
+x 2026-03-25 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-03-25 Do Menu for the week +Family  @phone   
+x 2026-03-25 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-03-25 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-03-25 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-03-25 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-03-25 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-03-25 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-03-25 Check your vitimin box
+x 2026-03-25 Do full accounts algorithm +EQT 
+x 2026-03-25 Fill out Gratitude Book 
+x 2026-03-25 Follow up with Advises, and D&N students
+x 2026-03-25 Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+x 2026-03-25 process emotional todo list. 
+x 2026-03-25 Check starred messages in kat whatsapp 

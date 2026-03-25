@@ -1,29 +1,23 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
+(A) 10 Lookup Choose the ten case studies
 (A) 10 Pay parking fine
-(A) Choose the ten case studies
-(A) Fill out Gratitude Book 
-(A) process emotional todo list. 
 (B) 10 Send messages about playdates
-(B) Follow up with Advises, and D&N students
-(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
-(B) Review Figma and make a list 
-(B) Submit the SHEA Application 
+(B) 20 Review Figma and make a list 
+(B) 60 Submit the SHEA Application 
 (C) 10 Phone garage to get tracking checked on the car @online
+(C) 10 Review Wheel Of life Projects
+(C) 10 Review projects
+(C) 15 Move content over to the exFAT drive 
 (C) 20 Fix Leo architraves  @offline 
+(C) 20 Gratitude blog post
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
+(C) 30 Cut together a video of Leo 
 (C) 30 Put the WOMBAT code in to AI @online
 (C) 30 Put the staatic export into a github repo and upload 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
-(C) Cut together a video of Leo 
-(C) Gratitude blog post
-(C) Move content over to the exFAT drive 
-(C) Review Wheel Of life Projects
-(C) Review projects
+(D) 20 Get a cable to wire the IR sensor(s) to the V4 Arduino 
 (D) 40 Work out the whole Google Ads things +EQT @online
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm +EQT 
-(D) Get a cable to wire the IR sensor(s) to the V4 Arduino 
+(E) 02 Check cron for history code 
+(E) 05 Confirm plans for next two weekends.+Overhead @phone   
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
@@ -37,16 +31,7 @@
 (E) 20 Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT (brainstorm)
 (E) 20 process Garage inbox. 
+(E) 30 Empty Joe inbox completely +Overhead    
 (E) 30 Give blood 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(E) Do Menu for the week +Family  @phone   
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-(E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Special umbrella 
-x 2026-03-25 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Check cron for history code 
 (E) 30 process Garage inbox. 
+(E) 90 Special umbrella from Smyths
