@@ -3,6 +3,7 @@
 (B) 10 Send messages about playdates
 (B) 20 Review Figma and make a list 
 (B) 60 Submit the SHEA Application 
+(B) Book meetings with Herts people. 
 (C) 10 Phone garage to get tracking checked on the car @online
 (C) 10 Review Wheel Of life Projects
 (C) 10 Review projects
@@ -15,7 +16,6 @@
 (C) 30 Put the staatic export into a github repo and upload 
 (D) 20 Get a cable to wire the IR sensor(s) to the V4 Arduino 
 (D) 40 Work out the whole Google Ads things +EQT @online
-(E) 05 Confirm plans for next two weekends.+Overhead @phone   
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
