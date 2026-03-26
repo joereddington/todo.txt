@@ -1,5 +1,4 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(A) 10 Lookup Choose the ten case studies
 (A) 10 Pay parking fine
 (B) 10 Send messages about playdates
 (B) 20 Review Figma and make a list 
@@ -27,7 +26,6 @@
 (E) 20 Contact to an accountant about structuring self-employment.  @online
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
-(E) 20 Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT (brainstorm)
 (E) 20 process Garage inbox. 
 (E) 30 Empty Joe inbox completely +Overhead    
