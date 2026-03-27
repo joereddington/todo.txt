@@ -5,6 +5,7 @@
 (B) 60 Submit the SHEA Application 
 (B) Book meetings with Herts people. 
 (C) 10 Phone garage to get tracking checked on the car @online
+(C) Do a bit of a deep dive into codex
 (C) 10 Review Wheel Of life Projects
 (C) 10 Review projects
 (C) 15 Move content over to the exFAT drive 
