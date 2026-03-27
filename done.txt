@@ -9306,3 +9306,4 @@ x 2026-03-27 10 Send messages about playdates
 x 2026-03-27 60 Submit the SHEA Application 
 x 2026-03-27 Book meetings with Herts people. 
 x 2026-03-27 10 Phone garage to get tracking checked on the car @online
+x 2026-03-27 Do a bit of a deep dive into codex
