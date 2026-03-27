@@ -9301,3 +9301,8 @@ x 2026-03-25 02 Check cron for history code
 x 2026-03-26 10 Lookup Choose the ten case studies
 x 2026-03-26 20 Send some big things to §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-03-26 05 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-03-27 Send emails about arranging timings. 
+x 2026-03-27 10 Send messages about playdates
+x 2026-03-27 60 Submit the SHEA Application 
+x 2026-03-27 Book meetings with Herts people. 
+x 2026-03-27 10 Phone garage to get tracking checked on the car @online
