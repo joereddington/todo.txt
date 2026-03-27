@@ -3,6 +3,7 @@
 (A) 10 Pay parking fine
 (B) 20 Review Figma and make a list 
 (E) I want to have a tour of cool things in Teams 
+(D) Open and use the major memory traingin thing (see if you can bookmark physical places) 
 (C) 10 Review Wheel Of life Projects
 (C) 10 Review projects
 (C) 15 Move content over to the exFAT drive 
