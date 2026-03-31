@@ -4,8 +4,6 @@
 (B) 20 Review Figma and make a list 
 (E) I want to have a tour of cool things in Teams 
 (D) Open and use the major memory traingin thing (see if you can bookmark physical places) 
-(C) 10 Review Wheel Of life Projects
-(C) 10 Review projects
 (C) 15 Move content over to the exFAT drive 
 (C) 20 Fix Leo architraves  @offline 
 (C) 20 Gratitude blog post
@@ -15,6 +13,9 @@
 (C) 30 Put the staatic export into a github repo and upload 
 (D) 20 Get a cable to wire the IR sensor(s) to the V4 Arduino 
 (D) 40 Work out the whole Google Ads things +EQT @online
+(E) Watch some videos about cooking with stainless steel pans (and cleaning them properly) 
+(E) Bring in the IP camer from the garage. 
+(E) Check email for the copy of Leo assessment
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
