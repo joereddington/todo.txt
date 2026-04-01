@@ -1,28 +1,22 @@
 (A Trustees)  90 Block out 3hours to work thought EQT accounts document creation and tell Kat. @online
-(B) Upload changed marks
 (A) 10 Pay parking fine
-(B) 20 Review Figma and make a list 
-(E) I want to have a tour of cool things in Teams 
-(D) Open and use the major memory traingin thing (see if you can bookmark physical places) 
+(A) 20 Review Figma and make a list 
+(A) Return the soldering tips 
+(B) Upload changed marks
 (C) 15 Move content over to the exFAT drive 
-(E) Email this year's project supervisors about the projects
 (C) 20 Fix Leo architraves  @offline 
 (C) 20 Gratitude blog post
 (C) 20 Sort wood to Move work bench in garage  @garage @offline
 (C) 30 Cut together a video of Leo 
-(A) Return the soldering tips 
 (C) 30 Put the WOMBAT code in to AI @online
 (C) 30 Put the staatic export into a github repo and upload 
-(E) 03 calendar event to book conference
 (D) 20 Get a cable to wire the IR sensor(s) to the V4 Arduino 
 (D) 40 Work out the whole Google Ads things +EQT @online
-(E) Watch some videos about cooking with stainless steel pans (and cleaning them properly) 
-(E) Bring in the IP camer from the garage. 
-(E) Check email for the copy of Leo assessment
+(D) Open and use the major memory traingin thing (see if you can bookmark physical places) 
+(E) 03 calendar event to book conference
 (E) 10 Call and ask mum for some recommendations about setting up a limited company  @offline
 (E) 10 Empty Joe inboxes completely +Overhead @offline   
 (E) 10 Fix history saving with a date @offline
-(E) Make meal planning a project
 (E) 10 Set mouse traps in the garage  @offline
 (E) 15 Upload the Wigan Casino image and message back @online
 (E) 15 get bolts for upstairs bookcases @offline
@@ -36,3 +30,9 @@
 (E) 30 Give blood 
 (E) 30 process Garage inbox. 
 (E) 90 Special umbrella from Smyths
+(E) Bring in the IP camer from the garage. 
+(E) Check email for the copy of Leo assessment
+(E) Email this year's project supervisors about the projects
+(E) I want to have a tour of cool things in Teams 
+(E) Make meal planning a project
+(E) Watch some videos about cooking with stainless steel pans (and cleaning them properly) 
