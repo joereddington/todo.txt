@@ -33,6 +33,7 @@
 (E) 30 Empty Joe inbox completely +Overhead    
 (E) 30 Give blood 
 (E) 03 Bring in the internet camera from the garage. 
+(E) Start Flowers for turing
 (E) Check email for the copy of Leo assessment
 (E) Email this year's project supervisors about the projects
 (E) I want to have a tour of cool things in Teams 
