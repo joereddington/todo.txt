@@ -9309,3 +9309,6 @@ x 2026-03-27 10 Phone garage to get tracking checked on the car @online
 x 2026-03-27 Do a bit of a deep dive into codex
 x 2026-03-29 10 Review projects
 x 2026-03-29 10 Review Wheel Of life Projects
+x 2026-04-11 20 Get a cable to wire the IR sensor(s) to the V4 Arduino 
+x 2026-04-11 90 Special umbrella from Smyths
+x 2026-04-11 Watch some videos about cooking with stainless steel pans (and cleaning them properly) 
