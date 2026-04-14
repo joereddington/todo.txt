@@ -2,6 +2,7 @@
 (E) Set up revision session 
 (A) 10 Pay parking fine * 
 (A) 20 Review Figma and make a list 
+(E) Self assessment return for 25-26
 (A) Return the soldering tips  * 
 (B) Upload changed marks
 (C) 15 Move content over to the exFAT drive 
