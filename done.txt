@@ -9313,3 +9313,4 @@ x 2026-04-11 20 Get a cable to wire the IR sensor(s) to the V4 Arduino
 x 2026-04-11 90 Special umbrella from Smyths
 x 2026-04-11 Watch some videos about cooking with stainless steel pans (and cleaning them properly) 
 x 2026-04-14 Return soldering iron *  
+x 2026-04-14 Move the toolbox upstairs *  
