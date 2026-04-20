@@ -1,5 +1,40 @@
-(A) 03 event mark Herts projects 
-(B) Mark 3rd year projects
-(C) Submit Timesheet to Hertfordshire
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) Fill out Gratitude Book 
+(A) process emotional todo list. 
+(B) Make sure the github issues are in the right columns +Overhead https://github.com/users/joereddington/projects/1#card-30279917 +EQT
+(C) Make Kat a Diargam of Time zones for their work 
+(B) Make sure you have booked a bunch of leave from RHUL 
+(C) 10 Year plan: check you have 5 projects in each part
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check your vitimin box
+(C) Gratitude blog post
+(C) Review Wheel Of life Projects
+(C) Review projects
 (C) Review the thing for Yvonne 
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Submit Timesheet to Hertfordshire
+(C) deploy any commits from OVF that are hanging around. 
+(D) Check starred messages in kat whatsapp 
+(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Empty Joe inbox completely +Overhead    
+(E) Floss +Health   
+(E) Give laptop screen a good clean +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Make sure you have a continual professional development practice happening  +EQT
+(E) Post to Vegan Facebook group  @phone   
+(E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+(E) Publicly thank someone +Overhead  
+(E) Run the ICO backup code
+(E) Save a nice family memory +Family @phone    
+(E) TSE +Health  
+(E) Trim nose hair +Health    
+(E) Write Moonpig cards for this month +Overhead
 (E) Write presentation for Education Confrence 
+(E) process Garage inbox. 
