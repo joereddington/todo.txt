@@ -9368,3 +9368,7 @@ x 2026-04-20 Make sure you have booked a bunch of leave from RHUL
 x 2026-04-20 Buy washers for the upstairs cubboards
 x 2026-04-20 Fill out Gratitude Book 
 x 2026-04-20 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-04-21 03 Trim nose hair +Health    
+x 2026-04-21 05 Floss +Health   
+x 2026-04-21 Put Richard visit in calendar 
+x 2026-04-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
