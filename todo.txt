@@ -12,3 +12,4 @@
 (E) Use the small screwdrivers on the sunglasses
 (E) use the prototype board to test the new speaker 
 (D) Upen up Flowers For Turing
+(E) Order SD card for raspberry pi
