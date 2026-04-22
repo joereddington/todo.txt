@@ -1,10 +1,10 @@
-x 2026-04-22 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Fill out Gratitude Book 
 (A) process emotional todo list. 
 (C) 30 Submit Timesheet to Hertfordshire
 (C) Gratitude blog post
 (C) Make Kat a Diargam of Time zones for their work 
 (C) Review the thing for Yvonne 
+(E) Review the things that are in the university rankings 
 (E) 10 Ask Nova for a new list of post-it notes
 (E) 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 10 Empty Joe inbox completely +Overhead    
