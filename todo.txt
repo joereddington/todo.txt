@@ -1,3 +1,4 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Fill out Gratitude Book 
 (A) process emotional todo list. 
 (C) 30 Submit Timesheet to Hertfordshire
@@ -9,3 +10,5 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Review good things memory 
 (E) 60 Write presentations for Education Conference 
+(E) Buy some buttons for the next version of vicious cycle 
+(E) use the prototype board to test the new speaker 
