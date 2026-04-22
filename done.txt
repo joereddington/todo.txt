@@ -9373,3 +9373,6 @@ x 2026-04-21 05 Floss +Health
 x 2026-04-21 Put Richard visit in calendar 
 x 2026-04-21 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-04-22 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-04-22 Fill out Gratitude Book 
+x 2026-04-22 Gratitude blog post
+x 2026-04-22 Make Kat a Diargam of Time zones for their work 
