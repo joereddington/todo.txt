@@ -1,4 +1,5 @@
 (C) Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
+(B) Pick a date for Legoland 
 (E) 10 Ask Nova for a new list of post-it notes
 (E) 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) 10 Empty Joe inbox completely +Overhead    
