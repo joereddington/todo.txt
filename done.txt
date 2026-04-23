@@ -9386,3 +9386,6 @@ x 2026-04-23 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2026-04-23 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-04-23 Pick a date for Legoland 
 x 2026-04-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-04-23 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-04-23 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-04-23 Check starred messages in kat whatsapp 
