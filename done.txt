@@ -9378,3 +9378,7 @@ x 2026-04-22 Gratitude blog post
 x 2026-04-22 Make Kat a Diargam of Time zones for their work 
 x 2026-04-22 Review the thing for Yvonne 
 x 2026-04-22 30 Submit Timesheet to Hertfordshire
+x 2026-04-23 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-04-23 Order SD card for raspberry pi
+x 2026-04-23 Buy some buttons for the next version of vicious cycle 
+x 2026-04-23 use the prototype board to test the new speaker 

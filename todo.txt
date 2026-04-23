@@ -1,15 +1,11 @@
 (C) Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 (B) Pick a date for Legoland 
-(E) 10 Ask Nova for a new list of post-it notes
-(E) 10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) 10 Remind Nova about the list of post-it notes 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Review good things memory 
 (E) 60 Write presentations for Education Conference 
 (E) Buy backup sunglasses
-(E) Buy some buttons for the next version of vicious cycle 
 (E) Do The refernces for SHEA
 (E) Review the things that are in the university rankings 
 (E) Use the small screwdrivers on the sunglasses
-(E) use the prototype board to test the new speaker 
 (D) Upen up Flowers For Turing
-(E) Order SD card for raspberry pi
