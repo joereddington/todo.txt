@@ -9382,3 +9382,6 @@ x 2026-04-23 10 Check that everything in the 'in process' box really does have a
 x 2026-04-23 Order SD card for raspberry pi
 x 2026-04-23 Buy some buttons for the next version of vicious cycle 
 x 2026-04-23 use the prototype board to test the new speaker 
+x 2026-04-23 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-04-23 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-04-23 Pick a date for Legoland 
