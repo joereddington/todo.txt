@@ -9393,3 +9393,4 @@ x 2026-04-23 Lookup how old the monitor is in the garage and see if it's up to P
 x 2026-04-23 10 Empty Joe inbox completely +Overhead    
 x 2026-04-23 Fill out Gratitude Book 
 x 2026-04-23 process emotional todo list. 
+x 2026-04-23 Review projects

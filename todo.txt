@@ -1,4 +1,4 @@
-(C) Review projects
+x 2026-04-23 Review projects
 (C) Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 (D) Do full accounts algorithm +EQT 
 (D) Open up Flowers For Turing
