@@ -9385,3 +9385,4 @@ x 2026-04-23 use the prototype board to test the new speaker
 x 2026-04-23 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2026-04-23 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-04-23 Pick a date for Legoland 
+x 2026-04-23 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
