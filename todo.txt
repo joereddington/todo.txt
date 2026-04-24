@@ -4,7 +4,7 @@
 (E) 10 See if you can find the memory documents on the backup drive
 (E) 60 rewrite presentations for Education Conference 
 (E) 10 Take parts for Bedroom shelves upstaris
-(E) Buy backup sunglasses
+(E) Book eye test (give blood at same time 
 (E) Write up the next steps for SHEA
 (E) Check all lectures are visible for the exam
 (E) Floss +Health   
