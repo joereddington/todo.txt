@@ -8,3 +8,6 @@
 (C) 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 (E) 60 rewrite presentations for Education Conference so that it has a bunch of references in it. 
 (E) Write the reference for SK 
+(E) Setup the raspberry PI 
+(E) Get bin for office 
+(E) Bring Saw up to office to reduce height of screen 
