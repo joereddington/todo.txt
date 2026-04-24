@@ -1,11 +1,9 @@
-x 2026-04-23 Review projects
-(C) Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
-(D) Do full accounts algorithm +EQT 
-(D) Open up Flowers For Turing
-(E) 10 Remind Nova about the list of post-it notes 
-(E) 10 Review good things memory 
-(E) 60 Write presentations for Education Conference 
-(E) Assemble the kit you want to use to put the bedroom in order
+(C) 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
+(D) 10 Open up Flowers For Turing document and work out next step
+(E) 03 Remind Nova about the list of post-it notes 
+(E) 10 See if you can find the memory documents on the backup drive
+(E) 60 rewrite presentations for Education Conference 
+(E) 10 Take parts for Bedroom shelves upstaris
 (E) Buy backup sunglasses
 (E) Write up the next steps for SHEA
 (E) Floss +Health   
