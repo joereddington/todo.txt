@@ -1,12 +1,10 @@
-(E) 02 Put IP camera in the office to look at  
 (E) 02 Save a nice family memory +Family @phone    
 (E) 03 Remind Nova about the list of post-it notes 
 (E) 05 Get the apple watch looked at
-(E) 05 Use the small screwdrivers on the sunglasses
 (D) 10 Open up Flowers For Turing document and work out next step
 (E) 10 See if you can find the memory documents on the backup drive
 (E) 10 Take parts for Bedroom shelves upstaris
 (E) 20 Review the things that are in the university rankings 
 (C) 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 (E) 60 rewrite presentations for Education Conference so that it has a bunch of references in it. 
-(E) Write the referrnce for SK 
+(E) Write the reference for SK 

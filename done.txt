@@ -9402,3 +9402,5 @@ x 2026-04-24 Book eye test (give blood at same time
 x 2026-04-24 Review SHEA document and send
 x 2026-04-24 Get files from Class Dojo and put in Leo's education spreadsheet
 x 2026-04-24 05 Floss +Health   
+x 2026-04-24 02 Put IP camera in the office to look at  
+x 2026-04-24 05 Use the small screwdrivers on the sunglasses
