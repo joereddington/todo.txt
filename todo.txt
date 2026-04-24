@@ -10,7 +10,7 @@
 (E) 05 Floss +Health   
 (E) Get files from Class Dojo and put in Leo's education spreadsheet
 (E) Get the apple watch looked at
-(E) Put IP camera in the office to look at  
-(E) Review the things that are in the university rankings 
-(E) Save a nice family memory +Family @phone    
+(E) 02 Put IP camera in the office to look at  
+(E) 20 Review the things that are in the university rankings 
+(E) 02 Save a nice family memory +Family @phone    
 (E) Use the small screwdrivers on the sunglasses
