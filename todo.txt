@@ -6,6 +6,7 @@
 (E) 10 Take parts for Bedroom shelves upstaris
 (E) Buy backup sunglasses
 (E) Write up the next steps for SHEA
+(E) Check all lectures are visible for the exam
 (E) Floss +Health   
 (E) Get files from Class Dojo and put in Leo's education spreadsheet
 (E) Get the apple watch looked at
