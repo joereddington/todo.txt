@@ -9396,3 +9396,8 @@ x 2026-04-23 process emotional todo list.
 x 2026-04-23 Review projects
 x 2026-04-23 Do full accounts algorithm +EQT 
 x 2026-04-24 Check all lectures are visible for the exam
+x 2026-04-24 60 rewrite presentations for Education Conference so that it has a bunch of references in it. 
+x 2026-04-24 Book eye test (give blood at same time 
+x 2026-04-24 Book eye test (give blood at same time 
+x 2026-04-24 Review SHEA document and send
+x 2026-04-24 Get files from Class Dojo and put in Leo's education spreadsheet
