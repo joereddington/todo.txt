@@ -9406,3 +9406,5 @@ x 2026-04-24 02 Put IP camera in the office to look at
 x 2026-04-24 05 Use the small screwdrivers on the sunglasses
 x 2026-04-24 Bring Saw up to office to reduce height of screen 
 x 2026-04-24 20 Review the things that are in the university rankings 
+x 2026-04-24 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
+x 2026-04-24 03 Remind Nova about the list of post-it notes 

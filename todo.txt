@@ -1,11 +1,9 @@
 (E) 02 Save a nice family memory +Family @phone    
-(E) 03 Remind Nova about the list of post-it notes 
 (E) 05 Pick a date to get the apple watch looked at 
 (E) Make eye test appointment 
 (D) 10 Open up Flowers For Turing document and work out next step
 (E) 10 Go and get backup drive to see if you can find the memory documents 
 (E) 10 Take parts for Bedroom shelves upstairs
-(C) 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 (E) 60 rewrite presentations for Education Conference so that it has a bunch of references in it. 
 (E) Write the reference for SK 
 (E) Get USB plug for Setup the raspberry PI 
