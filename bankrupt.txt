@@ -16,10 +16,7 @@
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 Get the private in public code working for this file: write a github hook that encrypts between $ signs before a commit @online 
 (E) 20 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT (brainstorm)
-(E) Check email for the copy of Leo assessment
 (E) Email this year's project supervisors about the projects
 (E) I want to have a tour of cool things in Teams 
 (E) Make meal planning a project
-(E) Review the screen shortcuts 
-(E) Start Flowers for turing
 (E) Switch the Arduino board for the Leo 
