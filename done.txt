@@ -9412,3 +9412,5 @@ x 2026-04-25 process emotional todo list.
 x 2026-04-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-04-26 See if you need to book for the security show 
 x 2026-04-26 02 Get keyboard for Raspberry PI  
+x 2026-04-26 10 Get smarter shoes for work 
+x 2026-04-26 Work out how much power you are actually meant to feed the Pi
