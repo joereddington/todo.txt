@@ -9408,3 +9408,5 @@ x 2026-04-24 Bring Saw up to office to reduce height of screen
 x 2026-04-24 20 Review the things that are in the university rankings 
 x 2026-04-24 20 Rewrite emotional todo list into a proper emotional todo list with a selection of things to be looked at. 
 x 2026-04-24 03 Remind Nova about the list of post-it notes 
+x 2026-04-25 process emotional todo list. 
+x 2026-04-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
