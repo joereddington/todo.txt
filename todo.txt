@@ -1,6 +1,5 @@
 (A) Fill out Gratitude Book 
 (D) 10 Open up Flowers For Turing document and work out next step
-(E) 02 Get keyboard for Raspberry PI  
 (E) 02 Save a nice family memory +Family @phone    
 (E) 05 Make eye test appointment 
 (E) 05 Pick a date to get the apple watch looked at 
@@ -12,6 +11,5 @@
 (E) 15 Get bin for office 
 (E) 20 Write the reference for SK 
 (E) 60 rewrite presentations for Education Conference so that it has a bunch of references in it. 
-(E) See if you need to book for the security show 
 (E) Work out how much power you are actually meant to feed the Pi
 (D) Download the EQT static site again 

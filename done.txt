@@ -9410,3 +9410,5 @@ x 2026-04-24 20 Rewrite emotional todo list into a proper emotional todo list wi
 x 2026-04-24 03 Remind Nova about the list of post-it notes 
 x 2026-04-25 process emotional todo list. 
 x 2026-04-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-04-26 See if you need to book for the security show 
+x 2026-04-26 02 Get keyboard for Raspberry PI  
