@@ -9414,3 +9414,9 @@ x 2026-04-26 See if you need to book for the security show
 x 2026-04-26 02 Get keyboard for Raspberry PI  
 x 2026-04-26 10 Get smarter shoes for work 
 x 2026-04-26 Work out how much power you are actually meant to feed the Pi
+x 2026-04-27 Fill out Gratitude Book 
+x 2026-04-27 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-04-27 02 Save a nice family memory +Family @phone    
+x 2026-04-27 Save a nice family memory +Family @phone    
+x 2026-04-27 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-04-27 Log weight +Health   
