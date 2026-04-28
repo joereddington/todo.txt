@@ -9431,3 +9431,5 @@ x 2026-04-27 05 Make eye test appointment
 x 2026-04-27 Empty whatsapp and facebook inboxes. +Overhead  
 x 2026-04-28 process emotional todo list. 
 x 2026-04-28 Cancel the algebra subscription for Nova - they is there. 
+x 2026-04-28 See if RHUL will refund eyetests
+x 2026-04-28 Do full accounts algorithm +EQT 
