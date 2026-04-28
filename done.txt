@@ -9429,3 +9429,5 @@ x 2026-04-27 Check that everything in the 'in process' box really does have a ta
 x 2026-04-27 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 x 2026-04-27 05 Make eye test appointment 
 x 2026-04-27 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-04-28 process emotional todo list. 
+x 2026-04-28 Cancel the algebra subscription for Nova - they is there. 
