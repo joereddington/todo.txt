@@ -17,6 +17,7 @@
 (E) Cut Nova and Leo nails +Health    
 (E) Cut nails +Health    
 (E) Floss +Health   
+(E) Pay parking charge (again)
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Publicly thank someone +Overhead  
