@@ -19,4 +19,4 @@
 (E) Pay parking charge (again)
 (E) Ask B about an Agentic AI module 
 (E) Make sure that iPad filtering works
-(E) Look into the app that the libraian recommented - I think it was Rieally 
+(E) Look into the app that the libraian recommented - I think it was Rieallyj
