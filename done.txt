@@ -9514,3 +9514,4 @@ x 2026-05-05 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2026-05-05 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-05-05 Run the ICO backup code
 x 2026-05-05 Save a nice family memory +Family @phone    
+x 2026-05-05 03 Packing list for home visits  
