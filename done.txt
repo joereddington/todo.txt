@@ -9498,3 +9498,11 @@ x 2026-05-05 process emotional todo list.
 x 2026-05-05 Trim nose hair +Health    
 x 2026-05-05 05 Check the dunstable downs route 
 x 2026-05-05 05 Work out leaving time for legoland. 
+x 2026-05-05 Run mgit status on the git directory and process all alerts +EQT
+x 2026-05-05 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2026-05-05 Make sure you have booked a bunch of leave from RHUL 
+x 2026-05-05 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-05-05 Fill out Gratitude Book 
+x 2026-05-05 Gratitude blog post
+x 2026-05-05 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-05-05 Check your vitimin box
