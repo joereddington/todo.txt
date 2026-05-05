@@ -3,7 +3,6 @@
 (E) 03 Packing list for home visits  
 (E) 04 Make sure that iPad filtering works
 (E) 05 Check the dunstable downs route 
-x 2026-05-05 05 Download the EQT static site again 
 (C) Try the staatic download again
 (B) 05 Get card to Pay parking charge (again)
 (E) 05 Work out leaving time for legoland. 
