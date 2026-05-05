@@ -1,6 +1,5 @@
 (A) 60 Mark projects. 
 (A) 60 File accounts
-(B) 05 Get card to Pay parking charge (again)
 (C) 30 Write IY3510 disaster document 
 (C) Take shoes to post office with barcode
 (C) Arrange references for SHEA 
@@ -17,7 +16,6 @@
 (E) 30 Open up and read the chemistry book 
 (E) Review the memory documents 
 (E) Test 3d printer with cutting board 
-(E) 10 Take parts for Bedroom shelves upstairs
 (E) 10 Take photo of wheel with segments and control units  for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html
 (E) 10 Test Raspberry Pi
 (E) 30 You need to do a run before Sunday 
