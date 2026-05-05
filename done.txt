@@ -9463,3 +9463,5 @@ x 2026-05-05 10 Get the adapter for the backup drive to see if you can find the 
 x 2026-05-05 10 Fill out Gratitude Book 
 x 2026-05-05 Gratitude blog post 
 x 2026-05-05 10 Get a basil plant 
+x 2026-05-05 Search the GenAi for the images of the dual extruder issue
+x 2026-05-05 10 Write up red line process 
