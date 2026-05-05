@@ -1,25 +1,46 @@
-(A) 60 Mark projects. 
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 60 File accounts
+(A) 60 Mark projects. 
+(A) Fill out Gratitude Book 
+(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 30 Write IY3510 disaster document 
-(C) Take shoes to post office with barcode
 (C) Arrange references for SHEA 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check your vitimin box
+(C) Gratitude blog post
+(C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+(C) Review Wheel Of life Projects
+(C) Review projects
+(C) Run mgit status on the git directory and process all alerts +EQT
+(C) Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+(C) Take shoes to post office with barcode
 (C) Try the staatic download again
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
+(D) Clean out Fridge
+(D) Do full accounts algorithm +EQT 
 (E) 02 Move flashcards upstairs for leo
 (E) 03 Packing list for home visits  
 (E) 04 Make sure that iPad filtering works
-(E) 05 Check the dunstable downs route 
-(E) 05 Work out leaving time for legoland. 
 (E) 10 Brainstorm on the missing aspects of Robin
 (E) 10 Brainstorm replacement apple watch
 (E) 10 Find an air-con contractor for Skem
-(E) 30 Open up and read the chemistry book 
-(E) Review the memory documents 
-(E) Test 3d printer with cutting board 
 (E) 10 Take photo of wheel with segments and control units  for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html
 (E) 10 Test Raspberry Pi
+(E) 30 Open up and read the chemistry book 
 (E) 30 You need to do a run before Sunday 
-(E) 04 Make a spreadsheet for sleep quality. 
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Give laptop screen a good clean +Overhead
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Review Nova's post-it notes 
+(E) Review starred items in feeds +Overhead +EQT
+(E) Review the memory documents 
+(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) Run the ICO backup code
+(E) Save a nice family memory +Family @phone    
+(E) Test 3d printer with cutting board 
 (E) Work out next action for the dual extruder issue 
 (E) Work out what the state of play is with Desktop
-(E) Review Nova's post-it note
+(C) Add the couples spending card to phone 
+(E) process Garage inbox. 
