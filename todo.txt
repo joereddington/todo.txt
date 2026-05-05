@@ -9,8 +9,6 @@
 (C) Take shoes to post office with barcode
 (C) Try the staatic download again
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
-(D) Clean out Fridge
-(D) Do full accounts algorithm +EQT 
 (E) 02 Move flashcards upstairs for leo
 (E) 03 Packing list for home visits  
 (E) 04 Make sure that iPad filtering works
@@ -22,18 +20,12 @@
 (E) 30 Open up and read the chemistry book 
 (E) 30 You need to do a run before Sunday 
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Review Nova's post-it notes 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review the memory documents 
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Run the ICO backup code
-(E) Save a nice family memory +Family @phone    
-(E) Test 3d printer with cutting board 
-(E) Work out next action for the dual extruder issue 
-(E) Work out what the state of play is with Desktop
+(E) 05 Give laptop screen a good clean +Overhead
+(E) 05 Review Nova's post-it notes 
+(E) 10 Review the memory documents 
+(E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) 30 Test 3d printer with cutting board 
+(E) 15 Work out next action for the dual extruder issue 
+(E) 10 Work out what the state of play is with Desktop
 (E) Make sure you have downloaded the legoland app 
 (E) process Garage inbox. 
