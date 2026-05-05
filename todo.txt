@@ -17,8 +17,10 @@
 (E) 10 Brainstorm on the missing aspects of Robin
 (E) 10 Brainstorm replacement apple watch
 (E) 10 Find an air-con contractor for Skem
+(E) 30 Open up and read the chemistry book 
 (E) 10 Get a basil plant 
-(E) 10 Get the adapter for the backup drive to see if you can find the memory documents 
+(E) Review the memory documents 
+(E) Test 3d printer with cutting board 
 (E) 10 Take parts for Bedroom shelves upstairs
 (E) 10 Take photos for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html
 (E) 10 Test Raspberry Pi

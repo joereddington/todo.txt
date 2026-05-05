@@ -9459,3 +9459,4 @@ x 2026-05-05 Start refund process for shoes
 x 2026-05-05 20 Order new glasses and sunglasses
 x 2026-05-05 10 Open up Flowers For Turing document and work out next step
 x 2026-05-05 20 Write the reference for SK 
+x 2026-05-05 10 Get the adapter for the backup drive to see if you can find the memory documents 
