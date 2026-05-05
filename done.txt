@@ -9451,3 +9451,4 @@ x 2026-05-04 Get the URL for the Google maps history
 x 2026-05-05 ✓E) 15 Get bin for office 
 x 2026-05-05 Inspect the inside of the dimmer switch and then message VAS @home
 x 2026-05-05 Floss +Health   
+x 2026-05-05 05 Pick a date to get the apple watch looked at 
