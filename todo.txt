@@ -22,7 +22,7 @@
 (E) 10 Take parts for Bedroom shelves upstairs
 (E) 10 Take photos for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html
 (E) 10 Test Raspberry Pi
-(E) 20 Write the reference for SK 
+x 2026-05-05 20 Write the reference for SK 
 (E) 30 You need to do a run before Sunday 
 (E) Make a spreadsheet for sleep quality. 
 (E) Search the GenAi for the images of the dual extruder issue
