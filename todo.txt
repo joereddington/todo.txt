@@ -8,7 +8,8 @@
 (C) Arrange references for SHEA 
 (C) Gratitude blog post 
 (C) Try the staatic download again
-(D) 10 Open up Flowers For Turing document and work out next step
+x 2026-05-05 10 Open up Flowers For Turing document and work out next step
+(D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
 (E) 02 Move flashcards upstairs for leo
 (E) 03 Packing list for home visits  
 (E) 04 Make sure that iPad filtering works
