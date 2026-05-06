@@ -9515,3 +9515,8 @@ x 2026-05-05 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2026-05-05 Run the ICO backup code
 x 2026-05-05 Save a nice family memory +Family @phone    
 x 2026-05-05 03 Packing list for home visits  
+x 2026-05-05 Make sure you have downloaded the legoland app 
+x 2026-05-05 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-05-05 04 Make sure that iPad filtering works
+x 2026-05-06 Add the couples spending card to phone  @phone
+x 2026-05-05 Review Wheel Of life Projects
