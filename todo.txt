@@ -2,7 +2,6 @@
 (A) 60 Mark projects. 
 (C) 04 Try the staatic download again and properly check the issues
 (C) 10 Take shoes to post office with barcode @offline
-(C) 20 Review projects  @offline
 (C) 30 Write IY3510 disaster document  @offline
 (C) Arrange references for SHEA 
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
@@ -23,3 +22,6 @@
 (E) 30 Open up and read the chemistry book  @offline
 (E) 30 Test 3d printer with cutting board  @offline
 (E) 30 You need to do a run before Sunday  @offline
+(E) Explain to Kat the setup I want for family swimming
+(E) Find a local chartered accountant
+(E) Put Photo of Leo letter into their folder 

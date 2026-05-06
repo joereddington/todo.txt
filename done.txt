@@ -9520,3 +9520,4 @@ x 2026-05-05 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2026-05-05 04 Make sure that iPad filtering works
 x 2026-05-06 Add the couples spending card to phone  @phone
 x 2026-05-05 Review Wheel Of life Projects
+x 2026-05-06 20 Review projects  @offline
