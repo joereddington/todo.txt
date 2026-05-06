@@ -9521,3 +9521,6 @@ x 2026-05-05 04 Make sure that iPad filtering works
 x 2026-05-06 Add the couples spending card to phone  @phone
 x 2026-05-05 Review Wheel Of life Projects
 x 2026-05-06 20 Review projects  @offline
+x 2026-05-06 02 Move flashcards upstairs for leo @offline
+x 2026-05-06 10 Brainstorm replacement apple watch @offline
+x 2026-05-06 Arrange references for SHEA 
