@@ -15,7 +15,6 @@
 (E) 10 Test Raspberry Pi
 (E) 10 Work out what the state of play is with Desktop
 (E) 15 Work out next action for the dual extruder issue 
-(E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 20 process Garage inbox.  @offline
 (E) 30 Open up and read the chemistry memory book  @offline
 (E) 30 Test 3d printer with cutting board  @offline
