@@ -1,9 +1,8 @@
 (A) 60 File accounts
-(B) Do the moderation 
+(B) 30 Do the moderation 
 (C) 04 Try the staatic download again and properly check the issues
 (C) 10 Take shoes to post office with barcode @offline
 (C) 30 Write IY3510 disaster document  @offline
-(C) Properly write up the watch project 
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
 (D) 20 Read 11 pages of the food book @offline
 (E) 05 Give laptop screen a good clean +Overhead @offline
@@ -19,4 +18,4 @@
 (E) 30 Open up and read the chemistry memory book  @offline
 (E) 30 Test 3d printer with cutting board  @offline
 (E) 30 You need to do a run before Sunday  @offline
-(E) Find a local chartered accountant
+(E) 10 Find a local chartered accountant
