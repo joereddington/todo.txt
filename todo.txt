@@ -1,25 +1,23 @@
-(E) 05 Give laptop screen a good clean +Overhead @offline
-(E) 05 Review Nova's post-it notes  @phone @offline
-(E) 10 Brainstorm on the missing aspects of Robin @offline
-(E) 10 Review the memory documents  @offline
-(E) 10 Take photo of wheel with segments and control units  for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html @phone @offline
-(C) Properly write up the watch project 
-(C) 10 Take shoes to post office with barcode @offline
-(D) 20 Read 11 pages of the food book @offline
-(E) 20 process Garage inbox.  @offline
-(E) 30 Open up and read the chemistry book  @offline
-(E) 30 Test 3d printer with cutting board  @offline
-(C) 30 Write IY3510 disaster document  @offline
-(E) 30 You need to do a run before Sunday  @offline
 (A) 60 File accounts
 (A) 60 Mark projects. 
 (C) 04 Try the staatic download again and properly check the issues
+(C) 10 Take shoes to post office with barcode @offline
+(C) 30 Write IY3510 disaster document  @offline
+(C) Properly write up the watch project 
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
+(D) 20 Read 11 pages of the food book @offline
+(E) 05 Give laptop screen a good clean +Overhead @offline
+(E) 05 Review Nova's post-it notes  @phone @offline
+(E) 10 Brainstorm on the missing aspects of Robin @offline
 (E) 10 Find an air-con contractor for Skem
+(E) 10 Review the memory documents  @offline
+(E) 10 Take photo of wheel with segments and control units  for http://127.0.0.1:4000/2025/03/09/advanced-spin-bike-speedometer.html @phone @offline
 (E) 10 Test Raspberry Pi
 (E) 10 Work out what the state of play is with Desktop
 (E) 15 Work out next action for the dual extruder issue 
 (E) 20 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Explain to Kat the setup I want for family swimming
+(E) 20 process Garage inbox.  @offline
+(E) 30 Open up and read the chemistry memory book  @offline
+(E) 30 Test 3d printer with cutting board  @offline
+(E) 30 You need to do a run before Sunday  @offline
 (E) Find a local chartered accountant
-(E) Put Photo of Leo letter into their folder 
