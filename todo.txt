@@ -14,3 +14,5 @@
 (E) 30 Test 3d printer with cutting board  @offline
 (E) 30 You need to do a run before Sunday  @offline
 (E) 10 Find a local chartered accountant
+(E) Work out next actions for board game printing 
+
