@@ -15,4 +15,5 @@
 (E) 30 You need to do a run before Sunday  @offline
 (E) 10 Find a local chartered accountant
 (E) Download the figma stuff 
+(E) Nova read the cri-du-chat guide.
  
