@@ -1,19 +1,20 @@
 (A) 60 File accounts
+(A) Fill out Gratitude Book 
 (B) 30 Do the moderation 
 (C) 04 Try the staatic download again and properly check the issues
 (C) 10 Take shoes to post office with barcode @offline
 (D) 10 Switch on donations for FFT and make sure the proportioning is unambiguous 
 (D) 20 Read 11 pages of the food book @offline
+(D) Do full accounts algorithm +EQT 
 (E) 05 Review Nova's post-it notes  @phone @offline
 (E) 10 Review the memory documents  @offline
-(E) 20 Find out if I can put more into USS pension 
+(E) 10 Search the relevent website for  a local chartered accountant
 (E) 10 Test Raspberry Pi
 (E) 10 Work out what the state of play is with Desktop
 (E) 15 Work out next action for the dual extruder issue 
+(E) 20 Find out if I can put more into USS pension 
 (E) 20 process Garage inbox.  @offline
 (E) 30 Test 3d printer with cutting board  @offline
-(E) 30 You need to do a run before Sunday  @offline
-(E) 10 Find a local chartered accountant
-(E) Download the figma stuff 
+(E) Floss +Health   
 (E) Nova read the cri-du-chat guide.
- 
+(E) Save a nice family memory +Family @phone    
