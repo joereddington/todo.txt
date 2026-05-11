@@ -17,7 +17,7 @@
 (E) 05 Review Nova's post-it notes  @phone @offline
 (E) 10 Review the memory documents  @offline
 (E) 10 Search the relevent website for  a local chartered accountant
-(E) 10 Test Raspberry Pi
+x 2026-05-11 10 Test Raspberry Pi
 (E) 10 Work out what the state of play is with Desktop
 (E) 15 Work out next action for the dual extruder issue 
 (E) 20 Find out if I can put more into USS pension 
