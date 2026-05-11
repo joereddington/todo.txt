@@ -9542,3 +9542,8 @@ x 2026-05-10 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2026-05-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-05-10 process emotional todo list. 
 x 2026-05-10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-05-11 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-05-11 30 Do the moderation 
+x 2026-05-11 Trim nose hair +Health    
+x 2026-05-11 Save a nice family memory +Family @phone    
+x 2026-05-11 Work out when I can bike to the swimming pool as part of school run 
