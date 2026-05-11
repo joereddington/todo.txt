@@ -18,7 +18,8 @@
 (E) 10 Review the memory documents  @offline
 (E) 10 Search the relevent website for  a local chartered accountant
 x 2026-05-11 10 Test Raspberry Pi
-(E) 10 Work out what the state of play is with Desktop
+x 2026-05-11 10 Work out what the state of play is with Desktop
+(E) Work out list of next steps for the PI: probably flash ubuntu 
 (E) 15 Work out next action for the dual extruder issue 
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 process Garage inbox.  @offline
