@@ -19,4 +19,5 @@
 (E) Nova read the cri-du-chat guide.
 (E) Save a nice family memory +Family @phone    
 (E) Finish watching that horrible film 
+(E) Subscribe to Duolingo 
 (E) Work out when I can bike to the swimming pool as part of school run 
