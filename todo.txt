@@ -20,7 +20,6 @@
 (E) Finish watching that horrible film 
 (E) Flash ubuntu onto a miccroSD card 
 (E) Floss +Health   
-(E) Nova read the cri-du-chat guide.
 (E) Properly follow up about the EC marks 
 (E) Work out list of next steps for the PI: probably flash ubuntu 
 (E) Publish the new version of the EQT website

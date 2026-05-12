@@ -9572,3 +9572,4 @@ x 2026-05-12 04 Try the staatic download again and properly check the issues
 x 2026-05-12 20 Find out if I can put more into USS pension 
 x 2026-05-12 Check your vitimin box
 x 2026-05-12 Find Allen key for the 3d printer 
+x 2026-05-12 Nova read the cri-du-chat guide.
