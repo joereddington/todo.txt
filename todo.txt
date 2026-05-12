@@ -2,14 +2,13 @@
 (A) Fill out Gratitude Book 
 (A) process emotional todo list. 
 (B) Do the last of the project marking 
-(C) 04 Try the staatic download again and properly check the issues
 (C) 10 Take package to post office with barcode @offline
 (C) Check your vitimin box
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (C) Review projects
 (D) 10 Push FFT repo
-(D) 20 Read 11 pages of the food book @offline
+(D) 20 Read at least 20 pages of the food book @offline
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (E) 10 Search the relevent website for  a local chartered accountant
@@ -25,3 +24,4 @@
 (E) Nova read the cri-du-chat guide.
 (E) Properly follow up about the EC marks 
 (E) Work out list of next steps for the PI: probably flash ubuntu 
+(E) Publish the new version of the EQT website
