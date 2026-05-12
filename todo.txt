@@ -14,7 +14,6 @@
 (D) Do full accounts algorithm +EQT 
 (E) 10 Search the relevent website for  a local chartered accountant
 (E) 20 Find out if I can put more into USS pension 
-(E) 20 process Garage inbox.  @offline
 (E) Book Hoirzons in STEM 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Cut Nova and Leo nails +Health    
