@@ -1,28 +1,23 @@
 (A) 60 File accounts with CC
+(E) 10 Brainstorm delores
 (A) Fill out Gratitude Book 
 (A) process emotional todo list. 
 (B) Do the last of the project marking 
 (C) 10 Take package to post office with barcode @offline
 (C) Find new printer via reddit
 (C) Gratitude blog post
-(C) Review projects
-(D) 10 Push FFT repo
 (D) 20 Read at least 20 pages of the food book @offline
-(D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (E) 10 Search the relevent website for  a local chartered accountant
 (E) Book Hoirzons in STEM 
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Cut Nova and Leo nails +Health    
 (E) Empty Joe inbox completely +Overhead    
-(E) Get screwdriver to compare housings on the 3d printer 
-(E) Get a different flexible bed for the 3d printer 
+(E) Find another air con company
 (E) Finish watching that horrible film 
 (E) Flash ubuntu onto a miccroSD card 
 (E) Floss +Health   
+(E) Get a different flexible bed for the 3d printer 
+(E) Get screwdriver to compare housings on the 3d printer 
 (E) Properly follow up about the EC marks 
-(E) See if you can switch 
-(E) Find another air con company
-(E) Try Nova again with the other guide
-(E) Work out list of next steps for the PI: probably flash ubuntu 
 (E) Publish the new version of the EQT website
+(E) Try Nova again with the other guide
