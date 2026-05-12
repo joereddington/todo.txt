@@ -13,15 +13,15 @@
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (E) 10 Search the relevent website for  a local chartered accountant
-(E) 15 Work out next action for the dual extruder issue 
 (E) 20 Find out if I can put more into USS pension 
 (E) 20 process Garage inbox.  @offline
 (E) Book Hoirzons in STEM 
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Cut Nova and Leo nails +Health    
 (E) Empty Joe inbox completely +Overhead    
+(E) Find Allen key for the 3d printer 
 (E) Finish watching that horrible film 
+(E) Flash ubuntu onto a miccroSD card 
 (E) Floss +Health   
 (E) Nova read the cri-du-chat guide.
 (E) Properly follow up about the EC marks 
