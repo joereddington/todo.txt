@@ -21,5 +21,7 @@
 (E) Flash ubuntu onto a miccroSD card 
 (E) Floss +Health   
 (E) Properly follow up about the EC marks 
+(E) See if you can switch 
+(E) Find another air con company
 (E) Work out list of next steps for the PI: probably flash ubuntu 
 (E) Publish the new version of the EQT website
