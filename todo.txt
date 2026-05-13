@@ -3,7 +3,6 @@
 (B) Find the old email I sent to the project team
 (C) Rewrite the connect with me page 
 (E) Fix the missing footnotes in the casper post - also full of typos? 
-(C) 10 Take package to post office with barcode @offline
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
@@ -16,8 +15,6 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Find another air con company
 (E) Finish watching that horrible film 
-(E) Flash ubuntu onto a miccroSD card 
-(E) Floss +Health   
 (E) Get a different flexible bed for the 3d printer 
 (E) Put blackbox script into codex
 (E) Work out why SSH has stopped for tower 

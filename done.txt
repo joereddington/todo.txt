@@ -9584,3 +9584,6 @@ x 2026-05-12 Do full accounts algorithm +EQT
 x 2026-05-12 Cut Nova and Leo nails +Health    
 x 2026-05-12 process emotional todo list. 
 x 2026-05-13 Fill out Gratitude Book 
+x 2026-05-13 Floss +Health   
+x 2026-05-13 Flash ubuntu onto a miccroSD card 
+x 2026-05-13 10 Take package to post office with barcode @offline
