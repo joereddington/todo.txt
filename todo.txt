@@ -17,5 +17,6 @@
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (D) Write up Library notes @offline 
 (E) Find book for herts library
+(E) Something strange going on here https://moodle.royalholloway.ac.uk/mod/forum/discuss.php?d=192024
 (E) Setup the FFT mail merge 
 (E) Brainstorm the tiled calendar 
