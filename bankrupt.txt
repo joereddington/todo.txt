@@ -1,4 +1,3 @@
-(E) Self assessment return for 25-26
 (C) 15 Move content over to the exFAT drive 
 (C) 20 Gratitude blog post * 
 (C) 30 Cut together a video of Leo 
@@ -12,3 +11,4 @@
 (E) Email this year's project supervisors about the projects
 (E) I want to have a tour of cool things in Teams 
 (E) Make meal planning a project
+(E) Self assessment return for 25-26

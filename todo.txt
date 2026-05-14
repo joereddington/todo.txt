@@ -1,23 +1,23 @@
 (A) 60 File accounts with CC
-(B) Do the last of the project marking 
-(B) Find the old email I sent to the project team
-(C) Rewrite the connect with me page 
+(B) 60 Do the last of the project marking 
+(B) 05 Find the old email I sent to the project team @email
+(C) 10 Push new blog 
 (E) Fix the missing footnotes in the casper post - also full of typos? 
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
-(E) 05 Get screwdriver to compare housings on the 3d printer 
-(E) 10 Brainstorm delores
-(E) 10 Properly follow up about the EC marks 
-(E) 10 Try Nova again with the other guide
-(E) 15 Publish the new version of the EQT website
-(E) 15 Book Hoirzons in STEM 
+(E) 05 Get screwdriver to compare housings on the 3d printer @offline
+(E) 10 Brainstorm delores @offline
+(E) 10 Properly follow up about the EC marks @email
+(E) 10 Try Nova again with the other guide @offline
+(E) 15 Publish the new version of the EQT website 
+(E) 15 Book Horizons in STEM 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 04 Find another air con company
-(E) Finish watching that horrible film 
+(E) Finish watching that horrible film @offline
 (E) Get a different flexible bed for the 3d printer 
 (E) 20 Put blackbox script into codex
 (E) Just start the new process for the ubuntu box -there isn't anything left 
 (E) Add Pi to the set of things that can be ssh'ed into 
-(E) Tidy Office
-(D) Write up Library notes
+(E) Tidy Office @offline
+(D) Write up Library notes @offline 
