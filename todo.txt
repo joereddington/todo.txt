@@ -1,8 +1,6 @@
 (B) 60 File accounts with CC
 (B) 60 Do the last of the project marking 
 (B) 05 Find the old email I sent to the project team @email
-(C) 10 Push new blog 
-(E) Fix the missing footnotes in the casper post - also full of typos? 
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
@@ -10,11 +8,8 @@
 (E) 10 Brainstorm delores @offline
 (E) 10 Properly follow up about the EC marks @email
 (E) 10 Try Nova again with the other guide @offline
-(E) 15 Publish the new version of the EQT website 
 (E) 15 Book Horizons in STEM 
 (E) 10 Empty Joe inbox completely +Overhead    
-(E) Move Jek to the proper directory
-(E) Test email for joe@equalitytime.co.uk
 (E) 04 Find another air con company
 (E) 60 Finish watching that horrible film @offline
 (E) 20 Get a different flexible bed for the 3d printer 
