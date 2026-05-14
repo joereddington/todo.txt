@@ -14,6 +14,7 @@
 (E) 15 Book Horizons in STEM 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) Move Jek to the proper directory
+(E) Test email for joe@equalitytime.co.uk
 (E) 04 Find another air con company
 (E) 60 Finish watching that horrible film @offline
 (E) 20 Get a different flexible bed for the 3d printer 
