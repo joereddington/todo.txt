@@ -14,9 +14,9 @@
 (E) 15 Book Horizons in STEM 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 04 Find another air con company
-(E) Finish watching that horrible film @offline
-(E) Get a different flexible bed for the 3d printer 
+(E) 60 Finish watching that horrible film @offline
+(E) 20 Get a different flexible bed for the 3d printer 
 (E) 20 Put blackbox script into codex
-(E) Just start the new process for the ubuntu box -there isn't anything left 
-(E) Add Pi to the set of things that can be ssh'ed into 
+(E) 20 Just start the new process for the ubuntu box -there isn't anything left 
+(E) 10 Add Pi to the set of things that can be ssh'ed into 
 (D) Write up Library notes @offline 
