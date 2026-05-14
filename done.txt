@@ -9593,3 +9593,4 @@ x 2026-05-14 Move Jek to the proper directory
 x 2026-05-14 Test email for joe@equalitytime.co.uk
 x 2026-05-14 Fix the missing footnotes in the casper post - also full of typos? 
 x 2026-05-14 10 Push new blog 
+x 2026-05-14 10 Add Pi to the set of things that can be ssh'ed into 

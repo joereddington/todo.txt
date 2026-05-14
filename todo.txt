@@ -15,7 +15,6 @@
 (E) 20 Get a different flexible bed for the 3d printer 
 (E) 20 Put blackbox script into codex
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(E) 10 Add Pi to the set of things that can be ssh'ed into 
 (D) Write up Library notes @offline 
 (E) Setup the FFT mail merge 
 (E) Brainstorm the tiled calendar 
