@@ -5,7 +5,6 @@
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
-(E) 05 Get screwdriver to compare housings on the 3d printer @offline
 (E) 10 Brainstorm delores @offline
 (E) 10 Properly follow up about the EC marks @email
 (E) 10 Try Nova again with the other guide @offline
