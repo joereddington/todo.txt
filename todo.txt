@@ -1,5 +1,6 @@
 (B) 60 File accounts with CC
-(B) 60 Do the last of the project marking 
+(A) See if you can repair the accounts document
+(B) 60 Do the last of the UG  project marking 
 (B) 05 Find the old email I sent to the project team @email
 (C) Find new printer via reddit
 (C) Gratitude blog post
@@ -15,7 +16,7 @@
 (E) 20 Get a different flexible bed for the 3d printer 
 (E) 20 Put blackbox script into codex
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(D) Write up Library notes @offline 
+(D) Write up the notes from the Library notes @offline 
 (E) Find book for herts library
 (E) Something strange going on here https://moodle.royalholloway.ac.uk/mod/forum/discuss.php?d=192024
 (E) Setup the FFT mail merge 
