@@ -1,23 +1,24 @@
-(B) 60 File accounts with CC
 (A) See if you can repair the accounts document
-(B) 60 Do the last of the UG  project marking 
 (B) 05 Find the old email I sent to the project team @email
+(B) 60 Do the last of the UG  project marking 
+(B) 60 File accounts with CC
 (C) Find new printer via reddit
 (C) Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
+(D) Write up the notes from the Library notes @offline 
+(E) 04 Find another air con company
 (E) 10 Brainstorm delores @offline
+(E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Properly follow up about the EC marks @email
 (E) 10 Try Nova again with the other guide @offline
 (E) 15 Book Horizons in STEM 
-(E) 10 Empty Joe inbox completely +Overhead    
-(E) 04 Find another air con company
-(E) 60 Finish watching that horrible film @offline
 (E) 20 Get a different flexible bed for the 3d printer 
-(E) 20 Put blackbox script into codex
-(E) see if you can independently run the SuperDebunkers game 
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(D) Write up the notes from the Library notes @offline 
-(E) Find book for herts library
-(E) Something strange going on here https://moodle.royalholloway.ac.uk/mod/forum/discuss.php?d=192024
-(E) Setup the FFT mail merge 
+(E) 20 Put blackbox script into codex
+(E) 60 Finish watching that horrible film @offline
 (E) Brainstorm the tiled calendar 
+(E) Find book for herts library
+(E) Setup the FFT mail merge 
+(E) Something strange going on here https://moodle.royalholloway.ac.uk/mod/forum/discuss.php?d=192024
+(E) Try printing double Benchy
+(E) see if you can independently run the SuperDebunkers game 
