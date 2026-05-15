@@ -13,7 +13,6 @@
 (E) 20 Put blackbox script into codex
 (E) 60 Finish watching that horrible film @offline
 (E) Brainstorm the tiled calendar 
-x 2026-05-15 10 Do this: https://ask.herts.ac.uk/book-borrowing#Free_postal_returns
 (E) Setup the FFT mail merge 
 (E) 20 Try printing double Benchy
 (E) 30 see if you can independently run the SuperDebunkers game 
