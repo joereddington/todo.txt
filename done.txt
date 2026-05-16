@@ -9601,3 +9601,4 @@ x 2026-05-15 20 Get a different flexible bed for the 3d printer
 x 2026-05-15 10 Try Nova again with the other guide @offline
 x 2026-05-15 Something strange going on here https://moodle.royalholloway.ac.uk/mod/forum/discuss.php?d=192024
 x 2026-05-15 10 Do this: https://ask.herts.ac.uk/book-borrowing#Free_postal_returns
+x 2026-05-16 20 Put blackbox script into codex
