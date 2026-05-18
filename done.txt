@@ -9603,3 +9603,5 @@ x 2026-05-15 Something strange going on here https://moodle.royalholloway.ac.uk/
 x 2026-05-15 10 Do this: https://ask.herts.ac.uk/book-borrowing#Free_postal_returns
 x 2026-05-16 20 Put blackbox script into codex
 x 2026-05-17 10 Empty Joe inbox completely +Overhead    
+x 2026-05-18 15 Write up the notes from the Library notes @offline 
+x 2026-05-18 10 Brainstorm delores @offline
