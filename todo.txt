@@ -2,18 +2,18 @@
 (B) 05 Find the old email I sent to the project team @email
 (B) 60 Do the last of the UG  project marking 
 (B) 60 File accounts with CC
-(D) 20 Read at least 20 pages of the food book @offline
 (D) 15 Write up the notes from the Library notes @offline 
+(D) 20 Read at least 20 pages of the food book @offline
 (E) 04 Find another air con company
 (E) 10 Brainstorm delores @offline
-(E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Properly follow up about the EC marks @email
 (E) 15 Book Horizons in STEM 
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(E) 60 Finish watching that horrible film @offline
-(E) Brainstorm the tiled calendar 
-(E) Setup the FFT mail merge 
 (E) 20 Try printing double Benchy
-(E) Go and get the apple watch fixed (do it on an MK day) 
 (E) 30 see if you can independently run the SuperDebunkers game 
-(E) Talk though next Thursday with Kat 
+(E) 60 Watch a few minutes more of that film 
+(E) Brainstorm the tiled calendar 
+(E) Go and get the apple watch fixed (do it on an MK day) 
+(E) Setup the FFT mail merge 
+(E) Do the message for  next Thursday with Kat 
+(E) Email Karen about pushing back next Thursday
