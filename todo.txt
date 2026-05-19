@@ -34,3 +34,4 @@
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline
 (E) 50 Go and get the apple watch fixed (do it on an MK day) 
+(E) Work out the wifi in the house
