@@ -1,52 +1,36 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) 10 Fill out Gratitude Book 
+(A) 20 Post Accounts document
 (A) 60 File accounts with CC
-(A) Check priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
-(A) Fill out Gratitude Book 
-(A) Post Accounts document
-(A) process emotional todo list. 
 (B) 05 Find the old email I sent to the project team @email
+(B) 20 Get board game printed 
 (B) 60 Do the last of the UG  project marking 
-(B) Email Karen about pushing back next Thursday
-(B) Setup the FFT mail merge 
+(B) 60 Setup the FFT mail merge this week! by the 23rd! 
+(C) 02 Put apple watch in the car ahead of day out
+(C) 03 Find a powerline adapter in the tech box
 (C) 04 Find another air con company
+(C) 10 Review RHUL projects @offline
+(C) 10 Review Wheel Of life Projects @offline
+(C) 10 Review projects @offline
+(C) 10 Update Leo calendar @offline
 (C) 15 Book Horizons in STEM 
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
-(C) Find a powerline adapter in the tech box
-(C) Gratitude blog post
-(C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(C) Review RHUL projects
-(C) Review Wheel Of life Projects
-(C) Review projects
-(C) Update Leo calendar
+(C) 20 Gratitude blog post
+(D) 02 Event - the IY4500 studnets need an email explaining their module 
+(D) 05 Check starred messages in kat whatsapp 
+(D) 07 Check (start with Codex) if the coursework needs to be shorter now.
+(D) 20 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (D) 20 Read at least 20 pages of the food book @offline
 (D) 30 see if you can independently run the SuperDebunkers game 
 (D) 60 Watch a few minutes more of that film 
-(E) Measure up hooks for 3m by 3m tarp 
-(E) Add to swimming bag list - 20p and £1  coin
-(E) Check tyre pressure
-(D) Check (start with Codex) if the coursework needs to be shorter now.
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm +EQT 
-(D) Event - the IY4500 studnets need an email explaining their module 
+(E) 03 Save a nice family memory +Family @phone    
+(E) 04 Add to swimming bag list - 20p and £1  coin  @offline
+(E) 05 Cut Nova and Leo nails +Health    
+(E) 05 Cut nails +Health    
+(E) 05 Floss +Health   
+(E) 10 Check when any coursework changes need approving 
+(E) 10 Find out what the big journals by impact are on Higher Education Pedagogy 
+(E) 10 Measure up hooks for 3m by 3m tarp  @offline
+(E) 10 Review the MK library photos 
+(E) 20 Check tyre pressure @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(E) 20 Try printing double Benchy
-(E) Brainstorm the tiled calendar 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Check when any coursework changes need approving 
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Find out what the big journals by impact are on Higher Education Pedagogy 
-(E) Floss +Health   
-(E) Go and get the apple watch fixed (do it on an MK day) 
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Publicly thank someone +Overhead  
-(E) Review the MK library photos 
-(E) Save a nice family memory +Family @phone    
-(E) Trim nose hair +Health    
-(E) share your gift policy on the social networks.    @phone 
+(E) 20 Try printing double Benchy @offline
+(E) 50 Go and get the apple watch fixed (do it on an MK day) 
