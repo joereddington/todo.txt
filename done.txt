@@ -9630,3 +9630,4 @@ x 2026-05-18 Publicly thank someone +Overhead
 x 2026-05-18 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2026-05-18 Check priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 x 2026-05-18 Do full accounts algorithm +EQT 
+x 2026-05-19 20 Post Accounts document
