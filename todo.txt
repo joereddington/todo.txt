@@ -1,4 +1,4 @@
-(A) 10 Fill out Gratitude Book 
+(A) 10 Fill out Gratitude Book  @kids
 (A) 60 File accounts with CC
 (B) 20 Get board game printed 
 (B) 60 Setup the FFT mail merge this week! by the 23rd! 
@@ -17,13 +17,12 @@
 (E) 05 Cut nails +Health    
 (E) 05 Floss +Health   
 (E) 10 Check when any coursework changes need approving 
-(E) 10 Find out what the big journals by impact are on Higher Education Pedagogy 
 (E) 10 Get cash out
-(E) 10 Measure up hooks for 3m by 3m tarp  @offline
+(E) 10 Measure up hooks for 3m by 3m tarp  @offline @kids
 (E) 10 Review the MK library photos 
 (E) 20 Check tyre pressure @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
-(E) 20 Try printing double Benchy @offline
+(E) 20 Try printing double Benchy @offline @kids
 (E) 50 Go and get the apple watch fixed (do it on an MK day) 
 (E) Buget out disneyland and setup project
 (E) Project and plan for southport holiday.
