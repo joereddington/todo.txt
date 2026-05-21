@@ -2,16 +2,14 @@
 (A) 60 File accounts with CC
 (B) 20 Get board game printed 
 (B) 60 Setup the FFT mail merge this week! by the 23rd! 
-(C) 03 Find a powerline adapter in the tech box
+(B) Find your exam marking notes. 
+(C) Test the powerline adapters @online
+(E) Check the WOMBAT write-up
 (C) 10 Review RHUL projects @offline
 (C) 10 Review Wheel Of life Projects @offline
 (C) 10 Review projects @offline
 (C) 10 Update Leo calendar @offline
 (C) 15 Book Horizons in STEM 
-(E) Project and plan for southport holiday.
-(E) Buget out disneyland and setup project
-(E) Setup rewards thing fork ids
-(E) Get cash out
 (C) 20 Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
 (D) 30 see if you can independently run the SuperDebunkers game 
@@ -21,11 +19,14 @@
 (E) 05 Floss +Health   
 (E) 10 Check when any coursework changes need approving 
 (E) 10 Find out what the big journals by impact are on Higher Education Pedagogy 
+(E) 10 Get cash out
 (E) 10 Measure up hooks for 3m by 3m tarp  @offline
 (E) 10 Review the MK library photos 
 (E) 20 Check tyre pressure @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline
 (E) 50 Go and get the apple watch fixed (do it on an MK day) 
+(E) Buget out disneyland and setup project
+(E) Project and plan for southport holiday.
+(E) Setup rewards thing fork ids
 (E) Work out the wifi in the house
-(B) Find your exam marking notes. 
