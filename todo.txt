@@ -4,13 +4,10 @@
 (B) 60 Setup the FFT mail merge this week! by the 23rd! 
 (B) Find your exam marking notes. 
 (C) Test the powerline adapters @online
-(C) Get printer working 
 (E) Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) Check the WOMBAT write-up
-(C) 10 Review RHUL projects @offline
 (C) 10 Review Wheel Of life Projects @offline
 (C) 10 Review projects @offline
-(C) 10 Update Leo calendar @offline
 (C) 15 Book Horizons in STEM 
 (C) 20 Gratitude blog post
 (D) 20 Read at least 20 pages of the food book @offline
@@ -30,5 +27,7 @@
 (E) 50 Go and get the apple watch fixed (do it on an MK day) 
 (E) Buget out disneyland and setup project
 (E) Project and plan for southport holiday.
-(E) Setup rewards thing fork ids
+(E) Setup rewards chart
 (E) Work out the wifi in the house
+(E) Do the expression of interest
+(E) Make a plan for NHS day

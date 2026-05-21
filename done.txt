@@ -9643,3 +9643,6 @@ x 2026-05-20 04 Add to swimming bag list - 20p and £1  coin  @offline
 x 2026-05-20 05 Cut Nova and Leo nails +Health    
 x 2026-05-20 Make a foil panel for the basil @offline @kids
 x 2026-05-20 03 Find a powerline adapter in the tech box
+x 2026-05-21 10 Review RHUL projects @offline
+x 2026-05-21 10 Update Leo calendar @offline
+x 2026-05-21 Get printer working 
