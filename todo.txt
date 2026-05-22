@@ -17,10 +17,9 @@
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline @kids
 (E) 50 Go and get the apple watch fixed (do it on an MK day) 
-(E) Check the WOMBAT write-up
 (E) Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) Make a plan for NHS day
-(E) Project and plan for southport holiday.
+(E) Project and plan for Southport holiday.
 (E) Setup rewards chart
 (E) Take tools to bedroom 
 (E) Work out the wifi in the house
