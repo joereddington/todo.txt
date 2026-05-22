@@ -27,3 +27,4 @@
 (E) Setup rewards chart
 (E) Take tools to bedroom 
 (E) Work out the wifi in the house
+(E) Work out winter holiday dates
