@@ -9647,3 +9647,5 @@ x 2026-05-21 10 Review RHUL projects @offline
 x 2026-05-21 10 Update Leo calendar @offline
 x 2026-05-21 Get printer working 
 x 2026-05-21 10 Find out what the big journals by impact are on Higher Education Pedagogy 
+x 2026-05-21 10 Review projects @offline
+x 2026-05-22 05 Cut nails +Health    
