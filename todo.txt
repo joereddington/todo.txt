@@ -7,8 +7,8 @@
 (D) 60 Watch a few minutes more of that film 
 (E) 03 Save a nice family memory +Family @phone    
 (E) 05 Floss +Health   
-(E) 10 Check when any coursework changes need approving 
-(E) 10 Get cash out
+(E) 10 Rewrite the coursework files for next year 
+(E) 10 Find missing bank card
 (E) 10 Measure up hooks for 3m by 3m tarp  @offline @kids
 (E) 10 Review the MK library photos 
 (E) 20 Check tyre pressure @offline
