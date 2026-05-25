@@ -8,12 +8,10 @@
 (E) 10 Rewrite the coursework files for next year 
 (E) 10 Find missing bank card
 (E) 10 Measure up hooks for 3m by 3m tarp  @offline @kids
-(E) 10 Review the MK library photos 
-(E) 04 Confirm southprot holiday dates in calendar 
+(E) 04 Confirm southport holiday dates in calendar 
 (E) 20 Check tyre pressure @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline @kids
-(E) 50 Go and get the apple watch fixed (do it on an MK day) 
 (E) file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) Make a plan for NHS day (Which is a saturday) 
 (E) Setup rewards chart
