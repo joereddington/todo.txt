@@ -20,3 +20,6 @@
 (E) Take tools to bedroom 
 (E) Work out the wifi in the house
 (E) Work out winter holiday dates
+(E) Find a couple of good sources on the usefulness of attackers 
+(E) Look into ISO27000 assessment as a personal development project
+(E) Calendar event to consider renaming the module 
