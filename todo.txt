@@ -1,5 +1,4 @@
 (A) 10 Fill out Gratitude Book  @kids
-(A) 60 Send the rest of the FFT donor emails 
 (C) 15 Book H in STEM
 (C) Test the powerline adapters @online
 (D) 60 Watch a few minutes more of that film 
@@ -19,4 +18,5 @@
 (E) Work out winter holiday dates
 (E) Find a couple of good sources on the usefulness of attackers 
 (E) Look into ISO27000 assessment as a personal development project
+(E) Create new 'blue book' repo - the tex file and folders for images and for sources. Full version control.  
 (E) Calendar event to consider renaming the module 

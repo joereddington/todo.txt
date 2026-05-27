@@ -9663,3 +9663,4 @@ x 2026-05-22 Project and plan for Southport holiday.
 x 2026-05-25 10 Review the MK library photos 
 x 2026-05-25 50 Go and get the apple watch fixed (do it on an MK day) 
 x 2026-05-25 30 see if you can independently run the SuperDebunkers game 
+x 2026-05-26 60 Send the rest of the FFT donor emails 
