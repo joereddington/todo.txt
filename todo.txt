@@ -24,3 +24,4 @@
 (E) Create new 'blue book' repo - the tex file and folders for images and for sources. Full version control.  
 (C) Delete the lightsail instance 
 (E) Event to do student feedback on the module 
+(E) Make aggresso Claim 
