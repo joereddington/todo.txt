@@ -19,4 +19,5 @@
 (E) Find a couple of good sources on the usefulness of attackers 
 (E) Look into ISO27000 assessment as a personal development project
 (E) Create new 'blue book' repo - the tex file and folders for images and for sources. Full version control.  
+(C) Delete the lightsail instance 
 (E) Calendar event to consider renaming the module 
