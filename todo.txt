@@ -22,20 +22,16 @@
 (E) 04 Confirm southport holiday dates in calendar 
 (E) 05 Floss +Health   
 (E) 10 Find missing bank card
-(E) 10 Measure up hooks for 3m by 3m tarp  @offline @kids
+(E) Drill holes for tarp
 (E) 10 Rewrite the coursework files for next year 
 (E) 20 Check tyre pressure @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline @kids
 (E) Any Chocolate should be in the car or outside fridge (assuming winter)  
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-(E) Confirm plans for next two weekends.+Overhead @phone   
+(C) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Create new 'blue book' repo - the tex file and folders for images and for sources. Full version control.  
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do Menu for the week +Family  @phone   
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Email major donors about Flowers For Turing 
 (E) Empty Joe inbox completely +Overhead    
