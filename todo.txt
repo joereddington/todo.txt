@@ -15,7 +15,7 @@
 (E) Setup rewards chart
 (E) Take tools to bedroom 
 (E) Work out the wifi in the house
-(E) Work out winter holiday dates
+(E) Setup event for 'when timetable finalised' to be able to do the winter event
 (E) Find a couple of good sources on the usefulness of attackers 
 (E) Look into ISO27000 assessment as a personal development project
 (C) Talk over parent visit with Kat 
@@ -24,4 +24,3 @@
 (E) Create new 'blue book' repo - the tex file and folders for images and for sources. Full version control.  
 (C) Delete the lightsail instance 
 (E) Event to do student feedback on the module 
-(E) Calendar event to consider renaming the module 
