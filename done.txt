@@ -9701,3 +9701,5 @@ x 2026-06-02 Publicly thank someone +Overhead
 x 2026-06-02 process Garage inbox. 
 x 2026-06-03 03 Update Leo calendar
 x 2026-06-03 10 Review RHUL projects @offline
+x 2026-06-03 20 Delete the AWS lightsail instance 
+x 2026-06-03 14 Post to Reddit 
