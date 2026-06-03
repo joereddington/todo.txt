@@ -9703,3 +9703,7 @@ x 2026-06-03 03 Update Leo calendar
 x 2026-06-03 10 Review RHUL projects @offline
 x 2026-06-03 20 Delete the AWS lightsail instance 
 x 2026-06-03 14 Post to Reddit 
+x 2026-06-03 15 Make aggresso Claim 
+x 2026-06-03 02 Setup event for 'when timetable finalised' to be able to do the winter event
+x 2026-06-03 10 Email major donors about Flowers For Turing 
+x 2026-06-03 03 Check priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 

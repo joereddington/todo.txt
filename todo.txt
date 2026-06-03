@@ -1,32 +1,28 @@
-(A) 03 Check priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
-(A) 10 Fill out Gratitude Book  @kids
-(A) 10 process emotional todo list.  @offline
-(C) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
+(A) 10 Review projects @offline
+(A) 10 Talk over parent visit with Kat  @offline
+(B) 04 Confirm southport holiday dates in calendar 
+(B) 15 Test the powerline adapters @online
 (C) 10 Review Wheel Of life Projects @offline
-(C) 10 Review projects @offline
-(C) 10 Talk over parent visit with Kat  @offline
-(C) 15 Claim back expenses for H in Stem 
+(C) 10 Rewrite the coursework files for next year 
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
-(C) 15 Test the powerline adapters @online
-(C) 20 Gratitude blog post @offline
-(D) 15 Make aggresso Claim 
-(D) 60 Watch a few minutes more of that film  @offline
-(E) 02 Setup event for 'when timetable finalised' to be able to do the winter event
+(D) 10 Brainstorm rewards chart @offline
+(D) 10 Fill out Gratitude Book  @kids
+(D) 10 Order replacement bank card
+(D) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
+(D) 10 process emotional todo list.  @offline
+(D) 15 Claim back expenses for H in Stem 
+(D) 20 Check tyre pressure @offline
+(D) 20 Gratitude blog post @offline
+(D) 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) 03 Save a nice family memory +Family @phone     @offline
-(E) 04 Confirm southport holiday dates in calendar 
-(E) 10 Brainstorm rewards chart @offline
-(E) 10 Email major donors about Flowers For Turing 
+(E) 07 Plan out some cinema dates
 (E) 10 Email that guy with th water bottle about a talk 
-(E) 10 Find missing bank card @offline
+(E) 10 Look up the car millage 
 (E) 10 Make a plan for NHS day (Which is a saturday)  @offline
-(E) 10 Rewrite the coursework files for next year 
 (E) 15 Write up the exam notes in the notebook 
-(E) 20 Check tyre pressure @offline
+(E) 20 Drill more holes for bolts in bedroom @offline
 (E) 20 Just start the new process for the ubuntu box -there isn't anything left 
 (E) 20 Try printing double Benchy @offline @kids
-(E) 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) 25 Work out the wifi in the house
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
-(E) 20 Drill more holes for bolts in bedroom @offline
-(E) 10 Look up the car millage 
-(E) 07 Plan out some cinema dates
+(E) 60 Watch a few minutes more of that film  @offline
