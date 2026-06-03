@@ -9709,3 +9709,4 @@ x 2026-06-03 10 Email major donors about Flowers For Turing
 x 2026-06-03 03 Check priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 x 2026-06-03 A) 10 Review projects @offline
 x 2026-06-03 04 Confirm southport holiday dates in calendar 
+x 2026-06-03 20 Estimate eurostar costs
