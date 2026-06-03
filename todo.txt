@@ -26,3 +26,5 @@
 (E) 25 Work out the wifi in the house
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) 60 Watch a few minutes more of that film  @offline
+(E) 20 Estimate eurostar costs
+(E) 20 pages of the bluebook 
