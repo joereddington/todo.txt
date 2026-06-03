@@ -28,3 +28,4 @@
 (E) 60 Watch a few minutes more of that film  @offline
 (E) 20 Estimate eurostar costs
 (E) 20 pages of the bluebook 
+(E) Make a list of people contacted about air con 
