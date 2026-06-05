@@ -9712,3 +9712,4 @@ x 2026-06-03 04 Confirm southport holiday dates in calendar
 x 2026-06-03 20 Estimate eurostar costs
 x 2026-06-05 20 Just start the new process for the ubuntu box -there isn't anything left 
 x 2026-06-05 Iphone charger if you are going to use it as a camera 
+x 2026-06-05 20 Gratitude blog post @offline

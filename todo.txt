@@ -10,7 +10,6 @@
 (D) 10 process emotional todo list.  @offline
 (D) 15 Claim back expenses for H in Stem 
 (D) 20 Check tyre pressure @offline
-(D) 20 Gratitude blog post @offline
 (D) 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (E) 03 Save a nice family memory +Family @phone     @offline
 (E) 07 Plan out some cinema dates
