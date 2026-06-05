@@ -16,6 +16,7 @@
 (E) 07 Plan out some cinema dates
 (E) 10 Email that guy with th water bottle about a talk 
 (E) 10 Look up the car millage 
+(E) Iphone charger if you are going to use it as a camera 
 (E) 10 Make a plan for NHS day (Which is a saturday)  @offline
 (E) 15 Write up the exam notes in the notebook 
 (E) 20 Drill more holes for bolts in bedroom @offline
@@ -24,7 +25,6 @@
 (E) 25 Work out the wifi in the house
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) 60 Watch a few minutes more of that film  @offline
-x 2026-06-03 20 Estimate eurostar costs
 (E) 20 pages of the bluebook 
 (E) Make a list of people contacted about air con 
 (E) Work out next action for medication 
