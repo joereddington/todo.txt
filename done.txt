@@ -9710,3 +9710,5 @@ x 2026-06-03 03 Check priorities (look at http://127.0.0.1:4000/2017/03/19/makin
 x 2026-06-03 A) 10 Review projects @offline
 x 2026-06-03 04 Confirm southport holiday dates in calendar 
 x 2026-06-03 20 Estimate eurostar costs
+x 2026-06-05 20 Just start the new process for the ubuntu box -there isn't anything left 
+x 2026-06-05 Iphone charger if you are going to use it as a camera 
