@@ -14,7 +14,7 @@
 (E) 10 Make a plan for NHS day (Which is a saturday)  @offline
 (E) 15 Write up the exam notes in the notebook 
 (E) 20 Drill more holes for bolts in bedroom @offline
-(E) 20 Try printing double Benchy @offline @kids
+x 2026-06-06 20 Try printing double Benchy @offline @kids
 (E) 25 Work out the wifi in the house
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) 60 Watch a few minutes more of that film  @offline
