@@ -9719,3 +9719,6 @@ x 2026-06-06 03 Save a nice family memory +Family @phone     @offline
 x 2026-06-06 10 Look up the car millage 
 x 2026-06-06 Attach power strip to the desk  @garage 
 x 2026-06-06 20 Try printing double Benchy @offline @kids
+x 2026-06-08 10 process emotional todo list.  @offline
+x 2026-06-08 10 Brainstorm rewards chart @offline
+x 2026-06-08 10 Order replacement bank card
