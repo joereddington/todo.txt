@@ -19,3 +19,4 @@
 (E) Work out next action for medication 
 (E) Brainstorm the plan for the ubuntu box 
 (E) Test VC 4.1 on a long ride. 
+(E) Setup clipboard 
