@@ -2,6 +2,7 @@
 (C) 10 Review Wheel Of life Projects @offline
 (C) 10 Rewrite the coursework files for next year 
 (C) 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+(C) Process the case studies book 
 (D) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (D) 15 Claim back expenses for H in Stem 
 (D) 20 Check tyre pressure @offline
@@ -11,12 +12,12 @@
 (E) 10 Make a plan for NHS day (Which is a saturday)  @offline
 (E) 15 Write up the exam notes in the notebook 
 (E) 20 Drill more holes for bolts in bedroom @offline
+(E) 20 pages of the bluebook 
 (E) 25 Work out the wifi in the house
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) 60 Watch a few minutes more of that film  @offline
-(E) 20 pages of the bluebook 
-(E) Make a list of people contacted about air con 
-(E) Work out next action for medication 
 (E) Brainstorm the plan for the ubuntu box 
-(E) Test VC 4.1 on a long ride. 
+(E) Make a list of people contacted about air con 
 (E) Setup clipboard 
+(E) Test VC 4.1 on a long ride. 
+(E) Work out next action for medication 
