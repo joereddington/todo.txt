@@ -1,7 +1,7 @@
-(A) Put up another reddit post
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) Fill out Gratitude Book 
 (A) Plan Richard visit 
+(A) Put up another reddit post
 (A) process emotional todo list. 
 (B) Make sure you have booked a bunch of leave from RHUL 
 (C) 10 Review Wheel Of life Projects @offline
@@ -22,7 +22,6 @@
 (D) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (D) 15 Claim back expenses for H in Stem 
 (D) 20 Check tyre pressure @offline
-(D) 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 (D) Check starred messages in kat whatsapp 
 (D) Clean out Fridge
 (D) Do full accounts algorithm +EQT 
@@ -69,7 +68,5 @@
 (E) Save a nice family memory +Family @phone    
 (E) Setup clipboard 
 (E) TSE +Health  
-(E) Test VC 4.1 on a long ride. 
-(E) Trim nose hair +Health    
 (E) Work out next action for medication 
 (E) process Garage inbox. 

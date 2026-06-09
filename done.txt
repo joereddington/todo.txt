@@ -9725,3 +9725,6 @@ x 2026-06-08 10 Order replacement bank card
 x 2026-06-09 put slides in.
 x 2026-06-09 10 Post the package to E
 x 2026-06-09 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+x 2026-06-09 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
+x 2026-06-09 Test VC 4.1 on a long ride. 
+x 2026-06-09 Trim nose hair +Health    
