@@ -9759,3 +9759,4 @@ x 2026-06-10 Review RHUL projects
 x 2026-06-10 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-06-10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2026-06-10 Log weight +Health   
+x 2026-06-10 15 Write up the exam notes in the notebook 
