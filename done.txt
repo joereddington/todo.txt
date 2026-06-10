@@ -9764,3 +9764,6 @@ x 2026-06-10 Go through phone and save all of the numbers +Overhead  @phone
 x 2026-06-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-06-10 60 Watch a few minutes more of that film  @offline
 x 2026-06-10 Run the ICO backup code
+x 2026-06-10 15 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
+x 2026-06-10 TSE +Health  
+x 2026-06-10 Gratitude blog post
