@@ -16,16 +16,12 @@
 (D) Have a bit of a play with CASPER 
 (D) The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
 (E) 20 Drill more holes for bolts in bedroom @offline
-(E) 60 Drill holes for tarp with hammer drill and extension @offline
-(E) Another chapter of the risk book 
-(E) Do Menu for the week +Family  @phone   
+(E) read Another chapter of the risk book 
 (E) Email BSI and LRQA about training 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Get the USB stick 
-(E) Get the rhul style file 
 (E) Give laptop screen a good clean +Overhead
-(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Investigate weekly chart of sent emails 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Make a list of people contacted about air con 
