@@ -1,7 +1,6 @@
 (A) Fill out Gratitude Book 
 (A) Plan Richard visit 
 (A) Put up another reddit post
-(E) Get the USB stick 
 (A) process emotional todo list. 
 (B) Process the case studies gitlab 
 (C) 03 Calendar event to email the new coursework to the coursework co-ordinator
@@ -16,10 +15,7 @@
 (D) Check starred messages in kat whatsapp 
 (D) Have a bit of a play with CASPER 
 (D) The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
-(E) 07 Plan out some cinema dates
-(E) 10 Make a plan for NHS day (Which is a saturday)  @offline
 (E) 20 Drill more holes for bolts in bedroom @offline
-(E) 20 pages of the bluebook 
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) Another chapter of the risk book 
 (E) Brainstorm the plan for the ubuntu box 
@@ -28,6 +24,7 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
+(E) Get the USB stick 
 (E) Get the rhul style file 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -40,5 +37,5 @@
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Send the Security Management Email 
 (E) Setup BBQ 
-(E) process Garage inbox. 
 (E) Yet another ten more minutes on that film 
+(E) process Garage inbox. 
