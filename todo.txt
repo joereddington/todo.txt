@@ -46,3 +46,5 @@
 (E) Another chapter of the risk book 
 (D) Have a bit of a play with CASPER 
 (D) The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
+(E) Investigate weekly chart of sent emails 
+(E) Setup BBQ 
