@@ -9771,3 +9771,4 @@ x 2026-06-10 10 Make a plan for NHS day (Which is a saturday)  @offline
 x 2026-06-10 20 pages of the bluebook 
 x 2026-06-10 07 Plan out some cinema dates
 x 2026-06-10 Brainstorm the plan for the ubuntu box 
+x 2026-06-10 Empty Joe inbox completely +Overhead    

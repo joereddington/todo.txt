@@ -20,7 +20,6 @@
 (E) Another chapter of the risk book 
 (E) Do Menu for the week +Family  @phone   
 (E) Email BSI and LRQA about training 
-(E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Get the USB stick 
