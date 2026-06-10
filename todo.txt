@@ -18,7 +18,6 @@
 (E) 20 Drill more holes for bolts in bedroom @offline
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
 (E) Another chapter of the risk book 
-(E) Brainstorm the plan for the ubuntu box 
 (E) Do Menu for the week +Family  @phone   
 (E) Email BSI and LRQA about training 
 (E) Empty Joe inbox completely +Overhead    
