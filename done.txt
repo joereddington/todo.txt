@@ -9728,3 +9728,34 @@ x 2026-06-09 Delete and then assess task priorities (look at http://127.0.0.1:40
 x 2026-06-09 20 file for Lots of herts work on the 20th (marking) and 21st (fixing marks that were out of place) 
 x 2026-06-09 Test VC 4.1 on a long ride. 
 x 2026-06-09 Trim nose hair +Health    
+x 2026-06-09 10 Review Wheel Of life Projects @offline
+x 2026-06-09 Review Wheel Of life Projects
+x 2026-06-09 Check your vitimin box
+x 2026-06-09 Run mgit status on the git directory and process all alerts +EQT
+x 2026-06-09 Run multi-git-status on both aws servers to make sure all code is uploaded.  +EQT
+x 2026-06-09 deploy any commits from OVF that are hanging around. 
+x 2026-06-09 Setup clipboard 
+x 2026-06-09 Save a nice family memory +Family @phone    
+x 2026-06-09 Post to Vegan Facebook group  @phone   
+x 2026-06-09 Make sure you have a continual professional development practice happening  +EQT
+x 2026-06-09 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-06-09 10 Email that guy with th water bottle about a talk 
+x 2026-06-09 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-06-09 Cut Nova and Leo nails +Health    
+x 2026-06-09 Cut nails +Health    
+x 2026-06-09 Work out next action for medication 
+x 2026-06-09 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-06-09 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-06-09 Check wishlist
+x 2026-06-09 Clean out Fridge
+x 2026-06-09 Do full accounts algorithm +EQT 
+x 2026-06-09 Sync the photoshop directroy
+x 2026-06-09 25 Work out the wifi in the house
+x 2026-06-10 Check Passports are in the safe
+x 2026-06-10 Check ranking scripts +Overhead
+x 2026-06-10 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-06-10 Make sure you have booked a bunch of leave from RHUL 
+x 2026-06-10 Review RHUL projects
+x 2026-06-10 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2026-06-10 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-06-10 Log weight +Health   
