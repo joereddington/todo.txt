@@ -1,6 +1,7 @@
 (A) Fill out Gratitude Book 
 (A) Plan Richard visit 
 (A) Put up another reddit post
+(E) Get the USB stick 
 (A) process emotional todo list. 
 (B) Process the case studies gitlab 
 (C) 03 Calendar event to email the new coursework to the coursework co-ordinator
@@ -22,7 +23,6 @@
 (E) 20 Drill more holes for bolts in bedroom @offline
 (E) 20 pages of the bluebook 
 (E) 60 Drill holes for tarp with hammer drill and extension @offline
-(E) 60 Watch a few minutes more of that film  @offline
 (E) Another chapter of the risk book 
 (E) Brainstorm the plan for the ubuntu box 
 (E) Do Menu for the week +Family  @phone   
@@ -33,7 +33,6 @@
 (E) Get the rhul style file 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Investigate weekly chart of sent emails 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Make a list of people contacted about air con 
@@ -41,9 +40,8 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review starred items in feeds +Overhead +EQT
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Run the ICO backup code
 (E) Send the Security Management Email 
 (E) Setup BBQ 
 (E) TSE +Health  
 (E) process Garage inbox. 
-x 2026-06-10 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(E) Yet another ten more minutes on that film 
