@@ -27,7 +27,6 @@
 (E) Investigate weekly chart of sent emails 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Look up air-bnb's for southport holiday 
-(E) Make a list of people contacted about air con 
 (E) Make a shared document with Yvonne 
 (E) Open the PayPal issue 
 (E) Read the Shakespeare section of trick of the mind 
