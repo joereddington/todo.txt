@@ -9776,3 +9776,4 @@ x 2026-06-10 60 Drill holes for tarp with hammer drill and extension @offline
 x 2026-06-10 Do Menu for the week +Family  @phone   
 x 2026-06-10 Get the rhul style file 
 x 2026-06-10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-06-10 Publicly thank someone +Overhead  

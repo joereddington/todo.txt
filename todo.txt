@@ -20,16 +20,27 @@
 (E) Email BSI and LRQA about training 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
+(E) Open the PayPal issue 
+(B) Check accounts have been filed 
 (E) Get the USB stick 
 (E) Give laptop screen a good clean +Overhead
 (E) Investigate weekly chart of sent emails 
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Make a list of people contacted about air con 
-(E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) Contact the doctors for appointment 
 (E) Review starred items in feeds +Overhead +EQT
+(E) Look up air-bnb's for southport holiday 
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Send the Security Management Email 
 (E) Setup BBQ 
 (E) Yet another ten more minutes on that film 
 (E) process Garage inbox. 
+(E) Find other sources for the securitas robbery. Use the RHUL library sources   
+(C) Do a full model of the car lease 
+(E) 02 Event to badger board game people 
+(E) Find the memory training php you made
+(E) Create the MCU shakespear constant spreadsheet
+(E) Read the Shakespeare section of trick of the mind 
+(E) Make a shared document with Yvonne 
+(E) Download and process bank transactions
