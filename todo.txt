@@ -12,13 +12,11 @@
 (D) Have a bit of a play with CASPER 
 (D) The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
 (E) 02 Event to badger board game people 
-(E) 20 Drill more holes for bolts in bedroom @offline
 (E) Contact the doctors for appointment 
 (E) Create the MCU shakespear constant spreadsheet
 (E) Download and process bank transactions
 (E) Email BSI and LRQA about training 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find other sources for the securitas robbery. Use the RHUL library sources   
 (E) Find the memory training php you made
 (E) Get Pages Read to 32,000  
 (E) Get the USB stick 
