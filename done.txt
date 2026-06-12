@@ -9822,3 +9822,9 @@ x 2026-06-12 process emotional todo list.
 x 2026-06-12 05 Update Leo calendar
 x 2026-06-12 Fill out Gratitude Book 
 x 2026-06-12 Check starred messages in kat whatsapp 
+x 2026-06-12 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-06-12 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-06-12 Projects or trigger sheet 
+x 2026-06-12 Review projects
+x 2026-06-12 2026-06-11 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-06-12 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
