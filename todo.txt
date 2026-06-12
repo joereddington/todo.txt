@@ -5,7 +5,6 @@
 (D) 30 Have a bit of a play with CASPER 
 (E) 02 Send the Security Management Email 
 (E) 03 Find the memory training php you made
-(E) 04 Contact the doctors for appointment 
 (E) 05 Get the USB stick 
 (E) 10 Create the MCU shakespear constant spreadsheet
 (E) 10 Email BSI and LRQA about training 
