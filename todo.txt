@@ -28,3 +28,4 @@
 (E) 10 brainstorm on Organised Food 
 (E) Weigh the basil 
 (E) Lookup the best basil growing conditions 
+(E) Put wordcounts of books in the books project along with the commands
