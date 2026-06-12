@@ -1,11 +1,8 @@
 (A) 10 Fill out Gratitude Book 
-(A) Plan Richard visit 
 (A) process emotional todo list. 
-(B) 10 Check accounts have been filed  @internet
 (C) 05 Update Leo calendar
 (C) 15 Close PRs on Gitlab 
 (D) 30 Have a bit of a play with CASPER 
-(E) 02 Event to badger board game people 
 (E) 02 Send the Security Management Email 
 (E) 03 Find the memory training php you made
 (E) 04 Contact the doctors for appointment 
@@ -18,8 +15,6 @@
 (E) 15 Read the Shakespeare section of trick of the mind 
 (E) 15 Yet another ten more minutes on that film 
 (E) 20 Look up air-bnb's for southport holiday 
-(E) 20 Make a shared document with Yvonne 
-(E) 20 Review starred items in feeds +Overhead +EQT
 (E) 20 Setup BBQ 
 (E) 20 process Garage inbox. 
 (E) 2026-06-11 Empty whatsapp and facebook inboxes. +Overhead  
@@ -27,5 +22,4 @@
 (E) 30 read Another chapter of the risk book 
 (E) 50 Get Pages Read to 32,000  
 (E) Get your retro stuff working and order parts
-(E) Setup 2 for 1 cinema 
-(E) Setup cineworld membership
+(E) Test cineworld membership
