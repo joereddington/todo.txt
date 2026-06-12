@@ -1,4 +1,3 @@
-(A) 10 Fill out Gratitude Book 
 (C) 05 Update Leo calendar
 (D) 30 Have a bit of a play with CASPER 
 (E) 20 Borrow Kat laptop to Make windows installer 
@@ -14,5 +13,4 @@
 (E) 30 read Another chapter of the risk book 
 (E) 50 Get Pages Read to 32,000  
 (E) Get your retro stuff working and order parts
-(E) Plan out your cinema nights 
 (E) Arrange test drive 
