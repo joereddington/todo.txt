@@ -3,7 +3,7 @@
 (C) 05 Update Leo calendar
 (C) 15 Close PRs on Gitlab 
 (D) 30 Have a bit of a play with CASPER 
-(E) 05 Get the USB stick 
+(E) 20 Borrow Kat laptop to Make windows installer 
 (E) 10 Create the MCU shakespear constant spreadsheet
 (E) 10 Give laptop screen a good clean +Overhead
 (E) 15 Read the Shakespeare section of trick of the mind 
