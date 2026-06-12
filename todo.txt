@@ -3,13 +3,10 @@
 (C) 05 Update Leo calendar
 (C) 15 Close PRs on Gitlab 
 (D) 30 Have a bit of a play with CASPER 
-(E) 02 Send the Security Management Email 
-(E) 03 Find the memory training php you made
 (E) 05 Get the USB stick 
 (E) 10 Create the MCU shakespear constant spreadsheet
 (E) 10 Email BSI and LRQA about training 
 (E) 10 Give laptop screen a good clean +Overhead
-(E) 10 Open the PayPal issue 
 (E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 15 Read the Shakespeare section of trick of the mind 
 (E) 15 Yet another ten more minutes on that film 
