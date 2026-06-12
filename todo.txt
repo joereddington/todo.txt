@@ -1,7 +1,7 @@
 (C) 05 Update Leo calendar
 (D) 30 Have a bit of a play with CASPER 
-(E) 20 Borrow Kat laptop to Make windows installer 
 (E) 15 Yet another ten more minutes on that film 
+(E) 20 Borrow Kat laptop to Make windows installer 
 (E) 20 Look up air-bnb's for southport holiday 
 (E) 20 Setup BBQ 
 (E) 20 process Garage inbox. 
@@ -9,6 +9,6 @@
 (E) 30 Download and process bank transactions since 29 August 2025 
 (E) 30 read Another chapter of the risk book 
 (E) 50 Get Pages Read to 32,000  
-(E) Get your retro stuff working and order parts
 (E) Arrange test drives
+(E) Get your retro stuff working and order parts
 (E) Projects or trigger sheet 
