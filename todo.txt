@@ -1,37 +1,33 @@
-(A) Fill out Gratitude Book 
+(A) 10 Fill out Gratitude Book 
 (A) Plan Richard visit 
-(A) Put up another reddit post
 (A) process emotional todo list. 
-(B) Check accounts have been filed 
-(B) Process the case studies gitlab 
-(C) 03 Calendar event to email the new coursework to the coursework co-ordinator
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Process the case studies book 
-(C) Update Leo calendar
-(D) Check starred messages in kat whatsapp 
-(D) Have a bit of a play with CASPER 
-(D) The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
+(B) 10 Check accounts have been filed  @internet
+(C) 05 Update Leo calendar
+(C) 15 Close PRs on Gitlab 
+(D) 05 Check starred messages in kat whatsapp 
+(D) 30 Have a bit of a play with CASPER 
 (E) 02 Event to badger board game people 
-(E) Contact the doctors for appointment 
-(E) Create the MCU shakespear constant spreadsheet
-(E) Download and process bank transactions
-(E) Email BSI and LRQA about training 
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Find the memory training php you made
-(E) Get Pages Read to 32,000  
-(E) Get the USB stick 
-(E) Give laptop screen a good clean +Overhead
-(E) Investigate weekly chart of sent emails 
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Look up air-bnb's for southport holiday 
-(E) Make a shared document with Yvonne 
-(E) Open the PayPal issue 
-(E) Read the Shakespeare section of trick of the mind 
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review starred items in feeds +Overhead +EQT
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Send the Security Management Email 
-(E) Setup BBQ 
-(E) Yet another ten more minutes on that film 
-(E) process Garage inbox. 
-(E) read Another chapter of the risk book 
+(E) 02 Send the Security Management Email 
+(E) 03 Find the memory training php you made
+(E) 04 Contact the doctors for appointment 
+(E) 05 Get the USB stick 
+(E) 05 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
+(E) 10 Create the MCU shakespear constant spreadsheet
+(E) 10 Email BSI and LRQA about training 
+(E) 10 Give laptop screen a good clean +Overhead
+(E) 10 Open the PayPal issue 
+(E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
+(E) 15 Read the Shakespeare section of trick of the mind 
+(E) 15 Yet another ten more minutes on that film 
+(E) 20 Look up air-bnb's for southport holiday 
+(E) 20 Make a shared document with Yvonne 
+(E) 20 Review starred items in feeds +Overhead +EQT
+(E) 20 Setup BBQ 
+(E) 20 process Garage inbox. 
+(E) 2026-06-11 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 30 Download and process bank transactions
+(E) 30 read Another chapter of the risk book 
+(E) 50 Get Pages Read to 32,000  
+(E) Get your retro stuff working and order parts
+(E) Setup 2 for 1 cinema 
+(E) Setup cineworld membership

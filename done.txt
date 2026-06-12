@@ -9787,3 +9787,10 @@ x 2026-06-11 10 Read 10 pages of the official "paper book you are reading" or th
 x 2026-06-11 15 Claim back expenses for H in Stem 
 x 2026-06-11 20 Drill more holes for bolts in bedroom @offline
 x 2026-06-11 Find other sources for the securitas robbery. Use the RHUL library sources   
+x 2026-06-11 03 Calendar event to email the new coursework to the coursework co-ordinator
+x 2026-06-11 The clipboard can be a good list of fun activities: boxing, tennis, typing, games 
+x 2026-06-11 Process the case studies gitlab 
+x 2026-06-11 Investigate weekly chart of sent emails 
+x 2026-06-11 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-06-11 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-06-11 Put up another reddit post
