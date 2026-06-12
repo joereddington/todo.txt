@@ -4,7 +4,6 @@
 (B) 10 Check accounts have been filed  @internet
 (C) 05 Update Leo calendar
 (C) 15 Close PRs on Gitlab 
-(D) 05 Check starred messages in kat whatsapp 
 (D) 30 Have a bit of a play with CASPER 
 (E) 02 Event to badger board game people 
 (E) 02 Send the Security Management Email 
