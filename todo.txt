@@ -23,3 +23,4 @@
 (E) 50 Get Pages Read to 32,000  
 (E) Get your retro stuff working and order parts
 (E) Test cineworld membership
+(E) Plan out your cinema nights 
