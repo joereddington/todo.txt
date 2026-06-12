@@ -5,16 +5,14 @@
 (D) 30 Have a bit of a play with CASPER 
 (E) 05 Get the USB stick 
 (E) 10 Create the MCU shakespear constant spreadsheet
-(E) 10 Email BSI and LRQA about training 
 (E) 10 Give laptop screen a good clean +Overhead
-(E) 10 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) 15 Read the Shakespeare section of trick of the mind 
 (E) 15 Yet another ten more minutes on that film 
 (E) 20 Look up air-bnb's for southport holiday 
 (E) 20 Setup BBQ 
 (E) 20 process Garage inbox. 
 (E) 2026-06-11 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 30 Download and process bank transactions
+(E) 30 Download and process bank transactions since 29 August 2025 
 (E) 30 read Another chapter of the risk book 
 (E) 50 Get Pages Read to 32,000  
 (E) Get your retro stuff working and order parts
