@@ -11,7 +11,6 @@
 (E) 03 Find the memory training php you made
 (E) 04 Contact the doctors for appointment 
 (E) 05 Get the USB stick 
-(E) 05 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) 10 Create the MCU shakespear constant spreadsheet
 (E) 10 Email BSI and LRQA about training 
 (E) 10 Give laptop screen a good clean +Overhead
