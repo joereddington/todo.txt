@@ -1,7 +1,7 @@
 (C) Review RHUL projects
+(E) Get the IP camera plug from the garage
 (C) Review projects
 (D) 30 Have a bit of a play with CASPER 
-(D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm +EQT 
 (E) 15 Yet another ten more minutes on that film 
 (E) 20 Borrow Kat laptop to Make windows installer 
@@ -29,3 +29,5 @@
 (E) Weigh the basil 
 (E) Lookup the best basil growing conditions 
 (E) Put wordcounts of books in the books project along with the commands
+(E) make wedges for bedroom cupboard
+(E) Download the networking book on O Reielly
