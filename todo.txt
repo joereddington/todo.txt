@@ -6,14 +6,12 @@
 (E) 20 Borrow Kat laptop to Make windows installer 
 (E) 20 Look up air-bnb's for Southport holiday 
 (E) 20 Setup BBQ 
-(E) 20 process Garage inbox. 
 (E) 30 Download and process bank transactions since 29 August 2025 
 (E) 30 read Another chapter of the risk book 
 (E) 50 Get Pages Read to 32,000  
 (E) Arrange test drives
 (E) Get your retro stuff working and order parts
 (E) Save a nice family memory +Family @phone    
-(E) Sort out Amazon prime in garage 
 (D) Put accountant bill in Unity 
 (E) Send Logistics man the state of play for Turing 
 (E) De-solder the USB connection. 

@@ -9830,3 +9830,5 @@ x 2026-06-12 2026-06-11 Empty whatsapp and facebook inboxes. +Overhead
 x 2026-06-12 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2026-06-13 Investigate 3d printing of container again. 
 x 2026-06-13 Review the mini-projects 
+x 2026-06-13 20 process Garage inbox. 
+x 2026-06-13 Sort out Amazon prime in garage 
