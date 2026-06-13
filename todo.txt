@@ -17,8 +17,6 @@
 (D) Put accountant bill in Unity 
 (E) Send Logistics man the state of play for Turing 
 (E) De-solder the USB connection. 
-(E) Investigate 3d printing of container again. 
-(E) Review the mini-projects 
 (C) Print the LCD case 
 (E) 10 brainstorm on Organised Food 
 (E) Weigh the basil 
@@ -26,3 +24,5 @@
 (E) Put wordcounts of books in the books project along with the commands
 (E) make wedges for bedroom cupboard
 (E) Download the networking book on O Reielly
+(A) Sort phone internet
+(E) Find fashion course
