@@ -9836,3 +9836,4 @@ x 2026-06-14 Print the LCD case
 x 2026-06-14 Sort phone internet
 x 2026-06-14 Weigh the basil 
 x 2026-06-14 30 Have a bit of a play with CASPER 
+x 2026-06-14 Put wordcounts of books in the book writing project along with the commands

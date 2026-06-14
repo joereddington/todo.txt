@@ -17,7 +17,6 @@
 (C) Print the next bit of the LCD case  @offline
 (E) 10 brainstorm on Organised Food  @offline
 (E) Lookup the best basil growing conditions 
-(E) Put wordcounts of books in the book writing project along with the commands
 (E) make wedges for bedroom cupboard
 (E) Download the networking book on O Reielly
 (E) Find fashion course
