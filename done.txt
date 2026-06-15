@@ -9840,3 +9840,6 @@ x 2026-06-14 Put wordcounts of books in the book writing project along with the 
 x 2026-06-14 20 Setup BBQ 
 x 2026-06-14 Find fashion course
 x 2026-06-15 Review RHUL projects
+x 2026-06-15 15 Yet another ten more minutes on that film  @offline
+x 2026-06-15 04 De-solder the USB connection.  @offline
+x 2026-06-15 10 make wedges for bedroom cupboard @offline
