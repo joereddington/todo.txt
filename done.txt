@@ -9839,3 +9839,4 @@ x 2026-06-14 30 Have a bit of a play with CASPER
 x 2026-06-14 Put wordcounts of books in the book writing project along with the commands
 x 2026-06-14 20 Setup BBQ 
 x 2026-06-14 Find fashion course
+x 2026-06-15 Review RHUL projects
