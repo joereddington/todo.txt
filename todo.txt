@@ -36,3 +36,4 @@
 (E) Send Logistics man the state of play for Turing @online
 (E) Start arranging test-drives from spreadsheet 
 (E) Privacy notice for CASPER 
+(B) Do another resiliance worksheet.  
