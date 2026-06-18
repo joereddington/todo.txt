@@ -37,3 +37,4 @@
 (E) Start arranging test-drives from spreadsheet 
 (E) Privacy notice for CASPER 
 (B) Do another resiliance worksheet.  
+(E) Lookup Diving for Nova. 
