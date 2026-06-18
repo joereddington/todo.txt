@@ -38,3 +38,4 @@
 (E) Privacy notice for CASPER 
 (B) Do another resiliance worksheet.  
 (E) Lookup Diving for Nova. 
+(E) Fix the git problem 
