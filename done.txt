@@ -9854,3 +9854,5 @@ x 2026-06-16 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q
 x 2026-06-16 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2026-06-16 Download the networking book on O Reielly @online 
 x 2026-06-16 Review Wheel Of life Projects
+x 2026-06-18 Log weight +Health    @offline
+x 2026-06-18 Send Logistics man the state of play for Turing @online
