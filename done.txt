@@ -9865,3 +9865,9 @@ x 2026-06-19 Save a nice family memory +Family @phone     @offline
 x 2026-06-19 Publicly thank someone +Overhead  
 x 2026-06-19 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 x 2026-06-19 Lookup the best basil growing conditions  @online
+x 2026-06-19 Lookup Diving for Nova. 
+x 2026-06-19 Cut Nova and Leo nails +Health     @offline
+x 2026-06-19 Cut nails +Health     @offline
+x 2026-06-19 Go through phone and save all of the numbers +Overhead  @phone    @offline
+x 2026-06-19 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-06-19 10 Confirm plans for next two weekends.+Overhead @phone    @offline
