@@ -15,7 +15,6 @@
 (E) 05 Get the IP camera plug from the garage @offline
 (E) 10 Confirm plans for next two weekends.+Overhead @phone    @offline
 (E) 10 brainstorm on Organised Food  @offline @offline
-(E) 15 Get your retro stuff working and order parts @offline @offline
 (E) 20 Borrow Kat laptop to Make windows installer  @online
 (E) 20 Look up air-bnb's for Southport holiday  @online
 (E) 30 Download and process bank transactions since 29 August 2025  @internet

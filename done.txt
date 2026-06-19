@@ -9856,3 +9856,4 @@ x 2026-06-16 Download the networking book on O Reielly @online
 x 2026-06-16 Review Wheel Of life Projects
 x 2026-06-18 Log weight +Health    @offline
 x 2026-06-18 Send Logistics man the state of play for Turing @online
+x 2026-06-19 15 Get your retro stuff working and order parts @offline @offline
