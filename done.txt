@@ -9864,3 +9864,4 @@ x 2026-06-19 02 Save a nice family memory +Family @phone     @offline
 x 2026-06-19 Save a nice family memory +Family @phone     @offline
 x 2026-06-19 Publicly thank someone +Overhead  
 x 2026-06-19 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-06-19 Lookup the best basil growing conditions  @online
