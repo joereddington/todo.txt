@@ -7,7 +7,7 @@
 (E) Check your vitimin box
 (E) Classify bank transactions 
 (C) Deploy CASPER to server. 
-(C) Do another resiliance worksheet.  
+(C) Do another resilience worksheet.  
 (E) Empty Joe inbox completely +Overhead     @offline
 (D) Fill out Gratitude Book 
 (B) Fix the git problem 
