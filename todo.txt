@@ -26,3 +26,4 @@
 (E) Lookup supplies for varnishing and buyonline 
 (E) Watch video on solder tips 
 (E) Get out a new IR sensor to test  
+(E) Get an new IR sensor and solder it to the wire
