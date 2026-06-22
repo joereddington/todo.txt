@@ -9877,3 +9877,7 @@ x 2026-06-20 () Delete and then assess task priorities (look at http://127.0.0.1
 x 2026-06-20 () Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead   @offline
 x 2026-06-21 Do another resilience worksheet.  
 x 2026-06-22 10 brainstorm on Organised Food  @offline @offline
+x 2026-06-22 20 Flash the arcade to the raspberry Pi 
+x 2026-06-22 20 Print the next bit of the LCD case  @offline
+x 2026-06-22 10 Start arranging est-drives from spreadsheet 
+x 2026-06-22 Confirm staying over Wednesday night

@@ -1,8 +1,6 @@
 (A) Sort Slides out for Thursday
 (B) 20 Look up air-bnb's for Southport holiday  @online
 (B) Fix the git problem 
-(C) 10 Start arranging test-drives from spreadsheet 
-(C) Confirm staying over Wednesday night
 (C) Start Packing for conference 
 (C) 15 Gratitude blog post
 (C) Deploy CASPER to server. 
@@ -12,9 +10,7 @@
 (E) 05 Get the IP camera plug from the garage @offline
 (E) 05 drink a massive amount of water
 (E) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(E) 20 Borrow Kat laptop to Make windows installer  @online
-(E) 20 Flash the arcade to the raspberry Pi 
-(E) 20 Print the next bit of the LCD case  @offline
+(E) 20 Redo windows installer on Kat laptop  @online
 (E) 20 Review the CASPER basic code 
 (E) Check your vitimin box
 (E) Classify bank transactions 
@@ -29,3 +25,4 @@
 (D) Day of brainstorms 
 (E) Lookup supplies for varnishing and buyonline 
 (E) Watch video on solder tips 
+(E) Get out a new IR sensor to test  
