@@ -24,4 +24,5 @@
 (E) Setup Echo 
 (E) Call back the test drive people 
 (E) Design plug for the wireless charger 
+(E) Process Wikipedia things
 (E) Watch video on solder tips 
