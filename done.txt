@@ -9881,3 +9881,10 @@ x 2026-06-22 20 Flash the arcade to the raspberry Pi
 x 2026-06-22 20 Print the next bit of the LCD case  @offline
 x 2026-06-22 10 Start arranging est-drives from spreadsheet 
 x 2026-06-22 Confirm staying over Wednesday night
+x 2026-06-22 Deploy CASPER to server. 
+x 2026-06-22 05 drink a massive amount of water
+x 2026-06-22 20 Review the CASPER basic code 
+x 2026-06-22 Get out a new IR sensor to test  
+x 2026-06-22 05 Get the IP camera plug from the garage @offline
+x 2026-06-22 15 Gratitude blog post
+x 2026-06-22 Fill out Gratitude Book 
