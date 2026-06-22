@@ -9876,3 +9876,4 @@ x 2026-06-20 () Do Menu for the week +Family  @phone    @offline
 x 2026-06-20 () Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 x 2026-06-20 () Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead   @offline
 x 2026-06-21 Do another resilience worksheet.  
+x 2026-06-22 10 brainstorm on Organised Food  @offline @offline
