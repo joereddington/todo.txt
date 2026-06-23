@@ -9888,3 +9888,5 @@ x 2026-06-22 Get out a new IR sensor to test
 x 2026-06-22 05 Get the IP camera plug from the garage @offline
 x 2026-06-22 15 Gratitude blog post
 x 2026-06-22 Fill out Gratitude Book 
+x 2026-06-23 Go on a bit of a bike explore to find some cycling for Leo and Nova.  @offline
+x 2026-06-23 Floss +Health    @offline
