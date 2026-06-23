@@ -23,3 +23,5 @@
 (E) Watch video on solder tips 
 (E) Get Kat's velodrome put into the calendar
 (E) Chat to Nova about diving
+(B) Process FFT expenses
+(C) Promote FFT in reddit, facebook, linkedin, and Maths. 
