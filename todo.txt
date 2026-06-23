@@ -1,4 +1,5 @@
 (A) Sort Slides out for Thursday
+(E) Cut nails 
 (B) 20 Look up air-bnb's for Southport holiday  @online
 (B) Fix the git problem 
 (C) Start Packing for conference 
@@ -20,3 +21,5 @@
 (E) Lookup supplies for varnishing and buyonline 
 (E) Watch video on solder tips 
 (E) Get an new IR sensor and solder it to the wire
+(A) Do the Flowers For Turing Replies! 
+(B) Do the Flowers For Turing accounting post
