@@ -1,30 +1,65 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) DO the Flowers For TUring Accounting
+(A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Do the Flowers For Turing Replies! 
+(A) Fill out Gratitude Book 
 (A) Sort Slides out for Thursday
+(A) process emotional todo list. 
 (B) 20 Look up air-bnb's for Southport holiday  @online
 (B) Do the Flowers For Turing accounting post
 (B) Fix the git problem 
 (B) Process FFT expenses
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check your vitimin box
+(C) Gratitude blog post
 (C) Promote FFT in reddit, facebook, linkedin, and Maths. 
+(C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+(C) Review RHUL projects
+(C) Review Wheel Of life Projects
+(C) Review projects
 (C) Start Packing for conference 
+(C) Update Leo calendar
 (D) 50 Get Pages Read to 32,000   @offline (snuff and rappor) 
+(D) Check starred messages in kat whatsapp 
 (D) Day of brainstorms 
+(D) Do full accounts algorithm  
+(D) Get Pages read to the next 1000 pages
 (E) 05 Add a Privacy notice for CASPER 
 (E) 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (E) 20 Redo windows installer on Kat laptop  @online
 (E) Call back the test drive people 
 (E) Chat to Nova about diving
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Check your vitimin box
 (E) Classify bank transactions 
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut Nova and Leo nails +Health    
 (E) Cut nails 
+(E) Cut nails +Health    
+(E) Do Menu for the week +Family  @phone   
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead     @offline
+(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Fix the batteries in the trackers
+(E) Floss +Health   
 (E) Get Kat's velodrome put into the calendar
 (E) Get an new IR sensor and solder it to the wire
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Lookup circus camp 
 (E) Lookup supplies for varnishing and buyonline 
 (E) Open Blender and Design mount plug for the wireless charger 
+(E) Post to Vegan Facebook group  @phone   
 (E) Process Wikipedia things
-(E) Setup Echo 
-(E) Watch video on solder tips 
+(E) Publicly thank someone +Overhead  
+(E) Save a nice family memory +Family @phone    
 (E) Send the rent increase letter
-(E) Fix the batteries in the trackers
+(E) Setup Echo 
+(E) Trim nose hair +Health    
+(E) Watch video on solder tips 
+(E) process Garage inbox. 
