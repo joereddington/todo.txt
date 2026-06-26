@@ -27,3 +27,4 @@
 (E) Setup Echo 
 (E) Watch video on solder tips 
 (E) Send the rent increase letter
+(E) Fix the batteries in the trackers
