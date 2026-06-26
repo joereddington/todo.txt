@@ -26,3 +26,4 @@
 (E) Process Wikipedia things
 (E) Setup Echo 
 (E) Watch video on solder tips 
+(E) Send the rent increase letter
