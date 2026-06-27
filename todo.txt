@@ -1,23 +1,15 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) DO the Flowers For TUring Accounting
-(A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
-(A) Do the Flowers For Turing Replies! 
+(A) Email all the Flowers For Turing donors
 (A) Fill out Gratitude Book 
-(A) Sort Slides out for Thursday
-(A) process emotional todo list. 
 (B) 20 Look up air-bnb's for Southport holiday  @online
-(B) Do the Flowers For Turing accounting post
-(B) Fix the git problem 
+(B) Fix the git problem in the student book 
 (B) Process FFT expenses
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
 (C) Gratitude blog post
 (C) Promote FFT in reddit, facebook, linkedin, and Maths. 
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(C) Review RHUL projects
+(D) Review the Blue Book 
 (C) Review Wheel Of life Projects
 (C) Review projects
-(C) Start Packing for conference 
 (C) Update Leo calendar
 (D) 50 Get Pages Read to 32,000   @offline (snuff and rappor) 
 (D) Check starred messages in kat whatsapp 
@@ -62,4 +54,5 @@
 (E) Setup Echo 
 (E) Trim nose hair +Health    
 (E) Watch video on solder tips 
-(E) process Garage inbox. 
+(E) process Garage inbox. @offline
+(E) Move ISA out of CHIP to a better interest rate

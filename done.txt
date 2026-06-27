@@ -9891,3 +9891,12 @@ x 2026-06-22 Fill out Gratitude Book
 x 2026-06-23 Go on a bit of a bike explore to find some cycling for Leo and Nova.  @offline
 x 2026-06-23 Floss +Health    @offline
 x 2026-06-26 Empty Joe inbox completely +Overhead    
+x 2026-06-26 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-06-26 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+x 2026-06-26 Sort Slides out for Thursday
+x 2026-06-26 process emotional todo list. 
+x 2026-06-26 Do the Flowers For Turing accounting post
+x 2026-06-26 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-06-26 Check your vitimin box
+x 2026-06-27 Review RHUL projects
+x 2026-06-27 Start Packing for conference 
