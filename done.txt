@@ -9921,3 +9921,5 @@ x 2026-06-27 Do full accounts algorithm
 x 2026-06-27 20 Get an new IR sensor and solder it to the wire
 x 2026-06-27 Gratitude blog post
 x 2026-06-27 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-06-27 02 Measure the gap for the charging plate
+x 2026-06-27 05 Chat to Nova about diving
