@@ -20,8 +20,6 @@
 (E) 10 Call back the test drive people 
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Fix the batteries in the trackers 
-(E) 10 Process Wikipedia things
-(E) 10 Setup Echo 
 (E) 10 Talk to Kat about when they would like the veldrome date
 (E) 10 Watch video on solder tips 
 (E) 15 Empty Joe inbox completely +Overhead     @offline
@@ -29,4 +27,4 @@
 (E) 20 Redo windows installer on Kat laptop  @online
 (E) 20 process Garage inbox. @offline
 (E) 40 Classify bank transactions 
-(E) Cut Nova and Leo nails +Health    
+(E) Cut Nova nails +Health    
