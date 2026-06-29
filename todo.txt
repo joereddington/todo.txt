@@ -26,3 +26,4 @@
 (E) 20 process Garage inbox. @offline
 (E) 40 Classify bank transactions 
 (E) Cut Nova nails +Health    
+(E) Check sander and sandpaper supplies. 
