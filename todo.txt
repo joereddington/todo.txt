@@ -21,7 +21,6 @@
 (E) 10 Fix the batteries in the trackers 
 (E) 10 Talk to Kat about when they would like the veldrome date
 (E) 10 Watch video on solder tips 
-(E) 15 Empty Joe inbox completely +Overhead     @offline
 (E) 20 Move ISA out of CHIP to a better interest rate
 (E) 20 Redo windows installer on Kat laptop  @online
 (E) 20 process Garage inbox. @offline
