@@ -9930,3 +9930,11 @@ x 2026-06-29 10 Process Wikipedia things
 x 2026-06-29 10 Setup Echo 
 x 2026-06-29 02 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something   @offline
 x 2026-06-29 15 Empty Joe inbox completely +Overhead     @offline
+x 2026-06-30 10 Fill out Gratitude Book  @offline
+x 2026-06-30 20 Email all the Flowers For Turing donors
+x 2026-06-30 25 DO the Flowers For TUring Accounting
+x 2026-06-30 20 Look up air-bnb's for Southport holiday  @online
+x 2026-06-30 20 Process FFT expenses
+x 2026-06-30 03 Save a nice family memory +Family @phone    
+x 2026-06-30 08 Lookup supplies for varnishing and buyonline 
+x 2026-06-30 Cut Nova nails +Health    

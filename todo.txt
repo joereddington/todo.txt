@@ -2,7 +2,7 @@ x 2026-06-30 10 Fill out Gratitude Book  @offline
 x 2026-06-30 20 Email all the Flowers For Turing donors
 x 2026-06-30 25 DO the Flowers For TUring Accounting
 (B) 15 Fix the git problem in the student book 
-(B) 20 Look up air-bnb's for Southport holiday  @online
+x 2026-06-30 20 Look up air-bnb's for Southport holiday  @online
 x 2026-06-30 20 Process FFT expenses
 (C) 03 Update Leo calendar @offline
 (C) 10 Review Wheel Of life Projects
@@ -12,18 +12,19 @@ x 2026-06-30 20 Process FFT expenses
 (D) 60 Day of brainstorms  @offline
 (E) Sort *all* your boxes
 x 2026-06-30 03 Save a nice family memory +Family @phone    
-(E) 05 Add a Privacy notice for CASPER 
+x 2026-06-30 05 Add a Privacy notice for CASPER 
 (E) 05 Floss +Health    @offline
 (E) 05 Send the rent increase letter
-(E) 08 Lookup supplies for varnishing and buyonline 
+x 2026-06-30 08 Lookup supplies for varnishing and buyonline 
 (E) 10 Call back the test drive people 
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Fix the batteries in the trackers 
 (E) 10 Talk to Kat about when they would like the veldrome date
-(E) 10 Watch video on solder tips 
+x 2026-06-30 10 Watch video on solder tips 
 (E) 20 Move ISA out of CHIP to a better interest rate
 (E) 20 Redo windows installer on Kat laptop  @online
 (E) 20 process Garage inbox. @offline
 (E) 40 Classify bank transactions 
 x 2026-06-30 Cut Nova nails +Health    
 (E) Check sander and sandpaper supplies. 
+(E) Create a spreadsheet for wood to buy: Kat's planters, trim for 
