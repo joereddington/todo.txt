@@ -1,4 +1,4 @@
-(A) 10 Fill out Gratitude Book  @offline
+x 2026-06-30 10 Fill out Gratitude Book  @offline
 (A) 20 Email all the Flowers For Turing donors
 (A) 25 DO the Flowers For TUring Accounting
 (B) 15 Fix the git problem in the student book 
