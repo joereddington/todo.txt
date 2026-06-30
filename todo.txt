@@ -21,8 +21,8 @@ x 2026-06-30 10 Call back the test drive people
 (E) 10 Fix the batteries in the trackers 
 (E) 10 Talk to Kat about when they would like the veldrome date
 x 2026-06-30 10 Watch video on solder tips 
-(E) 20 Move ISA out of CHIP to a better interest rate
-(E) 20 Redo windows installer on Kat laptop  @online
+(E) 20 Open Tesco ISA
+x 2026-06-30 20 Redo windows installer on Kat laptop  @online
 (E) 20 process Garage inbox. @offline
 (E) 40 Classify the rest of the bank transactions 
 x 2026-06-30 Cut Nova nails +Health    
@@ -30,3 +30,4 @@ x 2026-06-30 Check sander and sandpaper supplies.
 (E) Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
 (E) Have a look at the basil
 (E) Another call to a test drive
+(E) Work out the next task for Desktop Reboot
