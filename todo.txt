@@ -1,6 +1,6 @@
 x 2026-06-30 10 Fill out Gratitude Book  @offline
-(A) 20 Email all the Flowers For Turing donors
-(A) 25 DO the Flowers For TUring Accounting
+x 2026-06-30 20 Email all the Flowers For Turing donors
+x 2026-06-30 25 DO the Flowers For TUring Accounting
 (B) 15 Fix the git problem in the student book 
 (B) 20 Look up air-bnb's for Southport holiday  @online
 (B) 20 Process FFT expenses
