@@ -10,7 +10,7 @@ x 2026-06-30 10 Review projects
 (D) 25 Review the Blue Book  @offline
 (D) 50 Get Pages Read to 32,000   @offline 
 (D) 60 Day of brainstorms  @offline
-(E) Sort *all* your boxes
+(E) Sort *all* youOpen Tesco ISA
 x 2026-06-30 03 Save a nice family memory +Family @phone    
 x 2026-06-30 05 Add a Privacy notice for CASPER 
 (E) 05 Floss +Health    @offline
@@ -19,9 +19,8 @@ x 2026-06-30 08 Lookup supplies for varnishing and buyonline
 x 2026-06-30 10 Call back the test drive people 
 (E) 10 Do Menu for the week +Family  @phone   
 (E) 10 Fix the batteries in the trackers 
-(E) 10 Talk to Kat about when they would like the veldrome date
+x 2026-06-30 10 Talk to Kat about when they would like the veldrome date
 x 2026-06-30 10 Watch video on solder tips 
-(E) 20 Open Tesco ISA
 x 2026-06-30 20 Redo windows installer on Kat laptop  @online
 (E) 20 process Garage inbox. @offline
 (E) 40 Classify the rest of the bank transactions 
