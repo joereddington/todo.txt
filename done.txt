@@ -9938,3 +9938,22 @@ x 2026-06-30 20 Process FFT expenses
 x 2026-06-30 03 Save a nice family memory +Family @phone    
 x 2026-06-30 08 Lookup supplies for varnishing and buyonline 
 x 2026-06-30 Cut Nova nails +Health    
+x 2026-06-30 10 Fill out Gratitude Book  @offline
+x 2026-06-30 20 Email all the Flowers For Turing donors
+x 2026-06-30 25 DO the Flowers For TUring Accounting
+x 2026-06-30 15 Fix the git problem in the student book 
+x 2026-06-30 20 Look up air-bnb's for Southport holiday  @online
+x 2026-06-30 20 Process FFT expenses
+x 2026-06-30 03 Update Leo calendar @offline
+x 2026-06-30 10 Review projects
+x 2026-06-30 03 Save a nice family memory +Family @phone    
+x 2026-06-30 05 Add a Privacy notice for CASPER 
+x 2026-06-30 08 Lookup supplies for varnishing and buyonline 
+x 2026-06-30 10 Call back the test drive people 
+x 2026-06-30 10 Talk to Kat about when they would like the veldrome date
+x 2026-06-30 10 Watch video on solder tips 
+x 2026-06-30 20 Redo windows installer on Kat laptop  @online
+x 2026-06-30 Cut Nova nails +Health    
+x 2026-06-30 Check sander and sandpaper supplies. 
+x 2026-06-30 Have a look at the basil
+x 2026-07-01 05 Send the rent increase letter
