@@ -9957,3 +9957,4 @@ x 2026-06-30 Cut Nova nails +Health
 x 2026-06-30 Check sander and sandpaper supplies. 
 x 2026-06-30 Have a look at the basil
 x 2026-07-01 05 Send the rent increase letter
+x 2026-07-01 25 Review the Blue Book  @offline
