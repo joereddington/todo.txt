@@ -9958,3 +9958,9 @@ x 2026-06-30 Check sander and sandpaper supplies.
 x 2026-06-30 Have a look at the basil
 x 2026-07-01 05 Send the rent increase letter
 x 2026-07-01 25 Review the Blue Book  @offline
+x 2026-07-01 Deploy CASPER 
+x 2026-07-01 10 Put new solder tip in. 
+x 2026-07-01 60 Day of brainstorms  @offline
+x 2026-07-01 Trim nose hair +Health    
+x 2026-07-01 Fill out Gratitude Book 
+x 2026-07-01 process emotional todo list. 
