@@ -42,3 +42,4 @@
 (E) Publicly thank someone +Overhead  
 (E) Save a nice family memory +Family @phone    
 (E) Produce a new WOMBAT sources example
+(E) Ask about https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html and STRIDE 
