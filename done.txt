@@ -9965,3 +9965,6 @@ x 2026-07-01 Trim nose hair +Health
 x 2026-07-01 Fill out Gratitude Book 
 x 2026-07-01 process emotional todo list. 
 x 2026-07-03 Cut nails +Health    
+x 2026-07-06 10 Do Menu for the week +Family  @phone   
+x 2026-07-06 10 Fix the batteries in the trackers 
+x 2026-07-06 Review Menu Spreadsheet +Family 
