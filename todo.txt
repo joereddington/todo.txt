@@ -20,3 +20,5 @@
 (E) 50 Get Pages Read to 32,000   @offline 
 (E) 30 Review the new Moodle page for IY3501/IY4501 and rewrite
 (E) 20 Update the login page design for CASPER
+(E) Find a Panopto training module on Myview
+(E) Look at the timetable for other sessions at the same time
