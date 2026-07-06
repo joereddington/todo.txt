@@ -9968,3 +9968,10 @@ x 2026-07-03 Cut nails +Health
 x 2026-07-06 10 Do Menu for the week +Family  @phone   
 x 2026-07-06 10 Fix the batteries in the trackers 
 x 2026-07-06 Review Menu Spreadsheet +Family 
+x 2026-07-06 10 Review Wheel Of life Projects
+x 2026-07-06 Review Wheel Of life Projects
+x 2026-07-06 Update Leo calendar
+x 2026-07-06 Get Pages read to the next 1000 pages
+x 2026-07-06 10 Map the house move project
+x 2026-07-06 Log weight +Health   
+x 2026-07-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
