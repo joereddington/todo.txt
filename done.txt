@@ -9975,3 +9975,15 @@ x 2026-07-06 Get Pages read to the next 1000 pages
 x 2026-07-06 10 Map the house move project
 x 2026-07-06 Log weight +Health   
 x 2026-07-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-07-06 05 Floss +Health    @offline
+x 2026-07-06 Floss +Health   
+x 2026-07-06 (.) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+x 2026-07-06 (.) Gratitude blog post
+x 2026-07-06 (.) Do full accounts algorithm  
+x 2026-07-06 (.) 10 Sort *all* you Boxes
+x 2026-07-06 (.) 30 Spin out the CIA triad article 
+x 2026-07-06 (.) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-07-06 (.) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-07-06 (.) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-07-06 (.) Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-07-06 (.) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
