@@ -14,7 +14,7 @@
 (E) 04 Check the grit levels that the sander came with @offline @garage 
 (E) 05 Change TV PIN 
 (E) 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-(E) 05 Work out the next task for Desktop Reboot
+(E) 20 Install Windows on Desktop
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Map a banner project
