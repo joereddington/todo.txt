@@ -17,7 +17,6 @@
 (E) 40 Classify the rest of the bank transactions 
 (E) 50 Get Pages Read to 32,000   @offline 
 (E) Change TV PIN 
-(E) Check cooleant
 (E) Check starred messages in kat whatsapp 
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Empty Joe inbox completely +Overhead    
