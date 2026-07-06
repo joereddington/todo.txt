@@ -9990,3 +9990,5 @@ x 2026-07-06 (.) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6M
 x 2026-07-06 (.) Publicly thank someone +Overhead  
 x 2026-07-06 (.) Ask about https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html and STRIDE 
 x 2026-07-06 Check cooleant
+x 2026-07-06 Book airbnb 
+x 2026-07-06 Review links Kat sent 
