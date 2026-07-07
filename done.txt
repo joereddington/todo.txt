@@ -10002,3 +10002,6 @@ x 2026-07-06 04 Check the grit levels that the sander came with @offline @garage
 x 2026-07-06 03 Fix your vitamin box
 x 2026-07-06 10 Empty whatsapp and facebook inboxes. +Overhead  
 x 2026-07-06 10 Setup VPN on phone for testing Casper 
+x 2026-07-07 10 Review RHUL projects
+x 2026-07-07 05 Message Kat about sunday planters 
+x 2026-07-07 Buy Wood 
