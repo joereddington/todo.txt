@@ -1,8 +1,11 @@
+(A) Buy tickets
 (A) 03 Save a nice family memory +Family @phone    
 (A) Print the student book 
 (C) 04 Cut Leo nails +Health    
 (C) 10 Arrange Hyundai IONIQ 5 test drive. 
 (C) 10 Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
+(C) Do the Yvonne Actions 
+(C) Get CIA triad for GA 
 (C) Plan out the next tarp
 (C) Take table outside for first sanding. 
 (D) 03 Get little screws for doing the electronics 
