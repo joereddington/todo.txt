@@ -1,5 +1,4 @@
 (A) 03 Save a nice family memory +Family @phone    
-(C) 04 Cut Leo nails +Health    
 (C) 10 Arrange Hyundai IONIQ 5 test drive. 
 (C) 10 Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
 (C) Do the Yvonne Actions 
@@ -23,3 +22,4 @@
 (E) 50 Get Pages Read to 32,000   @offline 
 (E) Find a Panopto training module on Myview
 (E) Look at the timetable for other sessions at the same time
+(E) Propose merge for https://en.wikipedia.org/wiki/Countermeasure_(computer) 

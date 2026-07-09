@@ -10007,3 +10007,4 @@ x 2026-07-07 05 Message Kat about sunday planters
 x 2026-07-07 Buy Wood 
 x 2026-07-09 Buy tickets
 x 2026-07-09 Print the student book 
+x 2026-07-09 04 Cut Leo nails +Health    
