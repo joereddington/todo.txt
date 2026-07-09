@@ -10005,3 +10005,5 @@ x 2026-07-06 10 Setup VPN on phone for testing Casper
 x 2026-07-07 10 Review RHUL projects
 x 2026-07-07 05 Message Kat about sunday planters 
 x 2026-07-07 Buy Wood 
+x 2026-07-09 Buy tickets
+x 2026-07-09 Print the student book 

@@ -1,6 +1,4 @@
-(A) Buy tickets
 (A) 03 Save a nice family memory +Family @phone    
-(A) Print the student book 
 (C) 04 Cut Leo nails +Health    
 (C) 10 Arrange Hyundai IONIQ 5 test drive. 
 (C) 10 Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
