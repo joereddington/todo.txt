@@ -1,5 +1,6 @@
 (A) 03 Save a nice family memory +Family @phone    
-(C) 10 Arrange Hyundai IONIQ 5 test drive. 
+(A) Review the documents Kat sent
+x 2026-07-10 10 Arrange Hyundai IONIQ 5 test drive. 
 (C) 10 Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
 (C) Do the Yvonne Actions 
 (C) Get CIA triad for GA 
