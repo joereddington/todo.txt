@@ -10041,3 +10041,4 @@ x 2026-07-14 Any Chocolate should be in the car or outside fridge (assuming wint
 x 2026-07-14 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-07-14 deploy any commits from OVF that are hanging around. 
 x 2026-07-14 Check starred messages in kat whatsapp 
+x 2026-07-14 Make sure you have a continual professional development practice happening  

@@ -45,7 +45,6 @@
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look at the timetable for other sessions at the same time
-(E) Make sure you have a continual professional development practice happening  
 (E) Propose merge for https://en.wikipedia.org/wiki/Countermeasure_(computer) 
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
