@@ -1,12 +1,9 @@
 (A) 03 Save a nice family memory +Family @phone    
 (A) Fill out Gratitude Book 
-(A) Review the documents Kat sent
 (A) process emotional todo list. 
-(B) Make sure you have booked a bunch of leave from RHUL 
 (C) 10 Measure and Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
 (C) 10 Year plan: check you have 5 projects in each part
 (C) Check your vitimin box
-(C) Do the Yvonne Actions 
 (C) Gratitude blog post
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (C) Respond to GA review
@@ -18,7 +15,6 @@
 (D) 03 Get little screws for doing the electronics 
 (D) 15 Put up blinds 
 (D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(E) 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) 10 Map a banner project
 (E) 10 Practice chemistry decoding @offline
 (E) 15 Produce a new WOMBAT sources example @online
@@ -33,11 +29,8 @@
 (E) Check ranking scripts +Overhead
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
 (E) Do full review of the memory palace. 
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Find a Panopto training module on Myview @online
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead
@@ -50,7 +43,6 @@
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Run the ICO backup code
 (E) Save a nice family memory +Family @phone    
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Trim nose hair +Health    
