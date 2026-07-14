@@ -26,6 +26,7 @@
 (E) 20 Podcast and garage tidy. @offline
 (E) 20 Update the login page design for CASPER
 (E) 30 Review the new Moodle page for IY3501/IY4501 and rewrite
+(E) Message Pete and John the Dates of coming up
 (E) 40 Classify the rest of the bank transactions 
 (E) Backup AWS +EQT
 (E) Check Passports are in the safe
