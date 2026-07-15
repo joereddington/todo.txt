@@ -10052,3 +10052,6 @@ x 2026-07-14 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advi
 x 2026-07-14 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 x 2026-07-14 05 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2026-07-14 Find a Panopto training module on Myview @online
+x 2026-07-15 03 Get little screws for doing the electronics 
+x 2026-07-15 Run multi-git-status on both aws servers to make sure all code is uploaded.  
+x 2026-07-15 Backup AWS +EQT
