@@ -10060,3 +10060,4 @@ x 2026-07-15 Message about the bed
 x 2026-07-15 03 Save a nice family memory +Family @phone    
 x 2026-07-15 Fill out Gratitude Book 
 x 2026-07-15 process emotional todo list. 
+x 2026-07-15 10 Measure and Create a spreadsheet for wood to buy: Kat's planters, trim for upstairs cubpoards, supplies for the other 
