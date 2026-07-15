@@ -1,4 +1,3 @@
-x 2026-07-15 Respond to GA review
 (C) Review Wheel Of life Projects
 (C) Run mgit status on the git directory and process all alerts 
 (C) Update Leo calendar
@@ -38,3 +37,4 @@ x 2026-07-15 Respond to GA review
 (E) Mark and take appart the workbench for sanding 
 (E) Check AWS to see if they are charging as much 
 (E) Map 'Deddington Recipes 2.0' 
+(A) Rebuild the speedo
