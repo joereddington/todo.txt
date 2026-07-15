@@ -3,24 +3,19 @@
 (C) Update Leo calendar
 (D) 15 Lookup instructions on how to install blind
 (D) Process the rest of the mgit status alerts
-(E) (Email Message John the Dates of coming up
-(E) 10 Map a banner project
 (E) 10 Practice chemistry decoding @offline
 (E) 15 Produce a new WOMBAT sources example @online
 (E) 20 Install Windows on Desktop
 (E) 20 Podcast and garage tidy. @offline @garage
 (E) 20 Update the login page design for CASPER
-(E) 30 Review the new Moodle page for IY3501/IY4501 and rewrite
 (E) 40 Classify the rest of the bank transactions 
 (E) Check AWS to see if they are charging as much 
-x 2026-07-15 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Do full review of the memory palace. 
 (E) Empty Joe inbox completely +Overhead    
 (E) Floss +Health   
 (E) Get passport out of car 
 (E) Give laptop screen a good clean +Overhead
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Look into Google Ads again 
 (E) Map 'Reddington Recipes 2.0' 
 (E) Mark and take appart the workbench for sanding  @garage
@@ -29,5 +24,3 @@ x 2026-07-15 Check that everything in the 'in process' box really does have a ta
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Review Gym spreadsheet and brainstorm the best approach for 
-x 2026-07-15 Trim nose hair +Health    
