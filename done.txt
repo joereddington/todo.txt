@@ -10056,3 +10056,7 @@ x 2026-07-15 03 Get little screws for doing the electronics
 x 2026-07-15 Run multi-git-status on both aws servers to make sure all code is uploaded.  
 x 2026-07-15 Backup AWS +EQT
 x 2026-07-15 Review RHUL projects
+x 2026-07-15 Message about the bed 
+x 2026-07-15 03 Save a nice family memory +Family @phone    
+x 2026-07-15 Fill out Gratitude Book 
+x 2026-07-15 process emotional todo list. 
