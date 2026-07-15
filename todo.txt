@@ -1,5 +1,5 @@
 (A) Make a proper meal plan
-(A) Rebuild the speedo
+(A) Map out the things for Rebuild the speedo
 (C) Update Leo calendar
 (D) 15 Lookup instructions on how to install blind
 (D) Process the rest of the mgit status alerts
@@ -8,12 +8,12 @@
 (E) 10 Practice chemistry decoding @offline
 (E) 15 Produce a new WOMBAT sources example @online
 (E) 20 Install Windows on Desktop
-(E) 20 Podcast and garage tidy. @offline
+(E) 20 Podcast and garage tidy. @offline @garage
 (E) 20 Update the login page design for CASPER
 (E) 30 Review the new Moodle page for IY3501/IY4501 and rewrite
 (E) 40 Classify the rest of the bank transactions 
 (E) Check AWS to see if they are charging as much 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-07-15 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Do full review of the memory palace. 
 (E) Empty Joe inbox completely +Overhead    
@@ -21,17 +21,13 @@
 (E) Get passport out of car 
 (E) Give laptop screen a good clean +Overhead
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Look into Google Ads again 
-(E) Map 'Deddington Recipes 2.0' 
-(E) Mark and take appart the workbench for sanding 
+(E) Map 'Reddington Recipes 2.0' 
+(E) Mark and take appart the workbench for sanding  @garage
 (E) Propose merge for https://en.wikipedia.org/wiki/Countermeasure_(computer) 
 (E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Save a nice family memory +Family @phone    
-(E) Sort out Gym spreadsheet
-(E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
-(E) Trim nose hair +Health    
+(E) Review Gym spreadsheet
+x 2026-07-15 Trim nose hair +Health    

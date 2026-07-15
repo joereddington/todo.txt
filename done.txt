@@ -10071,3 +10071,7 @@ x 2026-07-15 Review Wheel Of life Projects
 x 2026-07-15 Check ranking scripts +Overhead
 x 2026-07-15 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2026-07-15 Follow up about CASPER
+x 2026-07-15 Save a nice family memory +Family @phone    
+x 2026-07-15 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-07-15 Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
+x 2026-07-15 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
