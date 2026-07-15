@@ -29,5 +29,5 @@ x 2026-07-15 Check that everything in the 'in process' box really does have a ta
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Review Gym spreadsheet
+(E) Review Gym spreadsheet and brainstorm the best approach for 
 x 2026-07-15 Trim nose hair +Health    
