@@ -1,9 +1,9 @@
-(C) Gratitude blog post
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (C) Respond to GA review
 (C) Review Wheel Of life Projects
 (C) Run mgit status on the git directory and process all alerts 
 (C) Update Leo calendar
+(C) Gratitude blog post
 (D) 15 Install blind properly
 (D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (E) 10 Map a banner project
@@ -39,3 +39,4 @@
 (E) Look into Google Ads again 
 (E) Mark and take appart the workbench for sanding 
 (E) Check AWS to see if they are charging as much 
+(E) Map 'Deddington Recipes 2.0' 
