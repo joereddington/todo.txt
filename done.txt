@@ -10055,3 +10055,4 @@ x 2026-07-14 Find a Panopto training module on Myview @online
 x 2026-07-15 03 Get little screws for doing the electronics 
 x 2026-07-15 Run multi-git-status on both aws servers to make sure all code is uploaded.  
 x 2026-07-15 Backup AWS +EQT
+x 2026-07-15 Review RHUL projects
