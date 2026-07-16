@@ -1,4 +1,4 @@
-(A) Get pineapples
+(A) 10 Get pineapples
 (D) 15 Lookup instructions on how to install blind
 (D) Process the rest of the mgit status alerts
 (E) 10 Practice chemistry decoding @offline
@@ -6,20 +6,16 @@
 (E) 20 Install Windows on Desktop
 (E) 20 Update the login page design for CASPER
 (E) 40 Classify the rest of the bank transactions 
-(E) Check AWS to see if they are charging as much 
-(E) Do full review of the memory palace. 
-(E) Empty Joe inbox completely +Overhead    
-(E) Floss +Health   
-(E) Get passport out of car 
-(E) Give laptop screen a good clean +Overhead
 (E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Look into Google Ads again 
-(E) Map 'Reddington Recipes 2.0' 
-(E) Mark and take appart the workbench for sanding  @garage
-(E) Propose merge for https://en.wikipedia.org/wiki/Countermeasure_(computer) 
-(E) Publicly thank someone +Overhead  
-(E) Review Menu speadsheet for the week +Family  @phone   
-(E) Review starred items in feeds +Overhead 
-(E) Block linkedin
-(E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) Sand planks 
+(E) 10 Check AWS to see if they are charging as much 
+(E) 60 Do full review of the memory palace. 
+(E) 10 Empty Joe inbox completely +Overhead    
+(E) 05 Floss +Health   
+(E) 03 Get passport out of car 
+(E) 03 Give laptop screen a good clean +Overhead
+(E) 10 Look into Google Ads again 
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0' 
+(E) Publicly thank someone on Linkedin +Overhead  
+(E) 20 Review starred items in feeds +Overhead 
+(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
+(E) 30 Sand planks 
