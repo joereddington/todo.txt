@@ -27,6 +27,6 @@
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Need to get the networking book on a device
 (E) Put the basil in a pot
-(E) Save a nice family memory +Family @phone    
+(E) 05 Save a nice family memory +Family @phone    
 (E) Work out roughtly what you'd get as a morgage 
 x 2026-07-16 Review RHUL projects
