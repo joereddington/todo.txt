@@ -1,21 +1,30 @@
+(A) Check watch reminders
 (A) 10 Get pineapples
+(A) Fill out Gratitude Book 
+(C) Review RHUL projects
+(C) Review projects
 (D) 15 Lookup instructions on how to install blind
-(D) Process the rest of the mgit status alerts
+(D) 20 Process the rest of the mgit status alerts
+(D) Check starred messages in kat whatsapp 
+(D) Do full accounts algorithm  
+(E) 03 Get passport out of car 
+(E) 04 Publicly thank someone on Linkedin +Overhead  
+(E) 10 Check AWS to see if they are charging as much 
+(E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0' 
+(E) 10 Look into Google Ads again 
 (E) 10 Practice chemistry decoding @offline
 (E) 15 Produce a new WOMBAT sources example @online
 (E) 20 Install Windows on Desktop
-(E) 20 Update the login page design for CASPER
-(E) 40 Classify the rest of the bank transactions 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
-(E) 10 Check AWS to see if they are charging as much 
-(E) 60 Do full review of the memory palace. 
-(E) 10 Empty Joe inbox completely +Overhead    
-(E) 05 Floss +Health   
-(E) 03 Get passport out of car 
-(E) 03 Give laptop screen a good clean +Overhead
-(E) 10 Look into Google Ads again 
-(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0' 
-(E) Publicly thank someone on Linkedin +Overhead  
 (E) 20 Review starred items in feeds +Overhead 
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
+(E) 20 Update the login page design for CASPER
 (E) 30 Sand planks 
+(E) 40 Classify the rest of the bank transactions 
+(E) 60 Do full review of the memory palace. 
+(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Floss +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Save a nice family memory +Family @phone    
+(E) Go through the proper maths of the friendship paradox 
