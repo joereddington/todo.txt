@@ -22,9 +22,7 @@
 (E) 30 Sand planks 
 (E) 40 Classify the rest of the bank transactions 
 (E) 60 Do full review of the memory palace. 
-(E) 60 Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Floss +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Save a nice family memory +Family @phone    
 (E) Go through the proper maths of the friendship paradox 

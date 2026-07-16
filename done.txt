@@ -10095,3 +10095,5 @@ x 2026-07-16 Review Menu speadsheet for the week +Family  @phone
 x 2026-07-16 05 Floss +Health   
 x 2026-07-16 03 Give laptop screen a good clean +Overhead
 x 2026-07-16 process emotional todo list. 
+x 2026-07-16 Floss +Health   
+x 2026-07-16 60 Listen to  Randy Pausch Talk +Overhead @phone  
