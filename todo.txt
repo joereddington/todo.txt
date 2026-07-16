@@ -1,7 +1,7 @@
-(A) Check watch reminders
+(A) 05 Check watch reminders
 (A) 10 Get pineapples
-(A) Fill out Gratitude Book 
-(C) Review RHUL projects
+(A) 03 Fill out Gratitude Book 
+x 2026-07-16 Review RHUL projects
 (C) Review projects
 (D) 15 Lookup instructions on how to install blind
 (D) 20 Process the rest of the mgit status alerts
