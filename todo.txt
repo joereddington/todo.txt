@@ -1,4 +1,4 @@
-(A) Make a proper meal plan
+(A) Get pineapples
 (D) 15 Lookup instructions on how to install blind
 (D) Process the rest of the mgit status alerts
 (E) 10 Practice chemistry decoding @offline
@@ -20,5 +20,6 @@
 (E) Publicly thank someone +Overhead  
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
+(E) Block linkedin
 (E) Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) Sand planks 
