@@ -8,6 +8,7 @@
 (D) Do full accounts algorithm  
 (E) 03 Get passport out of car 
 (E) 04 Publicly thank someone on Linkedin +Overhead  
+(E) 05 Save a nice family memory +Family @phone    
 (E) 10 Check AWS to see if they are charging as much 
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0' 
@@ -19,14 +20,14 @@
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 20 Update the login page design for CASPER
 (E) 30 Sand planks 
-x 2026-07-16 40 Classify the rest of the bank transactions 
-(E) Produce the Joka reconciliation 
 (E) 60 Do full review of the memory palace. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Get on Rightmove and shortlist some places in the North West
 (E) Go through the proper maths of the friendship paradox 
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Need to get the networking book on a device
+(E) Produce the Joka reconciliation 
 (E) Put the basil in a pot
-(E) 05 Save a nice family memory +Family @phone    
 (E) Work out roughtly what you'd get as a morgage 
+x 2026-07-16 40 Classify the rest of the bank transactions 
+(B) Make the list of things to do for CASPER 
