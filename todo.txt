@@ -34,3 +34,5 @@ x 2026-07-16 40 Classify the rest of the bank transactions
 (A) CYM060 resit paper
 (A) Book disneyland
 (B) Feet
+(C) Process the University of Glasgow Purchase order
+(C) Make a project for the PHS work
