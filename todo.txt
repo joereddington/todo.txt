@@ -1,6 +1,11 @@
 (A) 03 Fill out Gratitude Book 
 (A) 05 Check watch reminders
 (A) 10 Get pineapples
+(A) Book disneyland
+(A) CYM060 resit paper
+(B) Make the list of things to do for CASPER 
+(C) Make a project for the PHS work
+(C) Process the University of Glasgow Purchase order
 (C) Review projects
 (D) 15 Lookup instructions on how to install blind
 (D) 20 Process the rest of the mgit status alerts
@@ -19,7 +24,6 @@
 (E) 20 Review starred items in feeds +Overhead 
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 20 Update the login page design for CASPER
-(E) 30 Sand planks 
 (E) 60 Do full review of the memory palace. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Get on Rightmove and shortlist some places in the North West
@@ -29,10 +33,3 @@
 (E) Produce the Joka reconciliation 
 (E) Put the basil in a pot
 (E) Work out roughtly what you'd get as a morgage 
-x 2026-07-16 40 Classify the rest of the bank transactions 
-(B) Make the list of things to do for CASPER 
-(A) CYM060 resit paper
-(A) Book disneyland
-(B) Feet
-(C) Process the University of Glasgow Purchase order
-(C) Make a project for the PHS work

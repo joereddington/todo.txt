@@ -10098,3 +10098,6 @@ x 2026-07-16 process emotional todo list.
 x 2026-07-16 Floss +Health   
 x 2026-07-16 60 Listen to  Randy Pausch Talk +Overhead @phone  
 x 2026-07-16 Review RHUL projects
+x 2026-07-20 Feet
+x 2026-07-16 40 Classify the rest of the bank transactions 
+x 2026-07-20 30 Sand planks 
