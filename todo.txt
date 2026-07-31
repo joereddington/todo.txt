@@ -1,6 +1,5 @@
 (A) 03 Fill out Gratitude Book 
 (A) 05 Check watch reminders
-(A) 10 Get pineapples
 (A) Book disneyland
 (A) CYM060 resit paper
 (B) Make the list of things to do for CASPER 
@@ -33,3 +32,5 @@
 (E) Produce the Joka reconciliation 
 (E) Put the basil in a pot
 (E) Work out roughtly what you'd get as a morgage 
+(E) Get Nova a map of england that we can put pins in
+(E) Put MicroSD card reader in car 
