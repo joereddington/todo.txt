@@ -21,14 +21,12 @@
 (E) 20 Install Windows on Desktop
 (E) 20 Review starred items in feeds +Overhead 
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-x 2026-07-31 20 Update the login page design for CASPER
 (E) 60 Do full review of the memory palace. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Get on Rightmove and shortlist some places in the North West
 (E) Go through the proper maths of the friendship paradox 
 (E) Need to get the networking book on a device
 (E) Produce the Joka reconciliation 
-(E) Put the basil in a pot
 (E) Work out roughtly what you'd get as a mortgage 
 (E) Get Nova a map of england that we can put pins in
 (E) Put MicroSD card reader in car 
