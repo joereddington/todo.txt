@@ -3,14 +3,11 @@
 (A) CYM060 resit paper
 (B) Make the list of things to do for CASPER 
 (C) Make a project for the PHS work
-(C) Process the University of Glasgow Purchase order
 (C) Review projects
 (D) 15 Lookup instructions on how to install blind
 (D) 20 Process the rest of the mgit status alerts
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm  
-(E) 03 Get passport out of car 
-(E) 04 Publicly thank someone on Linkedin +Overhead  
 (E) 05 Save a nice family memory +Family @phone    
 (E) 10 Check AWS to see if they are charging as much 
 (E) 10 Empty Joe inbox completely +Overhead    
@@ -23,7 +20,6 @@
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
 (E) 60 Do full review of the memory palace. 
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Get on Rightmove and shortlist some places in the North West
 (E) Go through the proper maths of the friendship paradox 
 (E) Need to get the networking book on a device
 (E) Produce the Joka reconciliation 

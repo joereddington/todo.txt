@@ -10106,3 +10106,7 @@ x 2026-07-31 05 Check watch reminders
 x 2026-07-31 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-07-31 20 Update the login page design for CASPER
 x 2026-08-05 Put the basil in a pot
+x 2026-08-05 03 Get passport out of car 
+x 2026-08-05 04 Publicly thank someone on Linkedin +Overhead  
+x 2026-08-05 Process the University of Glasgow Purchase order
+x 2026-08-05 Get on Rightmove and shortlist some places in the North West
