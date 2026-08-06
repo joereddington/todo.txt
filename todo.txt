@@ -1,70 +1,64 @@
-(A) 03 Fill out Gratitude Book  @offline
-(A) 30 Book disneyland @online
-(A) Check calendar for your planned email day 
-(A) Fill out Gratitude Book 
+(E) Make a 100 day plan of phone. Again.  @offline 
+(D) Get Pages read to 32,000 @offline
 (B) 10 Make the list of things to do for CASPER  @offline
 (C) 10 Review projects @offline
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box
+(D) 05 Check starred messages in kat whatsapp  @offline
+(E) 03 Message Karen  @offline
+(E) 05 Cut nova nails  @offline
+(E) 05 Project Need to get the networking book on a device @offline
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline
+(E) 60 Do full review of the memory palace.  @offline
+(E) Get a themrometer in the bedroom  @offline
+(E) Log weight +Health    @offline
+(E) Review post-it notes  @offline 
+(E) make a broadcast plan  @offline
+(A) 30 Book disneyland @online
+(A) Check calendar for your planned email day  @online
 (C) Gratitude blog post
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (C) Review RHUL projects
 (C) Review Wheel Of life Projects
 (C) Review projects
 (C) Run mgit status on the git directory and process all alerts 
-(C) Update Leo calendar
-(D) 05 Check starred messages in kat whatsapp  @offline
-(D) 15 Lookup instructions on how to install blind @offline
 (D) 20 Process the rest of the mgit status alerts @online
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm  
-(D) Get Pages read to 32,000
-(E) 03 Message Karen  @offline
-(E) 03 Put MicroSD card reader in car  @offline
 (E) 03 check puterridge for Nova  @online
 (E) 04 Produce the Joka reconciliation  @online
-(E) 05 Cut nova nails  @offline
-(E) 05 Project Need to get the networking book on a device @offline
 (E) 05 Sort out present @online
 (E) 10 Check AWS to see if they are charging as much  @online
-(E) 10 Empty Joe inbox completely +Overhead     @offline
-(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline
 (E) 10 Go through the proper maths of the friendship paradox  @online
-(E) 10 Highway code
 (E) 10 Look into Google Ads again  @online
 (E) 15 Produce a new WOMBAT sources example @online
-(E) 20 Install Windows on Desktop @offline
 (E) 20 Review starred items in feeds +Overhead 
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
-(E) 60 Do full review of the memory palace.  @offline
 (E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Check Passports are in the safe
-(E) Check charging cables in office. 
 (E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check wishlist
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Cut nails +Health    
+x 2026-08-06 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check wishlist @online
 (E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health   
-(E) Get a themrometer in the bedroom  @offline
-(E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and add things to the gratitude book @online
-(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Log weight +Health    @offline
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Make a 100 day plan of phone. Again. 
 (E) Make a list of things to do on holiday
 (E) Make some notes about stress. 
 (E) Make sure you have a continual professional development practice happening  
-(E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
-(E) Read a book about the local area of holidays - also lookup tudor links  @offline
-(E) Review post-it notes 
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Run the ICO backup code
 (E) Talk to Nova about team work projects
-(E) Trim nose hair +Health    
 (E) Youtube video on installing more drinks holders on bikes @online
-(E) make a broadcast plan  @offline
-(E) process Garage inbox. 
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline @up
+(C) Check your vitimin box @offline @up
+(D) 15 Lookup instructions on how to install blind @offline
+(E) 03 Put MicroSD card reader in car  @offline @up 
+(E) 10 Empty Joe inbox completely +Overhead     @offline @up
+(E) 20 Install Windows on Desktop @offline @up
+(E) Check Passports are in the safe @offline @up
+(E) Check charging cables in office.  @offline @up
+(E) Read a book about the local area of holidays - also lookup tudor links  @offline
+(E) Trim nose hair +Health     @offline  @up
+(E) process Garage inbox. @offline @up
+(E) Give laptop screen a good clean +Overhead @offline @up
+(E) Floss +Health    @offline @up
+(E) Cut nails +Health     @offline @up
+(C) Update Leo calendar
+(E) 10 Get a 2026 copy of the highway code (find out when it updates) 
+(E) Post to Vegan Facebook group  @phone   
+(E) Run the ICO backup code
