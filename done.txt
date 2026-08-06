@@ -10147,3 +10147,6 @@ x 2026-08-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/O
 x 2026-08-06 05 Cut nova nails  @offline
 x 2026-08-06 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 x 2026-08-06 10 Make the list of things to do for CASPER  @offline
+x 2026-08-06 Review projects
+x 2026-08-06 10 Review projects @offline
+x 2026-08-06 05 Sort out present @online
