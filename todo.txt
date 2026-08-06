@@ -70,3 +70,6 @@
 (E) Order wood from B&Q  
 (E) Brainstorm on the missing long term plans 
 (E) Take photos of the bike tyres and order inner tubes.
+(E) Add more wedges to the bedroom cupboard @offline @up
+(E) Make sure ipad can charge next to bed @offline @up
+(E) Lookup todo.txt shortcuts
