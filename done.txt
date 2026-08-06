@@ -10175,3 +10175,7 @@ x 2026-08-06 03 check puterridge for Nova  @online
 x 2026-08-06 15 Lookup instructions on how to install blind @offline @up
 x 2026-08-06 Check your vitimin box @offline @up
 x 2026-08-06 Sort wishlish properly into things like 'books that are better written down. 
+x 2026-08-06 Lookup todo.txt shortcuts
+x 2026-08-06 Follow up about air con
+x 2026-08-06 10 Get a 2026 copy of the highway code (find out when it updates) 
+x 2026-08-06 Run mgit status on the git directory and process all alerts 
