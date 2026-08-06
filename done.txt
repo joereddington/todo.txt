@@ -10146,3 +10146,4 @@ x 2026-08-06 Learn something new about vim in http://learnvimscriptthehardway.st
 x 2026-08-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-08-06 05 Cut nova nails  @offline
 x 2026-08-06 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-08-06 10 Make the list of things to do for CASPER  @offline
