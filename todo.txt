@@ -1,27 +1,36 @@
-(A) 03 Fill out Gratitude Book 
-(A) Book disneyland
-(B) Make the list of things to do for CASPER 
-(C) Make a project for the PHS work
-(C) Review projects
-(D) 15 Lookup instructions on how to install blind
-(D) 20 Process the rest of the mgit status alerts
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm  
-(E) 05 Save a nice family memory +Family @phone    
-(E) 10 Check AWS to see if they are charging as much 
-(E) 10 Empty Joe inbox completely +Overhead    
-(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0' 
-(E) 10 Look into Google Ads again 
+(A) 03 Fill out Gratitude Book  @offline
+(A) 30 Book disneyland @online
+(B) 10 Make the list of things to do for CASPER  @offline
+(C) 10 Review projects @offline
+(D) 05 Check starred messages in kat whatsapp  @offline
+(D) 15 Lookup instructions on how to install blind @offline
+(D) 20 Process the rest of the mgit status alerts @online
+(E) 03 Message Karen  @offline
+(E) Make a list of things to do on holiday
+(E) Read a book about the local area of holidays
+(E) 10 Highway code
+(E) 03 Put MicroSD card reader in car  @offline
+(E) 03 check puterridge for Nova  @online
+(E) 04 Produce the Joka reconciliation  @online
+(E) 05 Cut nova nails  @offline
+(E) 05 Project Need to get the networking book on a device @offline
+(E) 05 Sort out present @online
+(E) 10 Check AWS to see if they are charging as much  @online
+(E) 10 Empty Joe inbox completely +Overhead     @offline
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline
+(E) 10 Go through the proper maths of the friendship paradox  @online
+(E) 10 Look into Google Ads again  @online
 (E) 10 Practice chemistry decoding @offline
 (E) 15 Produce a new WOMBAT sources example @online
-(E) 20 Install Windows on Desktop
+(E) 20 Install Windows on Desktop @offline
 (E) 20 Review starred items in feeds +Overhead 
-(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health
-(E) 60 Do full review of the memory palace. 
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Go through the proper maths of the friendship paradox 
-(E) Need to get the networking book on a device
-(E) Produce the Joka reconciliation 
-(E) Work out roughtly what you'd get as a mortgage 
-(E) Get Nova a map of england that we can put pins in
-(E) Put MicroSD card reader in car 
+(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
+(E) 60 Do full review of the memory palace.  @offline
+(E) make a broadcast plan  @offline
+(E) Review post-it notes 
+(E) Check charging cables
+(E) Youtube video on installing more drinks holders on bikes
+(E) Make a 100 day plan of phone. Again. 
+(E) Get a themrometer in the bedroom 
+(E) Talk to Nova about team work projects
+(E) Make some notes about stress. 
