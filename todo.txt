@@ -1,5 +1,3 @@
-(A) 10 Make a 100 day plan of phone. Again.  @offline 
-(A) 30 Book disneyland @online
 (C) 05 Update Leo calendar @kids
 (C) 10 Review RHUL projects
 (C) 10 Review Wheel Of life Projects
@@ -10,7 +8,6 @@
 (D) 20 Process the rest of the mgit status alerts @online
 (D) 50 Do full accounts algorithm  
 (D) 90 Get Pages read to 32,000 @offline
-(E) 03 Talk to Nova about team work projects  @offline 
 (E) 04 Make sure ipad can charge next to bed @offline @up
 (E) 04 Produce the Joka reconciliation  @online
 (E) 05 Floss +Health    @offline @up
@@ -24,7 +21,6 @@
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 10 List of meals that can be made for the kids  @offline 
 (E) 10 Look into Google Ads again  @online
-(E) 10 Make a list of things to do on holiday
 (E) 10 Pick your favourite masters programme  
 (E) 10 Sleep brainstorm  @offline 
 (E) 15 Make a savings spreadsheet with interest rates 
@@ -36,5 +32,5 @@
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
 (E) 60 Do full review of the memory palace.  @offline
-(E) Talk to QL about recruitment 
+(E) Do a recruitment post for influencers
 (E) Badger kat about yvonnes thing 
