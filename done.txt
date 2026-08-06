@@ -10174,3 +10174,4 @@ x 2026-08-06 Check you have ingredients for three levels of basic food - salad -
 x 2026-08-06 03 check puterridge for Nova  @online
 x 2026-08-06 15 Lookup instructions on how to install blind @offline @up
 x 2026-08-06 Check your vitimin box @offline @up
+x 2026-08-06 Sort wishlish properly into things like 'books that are better written down. 

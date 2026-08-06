@@ -26,7 +26,6 @@
 (E) 15 Produce a new WOMBAT sources example @online
 (E) 20 Review starred items in feeds +Overhead 
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
-(E) Sort wishlish properly into things like 'books that are better written down. 
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Go thought calendar and add things to the gratitude book @online
 (E) Make a list of things to do on holiday
@@ -34,7 +33,7 @@
 (E) Make sure you have a continual professional development practice happening  
 (E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
-(E) Talk to Nova about team work projects
+(E) Talk to Nova about team work projects 
 (E) Youtube video on installing more drinks holders on bikes @online
 (E) Book clinic date @online
 (C) Go for a run
@@ -46,4 +45,4 @@
 (E) Brainstorm on the missing long term plans 
 (E) Take photos of the bike tyres and order inner tubes.
 (E) Lookup todo.txt shortcuts
-(E) Make videos for Leo talking practice 
+(E) Make videos for Leo talking practice  @online
