@@ -1,14 +1,8 @@
 (E) make a broadcast plan  @offline
-(E) Review post-it notes  @offline 
 (E) Read a book about the local area of holidays - also lookup tudor links  @offline
 (E) Make a 100 day plan of phone. Again.  @offline 
-(E) Log weight +Health    @offline
 (E) 60 Do full review of the memory palace.  @offline
-(E) 05 Project Need to get the networking book on a device @offline
-(E) 03 Message Karen  @offline
 (D) Get Pages read to 32,000 @offline
-(D) 15 Lookup instructions on how to install blind @offline @up
-x 2026-08-06 05 Check starred messages in kat whatsapp  @offline
 (A) 30 Book disneyland @online
 (A) Check calendar for your planned email day  @online
 (C) Gratitude blog post
@@ -55,7 +49,8 @@ x 2026-08-06 05 Check starred messages in kat whatsapp  @offline
 (E) Take photos of the bike tyres and order inner tubes.
 (E) Lookup todo.txt shortcuts
 (E) Make videos for Leo talking practice 
-
+(E) Log weight +Health    @offline @up
+(D) 15 Lookup instructions on how to install blind @offline @up
 (E) Make sure ipad can charge next to bed @offline @up
 (E) Add more wedges to the bedroom cupboard @offline @up
 (E) process Garage inbox. @offline @up
