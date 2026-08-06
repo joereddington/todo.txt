@@ -1,42 +1,38 @@
-(E) 04 Produce the Joka reconciliation  @online
+(A) 10 Make a 100 day plan of phone. Again.  @offline 
+(A) 30 Book disneyland @online
 (C) 05 Update Leo calendar @kids
-(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
-(E) 10 Go through the proper maths of the friendship paradox  @online
-(E) 10 Look into Google Ads again  @online
 (C) 10 Review RHUL projects
 (C) 10 Review Wheel Of life Projects
-(E) 15 Produce a new WOMBAT sources example @online
 (C) 20 Gratitude blog post
-(D) 20 Process the rest of the mgit status alerts @online
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(E) 20 Review starred items in feeds +Overhead 
-(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
-(A) 30 Book disneyland @online
-(E) 60 Do full review of the memory palace.  @offline
 (C) 60 Go for a run
 (C) 60 Make sure the current version of casper is under version control and it's entirely separate from the older version
-(E) Add more wedges to the bedroom cupboard @offline @up
-(E) Book clinic date @online
-(E) Brainstorm on the missing long term plans 
-(A) Check calendar for your planned email day  @online
-(D) Do full accounts algorithm  
-(E) Empty whatsapp and facebook inboxes. +Overhead  
-(E) Floss +Health    @offline @up
-(D) Get Pages read to 32,000 @offline
-(E) Give laptop screen a good clean +Overhead @offline @up
-(E) Go thought calendar and add things to the gratitude book @online
-(E) List of meals that can be made for the kids  @offline 
-(E) Make a 100 day plan of phone. Again.  @offline 
-(E) Make a list of things to do on holiday
-(E) Make a savings spreadsheet with interest rates 
-(E) Make some notes about stress. 
-(E) Make sure ipad can charge next to bed @offline @up
-(E) Make sure you have a continual professional development practice happening  
-(E) Make videos for Leo talking practice  @online 
-(E) Order wood from B&Q  
-(E) Post to Vegan Facebook group  @phone   
-(E) Publicly thank someone +Overhead  
-(E) Read a book about the local area of holidays - also lookup tudor links  @offline
-(E) Sleep brainstorm  @offline 
-(E) Take photos of the bike tyres and order inner tubes.
-(E) Talk to Nova about team work projects  @offline 
+(D) 20 Process the rest of the mgit status alerts @online
+(D) 50 Do full accounts algorithm  
+(D) 90 Get Pages read to 32,000 @offline
+(E) 03 Talk to Nova about team work projects  @offline 
+(E) 04 Make sure ipad can charge next to bed @offline @up
+(E) 04 Produce the Joka reconciliation  @online
+(E) 05 Floss +Health    @offline @up
+(E) 05 Give laptop screen a good clean +Overhead @offline @up
+(E) 05 Properly look at the bedroom cuboards and decide about wedges
+(E) 05 Publicly thank someone +Overhead  
+(E) 10 Book clinic date @online
+(E) 10 Empty whatsapp and facebook inboxes. +Overhead  
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
+(E) 10 Go thought calendar and add things to the gratitude book @online
+(E) 10 Go through the proper maths of the friendship paradox  @online
+(E) 10 List of meals that can be made for the kids  @offline 
+(E) 10 Look into Google Ads again  @online
+(E) 10 Make a list of things to do on holiday
+(E) 10 Pick your favourite masters programme  
+(E) 10 Sleep brainstorm  @offline 
+(E) 15 Make a savings spreadsheet with interest rates 
+(E) 15 Make videos for Leo talking practice  @online 
+(E) 15 Produce a new WOMBAT sources example @online
+(E) 20 Brainstorm on the missing long term plans 
+(E) 20 Order wood from B&Q  
+(E) 20 Review starred items in feeds +Overhead 
+(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
+(E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
+(E) 60 Do full review of the memory palace.  @offline

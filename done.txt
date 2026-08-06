@@ -10181,3 +10181,7 @@ x 2026-08-06 10 Get a 2026 copy of the highway code (find out when it updates)
 x 2026-08-06 Run mgit status on the git directory and process all alerts 
 x 2026-08-06 Lookup houses on Kat's website @online
 x 2026-08-06 Youtube video on installing more drinks holders on bikes @online
+x 2026-08-06 Check calendar for your planned email day  @online
+x 2026-08-06 Make some notes about stress. 
+x 2026-08-06 Post to Vegan Facebook group  @phone   
+x 2026-08-06 Take photos of the bike tyres and order inner tubes.
