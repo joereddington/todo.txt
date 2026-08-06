@@ -10179,3 +10179,5 @@ x 2026-08-06 Lookup todo.txt shortcuts
 x 2026-08-06 Follow up about air con
 x 2026-08-06 10 Get a 2026 copy of the highway code (find out when it updates) 
 x 2026-08-06 Run mgit status on the git directory and process all alerts 
+x 2026-08-06 Lookup houses on Kat's website @online
+x 2026-08-06 Youtube video on installing more drinks holders on bikes @online

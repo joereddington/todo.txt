@@ -1,4 +1,3 @@
-x 2026-08-06 Lookup houses on Kat's website @online
 (E) 04 Produce the Joka reconciliation  @online
 (C) 05 Update Leo calendar @kids
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
@@ -41,4 +40,3 @@ x 2026-08-06 Lookup houses on Kat's website @online
 (E) Sleep brainstorm  @offline 
 (E) Take photos of the bike tyres and order inner tubes.
 (E) Talk to Nova about team work projects  @offline 
-(E) Youtube video on installing more drinks holders on bikes @online
