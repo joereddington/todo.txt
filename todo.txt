@@ -1,3 +1,8 @@
+(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
+(E) Floss +Health    @offline @up
+(E) Give laptop screen a good clean +Overhead @offline @up
+(E) Add more wedges to the bedroom cupboard @offline @up
+(E) Make sure ipad can charge next to bed @offline @up
 (E) Read a book about the local area of holidays - also lookup tudor links  @offline
 (E) Make a 100 day plan of phone. Again.  @offline 
 (E) 60 Do full review of the memory palace.  @offline
@@ -14,7 +19,6 @@
 (C) Update Leo calendar
 (D) 20 Process the rest of the mgit status alerts @online
 (D) Do full accounts algorithm  
-(E) 03 check puterridge for Nova  @online
 (E) 04 Produce the Joka reconciliation  @online
 (E) 10 Get a 2026 copy of the highway code (find out when it updates) 
 (E) 10 Go through the proper maths of the friendship paradox  @online
@@ -43,10 +47,3 @@
 (E) Take photos of the bike tyres and order inner tubes.
 (E) Lookup todo.txt shortcuts
 (E) Make videos for Leo talking practice 
-(D) 15 Lookup instructions on how to install blind @offline @up
-(E) Make sure ipad can charge next to bed @offline @up
-(E) Add more wedges to the bedroom cupboard @offline @up
-(E) Give laptop screen a good clean +Overhead @offline @up
-(E) Floss +Health    @offline @up
-(E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
-(C) Check your vitimin box @offline @up
