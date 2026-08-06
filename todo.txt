@@ -36,3 +36,5 @@
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
 (E) 60 Do full review of the memory palace.  @offline
+(E) Talk to QL about recruitment 
+(E) Badger kat about yvonnes thing 
