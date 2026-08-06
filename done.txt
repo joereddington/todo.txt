@@ -10161,3 +10161,13 @@ x 2026-08-06 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-08-06 Check ranking scripts +Overhead
 x 2026-08-06 10 Check AWS to see if they are charging as much  @online
 x 2026-08-06 Log weight +Health    @offline @up
+x 2026-08-06 process Garage inbox. @offline @up
+x 2026-08-06 Trim nose hair +Health     @offline  @up
+x 2026-08-06 Get a themrometer in the bedroom  @offline @up
+x 2026-08-06 (kE) Cut nails +Health     @offline @up
+x 2026-08-06 Check charging cables in office.  @offline @up
+x 2026-08-06 Check Passports are in the safe @offline @up
+x 2026-08-06 20 Install Windows on Desktop @offline @up
+x 2026-08-06 10 Empty Joe inbox completely +Overhead     @offline @up
+x 2026-08-06 03 Put MicroSD card reader in car  @offline @up 
+x 2026-08-06 Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline @up

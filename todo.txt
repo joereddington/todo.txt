@@ -46,17 +46,7 @@
 (D) 15 Lookup instructions on how to install blind @offline @up
 (E) Make sure ipad can charge next to bed @offline @up
 (E) Add more wedges to the bedroom cupboard @offline @up
-(E) process Garage inbox. @offline @up
-(E) Trim nose hair +Health     @offline  @up
 (E) Give laptop screen a good clean +Overhead @offline @up
-(E) Get a themrometer in the bedroom  @offline @up
 (E) Floss +Health    @offline @up
-(E) Cut nails +Health     @offline @up
-(E) Check charging cables in office.  @offline @up
-(E) Check Passports are in the safe @offline @up
-(E) 20 Install Windows on Desktop @offline @up
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
-(E) 10 Empty Joe inbox completely +Overhead     @offline @up
-(E) 03 Put MicroSD card reader in car  @offline @up 
 (C) Check your vitimin box @offline @up
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu @offline @up
