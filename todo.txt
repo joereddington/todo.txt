@@ -17,7 +17,6 @@
 (D) Do full accounts algorithm  
 (E) 03 check puterridge for Nova  @online
 (E) 04 Produce the Joka reconciliation  @online
-(E) 10 Check AWS to see if they are charging as much  @online
 (E) 10 Get a 2026 copy of the highway code (find out when it updates) 
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 10 Look into Google Ads again  @online
@@ -45,7 +44,6 @@
 (E) Take photos of the bike tyres and order inner tubes.
 (E) Lookup todo.txt shortcuts
 (E) Make videos for Leo talking practice 
-(E) Log weight +Health    @offline @up
 (D) 15 Lookup instructions on how to install blind @offline @up
 (E) Make sure ipad can charge next to bed @offline @up
 (E) Add more wedges to the bedroom cupboard @offline @up

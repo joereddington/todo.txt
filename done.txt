@@ -10159,3 +10159,5 @@ x 2026-08-06 Run the ICO backup code @online
 x 2026-08-06 Check starred messages in kat whatsapp 
 x 2026-08-06 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
 x 2026-08-06 Check ranking scripts +Overhead
+x 2026-08-06 10 Check AWS to see if they are charging as much  @online
+x 2026-08-06 Log weight +Health    @offline @up
