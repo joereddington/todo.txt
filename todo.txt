@@ -39,7 +39,7 @@
 (E) Check Passports are in the safe @offline @up
 (E) Check charging cables in office.  @offline @up
 (E) Check ranking scripts +Overhead
-(E) Check wishlist @online
+(E) Sort wishlish properly into things like 'books that are better written down. 
 (E) Cut nails +Health     @offline @up
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health    @offline @up
@@ -63,3 +63,10 @@
 (E) process Garage inbox. @offline @up
 (E) Book clinic date @online
 (C) Go for a run
+(E) Make a savings spreadsheet with interest rates 
+(E) Follow up about air con
+(E) List of meals that can be made for the kids 
+(E) Sleep brainstorm 
+(E) Order wood from B&Q  
+(E) Brainstorm on the missing long term plans 
+(E) Take photos of the bike tyres and order inner tubes.
