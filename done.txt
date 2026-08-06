@@ -10144,3 +10144,5 @@ x 2026-08-06 Fill out Gratitude Book
 x 2026-08-06 Confirm plans for next two weekends.+Overhead @phone   
 x 2026-08-06 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 x 2026-08-06 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-08-06 05 Cut nova nails  @offline
+x 2026-08-06 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
