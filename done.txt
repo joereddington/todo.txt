@@ -10117,3 +10117,12 @@ x 2026-08-05 Check that everything in the 'in process' box really does have a ta
 x 2026-08-05 Do full accounts algorithm  
 x 2026-08-05 Make a project for the PHS work
 x 2026-08-05 05 Save a nice family memory +Family @phone     @offline
+x 2026-08-06 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-08-06 TSE +Health  
+x 2026-08-06 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-08-06 Cut Nova and Leo nails +Health    
+x 2026-08-06 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+x 2026-08-06 Make sure you have booked a bunch of leave from RHUL 
+x 2026-08-06 Run multi-git-status on both aws servers to make sure all code is uploaded.  
+x 2026-08-06 Empty Joe inbox completely +Overhead    
+x 2026-08-06 Save a nice family memory +Family @phone    
