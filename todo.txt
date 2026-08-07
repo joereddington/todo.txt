@@ -31,6 +31,8 @@
 (E) 20 Review starred items in feeds +Overhead @online
 (E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
-(E) 60 Do full review of the memory palace.  @offline
+x 2026-08-07 60 Do full review of the memory palace.  @offline
+(E) Review periodic table again 
+(E) Review Java keywords 
 (E) Badger kat about yvonnes thing 
 (E) Do a recruitment post for influencers
