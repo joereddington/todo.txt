@@ -28,11 +28,10 @@
 (E) 15 Make videos for Leo talking practice  @online 
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online
-(E) 20 Review starred items in feeds +Overhead @online
-(E) 20 Review the 'everything Joe knows about' files in both gDrive and 1Drive +Health @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
-x 2026-08-07 60 Do full review of the memory palace.  @offline
 (E) Review periodic table again 
 (E) Review Java keywords 
+(E) Review circle line
+(E) lookup air filter and pollen filter for car  
 (E) Badger kat about yvonnes thing 
 (E) Do a recruitment post for influencers
