@@ -10190,3 +10190,6 @@ x 2026-08-06 30 Book disneyland @online
 x 2026-08-06 03 Talk to Nova about team work projects  @offline 
 x 2026-08-06 10 Make a list of things to do on holiday
 x 2026-08-06 10 Make a list of things to do on holiday
+x 2026-08-07 10 Review RHUL projects
+x 2026-08-07 10 Review Wheel Of life Projects
+x 2026-08-07 50 Do full accounts algorithm  
