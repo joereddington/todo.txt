@@ -2,12 +2,9 @@
 (C) 05 Update Leo calendar @kids
 (C) 20 Gratitude blog post @offline
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
-(C) 60 Go for a run @offline
 (C) 60 Make sure the current version of casper is under version control and it's entirely separate from the older version
 (C) Book paw patrol at cineworld @online
-(C) Download a film on tablet @online
 (D) 20 Process the rest of the mgit status alerts @online
-(D) 90 Get Pages read to 32,000 @offline
 (E) 04 Make sure ipad can charge next to bed @offline @up
 (E) 04 Produce the Joka reconciliation  @online
 (E) 05 Floss +Health    @offline @up
@@ -17,14 +14,14 @@
 (E) 10 Book clinic date @online
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
-(E) 10 Go thought calendar and add things to the gratitude book @online
+(E) 10 Go thought calendar and add things to the gratitude book @online @kids
 (E) 10 Go through the proper maths of the friendship paradox  @online
-(E) 10 List of meals that can be made for the kids  @offline 
+(E) 10 List of meals that can be made for the kids  @offline  @kids
 (E) 10 Look into Google Ads again  @online
-(E) 10 Pick your favourite masters programme   @online
+(E) 10 Pick your favourite masters programme   @online 
 (E) 10 Sleep brainstorm  @offline 
 (E) 15 Make a savings spreadsheet with interest rates  @online
-(E) 15 Make videos for Leo talking practice  @online 
+(E) 15 Make videos for Leo talking practice  @online  
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline

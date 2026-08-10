@@ -10198,3 +10198,6 @@ x 2026-08-07 20 Review the 'everything Joe knows about' files in both gDrive and
 x 2026-08-07 60 Do full review of the memory palace.  @offline
 x 2026-08-07 20 Review starred items in feeds +Overhead @online
 x 2026-08-10 Charge headphones @offline @up
+x 2026-08-10 90 Get Pages read to 32,000 @offline
+x 2026-08-10 60 Go for a run @offline
+x 2026-08-10 Download a film on tablet @online
