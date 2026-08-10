@@ -1,4 +1,3 @@
-(A) Charge headphones @offline @up
 (B) Get soldaring iron working  @offline 
 (C) 05 Update Leo calendar @kids
 (C) 20 Gratitude blog post @offline
@@ -29,9 +28,10 @@
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online
 (E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
-(E) Review periodic table again 
-(E) Review Java keywords 
-(E) Review circle line
-(E) lookup air filter and pollen filter for car  
 (E) Badger kat about yvonnes thing 
 (E) Do a recruitment post for influencers
+(E) Review Java keywords 
+(E) Review circle line
+(E) Review periodic table again 
+(E) lookup air filter and pollen filter for car  
+(C) Send recommended influencer to Yvonne. 
