@@ -10201,3 +10201,8 @@ x 2026-08-10 Charge headphones @offline @up
 x 2026-08-10 90 Get Pages read to 32,000 @offline
 x 2026-08-10 60 Go for a run @offline
 x 2026-08-10 Download a film on tablet @online
+x 2026-08-11 04 Make sure ipad can charge next to bed @offline @up
+x 2026-08-11 Send recommended influencer to Yvonne. 
+x 2026-08-11 05 Give laptop screen a good clean +Overhead @offline @up
+x 2026-08-11 10 List of meals that can be made for the kids  @offline  @kids
+x 2026-08-11 03 event to email about masters

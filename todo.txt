@@ -5,30 +5,25 @@
 (C) 60 Make sure the current version of casper is under version control and it's entirely separate from the older version
 (C) Book paw patrol at cineworld @online
 (D) 20 Process the rest of the mgit status alerts @online
-(E) 04 Make sure ipad can charge next to bed @offline @up
 (E) 04 Produce the Joka reconciliation  @online
 (E) 05 Floss +Health    @offline @up
-(E) 05 Give laptop screen a good clean +Overhead @offline @up
-(E) 05 Properly look at the bedroom cuboards and decide about wedges @offline @up
+(E) 05 Properly look at the bedroom cupboards and decide about wedges @offline @up
 (E) 05 Publicly thank someone +Overhead  
 (E) 10 Book clinic date @online
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
 (E) 10 Go thought calendar and add things to the gratitude book @online @kids
 (E) 10 Go through the proper maths of the friendship paradox  @online
-(E) 10 List of meals that can be made for the kids  @offline  @kids
 (E) 10 Look into Google Ads again  @online
-(E) 10 Pick your favourite masters programme   @online 
 (E) 10 Sleep brainstorm  @offline 
 (E) 15 Make a savings spreadsheet with interest rates  @online
 (E) 15 Make videos for Leo talking practice  @online  
 (E) 20 Brainstorm on the missing long term plans  
-(E) 20 Order wood from B&Q  @online
-(E) 30 Read a book about the local area of holidays - also lookup tudor links  @offline
+(E) 20 Order wood from B&Q  @online @kids 
+(E) 30 Read rest of book about the local area of holidays - also lookup tudor links  @offline
 (E) Badger kat about yvonnes thing 
 (E) Do a recruitment post for influencers
 (E) Review Java keywords 
 (E) Review circle line
 (E) Review periodic table again 
 (E) lookup air filter and pollen filter for car  
-(C) Send recommended influencer to Yvonne. 
