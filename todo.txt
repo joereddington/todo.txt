@@ -12,7 +12,6 @@
 (E) 10 Book clinic date @online
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get the receipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
-(E) 10 Go thought calendar and add things to the gratitude book @online @kids
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 10 Look into Google Ads again  @online
 (E) 10 Sleep brainstorm  @offline 
