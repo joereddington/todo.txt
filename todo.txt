@@ -3,10 +3,8 @@
 (C) 20 Gratitude blog post @offline
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (C) 60 Make sure the current version of casper is under version control and it's entirely separate from the older version
-(C) Book paw patrol at cineworld @online
 (D) 20 Process the rest of the mgit status alerts @online
 (E) 04 Produce the Joka reconciliation  @online
-(E) 05 Floss +Health    @offline @up
 (E) 05 Properly look at the bedroom cupboards and decide about wedges @offline @up
 (E) 05 Publicly thank someone +Overhead  
 (E) 10 Book clinic date @online
