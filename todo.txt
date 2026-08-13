@@ -7,7 +7,6 @@
 (E) 10 Get the recipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 10 Look into Google Ads again  @online
-(E) 10 Sleep brainstorm  @offline 
 (E) 15 Make videos for Leo talking practice  @online  
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online @kids 
@@ -19,3 +18,4 @@
 (E) Review periodic table again 
 (E) Look at Annual Review for ISG 
 (E) Clipboard/universial capture with kids 
+(E) Move Mum Money 
