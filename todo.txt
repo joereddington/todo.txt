@@ -6,7 +6,6 @@
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (D) 20 Process the rest of the mgit status alerts @online
 (E) 04 Produce the Joka reconciliation  @online
-(E) 05 Properly look at the bedroom cupboards and decide about wedges @offline @up
 (E) 05 Publicly thank someone +Overhead  
 (E) 10 Book clinic date @online
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
