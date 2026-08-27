@@ -10223,3 +10223,4 @@ x 2026-08-13 Buy the waterbottle equipment
 x 2026-08-13 Buy the innertubes and so on
 x 2026-08-13 05 Publicly thank someone +Overhead  
 x 2026-08-13 10 Sleep brainstorm  @offline 
+x 2026-08-27 30 Read rest of book about the local area of holidays - also lookup tudor links  @offline

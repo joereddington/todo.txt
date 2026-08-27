@@ -12,7 +12,6 @@
 (E) 15 Make videos for Leo talking practice  @online  
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online @kids 
-(E) 30 Read rest of book about the local area of holidays - also lookup tudor links  @offline
 (E) Badger kat about yvonnes thing 
 (E) Do a recruitment post for influencers
 (E) Review Java keywords 
@@ -23,3 +22,4 @@
 (E) Do the confirmation statement
 (E) Clipboard/universial capture with kids 
 (E) 05 Move Mum Money  @phone
+(E) Get an audiobook going and lookup book about bedfordshire
