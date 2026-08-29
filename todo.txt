@@ -15,4 +15,3 @@
 (E) Lookup what the rules are with the NSS
 (E) Review Java keywords 
 (E) Review circle line
-(E) Review periodic table again 

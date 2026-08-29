@@ -10231,3 +10231,4 @@ x 2026-08-27 look at ISG modules in the annual review
 x 2026-08-27 20 Find food book
 x 2026-08-27 10 Get the recipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
 x 2026-08-27 15 Make videos for Leo talking practice  @online  
+x 2026-08-29 Review periodic table again 
