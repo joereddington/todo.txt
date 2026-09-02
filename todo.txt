@@ -15,3 +15,10 @@
 (E) Lookup what the rules are with the NSS
 (E) Review Java keywords 
 (E) Review circle line
+(E) Try Rasberry pi with keyboard. 
+(E) Get a little box to put the rasberry pi in 
+(E) Fix online signature for RHUL 
+(E) Update the email days for RHUL 
+(E) Add the batman and monstrous regiment books to the list
+(E) Book in next date to go and see mum and dad
+(E) Adjust the internet blocks so that the windows machine is online
