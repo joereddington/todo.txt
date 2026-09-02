@@ -27,3 +27,4 @@
 (E) New Bike project 
 (E) Work out the one (1) place for Casper notes
 (C) Move foward on the annual report 
+(E) Book estate agent 
