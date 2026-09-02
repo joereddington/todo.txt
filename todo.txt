@@ -10,7 +10,7 @@
 (E) 10 Look into Google Ads again  @online
 (E) 20 Brainstorm on the missing long term plans  
 (E) 20 Order wood from B&Q  @online @kids 
-(E) Clipboard/universial capture with kids 
+(E) Clipboard/universal capture with kids 
 (E) Do the confirmation statement
 (E) Lookup what the rules are with the NSS
 (E) Review Java keywords 
@@ -22,3 +22,7 @@
 (E) Add the batman and monstrous regiment books to the list
 (E) Book in next date to go and see mum and dad
 (E) Adjust the internet blocks so that the windows machine is online
+(E) Put the slime in the bike wheels. 
+(E) Get bike lubricant, chain gauge, and degreaser 
+(E) New Bike project 
+(E) Work out the one (1) place for Casper notes
