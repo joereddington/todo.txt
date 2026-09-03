@@ -10244,3 +10244,4 @@ x 2026-09-03 04 Add the batman and monstrous regiment books to the list @online
 x 2026-09-03 03 Put a soldaring iron thing in ongoing
 x 2026-09-03 04 Calednar event for spring: buy a new bike and a new outdoor 
 x 2026-09-03 04 Fix online signature for RHUL  @online
+x 2026-09-03 10 buy bike lubricant, chain gauge, and degreaser  @online
