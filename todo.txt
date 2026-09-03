@@ -1,5 +1,4 @@
 (E) Review circle line @online
-(E) Review Java keywords  @online
 (E) 20 Order wood from B&Q  @online @kids 
 (E) 10 Look into Google Ads again  @online
 (E) 10 Go through the proper maths of the friendship paradox  @online
@@ -9,12 +8,9 @@
 (C) 10 lookup the next action on the "Annual Report" on the wiki.  @online
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (D) 20 Process the rest of the mgit status alerts @offline
-(E) 05 Move Mum Money  @phone
 (E) 05 Work out the one (1) place for Casper notes
-(E) 10 Book estate agent  open ongoign thing about an estate agent 
 (E) 10 Get a little box to put the rasberry pi in  @offline
 (E) 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that
-(E) 20 Brainstorm on the missing long term plans   @offline
 (E) 20 Put the slime in the bike wheels.  @offline @podcast
 (E) Clipboard/universal capture with kids - with post-it notes
 (E) 04 Put dates on the sticky notes 

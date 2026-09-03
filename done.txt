@@ -10247,3 +10247,7 @@ x 2026-09-03 04 Fix online signature for RHUL  @online
 x 2026-09-03 10 buy bike lubricant, chain gauge, and degreaser  @online
 x 2026-09-03 10 Download the PHD examination documents into the right folder @online
 x 2026-09-03 15 Blog something.  @offline
+x 2026-09-03 05 Move Mum Money  @phone
+x 2026-09-03 10 Book estate agent  open ongoign thing about an estate agent 
+x 2026-09-03 20 Brainstorm on the missing long term plans   @offline
+x 2026-09-03 Review Java keywords  @online
