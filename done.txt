@@ -10246,3 +10246,4 @@ x 2026-09-03 04 Calednar event for spring: buy a new bike and a new outdoor
 x 2026-09-03 04 Fix online signature for RHUL  @online
 x 2026-09-03 10 buy bike lubricant, chain gauge, and degreaser  @online
 x 2026-09-03 10 Download the PHD examination documents into the right folder @online
+x 2026-09-03 15 Blog something.  @offline

@@ -14,10 +14,9 @@
 (E) 10 Book estate agent  open ongoign thing about an estate agent 
 (E) 10 Get a little box to put the rasberry pi in  @offline
 (E) 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that
-(E) 15 Blog something.  @offline
 (E) 20 Brainstorm on the missing long term plans   @offline
 (E) 20 Put the slime in the bike wheels.  @offline @podcast
 (E) Clipboard/universal capture with kids - with post-it notes
-(E) Put dates on the sticky notes 
-(E) Start annual accounts
-(E) Add data to phone 
+(E) 04 Put dates on the sticky notes 
+(E) 10 Start annual accounts
+(E) 05 Add data to phone 
