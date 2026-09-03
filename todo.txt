@@ -4,10 +4,9 @@
 (E) 10 Look into Google Ads again  @online
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 04 Produce the Joka reconciliation  @online 
-(A) 10 Download the PHD examination documents into the right folder @online
-(B) 20 Spend 20 minutes putting the soldaring iron stuff together
+(B) 20 Spend 20 minutes putting the soldaring iron stuff together @offline
 (B) 30 Do the probation forms @Offline
-(C) 10 lookup the next action on the "Annual Report" on the wiki. 
+(C) 10 lookup the next action on the "Annual Report" on the wiki.  @online
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
 (D) 20 Process the rest of the mgit status alerts @offline
 (E) 05 Move Mum Money  @phone
@@ -21,3 +20,4 @@
 (E) Clipboard/universal capture with kids - with post-it notes
 (E) Put dates on the sticky notes 
 (E) Start annual accounts
+(E) Add data to phone 
