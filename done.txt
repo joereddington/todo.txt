@@ -10236,3 +10236,6 @@ x 2026-09-03 05 Update Leo calendar @kids
 x 2026-09-03 Lookup what the rules are with the NSS
 x 2026-09-03 Try Rasberry pi with keyboard. 
 x 2026-09-03 Adjust the internet blocks so that the windows machine is online
+x 2026-09-03 Message Book in next date to go and see mum and dad
+x 2026-09-03 Do the confirmation statement @online
+x 2026-09-03 New Bike project 
