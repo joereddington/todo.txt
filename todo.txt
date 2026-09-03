@@ -77,3 +77,5 @@
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) process Garage inbox. 
+(E) Follow up on lightsail cost analais  @chat
+(E) Brainstorm on Car 
