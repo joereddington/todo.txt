@@ -26,3 +26,4 @@
 (E) Review circle line @online
 (E) Put dates on the sticky notes 
 (E) Get the number of project students and send out to everybody. 
+(E) Start annual accounts
