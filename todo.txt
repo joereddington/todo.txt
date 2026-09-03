@@ -1,29 +1,25 @@
-(A) Download the PHD examination documents into the right folder
-(B) Do the probation forms
+(A) Download the PHD examination documents into the right folder @online
+(B) Do the probation forms @Offline
 (B) Get soldaring iron working  @offline 
-(C) 05 Update Leo calendar @kids
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
-(D) 20 Process the rest of the mgit status alerts @online
-(E) 04 Produce the Joka reconciliation  @online
+(D) 20 Process the rest of the mgit status alerts @offline
+(E) 04 Produce the Joka reconciliation  @online 
 (E) 05 Move Mum Money  @phone
 (E) 10 Go through the proper maths of the friendship paradox  @online
 (E) 10 Look into Google Ads again  @online
-(E) 20 Brainstorm on the missing long term plans  
+(E) 20 Brainstorm on the missing long term plans   @offline
 (E) 20 Order wood from B&Q  @online @kids 
 (E) Clipboard/universal capture with kids 
-(E) Do the confirmation statement
-(E) Lookup what the rules are with the NSS
-(E) Review Java keywords 
-(E) Review circle line
-(E) Try Rasberry pi with keyboard. 
+(E) Do the confirmation statement @online
+(E) Review Java keywords  @online
+(E) Review circle line @online
 (E) Get a little box to put the rasberry pi in 
-(E) Fix online signature for RHUL 
-(E) Update the email days for RHUL 
+(E) Fix online signature for RHUL  @online
+(E) Update the email days for RHUL @online
 (E) Add the batman and monstrous regiment books to the list
 (E) Book in next date to go and see mum and dad
-(E) Adjust the internet blocks so that the windows machine is online
 (E) Put the slime in the bike wheels. 
-(E) Get bike lubricant, chain gauge, and degreaser 
+(E) Get bike lubricant, chain gauge, and degreaser  @online
 (E) New Bike project 
 (E) Work out the one (1) place for Casper notes
 (C) Move foward on the annual report 

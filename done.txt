@@ -10232,3 +10232,7 @@ x 2026-08-27 20 Find food book
 x 2026-08-27 10 Get the recipe book and make a list of the things you would change for 'Reddington Recipes 2.0'  @offline @up
 x 2026-08-27 15 Make videos for Leo talking practice  @online  
 x 2026-08-29 Review periodic table again 
+x 2026-09-03 05 Update Leo calendar @kids
+x 2026-09-03 Lookup what the rules are with the NSS
+x 2026-09-03 Try Rasberry pi with keyboard. 
+x 2026-09-03 Adjust the internet blocks so that the windows machine is online
