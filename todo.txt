@@ -10,54 +10,35 @@
 (D) Gratitude blog post
 (D) Review RHUL projects
 (D) Review Wheel Of life Projects
-(C) Review projects
+(D) Review projects
 (D) Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (E) Update Leo calendar
 (E) 20 Process the rest of the mgit status alerts @offline
-(E) Check starred messages in kat whatsapp 
-(E) Do full accounts algorithm  
-(E) 04 Produce the Joka reconciliation  @online 
+(C) Do full accounts algorithm  
+(C) 04 Produce the Joka reconciliation  @online 
 (E) 04 Put dates on the sticky notes 
-(E) 05 Add data to phone 
 (E) 05 Work out the one (1) place for Casper notes
 (E) 10 Get a little box to put the rasberry pi in  @offline
-(E) 10 Go through the proper maths of the friendship paradox  @online
-(E) 10 Look into Google Ads again  @online
-(E) 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that
-(E) 10 Start annual accounts
-(E) 20 Order wood from B&Q  @online @kids 
-(E) 20 Put the slime in the bike wheels.  @offline @podcast
-(E) Any Chocolate should be in the car or outside fridge (assuming winter)  
-(E) Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
-(E) Backup AWS +EQT
-(E) Check Passports are in the safe
-(E) Check ranking scripts +Overhead
-(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-(E) Check wishlist
+(D) 10 Go through the proper maths of the friendship paradox  @online
+(C) 10 Look into Google Ads again  @online
+(E) 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that(needs timetables) 
+(B) 10 Start annual accounts for EQT
+(B) 20 Order wood from B&Q  @online @kids 
+(D) 20 Put the slime in the bike wheels.  @offline @podcast
+(E) 03 Check Passports are in the safe
 (E) Clipboard/universal capture with kids - with post-it notes
-(E) Confirm plans for next two weekends.+Overhead @phone   
-(E) Cut Nova and Leo nails +Health    
-(E) Cut nails +Health    
-(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
-(E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Let Kat know my stress chart 
-(E) Listen to  Randy Pausch Talk +Overhead @phone  
-(E) Log weight +Health   
 (E) Publicly thank someone +Overhead  
-(E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
-(E) Review Menu speadsheet for the week +Family  @phone   
-(E) Review circle line @online
+(E) Lookup Circle line 
+(E) Use Robin to make a meal plan for the week 
 (E) Review starred items in feeds +Overhead 
-(E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
-(E) Save a nice family memory +Family @phone    
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) process Garage inbox. 
-(E) Follow up on lightsail cost analais  @chat
-(E) Brainstorm on Car 
-(E) Write the introductory lecture for the students 
+(D) Follow up on lightsail cost analais  @chat
+(C) Brainstorm on Car 
+(C) Write the introductory lecture for the students 
