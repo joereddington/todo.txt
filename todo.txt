@@ -63,3 +63,4 @@
 (E) process Garage inbox. 
 (E) Follow up on lightsail cost analais  @chat
 (E) Brainstorm on Car 
+(E) Write the introductory lecture for the students 
