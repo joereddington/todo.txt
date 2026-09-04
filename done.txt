@@ -10251,3 +10251,18 @@ x 2026-09-03 05 Move Mum Money  @phone
 x 2026-09-03 10 Book estate agent  open ongoign thing about an estate agent 
 x 2026-09-03 20 Brainstorm on the missing long term plans   @offline
 x 2026-09-03 Review Java keywords  @online
+x 2026-09-04 Make sure you have a continual professional development practice happening  
+x 2026-09-04 Run the ICO backup code
+x 2026-09-04 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+x 2026-09-04 Go through phone and save all of the numbers +Overhead  @phone   
+x 2026-09-04 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-09-04 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-09-04 deploy any commits from OVF that are hanging around. 
+x 2026-09-04 Clean out Fridge
+x 2026-09-04 Get Pages read to the next 1000 pages
+x 2026-09-04 Sync the photoshop directroy
+x 2026-09-04 Run multi-git-status on both aws servers to make sure all code is uploaded.  
+x 2026-09-04 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-09-04 Check that IMPS will run locally and that it can sync up.  
+x 2026-09-04 Check your vitimin box
+x 2026-09-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
