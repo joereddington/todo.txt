@@ -10294,3 +10294,4 @@ x 2026-09-04 Delete and then assess task priorities (look at http://127.0.0.1:40
 x 2026-09-04 10 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 x 2026-09-04 Publicly thank someone +Overhead  
 x 2026-09-04 10 process Garage inbox. 
+x 2026-09-04 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that(needs timetables) 

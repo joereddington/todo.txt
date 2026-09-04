@@ -3,9 +3,9 @@
 (B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
 (B) 20 Order wood from B&Q  @online @kids 
 (C) 04 Produce the Joka reconciliation  @online 
-(C) 10 Fill out Gratitude Book 
+(C) 10 Fill out Gratitude Book  @clipboard
 (C) 10 Look into Google Ads again  @online
-(C) 15 Brainstorm on Car 
+(C) 15 Brainstorm on Car  @clipboard
 (C) 20 Do full accounts algorithm  
 (C) 50 Write the introductory lecture for the students 
 (D) 10 Book Disneyland Leave 
@@ -16,19 +16,18 @@
 (D) 15 Review Wheel Of life Projects
 (D) 15 Review projects
 (D) 20 Follow up on lightsail cost analysis  @chat
-(D) 20 Put the slime in the bike wheels.  @offline @podcast
-(D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline
-(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline
-(E) 03 Give laptop screen a good clean +Overhead
+(D) 20 Put the slime in the bike wheels.  @offline @podcast @clipboard
+(D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline @clipboard
+(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
+(E) 03 Give laptop screen a good clean +Overhead @clipboard
 (E) 04 Put dates on the sticky notes  @clipboard
-(E) 05 Floss +Health   
-(E) 05 Update Leo calendar
+(E) 05 Floss +Health   @clipboard
+(E) 05 Update Leo calendar @clipboard
 (E) 05 Work out the one (1) place for Casper notes
-(E) 10 Brainstorm, write agenda for and put on date
-(E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Brainstorm, write agenda for meeting and put on date @clipboard
+(E) 10 Empty Joe inbox completely +Overhead  @clipboard
 (E) 10 Get a little box to put the rasberry pi in  @offline
-(E) 10 Lookup Circle line 
-(E) 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that(needs timetables) 
+(E) 10 Lookup Circle line  @phone
 (E) 10 Review starred items in feeds +Overhead  @phone
 (E) 10 Use Robin to make a meal plan for the week 
 (E) 15 Clipboard/universal capture with kids - with post-it notes
