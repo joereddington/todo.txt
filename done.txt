@@ -10266,3 +10266,4 @@ x 2026-09-04 Check you have ingredients for three levels of basic food - salad -
 x 2026-09-04 Check that IMPS will run locally and that it can sync up.  
 x 2026-09-04 Check your vitimin box
 x 2026-09-04 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2026-09-04 Post to Vegan Facebook group  @phone   

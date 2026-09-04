@@ -1,4 +1,4 @@
-(A) Check reminders and notebooks  @singleton +PlanningAndTracking  
+(A) Check and notebooks  
 (A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Fill out Gratitude Book 
 (A) process emotional todo list. 
@@ -51,7 +51,6 @@
 (E) Let Kat know my stress chart 
 (E) Listen to  Randy Pausch Talk +Overhead @phone  
 (E) Log weight +Health   
-(E) Post to Vegan Facebook group  @phone   
 (E) Publicly thank someone +Overhead  
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review Menu speadsheet for the week +Family  @phone   
