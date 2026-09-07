@@ -1,5 +1,5 @@
 (E) Measure the garage so that you know how much wood you are ordering  @offline
-oE) Try the vegatables in the air fryer again. Measure oil and weight  @offline
+(E) Try the vegatables in the air fryer again. Measure oil and weight  @offline
 (E) 20 Write an action of each of the alerts on mgit status @offline
 (E) 15 process emotional todo list.  @offline
 (E) 04 Pin up timetables and notes on the walls  @offline 
