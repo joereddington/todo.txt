@@ -4,7 +4,6 @@
 (B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
 (B) 20 Order wood from B&Q  @online @kids 
 (B) Follow up with Doctors
-(C) 04 Produce the Joka reconciliation  @online 
 (C) 10 Fill out Gratitude Book  @clipboard
 (C) Sort out bank account for Nova  @online
 (C) Work out another 'one day email' week  @offline
@@ -21,7 +20,7 @@
 (E) 04 Put dates on the sticky notes  @clipboard
 (E) 05 Floss +Health   @clipboard
 (E) 05 Move all the casper notes into the project.  
-(E) 05 Update Leo calendar @clipboard
+(E) 05 Update Leo calendar with them @clipboard @kids
 (E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
 (E) 10 Empty Joe inbox completely +Overhead  @clipboard
 (E) 10 Lookup Circle line  @phone
@@ -33,7 +32,8 @@
 (E) Get CASPER tests working for on server  @online 
 (E) Get a pdf of the Feynman lectures for tablet and phone 
 (E) Measure the garage so that you know how much wood you are ordering  @offline
-(E) Put all the relevent documents into the 'leo education' folder @online 
+(E) Put all the relevant documents into the 'leo education' folder @online 
+(E) open up adds in Chrome and follow th instructions 
 (E) Review the car costs spreadsheet @online
 (E) Set alexa alarm for leaving for both parkruns 
 (E) Sort out which of the CASPER repos is which 
