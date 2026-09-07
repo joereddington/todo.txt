@@ -1,43 +1,42 @@
-(E) Measure the garage so that you know how much wood you are ordering  @offline
-(E) Try the vegatables in the air fryer again. Measure oil and weight  @offline
-(E) 20 Write an action of each of the alerts on mgit status @offline
-(E) 15 process emotional todo list.  @offline
-(E) 04 Pin up timetables and notes on the walls  @offline 
-(D) 15 Review Wheel Of life Projec @offline
-(D) 15 Review RHUL project @offline
-(C) Work out another 'one day email' week  @offline
+(A) 20 Call up and book disneyland holiday 
 (A) 30 Do the probation forms @Offline
-(D) 20 Put the slime in the bike wheels.  @offline @podcast @clipboard
-(D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline @clipboard
-(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
-(E) 15 Clipboard/universal capture with kids - with post-it notes @offline
-(E) 10 Empty Joe inbox completely +Overhead  @clipboard
-(E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
-(E) 05 Update Leo calendar @clipboard
-(E) 05 Floss +Health   @clipboard
-(E) 04 Put dates on the sticky notes  @clipboard
-(E) 03 Give laptop screen a good clean +Overhead @clipboard
-(C) 10 Fill out Gratitude Book  @clipboard
-(A) 10 Book Kat's velodrome thing  @online
-(C) Sort out bank account for Nova  @online
 (B) 10 Start annual accounts for EQT
 (B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
-(A) 20 Call up and book disneyland holiday 
 (B) 20 Order wood from B&Q  @online @kids 
 (B) Follow up with Doctors
 (C) 04 Produce the Joka reconciliation  @online 
+(C) 10 Fill out Gratitude Book  @clipboard
 (C) 10 Look into Google Ads again  @online
 (C) 20 Do full accounts algorithm  
+(C) Sort out bank account for Nova  @online
+(C) Work out another 'one day email' week  @offline
 (D) 10 Book Disneyland Leave 
 (D) 15 Gratitude blog post
+(D) 15 Review RHUL project @offline
+(D) 15 Review Wheel Of life Projec @offline
 (D) 20 Follow up on lightsail cost analysis  @chat
+(D) 20 Put the slime in the bike wheels.  @offline @podcast @clipboard
+(D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline @clipboard
+(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
+(E) 03 Give laptop screen a good clean +Overhead @clipboard
+(E) 04 Pin up timetables and notes on the walls  @offline 
+(E) 04 Put dates on the sticky notes  @clipboard
+(E) 05 Floss +Health   @clipboard
 (E) 05 Move all the casper notes into the project.  
+(E) 05 Update Leo calendar @clipboard
+(E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
+(E) 10 Empty Joe inbox completely +Overhead  @clipboard
 (E) 10 Lookup Circle line  @phone
+(E) 15 Clipboard/universal capture with kids - with post-it notes @offline
 (E) 15 Learn something new about vim @phone
+(E) 15 process emotional todo list.  @offline
+(E) 20 Write an action of each of the alerts on mgit status @offline
 (E) Get CASPER one-line deploy working.  @online 
 (E) Get CASPER tests working for on server  @online 
 (E) Get a pdf of the Feynman lectures for tablet and phone 
+(E) Measure the garage so that you know how much wood you are ordering  @offline
 (E) Put all the relevent documents into the 'leo education' folder @online 
 (E) Review the car costs spreadsheet @online
 (E) Set alexa alarm for leaving for both parkruns 
 (E) Sort out which of the CASPER repos is which 
+(E) Try the vegatables in the air fryer again. Measure oil and weight  @offline

@@ -10305,3 +10305,4 @@ x 2026-09-07 Open spring timetable and compare commitments with holiday dates
 x 2026-09-07 Put a thousand ships on libby (also the accidental billionaries) 
 x 2026-09-07 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 x 2026-09-07 15 Brainstorm on Car  @clipboard
+x 2026-09-07 10 Book Kat's velodrome thing  @online
