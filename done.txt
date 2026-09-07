@@ -10309,3 +10309,6 @@ x 2026-09-07 10 Book Kat's velodrome thing  @online
 x 2026-09-07 10 Look into Google Ads again  @online
 x 2026-09-07 20 Do full accounts algorithm  
 x 2026-09-07 04 Produce the Joka reconciliation  @online 
+x 2026-09-07 10 Book Disneyland Leave 
+x 2026-09-07 04 Pin up timetables and notes on the walls  @offline 
+x 2026-09-07 04 Put dates on the sticky notes  @clipboard
