@@ -10295,3 +10295,7 @@ x 2026-09-04 10 Go thought calendar and find at least one 'thank you's  you *can
 x 2026-09-04 Publicly thank someone +Overhead  
 x 2026-09-04 10 process Garage inbox. 
 x 2026-09-04 10 Properly write down when your OOO days for for RHUL next term - I suspect the CASPER project will be part of that(needs timetables) 
+x 2026-09-06 50 Write the introductory lecture for the students 
+x 2026-09-06 10 Use Robin to make a meal plan for the week 
+x 2026-09-06 15 Review projects
+x 2026-09-06 10 Get a little box to put the rasberry pi in  @offline

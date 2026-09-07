@@ -1,37 +1,49 @@
+(A) Book Kat's velodrome thing 
+(C) Sort out bank account for Nova 
 (A) 30 Do the probation forms @Offline
+(A) Open spring timetable and compare commitments with holiday dates
 (B) 10 Start annual accounts for EQT
 (B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
+(A) Call up and book disneyland holiday 
 (B) 20 Order wood from B&Q  @online @kids 
+(B) Follow up with Doctors
 (C) 04 Produce the Joka reconciliation  @online 
 (C) 10 Fill out Gratitude Book  @clipboard
 (C) 10 Look into Google Ads again  @online
 (C) 15 Brainstorm on Car  @clipboard
 (C) 20 Do full accounts algorithm  
-(C) 50 Write the introductory lecture for the students 
+(C) Work out another 'one day email' week  @offline
 (D) 10 Book Disneyland Leave 
-(D) 10 Go through the proper maths of the friendship paradox  @online
+x 2026-09-07 10 Go through the proper maths of the friendship paradox  @online
+(E) Put a thousand ships on libby (also the accidental billionaries) 
 (D) 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
 (D) 15 Gratitude blog post
-(D) 15 Review RHUL projects
-(D) 15 Review Wheel Of life Projects
-(D) 15 Review projects
+(D) 15 Review RHUL project @offline
+(D) 15 Review Wheel Of life Projec @offline
 (D) 20 Follow up on lightsail cost analysis  @chat
 (D) 20 Put the slime in the bike wheels.  @offline @podcast @clipboard
 (D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one @offline @clipboard
 (D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
 (E) 03 Give laptop screen a good clean +Overhead @clipboard
+(E) 04 Pin up timetables and notes on the walls  @offline 
 (E) 04 Put dates on the sticky notes  @clipboard
 (E) 05 Floss +Health   @clipboard
+(E) 05 Move all the casper notes into the project.  
 (E) 05 Update Leo calendar @clipboard
-(E) 05 Work out the one (1) place for Casper notes
-(E) 10 Brainstorm, write agenda for meeting and put on date @clipboard
+(E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
 (E) 10 Empty Joe inbox completely +Overhead  @clipboard
-(E) 10 Get a little box to put the rasberry pi in  @offline
 (E) 10 Lookup Circle line  @phone
 (E) 10 Review starred items in feeds +Overhead  @phone
-(E) 10 Use Robin to make a meal plan for the week 
 (E) 15 Clipboard/universal capture with kids - with post-it notes
 (E) 15 Learn something new about vim @phone
-(E) 20 Process the rest of the mgit status alerts @offline
-(E) 15 process emotional todo list. 
-(E) 04 Pin up timetables and notes on the walls 
+(E) 15 process emotional todo list.  @offline
+(E) 20 Write an action of each of the alerts on mgit status
+(E) Get CASPER one-line deploy working. 
+(E) Get CASPER tests working for on server 
+(E) Get a pdf of the Feynman lectures for tablet and phone 
+(E) Put all the relevent documents into the 'leo education' folder
+(E) Review the car costs spreadsheet @online
+(E) Set alexa alarm for leaving for both parkruns 
+(E) Sort out which of the CASPER repos is which 
+oE) Try the vegatables in the air fryer again. Measure oil and weight 
+(E) Measure the garage so that you know how much wood you are ordering 
