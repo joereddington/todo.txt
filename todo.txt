@@ -6,7 +6,6 @@
 (B) Follow up with Doctors
 (C) 04 Produce the Joka reconciliation  @online 
 (C) 10 Fill out Gratitude Book  @clipboard
-(C) 20 Do full accounts algorithm  
 (C) Sort out bank account for Nova  @online
 (C) Work out another 'one day email' week  @offline
 (D) 10 Book Disneyland Leave 

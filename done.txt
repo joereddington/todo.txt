@@ -10307,3 +10307,4 @@ x 2026-09-07 10 Run the OBZ archive command and save to an external drive.  +EQT
 x 2026-09-07 15 Brainstorm on Car  @clipboard
 x 2026-09-07 10 Book Kat's velodrome thing  @online
 x 2026-09-07 10 Look into Google Ads again  @online
+x 2026-09-07 20 Do full accounts algorithm  
