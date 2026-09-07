@@ -10299,3 +10299,8 @@ x 2026-09-06 50 Write the introductory lecture for the students
 x 2026-09-06 10 Use Robin to make a meal plan for the week 
 x 2026-09-06 15 Review projects
 x 2026-09-06 10 Get a little box to put the rasberry pi in  @offline
+x 2026-09-07 10 Go through the proper maths of the friendship paradox  @online
+x 2026-09-07 10 Review starred items in feeds +Overhead  @phone
+x 2026-09-07 Open spring timetable and compare commitments with holiday dates
+x 2026-09-07 Put a thousand ships on libby (also the accidental billionaries) 
+x 2026-09-07 10 Run the OBZ archive command and save to an external drive.  +EQT (details at 12/12/22) 
