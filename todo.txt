@@ -10,11 +10,10 @@
 (D) 15 Review RHUL project @offline
 (D) 15 Review Wheel Of life Project @offline
 (D) 20 Follow up on lightsail cost analysis  @chat
-(D) 20 Put the slime in the bike wheels.  @offline @podcast @clipboard
 (D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
 (E) 03 Give laptop screen a good clean +Overhead @clipboard
 (E) 05 Floss +Health   @clipboard
-(E) 05 Move all the casper notes into the project.  
+(E) 05 Move all the CASPER notes into the project.  
 (E) 05 Update Leo calendar with them @clipboard @kids
 (E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
 (E) 10 Empty Joe inbox completely +Overhead  @clipboard
