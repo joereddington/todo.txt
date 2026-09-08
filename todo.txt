@@ -21,6 +21,7 @@
 (E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
 (E) 10 Empty Joe inbox completely +Overhead  @clipboard
 (E) 10 Lookup Circle line  @phone (36 stations) 
+(E) Review all the project real site materials 
 (E) 15 Clipboard/universal capture with kids - with post-it notes @offline
 (E) 15 Learn something new about vim @phone
 (E) 15 process emotional todo list.  @offline
