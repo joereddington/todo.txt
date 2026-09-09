@@ -7,9 +7,7 @@
 (C) 10 Brainstorm email days @offline
 (D) 15 Gratitude blog post @offline
 (D) 20 Follow up on lightsail cost analysis  @chat @online
-(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline 
 (E) 03 Shorts should have a zip pocket @online
-(E) 04 Look up suitable climbing while on campus  @online
 (E) 05 Update Leo calendar with them  @kids
 (E) 10 Brainstorm gratitude book and early meals @online
 (E) 10 Work through Circle line  @offline (36 stations) 
@@ -26,3 +24,5 @@
 (E) Sort out which of the CASPER repos is which  @online
 (E) Watch some developement videos  @online
 (E) open up ads in Chrome and follow the instructions  @online
+(E) Try the soldering of the motor 
+(E) See how you 
