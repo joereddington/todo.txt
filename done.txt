@@ -10327,3 +10327,6 @@ x 2026-09-09 05 Move all the CASPER notes into the project.   @offline
 x 2026-09-09 10 Brainstorm, write agenda for family meeting and put on date  @offline
 x 2026-09-09 10 Fill out Gratitude Book   @offline
 x 2026-09-09 10 Empty Joe inbox completely +Overhead   @offline
+x (E) 05 Floss +Health    @offline
+x 2026-09-09 10 Set up the fast lightning charger and see what is going on with the ipads  @offline
+x 2026-09-09 Follow up with Doctors @phone

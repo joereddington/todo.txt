@@ -1,36 +1,33 @@
-(E) 05 Floss +Health    @offline
-(E) 10 Set up the fast lightning charger and see what is going on with the ipads  @offline
+(A) 20 Call up and book disneyland holiday @online
+(A) 60 Do the TA thing  @online
+(A) 50 Go over the handbook document again @online
+(A) 30 create application shortlist spreadsheet for Yvonne  @online
+(A) Write the PHD report  @online
+(B) 10 Start annual accounts for EQT @online (open document, create files) 
+(C) 10 Brainstorm email days @offline
+(C) 10 Sort out bank account for Nova  @online @phone
+(D) 15 Gratitude blog post @offline
+(D) 20 Follow up on lightsail cost analysis  @chat @online
+(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline 
+(E) 03 Shorts should have a zip pocket @online
+(E) 05 Update Leo calendar with them  @kids
 (E) 10 Work through Circle line  @offline (36 stations) 
 (E) 15 Clipboard/universal capture with @kids - with post-it notes 
-(D) 15 Gratitude blog post @offline
 (E) 15 process emotional todo list.  @offline
-(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline 
 (E) 20 Try the vegetables in the air fryer again. Measure oil and weight  @offline
 (E) 20 Write an action of each of the alerts on mgit status @offline
-(C) Brainstorm email days @offline
-(B) Follow up with Doctors @phone
-(E) 05 Update Leo calendar with them  @kids
-(E) Check if Glasgow paid  @online
-(E) open up ads in Chrome and follow the instructions  @online
-(E) Set Alexa alarm for leaving for both parkruns  @phone
-(E) Sort out which of the CASPER repos is which  @online
-(E) Fmessage about genAI  @phone
-(E) Watch some developement videos  @online
-(E) Review Bob for Cyber Clip  @online
 (E) Add the ability to put +3 into the stress chat @online
 (E) Brainstorm gratitude book and early meals @online
-(E) Look up suitable climbing while on campus  @online
-(A) Do the TA thing  @online
-(A) Write the PHD report  @online
-(A) Shortlist for Yvonne  @online
-(A) 20 Call up and book disneyland holiday @online
-(A) Go over the handbook document again @online
-(B) 10 Start annual accounts for EQT @online
-(C) Sort out bank account for Nova  @online @phone
-(D) 20 Follow up on lightsail cost analysis  @chat @online
-(E) Review all the project real site materials  @online
+(E) Check if Glasgow paid  @online
+(E) Fmessage about genAI  @phone
 (E) Get CASPER one-line deploy working.  @online 
 (E) Get CASPER tests working for on server  @online 
+(E) Look up suitable climbing while on campus  @online
 (E) Put all the relevant documents into the 'leo education' folder @online 
+(E) Review Bob for Cyber Clip  @online
+(E) Review all the project real site materials  @online
 (E) Review the car costs spreadsheet @online
-(E) 03 Shorts should have a zip pocket @online
+(E) Set Alexa alarm for leaving for both parkruns  @phone
+(E) Sort out which of the CASPER repos is which  @online
+(E) Watch some developement videos  @online
+(E) open up ads in Chrome and follow the instructions  @online
