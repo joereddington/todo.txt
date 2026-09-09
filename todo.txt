@@ -22,7 +22,6 @@
 (E) Review all the project real site materials  @online
 (E) Review the car costs spreadsheet @online
 (E) Sort out which of the CASPER repos is which  @online
-(E) Watch some developement videos  @online
+(E) Watch the rest of the development videos  @online
 (E) open up ads in Chrome and follow the instructions  @online
-(E) Try the soldering of the motor 
-(E) See how you 
+(E) Try the soldering of the blind
