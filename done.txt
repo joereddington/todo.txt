@@ -10321,3 +10321,5 @@ x 2026-09-08 15 Learn something new about vim @phone
 x 2026-09-09 15 Review RHUL project @offline
 x 2026-09-09 15 Review heel Of life Project @offline
 x 2026-09-09 10 lookup the next action on the "Annual Report" on the wiki.  @online
+x 2026-09-09 03 Give laptop screen a good clean +Overhead  @offline
+x 2026-09-09 10 Measure the garage so that you know how much wood you are ordering  @offline
