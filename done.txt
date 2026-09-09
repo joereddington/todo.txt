@@ -10320,3 +10320,4 @@ x 2026-09-08 Get a pdf of the Feynman lectures for tablet and phone
 x 2026-09-08 15 Learn something new about vim @phone
 x 2026-09-09 15 Review RHUL project @offline
 x 2026-09-09 15 Review heel Of life Project @offline
+x 2026-09-09 10 lookup the next action on the "Annual Report" on the wiki.  @online

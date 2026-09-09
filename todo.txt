@@ -1,43 +1,42 @@
-(A) Do the TA thing 
-(A) Write the PHD report 
-(A) Shortlist for Yvonne 
-(A) 20 Call up and book disneyland holiday 
-(A) Go over the handbook document again
-(B) 10 Start annual accounts for EQT
-(B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
-(B) Follow up with Doctors
-(C) 10 Fill out Gratitude Book  @clipboard
-(C) Sort out bank account for Nova  @online
-(C) Work out another 'one day email' week  @offline
-(D) 15 Gratitude blog post
-(D) 20 Follow up on lightsail cost analysis  @chat
-(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
-(E) 03 Give laptop screen a good clean +Overhead @clipboard
-(E) 05 Floss +Health   @clipboard
-(E) 05 Move all the CASPER notes into the project.  
-(E) 05 Update Leo calendar with them @clipboard @kids
-(E) 10 Brainstorm, write agenda for family meeting and put on date @clipboard
-(E) 10 Empty Joe inbox completely +Overhead  @clipboard
-(E) 10 Lookup Circle line  @phone (36 stations) 
-(E) Review all the project real site materials 
-(E) 15 Clipboard/universal capture with kids - with post-it notes @offline
+x 2026-09-09 03 Give laptop screen a good clean +Overhead  @offline
+(E) 05 Floss +Health    @offline
+(E) 05 Move all the CASPER notes into the project.   @offline
+(E) 10 Brainstorm, write agenda for family meeting and put on date  @offline
+(E) 10 Empty Joe inbox completely +Overhead   @offline
+(C) 10 Fill out Gratitude Book   @offline
+(E) 10 Measure the garage so that you know how much wood you are ordering  @offline
+(E) 10 Set up the fast lightning charger and see what is going on with the ipads  @offline
+(E) 10 Work through Circle line  @offline (36 stations) 
+(E) 15 Clipboard/universal capture with @kids - with post-it notes 
+(D) 15 Gratitude blog post @offline
 (E) 15 process emotional todo list.  @offline
+(D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline 
+(E) 20 Try the vegetables in the air fryer again. Measure oil and weight  @offline
 (E) 20 Write an action of each of the alerts on mgit status @offline
+(C) Brainstorm email days @offline
+(B) Follow up with Doctors @phone
+(E) 05 Update Leo calendar with them  @kids
+(E) Check if Glasgow paid  @online
+(E) open up ads in Chrome and follow the instructions  @online
+(E) Set Alexa alarm for leaving for both parkruns  @phone
+(E) Sort out which of the CASPER repos is which  @online
+(E) Fmessage about genAI  @phone
+(E) Watch some developement videos  @online
+(E) Review Bob for Cyber Clip  @online
+(E) Add the ability to put +3 into the stress chat @online
+(E) Brainstorm gratitude book and early meals @online
+(E) Look up suitable climbing while on campus  @online
+(A) Do the TA thing  @online
+(A) Write the PHD report  @online
+(A) Shortlist for Yvonne  @online
+(A) 20 Call up and book disneyland holiday @online
+(A) Go over the handbook document again @online
+(B) 10 Start annual accounts for EQT @online
+(C) Sort out bank account for Nova  @online @phone
+(D) 20 Follow up on lightsail cost analysis  @chat @online
+(E) Review all the project real site materials  @online
 (E) Get CASPER one-line deploy working.  @online 
 (E) Get CASPER tests working for on server  @online 
-(E) Check if Glasgow paid 
-(E) Measure the garage so that you know how much wood you are ordering  @offline
 (E) Put all the relevant documents into the 'leo education' folder @online 
-(E) open up ads in Chrome and follow the instructions 
 (E) Review the car costs spreadsheet @online
-(E) Set Alexa alarm for leaving for both parkruns 
-(E) Sort out which of the CASPER repos is which 
-(E) Try the vegetables in the air fryer again. Measure oil and weight  @offline
-(E) Fmessage about genAI 
-(E) Watch some developement videos 
-(E) Review Bob for Cyber Clip 
-(E) Add the ability to put +3 into the stress chat
-(E) Brainstorm gratitude book and early meals
-(E) Set up the fast lightning charger and see what is going on with the ipads 
-(E) Look up suitable climbing while on campus 
-(E) 03 Shorts should have a zip pocket
+(E) 03 Shorts should have a zip pocket @online
