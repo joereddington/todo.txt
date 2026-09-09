@@ -10333,3 +10333,5 @@ x 2026-09-09 Follow up with Doctors @phone
 x 2026-09-09 10 Sort out bank account for Nova  @online @phone
 x 2026-09-09 Set Alexa alarm for leaving for both parkruns  @phone
 x 2026-09-09 Fmessage about genAI  @phone
+x 2026-09-09 10 Check if Glasgow paid  @online
+x 2026-09-09 20 Try the vegetables in the air fryer again. Measure oil and weight  @offline
