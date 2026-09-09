@@ -2,6 +2,7 @@
 (A) Write the PHD report 
 (A) Shortlist for Yvonne 
 (A) 20 Call up and book disneyland holiday 
+(A) Go over the handbook document again
 (B) 10 Start annual accounts for EQT
 (B) 10 lookup the next action on the "Annual Report" on the wiki.  @online
 (B) Follow up with Doctors
@@ -9,8 +10,6 @@
 (C) Sort out bank account for Nova  @online
 (C) Work out another 'one day email' week  @offline
 (D) 15 Gratitude blog post
-(D) 15 Review RHUL project @offline
-(D) 15 Review Wheel Of life Project @offline
 (D) 20 Follow up on lightsail cost analysis  @chat
 (D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline @clipboard
 (E) 03 Give laptop screen a good clean +Overhead @clipboard
@@ -40,3 +39,5 @@
 (E) Add the ability to put +3 into the stress chat
 (E) Brainstorm gratitude book and early meals
 (E) Set up the fast lightning charger and see what is going on with the ipads 
+(E) Look up suitable climbing while on campus 
+(E) 03 Shorts should have a zip pocket
