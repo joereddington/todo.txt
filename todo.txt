@@ -5,7 +5,6 @@
 (A) Write the PHD report  @online
 (B) 10 Start annual accounts for EQT @online (open document, create files) 
 (C) 10 Brainstorm email days @offline
-(C) 10 Sort out bank account for Nova  @online @phone
 (D) 15 Gratitude blog post @offline
 (D) 20 Follow up on lightsail cost analysis  @chat @online
 (D) 20 Spend 20 minutes putting the soldaring iron stuff together @offline 
@@ -19,7 +18,6 @@
 (E) Add the ability to put +3 into the stress chat @online
 (E) Brainstorm gratitude book and early meals @online
 (E) Check if Glasgow paid  @online
-(E) Fmessage about genAI  @phone
 (E) Get CASPER one-line deploy working.  @online 
 (E) Get CASPER tests working for on server  @online 
 (E) Look up suitable climbing while on campus  @online
@@ -27,7 +25,6 @@
 (E) Review Bob for Cyber Clip  @online
 (E) Review all the project real site materials  @online
 (E) Review the car costs spreadsheet @online
-(E) Set Alexa alarm for leaving for both parkruns  @phone
 (E) Sort out which of the CASPER repos is which  @online
 (E) Watch some developement videos  @online
 (E) open up ads in Chrome and follow the instructions  @online
