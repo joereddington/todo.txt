@@ -15,13 +15,13 @@
 (E) 15 process emotional todo list.  @offline
 (E) 20 Try the vegetables in the air fryer again. Measure oil and weight  @offline
 (E) 20 Write an action of each of the alerts on mgit status @offline
-(E) Add the ability to put +3 into the stress chat @online
-(E) Brainstorm gratitude book and early meals @online
-(E) Check if Glasgow paid  @online
-(E) Get CASPER one-line deploy working.  @online 
-(E) Get CASPER tests working for on server  @online 
-(E) Look up suitable climbing while on campus  @online
-(E) Put all the relevant documents into the 'leo education' folder @online 
+(E) 20 Add the ability to put +3 into the stress chat @online
+(E) 10 Brainstorm gratitude book and early meals @online
+(E) 10 Check if Glasgow paid  @online
+(E) 20 Get CASPER one-line deploy working.  @online 
+(E) 20 Get CASPER tests working for on server  @online 
+(E) 04 Look up suitable climbing while on campus  @online
+(E) 15 Put all the relevant documents into the 'leo education' folder @online 
 (E) Review Bob for Cyber Clip  @online
 (E) Review all the project real site materials  @online
 (E) Review the car costs spreadsheet @online
