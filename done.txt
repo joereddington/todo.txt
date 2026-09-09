@@ -10323,3 +10323,7 @@ x 2026-09-09 15 Review heel Of life Project @offline
 x 2026-09-09 10 lookup the next action on the "Annual Report" on the wiki.  @online
 x 2026-09-09 03 Give laptop screen a good clean +Overhead  @offline
 x 2026-09-09 10 Measure the garage so that you know how much wood you are ordering  @offline
+x 2026-09-09 05 Move all the CASPER notes into the project.   @offline
+x 2026-09-09 10 Brainstorm, write agenda for family meeting and put on date  @offline
+x 2026-09-09 10 Fill out Gratitude Book   @offline
+x 2026-09-09 10 Empty Joe inbox completely +Overhead   @offline
