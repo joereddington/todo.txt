@@ -1,5 +1,4 @@
 (C) Get Windows Machine working  @offline (ish)  
-(E) 20 Write an action of each of the alerts on mgit status @offline
 (E) 15 process emotional todo list.  @offline
 (E) 10 Work through Circle line  @offline (36 stations) 
 (D) 15 Gratitude blog post @offline
@@ -19,8 +18,8 @@
 (E) 20 Get CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
 (E) Review all the project real site materials  @online
-(E) Review the car costs spreadsheet @online
-(E) Sort out which of the CASPER repos is which  @online
+(E) 05 Review the car costs spreadsheet @online
+(E) 10 Sort out which of the CASPER repos is which  @online
 (E) Try the soldering of the blind
 (E) Watch the rest of the development videos  @online
 (E) open up ads in Chrome and follow the instructions  @online
