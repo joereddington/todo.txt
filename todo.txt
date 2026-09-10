@@ -1,7 +1,7 @@
-(C) Get Windows Machine working  @offline (ish)  
 (E) 15 process emotional todo list.  @offline
 (E) 10 Work through Circle line  @offline (36 stations) 
 (D) 15 Gratitude blog post @offline
+(C) Get Windows Machine working  @offline (ish)  
 (C) 10 Brainstorm email days @offline
 (A) 20 Call up and book disneyland holiday @online
 (A) 30 create application shortlist spreadsheet for Yvonne  @online
@@ -10,16 +10,16 @@
 (B) 10 Start annual accounts for EQT @online (open document, create files) 
 (D) 20 Follow up on lightsail cost analysis  @chat @online
 (E) 03 Shorts should have a zip pocket @online
+(E) 05 Review the car costs spreadsheet @online
 (E) 05 Update Leo calendar with them  @kids
 (E) 10 Brainstorm gratitude book and early meals @online
+(E) 10 Sort out which of the CASPER repos is which  @online
 (E) 15 Clipboard/universal capture with @kids - with post-it notes 
 (E) 15 Put all the relevant documents into the 'leo education' folder @online 
 (E) 20 Add the ability to put +3 into the stress chat @online
 (E) 20 Get CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
 (E) Review all the project real site materials  @online
-(E) 05 Review the car costs spreadsheet @online
-(E) 10 Sort out which of the CASPER repos is which  @online
 (E) Try the soldering of the blind
 (E) Watch the rest of the development videos  @online
 (E) open up ads in Chrome and follow the instructions  @online
