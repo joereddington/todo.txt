@@ -1,7 +1,7 @@
 (B) 10 Read the Everything Joe knows about accounts @online
 (E) 10 Work through Circle line  @offline (36 stations) 
 (A) 20 Call up and book disneyland holiday @online
-(E) 20 Get CASPER one-line deploy working.  @online 
+(E) 20 Test  CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
