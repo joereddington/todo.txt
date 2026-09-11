@@ -1,12 +1,11 @@
-(B) 10 Read the Everything Joe knows about accounts @online
-(E) 10 Work through Circle line  @offline (36 stations) 
 (A) 20 Call up and book disneyland holiday @online
-(E) 20 Test  CASPER one-line deploy working.  @online 
+(A) 60 Write the PHD report  @online
+(B) 10 Read the Everything Joe knows about accounts @online
+(C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
+(E) 10 Work through Circle line  @offline (36 stations) 
 (E) 20 Get CASPER tests working for on server  @online 
 (E) 20 Search email for all the project real site materials  @online
+(E) 20 Test  CASPER one-line deploy working.  @online 
 (E) 20 Test the IR sensor - Get the power leads for the board
 (E) 20 Watch the rest of the development videos  @online
-(A) 30 create application shortlist spreadsheet for Yvonne  @online
-(C) 40 Get Internet on Windows Machine working and bring it to 'can work on this effectively'  @offline (ish)  
-(A) 60 Write the PHD report  @online
-(E) Check who is repeating or resititng 
+(E) Lookup the list of E's books
