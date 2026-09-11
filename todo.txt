@@ -10,7 +10,7 @@
 (D) 20 Follow up on lightsail cost analysis  @chat @online
 (E) 20 Get CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
-(E) 20 Review the changes to Moodle page 
+x 2026-09-11 20 Review the changes to Moodle page 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
 (E) 20 Watch the rest of the development videos  @online
