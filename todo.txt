@@ -1,6 +1,5 @@
-(B) 10 Start annual accounts for EQT @online (open document, create files) 
+(B) 10 Read the Everything Joe knows about accounts @online
 (E) 10 Work through Circle line  @offline (36 stations) 
-(E) 15 Put all the relevant documents into the 'leo education' folder @online 
 (A) 20 Call up and book disneyland holiday @online
 (E) 20 Get CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
