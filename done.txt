@@ -10343,3 +10343,9 @@ x 2026-09-10 20 Write an action of each of the alerts on mgit status @offline
 x 2026-09-11 15 process emotional todo list.  @offline
 x 2026-09-11 50 Go over the handbook document again @online
 x 2026-09-11 Try the soldering of the blind
+x 2026-09-11 15 Gratitude blog post @offline
+x 2026-09-11 05 Review the car costs spreadsheet @online
+x 2026-09-11 10 Sort out which of the CASPER repos is which  @online
+x 2026-09-11 02 Get sponge @offline 
+x 2026-09-11 05 Update Leo calendar with them  @kids
+x 2026-09-11 10 Brainstorm email days @offline
