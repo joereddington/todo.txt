@@ -17,3 +17,4 @@
 (A) 30 create application shortlist spreadsheet for Yvonne  @online
 (C) 40 Get Internet on Windows Machine working and bring it to 'can work on this effectively'  @offline (ish)  
 (A) 60 Write the PHD report  @online
+(E) Check who is repeating or resititng 
