@@ -10350,3 +10350,10 @@ x 2026-09-11 02 Get sponge @offline
 x 2026-09-11 05 Update Leo calendar with them  @kids
 x 2026-09-11 10 Brainstorm email days @offline
 x 2026-09-11 20 Add the ability to put +3 into the stress chat @online
+x 2026-09-11 02 event open up ads in Chrome and follow the instructions  @online
+x 2026-09-11 03 Shorts should have a zip pocket @online
+x 2026-09-11 20 Review the changes to Moodle page 
+x 2026-09-11 05 review and post upload blog post with picture @online
+x 2026-09-11 10 Brainstorm gratitude book and early meals @online
+x 2026-09-11 15 Clipboard/universal capture with @kids - with post-it notes 
+x 2026-09-11 20 Follow up on lightsail cost analysis  @chat @online

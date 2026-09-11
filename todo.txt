@@ -1,16 +1,9 @@
-(E) 02 event open up ads in Chrome and follow the instructions  @online
-(E) 03 Shorts should have a zip pocket @online
-(E) 05 review and post upload blog post with picture @online
-(E) 10 Brainstorm gratitude book and early meals @online
 (B) 10 Start annual accounts for EQT @online (open document, create files) 
 (E) 10 Work through Circle line  @offline (36 stations) 
-(E) 15 Clipboard/universal capture with @kids - with post-it notes 
 (E) 15 Put all the relevant documents into the 'leo education' folder @online 
 (A) 20 Call up and book disneyland holiday @online
-(D) 20 Follow up on lightsail cost analysis  @chat @online
 (E) 20 Get CASPER one-line deploy working.  @online 
 (E) 20 Get CASPER tests working for on server  @online 
-x 2026-09-11 20 Review the changes to Moodle page 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
 (E) 20 Watch the rest of the development videos  @online
