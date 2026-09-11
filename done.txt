@@ -10340,3 +10340,6 @@ x 2026-09-09 20 Spend 20 minutes putting the soldaring iron stuff together @offl
 x 2026-09-10 60 Do the TA thing  @online
 x 2026-09-10 Review Bob for Cyber Clip  @online
 x 2026-09-10 20 Write an action of each of the alerts on mgit status @offline
+x 2026-09-11 15 process emotional todo list.  @offline
+x 2026-09-11 50 Go over the handbook document again @online
+x 2026-09-11 Try the soldering of the blind
