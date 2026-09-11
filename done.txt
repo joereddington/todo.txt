@@ -10360,3 +10360,4 @@ x 2026-09-11 20 Follow up on lightsail cost analysis  @chat @online
 x 2026-09-11 15 Put all the relevant documents into the 'leo education' folder @online 
 x 2026-09-11 Check who is repeating or resititng 
 x 2026-09-11 30 create application shortlist spreadsheet for Yvonne  @online
+x 2026-09-11 10 Read the Everything Joe knows about accounts @online
