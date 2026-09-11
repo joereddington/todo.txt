@@ -10349,3 +10349,4 @@ x 2026-09-11 10 Sort out which of the CASPER repos is which  @online
 x 2026-09-11 02 Get sponge @offline 
 x 2026-09-11 05 Update Leo calendar with them  @kids
 x 2026-09-11 10 Brainstorm email days @offline
+x 2026-09-11 20 Add the ability to put +3 into the stress chat @online

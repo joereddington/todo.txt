@@ -6,7 +6,6 @@
 (E) 10 Work through Circle line  @offline (36 stations) 
 (E) 15 Clipboard/universal capture with @kids - with post-it notes 
 (E) 15 Put all the relevant documents into the 'leo education' folder @online 
-(E) 20 Add the ability to put +3 into the stress chat @online
 (A) 20 Call up and book disneyland holiday @online
 (D) 20 Follow up on lightsail cost analysis  @chat @online
 (E) 20 Get CASPER one-line deploy working.  @online 
