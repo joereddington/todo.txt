@@ -10361,3 +10361,4 @@ x 2026-09-11 15 Put all the relevant documents into the 'leo education' folder @
 x 2026-09-11 Check who is repeating or resititng 
 x 2026-09-11 30 create application shortlist spreadsheet for Yvonne  @online
 x 2026-09-11 10 Read the Everything Joe knows about accounts @online
+x 2026-09-14 20 Test  CASPER one-line deploy working.  @online 
