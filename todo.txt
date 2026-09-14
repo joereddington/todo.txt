@@ -2,10 +2,10 @@
 (A) 60 Write the PHD report  @online
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
 (E) 10 Work through Circle line  @offline (36 stations) 
-(E) Do EQT expenses until the end of August
 (E) 20 Get CASPER tests working for on server  @online 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test  CASPER one-line deploy working.  @online 
 (E) 20 Test the IR sensor - Get the power leads for the board
 (E) 20 Watch the rest of the development videos  @online
+(E) Do EQT expenses until the end of August
 (E) Lookup the list of E's books
