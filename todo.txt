@@ -18,6 +18,7 @@
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm  
 (D) Get Pages read to the next 1000 pages
+(E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK"
 (E) 10 Work through Circle line  @offline (36 stations) 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
@@ -42,4 +43,3 @@
 (E) Publicly thank someone +Overhead  
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Save a nice family memory +Family @phone    
-(E) Trim nose hair +Health    
