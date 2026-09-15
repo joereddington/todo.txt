@@ -1,7 +1,5 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 20 Call up and book disneyland holiday @online
 (A) 60 Write the PHD report  @online
-(A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Fill out Gratitude Book  @offline
 (A) process emotional todo list.  @offline
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  

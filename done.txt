@@ -10366,3 +10366,5 @@ x 2026-09-15 10 Lookup the list of E's books
 x 2026-09-15 20 Watch the rest of the development videos  @online
 x 2026-09-15 20 Get CASPER tests working for on server  @online 
 x 2026-09-15 Trim nose hair +Health    
+x 2026-09-15 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-09-15 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
