@@ -1,10 +1,45 @@
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 (A) 20 Call up and book disneyland holiday @online
 (A) 60 Write the PHD report  @online
+(A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+(A) Fill out Gratitude Book  @offline
+(A) process emotional todo list.  @offline
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
+(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+(C) Check your vitimin box @offline
+(C) Family meeting 
+(C) Gratitude blog post @offline
+(C) Process all the 'ongoing' files and make sure they have a live next action or calendar 
+(C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+(C) Review RHUL projects
+(C) Review Wheel Of life Projects
+(C) Review projects
+(C) Update Leo calendar
+(D) Check starred messages in kat whatsapp 
+(D) Do full accounts algorithm  
+(D) Get Pages read to the next 1000 pages
 (E) 10 Work through Circle line  @offline (36 stations) 
-(E) 20 Get CASPER tests working for on server  @online 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
-(E) 20 Watch the rest of the development videos  @online
 (E) 40 Do EQT expenses until the end of August
-(E) 10 Lookup the list of E's books
+(E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+(E) Confirm plans for next two weekends.+Overhead @phone   
+(E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+(E) Cut Nova and Leo nails +Health    
+(E) Cut nails +Health    
+(E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
+(E) Empty Joe inbox completely +Overhead    
+(E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Floss +Health   
+(E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+(E) Go through phone and save all of the numbers +Overhead  @phone   
+(E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Let Kat know my stress chart 
+(E) Log weight +Health   
+(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Order B&Q wood Photo is on the 7th September
+(E) Publicly thank someone +Overhead  
+(E) Review Menu speadsheet for the week +Family  @phone   
+(E) Save a nice family memory +Family @phone    
+(E) Trim nose hair +Health    
