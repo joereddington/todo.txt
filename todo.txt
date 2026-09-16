@@ -1,31 +1,36 @@
-(A) 60 Write the PHD report  @online
-(E) 02 Annual event to put grease in all locks 
-(E) 05 find out about copying Yale keys
-(C) Sent Mum some dates for coming up. 
-(E) Slime all the tyres 
-(E) 05 Set up Judo DD 
-(A) Fill out Gratitude Book  @offline
-(A) process emotional todo list.  @offline
+(A) Put all the CASPER events in the calendar 
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Check your vitimin box @offline
 (C) Family meeting 
 (C) Gratitude blog post @offline
+(C) Outlook must have access to the Google calendar for offline checking  
 (C) Process all the 'ongoing' files and make sure they have a live next action or calendar 
+(C) Put Kat houses into spreadsheet
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+(C) Renew Judo Licence 
 (C) Review RHUL projects
 (C) Review Wheel Of life Projects
 (C) Review projects
+(C) Sent Mum some dates for coming up. 
+(C) Setup Judo DD £28 
+(C) Spend some time on the bluebook 
 (C) Update Leo calendar
 (D) Check starred messages in kat whatsapp 
 (D) Do full accounts algorithm  
 (D) Get Pages read to the next 1000 pages
 (E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK"
+(E) 02 Annual event to put grease in all locks 
+(E) 05 Set up Judo DD 
+(E) 05 find out about copying Yale keys
 (E) 10 Work through Circle line  @offline (36 stations) 
 (E) 20 Search email for all the project real site materials  @online
 (E) 20 Test the IR sensor - Get the power leads for the board
 (E) 40 Do EQT expenses until the end of August
+(E) Change kids wake up time on alexa 
+(E) Check freezer temperatures
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+(E) Check the internet filters
 (E) Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 (E) Confirm plans for next two weekends.+Overhead @phone   
 (E) Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
@@ -34,34 +39,25 @@
 (E) Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
+(E) Find out if Leo's ipad can do O'reilly. 
+(E) Find the plastic wallets for Nova swimming list - wait didn't you do one? 
 (E) Floss +Health   
+(E) Get new pens 
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
 (E) Let Kat know my stress chart 
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
+(E) Lookup your list of checked out library books
+(E) Make a note of when weekend swimming is.
+(E) Making lego insturctions for leo 
 (E) Order B&Q wood Photo is on the 7th September
 (E) Publicly thank someone +Overhead  
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Save a nice family memory +Family @phone    
-(A) Put all the CASPER events in the calendar 
-(C) Outlook must have access to the Google calendar for offline checking  
-(E) Find the plastic wallets for Nova swimming list - wait didn't you do one? 
-(E) Write 'everything joe knows about mental health' 
-(C) Setup Judo DD £28 
-(E) Find out if Leo's ipad can do O'reilly. 
+(E) Slime all the tyres 
 (E) Sync ipad with libby
-(C) Renew Judo Licence 
-(E) Check the internet filters
-(C) Put Kat houses into spreadsheet
 (E) Update R&E
-(E) Get new pens 
 (E) Wipe out notifications @phone 
-(E) Make a note of when weekend swimming is.
-(E) Change kids wake up time on alexa 
-(E) Check freezer temperatures
-(E) Making lego insturctions for leo 
-(E) Lookup your list of checked out library books
-(C) Spend some time on the bluebook 
-
+(E) Write 'everything joe knows about mental health' 
