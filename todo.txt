@@ -1,4 +1,9 @@
 (A) 60 Write the PHD report  @online
+(E) 02 Annual event to put grease in all locks 
+(E) 05 find out about copying Yale keys
+(C) Sent Mum some dates for coming up. 
+(E) Slime all the tyres 
+(E) 05 Set up Judo DD 
 (A) Fill out Gratitude Book  @offline
 (A) process emotional todo list.  @offline
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
@@ -40,3 +45,13 @@
 (E) Publicly thank someone +Overhead  
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Save a nice family memory +Family @phone    
+(A) Put all the CASPER events in the calendar 
+(C) Outlook must have access to the Google calendar for offline checking  
+(E) Find the plastic wallets for Nova swimming list - wait didn't you do one? 
+(E) Write 'everything joe knows about mental health' 
+(C) Setup Judo DD £28 
+(E) Find out if Leo's ipad can do O'reilly. 
+(E) Sync ipad with libby
+(C) Renew Judo Licence 
+(E) Check the internet filters
+
