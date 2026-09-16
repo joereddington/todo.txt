@@ -63,4 +63,5 @@
 (E) Check freezer temperatures
 (E) Making lego insturctions for leo 
 (E) Lookup your list of checked out library books
+(C) Spend some time on the bluebook 
 
