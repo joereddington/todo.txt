@@ -54,4 +54,9 @@
 (E) Sync ipad with libby
 (C) Renew Judo Licence 
 (E) Check the internet filters
+(C) Put Kat houses into spreadsheet
+(E) Update R&E
+(E) Get new pens 
+(E) Wipe out notifications @phone 
+(E) Make a note of when weekend swimming is.
 
