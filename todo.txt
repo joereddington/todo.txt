@@ -59,4 +59,8 @@
 (E) Get new pens 
 (E) Wipe out notifications @phone 
 (E) Make a note of when weekend swimming is.
+(E) Change kids wake up time on alexa 
+(E) Check freezer temperatures
+(E) Making lego insturctions for leo 
+(E) Lookup your list of checked out library books
 
