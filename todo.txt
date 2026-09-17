@@ -1,27 +1,27 @@
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
 (C) Get superglue 
 (C) Solder USB mount
-(C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-(C) Check your vitimin box @offline
-(C) Family meeting 
+x 2026-09-17 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-09-17 Check your vitimin box @offline
+x 2026-09-17 Family meeting 
 (C) Gratitude blog post @offline
-(C) Outlook must have access to the Google calendar for offline checking  
-(C) Process all the 'ongoing' files and make sure they have a live next action or calendar 
-(C) Put Kat houses into spreadsheet
+(E) Outlook must have access to the Google calendar for offline checking  
+x 2026-09-17 Process all the 'ongoing' files and make sure they have a live next action or calendar 
+(B) Put Kat houses into spreadsheet
 (C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(B) Renew Judo Licence 
+(A) Renew Judo Licence 
 (C) Rebuild the old VC system as simply as possible: screen and sensor and that's all. Lots of tape 
-(C) Review RHUL projects
-(C) Review Wheel Of life Projects
-(C) Review projects
-(C) Sent Mum some dates for coming up. 
-(C) Setup Judo DD £28 
-(C) Spend some time on the bluebook 
-(C) Update Leo calendar
-(D) Check starred messages in kat whatsapp 
-(D) Do full accounts algorithm  
-(D) Get Pages read to the next 1000 pages
-(E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK"
+(E) Review RHUL projects
+(E) Review Wheel Of life Projects
+(E) Review projects
+(B) Sent Mum some dates for coming up. 
+(B) Setup Judo DD £28 
+(E) Spend some time on the bluebook 
+(E) Update Leo calendar
+x 2026-09-17 Check starred messages in kat whatsapp 
+x 2026-09-17 Do full accounts algorithm  
+(C) Get Pages read to the next 1000 pages
+(E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK" @phone
 (E) 02 Annual event to put grease in all locks 
 (E) 05 Set up Judo DD 
 (E) 05 find out about copying Yale keys
