@@ -1,4 +1,6 @@
 (C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
+(C) Get superglue 
+(C) Solder USB mount
 (C) Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 (C) Check your vitimin box @offline
 (C) Family meeting 
