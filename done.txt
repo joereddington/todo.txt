@@ -10403,3 +10403,8 @@ x 2026-09-17 Save a nice family memory +Family @phone
 x 2026-09-17 Update R&E
 x 2026-09-17 Wipe out notifications @phone 
 x 2026-09-17 "As you cannot reset your details online please call us on 0300 100 0611 in the UK" @phone
+x 2026-09-17 02 event Check freezer temperatures
+x 2026-09-17 03 Get new pens  @online
+x 2026-09-17 03 event modules for next term that you would be interested in working on.  @online
+x 2026-09-17 05 Make a note of when weekend swimming is. @online
+x 2026-09-17 05 Lookup your list of checked out library books @online

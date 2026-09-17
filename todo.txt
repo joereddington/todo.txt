@@ -16,13 +16,8 @@
 (D) 30 Slime all the tyres  @offline
 (D) 30 Spend some time on the bluebook  @offline
 (D) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
-(E) 02 event Check freezer temperatures
-(E) 03 Get new pens  @online
-(E) 03 event modules for next term that you would be interested in working on.  @online
 (E) 05 Find out if Leo's ipad can do O'reilly.  @offline
 (E) 05 Floss +Health     @offline
-(E) 05 Lookup your list of checked out library books @online
-(E) 05 Make a note of when weekend swimming is. @online
 (E) 05 Sync ipad with libby
 (E) 05 Update Leo calendar with them 
 (E) 10 Find out about making our own lego instruction book for Leo
