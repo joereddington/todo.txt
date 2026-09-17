@@ -1,66 +1,35 @@
-(D) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
-(D) Get superglue 
-(D) Solder USB mount
-x 2026-09-17 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
-x 2026-09-17 Check your vitimin box @offline
-x 2026-09-17 Family meeting 
-(D) Gratitude blog post @offline
-(E) Outlook must have access to the Google calendar for offline checking  
-x 2026-09-17 Process all the 'ongoing' files and make sure they have a live next action or calendar 
-(B) Put Kat houses into spreadsheet
-(D) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(A) Renew Judo Licence 
-(D) Rebuild the old VC system as simply as possible: screen and sensor and that's all. Lots of tape 
-(E) Review RHUL projects
-(E) Review Wheel Of life Projects
-(E) Review projects
-(B) Sent Mum some dates for coming up. 
-x 2026-09-17 Setup Judo DD £28 
-(D) Spend some time on the bluebook 
-(E) Update Leo calendar
-x 2026-09-17 Check starred messages in kat whatsapp 
-x 2026-09-17 Do full accounts algorithm  
-(D) Get Pages read to the next 1000 pages
-(E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK" @phone
-x 2026-09-17 02 Annual event to put grease in all locks 
-x 2026-09-17 05 Set up Judo DD 
-(D) 05 order some spare Yale keys
-(E) 10 Work through Circle line  @offline (36 stations) 
+(A) 10 Renew Judo Licence  @online
+(B) 03 Send Mum some dates for coming up. @online
+(B) 30 Put Kat houses into spreadsheet @online
 (C) 20 Search email for all the project real site materials  @online
-x 2026-09-17 20 Test the IR sensor - Get the power leads for the board
-(C) 40 Do EQT expenses until the end of August
-x 2026-09-17 Change kids wake up time on alexa 
-(E) Check freezer temperatures
-x 2026-09-17 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
-x 2026-09-17 Check the internet filters
-x 2026-09-17 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
-x 2026-09-17 Confirm plans for next two weekends.+Overhead @phone   
-x 2026-09-17 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
-(D) Cut Nova and Leo nails +Health    
-x 2026-09-17 Cut nails +Health    
-x 2026-09-17 Do something genuinely nice for §e:U2FsdGVkX1/jHkQjxS8m0DEs/epwc3SIRl2yYxHMBzc=§ +Family
-x 2026-09-17 Empty Joe inbox completely +Overhead    
-x 2026-09-17 Empty whatsapp and facebook inboxes. +Overhead  
-(E) 05 Find out if Leo's ipad can do O'reilly. 
+(C) 40 Do EQT expenses until the end of August @online
 (D) 02 Find the plastic wallets for Nova swimming list - wait didn't you do one? 
-(E) 05 Floss +Health   
-(E) 03 Get new pens 
-x 2026-09-17 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
-x 2026-09-17 Go through phone and save all of the numbers +Overhead  @phone   
-x 2026-09-17 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-x 2026-09-17 Let Kat know my stress chart 
-x 2026-09-17 Log weight +Health   
-x 2026-09-17 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
-(E) Lookup your list of checked out library books
-(E) Make a note of when weekend swimming is.
-(E) Making lego insturctions for leo 
-(E) Order B&Q wood Photo is on the 7th September
-(E) Publicly thank someone +Overhead  
-(E) Review Menu speadsheet for the week +Family  @phone   
-(E) Save a nice family memory +Family @phone    
-(E) Slime all the tyres 
-(E) Sync ipad with libby
-(E) Update R&E
-(E) Wipe out notifications @phone 
-(E) Write 'everything joe knows about mental health' 
-(E) Lookup modules for next term that you would be interested in working on. 
+(D) 03 Get superglue  @offline
+(D) 05 order some spare Yale keys @online
+(D) 10 Cut Nova and Leo nails +Health    
+(D) 12 Gratitude blog post @offline
+(D) 15 Order B&Q wood Photo is on the 7th September @online
+(D) 15 Solder USB mount @offline
+(D) 20 Get Pages read to the next 1000 pages    @offline
+(D) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one  @offline
+(D) 20 Rebuild the old VC system as simply as possible: screen and sensor and that's all. Lots of tape  @offline
+(D) 30 Slime all the tyres  @offline
+(D) 30 Spend some time on the bluebook  @offline
+(D) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
+(E) 02 event Check freezer temperatures
+(E) 03 Get new pens  @online
+(E) 03 event modules for next term that you would be interested in working on.  @online
+(E) 05 Find out if Leo's ipad can do O'reilly.  @offline
+(E) 05 Floss +Health     @offline
+(E) 05 Lookup your list of checked out library books @online
+(E) 05 Make a note of when weekend swimming is. @online
+(E) 05 Sync ipad with libby
+(E) 05 Update Leo calendar with them 
+(E) 10 Find out about making our own lego instruction book for Leo
+(E) 10 Outlook must have access to the Google calendar for offline checking  
+(E) 10 Review RHUL projects
+(E) 10 Review Wheel Of life Projects
+(E) 10 Review projects
+(E) 10 Work through Circle line  @offline (36 stations) 
+(E) 10 Write 'everything joe knows about mental health'  @online
+(E) 20 Publicly thank someone +Overhead  
