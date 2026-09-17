@@ -16,7 +16,6 @@
 (D) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
 (E) 05 Find out if Leo's ipad can do O'reilly.  @offline
 (E) 05 Floss +Health     @offline
-(E) 05 Sync ipad with libby
 (E) 05 Update Leo calendar with them 
 (E) 10 Find out about making our own lego instruction book for Leo
 (E) 10 Outlook must have access to the Google calendar for offline checking  
