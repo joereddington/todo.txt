@@ -60,3 +60,4 @@
 (E) Update R&E
 (E) Wipe out notifications @phone 
 (E) Write 'everything joe knows about mental health' 
+(E) Lookup modules for next term that you would be interested in working on. 
