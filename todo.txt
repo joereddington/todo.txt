@@ -1,35 +1,35 @@
-(C) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
-(C) Get superglue 
-(C) Solder USB mount
+(D) 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
+(D) Get superglue 
+(D) Solder USB mount
 x 2026-09-17 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
 x 2026-09-17 Check your vitimin box @offline
 x 2026-09-17 Family meeting 
-(C) Gratitude blog post @offline
+(D) Gratitude blog post @offline
 (E) Outlook must have access to the Google calendar for offline checking  
 x 2026-09-17 Process all the 'ongoing' files and make sure they have a live next action or calendar 
 (B) Put Kat houses into spreadsheet
-(C) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+(D) Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (A) Renew Judo Licence 
-(C) Rebuild the old VC system as simply as possible: screen and sensor and that's all. Lots of tape 
+(D) Rebuild the old VC system as simply as possible: screen and sensor and that's all. Lots of tape 
 (E) Review RHUL projects
 (E) Review Wheel Of life Projects
 (E) Review projects
 (B) Sent Mum some dates for coming up. 
-(B) Setup Judo DD £28 
-(E) Spend some time on the bluebook 
+x 2026-09-17 Setup Judo DD £28 
+(D) Spend some time on the bluebook 
 (E) Update Leo calendar
 x 2026-09-17 Check starred messages in kat whatsapp 
 x 2026-09-17 Do full accounts algorithm  
-(C) Get Pages read to the next 1000 pages
+(D) Get Pages read to the next 1000 pages
 (E) "As you cannot reset your details online please call us on 0300 100 0611 in the UK" @phone
-(E) 02 Annual event to put grease in all locks 
-(E) 05 Set up Judo DD 
-(E) 05 find out about copying Yale keys
+x 2026-09-17 02 Annual event to put grease in all locks 
+x 2026-09-17 05 Set up Judo DD 
+(D) 05 order some spare Yale keys
 (E) 10 Work through Circle line  @offline (36 stations) 
-(E) 20 Search email for all the project real site materials  @online
-(E) 20 Test the IR sensor - Get the power leads for the board
-(E) 40 Do EQT expenses until the end of August
-(E) Change kids wake up time on alexa 
+(C) 20 Search email for all the project real site materials  @online
+x 2026-09-17 20 Test the IR sensor - Get the power leads for the board
+(C) 40 Do EQT expenses until the end of August
+x 2026-09-17 Change kids wake up time on alexa 
 (E) Check freezer temperatures
 (E) Check that everything in the 'in process' box really does have a task+Overhead   +EQT
 (E) Check the internet filters
