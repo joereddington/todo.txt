@@ -10424,3 +10424,5 @@ x (E) 10 Work through Circle line  @offline (36 stations)
 x (E) 10 Write 'everything joe knows about mental health'  @online
 x 2026-09-18 10 Review projects
 x 2026-09-18 02 Find the plastic wallets for Nova swimming list - wait didn't you do one? 
+x 2026-09-19 03 Get superglue  @offline
+x 2026-09-21 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
