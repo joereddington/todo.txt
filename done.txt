@@ -10427,3 +10427,8 @@ x 2026-09-18 02 Find the plastic wallets for Nova swimming list - wait didn't yo
 x 2026-09-19 03 Get superglue  @offline
 x 2026-09-21 40 Get Internet on Windows machine working and bring it to 'can work on this effectively'  @offline (ish)  
 x 2026-09-25 15 Order B&Q wood Photo is on the 7th September @online
+x 2026-09-25 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  B&Q - the existing ones have a 40 by 100mm cross section 
+x 2026-09-25 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+x 2026-09-25 Do the project allocation 
+x 2026-09-25 Review RHUL projects
+x 2026-09-25 Find the matt meeting email 
