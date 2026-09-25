@@ -1,4 +1,4 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  B&Q - the existing ones have a 40 by 100mm cross section 
 (A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Do the project allocation 
 (A) Fill out Gratitude Book  @offline
@@ -19,12 +19,12 @@
 (C) Update Leo calendar
 (D) 05 order some spare Yale keys @online
 (D) 10 Cut Nova and Leo nails +Health @kids 
-(D) 15 Order B&Q wood Photo is on the 7th September @online
 (D) 30 Slime all the tyres  @offline
 (D) Check starred messages in kat whatsapp 
 (D) Do another chapter of the bluebook 
 (D) Do full accounts algorithm  
 (D) Get Pages read to the next 1000 pages
+(D) Measure the size of the unit you want to build in the garage 
 (D) Test VC sensor on other side again 
 (E) 1 hour brainstorming 
 (E) 10 Find out about making our own lego instruction book for Leo
