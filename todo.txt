@@ -1,4 +1,5 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  B&Q - the existing ones have a 40 by 100mm cross section 
+(E) Activate Rooster Card
 (A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Do the project allocation 
 (A) Fill out Gratitude Book  @offline
@@ -70,3 +71,4 @@
 (E) check and update cindy map
 (E) process Garage inbox. 
 (E) watch genAI workflow video
+(E) Review the up before the kids book 
