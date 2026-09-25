@@ -1,9 +1,9 @@
 (A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  B&Q - the existing ones have a 40 by 100mm cross section 
-(E) Activate Rooster Card
 (A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Do the project allocation 
 (A) Fill out Gratitude Book  @offline
 (A) Setup the teams sessions
+(A) Show Yvonne New design 
 (A) process emotional todo list.  @offline
 (B) Book disney transport
 (C) Build the house finding machine
@@ -33,6 +33,7 @@
 (E) 10 Review Wheel Of life Projects
 (E) 20 Publicly thank someone +Overhead  
 (E) 60 minutes brainstorming time
+(E) Activate Rooster Card
 (E) Add area income to house buying sheet
 (E) B&Q trim for the bedroom cupboard 
 (E) Block out the Spain eclipse dates on calendar
@@ -64,6 +65,7 @@
 (E) Publicly thank someone +Overhead  
 (E) Restructure Standards chapter properly 
 (E) Review Menu speadsheet for the week +Family  @phone   
+(E) Review the up before the kids book 
 (E) Save a nice family memory +Family @phone    
 (E) Trim nose hair +Health    
 (E) Work through Kat's list of Rightmove properties.
@@ -71,4 +73,3 @@
 (E) check and update cindy map
 (E) process Garage inbox. 
 (E) watch genAI workflow video
-(E) Review the up before the kids book 
