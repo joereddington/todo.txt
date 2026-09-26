@@ -10435,3 +10435,6 @@ x 2026-09-25 Find the matt meeting email
 x 2026-09-25 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
 x 2026-09-25 Confirm plans for next two weekends.+Overhead @phone   
 x 2026-09-26 Work through Kat's list of Rightmove properties.
+x 2026-09-26 Restructure Standards chapter properly 
+x 2026-09-26 Post to Vegan Facebook group  @phone   
+x 2026-09-26 Setup the teams sessions
