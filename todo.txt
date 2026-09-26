@@ -36,7 +36,6 @@
 (E) 10 Message Doctors surgery
 (E) 10 Order this year's Trick or Treat leaflets 
 (E) 10 Review Menu speadsheet for the week +Family  @phone   
-(E) 10 Review RHUL projects
 (E) 10 Review Wheel Of life Projects
 (E) 10 Review the up before the kids book 
 (E) 10 watch genAI workflow video
