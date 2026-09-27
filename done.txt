@@ -10463,3 +10463,4 @@ x 2026-09-26 Family meeting
 x 2026-09-26 Block out the Spain eclipse dates on calendar
 x 2026-09-26 Add area income to house buying sheet
 x 2026-09-26 10 Review RHUL projects
+x 2026-09-26 10 Find out about making our own lego instruction book for Leo
