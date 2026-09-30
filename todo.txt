@@ -21,6 +21,8 @@
 (E) 03 check and update cindy map
 (E) 04 Floss +Health   
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
+(E) 10 Buy little water bottles 
+(C) 10 Brainstorm meal prep
 (E) 05 Do another review of the circle line
 (E) 10 B&Q trim for the bedroom cupboard 
 (E) 10 Check and update Cindy map 
