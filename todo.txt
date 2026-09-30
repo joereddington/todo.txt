@@ -44,3 +44,4 @@
 (E) Review medication list 
 (B) Rewrite Friday's slides about skills 
 (A) Write slides for Friday afternoon 
+(E) Process the mini projects 
