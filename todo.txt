@@ -40,3 +40,4 @@
 (E) 15 process Garage inbox. 
 (E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
+(E) Review medication list 
