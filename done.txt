@@ -10470,3 +10470,4 @@ x 2026-09-30 Rewrite Friday's slides about skills
 x 2026-09-30 Process the mini projects 
 x 2026-09-30 Review medication list 
 x 2026-09-30 15 Review Wheel Of life Projects
+x 2026-10-01 30 Pack for tomorrow 
