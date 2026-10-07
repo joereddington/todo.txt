@@ -10471,3 +10471,6 @@ x 2026-09-30 Process the mini projects
 x 2026-09-30 Review medication list 
 x 2026-09-30 15 Review Wheel Of life Projects
 x 2026-10-01 30 Pack for tomorrow 
+x 2026-10-06 30 Create the PowerPoint Slides for the lectures.
+x 2026-10-06 60 Write slides for Friday afternoon 
+x 2026-10-06 10 Brainstorm meal prep
