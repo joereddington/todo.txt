@@ -23,15 +23,11 @@
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 (E) 05 Do another review of the circle line
 (E) 10 B&Q trim for the bedroom cupboard 
-(E) 10 Buy little water bottles 
-(E) 10 Check and update Cindy map 
 (E) 10 Do another Feynman Lecture
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get Nova to write out their swim list
-(E) 10 Get new Picture for trick or treat leaflets
 (E) 10 Message Doctors surgery
-x 2026-10-08 10 Review Menu speadsheet for the week +Family  @phone   
 (E) 10 Review Wheel Of life Projects
 (E) 10 Review the up before the kids book 
 (E) 10 watch genAI workflow video
