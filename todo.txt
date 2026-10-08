@@ -18,7 +18,6 @@
 (E) 01 Put college card tag back on it.
 (E) 03 Publicly thank someone +Overhead  
 (E) 03 Save a nice family memory +Family @phone    
-(E) 03 check and update cindy map
 (E) 04 Floss +Health   
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 (E) 05 Do another review of the circle line
@@ -27,7 +26,6 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Get Nova to write out their swim list
-(E) 10 Message Doctors surgery
 (E) 10 Review Wheel Of life Projects
 (E) 10 Review the up before the kids book 
 (E) 10 watch genAI workflow video

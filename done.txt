@@ -10478,3 +10478,5 @@ x 2026-10-08 10 Check and update Cindy map
 x 2026-10-08 10 Review Menu speadsheet for the week +Family  @phone   
 x 2026-10-08 10 Buy little water bottles 
 x 2026-10-08 10 Get new Picture for trick or treat leaflets
+x 2026-10-08 10 Message Doctors surgery
+x 2026-10-08 03 check and update cindy map
