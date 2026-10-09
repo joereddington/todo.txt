@@ -11,6 +11,7 @@
 (C) 20 Setup ethics form for the project students
 (D) 04 Measure the size of the unit you want to build in the garage 
 (D) 05 order some spare Yale keys @online
+(E) Rewrite formative coursework 
 (D) 10 Cut Nova and Leo nails +Health @kids 
 (D) 10 Test VC sensor on other side again 
 (D) 30 Slime all the tyres  @offline
