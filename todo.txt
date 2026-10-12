@@ -33,4 +33,6 @@
 (E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
 (E) 99 Spend day working from the new Desktop
-(E) Push on the Google Ads again
+(E) 30 Push on the Google Ads again
+(C) Write Pitch deck 
+(E) Work out the module leaders for next term 
