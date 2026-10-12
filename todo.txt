@@ -35,4 +35,6 @@
 (E) 99 Spend day working from the new Desktop
 (E) 30 Push on the Google Ads again
 (C) Write Pitch deck 
+(E) Create list for Chris 
+(C) Release the CIA triad notes 
 (E) Work out the module leaders for next term 
