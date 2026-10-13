@@ -10488,3 +10488,6 @@ x 2026-10-12 99 Spend day working from the new Desktop
 x 2026-10-12 10 Generate the MCQ quiz for introduction lecture.
 x 2026-10-12 03 Save a nice family memory +Family @phone    
 x 2026-10-13 01 Put college card tag back on it.
+x 2026-10-13 Release the CIA triad notes 
+x 2026-10-13 Write Pitch deck 
+x 2026-10-13 Send Ethics Form to UG students
