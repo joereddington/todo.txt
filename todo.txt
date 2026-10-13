@@ -14,9 +14,7 @@
 (D) 10 Cut Nova and Leo nails +Health @kids 
 (D) 10 Test VC sensor on other side again 
 (D) 30 Slime all the tyres  @offline
-(E) 01 Put college card tag back on it.
 (E) 03 Publicly thank someone +Overhead  
-(E) 03 Save a nice family memory +Family @phone    
 (E) 04 Floss +Health   
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 (E) 05 Do another review of the circle line
