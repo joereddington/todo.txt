@@ -30,3 +30,4 @@
 (E) 60 minutes brainstorming time
 (E) Rewrite formative coursework 
 (E) (B) Sprint on Bloodhound
+(E) Watson bar charts
