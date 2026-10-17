@@ -31,3 +31,4 @@
 (E) Rewrite formative coursework 
 (E) (B) Sprint on Bloodhound
 (E) Watson bar charts
+(E) Why is history so short? 
