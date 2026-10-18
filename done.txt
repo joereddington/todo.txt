@@ -10492,3 +10492,4 @@ x 2026-10-13 Release the CIA triad notes
 x 2026-10-13 Write Pitch deck 
 x 2026-10-13 Send Ethics Form to UG students
 x 2026-10-17 60 Download all the files from Yvonne Recently 
+x 2026-10-18 20 Setup ethics form for the project students

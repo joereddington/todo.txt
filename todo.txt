@@ -1,13 +1,12 @@
 (A) 04 Fill out Gratitude Book  @offline
 (A) 40 Brainstorm Liz episode
-(A) Correct Monday's attendance 
-(A) Brief students on demo day 
+x 2026-10-18 Correct Monday's attendance 
+(A) Brief students on demo day  +RHUL
 (B) 20 Book Disney trains
 (B) Sprint on Bloodhound
 (C) 10 Find out when the last EQT claim was and what was it for 
 (C) 15 Process all the 'ongoing' files and make sure they have a live next action or calendar 
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(C) 20 Setup ethics form for the project students
 (D) 04 Measure the size of the unit you want to build in the garage 
 (D) 05 order some spare Yale keys @online
 (D) 10 Cut Nova's nails +Health @kids 
