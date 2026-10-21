@@ -18,6 +18,7 @@
 (E) 10 Review the up before the kids book 
 (E) 10 watch genAI workflow video
 (E) 15 process Garage inbox. 
+(E) Wipe older pilot files, generate the next set of regression tests 
 (E) 30 Push on the Google Ads again
 (E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
