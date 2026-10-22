@@ -32,3 +32,4 @@
 (E) Big sprint on Codex  +RHUL 
 (E) Rewrite formative coursework  +RHUL
 (E) Fix the learning outcomes in IY3501/IY4501
+(E) Read Cox (2008)
