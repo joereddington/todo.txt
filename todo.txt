@@ -1,7 +1,6 @@
-(A) Upload videos 
-(C) Clear out Phone for Nova 
-(C) Setup charging stations again 
+(A) Brief students on demo day  +RHUL
 (B) 20 Book Disney trains
+(B) 40 Brainstorm Liz episode +RHUL
 (B) Work thought todos on Bloodhound
 (C) 10 Work out the EQT expenses since 29/08/26
 (C) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
@@ -20,16 +19,23 @@
 (E) 10 Review the up before the kids book 
 (E) 10 watch genAI workflow video
 (E) 15 process Garage inbox. 
-(E) Wipe older pilot files, generate the next set of regression tests 
 (E) 30 Push on the Google Ads again
 (E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
-(E) Contact dentist
-(E) Watson bar charts
-(A) 40 Brainstorm Liz episode +RHUL
-(A) Brief students on demo day  +RHUL
-(A) Correct Monday's attendance  +RHUL
 (E) Big sprint on Codex  +RHUL 
-(E) Rewrite formative coursework  +RHUL
+(E) Brainstorm Nova phone 
+(E) Contact dentist
+(E) Download a cadence monitor app
 (E) Fix the learning outcomes in IY3501/IY4501
+(E) Get PAYG sim for Nova phone 
+(E) Properly work out AI and terminal 
 (E) Read Cox (2008)
+(E) Sort out Watch for Nova 
+(E) Watson bar charts
+(E) Wipe older pilot files, generate the next set of regression tests 
+(E) Work out the suitable way to have separate screen sessions for work and play
+(E) Log weight
+(E) Email for EE students
+(E) EMail to fidn out if Nova will be needed for both days of the swim competition 
+(E) Email the rest of CSM-disability about progress
+(E) Fix lightbulb in the hall 
