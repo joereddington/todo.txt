@@ -77,6 +77,7 @@
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+(E) Setup regular iphone backup of phone 
 (E) Let Kat know my stress chart 
 (E) Log weight +Health   
 (E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
@@ -96,6 +97,9 @@
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) Watson bar charts
+(E) Setup Mesh for the drain 
+(E) Get Booster seat for Nova 
 (E) Wipe older pilot files, generate the next set of regression tests 
 (E) Work out the suitable way to have separate screen sessions for work and play
+(E) Pick another day for seeing mum 
 (E) process Garage inbox. 
