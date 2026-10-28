@@ -1,5 +1,3 @@
-(A) 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
-(E) Follow up about Air con
 (A) Brief students on demo day  +RHUL
 (A) Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
 (A) Fill out Gratitude Book  @offline
@@ -72,16 +70,16 @@
 (E) Fix lightbulb in the hall 
 (E) Fix the learning outcomes in IY3501/IY4501
 (E) Floss +Health   
+(E) Follow up about Air con
+(E) Get Booster seat for Nova 
 (E) Get PAYG sim for Nova phone 
 (E) Give laptop screen a good clean +Overhead
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
 (E) Go through phone and save all of the numbers +Overhead  @phone   
 (E) Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
-(E) Setup regular iphone backup of phone 
 (E) Let Kat know my stress chart 
-(E) Log weight +Health   
-(E) Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 (E) Make sure you have a continual professional development practice happening  
+(E) Pick another day for seeing mum 
 (E) Post to Vegan Facebook group  @phone   
 (E) Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
 (E) Properly work out AI and terminal 
@@ -93,13 +91,12 @@
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Run the ICO backup code
 (E) Save a nice family memory +Family @phone    
+(E) Setup Mesh for the drain 
+(E) Setup regular iphone backup of phone 
 (E) Sort out Watch for Nova 
 (E) TSE +Health  
 (E) Trim nose hair +Health    
 (E) Watson bar charts
-(E) Setup Mesh for the drain 
-(E) Get Booster seat for Nova 
 (E) Wipe older pilot files, generate the next set of regression tests 
 (E) Work out the suitable way to have separate screen sessions for work and play
-(E) Pick another day for seeing mum 
 (E) process Garage inbox. 
