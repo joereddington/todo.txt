@@ -10508,3 +10508,4 @@ x 2026-10-23 Rewrite formative coursework  +RHUL
 x 2026-10-28 Log weight +Health   
 x 2026-10-28 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-10-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
+x 2026-10-28 Properly work out AI and terminal 
