@@ -10509,3 +10509,51 @@ x 2026-10-28 Log weight +Health
 x 2026-10-28 Look at list of topics and ring §e:U2FsdGVkX19WbLrOTMYO0bkqz6MOP/OQe8b1WJ4GTb0=§ +Family @phone   
 x 2026-10-28 1. Looking for urgent: Check Calendar and reminders and notebooks  @singleton +PlanningAndTracking  
 x 2026-10-28 Properly work out AI and terminal 
+x 2026-10-31 Any Chocolate should be in the car or outside fridge (assuming winter)  
+x 2026-10-31 Arrange to see §e:U2FsdGVkX1+CdjDvzorpn6gqbv9OgwzT/wXTpMNKWc4=§
+x 2026-10-31 Big sprint on Codex  +RHUL 
+x 2026-10-31 Brainstorm Nova phone 
+x 2026-10-31 Check Passports are in the safe
+x 2026-10-31 Check ranking scripts +Overhead
+x 2026-10-31 Check starred messages in kat whatsapp 
+x 2026-10-31 Check that everything in the 'in process' box really does have a task+Overhead   +EQT
+x 2026-10-31 Check the last time §e:U2FsdGVkX18e4dSc7UPajr6opVoESIiCeqyZawbCs2Q=§ called you +Family @phone   
+x 2026-10-31 Check wishlist
+x 2026-10-31 Check you have ingredients for three levels of basic food - salad - scrabmled tofu
+x 2026-10-31 Clean out Fridge
+x 2026-10-31 Confirm plans for next two weekends.+Overhead @phone   
+x 2026-10-31 Contact §e:U2FsdGVkX18YzL62ZWaIGXGiMMQ+Iuvx81cvznpIv1k=§ for advice about something  
+x 2026-10-31 Download a cadence monitor app
+x 2026-10-31 Drop off a copy of the book with the library
+x 2026-10-31 Email the rest of CSM-disability about progress
+x 2026-10-31 Empty Joe inbox completely +Overhead    
+x 2026-10-31 Empty whatsapp and facebook inboxes. +Overhead  
+x 2026-10-31 Fix lightbulb in the hall 
+x 2026-10-31 Get Pages read to the next 1000 pages
+x 2026-10-31 () Give laptop screen a good clean +Overhead
+x 2026-10-31 Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
+x 2026-10-31 10 Gratitude blog post @offline
+x 2026-10-31 Learn something new about vim in http://learnvimscriptthehardway.stevelosh.com/chapters/17.html +EQT  
+x 2026-10-31 Let Kat know my stress chart 
+x 2026-10-31 Make sure you have booed a bunch of leave from RHUL 
+x 2026-10-31 Pick another day for seeing mum 
+x 2026-10-31 Process the 'to put in Evernote' folder and add to database +Overhead   +EQT 
+x 2026-10-31 Publicly thank someone +Overhead  
+x 2026-10-31 Review Menu speadsheet for the week +Family  @phone   
+x 2026-10-31 Run the ICO backup code
+x 2026-10-31 Sort out Watch for Nova 
+x 2026-10-31 TSE +Health  
+x 2026-10-31 Trim nose hair +Health    
+x 2026-10-31 Sync the photoshop directroy
+x 2026-10-31 Work out the suitable way to have separate screen sessions for work and play
+x 2026-10-31 deploy any commits from OVF that are hanging around. 
+x 2026-10-31 process Garage inbox. 
+x 2026-10-31 Run multi-git-status on both aws servers to make sure all code is uploaded.  
+x 2026-10-31 Save a nice family memory +Family @phone    
+x 2026-10-31 10 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
+x 2026-10-31 10 Get Nova to write out their swim list
+x 2026-10-31 10 Review the up before the kids book 
+x 2026-10-31 10 watch genAI workflow video
+x 2026-10-31 10 Do another Feynman Lecture
+x 2026-10-31 10 Cut Leo's nails +Health @kids 
+x 2026-10-31 20 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
