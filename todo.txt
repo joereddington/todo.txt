@@ -57,3 +57,5 @@
 (E) Start sorting cupboards again 
 (D) Fix Leo's noise maker
 (E) Do a gathering of all the glasses
+(E) Buy haircutting set for leo
+(E) get bin for office 
