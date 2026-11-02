@@ -1,9 +1,9 @@
 (A) Run the Macro code on the next set of slides
+(C) Kat) build the shelves in the garage
 (A Family) 20 Book Disney trains
 (A Students staff ) 20 Brief students on demo day  +RHUL
 (B Kat) 30 Work thought todos on Bloodhound
 (E) Buy ingredients for iodeen clock 
-(B Lix ) 40 Brainstorm Liz episode +RHUL
 (B) 10 Email for EE students +RHUL
 (B) 10 Fix the lecture recordings  +RHUL
 (C Kat) 15 Write the Linkedin Post +RHUL
