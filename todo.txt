@@ -54,3 +54,5 @@
 (E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
 (E) Start sorting cupboards again 
+(D) Fix Leo's noise maker
+(E) Do a gathering of all the glasses
