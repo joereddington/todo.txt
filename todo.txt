@@ -11,7 +11,6 @@
 (D) 15 Setup Mesh for the drain 
 (D) 30 Slime all the tyres  @offline
 (D) Fix Leo's noise maker on the bike
-(E) 02 Check your vitamin box @offline
 (E) 03 Follow up about Air con
 (E) 04 Fill out Gratitude Book  @offline
 (E) 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
@@ -35,11 +34,9 @@
 (E) 10 Year plan: check you have 5 projects in each part
 (E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +RHUL
 (E) 15 process Garage inbox. 
-(E) 16 Wipe older pilot files, generate the next set of regression tests  +RHUL
 (E) 20 Do full accounts algorithm  
 (E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (E) 20 Review starred items in feeds +Overhead 
-(E) 20 Watson bar charts +RHUL
 (E) 20 process emotional todo list.  @offline
 (E) 30 Family meeting 
 (E) 30 Push on the Google Ads again
