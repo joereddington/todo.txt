@@ -1,3 +1,4 @@
+(A) Run the Macro code on the next set of slides
 (A Family) 20 Book Disney trains
 (A Students staff ) 20 Brief students on demo day  +RHUL
 (B Kat) 30 Work thought todos on Bloodhound
@@ -59,3 +60,4 @@
 (E) Do a gathering of all the glasses
 (E) Buy haircutting set for leo
 (E) get bin for office 
+(E) Create long-term stress chart
