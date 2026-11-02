@@ -10557,3 +10557,4 @@ x 2026-10-31 10 watch genAI workflow video
 x 2026-10-31 10 Do another Feynman Lecture
 x 2026-10-31 10 Cut Leo's nails +Health @kids 
 x 2026-10-31 20 Delete and then assess task priorities (look at http://127.0.0.1:4000/2017/03/19/making-your-priority-list-actually-work/html first) 
+x 2026-11-02 04 Cut Leo nails +Health    

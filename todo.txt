@@ -16,7 +16,6 @@
 (D) 30 Slime all the tyres  @offline
 (E) 02 Check your vitamin box @offline
 (E) 03 Follow up about Air con
-(E) 04 Cut Leo nails +Health    
 (E) 04 Fill out Gratitude Book  @offline
 (E) 04 Floss +Health   
 (E) 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
