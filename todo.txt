@@ -15,7 +15,6 @@
 (E) 02 Check your vitamin box @offline
 (E) 03 Follow up about Air con
 (E) 04 Fill out Gratitude Book  @offline
-(E) 04 Floss +Health   
 (E) 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) 04 Update Leo calendar
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
@@ -27,7 +26,6 @@
 (E) 10 B&Q trim for the bedroom cupboard 
 (E) 10 Contact dentist
 (E) 10 Empty Joe inbox completely +Overhead    
-(E) 10 Empty whatsapp and facebook inboxes. +Overhead  
 (E) 10 Go through phone and save all of the numbers +Overhead  @phone   
 (E) 10 Process all the 'ongoing' files and make sure they have a live next action or calendar 
 (E) 10 Read Cox (2008) +RHUL
@@ -50,7 +48,6 @@
 (E) 30 Push on the Google Ads again
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
-(E) 40 Do a Speed Delores
 (E) 60 minutes brainstorming time
 (E) Buy haircutting set for leo
 (E) Buy ingredients for iodeen clock 
