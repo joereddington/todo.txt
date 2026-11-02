@@ -10570,3 +10570,5 @@ x 2026-11-02 10 Read Cox (2008) +RHUL
 x 2026-11-02 02 Check your vitamin box @offline
 x 2026-11-02 20 Watson bar charts +RHUL
 x 2026-11-02 16 Wipe older pilot files, generate the next set of regression tests  +RHUL
+x 2026-11-02 03 Follow up about Air con
+x 2026-11-02 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 

@@ -11,9 +11,7 @@
 (D) 15 Setup Mesh for the drain 
 (D) 30 Slime all the tyres  @offline
 (D) Fix Leo's noise maker on the bike
-(E) 03 Follow up about Air con
 (E) 04 Fill out Gratitude Book  @offline
-(E) 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) 04 Update Leo calendar
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 (E) 05 Cut nails +Health    
