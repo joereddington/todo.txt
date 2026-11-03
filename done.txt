@@ -10574,3 +10574,4 @@ x 2026-11-02 03 Follow up about Air con
 x 2026-11-02 04 Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 x 2026-11-02 05 EMail to fidn out if Nova will be needed for both days of the swim competition 
 x 2026-11-02 10 Year plan: check you have 5 projects in each part
+x 2026-11-03 10 Review RHUL projects +RHUL

@@ -23,10 +23,9 @@
 (E) 10 Empty Joe inbox completely +Overhead    
 (E) 10 Go through phone and save all of the numbers +Overhead  @phone   
 (E) 10 Process all the 'ongoing' files and make sure they have a live next action or calendar 
-(E) 10 Review RHUL projects +RHUL
 (E) 10 Review Wheel Of life Projects
 (E) 10 Review projects
-(E) 10 Setup regular iphone backup of phone 
+(E) 10 Setup regular iphone backup of iCloud
 (E) 10 Work out the EQT expenses since 29/08/26
 (E) Free up quite a bit of space on the old hard drive
 (E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +RHUL
