@@ -32,13 +32,13 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) 60 minutes brainstorming time
-(E) Check Disney Express luggage transfer
-(E) Create long-term stress chart
-(E) Do a gathering of all the glasses
-(E) Free up quite a bit of space on the old hard drive @offline
-(E) Make a plan for Nova maths and science 
+(E) Check Disney Express luggage transfer  +A
+x 2026-11-04 Create long-term stress chart
+x 2026-11-04 Do a gathering of all the glasses
+(E) 20 Free up quite a bit of space on the old hard drive @offline
+(E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
-(E) Properly map a photos project to find out if the mac photos are the ones on Google 
+(E) 05 Get external drive and compare with photos on photos app 
 (E) Setup WOMBAT for coursework. 
 (E) Make plans with Kat for Cupboards
 (E) get bin for office 
