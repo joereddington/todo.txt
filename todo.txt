@@ -22,7 +22,7 @@
 (E) 10 Review projects @offline
 (E) 10 Setup regular iphone backup of iCloud
 (E) 10 Work out the EQT expenses since 29/08/26
-(E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +RHUL
+x 2026-11-04 15 review your highlights and notes from kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/kindle%20clippings/my%20clippingsold.txt?role=personal)  +overhead +rhul
 (E) 15 process Garage inbox. 
 (E) 20 Do full accounts algorithm  
 (E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
@@ -33,13 +33,11 @@
 (E) 40 Another Feynman Lecture
 (E) 60 minutes brainstorming time
 (E) Check Disney Express luggage transfer  +A
-x 2026-11-04 Create long-term stress chart
-x 2026-11-04 Do a gathering of all the glasses
 (E) 20 Free up quite a bit of space on the old hard drive @offline
 (E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
 (E) 05 Get external drive and compare with photos on photos app 
-(E) Setup WOMBAT for coursework. 
-(E) Make plans with Kat for Cupboards
-(E) get bin for office 
+(E) 10 Work through the WOMBAT todos
+(E) 10 Make plans with Kat for Cupboards
+(E) 02 get bin for office 
 (F) Buy haircutting set for leo
