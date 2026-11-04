@@ -1,8 +1,8 @@
 (A) Run the Macro code on the next set of slides
 (B Kat) 30 Work thought todos on Bloodhound
 (B) 10 Email for EE students +RHUL
-(C) Kat) build the shelves in the garage
 (C) Find the slides for group exercise 
+(C) Kat) build the shelves in the garage
 (D) 05 order some spare Yale keys @online
 (D) 10 Get PAYG sim for Nova phone 
 (D) 10 Test VC sensor on other side again  @garage
@@ -22,10 +22,8 @@
 (E) 10 Review projects @offline
 (E) 10 Setup regular iphone backup of iCloud
 (E) 10 Work out the EQT expenses since 29/08/26
-(E) Free up quite a bit of space on the old hard drive @offline
 (E) 15 Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead +RHUL
 (E) 15 process Garage inbox. 
-(E) Properly map a photos project to find out if the mac photos are the ones on Google 
 (E) 20 Do full accounts algorithm  
 (E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
 (E) 20 process emotional todo list.  @offline
@@ -34,13 +32,14 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) 60 minutes brainstorming time
-(E) Work out kids breakfast calories
-(E) Make a plan for Nova maths and science 
-(F) Buy haircutting set for leo
 (E) Check Disney Express luggage transfer
 (E) Create long-term stress chart
 (E) Do a gathering of all the glasses
+(E) Free up quite a bit of space on the old hard drive @offline
+(E) Make a plan for Nova maths and science 
 (E) Project to cut down the 398 GB 
-(E) Start sorting cupboards again 
-(E) get bin for office 
+(E) Properly map a photos project to find out if the mac photos are the ones on Google 
 (E) Setup WOMBAT for coursework. 
+(E) Make plans with Kat for Cupboards
+(E) get bin for office 
+(F) Buy haircutting set for leo
