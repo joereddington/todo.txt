@@ -6,36 +6,34 @@
 (D) 10 Get PAYG sim for Nova phone 
 (D) 10 Test VC sensor on other side again  @garage
 (D) 10 Work out the next time you are going up home 
-(D) 15 Setup Mesh for the drain 
 (D) 30 Slime all the tyres  @offline
+(E) 02 get bin for office 
 (E) 04 Fill out Gratitude Book  @offline
 (E) 04 Update Leo calendar @leo
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 (E) 05 Do another review of the circle line
 (E) 05 Floss +Health   
+(E) 05 Get external drive and compare with photos on photos app 
 (E) 10 B&Q trim for the bedroom cupboard 
 (E) 10 Contact dentist @phone
 (E) 10 Empty Joe inbox completely +Overhead    
+(E) 10 Make plans with Kat for Cupboards
 (E) 10 Process all the 'ongoing' files and make sure they have a live next action or calendar 
 (E) 10 Review Wheel Of life Projects @offline
 (E) 10 Review projects @offline
 (E) 10 Setup regular iphone backup of iCloud
 (E) 10 Work out the EQT expenses since 29/08/26
-(F) 15 process Garage inbox. 
+(E) 10 Work through the WOMBAT todos
 (E) 20 Do full accounts algorithm  
+(E) 20 Free up quite a bit of space on the old hard drive @offline
 (E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
-(E) 20 process emotional todo list.  @offline
 (E) 30 Family meeting 
 (E) 30 Push on the Google Ads again
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) 60 minutes brainstorming time
 (E) Check Disney Express luggage transfer  +A
-(E) 20 Free up quite a bit of space on the old hard drive @offline
 (E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
-(E) 05 Get external drive and compare with photos on photos app 
-(E) 10 Work through the WOMBAT todos
-(E) 10 Make plans with Kat for Cupboards
-(E) 02 get bin for office 
+(F) 15 process Garage inbox. 
 (F) Buy haircutting set for leo
