@@ -19,7 +19,6 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) Check Disney Express luggage transfer  
-(E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
 (E) Write the ethics form 
 (F) Buy haircutting set for leo
@@ -30,15 +29,15 @@
 (D) 30 Slime all the tyres  @offline
 (E) 04 Fill out Gratitude Book  @offline
 (E) 05 Do another review of the circle line @offline
-(E) 10 Review projects @offline
 (E) Cut wood for shelves @offline
 (C) Buy the sewing machine @online
 (C) Fill out the dates on your year planner @online
 (C) Print the files for controls exercise @online
 (D) 05 order some spare Yale keys @online
-(D) 10 Get PAYG sim for Nova phone that I can remote add credit to @online
+(D) 10 Get a sim card from Asda
 (E) 10 Work out the EQT expenses since 29/08/26 @online
 (E) 10 Contact dentist @phone
 (E) 03 Bring the 3d printer upstiars 
 (E) Look at the cindy maps and views and batteries
 (E) Write up what is and isn't working about limited internet
+(E) Put bigdisk onto the desktop
