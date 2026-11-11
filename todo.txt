@@ -6,7 +6,7 @@
 (B) Send the next set of disengaged students to Chris  +RHUL 
 (B) Update website for Yvonne 
 (E) 02 get bin for office 
-(E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
+(E) Check the electric car thing again 
 (E) 05 Floss +Health   
 (E) 10 B&Q trim for the bedroom cupboard 
 (E) 10 Make plans with Kat for Cupboards
@@ -19,7 +19,6 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) Check Disney Express luggage transfer  
-x 2026-11-11 Get the GCSE materials 
 (E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
 (E) Write the ethics form 
