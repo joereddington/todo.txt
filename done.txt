@@ -10591,3 +10591,4 @@ x 2026-11-04 Run the Macro code on the next set of slides
 x 2026-11-04 15 review your highlights and notes from kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/kindle%20clippings/my%20clippingsold.txt?role=personal)  +overhead +rhul
 x 2026-11-09 15 Setup Mesh for the drain 
 x 2026-11-09 20 process emotional todo list.  @offline
+x 2026-11-10 Put up the wiki page 
