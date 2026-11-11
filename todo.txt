@@ -40,3 +40,5 @@
 (E) 10 Work out the EQT expenses since 29/08/26 @online
 (E) 10 Contact dentist @phone
 (E) 03 Bring the 3d printer upstiars 
+(E) Look at the cindy maps and views and batteries
+(E) Write up what is and isn't working about limited internet
