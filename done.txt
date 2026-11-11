@@ -10599,3 +10599,4 @@ x 2026-11-11 05 Get external drive and compare with photos on photos app @offlin
 x 2026-11-11 20 Free up quite a bit of space on the old hard drive @offline
 x 2026-11-11 10 Empty Joe inbox completely +Overhead    
 x 2026-11-11 15 process Garage inbox more 
+x 2026-11-11 10 Process all the 'ongoing' files and make sure they have a live next action or calendar  @online
