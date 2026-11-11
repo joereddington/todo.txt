@@ -19,7 +19,7 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) Check Disney Express luggage transfer  
-(E) Get the GCSE materials 
+x 2026-11-11 Get the GCSE materials 
 (E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
 (E) Write the ethics form 
