@@ -1,7 +1,7 @@
 (B Kat) 30 Work thought todos on Bloodhound
 (B) 10 Email for EE students +RHUL
-(B) Email CS about next steps 
-(B) Email maths about next steps
+(B) 03 event Email CS about next steps 
+(B) 03 event Email maths about next steps
 (B) Send the next set of disengaged students to Chris 
 (B) Update website for Yvonne 
 (C) Buy the sewing machine
@@ -39,3 +39,4 @@
 (E) Write the ethics form 
 (F) 15 process Garage inbox more 
 (F) Buy haircutting set for leo
+(E) Cut wood for shelves
