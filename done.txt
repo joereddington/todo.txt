@@ -10605,3 +10605,6 @@ x 2026-11-11 Get the GCSE materials
 x 2026-11-11 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
 x 2026-11-11 Plan out the GCSE project
 x 2026-11-11 10 Review projects @offline
+x 2026-11-11 03 event Email CS about next steps 
+x 2026-11-11 03 event Email maths about next steps
+x 2026-11-11 Send the next set of disengaged students to Chris  +RHUL 
