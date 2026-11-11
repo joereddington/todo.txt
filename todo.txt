@@ -1,31 +1,16 @@
 (A) Work out the submission for formative coursework, book in the lecture time and block out the marking time
-(A) Fill in PDR and send off @offline
 (B Kat) 30 Work thought todos on Bloodhound
 (B) 03 event Email CS about next steps 
 (B) 03 event Email maths about next steps
 (B) 10 Email for EE students +RHUL
 (B) Send the next set of disengaged students to Chris  +RHUL 
 (B) Update website for Yvonne 
-(C) Buy the sewing machine @online
-(C) Fill out the dates on your year planner @online
-(C) Kat) build the shelves in the garage @offline
-(C) Print the files for controls exercise @online
-(D) 05 order some spare Yale keys @online
-(D) 10 Get PAYG sim for Nova phone that I can remote add credit to @online
-(D) 10 Test VC sensor on other side again  @garage
-(D) 30 Slime all the tyres  @offline
 (E) 02 get bin for office 
-(E) 04 Fill out Gratitude Book  @offline
-(E) 04 Update Leo calendar @leo
 (E) 05 Call Advance Leapmotor Watford for a test drive 020 8427 4444
-(E) 05 Do another review of the circle line @offline
 (E) 05 Floss +Health   
 (E) 10 B&Q trim for the bedroom cupboard 
-(E) 10 Contact dentist @phone
 (E) 10 Make plans with Kat for Cupboards
-(E) 10 Review projects @offline
 (E) 10 Setup regular iphone backup of iCloud
-(E) 10 Work out the EQT expenses since 29/08/26 @online
 (E) 10 Work through the WOMBAT todos
 (E) 20 Do full accounts algorithm  
 (E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one 
@@ -34,10 +19,24 @@
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL
 (E) 40 Another Feynman Lecture
 (E) Check Disney Express luggage transfer  
-(E) Cut wood for shelves @offline
 (E) Get the GCSE materials 
 (E) Plan out the GCSE project
 (E) Project to cut down the 398 GB 
-(E) Work the photos project
 (E) Write the ethics form 
 (F) Buy haircutting set for leo
+(D) 10 Test VC sensor on other side again  @garage
+(E) 04 Update Leo calendar @leo
+(A) Fill in PDR and send off @offline
+(C) Kat) build the shelves in the garage @offline
+(D) 30 Slime all the tyres  @offline
+(E) 04 Fill out Gratitude Book  @offline
+(E) 05 Do another review of the circle line @offline
+(E) 10 Review projects @offline
+(E) Cut wood for shelves @offline
+(C) Buy the sewing machine @online
+(C) Fill out the dates on your year planner @online
+(C) Print the files for controls exercise @online
+(D) 05 order some spare Yale keys @online
+(D) 10 Get PAYG sim for Nova phone that I can remote add credit to @online
+(E) 10 Work out the EQT expenses since 29/08/26 @online
+(E) 10 Contact dentist @phone
