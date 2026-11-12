@@ -13,8 +13,8 @@
 (D) 10 Test VC sensor on other side again  @garage
 (D) 30 Slime all the tyres  @offline
 (E) 02 event  Setup regular iphone backup of iCloud  @online
-(E) 04 Fill out Gratitude Book  @offline
 (E) 04 Update Leo calendar @leo @offline
+(E) Post gratitude post @online
 (E) 05 Do another review of the circle line @offline
 (E) 10 B&Q trim for the bedroom cupboard  @car
 (E) 10 Contact dentist @phone
