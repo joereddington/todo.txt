@@ -1,41 +1,35 @@
-(F) Buy haircutting set for leo @offline
-x 2026-11-12 Write up what is and isn't working about limited internet @offline
-x 2026-11-12 Fill out the ethics form  @offline
-(B) Itterate the Ethics form issues @online
-(E) Cut wood for shelves @offline
-(E) Find the backup rsync commands for backing up the external drive to big disk @offline
-(E) 30 Set up topics list for Family meeting  @Offline
-(E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one  @offline
-x 2026-11-12 10 Make plans with Kat for Cupboards  @offline
-(E) 05 Floss +Health    @offline
-(E) 05 Do another review of the circle line @offline
-(E) 04 Fill out Gratitude Book  @offline
-(E) 03 Bring the 3d printer upstiars  @offline
-(E) 02 get bin for office  @offline
-(D) 30 Slime all the tyres  @offline
-(C) Kat) build the shelves in the garage @offline
-(A) Fill in PDR and send off @offline
 (A) Work out the submission for formative coursework, book in the lecture time and block out the marking time @online
+(A) itterate PDR and send off @online
 (B Kat) 30 Work thought todos on Bloodhound @online
 (B) 10 Email for EE students +RHUL @online
 (B) Check website update @online
+(B) Iterate the Ethics form issues @online
 (C) Buy the sewing machine @online
 (C) Fill out the dates on your year planner @online
+(C) Kat) build the shelves in the garage @offline
 (C) Print the files for controls exercise @online
 (D) 05 order some spare Yale keys @online
 (D) 10 Get a sim card from Asda @car
 (D) 10 Test VC sensor on other side again  @garage
+(D) 30 Slime all the tyres  @offline
 (E) 02 event  Setup regular iphone backup of iCloud  @online
-(E) 04 Update Leo calendar @leo
+(E) 04 Fill out Gratitude Book  @offline
+(E) 04 Update Leo calendar @leo @offline
+(E) 05 Do another review of the circle line @offline
 (E) 10 B&Q trim for the bedroom cupboard  @car
 (E) 10 Contact dentist @phone
 (E) 10 Work out the EQT expenses since 29/08/26 @online
 (E) 10 Work through the WOMBAT todos @online
 (E) 20 Do full accounts algorithm   @online
+(E) 20 Read 10 pages of the official "paper book you are reading" or throw it away and pick a new one  @offline
 (E) 30 Push on the Google Ads again @online
 (E) 30 Run mgit status on the git directory and process all alerts  +RHUL @online
+(E) 30 Set up topics list for Family meeting  @Offline
 (E) 40 Another Feynman Lecture @online
 (E) Check Disney Express luggage transfer   @online
 (E) Check the electric car thing again  @online
+(E) Cut wood for shelves @offline
+(E) Find the backup rsync commands for backing up the external drive to big disk @offline
 (E) Look at the cindy maps and views and batteries
 (E) Sort out bricklink  @online
+(F) Buy haircutting set for leo @offline
