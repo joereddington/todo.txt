@@ -10617,3 +10617,9 @@ x 2026-11-12 05 Floss +Health    @offline
 x 2026-11-12 03 Bring the 3d printer upstiars  @offline
 x 2026-11-12 02 get bin for office  @offline
 x 2026-11-12 04 Fill out Gratitude Book  @offline
+x 2026-11-17 Print the files for controls exercise @online
+x 2026-11-17 Iterate the Ethics form issues @online
+x 2026-11-17 itterate PDR and send off @online
+x 2026-11-17 05 order some spare Yale keys @online
+x 2026-11-17 Post gratitude post @online
+x 2026-11-17 10 Email for EE students +RHUL @online
