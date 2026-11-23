@@ -1,21 +1,17 @@
-x 2026-11-21 Work out the submission for formative coursework, book in the lecture time and block out the marking time @online
-(E) Look up car annual millage 
-(C) Book a Test drive for a Citroen e-C3 
-(E) Write the feedback quiz 
-(C) Work out the scripts for properly dealing with the photo downloads
-(C) Make proper risk assessent 
-(C) Login to CloudFlare
 (B Kat) 30 Work thought todos on Bloodhound @online
 (B) Check website update @online
-(C) Write the risk assessment
+(C) Book a Test drive for a Citroen e-C3 
 (C) Buy the sewing machine @online
 (C) Fill out the dates on your year planner @online
 (C) Kat) build the shelves in the garage @offline
+(C) Login to CloudFlare
+(C) Make proper risk assessent 
+(C) Work out the scripts for properly dealing with the photo downloads
+(C) Write the risk assessment
 (D) 10 Get a sim card from Asda @car
 (D) 10 Test VC sensor on other side again  @garage
 (D) 30 Slime all the tyres  @offline
 (E) 02 event  Setup regular iphone backup of iCloud  @online
-(E) Set up allocation for presentations 
 (E) 04 Update Leo calendar @leo @offline
 (E) 05 Do another review of the circle line @offline
 (E) 10 B&Q trim for the bedroom cupboard  @car
@@ -30,4 +26,7 @@ x 2026-11-21 Work out the submission for formative coursework, book in the lectu
 (E) 40 Another Feynman Lecture @online
 (E) Check Disney Express luggage transfer   @online
 (E) Cut wood for shelves @offline
+(E) Look up car annual millage 
+(E) Set up allocation for presentations 
+(E) Write the feedback quiz 
 (F) Buy haircutting set for leo @offline
