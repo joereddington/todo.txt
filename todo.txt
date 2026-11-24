@@ -66,6 +66,7 @@
 (E) Empty Joe inbox completely +Overhead    
 (E) Empty whatsapp and facebook inboxes. +Overhead  
 (E) Floss +Health   
+(E) Get £20 in 10ps for Nova and Leo 
 (E) Give laptop screen a good clean +Overhead
 (E) Go though documents folder and put everything you want to save in Dropbox.
 (E) Go thought calendar and find at least one 'thank you's  you *can* make  +Overhead  
@@ -83,6 +84,7 @@
 (E) Review (days since) app counts +Overhead  https://joereddington.github.io/2020/09/18/dayssince.html 
 (E) Review Menu speadsheet for the week +Family  @phone   
 (E) Review starred items in feeds +Overhead 
+(E) Review the savings rates spreadsheet
 (E) Review your highlights and notes from Kindle books (https://read.amazon.com/notebook)  (https://www.dropbox.com/preview/Kindle%20Clippings/My%20Clippingsold.txt?role=personal)  +Overhead
 (E) Run the ICO backup code
 (E) Save a nice family memory +Family @phone    
@@ -90,8 +92,6 @@
 (E) Spend 20 minutes or so considering the fruits of long term goals +Overhead +EQT
 (E) Trim nose hair +Health    
 (E) Upgrade the NOT NO don't won't things 
-(E) Get £20 in 10ps for Nova and Leo 
-(E) Review the savings rates spreadsheet
 (E) Write the feedback quiz 
 (E) process Garage inbox. 
 (F) Buy haircutting set for leo @offline
